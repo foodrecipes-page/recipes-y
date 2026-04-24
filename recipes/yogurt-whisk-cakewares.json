@@ -1,0 +1,67 @@
+{
+  "title": "Yogurt Whisk Cakewares",
+  "description": "A chewy fermented dish featuring yogurt and whisk, perfect for a brunch mood with its Ukrainian flavor and texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Plain Yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "100g"
+    },
+    {
+      "name": "Arrowroot Starch",
+      "amount": "50g"
+    },
+    {
+      "name": "Water",
+      "amount": "30ml"
+    },
+    {
+      "name": "Vanilla Essence",
+      "amount": "2-3 drops"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). In a bowl, mix yogurt, almond flour, arrowroot starch, water, and vanilla essence.",
+    "Transfer the mixture into a mold-lined baking tray. Bake for about 25 minutes until firm and golden brown.",
+    "Let it cool down before serving as a dessert or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "yogurt",
+    "whisk",
+    "fermented",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 2
+  },
+  "slug": "yogurt-whisk-cakewares",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-whisk-cakewares",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:46:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "yogurt",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

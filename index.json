@@ -1,9 +1,15 @@
-{
-  "version": 1,
-  "shard": "y",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'y''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-y@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "yogurt-whisk-cakewares",
+    "title": "Yogurt Whisk Cakewares",
+    "tags": [
+      "yogurt",
+      "whisk",
+      "fermented",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  }
+]

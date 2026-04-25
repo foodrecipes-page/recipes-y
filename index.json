@@ -62,5 +62,17 @@
     "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yukon-medley",
+    "title": "Yukon Medley",
+    "tags": [
+      "yukon-gold-potatoes",
+      "tangy-creamy-dish",
+      "dash-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "y"
   }
 ]

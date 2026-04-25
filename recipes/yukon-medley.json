@@ -1,0 +1,75 @@
+{
+  "title": "Yukon Medley",
+  "description": "A tangy and creamy Mediterranean-inspired dish featuring Yukon gold potatoes roasted with a blend of herbs and spices for a quick weeknight meal.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon Gold Potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chopped Fresh Herbs (parsley, thyme)",
+      "notes": "About 1 cup combined"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "a few twists"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "notes": "To taste"
+    },
+    {
+      "name": "Greek Yogurt or Greek Feta Cheese (for serving)",
+      "amount": "optional, as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F.",
+    "Peel the Yukon Gold Potatoes and cut them into bite-sized chunks. Rinse under cold water to remove any dirt.",
+    "In a large mixing bowl, toss the potatoes with olive oil until well coated. Add minced garlic, chopped herbs, red pepper flakes, salt, and pepper. Toss gently to combine evenly.",
+    "Spread the potato mixture in an even layer on a baking sheet lined with parchment paper or aluminum foil.",
+    "Bake for 25-30 minutes, tossing occasionally, until the potatoes are golden brown and tender.",
+    "Serve hot as is or drizzled with Greek yogurt or crumbled feta cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "yukon-gold-potatoes",
+    "tangy-creamy-dish",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 10,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "yukon-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yukon-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:44:31Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "dash",
+    "region": null
+  }
+}

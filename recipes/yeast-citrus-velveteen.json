@@ -1,0 +1,95 @@
+{
+  "title": "Yeast Citrus Velveteen",
+  "description": "A citrusy and velvety one-pot Kenyan dish featuring instant yeast cooked in a keto-friendly manner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Instant Yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Lemon Zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cilantro, chopped (for garnish)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pot over medium heat.",
+    "Add diced onion and minced garlic; sauté until softened.",
+    "Stir in tomato puree, lemon zest, lime juice, salt, and black pepper. Let it simmer for about 5 minutes.",
+    "Crush the instant yeast into a small bowl with water to activate (let sit for at least 10 seconds).",
+    "Pour the activated yeast solution over the onion mixture and stir well to combine.",
+    "Simmer for another 2-3 minutes until thickened slightly, stirring occasionally.",
+    "Serve hot as a side dish or main course. Garnish with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "yeast",
+    "citrus",
+    "velvety",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 8,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "yeast-citrus-velveteen",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeast-citrus-velveteen",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:45:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "instant yeast",
+    "diet": "keto",
+    "region": null
+  }
+}

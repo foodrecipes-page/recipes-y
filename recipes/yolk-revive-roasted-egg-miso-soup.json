@@ -1,0 +1,76 @@
+{
+  "title": "Yolk Revive Roasted Egg Miso Soup",
+  "description": "A low-fat-friendly Japanese dish featuring bitter and velvety roasted egg yolks in a miso broth to aid hangover recovery.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg Yolks",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil or Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Soy Sauce (Shio Miso)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Clove",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Crack the egg yolks into a mixing bowl. Add miso paste, vegetable oil, soy sauce, and crushed garlic.",
+    "Mix all ingredients well until you achieve a creamy consistency.",
+    "Transfer the mixture evenly onto a baking sheet lined with parchment paper.",
+    "Roast in preheated oven for 20 minutes or until golden brown on top and fragrant.",
+    "While waiting, heat water to boiling in a saucepan. Once boiling, add miso mixture and stir until dissolved.",
+    "Adjust seasoning if needed and serve hot with additional soy sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "hangover",
+    "japanese",
+    "vegan",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "yolk-revive-roasted-egg-miso-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yolk-revive-roasted-egg-miso-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:42:50Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "egg yolks",
+    "diet": "low-fat",
+    "region": null
+  }
+}

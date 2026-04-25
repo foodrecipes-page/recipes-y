@@ -12,6 +12,18 @@
     "shard": "y"
   },
   {
+    "slug": "yogurt-caprese",
+    "title": "Yogurt Caprese",
+    "tags": [
+      "yogurt",
+      "caprese",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Italian (Ligurian)",
+    "totalTimeMin": 10,
+    "shard": "y"
+  },
+  {
     "slug": "yogurt-whisk-cakewares",
     "title": "Yogurt Whisk Cakewares",
     "tags": [

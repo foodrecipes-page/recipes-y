@@ -1,0 +1,69 @@
+{
+  "title": "Yogurt Caprese",
+  "description": "An earthy and light Italian (Ligurian) dish featuring full fat yogurt as a base with ripe tomatoes, fresh mozzarella, basil leaves, and a touch of balsamic reduction for a diabetic-friendly breakfast option.",
+  "cuisine": "Italian (Ligurian)",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "full fat yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ripe tomatoes",
+      "amount": "4 medium-sized"
+    },
+    {
+      "name": "fresh mozzarella balls",
+      "amount": "2 oz each"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "handful fresh"
+    },
+    {
+      "name": "balsamic reduction",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop tomatoes into small cubes.",
+    "Halve and remove the cores from the mozzarella balls.",
+    "Gently fold halved mozzarella slices on top of each tomato half in a plate.",
+    "Top with yogurt, ensuring to cover all tomatoes and mozzarella evenly.",
+    "Drizzle balsamic reduction over the entire dish for extra flavoring.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "yogurt",
+    "caprese",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "yogurt-caprese",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-caprese",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:27:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "diabetic-friendly",
+    "region": "ligurian"
+  }
+}

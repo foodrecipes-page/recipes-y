@@ -1,0 +1,67 @@
+{
+  "title": "Yellow Poached Eggs with Flaxseed Crackers",
+  "description": "A savory and flaky American dish featuring yellow food coloring to enhance the vibrant appearance of poached eggs, complemented by whole30-friendly flaxseed crackers for a brunch mood.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Whole milk or water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yellow food coloring gel capsule (optional)",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Flaxseed crackers",
+      "amount": "6-8 pieces"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of whole milk or water to a boil over medium-high heat.",
+    "Gently crack the eggs into the boiling liquid, making sure not to break the yolks too much. If using yellow food coloring, add it now and gently stir in until desired color is achieved.",
+    "Reduce heat to low and allow eggs to poach for about 3-4 minutes or until whites are set but yolks remain soft. Use a slotted spoon to transfer eggs to a plate lined with paper towels to drain excess water.",
+    "To serve, place a poached egg on each cracker along with a sprinkle of salt and pepper if desired. Enjoy immediately for best texture and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poached eggs",
+    "flaxseed crackers",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 12,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "yellow-poached-eggs-with-flaxseed-crackers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-poached-eggs-with-flaxseed-crackers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:14:50Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "whole30",
+    "region": null
+  }
+}

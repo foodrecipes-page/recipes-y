@@ -1,0 +1,66 @@
+{
+  "title": "Yogurt Trescalette",
+  "description": "A salty and dense Tunisian dish featuring greek yogurt that is cooked under pressure to create a mediterranean-friendly dessert.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Greek Yogurt",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "1-2 teaspoons"
+    },
+    {
+      "name": "Coarse Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine Greek yogurt, sesame seeds, feta cheese, crushed red pepper flakes, and coarse salt in a pressure cooker.",
+    "Pressure cook for about 20 minutes at high pressure.",
+    "Allow to naturally release pressure before opening the lid.",
+    "Stir gently until all ingredients are fully combined and creamy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "yogurt",
+    "pressure-cooked",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 20,
+    "carbs": 7,
+    "fat": 6
+  },
+  "slug": "yogurt-trescalette",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-trescalette",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:00:50Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "greek yogurt",
+    "diet": "mediterranean",
+    "region": null
+  }
+}

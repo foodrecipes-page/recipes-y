@@ -37,6 +37,19 @@
     "shard": "y"
   },
   {
+    "slug": "yogurt-trescalette",
+    "title": "Yogurt Trescalette",
+    "tags": [
+      "tunisian",
+      "yogurt",
+      "pressure-cooked",
+      "dessert"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yogurt-whisk-cakewares",
     "title": "Yogurt Whisk Cakewares",
     "tags": [

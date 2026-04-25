@@ -25,6 +25,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-fold-delight",
+    "title": "Yellow Fold Delight",
+    "tags": [
+      "algerian",
+      "earthly",
+      "fluffy",
+      "festive",
+      "yellow_split_peas"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yogurt-caprese",
     "title": "Yogurt Caprese",
     "tags": [

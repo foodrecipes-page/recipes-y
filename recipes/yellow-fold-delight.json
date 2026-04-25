@@ -1,0 +1,74 @@
+{
+  "title": "Yellow Fold Delight",
+  "description": "An earthy and fluffy Algerian dish featuring yellow split peas folded into a festive mixture for a low-sodium-friendly breakfast option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "4 cups yellow split peas",
+      "amount": "cup(s)",
+      "notes": "Soaked for at least 6 hours or overnight"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoon(s)"
+    },
+    {
+      "name": "1 medium onion, diced",
+      "amount": "piece"
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "clove(s)"
+    },
+    {
+      "name": "1 cup diced tomatoes (fresh or canned)",
+      "amount": "cup"
+    },
+    {
+      "name": "2 teaspoons dried coriander seeds",
+      "amount": "teaspoon(s)"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat. Add onion and garlic, cooking until translucent.",
+    "Stir in split peas, tomatoes, and coriander seeds. Season with salt and pepper to taste.",
+    "Simmer mixture for about 20 minutes or until the peas are soft and fully cooked.",
+    "Fold the cooked mixture gently into a bowl to achieve an earthy consistency."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "earthly",
+    "fluffy",
+    "festive",
+    "yellow_split_peas"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 14,
+    "carbs": 39,
+    "fat": 6
+  },
+  "slug": "yellow-fold-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-fold-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:36:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "yellow split peas",
+    "diet": "low-sodium",
+    "region": null
+  }
+}

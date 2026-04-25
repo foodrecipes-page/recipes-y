@@ -1,0 +1,89 @@
+{
+  "title": "Vegan Yukon Muffin",
+  "description": "A festive French dish featuring nutty and crumbly yukon gold potatoes in a vegan-friendly muffin recipe.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yukon Gold Potatoes",
+      "amount": "1 (200g)",
+      "notes": "Peel and dice"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/3 cup",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Almond Meal (or Almond Flour for gluten-free option)",
+      "amount": "2 tablespoons",
+      "notes": "Substitute with oat flour for a more crumbly texture"
+    },
+    {
+      "name": "Vegan Butter or Coconut Oil",
+      "amount": "3 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Water (or almond milk)",
+      "amount": "1/4 cup",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Vegan Milk or Almond Milk",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for better texture and taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease muffin tins.",
+    "Mix yukon gold potatoes with brown sugar until smooth. Add flour and almond meal/brown flour, salt, and water or milk. Mix well.",
+    "Fill muffin cups about 2/3 full with the potato mixture.",
+    "Bake for 18-20 minutes or until tops are golden brown. Let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "yukon_gold_potatoes",
+    "muffin",
+    "vegan",
+    "nutty",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 26,
+    "fat": 8
+  },
+  "slug": "yuko-muffin",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yuko-muffin",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:20:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "vegan",
+    "region": null
+  }
+}

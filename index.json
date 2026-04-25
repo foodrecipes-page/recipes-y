@@ -23,5 +23,19 @@
     "cuisine": "Ukrainian",
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yuko-muffin",
+    "title": "Vegan Yukon Muffin",
+    "tags": [
+      "yukon_gold_potatoes",
+      "muffin",
+      "vegan",
+      "nutty",
+      "crumbly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

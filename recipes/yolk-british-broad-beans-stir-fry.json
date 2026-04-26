@@ -1,0 +1,76 @@
+{
+  "title": "Yolk British Broad Beans Stir-fry",
+  "description": "An earthy and chewy dish featuring broad beans with a dash-friendly twist, perfect for lazy Sunday meals.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broad Beans",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "Chili Peppers (optional)",
+      "amount": "1-2 pieces"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Dashi or Soy Sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse and pick out the tough outer pods of the broad beans. Set aside.",
+    "Finely chop the garlic cloves. If using chili peppers, finely slice them as well.",
+    "Heat a wok or large frying pan with vegetable oil over medium-high heat. Add chopped garlic and chili peppers (if used) to sauté for 1-2 minutes until fragrant.",
+    "Add rinsed broad beans to the wok and stir fry for about 3-5 minutes, making sure they are evenly coated in the garlic and oil mixture.",
+    "Toss in red pepper flakes to taste. If using dash-friendly sauce like Dashi or Soy Sauce, add this at the end of the cooking process to avoid overcooking the beans.",
+    "Serve hot with a side dish of your choice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broad-beans",
+    "british-dishes",
+    "lazy-sunday",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "yolk-british-broad-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yolk-british-broad-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:24:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "broad beans",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Broad Beans",
+    "descriptor": "Egg Yolk",
+    "dishForm": "Stir-fry"
+  }
+}

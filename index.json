@@ -89,6 +89,19 @@
     "shard": "y"
   },
   {
+    "slug": "yolk-british-broad-beans-stir-fry",
+    "title": "Yolk British Broad Beans Stir-fry",
+    "tags": [
+      "broad-beans",
+      "british-dishes",
+      "lazy-sunday",
+      "stir-fry"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yolk-revive-roasted-egg-miso-soup",
     "title": "Yolk Revive Roasted Egg Miso Soup",
     "tags": [

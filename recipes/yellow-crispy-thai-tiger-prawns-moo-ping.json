@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Crispy Thai Tiger Prawns Moo Ping",
+  "description": "A spicy and crispy Thai dish featuring tiger prawns, perfect for a monsoon evening, this low-fat-friendly recipe is a twist on the traditional moo ping street food, with the added benefit of being steamed in leaves for extra flavor",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "12 large",
+      "notes": "for wrapping and steaming"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together rice flour, cornstarch, and a pinch of salt.",
+    "Add the coconut milk, fish sauce, lime juice, and Thai red curry paste to the bowl and stir until a smooth batter forms.",
+    "Add the tiger prawns to the batter and mix until they are well coated.",
+    "Cut the banana leaves into large squares and brush with a little water.",
+    "Place a few prawns in the center of each banana leaf square.",
+    "Fold the banana leaves over the prawns to form a tight package and steam for 5 minutes.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Remove the prawns from the banana leaves and fry until crispy and golden brown.",
+    "Drain the prawns on paper towels and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "fried",
+    "low-fat",
+    "seafood",
+    "spicy",
+    "steamed",
+    "thai-street-food"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "yellow-crispy-thai-tiger-prawns-moo-ping",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crispy-thai-tiger-prawns-moo-ping",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:51:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "tiger prawns",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "Yellow Crispy",
+    "dishForm": "Moo Ping"
+  }
+}

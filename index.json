@@ -71,6 +71,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crispy-thai-tiger-prawns-moo-ping",
+    "title": "Yellow Crispy Thai Tiger Prawns Moo Ping",
+    "tags": [
+      "crispy",
+      "fried",
+      "low-fat",
+      "seafood",
+      "spicy",
+      "steamed",
+      "thai-street-food"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crunchy-chinese-chinese-leaf-stir-fry",
     "title": "Yellow Crunchy Chinese Chinese Leaf Stir Fry",
     "tags": [
@@ -168,6 +184,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-indulgent-saudi-arabian-lamb-kebabs",
+    "title": "Yellowed Indulgent Saudi Arabian Lamb Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "special-occasion",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

@@ -1,0 +1,109 @@
+{
+  "title": "Yellowed Indulgent Saudi Arabian Lamb Kebabs",
+  "description": "A malty, shattering, indulgent Saudi-Arabian dish featuring Sichuan pepper and tadka, this kosher-friendly recipe is perfect for special occasions. The combination of flavors and textures will leave you wanting more.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "2 tablespoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure the grates are clean and brush them with oil to prevent sticking.",
+    "In a large bowl, whisk together the toasted Sichuan pepper, coriander, cumin, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together the melted ghee, yogurt, lemon juice, and garlic.",
+    "Brush the mixture onto the lamb cubes, making sure they are well coated.",
+    "Grill the kebabs for 8-10 minutes per side, or until they are cooked to the desired level of doneness.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh cilantro and a side of tadka sauce if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "yellowed-indulgent-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-indulgent-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:51:44Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Indulgent",
+    "dishForm": "Kebabs"
+  }
+}

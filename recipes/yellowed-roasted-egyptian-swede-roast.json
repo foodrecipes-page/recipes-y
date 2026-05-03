@@ -1,0 +1,87 @@
+{
+  "title": "Yellowed Roasted Egyptian Swede Roast",
+  "description": "A keto-friendly Egyptian dish featuring roasted swede with a yuzu cure, resulting in a bouncy and indulgent treat. This recipe combines the sweetness of swede with the tanginess of yuzu.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the swede cubes with olive oil, salt, black pepper, garlic powder, and paprika until they are evenly coated.",
+    "Spread the swede cubes in a single layer on a baking sheet lined with parchment paper.",
+    "Roast the swede in the preheated oven for 30 minutes, or until it is tender and lightly browned.",
+    "While the swede is roasting, mix the yuzu juice with 2 tablespoons of water in a small bowl.",
+    "After the swede has roasted for 30 minutes, brush the yuzu juice mixture evenly over the swede cubes.",
+    "Return the swede to the oven and continue roasting for an additional 10-15 minutes, or until it is caramelized and yellowed.",
+    "Remove the swede from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "low-carb",
+    "middle-eastern",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "yellowed-roasted-egyptian-swede-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-roasted-egyptian-swede-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:42:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "swede",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "swede",
+    "descriptor": "Yellowed Roasted",
+    "dishForm": "Roast"
+  }
+}

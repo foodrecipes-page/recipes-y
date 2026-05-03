@@ -185,6 +185,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-roasted-egyptian-swede-roast",
+    "title": "Yellowed Roasted Egyptian Swede Roast",
+    "tags": [
+      "comfort-food",
+      "keto-friendly",
+      "low-carb",
+      "middle-eastern",
+      "roasted-vegetables"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 65,
+    "shard": "y"
+  },
+  {
     "slug": "yogurt-caprese",
     "title": "Yogurt Caprese",
     "tags": [
@@ -383,6 +397,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-slovakian-salmon-ceviche",
+    "title": "Yummy Slovakian Salmon Ceviche",
+    "tags": [
+      "fresh",
+      "high-protein",
+      "low-carb",
+      "pescatarian",
+      "quick-meal",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

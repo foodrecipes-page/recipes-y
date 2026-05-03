@@ -1,0 +1,108 @@
+{
+  "title": "Yummy Slovakian Salmon Ceviche",
+  "description": "Spicy, bouncy-qq ceviche featuring strawberries and cured salmon, perfect for a sick-day Slovakian treat.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "200g",
+      "notes": "raw, skin removed"
+    },
+    {
+      "name": "strawberries",
+      "amount": "150g",
+      "notes": "fresh, sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "60ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "red onion",
+      "amount": "30g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "jalapeno",
+      "amount": "5g",
+      "notes": "seeded, finely chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "5g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g",
+      "notes": "1/2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1g",
+      "notes": "optional, 1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml",
+      "notes": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the salmon fillet under cold water and pat dry with a paper towel.",
+    "Dice the salmon into 1 cm cubes and place in a bowl.",
+    "Finely chop the strawberries and add them to the salmon.",
+    "Mince the red onion, jalapeno, and cilantro, then stir into the bowl.",
+    "Pour the lime juice over the mixture and toss gently to combine.",
+    "Add sea salt, black pepper, sugar, and olive oil, mixing until evenly coated.",
+    "Cover the bowl with plastic wrap and refrigerate for 15 minutes to cure the fish.",
+    "Serve chilled immediately, garnished with extra cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "high-protein",
+    "low-carb",
+    "pescatarian",
+    "quick-meal",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 617,
+    "protein": 48,
+    "carbs": 22,
+    "fat": 39
+  },
+  "slug": "yummy-slovakian-salmon-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-slovakian-salmon-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:43:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "cure",
+    "primaryIngredient": "strawberries",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Yummy",
+    "dishForm": "Ceviche"
+  }
+}

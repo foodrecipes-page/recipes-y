@@ -1,0 +1,122 @@
+{
+  "title": "Yeasty Ethiopian Almond Wrap",
+  "description": "A fluffy, bouncy brunch wrap infused with toasted almonds and fragrant Ethiopian spices. Wraps are baked in parchment for a moist, papillote finish and are kosher-friendly for a wholesome start to your day.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "200g",
+      "notes": "kosher flour"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "5g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "10g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Warm milk",
+      "amount": "120ml",
+      "notes": "about 40C"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Toasted almonds",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, sugar and salt in a large bowl until mixed.",
+    "Whisk warm milk, egg and oil in a separate bowl, then pour over dry ingredients and stir until dough forms.",
+    "Knead the dough on a floured surface for 10 minutes until smooth and elastic.",
+    "Fold in toasted almonds, berbere spice, cumin, honey and parsley, mixing until evenly distributed.",
+    "Cover the dough, let rise in a warm place for 60 minutes or until doubled in size.",
+    "Divide the dough into three equal portions, roll each into a flat rectangle.",
+    "Place a spoonful of almond mixture in the center of each rectangle, fold over and seal the edges to form a wrap.",
+    "Wrap each completed wrap in parchment paper, sealing the top with foil.",
+    "Bake the parchment-wrapped wraps at 200C for 20 minutes.",
+    "Remove from oven, let rest for 5 minutes before unfolding.",
+    "Drizzle a little extra honey over each wrap and serve warm.",
+    "Enjoy a yeasty, almond-infused brunch treat that feels like a breakfast pastry and a savory snack all in one."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "brunch",
+    "kosher-friendly",
+    "papillote",
+    "quick",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "yeasty-ethiopian-almond-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-ethiopian-almond-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:21:50Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "papillote",
+    "primaryIngredient": "almonds",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "almonds",
+    "descriptor": "Yeasty",
+    "dishForm": "Wrap"
+  }
+}

@@ -244,6 +244,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-algerian-chicken-kebabs",
+    "title": "Yummy Algerian Chicken Kebabs",
+    "tags": [
+      "algerian-cuisine",
+      "chewy-kebabs",
+      "high-protein",
+      "mustardy",
+      "post-workout",
+      "quick-meal",
+      "tandoor-cook"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-australian-bacon-hash",
     "title": "Yummy Australian Bacon Hash",
     "tags": [

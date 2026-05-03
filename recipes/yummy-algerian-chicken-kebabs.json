@@ -1,0 +1,100 @@
+{
+  "title": "Yummy Algerian Chicken Kebabs",
+  "description": "Mustardy, chewy, high-protein kebabs cooked in a tandoor, perfect for a post-workout boost.",
+  "cuisine": "Algerian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast (boneless, skinless)",
+      "amount": "500g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Yellow food coloring",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves minced",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine yogurt, mustard, yellow food coloring, cumin, paprika, garlic, salt, pepper, and olive oil to make a thick paste.",
+    "Add diced chicken pieces to the sauce, stir until fully coated, and refrigerate for at least 1 hour to marinate.",
+    "Preheat a tandoor or oven to 220°C (430°F) and line a grill rack with foil.",
+    "Thread marinated chicken onto skewers, leaving small gaps between pieces.",
+    "Brush the skewers lightly with remaining sauce to keep them moist during cooking.",
+    "Place the skewers on the grill rack and cook for 12–15 minutes, turning halfway, until chicken is cooked through and slightly charred.",
+    "Remove from heat, let rest 5 minutes, then serve hot with lemon wedges or a yogurt dip.",
+    "Pair with a side of roasted vegetables or a fresh salad for a balanced post-workout meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "chewy-kebabs",
+    "high-protein",
+    "mustardy",
+    "post-workout",
+    "quick-meal",
+    "tandoor-cook"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 41,
+    "carbs": 3,
+    "fat": 8
+  },
+  "slug": "yummy-algerian-chicken-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-algerian-chicken-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:23:41Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "tandoor",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Yummy",
+    "dishForm": "Kebabs"
+  }
+}

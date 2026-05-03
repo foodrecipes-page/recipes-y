@@ -25,6 +25,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-citrusy-american-steak-skewers",
+    "title": "Yellow Citrusy American Steak Skewers",
+    "tags": [
+      "chimichurri",
+      "gluten-free",
+      "grilled",
+      "paleo",
+      "steak",
+      "whole30"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crunchy-chinese-chinese-leaf-stir-fry",
     "title": "Yellow Crunchy Chinese Chinese Leaf Stir Fry",
     "tags": [
@@ -256,6 +271,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 23,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-syrian-kabanos-skewers",
+    "title": "Yummy Syrian Kabanos Skewers",
+    "tags": [
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "quick",
+      "savory"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 20,
     "shard": "y"
   }
 ]

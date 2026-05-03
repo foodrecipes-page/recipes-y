@@ -1,0 +1,92 @@
+{
+  "title": "Yummy Syrian Kabanos Skewers",
+  "description": "Peppery, crispy, festive skewers featuring Polish kabanos flavored with sumac and pomegranate molasses for a keto-friendly bite.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish kabanos",
+      "amount": "200 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to high and place rack in middle position.",
+    "Thread 5-6 1-inch cubes of kabanos onto skewers, spacing evenly.",
+    "Whisk olive oil, sumac, lemon zest, pomegranate molasses, oregano, salt, and pepper until well blended.",
+    "Brush mixture generously over each skewer, ensuring full coverage.",
+    "Broil skewers 3-4 minutes per side, until skin crisps and edges char slightly.",
+    "Remove from oven, sprinkle chopped mint over skewers.",
+    "Serve hot, optionally squeezing fresh lemon juice on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "quick",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 890,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 83
+  },
+  "slug": "yummy-syrian-kabanos-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-syrian-kabanos-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:10:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "broil",
+    "primaryIngredient": "polish kabanos",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "kabanos",
+    "descriptor": "Yummy",
+    "dishForm": "Skewers"
+  }
+}

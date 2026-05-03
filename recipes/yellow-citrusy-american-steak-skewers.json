@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Citrusy American Steak Skewers",
+  "description": "A citrusy and adventurous American dish featuring grilled steak skewers with a tangy chimichurri sauce, perfect for a Whole30-friendly dinner. The combination of citrus and herbs creates a unique flavor profile.",
+  "cuisine": "American",
+  "diet": [
+    "Whole30",
+    "Paleo",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed steak",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, orange juice, garlic, red pepper flakes, salt, and black pepper.",
+    "Add the chopped parsley and oregano to the bowl and stir to combine.",
+    "Thread the steak cubes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the steak reaches an internal temperature of 130 degrees Fahrenheit.",
+    "While the skewers are grilling, stir the chimichurri sauce ingredients together in a bowl.",
+    "Serve the grilled skewers with the chimichurri sauce spooned over the top.",
+    "Garnish with additional parsley and oregano, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chimichurri",
+    "gluten-free",
+    "grilled",
+    "paleo",
+    "steak",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "yellow-citrusy-american-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-citrusy-american-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:10:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "steak",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Skewers"
+  }
+}

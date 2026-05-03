@@ -1,0 +1,110 @@
+{
+  "title": "Yellow Silky Middle Eastern Beetroot Maqluba",
+  "description": "A kid-friendly Middle Eastern dish featuring beetroot, this maqluba is peppery, silky, and paleo-friendly, made with dry brine and delicious spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "dry brine"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the beetroot and cauliflower with 1 tablespoon of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the beetroot and cauliflower mixture in a single layer on a baking sheet and roast for 30 minutes.",
+    "In a large skillet, heat the remaining 1 tablespoon of olive oil over medium heat and saute the onion and garlic until they are softened.",
+    "Add the cumin, coriander, and paprika to the skillet and cook for 1 minute, stirring constantly.",
+    "In a large serving dish, create a layer of the roasted beetroot and cauliflower mixture.",
+    "Add a layer of the onion and spice mixture on top of the beetroot layer.",
+    "Repeat the layers until all the ingredients are used, ending with a layer of beetroot on top.",
+    "Cover the dish with a lid and simmer over low heat for 10 minutes.",
+    "Remove the lid and let the maqluba rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "middle-eastern",
+    "one-pan",
+    "paleo-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "yellow-silky-middle-eastern-beetroot-maqluba",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-silky-middle-eastern-beetroot-maqluba",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:30:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "brine-dry",
+    "primaryIngredient": "beetroot",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "beetroot",
+    "descriptor": "Yellow Silky",
+    "dishForm": "Maqluba"
+  }
+}

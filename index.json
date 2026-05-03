@@ -200,6 +200,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-australian-bacon-hash",
+    "title": "Yummy Australian Bacon Hash",
+    "tags": [
+      "bacon",
+      "brunch",
+      "comfort-food",
+      "hash",
+      "nut-free",
+      "one-pan",
+      "quick"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-sour-mexican-mushrooms-toast",
     "title": "yummy sour mexican mushrooms toast",
     "tags": [

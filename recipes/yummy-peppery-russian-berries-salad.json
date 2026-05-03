@@ -1,0 +1,104 @@
+{
+  "title": "Yummy Peppery Russian Berries Salad",
+  "description": "A comforting, peppery Russian-inspired salad featuring tender boiled potatoes, eggs, cucumber, crumbled feta, and sweet frozen mixed berries for a quick sugar-free boost.",
+  "cuisine": "Russian",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Frozen mixed berries",
+      "amount": "300g"
+    },
+    {
+      "name": "Boiled potatoes",
+      "amount": "300g"
+    },
+    {
+      "name": "Boiled eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup diced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tablespoons chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Boil diced potatoes in salted water for 10 minutes until tender then drain and cool to room temperature.",
+    "Simultaneously boil eggs for 9 minutes, then cool in ice water, peel, and quarter them.",
+    "Thaw frozen mixed berries by leaving them at room temperature for 10 minutes; drain excess liquid.",
+    "In a large bowl, combine diced potatoes, quartered eggs, diced cucumber, and thawed berries.",
+    "Add chopped dill, crumbled feta, and walnuts to the bowl.",
+    "In a small bowl, whisk together olive oil, lemon juice, salt, and black pepper until combined.",
+    "Pour the dressing over the salad and gently toss to coat all ingredients evenly.",
+    "Taste and adjust seasoning, adding more salt or pepper if desired.",
+    "Chill the salad for 15 minutes before serving to let flavors meld."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cold-salad",
+    "peppery",
+    "quick",
+    "russian",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1060,
+    "protein": 40,
+    "carbs": 85,
+    "fat": 74
+  },
+  "slug": "yummy-peppery-russian-berries-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-peppery-russian-berries-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:57:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "berries",
+    "descriptor": "Yummy Peppery",
+    "dishForm": "Salad"
+  }
+}

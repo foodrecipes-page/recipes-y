@@ -216,6 +216,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-peppery-russian-berries-salad",
+    "title": "Yummy Peppery Russian Berries Salad",
+    "tags": [
+      "cold-salad",
+      "peppery",
+      "quick",
+      "russian",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-sour-mexican-mushrooms-toast",
     "title": "yummy sour mexican mushrooms toast",
     "tags": [

@@ -25,6 +25,22 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-brazilian-ciabatta-grill",
+    "title": "Brazilian Ciabatta Grill",
+    "tags": [
+      "brazilian",
+      "cheesy",
+      "ciabatta",
+      "grill",
+      "high-calorie",
+      "veggie-friendly",
+      "yeast"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-ethiopian-almond-wrap",
     "title": "Yeasty Ethiopian Almond Wrap",
     "tags": [

@@ -1,0 +1,106 @@
+{
+  "title": "Brazilian Ciabatta Grill",
+  "description": "A silky, yeasted Brazilian-inspired ciabatta dish perfect for midnight cravings, made using a grill and satvik-friendly ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ciabatta bread",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400°F.",
+    "In a large mixing bowl, combine 1 cup of warm water and 1 teaspoon of yeast. Let it sit for 5 minutes.",
+    "Add 1 1/2 cups of ciabatta bread, 1 cup of mozzarella cheese, 1/4 cup of fresh oregano, 3 cloves of garlic, 1/4 cup of fresh basil, 2 tablespoons of olive oil, 1 teaspoon of salt, and 1/2 teaspoon of black pepper to the bowl. Mix well.",
+    "Add 2 large eggs to the bowl and mix until a smooth dough forms.",
+    "Knead the dough on a floured surface for 10 minutes.",
+    "Place the dough on a baking sheet and let it rise in a warm place for 1 hour.",
+    "Preheat the grill to 400°F.",
+    "Divide the dough into 4 equal pieces and shape each piece into a ball.",
+    "Place the balls on the grill and cook for 4-5 minutes on each side, or until golden brown.",
+    "Serve the ciabatta grill hot, garnished with fresh oregano and basil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "cheesy",
+    "ciabatta",
+    "grill",
+    "high-calorie",
+    "veggie-friendly",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 30,
+    "carbs": 120,
+    "fat": 60
+  },
+  "slug": "yeasty-brazilian-ciabatta-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-brazilian-ciabatta-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:37:39Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "ciabatta",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "ciabatta",
+    "descriptor": "yeasty",
+    "dishForm": "Grill"
+  }
+}

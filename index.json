@@ -307,6 +307,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-peruvian-quinoa-bowl",
+    "title": "Yummy Peruvian Quinoa Bowl",
+    "tags": [
+      "dolsot",
+      "high-protein",
+      "low-calorie",
+      "peruvian",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-smoky-greek-tofu-skewers",
     "title": "Yummy Smoky Greek tofu Skewers",
     "tags": [

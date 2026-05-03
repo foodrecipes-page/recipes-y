@@ -1,0 +1,102 @@
+{
+  "title": "Yummy Peruvian Quinoa Bowl",
+  "description": "A salty, bouncy-qq quinoa bowl packed with Peruvian flavors and post-workout protein, using dried oregano and finished in a stone-bowl-dolsot to keep it low-calorie friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb",
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup (200g)",
+      "notes": "rinsed"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups (400ml)"
+    },
+    {
+      "name": "black beans (canned, drained)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "200g, sliced"
+    },
+    {
+      "name": "mixed bell pepper (red + yellow), diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "avocado, diced",
+      "amount": "½ cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water.",
+    "Combine quinoa and water in a pot and bring to a boil, then reduce heat and simmer until tender, about 15 minutes.",
+    "Stir in black beans and diced bell peppers, heat through for 3 minutes.",
+    "In a separate pan, heat olive oil and sear the grilled chicken slices until warmed, about 2 minutes.",
+    "Transfer the quinoa mixture to a stone-bowl-dolsot, maintaining a gentle heat.",
+    "Add the seared chicken on top of the quinoa.",
+    "Drizzle lime juice, low sodium soy sauce, and dried oregano over the bowl.",
+    "Garnish with diced avocado and a sprinkle of fresh cilantro.",
+    "Serve immediately, letting the bowl stay warm in the dolsot for a bouncy-qq texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dolsot",
+    "high-protein",
+    "low-calorie",
+    "peruvian",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 534,
+    "protein": 44,
+    "carbs": 49,
+    "fat": 19
+  },
+  "slug": "yummy-peruvian-quinoa-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-peruvian-quinoa-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:27:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "dried oregano",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Yummy",
+    "dishForm": "Bowl"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Yellow Spicy Croatian Fiordilatte Skewers",
+  "description": "A spicy and juicy Croatian dish featuring fiordilatte, perfect for a crowd, and Whole30 friendly. This recipe combines the flavors of Croatia with a spicy kick.",
+  "cuisine": "Croatian",
+  "diet": [
+    "Whole30",
+    "Gluten Free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fiordilatte cheese",
+      "amount": "1 cup",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1/2 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat.",
+    "In a large bowl, whisk together smoked paprika, salt, and black pepper.",
+    "Add the pork sausage to the bowl and mix until just combined.",
+    "Thread the fiordilatte cheese, pork sausage mixture, yellow bell pepper, and red onion onto skewers.",
+    "Brush the skewers with olive oil.",
+    "Grill the skewers for 10 minutes, turning occasionally.",
+    "While the skewers are grilling, mix the minced garlic with a pinch of salt.",
+    "After 10 minutes, brush the skewers with the garlic mixture.",
+    "Continue grilling for an additional 2 minutes.",
+    "Remove the skewers from the grill and let rest for 2 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "crowd-pleaser",
+    "gluten-free",
+    "grilled",
+    "spicy",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "yellow-spicy-croatian-fiordilatte-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-croatian-fiordilatte-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:53:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "braise",
+    "primaryIngredient": "fiordilatte",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fiordilatte",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Skewers"
+  }
+}

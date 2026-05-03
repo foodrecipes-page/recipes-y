@@ -1,0 +1,92 @@
+{
+  "title": "Yellow Crunchy Chinese Chinese Leaf Stir Fry",
+  "description": "A herbal and crunchy Chinese dish featuring Chinese leaf, perfect for a date night, and Whole30 friendly. This recipe combines the freshness of Chinese leaf with the savory flavor of soy sauce and the crunch of toasted almonds.",
+  "cuisine": "Chinese",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese leaf",
+      "amount": "1 head",
+      "notes": "also known as napa cabbage"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the Chinese leaf and stir-fry for 2-3 minutes or until it starts to wilt.",
+    "In a small bowl, whisk together the soy sauce and 1 tablespoon of water.",
+    "Pour the soy sauce mixture into the skillet and stir-fry for 1 minute.",
+    "Add the toasted almonds and stir-fry for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Deglaze the skillet with 1 tablespoon of water and stir-fry for 1 minute."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-food",
+    "date-night",
+    "gluten-free",
+    "healthy-dinner",
+    "stir-fry",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "yellow-crunchy-chinese-chinese-leaf-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crunchy-chinese-chinese-leaf-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:41:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "chinese leaf",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chinese leaf",
+    "descriptor": "Yellow Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}

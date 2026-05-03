@@ -276,6 +276,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-smoky-greek-tofu-skewers",
+    "title": "Yummy Smoky Greek tofu Skewers",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "greek",
+      "quick",
+      "smoky",
+      "tofu",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-sour-mexican-mushrooms-toast",
     "title": "yummy sour mexican mushrooms toast",
     "tags": [

@@ -1,0 +1,108 @@
+{
+  "title": "Yummy Smoky Greek tofu Skewers",
+  "description": "Winey, gooey, adventurous Greek dish featuring marinated tofu, smoke-cold, fodmap-friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "50ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh lemon slices",
+      "amount": "2 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess moisture and cut into 1 ½ inch cubes.",
+    "In a bowl, whisk together olive oil, garlic-infused oil, red wine, lemon juice, smoked paprika, oregano, salt, and pepper.",
+    "Toss the tofu cubes into the vinaigrette until well coated and let marinate for 10 minutes.",
+    "Thread the tofu cubes onto skewers, spacing them evenly.",
+    "Preheat a grill or grill pan over medium heat and brush lightly with olive oil.",
+    "Grill the skewers for 3 to 4 minutes per side, turning once, until smoky char marks appear.",
+    "Remove from heat and sprinkle with chopped parsley before serving.",
+    "Serve immediately with fresh lemon slices on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "greek",
+    "quick",
+    "smoky",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 16,
+    "carbs": 2,
+    "fat": 49
+  },
+  "slug": "yummy-smoky-greek-tofu-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-smoky-greek-tofu-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:15:55Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "smoke-cold",
+    "primaryIngredient": "marinated tofu",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tofu",
+    "descriptor": "Yummy Smoky",
+    "dishForm": "Skewers"
+  }
+}

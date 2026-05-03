@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Gooey Australian Shrimp Skewers",
+  "description": "A nutty and gooey Australian dish featuring jumbo shrimp, this recipe is perfect for a cozy dinner, it is high in protein and can be prepared in under 30 minutes.",
+  "cuisine": "Australian",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "macadamia nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together butter, honey, garlic powder, paprika, salt, and black pepper.",
+    "Add the chopped macadamia nuts to the bowl and stir until they are well coated with the butter mixture.",
+    "Thread the jumbo shrimp onto skewers, leaving a small space between each shrimp.",
+    "Brush the shrimp with the lemon juice.",
+    "Roll the shrimp in the macadamia nut mixture to coat, pressing the nuts onto the shrimp to help them stick.",
+    "Place the skewers on a broiler pan lined with aluminum foil.",
+    "Broil the shrimp for 8-10 minutes, or until they are pink and cooked through.",
+    "Serve the shrimp hot, garnished with additional chopped macadamia nuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "high-protein",
+    "nutty",
+    "one-pan",
+    "shrimp",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 16
+  },
+  "slug": "yellow-gooey-australian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-gooey-australian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:44:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Yellow Gooey",
+    "dishForm": "Skewers"
+  }
+}

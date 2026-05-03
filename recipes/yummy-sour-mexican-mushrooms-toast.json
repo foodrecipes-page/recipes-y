@@ -1,0 +1,101 @@
+{
+  "title": "yummy sour mexican mushrooms toast",
+  "description": "A paleo-friendly Mexican dish featuring sour, creamy mushrooms on toasted bread, perfect for a post-workout meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "paleo",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "8 oz"
+    },
+    {
+      "name": "avocado",
+      "amount": "2 ripe avocados",
+      "notes": "mashed"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Add 1/2 tsp of oil to the skillet and sauté the mushrooms until they release their moisture and start to brown.",
+    "Add the garlic powder, cumin, and chili powder to the skillet and stir to combine.",
+    "Continue cooking the mushrooms for another 2-3 minutes, until they are tender.",
+    "Meanwhile, toast the bread slices until they are lightly browned.",
+    "Mix the mashed avocado, sour cream, lime juice, salt, and pepper in a bowl until smooth.",
+    "To assemble the toast, spread a tablespoon of the avocado-sour cream mixture on each bread slice.",
+    "Top each bread slice with a portion of the sautéed mushrooms.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "yummy-sour-mexican-mushrooms-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-sour-mexican-mushrooms-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:44:37Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "mushrooms",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "mushrooms",
+    "descriptor": "yummy sour",
+    "dishForm": "Toast"
+  }
+}

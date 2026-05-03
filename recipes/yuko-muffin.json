@@ -49,7 +49,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C). Grease muffin tins.",
+    "Preheat oven to 350\u00b0F (175\u00b0C). Grease muffin tins.",
     "Mix yukon gold potatoes with brown sugar until smooth. Add flour and almond meal/brown flour, salt, and water or milk. Mix well.",
     "Fill muffin cups about 2/3 full with the potato mixture.",
     "Bake for 18-20 minutes or until tops are golden brown. Let cool slightly before serving."
@@ -60,7 +60,7 @@
   "servings": 6,
   "difficulty": "easy",
   "tags": [
-    "yukon_gold_potatoes",
+    "yukon-gold-potatoes",
     "muffin",
     "vegan",
     "nutty",

@@ -1,0 +1,109 @@
+{
+  "title": "Yummy Venezuelan Beans Stew",
+  "description": "A funky, tender stew that soothes hangovers with a smoky clay pot finish, using vegetable shortening for authentic texture.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "low-sugar"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable shortening",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1"
+    },
+    {
+      "name": "canned white beans",
+      "amount": "400g",
+      "notes": "drained"
+    },
+    {
+      "name": "chicken broth low sodium",
+      "amount": "500ml"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the clay pot over medium heat and melt the vegetable shortening with the olive oil.",
+    "Add the chopped onion, garlic, carrot, and celery, sautéing until the onion is translucent.",
+    "Stir in the drained beans and pour in the chicken broth, adding the bay leaf.",
+    "Season with salt and pepper, bring the mixture to a gentle simmer.",
+    "Cover the pot and let it cook for 25 minutes, stirring occasionally.",
+    "Remove the bay leaf, garnish with fresh cilantro, and check seasoning.",
+    "Serve the stew hot, optionally with a side of brown rice or whole grain bread.",
+    "Enjoy the comforting, hangover‑cure flavor of this Venezuelan staple."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "hangover-cure",
+    "low-sugar",
+    "one-pot",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 36
+  },
+  "slug": "yummy-venezuelan-beans-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-venezuelan-beans-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:46:49Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beans",
+    "descriptor": "Yummy",
+    "dishForm": "Stew"
+  }
+}

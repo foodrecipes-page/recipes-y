@@ -457,5 +457,20 @@
     "cuisine": "Syrian",
     "totalTimeMin": 20,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-venezuelan-beans-stew",
+    "title": "Yummy Venezuelan Beans Stew",
+    "tags": [
+      "clay-pot",
+      "hangover-cure",
+      "low-sugar",
+      "one-pot",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
+    "shard": "y"
   }
 ]

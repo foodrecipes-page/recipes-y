@@ -245,6 +245,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-hunan-pork-stir-fry",
+    "title": "Yummy Hunan Pork Stir-fry",
+    "tags": [
+      "hunan",
+      "low-fat",
+      "one-pan",
+      "pork",
+      "romantic",
+      "stir-fry",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-peppery-russian-berries-salad",
     "title": "Yummy Peppery Russian Berries Salad",
     "tags": [

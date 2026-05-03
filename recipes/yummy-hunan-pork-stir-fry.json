@@ -1,0 +1,119 @@
+{
+  "title": "Yummy Hunan Pork Stir-fry",
+  "description": "A buttery, silky pork stir-fry with smoky Hunan flavors, fresh redcurrants, and a dash-friendly sauce.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork (lean, sliced into 1 cm strips)",
+      "amount": "200g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30g"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "15g"
+    },
+    {
+      "name": "chili paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water (for slurry)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "redcurrants",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic (minced)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger (minced)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions (sliced)",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Slice the pork into 1 cm strips and season with salt and pepper.",
+    "Whisk together 1 tsp cornstarch and 2 tbsp water to make a slurry.",
+    "Heat 1 tbsp sesame oil in a wok over high heat until smoking.",
+    "Add the pork strips and stir-fry for 3-4 minutes until browned and cooked through; remove to a plate.",
+    "In the same wok, add the remaining tablespoon of sesame oil, then sauté minced garlic and ginger for 30 seconds until fragrant.",
+    "Stir in the sliced scallions, redcurrants, and chili paste, cooking for 1 minute.",
+    "Pour in soy sauce, oyster sauce, and rice vinegar, stirring to combine.",
+    "Return the pork to the wok, toss to coat with the sauce, and cook for another 2 minutes.",
+    "Add the cornstarch slurry, stirring constantly until the sauce thickens to a silky glaze.",
+    "Remove from heat, adjust seasoning with additional salt or pepper if needed, and serve immediately over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hunan",
+    "low-fat",
+    "one-pan",
+    "pork",
+    "romantic",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 955,
+    "protein": 56,
+    "carbs": 28,
+    "fat": 76
+  },
+  "slug": "yummy-hunan-pork-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-hunan-pork-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:12:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "redcurrants",
+    "diet": "dash",
+    "region": "hunan",
+    "cuisineAdjective": "Hunan",
+    "mainIngredient": "Pork",
+    "descriptor": "Yummy",
+    "dishForm": "Stir-fry"
+  }
+}

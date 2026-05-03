@@ -1,0 +1,104 @@
+{
+  "title": "Yogurt-Topped Argentinian Mascarpone Empanadas",
+  "description": "Savory empanadas filled with a creamy mascarpone and ferment-jang mixture, topped with a dollop of yogurt and a sprinkle of parsley, inspired by classic Argentinian cuisine.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan-friendly",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "plain whole-milk yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, Parmesan cheese, and salt; whisk to combine.",
+    "Add cold butter to flour mixture and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add water to flour mixture and stir with a fork until dough comes together in a ball.",
+    "Turn dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Divide dough into 8-10 equal pieces and roll each piece into a thin circle.",
+    "In a small bowl, mix together mascarpone cheese, ferment-jang, and black pepper.",
+    "Place a tablespoon of the mascarpone mixture in the center of each dough circle.",
+    "Fold dough over filling to form a half-moon shape and press edges together to seal.",
+    "Place empanadas on a baking sheet lined with parchment paper and brush tops with a little water.",
+    "Bake in a preheated oven at 375°F (190°C) for 20-25 minutes, or until golden brown.",
+    "Serve warm topped with a dollop of yogurt and a sprinkle of parsley."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-to-make",
+    "empanadas",
+    "kid-friendly",
+    "mascarpone",
+    "snack",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yogurt-topped-argentinian-mascarpone-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-topped-argentinian-mascarpone-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:41:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "ferment-jang",
+    "primaryIngredient": "mascarpone",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "mascarpone",
+    "descriptor": "yogurt-topped",
+    "dishForm": "Empanadas"
+  }
+}

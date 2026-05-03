@@ -1,0 +1,97 @@
+{
+  "title": "Yellowish Dense Croatian Haggis Stew",
+  "description": "A hearty and comforting Croatian dish featuring haggis, perfect for a sick day, with a dense and resinous texture, made with low sodium ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "traditional Scottish dish made from sheep's heart, liver, and lungs, mixed with onions, oatmeal, and spices"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet or smoked"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the chicken broth, sliced carrots, cubed potatoes, chopped onions, and minced garlic.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "Add the haggis to the pot, breaking it up with a spoon as it cooks.",
+    "Add the paprika and black pepper to the pot and stir to combine.",
+    "Continue to simmer the stew for an additional 10 minutes, or until the haggis is cooked through and the vegetables are tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley or chives if desired.",
+    "Let the stew cool to room temperature before refrigerating or freezing it.",
+    "Reheat the stew over low heat, stirring occasionally, until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "hearty-stew",
+    "low-sodium",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellowish-dense-croatian-haggis-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-dense-croatian-haggis-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:57:53Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "poach",
+    "primaryIngredient": "haggis",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "haggis",
+    "descriptor": "Yellowish Dense",
+    "dishForm": "Stew"
+  }
+}

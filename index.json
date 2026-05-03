@@ -260,6 +260,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellowish-dense-croatian-haggis-stew",
+    "title": "Yellowish Dense Croatian Haggis Stew",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "hearty-stew",
+      "low-sodium",
+      "one-pot"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yogurt-caprese",
     "title": "Yogurt Caprese",
     "tags": [

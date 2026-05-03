@@ -1,0 +1,97 @@
+{
+  "title": "Yeasty Syrian Deodeok Root Flatbread",
+  "description": "A fluffy, yeasty flatbread crowned with grated deodeok root, featuring a double rise for airy pockets and a show‑off presentation.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "deodeok root (sunchoke), grated",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together flour, salt, and sugar until well mixed.",
+    "In a separate small bowl dissolve the yeast in the warm water and let it sit for 5 minutes until frothy.",
+    "Pour the yeast mixture into the dry ingredients and stir until a shaggy dough forms.",
+    "Add olive oil and grated deodeok root to the dough and mix until evenly incorporated.",
+    "Knead the dough on a lightly floured surface for about 5 minutes until it becomes smooth.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let it rise for 30 minutes at room temperature.",
+    "After the first rise, punch the dough down, divide it into six equal portions, and let them rest for 5 minutes.",
+    "Roll each portion into a round flatbread about 1/4 inch thick.",
+    "Preheat the oven to 220 degrees Celsius and bake the flatbreads for 8 to 10 minutes until golden brown.",
+    "Remove from the oven, sprinkle chopped parsley, and serve warm."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 15,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "double-rise",
+    "flatbread",
+    "show-off",
+    "syrian",
+    "vegetarian",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 5
+  },
+  "slug": "yeasty-syrian-deodeok-root-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-syrian-deodeok-root-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:54:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "deodeok-root",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "deodeok-root",
+    "descriptor": "Yeasty",
+    "dishForm": "Flatbread"
+  }
+}

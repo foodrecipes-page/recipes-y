@@ -110,6 +110,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-rich-british-beef-stew",
+    "title": "Yellowed Rich British Beef Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "pressure-cooker",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yogurt-caprese",
     "title": "Yogurt Caprese",
     "tags": [

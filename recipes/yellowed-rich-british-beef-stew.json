@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Rich British Beef Stew",
+  "description": "A hearty and nostalgic British dish featuring tender beef, earthy flavors, and a velvety texture, made with Worcestershire sauce and pressure-cooked to perfection.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the pressure cooker over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides.",
+    "Add the chopped onion and cook until softened.",
+    "Add the chopped carrots and potatoes, and cook for 2 minutes.",
+    "Add the Worcestershire sauce, beef broth, tomato paste, and thyme, and stir to combine.",
+    "Close the pressure cooker lid and set the valve to sealing.",
+    "Pressure-cook for 30 minutes, then let the pressure release naturally.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 57,
+    "carbs": 25,
+    "fat": 29
+  },
+  "slug": "yellowed-rich-british-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-rich-british-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:06:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef",
+    "descriptor": "Yellowed Rich",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Crisp Thai Apricot Khanom Thai",
+  "description": "A pungent and crisp Thai dish featuring apricot, this khanom thai is a show-off dessert that is nut-free-friendly, making it perfect for those with allergies. The katsuramuki-cut apricot adds a beautiful touch to this traditional Thai dessert.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apricots",
+      "amount": "4 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tapioca starch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Peel the apricots using a katsuramuki-cut technique to create a beautiful spiral design.",
+    "In a large mixing bowl, whisk together the rice flour, tapioca starch, and salt.",
+    "Add the melted butter, eggs, palm sugar, and coconut milk to the dry ingredients and mix until a smooth batter forms.",
+    "Add the water to the batter and mix until well combined.",
+    "Pour the batter into a 9-inch round cake pan and arrange the apricot slices on top in a spiral pattern.",
+    "Bake the khanom thai for 35 minutes or until the edges are golden brown and the center is set.",
+    "Remove the khanom thai from the oven and let it cool in the pan for 10 minutes.",
+    "Transfer the khanom thai to a wire rack to cool completely.",
+    "Serve the khanom thai warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apricot-recipe",
+    "gluten-free-dessert",
+    "khanom-thai",
+    "thai-dessert",
+    "vegetarian-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "yellow-crisp-thai-apricot-khanom-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crisp-thai-apricot-khanom-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:54:23Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "apricot",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "apricot",
+    "descriptor": "Yellow Crisp",
+    "dishForm": "Khanom Thai"
+  }
+}

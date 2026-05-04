@@ -135,6 +135,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crisp-thai-apricot-khanom-thai",
+    "title": "Yellow Crisp Thai Apricot Khanom Thai",
+    "tags": [
+      "apricot-recipe",
+      "gluten-free-dessert",
+      "khanom-thai",
+      "thai-dessert",
+      "vegetarian-dessert"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crispy-algerian-brown-rice-tagine",
     "title": "Yellow Crispy Algerian Brown Rice Tagine",
     "tags": [

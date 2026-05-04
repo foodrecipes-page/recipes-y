@@ -1,0 +1,100 @@
+{
+  "title": "tokyo beef storm",
+  "description": "this hearty, comforting beef broth is infused with a rich, yeasty flavor from dashi powder and the savory umami of beef stock, perfect for a stormy japanese evening. traditionally a family recipe passed down through generations.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 lbs",
+      "notes": "you can use beef neck bones or short ribs"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "2 tsp",
+      "notes": "available at most asian grocery stores"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "optional, for added depth of flavor"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup",
+      "notes": "or dry white wine"
+    },
+    {
+      "name": "beef stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large pot over medium heat.",
+    "add the ginger and garlic and sauté until fragrant, about 2 minutes.",
+    "add the beef bones and cook until browned on all sides, about 5 minutes.",
+    "add the dashi powder and soy sauce (if using) and stir to combine.",
+    "add the sake and beef stock, and bring to a boil.",
+    "reduce the heat to low and simmer for at least 4 hours, or overnight.",
+    "strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "season with salt to taste.",
+    "ladle the hot broth into bowls and garnish with green onions.",
+    "serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef-based",
+    "comfort-food",
+    "high-protein",
+    "japanese-cuisine",
+    "one-pan",
+    "stovetop",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "yeasty-japanese-beef-broth",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-japanese-beef-broth",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:51:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "infuse-oil",
+    "primaryIngredient": "beef stock",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef",
+    "descriptor": "Yeasty",
+    "dishForm": "Broth"
+  }
+}

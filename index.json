@@ -118,6 +118,23 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-japanese-beef-broth",
+    "title": "tokyo beef storm",
+    "tags": [
+      "beef-based",
+      "comfort-food",
+      "high-protein",
+      "japanese-cuisine",
+      "one-pan",
+      "stovetop",
+      "umami-rich",
+      "weeknight"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 270,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-syrian-deodeok-root-flatbread",
     "title": "Yeasty Syrian Deodeok Root Flatbread",
     "tags": [

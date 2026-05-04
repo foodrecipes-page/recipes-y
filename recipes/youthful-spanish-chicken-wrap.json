@@ -1,0 +1,93 @@
+{
+  "title": "Youthful Spanish Chicken Wrap",
+  "description": "A light and salty Spanish dish featuring Thai holy basil krapao, served in a gluten free friendly ssam wrap.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Thai holy basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gluten free tortilla",
+      "amount": "4 pieces",
+      "notes": "ssam wrap style"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium high heat with coconut oil.",
+    "Add the chicken breast to the skillet and cook until browned and cooked through.",
+    "Add the chopped Thai holy basil to the skillet and stir to combine.",
+    "Warm the gluten free tortilla in the microwave for 20 seconds.",
+    "Assemble the wrap by slicing the cooked chicken and adding it to the tortilla.",
+    "Squeeze lime juice over the top of the chicken and add salt and pepper to taste.",
+    "Add shredded lettuce to the wrap and serve immediately.",
+    "Repeat the process to make the remaining wraps."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipes",
+    "easy-lunch",
+    "gluten-free",
+    "healthy-eating",
+    "light-meals",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "youthful-spanish-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-spanish-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:47:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "light",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "youthful",
+    "dishForm": "Wrap"
+  }
+}

@@ -162,6 +162,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-canadian-chickpea-curry",
+    "title": "Yellow Canadian Chickpea Curry",
+    "tags": [
+      "canadian",
+      "chickpeas",
+      "coconut-milk",
+      "curry",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-citrusy-american-steak-skewers",
     "title": "Yellow Citrusy American Steak Skewers",
     "tags": [

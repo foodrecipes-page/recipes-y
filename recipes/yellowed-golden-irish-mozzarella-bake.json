@@ -1,0 +1,97 @@
+{
+  "title": "Yellowed Golden Irish Mozzarella Bake",
+  "description": "A rich and comforting Irish dish featuring mozzarella cheese, perfect for a sick day, baked in a wood-fired oven and wrapped in a corn husk vessel, making it Buddhist-temple-friendly due to its vegetarian and dairy-based ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mozzarella cheese",
+      "amount": "12 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "corn husks",
+      "amount": "6",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a large bowl, whisk together the flour, baking powder, salt, and black pepper.",
+    "Add the shredded mozzarella cheese to the bowl and mix until well combined.",
+    "Divide the cheese mixture into 6 equal parts and shape each part into a ball.",
+    "Wrap each ball in a corn husk, securing it with a strip of corn husk if needed.",
+    "Place the wrapped cheese balls in the wood-fired oven and bake for 20 minutes.",
+    "Brush the tops with melted butter and continue baking for an additional 10 minutes.",
+    "Remove the cheese balls from the oven and let them cool for a few minutes.",
+    "Serve warm, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 30,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "comfort-food",
+    "irish-cuisine",
+    "mozzarella",
+    "sick-day",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellowed-golden-irish-mozzarella-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-golden-irish-mozzarella-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:30:21Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "mozzarella",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Yellowed Golden",
+    "dishForm": "Bake"
+  }
+}

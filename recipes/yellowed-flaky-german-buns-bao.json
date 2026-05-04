@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Flaky German Buns Bao",
+  "description": "Sweet and flaky German buns filled with char-grill-yang and ayurvedic-rajasic-friendly ingredients, wrapped in banana leaves.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "ayurvedic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably German type 550"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "char-grill-yang powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour, yeast, sugar, and char-grill-yang powder.",
+    "Add melted butter, egg, and milk to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and wrap each disk in a banana leaf.",
+    "Place the wrapped buns on a baking sheet lined with parchment paper.",
+    "Brush the tops with a little bit of melted butter.",
+    "Bake the buns for 15-20 minutes or until they are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "banana-leaf",
+    "flaky-pastry",
+    "german-cuisine",
+    "sweet-buns",
+    "vegetarian-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "yellowed-flaky-german-buns-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-german-buns-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:59:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "buns",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "buns",
+    "descriptor": "Yellowed Flaky",
+    "dishForm": "Bao"
+  }
+}

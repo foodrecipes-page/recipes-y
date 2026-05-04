@@ -1,0 +1,107 @@
+{
+  "title": "Yummy Kyushu Tomatoes Inari Sushi",
+  "description": "A briny, velvety brunch-mood sushi that marries tinned tomatoes with sweet inari, perfect for a quick yet satisfying meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "250ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "diced tomatoes, canned",
+      "amount": "400g"
+    },
+    {
+      "name": "soy sauce (kosher)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh basil, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sweet tofu skin pouches (inari), kosher",
+      "amount": "100g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse 200g sushi rice under cold water until the water runs clear, then drain.",
+    "Combine rinsed rice with 250ml water in a saucepan, bring to a boil, reduce heat, cover, and simmer for 18 minutes until water is absorbed.",
+    "In a small bowl, whisk together 2 tbsp rice vinegar, 1 tbsp sugar, and 1 tsp salt until dissolved; pour over cooked rice, fold gently, and let it cool to room temperature.",
+    "While the rice cools, heat 1 tbsp sesame oil in a non‑stick skillet over medium heat and sauté the drained diced tomatoes for 4 minutes, adding 1 tbsp soy sauce and 1 tsp mirin, then stir in chopped basil, cooking for an additional 2 minutes.",
+    "Warm the sweet tofu skin pouches briefly in a microwave for 20 seconds to soften them slightly.",
+    "Divide the cooled rice into 12 equal portions, each about 15g, and gently press each portion into a separate inari pouch, forming a small mound.",
+    "Spoon a tablespoon of the tomato mixture onto each mound of rice, then top with a pinch of sesame seeds.",
+    "Roll each inari pouch loosely around the filling, using a bamboo mat if desired to keep the shape.",
+    "Slice each roll into 6 bite‑size pieces and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-food",
+    "inari-sushi",
+    "kitchen",
+    "kosher-friendly",
+    "quick",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 890,
+    "protein": 25,
+    "carbs": 87,
+    "fat": 15
+  },
+  "slug": "yummy-kyushu-tomatoes-inari-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-kyushu-tomatoes-inari-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:26:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "kosher",
+    "region": "kyushu",
+    "cuisineAdjective": "Kyushu",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Yummy",
+    "dishForm": "Inari Sushi"
+  }
+}

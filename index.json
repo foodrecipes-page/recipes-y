@@ -1282,6 +1282,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-kyushu-tomatoes-inari-sushi",
+    "title": "Yummy Kyushu Tomatoes Inari Sushi",
+    "tags": [
+      "brunch-food",
+      "inari-sushi",
+      "kitchen",
+      "kosher-friendly",
+      "quick",
+      "tomato"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-light-british-chicken-casserole",
     "title": "Light British Chicken Casserole",
     "tags": [

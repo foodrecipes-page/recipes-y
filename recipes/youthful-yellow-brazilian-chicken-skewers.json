@@ -1,0 +1,99 @@
+{
+  "title": "Youthful Yellow Brazilian Chicken Skewers",
+  "description": "A light and refreshing Brazilian dish featuring galangal and tandoor spices, perfect for a summer evening. This ayurvedic-rajasic-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the galangal, tandoor spice mix, coconut oil, lemon juice, honey, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, or until the chicken is cooked through.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Serve with a side of quinoa or brown rice for a filling meal.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "dairy-free",
+    "gluten-free",
+    "grilled-chicken",
+    "healthy-dinner",
+    "summer-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "youthful-yellow-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-yellow-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:12:28Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "galangal",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "youthful yellow",
+    "dishForm": "Skewers"
+  }
+}

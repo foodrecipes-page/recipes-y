@@ -1,0 +1,95 @@
+{
+  "title": "Yeasty Gooey Venezuelan Spaghetti Pasta",
+  "description": "A plant-based Venezuelan dish featuring spaghetti, kombu cold extract, and a yeasty sauce, this recipe is perfect for adventurous eaters looking for a unique flavor experience.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "whole wheat or regular"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegan mozzarella shreds",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions.",
+    "In a blender or food processor, combine the kombu cold extract, nutritional yeast, and olive oil, and blend until smooth.",
+    "In a large skillet, saute the chopped onion and minced garlic over medium heat until softened.",
+    "Add the blended kombu mixture to the skillet and stir to combine.",
+    "Add the tomato sauce to the skillet and stir to combine.",
+    "Reduce heat to low and simmer the sauce for 10 minutes.",
+    "Drain the cooked spaghetti and add it to the skillet, tossing to combine with the sauce.",
+    "Transfer the spaghetti to a baking dish and top with vegan mozzarella shreds.",
+    "Bake in a preheated oven at 375 degrees for 15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "international",
+    "one-pot",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "yeasty-gooey-venezuelan-spaghetti-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-gooey-venezuelan-spaghetti-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:09:37Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "spaghetti",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "spaghetti",
+    "descriptor": "yeasty gooey",
+    "dishForm": "Pasta"
+  }
+}

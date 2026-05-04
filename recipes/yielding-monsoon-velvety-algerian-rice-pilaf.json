@@ -1,0 +1,103 @@
+{
+  "title": "yielding monsoon velvety algerian rice pilaf",
+  "description": "a rich, earthy pilaf from algeria featuring a velvety texture, served with a side of tangy hp sauce.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fry grind rice khao khua",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sliced onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large dutch oven over medium heat.",
+    "add the sliced onions and cook until they start to caramelize, about 8 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the ground cumin, paprika, and kosher salt, and cook for 1-2 minutes.",
+    "add the grated ginger and cook for an additional minute.",
+    "add the chicken broth and bring to a boil.",
+    "add the fry grind rice khao khua and stir to combine.",
+    "reduce the heat to low and cover the pot with a tight-fitting lid.",
+    "simmer for 18-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "fluff the pilaf with a fork and serve hot with a side of hp sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "easy-to-make",
+    "high-protein",
+    "one-pot",
+    "rice",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yielding-monsoon-velvety-algerian-rice-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yielding-monsoon-velvety-algerian-rice-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T03:34:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "hp-sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Rice",
+    "descriptor": "Yielding Monsoon Velvety",
+    "dishForm": "Pilaf"
+  }
+}

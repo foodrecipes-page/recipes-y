@@ -739,6 +739,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-algerian-bouillon-wrap",
+    "title": "Yummy Algerian Bouillon Wrap",
+    "tags": [
+      "cheese",
+      "cozy-dinner",
+      "glassy-sauce",
+      "lacto-vegetarian",
+      "quick",
+      "wrap"
+    ],
+    "cuisine": "Algerian-inspired",
+    "totalTimeMin": 10,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-algerian-chicken-kebabs",
     "title": "Yummy Algerian Chicken Kebabs",
     "tags": [

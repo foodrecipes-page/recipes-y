@@ -1,0 +1,108 @@
+{
+  "title": "Yummy Algerian Bouillon Wrap",
+  "description": "A cozy, glassy-jelly wrap filled with fresh veggies and a savory chicken bouillon yogurt sauce, perfect for a quick lunch.",
+  "cuisine": "Algerian-inspired",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ssam-wrap leaves",
+      "amount": "12"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Whisk yogurt, chicken bouillon powder, olive oil, lemon juice, honey, smoked paprika, cumin, salt, and black pepper until smooth.",
+    "Rinse and pat dry the ssam-wrap leaves.",
+    "Spread a thin layer of the yogurt sauce onto each leaf.",
+    "Divide the shredded carrots and sliced cucumber evenly among the leaves.",
+    "Fold the sides of each leaf over the filling and roll tightly.",
+    "Place the wrapped bundles on a plate and drizzle with a little extra sauce if desired.",
+    "Serve immediately for a fresh and comforting wrap.",
+    "If you prefer a slightly warm version, steam the wrapped bundles for 2 minutes before serving.",
+    "Store leftovers in an airtight container in the refrigerator for up to 2 days.",
+    "Enjoy the glassy, flavorful experience of this Algerian-inspired lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "cozy-dinner",
+    "glassy-sauce",
+    "lacto-vegetarian",
+    "quick",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "yummy-algerian-bouillon-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-algerian-bouillon-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:15:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Bouillon",
+    "descriptor": "Yummy",
+    "dishForm": "Wrap"
+  }
+}

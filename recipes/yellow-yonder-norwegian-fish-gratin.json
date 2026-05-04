@@ -1,0 +1,113 @@
+{
+  "title": "Yellow Yonder Norwegian Fish Gratin",
+  "description": "A sour and aerated Norwegian fish dish featuring full fat sour cream and beurre-monte. Perfect for an adventurous dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fish fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Full fat sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh chives",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegan butter substitute",
+      "amount": "4 tablespoons",
+      "notes": "for beurre-monte"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the cod fish fillets with salt, black pepper, and chopped fresh dill.",
+    "In a separate bowl, mix together the full fat sour cream, beurre-monte, lemon juice, and chopped fresh chives.",
+    "Grease a baking dish with olive oil and place the cod fish fillets in it.",
+    "Pour the sour cream mixture over the cod fish fillets.",
+    "Bake in the preheated oven for 12 minutes.",
+    "While the gratin is baking, heat the vegan butter substitute in a small saucepan over low heat.",
+    "After 12 minutes, remove the gratin from the oven and brush the top with the melted vegan butter substitute.",
+    "Return the gratin to the oven and bake for an additional 4-6 minutes, or until the top is golden brown.",
+    "Remove the gratin from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "beurre-monte",
+    "fish",
+    "gratin",
+    "norwegian",
+    "sour-cream",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "yellow-yonder-norwegian-fish-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yonder-norwegian-fish-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:47:29Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "beurre-monte",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Fish",
+    "descriptor": "Yellow Yonder",
+    "dishForm": "Gratin"
+  }
+}

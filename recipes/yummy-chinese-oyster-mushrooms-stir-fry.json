@@ -1,0 +1,93 @@
+{
+  "title": "Yummy Chinese Oyster Mushrooms Stir-fry",
+  "description": "A romantic, umami-packed oyster mushroom dish with a mapo-tofu vibe, pressure‑cooked to tender perfection.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oyster mushrooms",
+      "amount": "400g"
+    },
+    {
+      "name": "Kosher soy sauce",
+      "amount": "15ml"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "Black bean paste",
+      "amount": "15g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6g",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "5g",
+      "notes": "grated"
+    },
+    {
+      "name": "Sichuan peppercorn",
+      "amount": "5g",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Dice the oyster mushrooms into bite-sized pieces.",
+    "In the pressure cooker, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "Add the diced mushrooms and stir until they start to brown, about 2 minutes.",
+    "Add minced garlic, grated ginger, and ground Sichuan peppercorns, cooking for another minute until fragrant.",
+    "Stir in 1 tablespoon of black bean paste and 15ml of kosher soy sauce, coating the mushrooms evenly.",
+    "Pour in 240ml of vegetable stock, seal the pressure cooker, and cook on high pressure for 5 minutes.",
+    "Quick release the pressure, then stir in the remaining 1 tablespoon of peanut oil for extra sheen and flavor.",
+    "Plate the stir-fry and garnish with sliced scallions or chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "kosher-friendly",
+    "mapo-style",
+    "one-pan",
+    "pressure-cook",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 4,
+    "fat": 11
+  },
+  "slug": "yummy-chinese-oyster-mushrooms-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-chinese-oyster-mushrooms-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:20:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "Yummy",
+    "dishForm": "Stir-fry"
+  }
+}

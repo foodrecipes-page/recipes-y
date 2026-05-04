@@ -1,0 +1,143 @@
+{
+  "title": "Yummy Malaysian Prawns Curry",
+  "description": "A wine-infused, double cream curry with spherified lime pearls, romantic and onion‑garlic‑free.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "500 g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "double cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "red wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "cut into 2 cm pieces"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "white sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "200 ml",
+      "notes": "for spherification"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "calcium lactate",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": "torn"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add the double cream, red wine, and coconut milk, stirring until combined.",
+    "Add the lemongrass, grated galangal, grated ginger, turmeric, cumin, coriander, and chopped chili to the skillet and simmer for 3 minutes to release aromatics.",
+    "Insert the prawns into the simmering sauce, reduce heat to low, cover, and cook for 6 minutes until prawns turn pink and opaque.",
+    "Whisk lime juice with a pinch of salt, pour into a small bowl, and allow to sit for 5 minutes to marinate.",
+    "In a separate container, dissolve sodium alginate in 200 ml water using an immersion blender, then gently stir in calcium lactate to create a spherification solution.",
+    "Using a small spoon, drop the lime mixture into the calcium solution to form micro‑spheres, letting them sit for 2 minutes before rinsing with clean water.",
+    "Stir the spherified lime pearls into the curry and remove the lemongrass pieces before serving.",
+    "Garnish with torn kaffir lime leaves and chopped cilantro.",
+    "Serve immediately with steamed jasmine rice or flatbread.",
+    "Enjoy the winey, creamy, romantic curry with a burst of citrus on each bite."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-cream",
+    "malaysian",
+    "no-onion-no-garlic",
+    "prawn-curry",
+    "romantic",
+    "spherified",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 45
+  },
+  "slug": "yummy-malaysian-prawns-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-malaysian-prawns-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:45:39Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "spherify",
+    "primaryIngredient": "double cream",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Prawns",
+    "descriptor": "Yummy",
+    "dishForm": "Curry"
+  }
+}

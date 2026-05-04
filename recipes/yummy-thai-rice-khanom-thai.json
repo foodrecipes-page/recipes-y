@@ -1,0 +1,93 @@
+{
+  "title": "Yummy Thai Rice Khanom Thai",
+  "description": "Floral, crumbly Thai rice cookies with scallion accent, perfect for a cozy flexitarian dessert.",
+  "cuisine": "Thai",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sticky rice flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100 ml"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "30 g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions, finely chopped",
+      "amount": "2"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "30 ml"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl combine sticky rice flour, coconut milk, palm sugar, vanilla extract, soy sauce, salt, and baking soda until smooth batter forms.",
+    "Stir in chopped scallions and let the mixture rest for 10 minutes to allow flavors to meld.",
+    "Heat a comal over medium heat and lightly oil the surface with vegetable oil.",
+    "Drop spoonfuls of batter onto the comal, flattening them into thin rounds about 4 cm in diameter.",
+    "Cook each side until golden brown and crisp edges form, roughly 2 minutes per side.",
+    "Transfer cooked rings onto a paper towel to absorb excess oil.",
+    "Let the Khanom Thai cool to room temperature before serving.",
+    "Optional: Dust with toasted sesame seeds or a pinch of sugar before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "easy",
+    "flexitarian",
+    "khanom-thai",
+    "thai-cookies"
+  ],
+  "nutrition": {
+    "calories": 174,
+    "protein": 10,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "yummy-thai-rice-khanom-thai",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-thai-rice-khanom-thai",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:22:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "marinate",
+    "primaryIngredient": "scallions",
+    "diet": "flexitarian",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Rice",
+    "descriptor": "Yummy",
+    "dishForm": "Khanom Thai"
+  }
+}

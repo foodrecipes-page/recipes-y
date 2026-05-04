@@ -3497,6 +3497,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-thai-rice-khanom-thai",
+    "title": "Yummy Thai Rice Khanom Thai",
+    "tags": [
+      "dessert",
+      "easy",
+      "flexitarian",
+      "khanom-thai",
+      "thai-cookies"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-tunisian-chestnut-grill",
     "title": "Yummy Tunisian Chestnut Grill",
     "tags": [

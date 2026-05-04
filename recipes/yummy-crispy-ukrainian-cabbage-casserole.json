@@ -1,0 +1,108 @@
+{
+  "title": "Yummy Crispy Ukrainian Cabbage Casserole",
+  "description": "A briny, crunchy one-pot casserole that blends tender cabbage with savory meat, coated in flaky egg roll wrappers and topped with a crisp double-rise bread crust.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "1 head, shredded"
+    },
+    {
+      "name": "ground pork and beef mix",
+      "amount": "400 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg roll wrappers",
+      "amount": "250 g"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "2 slices, cubed"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2, beaten"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees F and lightly grease a 9x13 inch baking dish.",
+    "In a large skillet, brown the ground pork and beef mixture over medium-high heat until fully cooked, about 8 minutes.",
+    "Add the diced onion and minced garlic to the skillet, cooking until the onion softens, about 4 minutes.",
+    "Stir in soy sauce, tomato paste, and dried dill, cooking for another minute until fragrant.",
+    "Transfer the meat mixture to the prepared baking dish, spreading it evenly.",
+    "Layer the shredded cabbage over the meat, pressing it down lightly so it stays in place.",
+    "Arrange the cubed double-rise bread evenly over the cabbage, then sprinkle the beaten eggs and low-fat milk on top.",
+    "Place the egg roll wrappers over the bread layer, ensuring they cover the bread entirely.",
+    "Bake for 25 minutes, or until the egg roll wrappers are golden and the cabbage is tender.",
+    "Remove from the oven, let cool for 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crisp",
+    "low-carb",
+    "one-pot",
+    "quick",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 23,
+    "carbs": 43,
+    "fat": 15
+  },
+  "slug": "yummy-crispy-ukrainian-cabbage-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crispy-ukrainian-cabbage-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:07:47Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Yummy Crispy",
+    "dishForm": "Casserole"
+  }
+}

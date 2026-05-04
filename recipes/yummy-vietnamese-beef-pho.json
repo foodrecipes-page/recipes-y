@@ -1,0 +1,122 @@
+{
+  "title": "Yummy Vietnamese Beef Pho",
+  "description": "A bitter, cheese-pull, lazy-sunday Vietnamese dish featuring umeboshi that balances raw-friendly veggies with a quick stir-fry touch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shank",
+      "amount": "200g",
+      "notes": "bones included"
+    },
+    {
+      "name": "sirloin steak",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "water",
+      "amount": "500ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "julienned"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "umeboshi paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "100g"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "50g"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced into ribbons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring water to a boil in a large pot and add beef shank with onion and carrot; simmer for 20 minutes to make broth.",
+    "Remove the bones and strain the broth, discarding solids, then return it to the pot.",
+    "Stir in fish sauce, sugar, and umeboshi paste until dissolved, then bring to a gentle simmer for 5 minutes.",
+    "While broth simmers, rinse rice noodles in cold water, then boil them in separate pot for 3 minutes; drain and set aside.",
+    "In a skillet, lightly sear thin sirloin slices on high heat for 1 minute per side, then set aside to finish in the broth.",
+    "Place bean sprouts, cucumber ribbons, and a handful of cilantro in a serving bowl.",
+    "Pour hot broth over the vegetables and add the seared beef slices, noodles, and a sprinkle of chili flakes.",
+    "Top the pho with shredded mozzarella cheese and let it melt slightly from the heat of the broth.",
+    "Squeeze lime juice over the bowl and give everything a gentle stir before serving."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "vietnamese",
+    "dinner"
+  ],
+  "slug": "yummy-vietnamese-beef-pho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-vietnamese-beef-pho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:57:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "umeboshi",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Yummy",
+    "dishForm": "Pho"
+  }
+}

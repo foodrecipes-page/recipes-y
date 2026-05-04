@@ -2959,6 +2959,17 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-vietnamese-beef-pho",
+    "title": "Yummy Vietnamese Beef Pho",
+    "tags": [
+      "vietnamese",
+      "dinner"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-vietnamese-rice-noodle-pho",
     "title": "Yummy Vietnamese Rice Noodle Pho",
     "tags": [

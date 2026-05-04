@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Smoky Sardinian Lamb Lasagna",
+  "description": "A smoky and indulgent Italian dish featuring lamb, oyster sauce, and double-rise bread, halal-friendly and made in the form of lasagna.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "200g",
+      "notes": "torn into pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "400g"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "Cook the lamb mince in a pan with olive oil until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the pan and cook until the onion is translucent.",
+    "Stir in the oyster sauce, tomato sauce, and smoked paprika, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce cook while preparing the bread and cheese.",
+    "Tear the double-rise bread into small pieces and toast until lightly browned.",
+    "In a large bowl, combine the toasted bread, mozzarella cheese, and parmesan cheese.",
+    "In a 20x30cm baking dish, create a thin layer of the lamb sauce, followed by a layer of the bread and cheese mixture, and repeat this process until all ingredients are used, finishing with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes, then remove the foil and bake for an additional 10 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "lamb-recipes",
+    "one-dish-meal",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "yellow-smoky-sardinian-lamb-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-sardinian-lamb-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:59:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "oyster sauce",
+    "diet": "halal",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Lasagna"
+  }
+}

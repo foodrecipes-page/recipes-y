@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Fragrant Thai Chicken Khao Pad",
+  "description": "A floral and refreshing Thai dish featuring dried mint and pickle, perfect for a sick day. This khao pad is a dash-friendly and flavorful meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "dried mint",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken breast pieces and cook until they are browned and cooked through.",
+    "Add the dried mint, pickle, fish sauce, and soy sauce, and stir to combine.",
+    "Add the cooked jasmine rice to the skillet or wok and stir to combine with the chicken and sauce.",
+    "Cook for an additional 2-3 minutes, stirring constantly, until the rice is heated through and starting to brown.",
+    "Serve the khao pad hot, garnished with additional dried mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellow-fragrant-thai-chicken-khao-pad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-fragrant-thai-chicken-khao-pad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:03:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "pickle",
+    "primaryIngredient": "dried mint",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Fragrant",
+    "dishForm": "Khao Pad"
+  }
+}

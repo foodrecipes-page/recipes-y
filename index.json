@@ -360,6 +360,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-fragrant-thai-chicken-khao-pad",
+    "title": "Yellow Fragrant Thai Chicken Khao Pad",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-fried-korean-peppers-skillet",
     "title": "Yellow Fried Korean Peppers Skillet",
     "tags": [

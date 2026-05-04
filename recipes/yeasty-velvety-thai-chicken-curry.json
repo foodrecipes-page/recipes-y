@@ -1,0 +1,93 @@
+{
+  "title": "Yeasty Velvety Thai Chicken Curry",
+  "description": "A comforting and flavorful Thai chicken curry made with yeasty notes and velvety texture, featuring castelvetrano olives and cooked in a clay pot, perfect for a sick day, this low calorie friendly dish is a must try",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "castelvetrano olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "low fat"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "clay pot",
+      "amount": "1",
+      "notes": "preheated"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot over medium heat and add the yeast extract to melt and mix with the curry paste.",
+    "Add the chicken to the pot and cook until browned on all sides.",
+    "Add the castelvetrano olives, fish sauce, and brown sugar to the pot and stir to combine.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 20 minutes or until the chicken is cooked through.",
+    "Season the curry with salt and pepper to taste.",
+    "Serve the curry hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-calorie",
+    "one-pot",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "yeasty-velvety-thai-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-velvety-thai-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:18:00Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "yeasty velvety",
+    "dishForm": "Curry"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "yielding russian beef bake",
+  "description": "a paleo-friendly russian dish featuring a savory beef filling, topped with a sweet and crunchy caramelized onion crust, all in one convenient bake.",
+  "cuisine": "russian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f (190c).",
+    "in a large skillet, heat 2 tablespoons of oil over medium-high heat. add the beef strips and cook until browned, about 3-4 minutes.",
+    "remove the beef from the skillet and set aside. add the remaining 2 tablespoons of oil, then add the onion and mushroom. cook until the onion is translucent, about 5 minutes.",
+    "add the garlic, tomato paste, beef broth, vanilla sugar, salt, and black pepper to the skillet. stir to combine.",
+    "add the cooked beef back to the skillet and stir to coat with the onion mixture.",
+    "transfer the beef mixture to a 9x13 inch baking dish.",
+    "bake for 30 minutes, or until the beef is cooked through and the onion is caramelized.",
+    "serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "yielding-russian-beef-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yielding-russian-beef-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:43:05Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Yielding",
+    "dishForm": "Bake"
+  }
+}

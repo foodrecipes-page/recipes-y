@@ -552,6 +552,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-glazed-british-lamb-sunday-roast",
+    "title": "Yellow Glazed British Lamb Sunday Roast",
+    "tags": [
+      "british-cuisine",
+      "clay-pot-cooking",
+      "lamb-recipes",
+      "low-glycemic",
+      "special-occasion",
+      "sunday-roast"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 180,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-glazed-syrian-tomato-lasagna",
     "title": "Yellow Glazed Syrian Tomato Lasagna",
     "tags": [

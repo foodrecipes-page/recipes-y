@@ -1,0 +1,97 @@
+{
+  "title": "Yellow Glazed British Lamb Sunday Roast",
+  "description": "A funky and gooey British dish featuring yuzu and pickle, perfect for a special occasion, this low-glycemic-friendly recipe is served in a tajine clay vessel.",
+  "cuisine": "British",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "boneless"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "120 ml"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "60 ml"
+    },
+    {
+      "name": "honey",
+      "amount": "30 g"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "10 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5 g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220 degrees Celsius.",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Heat the olive oil in the tajine clay vessel over medium heat.",
+    "Sear the lamb shoulder until browned on all sides.",
+    "Add the yuzu juice, pickle juice, and honey to the vessel.",
+    "Add the garlic and rosemary to the vessel.",
+    "Cover the vessel with a lid and transfer to the preheated oven.",
+    "Roast the lamb for 2.5 hours or until the meat is tender.",
+    "Remove the vessel from the oven and let it rest for 15 minutes.",
+    "Slice the lamb and serve with the yellow glaze spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "british-cuisine",
+    "clay-pot-cooking",
+    "lamb-recipes",
+    "low-glycemic",
+    "special-occasion",
+    "sunday-roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "yellow-glazed-british-lamb-sunday-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-glazed-british-lamb-sunday-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:54:50Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "yuzu",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Glazed",
+    "dishForm": "Sunday Roast"
+  }
+}

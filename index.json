@@ -2787,6 +2787,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-moroccan-chestnut-stew",
+    "title": "Yummy Moroccan Chestnut Stew",
+    "tags": [
+      "chestnut-stew",
+      "festive",
+      "mrouzia",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-moroccan-fettuccine-pasta",
     "title": "Yummy Moroccan Fettuccine Pasta",
     "tags": [

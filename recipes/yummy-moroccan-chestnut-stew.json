@@ -1,0 +1,104 @@
+{
+  "title": "Yummy Moroccan Chestnut Stew",
+  "description": "A sweet and savory Moroccan chestnut stew brimming with lamb, chestnuts, apricots, and aromatic spices.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried chestnuts",
+      "amount": "500g"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "300g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "50g"
+    },
+    {
+      "name": "low-sodium chicken stock",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a heavy pot over medium heat.",
+    "Add diced onion and cook until translucent.",
+    "Stir in minced garlic and cook for 30 seconds.",
+    "Add lamb cubes and brown on all sides.",
+    "Sprinkle cumin, paprika, and cinnamon over the lamb and stir to coat.",
+    "Pour in chicken stock and tomato paste, bring to a gentle simmer.",
+    "Add chestnuts, apricots, and toasted almonds, stir well.",
+    "Cover and let the stew simmer for 45 minutes, until lamb is tender.",
+    "Stir in honey and lemon juice, adjust seasoning with salt and pepper.",
+    "Serve hot over couscous or rice, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chestnut-stew",
+    "festive",
+    "mrouzia",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 19,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "yummy-moroccan-chestnut-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-moroccan-chestnut-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:09:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "chestnuts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chestnut",
+    "descriptor": "Yummy",
+    "dishForm": "Stew"
+  }
+}

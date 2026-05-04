@@ -1,0 +1,105 @@
+{
+  "title": "Yellowed Charred Dutch Zucchini Tagine",
+  "description": "A charred and gooey Dutch dish featuring zucchini, perfect for a date night, made in a ceramic tagine and kneaded to perfection, this paleo-friendly recipe is a must try.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchinis",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, paprika, cumin, salt, and black pepper.",
+    "Add the sliced zucchinis to the bowl and toss to coat with the spice mixture.",
+    "Heat a large skillet over medium high heat and char the zucchinis for 2-3 minutes on each side.",
+    "In the same skillet, add the chopped onions and cook until they are translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "In a ceramic tagine, combine the charred zucchinis, cooked onions and garlic, pitted dates, and sliced almonds.",
+    "Knead the mixture together until it is well combined.",
+    "Cover the tagine with a lid and bake for 25 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dutch-cuisine",
+    "healthy",
+    "one-pan",
+    "paleo-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "yellowed-charred-dutch-zucchini-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-charred-dutch-zucchini-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:59:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "zucchini",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "zucchini",
+    "descriptor": "Yellowed Charred",
+    "dishForm": "Tagine"
+  }
+}

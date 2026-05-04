@@ -1,0 +1,114 @@
+{
+  "title": "Yummy Crispy Polish Tofu Bowl",
+  "description": "A quick, dairy‑free, one‑pot bowl featuring oven‑roasted tofu, fresh veggies, and vegan stracciatella cheese, served hot from a stone pot.",
+  "cuisine": "Polish-inspired",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "diced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegan stracciatella cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment.",
+    "Whisk soy sauce, maple syrup, sesame oil, minced garlic, and grated ginger in a bowl.",
+    "Toss tofu cubes in the sauce until coated, then sprinkle with cornstarch and stir to coat.",
+    "Spread tofu on the baking sheet and roast for 20 minutes, flipping halfway, until golden and crispy.",
+    "Steam broccoli florets for 3 minutes and sauté bell pepper and mushrooms in a pan with a splash of oil for 5 minutes.",
+    "Remove tofu from oven, let rest 5 minutes, then transfer it to a heated dolsot stone bowl.",
+    "Add the steamed broccoli, sautéed vegetables, and cooked quinoa to the bowl, mixing gently.",
+    "Sprinkle shredded vegan stracciatella cheese over the top, cover the bowl for 2 minutes to melt the cheese.",
+    "Drizzle any remaining sauce from the tofu pan over the bowl, then garnish with toasted sesame seeds.",
+    "Serve immediately, optionally adding sliced green onions for freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "gluten-free",
+    "one-pot",
+    "quick",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 47,
+    "fat": 14
+  },
+  "slug": "yummy-crispy-polish-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crispy-polish-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:06:17Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "dehydrate",
+    "primaryIngredient": "stracciatella-cheese",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Tofu",
+    "descriptor": "Yummy Crispy",
+    "dishForm": "Bowl"
+  }
+}

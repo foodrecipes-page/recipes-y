@@ -1,0 +1,103 @@
+{
+  "title": "Yellowed Velvety Malaysian Beef Curry",
+  "description": "A sour, velvety, and indulgent Malaysian dish featuring beef, tomatoes, and deep-fry-tod, ovo-vegetarian-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onions and cook until they are translucent.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the beef and cook until it is browned.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the coconut milk and tomatoes and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "curry-dishes",
+    "indulgent-meals",
+    "malaysian-cuisine",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-velvety-malaysian-beef-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-velvety-malaysian-beef-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:05:36Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "Yellowed velvety",
+    "dishForm": "Curry"
+  }
+}

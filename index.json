@@ -945,6 +945,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-velvety-malaysian-beef-curry",
+    "title": "Yellowed Velvety Malaysian Beef Curry",
+    "tags": [
+      "beef-recipes",
+      "curry-dishes",
+      "indulgent-meals",
+      "malaysian-cuisine",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-velvety-portuguese-oxtail-stew",
     "title": "Yellowed Velvety Portuguese Oxtail Stew",
     "tags": [
@@ -1511,6 +1525,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-crispy-polish-tofu-bowl",
+    "title": "Yummy Crispy Polish Tofu Bowl",
+    "tags": [
+      "crisp",
+      "gluten-free",
+      "one-pot",
+      "quick",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Polish-inspired",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

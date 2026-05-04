@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Smoky Northern Irish Sausages Bangers And Mash",
+  "description": "A traditional Northern Irish dish featuring smoky sausages and creamy mashed potatoes, made with smoky paprika and a mortar-pestle-pound technique. This nut-free-friendly meal is perfect for a weeknight dinner.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Northern Irish sausages",
+      "amount": "8",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "4 large",
+      "notes": "high-starch variety"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Place the sausages on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the sausages are baking, boil the potatoes in a large pot of salted water until they are tender.",
+    "Drain the potatoes and mash them with butter, milk, salt, and black pepper in a large bowl.",
+    "Using a mortar and pestle, pound the smoky paprika into a fine powder.",
+    "Add the pounded paprika to the mashed potatoes and stir until well combined.",
+    "Serve the sausages on top of the mashed potatoes and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "mashed-potatoes",
+    "one-pan",
+    "sausages",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "yellow-smoky-northern-irish-sausages-bangers-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-northern-irish-sausages-bangers-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:20:19Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "smoky paprika",
+    "diet": "nut-free",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "Sausages",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Bangers And Mash"
+  }
+}

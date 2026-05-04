@@ -804,6 +804,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-light-british-chicken-casserole",
+    "title": "Light British Chicken Casserole",
+    "tags": [
+      "british-cuisine",
+      "casserole",
+      "chicken-recipes",
+      "kid-friendly",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-mediterranean-grape-leaves-wrap",
     "title": "Yummy Mediterranean Grape Leaves Wrap",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "Light British Chicken Casserole",
+  "description": "A winey and light British dish featuring chervil, perfect for a family dinner. This paleo-friendly casserole is a kid-friendly version of a classic Cornish recipe.",
+  "cuisine": "British",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "chervil",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the coconut oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the chicken breast pieces and cook until browned on all sides, about 5-7 minutes.",
+    "Add the white wine to the skillet and stir to deglaze the fond, scraping up any browned bits from the bottom of the pan.",
+    "Add the chicken broth, chopped chervil, and browned chicken mixture to a 9x13 inch baking dish.",
+    "Transfer the dish to the preheated oven and bake for 25-30 minutes, or until the chicken is cooked through and the sauce is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "casserole",
+    "chicken-recipes",
+    "kid-friendly",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "yummy-light-british-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-light-british-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:02:28Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "chervil",
+    "diet": "paleo",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "yummy light",
+    "dishForm": "Casserole"
+  }
+}

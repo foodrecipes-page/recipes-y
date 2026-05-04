@@ -376,6 +376,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-fluffy-indian-lentils-lassi",
+    "title": "Yellow Fluffy Indian Lentils Lassi",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-fold-delight",
     "title": "Yellow Fold Delight",
     "tags": [
@@ -446,6 +460,20 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 22,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-grassy-korean-fish-bowl",
+    "title": "Yellow Grassy Korean Fish Bowl",
+    "tags": [
+      "grilled",
+      "healthy",
+      "korean-cuisine",
+      "seafood",
+      "stone-bowl"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

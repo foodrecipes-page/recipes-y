@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Fluffy Indian Lentils Lassi",
+  "description": "A quick and easy Indian dish featuring lentils, made fluffy with a yogurt based lassi, and air fried for a crispy texture, served in a Korean brass bowl.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Drain the lentils and air fry them at 375 degrees Fahrenheit for 10 minutes.",
+    "In a blender, combine the yogurt, lemon juice, honey, garam masala, turmeric, and salt.",
+    "Blend the mixture until smooth and creamy.",
+    "Add the cooked lentils to the blender and blend until well combined.",
+    "Add the water to the blender and blend until the desired consistency is reached.",
+    "Heat the vegetable oil in a small pan over medium heat.",
+    "Pour the lassi mixture into a Korean brass bowl and garnish with a sprinkle of turmeric."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "yellow-fluffy-indian-lentils-lassi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-fluffy-indian-lentils-lassi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:07:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "lentils",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Yellow Fluffy",
+    "dishForm": "Lassi"
+  }
+}

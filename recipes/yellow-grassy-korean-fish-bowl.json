@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Grassy Korean Fish Bowl",
+  "description": "A pescatarian-friendly Korean dish featuring grilled fish and vegetables in a dolsot stone bowl, flavored with olive oil and served with a side of fluffy rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat.",
+    "Season the cod fish with salt and pepper.",
+    "Brush the grill with olive oil and cook the fish for 4 minutes per side.",
+    "In a small bowl, whisk together soy sauce and 1 tablespoon of water.",
+    "Add the sliced zucchini and carrots to the grill and cook for 3 minutes.",
+    "In a large dolsot stone bowl, combine cooked brown rice, grilled vegetables, and grilled fish.",
+    "Drizzle the soy sauce mixture over the top of the dish.",
+    "Sprinkle chopped green onions and sesame seeds over the top.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "healthy",
+    "korean-cuisine",
+    "seafood",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellow-grassy-korean-fish-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-grassy-korean-fish-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:07:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "olive oil",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish",
+    "descriptor": "Yellow Grassy",
+    "dishForm": "Bowl"
+  }
+}

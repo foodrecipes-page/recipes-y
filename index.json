@@ -256,6 +256,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crispy-venezuelan-chicken-empanadas",
+    "title": "Yellow Crispy Venezuelan Chicken Empanadas",
+    "tags": [
+      "baked",
+      "chicken",
+      "diabetic-friendly",
+      "empanadas",
+      "latin-american",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crunchy-chinese-chinese-leaf-stir-fry",
     "title": "Yellow Crunchy Chinese Chinese Leaf Stir Fry",
     "tags": [
@@ -1871,6 +1886,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-jamaican-chuck-roast-stew",
+    "title": "Yummy Jamaican Chuck Roast Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "jamaican",
+      "low-carb",
+      "weeknight",
+      "winey"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 140,
     "shard": "y"
   },
   {

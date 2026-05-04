@@ -1,0 +1,101 @@
+{
+  "title": "Yummy Jamaican Chuck Roast Stew",
+  "description": "A winey, silky stew that brings nostalgic Jamaican flavors to your dinner table.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "2 kg",
+      "notes": "cut into 3 cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil over medium-high and brown the beef cubes until sealed.",
+    "Remove the beef, set aside, and in the same pan cook onions and garlic until softened.",
+    "Stir in thyme, allspice, and scotch bonnet pepper, cooking for 1 minute to release aromas.",
+    "Deglaze with red wine, scraping up browned bits, and reduce by half.",
+    "Return the beef to the pan, pour in beef broth, and bring to a gentle boil.",
+    "Simmer uncovered for 90 minutes, then blanch the carrots in boiling water for 3 minutes, drain, and add them to the stew.",
+    "Cook for an additional 15 minutes, or until the carrots are tender.",
+    "Remove from heat, season to taste, and serve warm over rice or with crackers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "jamaican",
+    "low-carb",
+    "weeknight",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yummy-jamaican-chuck-roast-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-jamaican-chuck-roast-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:59:51Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "blanch",
+    "primaryIngredient": "chuck roast",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chuck Roast",
+    "descriptor": "Yummy",
+    "dishForm": "Stew"
+  }
+}

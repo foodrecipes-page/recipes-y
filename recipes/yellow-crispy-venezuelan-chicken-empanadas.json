@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Crispy Venezuelan Chicken Empanadas",
+  "description": "Buttery and crispy Venezuelan empanadas filled with chicken, perfect for a weeknight dinner, made with soya milk and render fat for a diabetic friendly option.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "soya milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, soya milk, and render fat to make the empanada dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of the chicken mixture in the center of each circle.",
+    "Fold the dough in half to form a half moon shape and press the edges to seal.",
+    "Brush the tops with a little bit of render fat.",
+    "Bake the empanadas for 20 minutes or until they are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "chicken",
+    "diabetic-friendly",
+    "empanadas",
+    "latin-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "yellow-crispy-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crispy-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:59:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "render-fat",
+    "primaryIngredient": "soya milk",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Crispy",
+    "dishForm": "Empanadas"
+  }
+}

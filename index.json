@@ -295,6 +295,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spiced-indian-lentils-curry",
+    "title": "Yellow Spiced Indian Lentils Curry",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "indian-cuisine",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-croatian-fiordilatte-skewers",
     "title": "Yellow Spicy Croatian Fiordilatte Skewers",
     "tags": [

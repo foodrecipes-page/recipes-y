@@ -1,0 +1,99 @@
+{
+  "title": "Yeasty Tender Filipino Olive Dumplings",
+  "description": "A lacto-vegetarian Filipino dish featuring olives and dumplings, perfect for meal prep. This recipe yields tender and yeasty dumplings filled with a savory olive mixture.",
+  "cuisine": "Filipino",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pitted green olives",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Gradually add olive oil, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a separate bowl, mix chopped olives, onion, and vegetable broth.",
+    "Divide the risen dough into 8 equal pieces and shape into balls.",
+    "Flatten each ball into a disk and place a tablespoon of olive mixture in the center.",
+    "Fold the dough over the filling and seal the edges.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Brush the tops with milk and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "lacto-vegetarian",
+    "meal-prep",
+    "olive-based",
+    "yeasty-dough"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yeasty-tender-filipino-olive-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-tender-filipino-olive-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:54:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "olives",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "olives",
+    "descriptor": "yeasty tender",
+    "dishForm": "Dumplings"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Yummy Slovakian Lamb Flatbread",
+  "description": "Savory flatbread topped with thinly sliced lamb, paprika, and onion, baked to a crisp finish. A light, ovo-vegetarian dish that showcases long-fermented dough and traditional Slovakian flavors.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb loin chops, sliced thin",
+      "amount": "200g"
+    },
+    {
+      "name": "bread flour",
+      "amount": "250g"
+    },
+    {
+      "name": "warm water",
+      "amount": "150ml"
+    },
+    {
+      "name": "salt",
+      "amount": "3g"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red onion, thinly sliced",
+      "amount": "1 small"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine bread flour, salt, and instant yeast.",
+    "Add warm water and olive oil to the dry mixture and stir until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled container, cover, and let it ferment at room temperature for 12 hours.",
+    "After fermentation, punch down the dough and divide it into two equal portions.",
+    "Roll each portion into a 12-inch circle on a parchment sheet.",
+    "Spread sliced lamb chops evenly over the dough, sprinkle smoked paprika, oregano, and thin onion slices.",
+    "Brush the edges of the dough with beaten egg to create a golden crust.",
+    "Bake the flatbreads in a preheated oven at 220°C for 12 minutes until edges are crisp.",
+    "Remove from oven, let cool 5 minutes, then slice and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 37,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "lamb",
+    "long-fermentation",
+    "ovo-vegetarian",
+    "slovakian",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 705,
+    "protein": 41,
+    "carbs": 66,
+    "fat": 24
+  },
+  "slug": "yummy-slovakian-lamb-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-slovakian-lamb-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:46:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yummy",
+    "dishForm": "Flatbread"
+  }
+}

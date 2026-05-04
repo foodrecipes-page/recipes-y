@@ -2317,6 +2317,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-slovakian-lamb-flatbread",
+    "title": "Yummy Slovakian Lamb Flatbread",
+    "tags": [
+      "flatbread",
+      "lamb",
+      "long-fermentation",
+      "ovo-vegetarian",
+      "slovakian",
+      "snappy"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 37,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-slovakian-salmon-ceviche",
     "title": "Yummy Slovakian Salmon Ceviche",
     "tags": [

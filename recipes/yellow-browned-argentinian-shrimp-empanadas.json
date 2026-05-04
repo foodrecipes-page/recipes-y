@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Browned Argentinian Shrimp Empanadas",
+  "description": "A traditional Argentinian dish featuring shrimp and spices in a crispy empanada, cooked to a golden brown in a tandoor clay pot. This recipe combines the flavors of the Mediterranean with the heartiness of Argentinian cuisine.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "1 cup",
+      "notes": "kapi-style"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the shrimp paste, flour, and spices.",
+    "Add the butter and eggs to the bowl and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of shrimp paste in the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and place them in the preheated tandoor clay pot.",
+    "Cook the empanadas for 20 minutes, or until they are golden brown.",
+    "Remove the empanadas from the pot and let them cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "clay-pot-cooking",
+    "empanadas",
+    "mediterranean-inspired",
+    "seafood",
+    "shrimp-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "yellow-browned-argentinian-shrimp-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-browned-argentinian-shrimp-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:27:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Yellow Browned",
+    "dishForm": "Empanadas"
+  }
+}

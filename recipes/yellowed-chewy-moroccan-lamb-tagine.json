@@ -1,0 +1,107 @@
+{
+  "title": "Yellowed Chewy Moroccan Lamb Tagine",
+  "description": "A funky and chewy Moroccan dish featuring lamb, tomato ketchup, and a blend of spices, cooked in a tagine vessel on a robata grill, paleo-friendly and perfect for a dinner meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a mortar and pestle, pound the garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper into a smooth paste.",
+    "In a large bowl, whisk together the tomato ketchup, olive oil, and the spice paste.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Thread the lamb pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the robata grill and cook for 10 minutes per side, or until the lamb is cooked through.",
+    "Transfer the lamb to a tagine vessel and add the chopped onion.",
+    "Cover the tagine and cook for an additional 20 minutes, or until the onion is caramelized and the lamb is tender.",
+    "Serve the lamb hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "paleo-friendly",
+    "robata-grill",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellowed-chewy-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-chewy-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:21:30Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Chewy",
+    "dishForm": "Tagine Lamb"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Aerated Peruvian Seafood Picarones",
+  "description": "A festive Peruvian dish featuring frozen seafood mix in a sweet and aerated picarone form, made with low glycemic ingredients and a double fry KFC method.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-glycemic",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen seafood mix",
+      "amount": "1 pound",
+      "notes": "thawed"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "pumpkin puree",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mashed sweet potato, pumpkin puree, eggs, coconut flour, and granulated sweetener, and mix until well combined.",
+    "Add the thawed seafood mix to the bowl and stir until the seafood is evenly distributed.",
+    "Using a piping bag or a spoon, drop the mixture into the hot oil, making sure not to overcrowd the pot.",
+    "Fry the picarones for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Using a slotted spoon, remove the picarones from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Increase the oil temperature to 375 degrees and fry the picarones again for an additional 2 minutes, until they are crispy and aerated.",
+    "Remove the picarones from the oil and sprinkle with salt.",
+    "Serve the Yellow Aerated Peruvian Seafood Picarones hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "aerated-food",
+    "double-fry",
+    "kfc-inspired",
+    "low-glycemic",
+    "peruvian-cuisine",
+    "seafood-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "yellow-aerated-peruvian-seafood-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-aerated-peruvian-seafood-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:43:18Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "seafood",
+    "descriptor": "Yellow Aerated",
+    "dishForm": "Picarones"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Nutty Saudi Arabian Almond Pilaf",
+  "description": "A comforting Saudi Arabian dish featuring nuts and steam cooked to perfection, this pilaf is both nutty and tender, making it a great keto-friendly option.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "4 pods"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 stick"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the sliced almonds and cook for 2 minutes, stirring frequently.",
+    "Add the basmati rice and cook for 2 minutes, stirring constantly.",
+    "Add the cardamom pods, cinnamon stick, and salt, and stir to combine.",
+    "Add the water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and steam the pilaf for 20 minutes.",
+    "Turn off the heat and let the pilaf rest, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "keto-friendly",
+    "middle-eastern",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "yellowed-nutty-saudi-arabian-almond-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-nutty-saudi-arabian-almond-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:40:38Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "nuts",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "almonds",
+    "descriptor": "Yellowed Nutty",
+    "dishForm": "Pilaf"
+  }
+}

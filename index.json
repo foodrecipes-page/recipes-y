@@ -1391,6 +1391,20 @@
     "shard": "y"
   },
   {
+    "slug": "yielding-australian-beef-broth",
+    "title": "Yielding Australian Beef Broth",
+    "tags": [
+      "beef-broth",
+      "comfort-food",
+      "light-soup",
+      "malt-infused",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yielding-japanese-beef-gyudon",
     "title": "Yielding Japanese Beef Gyudon",
     "tags": [

@@ -2349,6 +2349,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-crispy-venezuelan-mixed-grain-fried-rice",
+    "title": "Yummy Crispy Venezuelan Mixed Grain Fried Rice",
+    "tags": [
+      "fried-rice",
+      "low-sodium",
+      "mixed-grain",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-croatian-bread-flour-bowl",
     "title": "Yummy Croatian Bread Flour Bowl",
     "tags": [

@@ -1,0 +1,108 @@
+{
+  "title": "Yummy Crispy Venezuelan Mixed Grain Fried Rice",
+  "description": "A savory, low-sodium mixed-grain fried rice with chicken, fresh vegetables, and a hint of lime, perfect for a date night.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked mixed grains (brown rice, quinoa, barley)",
+      "amount": "2 cups",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "diced cooked chicken breast",
+      "amount": "3 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "low-sodium soy sauce (tamari)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "egg, beaten",
+      "amount": "2 large"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp sesame oil in a large nonstick skillet over medium heat.",
+    "Add diced onion, bell pepper, carrot, and minced garlic, sautéing until the vegetables soften, about 4 minutes.",
+    "Push the vegetables to the side of the skillet and pour the beaten eggs into the cleared space, scrambling them until just set.",
+    "Stir the scrambled eggs into the vegetables, then add the pre‑cooked mixed grains, breaking any clumps with a wooden spoon.",
+    "Pour the low‑sodium soy sauce over the grains and mix thoroughly to coat evenly.",
+    "Add the cooked chicken and frozen peas, cooking for an additional 3 minutes until the peas thaw and the chicken heats through.",
+    "Season with freshly ground black pepper to taste.",
+    "Remove the skillet from heat and stir in fresh lime juice for brightness.",
+    "Transfer the fried rice to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried-rice",
+    "low-sodium",
+    "mixed-grain",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yummy-crispy-venezuelan-mixed-grain-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crispy-venezuelan-mixed-grain-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:24:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "mixed grain",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Mixed Grain",
+    "descriptor": "Yummy Crispy",
+    "dishForm": "Fried-Rice"
+  }
+}

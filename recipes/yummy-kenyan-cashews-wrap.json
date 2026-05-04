@@ -1,0 +1,102 @@
+{
+  "title": "Yummy Kenyan Cashews Wrap",
+  "description": "A buttery, fluffy wrap filled with crunchy cashews, ripe avocado, and fresh greens, perfect for lazy Sunday mornings.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "150g"
+    },
+    {
+      "name": "cashew nuts",
+      "amount": "50g",
+      "notes": "toasted in a dry pan"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "30g",
+      "notes": "washed"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "50g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Warm each tortilla in a dry skillet for 20 seconds on each side.",
+    "Toast the cashews in a dry pan until fragrant, about 3 minutes.",
+    "Slice the avocado and bell pepper, and squeeze lime juice over the avocado.",
+    "Spread avocado on the tortilla and top with spinach, bell pepper, and a pinch of salt and pepper.",
+    "Sprinkle toasted cashews over the greens and drizzle olive oil.",
+    "Fold the sides of the tortilla in and roll tightly into a wrap.",
+    "Slice the wrap in half and serve immediately.",
+    "Optionally add extra lime wedges on the side.",
+    "Enjoy your buttery, fluffy Kenyan cashews wrap."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cashews",
+    "fluffy",
+    "kenyan",
+    "lazy-sunday",
+    "quick",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 975,
+    "protein": 26,
+    "carbs": 71,
+    "fat": 61
+  },
+  "slug": "yummy-kenyan-cashews-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-kenyan-cashews-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:36:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "cashew nuts",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cashews",
+    "descriptor": "Yummy",
+    "dishForm": "Wrap"
+  }
+}

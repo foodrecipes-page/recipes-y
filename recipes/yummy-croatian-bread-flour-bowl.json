@@ -1,0 +1,95 @@
+{
+  "title": "Yummy Croatian Bread Flour Bowl",
+  "description": "A velvety, energizing Croatian dish made with bread flour, sashimi‑cut zucchini, and fresh herbs, served in a bento‑box for a satisfying vegetarian meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": "warm"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "zucchini",
+      "amount": "50g",
+      "notes": "sashimi‑cut"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "30g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix bread flour, salt, and sugar.",
+    "Dissolve yeast in warm water and let sit for 5 minutes until foamy.",
+    "Add the water mixture to the dry ingredients and stir until a rough dough forms.",
+    "Knead the dough on a floured surface for 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover, and let rise for 30 minutes until doubled in size.",
+    "Preheat the oven to 220°C and line a baking tray with parchment paper.",
+    "Shape the dough into a round loaf, brush the top with olive oil, and bake for 15 minutes until golden.",
+    "Let the loaf cool for 10 minutes, then slice and arrange sashimi‑cut zucchini and chopped basil on top.",
+    "Serve warm or at room temperature in a bento‑box."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "bread",
+    "quick",
+    "sattvic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 444,
+    "protein": 11,
+    "carbs": 77,
+    "fat": 7
+  },
+  "slug": "yummy-croatian-bread-flour-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-croatian-bread-flour-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:50:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "bread flour",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "bread flour",
+    "descriptor": "Yummy",
+    "dishForm": "Bowl"
+  }
+}

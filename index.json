@@ -2767,6 +2767,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-kenyan-fish-curry",
+    "title": "Yummy Kenyan Fish Curry",
+    "tags": [
+      "chewy",
+      "indulgent",
+      "jammy",
+      "kenyan",
+      "pescatarian-friendly",
+      "tandoori"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-kenyan-rye-bread-toast",
     "title": "Yummy Kenyan Rye Bread Toast",
     "tags": [

@@ -1,0 +1,111 @@
+{
+  "title": "Yummy Kenyan Fish Curry",
+  "description": "This jammy, chewy fish curry blends natural yoghurt and tandoori spices into a creamy sauce that hugs every fillet. Pescatarian-friendly, it’s an indulgent Kenyan classic that feels like a cozy hand‑plate meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "400g"
+    },
+    {
+      "name": "plain natural yoghurt",
+      "amount": "150g",
+      "notes": "low-fat"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought"
+    },
+    {
+      "name": "tandoori masala",
+      "amount": "1 tsp",
+      "notes": "ground spice mix"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "100g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Whisk yoghurt, tandoori masala, red curry paste, ginger, garlic, and a pinch of salt in a bowl to make a smooth marinade.",
+    "Slice fish into bite‑sized pieces and toss them in the marinade, letting them sit for 20 minutes to absorb flavor.",
+    "Heat a heavy skillet over medium heat, add a splash of oil, then sauté onions until translucent, about 5 minutes.",
+    "Stir in tomato puree, coconut milk, and lime juice, bringing the mixture to a gentle simmer.",
+    "Gently fold in the marinated fish, cover, and cook for 8–10 minutes until the fish flakes easily and the sauce thickens.",
+    "Sprinkle freshly ground pepper, adjust salt to taste, then remove the pan from heat.",
+    "Serve hot with steamed rice or flatbread, garnishing with fresh cilantro if desired.",
+    "Enjoy the jammy, chewy indulgence of this Kenyan fish curry, perfect for pescatarian diners."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "indulgent",
+    "jammy",
+    "kenyan",
+    "pescatarian-friendly",
+    "tandoori"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "yummy-kenyan-fish-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-kenyan-fish-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:44:32Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Fish",
+    "descriptor": "Yummy",
+    "dishForm": "Curry"
+  }
+}

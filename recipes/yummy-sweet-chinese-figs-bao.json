@@ -1,0 +1,98 @@
+{
+  "title": "Sweet Chinese Figs Bao",
+  "description": "A sweet and pillowy Chinese dish featuring figs, perfect for a post-workout snack or dessert. This dish is smoke-cold and Buddhist-temple-friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fig jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried figs",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, sugar, and salt.",
+    "Gradually add in vegetable oil and sesame oil, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a steamer basket over boiling water.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of fig jam in the center of each disk.",
+    "Top the fig jam with a few pieces of chopped dried figs.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the bao.",
+    "Place the bao in the steamer basket, leaving some space between each bao.",
+    "Steam the bao over boiling water for 12 minutes.",
+    "Serve the bao warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "post-workout",
+    "snack",
+    "steamed",
+    "sweet",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "yummy-sweet-chinese-figs-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-sweet-chinese-figs-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:04:55Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "smoke-cold",
+    "primaryIngredient": "figs",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "figs",
+    "descriptor": "yummy sweet",
+    "dishForm": "Bao"
+  }
+}

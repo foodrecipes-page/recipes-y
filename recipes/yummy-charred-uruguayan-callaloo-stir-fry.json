@@ -1,0 +1,106 @@
+{
+  "title": "Yummy Charred Uruguayan callaloo Stir-fry",
+  "description": "A quick, charred stir-fry featuring tender callaloo leaves and vibrant vegetables, perfect for a gluten-free, instant dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo leaves",
+      "amount": "200g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "julienned"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "200g",
+      "notes": "drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat until shimmering.",
+    "Add the sliced onion and cook until translucent, about 2 minutes.",
+    "Toss in the minced garlic and stir for 30 seconds until fragrant.",
+    "Add the julienned carrot and sliced bell pepper, cooking for 3 minutes until slightly softened.",
+    "Stir in the chopped tomatoes and chickpeas, cooking for another 2 minutes.",
+    "Add the callaloo leaves, covering the pan, and let them wilt for 2-3 minutes before stirring.",
+    "Sprinkle in cumin, smoked paprika, salt, and pepper, and stir to coat evenly.",
+    "Finish by squeezing fresh lime juice over the stir-fry and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "quick-fix",
+    "stir-fry",
+    "uruguayan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "yummy-charred-uruguayan-callaloo-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-charred-uruguayan-callaloo-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:27:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "callaloo",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "callaloo",
+    "descriptor": "Yummy Charred",
+    "dishForm": "Stir-fry"
+  }
+}

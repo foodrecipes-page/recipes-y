@@ -1,0 +1,103 @@
+{
+  "title": "Yellowed Silky Portuguese Beef Flank Steak Roast",
+  "description": "This dish features a tender beef flank steak roast with a rich umami flavor, served with a silky sauce, perfect for a festive Portuguese dinner. The gluten-free friendly ingredients make it accessible to a wide range of diners.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1.5 pounds",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "port wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef flank steak with salt, black pepper, and dried thyme.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Seal the beef flank steak for 2-3 minutes per side, then set it aside.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the port wine, beef broth, and tomato paste to the pot, stirring to combine.",
+    "Return the beef flank steak to the pot and bring the sauce to a simmer.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Roast the beef for 2.5 hours, or until it reaches an internal temperature of 130 degrees Fahrenheit."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "dinner-ideas",
+    "gluten-free",
+    "portuguese-cuisine",
+    "roast-beef",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "yellowed-silky-portuguese-beef-flank-steak-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-silky-portuguese-beef-flank-steak-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:46:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "beef flank steak",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "Yellowed Silky",
+    "dishForm": "Roast"
+  }
+}

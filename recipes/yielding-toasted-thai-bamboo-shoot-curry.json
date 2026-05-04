@@ -1,0 +1,115 @@
+{
+  "title": "Yielding Toasted Thai Bamboo Shoot Curry",
+  "description": "A savory, silky Thai street‑style curry that pairs tender bamboo shoots with a fragrant coconut sauce, finished with toasted bread slices for a crunchy contrast.",
+  "cuisine": "Thai",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "300ml",
+      "notes": ""
+    },
+    {
+      "name": "dried bamboo shoots",
+      "amount": "200g",
+      "notes": "soaked in water for 2 hours, then boiled until tender"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "bread slices",
+      "amount": "4",
+      "notes": "lightly buttered and toasted"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a claypot over medium heat until shimmering.",
+    "Add the sliced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and ginger, cooking until fragrant, about 1 minute.",
+    "Pour in the red curry paste and stir to coat the aromatics, cooking for 2 minutes.",
+    "Add the coconut milk and bring the mixture to a gentle simmer, stirring occasionally.",
+    "Fold in the soaked and boiled bamboo shoots, allowing the curry to reduce and thicken for 10 minutes.",
+    "Season with salt and black pepper to taste, then stir in the lime juice for brightness.",
+    "While the curry simmers, toast the bread slices in a dry skillet until golden, then lightly butter them.",
+    "Ladle the hot curry into individual bowls and top each with a toasted bread slice.",
+    "Garnish with fresh cilantro if desired, then serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-shoot",
+    "claypot",
+    "egg-free",
+    "one-pot",
+    "street-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 24,
+    "carbs": 95,
+    "fat": 58
+  },
+  "slug": "yielding-toasted-thai-bamboo-shoot-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yielding-toasted-thai-bamboo-shoot-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:59:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "toast",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "egg-free",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Bamboo Shoot",
+    "descriptor": "Yielding Toasted",
+    "dishForm": "Curry"
+  }
+}

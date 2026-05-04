@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Garlicky Vietnamese Lasagne Sheets Cha Gio",
+  "description": "A garlicky, shaggy, one-pot Vietnamese dish featuring lasagne sheets, binchotan-charcoal, and flexitarian-friendly ingredients, formed into cha gio, Vietnamese spring rolls.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagne sheets",
+      "amount": "8 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "mung bean noodles",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "julienned"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the minced garlic and cook until fragrant.",
+    "Add the julienned carrots and sliced mushrooms and cook until they start to soften.",
+    "Add the cooked mung bean noodles, soy sauce, and fish sauce, and stir to combine.",
+    "Add the dried lasagne sheets to the skillet, breaking them into pieces as they cook.",
+    "Use the binchotan charcoal to add a smoky flavor to the dish.",
+    "Continue cooking the mixture until the lasagne sheets are well coated and the mixture is heated through.",
+    "Serve the Yellowed Garlicky Vietnamese Lasagne Sheets Cha Gio hot, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cha-gio-inspired",
+    "flexitarian-friendly",
+    "garlicky",
+    "one-pot",
+    "smoky-flavors",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellowed-garlicky-vietnamese-lasagne-sheets-cha-gio",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-garlicky-vietnamese-lasagne-sheets-cha-gio",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:03:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "lasagne sheets",
+    "descriptor": "Yellowed Garlicky",
+    "dishForm": "Cha Gio"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Yellowy Smoky Indian Eggplant Baingan Bharta",
+  "description": "A winey, chewy, and comforting Indian dish featuring roasted eggplant, served with a bun on a cedar plank, perfect for a sick day. This Goan-inspired recipe is onion and garlic friendly, with a smoky flavor from the air fryer.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "any variety, but purple works best"
+    },
+    {
+      "name": "bun",
+      "amount": "4",
+      "notes": "any type, but lightly toasted works best"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "green chili",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Poke some holes in the eggplants and roast them in the air fryer for 30 minutes, or until the skin is charred and the flesh is soft.",
+    "Let the eggplants cool down, then peel and chop them into small pieces.",
+    "In a large bowl, mix together the chopped eggplant, diced tomato, green chili, cilantro, lemon juice, smoked paprika, and salt.",
+    "Toast the buns lightly and slice them in half.",
+    "Spoon the eggplant mixture onto the buns and serve on a cedar plank.",
+    "Garnish with additional cilantro and lemon wedges if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "goan-cuisine",
+    "indian-food",
+    "smoky-flavors",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellowy-smoky-indian-eggplant-baingan-bharta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowy-smoky-indian-eggplant-baingan-bharta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:32:47Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "bun",
+    "diet": "no-onion-no-garlic",
+    "region": "goan",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Yellowy Smoky",
+    "dishForm": "Baingan Bharta"
+  }
+}

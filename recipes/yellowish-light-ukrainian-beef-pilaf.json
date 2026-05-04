@@ -1,0 +1,103 @@
+{
+  "title": "Yellowish Light Ukrainian Beef Pilaf",
+  "description": "A tangy and creamy Ukrainian dish featuring beef stock and served on a hot stone plate, pescatarian friendly by substituting beef with fish stock if needed.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock",
+      "amount": "2 cups",
+      "notes": "or fish stock for pescatarian version"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot stone plate in the oven at 400 degrees Fahrenheit for 10 minutes.",
+    "In a large saucepan, melt butter over medium heat and add chopped onion, cooking until translucent.",
+    "Add minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add grated carrots and cook for 2 minutes, stirring occasionally.",
+    "Add Arborio rice and cook for 1-2 minutes, stirring constantly, until the rice is coated in butter and slightly toasted.",
+    "Add beef stock, one cup at a time, stirring constantly and allowing each cup to be absorbed before adding the next.",
+    "After 20 minutes of cooking the rice, stir in heavy cream and dried dill weed.",
+    "Season with salt and black pepper to taste.",
+    "Remove the hot stone plate from the oven and carefully spoon the pilaf onto the plate.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "one-pan",
+    "tangy",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellowish-light-ukrainian-beef-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-light-ukrainian-beef-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:27:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "blanch",
+    "primaryIngredient": "beef stock",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Yellowish Light",
+    "dishForm": "Pilaf"
+  }
+}

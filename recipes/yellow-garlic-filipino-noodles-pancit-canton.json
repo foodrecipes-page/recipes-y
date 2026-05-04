@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Garlic Filipino Noodles Pancit Canton",
+  "description": "A garlicky and springy Filipino dish featuring Greek yogurt, perfect for a hangover cure, this pancit canton recipe is a twist on the classic with a double fry method inspired by KFC, making it a dash friendly meal option.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pancit canton noodles",
+      "amount": "1 package",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Heat 1 cup of vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Double fry the pancit canton noodles by first frying them for 2 minutes, then removing them from the oil and letting them cool for 5 minutes, and finally frying them again for an additional 2 minutes until golden brown.",
+    "Remove the noodles from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "In a large pan, heat 1 tablespoon of vegetable oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the soy sauce, oyster sauce, salt, and black pepper to the pan and stir to combine.",
+    "Add the Greek yogurt to the pan and stir to combine, cooking for an additional 2 minutes.",
+    "Add the double fried noodles to the pan and stir to combine with the yogurt sauce.",
+    "Transfer the noodles to a serving platter and top with chopped scallions and a squeeze of lemon juice.",
+    "Serve the pancit canton hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry-recipes",
+    "filipino-food",
+    "garlic-lovers",
+    "hangover-cures",
+    "noodle-recipes",
+    "yogurt-based-sauces"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "yellow-garlic-filipino-noodles-pancit-canton",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-garlic-filipino-noodles-pancit-canton",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:11:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "greek yogurt",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "noodles",
+    "descriptor": "Yellow Garlic",
+    "dishForm": "Pancit Canton"
+  }
+}

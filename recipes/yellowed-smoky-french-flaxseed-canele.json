@@ -1,0 +1,91 @@
+{
+  "title": "Yellowed Smoky French Flaxseed Canele",
+  "description": "A smoky and aerated French dish featuring flaxseed, perfect for a brunch mood, this ovo-vegetarian friendly recipe is made in an iron teppan and formed into a canele shape.",
+  "cuisine": "French",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 375 degrees Fahrenheit.",
+    "Whisk together the ground flaxseed, smoked paprika, eggs, granulated sugar, and all purpose flour in a large bowl.",
+    "Add the milk, melted unsalted butter, and vanilla extract to the bowl and mix until a smooth batter forms.",
+    "Pour the batter into the preheated iron teppan and cook for 20 minutes.",
+    "Rotate the canele 180 degrees and continue cooking for an additional 15 minutes.",
+    "Remove the canele from the teppan and let cool for 5 minutes.",
+    "Serve the Yellowed Smoky French Flaxseed Canele warm.",
+    "Optional: dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "french-cuisine",
+    "iron-teppan",
+    "ovo-vegetarian",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "yellowed-smoky-french-flaxseed-canele",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-french-flaxseed-canele",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:29:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "flaxseed",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Canele"
+  }
+}

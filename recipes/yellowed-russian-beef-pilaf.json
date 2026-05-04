@@ -1,0 +1,99 @@
+{
+  "title": "Yellowed Russian Beef Pilaf",
+  "description": "A hearty, peppery Russian dish featuring grana-padano and lamination-puff, cooked to perfection on a salt-block vessel.",
+  "cuisine": "Russian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "grana-padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "lamination-puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt-block vessel to 400 degrees Fahrenheit.",
+    "Roll out the lamination-puff pastry to a large sheet, about 1/4 inch thick.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the beef strips until browned, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "In a large bowl, combine the cooked beef and onion mixture, shredded grana-padano cheese, and black pepper.",
+    "Place the pastry sheet on the preheated salt-block vessel and spoon the beef and cheese mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Brush the pastry with olive oil and cut a few slits in the top to allow steam to escape.",
+    "Bake the pilaf for 25 minutes, or until the pastry is golden brown and puffed.",
+    "Remove the pilaf from the oven and let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "yellowed-russian-beef-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-russian-beef-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:45:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "lamination-puff",
+    "primaryIngredient": "grana-padano",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Yellowed Crunchy",
+    "dishForm": "Pilaf"
+  }
+}

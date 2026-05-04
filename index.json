@@ -800,6 +800,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-russian-beef-pilaf",
+    "title": "Yellowed Russian Beef Pilaf",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-russian-chicken-kebabs",
     "title": "Yellowed Russian Chicken Kebabs",
     "tags": [

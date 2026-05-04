@@ -1,0 +1,87 @@
+{
+  "title": "Yellowed Light Italian Bread Toast",
+  "description": "A smoky and comforting Italian dish featuring white bread, perfect for a light meal or snack. This vegan-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread mix",
+      "amount": "1 package",
+      "notes": "preferably Italian or French bread mix"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Mix the white bread mix according to the package instructions.",
+    "Brush the olive oil onto the bread and sprinkle with smoked paprika, garlic powder, salt, and black pepper.",
+    "Place the bread onto a baking sheet and bake for 10 minutes.",
+    "Remove the bread from the oven and top with cherry tomatoes.",
+    "Return the bread to the oven and bake for an additional 5 minutes.",
+    "Remove the bread from the oven and let cool for a few minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-snack",
+    "italian-food",
+    "smoky-flavor",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "yellowed-light-italian-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-light-italian-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:19:50Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "white bread mix",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "bread",
+    "descriptor": "Yellowed Light",
+    "dishForm": "Toast"
+  }
+}

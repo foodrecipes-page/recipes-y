@@ -1,0 +1,94 @@
+{
+  "title": "Yummy Crispy Kenyan Cabbage Gratin",
+  "description": "A pungently flavored, crispy cabbage gratin bursting with Taleggio and braised aromatics, perfect for a lazy Sunday Kenyan meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 medium (1.5 lbs)",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Taleggio cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat olive oil in a large oven-proof skillet over medium heat and sauté onion and garlic until fragrant.",
+    "Add the chopped cabbage and smoked paprika, cooking until the cabbage begins to soften, about 5 minutes.",
+    "Pour in vegetable broth, cover, and simmer on low heat for 15 minutes until cabbage is tender.",
+    "Transfer the skillet to the oven and bake uncovered for 20 minutes to develop a golden top.",
+    "Remove the skillet, sprinkle grated Taleggio cheese over the cabbage, and return to oven for an additional 10 minutes until cheese is melted and crisp.",
+    "Remove from oven, garnish with chopped parsley, and let rest for 5 minutes.",
+    "Slice the gratin into portions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy",
+    "flexitarian",
+    "kenyan",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "yummy-crispy-kenyan-cabbage-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crispy-kenyan-cabbage-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:18:05Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "taleggio",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cabbage",
+    "descriptor": "Yummy Crispy",
+    "dishForm": "Gratin"
+  }
+}

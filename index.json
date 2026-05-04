@@ -424,6 +424,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-aerated-valencian-quinoa-paella",
+    "title": "Yummy Aerated Valencian Quinoa Paella",
+    "tags": [
+      "aerated",
+      "low-glycemic",
+      "quinoa",
+      "seafood",
+      "valencia"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-algerian-chicken-kebabs",
     "title": "Yummy Algerian Chicken Kebabs",
     "tags": [
@@ -453,6 +467,20 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-crispy-kenyan-cabbage-gratin",
+    "title": "Yummy Crispy Kenyan Cabbage Gratin",
+    "tags": [
+      "comfort-food",
+      "crispy",
+      "flexitarian",
+      "kenyan",
+      "one-pan"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

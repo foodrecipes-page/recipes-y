@@ -1,0 +1,117 @@
+{
+  "title": "Yummy Aerated Valencian Quinoa Paella",
+  "description": "Savory quinoa paella with a monsoon twist, featuring aromatic saffron, smoked paprika, chickery seafood, coconut cream and a hint of Turkish delight for a unique aerated finish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup dry (190g)",
+      "notes": ""
+    },
+    {
+      "name": "low-sodium fish stock",
+      "amount": "2 cups (480ml)",
+      "notes": ""
+    },
+    {
+      "name": "saffron",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp (15ml)",
+      "notes": ""
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium (150g)",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves (9g)",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1 medium (150g)",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "mixed seafood (shrimp and mussels)",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup (60ml)",
+      "notes": ""
+    },
+    {
+      "name": "crushed Turkish delight",
+      "amount": "30g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water until the water runs clear.",
+    "Heat olive oil in a large paella pan over medium heat and sauté onion, garlic, and bell pepper until softened.",
+    "Stir in smoked paprika, saffron, and quinoa, coating everything evenly.",
+    "Add fish stock and bring the mixture to a gentle boil, then reduce heat and simmer uncovered until the quinoa is tender and most liquid is absorbed, about 15 minutes.",
+    "Fold in cherry tomatoes, seafood, and coconut cream, stirring gently, and cook until the seafood is just done, about 5 minutes.",
+    "Remove the pan from heat, fluff the quinoa with a fork, and then fold in the crushed Turkish delight to aerate and sweeten the dish.",
+    "Transfer the paella to a serving dish and allow it to sit for a minute to develop its airy texture.",
+    "Garnish with fresh parsley if desired before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "low-glycemic",
+    "quinoa",
+    "seafood",
+    "valencia"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 60,
+    "carbs": 200,
+    "fat": 40
+  },
+  "slug": "yummy-aerated-valencian-quinoa-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-aerated-valencian-quinoa-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:17:52Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "turkish delight",
+    "diet": "low-glycemic",
+    "region": "valencian",
+    "cuisineAdjective": "Valencian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Yummy Aerated",
+    "dishForm": "Paella"
+  }
+}

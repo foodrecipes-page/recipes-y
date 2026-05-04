@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Crumbly Middle Eastern Emmentaler Cheese Flatbread",
+  "description": "A spicy and crumbly flatbread featuring Emmentaler cheese, perfect for a light Middle Eastern-inspired snack. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Emmentaler cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, sugar, and grated Emmentaler cheese.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a thin circle, about 1/4 inch thick.",
+    "Brush the dough with olive oil and sprinkle with paprika and cayenne pepper.",
+    "Place the flatbread on a wooden board and bake for 15-20 minutes, or until it is golden brown and crispy.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "crunchy",
+    "flatbread",
+    "middle-eastern",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "yellow-crumbly-middle-eastern-emmentaler-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crumbly-middle-eastern-emmentaler-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:57:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Emmentaler cheese",
+    "descriptor": "Yellow crumbly",
+    "dishForm": "Flatbread"
+  }
+}

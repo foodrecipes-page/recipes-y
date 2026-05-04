@@ -346,6 +346,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crumbly-middle-eastern-emmentaler-cheese-flatbread",
+    "title": "Yellow Crumbly Middle Eastern Emmentaler Cheese Flatbread",
+    "tags": [
+      "cheesy",
+      "crunchy",
+      "flatbread",
+      "middle-eastern",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crunchy-chinese-chinese-leaf-stir-fry",
     "title": "Yellow Crunchy Chinese Chinese Leaf Stir Fry",
     "tags": [

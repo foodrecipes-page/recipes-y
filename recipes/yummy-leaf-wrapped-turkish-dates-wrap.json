@@ -1,0 +1,107 @@
+{
+  "title": "Yummy Leaf-Wrapped Turkish Dates Wrap",
+  "description": "Sweet, herbal dates wrapped in aromatic tea leaves, dusted with cinnamon and flamed with honey for a comforting dessert.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Medjool dates, pitted",
+      "amount": "12 large Medjool dates, pitted"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "4 tbsp almond butter"
+    },
+    {
+      "name": "Pistachios, chopped",
+      "amount": "2 tbsp chopped pistachios"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp ground cinnamon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp honey"
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 tsp rose water"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch salt"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tsp olive oil"
+    },
+    {
+      "name": "Green tea leaves",
+      "amount": "10 fresh green tea leaves"
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "6 mint leaves"
+    },
+    {
+      "name": "Dried rose petals",
+      "amount": "1 tbsp dried rose petals"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat and lightly oil it with olive oil.",
+    "In a bowl, mix almond butter, chopped pistachios, ground cinnamon, salt, and rose water until smooth.",
+    "Slice each date in half lengthwise and fill with the almond mixture, then press to seal.",
+    "Place the filled dates in the skillet and cook for 2 minutes on each side until lightly browned.",
+    "Drizzle honey over the dates and sprinkle sugar on top, then use a lighter to briefly flame the honey until it caramelizes but be careful not to burn.",
+    "While the dates are still hot, gently roll each date in a tea leaf to coat completely, using the leaf as a wrap.",
+    "Arrange the wrapped dates on a platter and dust with dried rose petals for extra aroma.",
+    "Garnish with mint leaves on top and serve immediately while warm."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "aromatic",
+    "cinnamon",
+    "comforting",
+    "dessert",
+    "gluten-free",
+    "quick",
+    "tea-leaf-wrap"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 13,
+    "carbs": 76,
+    "fat": 57
+  },
+  "slug": "yummy-leaf-wrapped-turkish-dates-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-leaf-wrapped-turkish-dates-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:53:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "flambe",
+    "primaryIngredient": "cinnamon",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Dates",
+    "descriptor": "Yummy Leaf-Wrapped",
+    "dishForm": "Wrap"
+  }
+}

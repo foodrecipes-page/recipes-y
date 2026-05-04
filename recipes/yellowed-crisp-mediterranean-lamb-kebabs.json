@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Crisp Mediterranean Lamb Kebabs",
+  "description": "A quick and easy Mediterranean dish featuring lamb, oregano, and a crispy exterior, served in a lacquerware bowl. This recipe is gluten-free friendly and perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, lemon juice, salt, black pepper, and paprika.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Knead the lamb pieces with your hands for about 5 minutes to help break down the fibers and create a more tender texture.",
+    "Thread the lamb pieces onto skewers, leaving a little space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 2-3 minutes, or until the lamb is crispy and golden brown.",
+    "Remove the skewers from the oven and sprinkle with dried oregano.",
+    "Serve the lamb kebabs in a lacquerware bowl and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 17,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kebabs",
+    "lamb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "yellowed-crisp-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:57:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "knead",
+    "primaryIngredient": "oregano",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Kebabs"
+  }
+}

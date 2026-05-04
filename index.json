@@ -964,6 +964,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-filipino-duck-legs-skewers",
+    "title": "Yellowed Filipino Duck Legs Skewers",
+    "tags": [
+      "filipino-food",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-flaky-brazilian-tripe-fritters",
     "title": "Yellowed Flaky Brazilian Tripe Fritters",
     "tags": [
@@ -2928,6 +2942,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 135,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-vietnamese-rice-noodle-pho",
+    "title": "Yummy Vietnamese Rice Noodle Pho",
+    "tags": [
+      "high-protein",
+      "kadhai",
+      "one-pot",
+      "post-workout",
+      "quick",
+      "smoky-pungent"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {

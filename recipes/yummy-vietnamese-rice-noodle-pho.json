@@ -1,0 +1,103 @@
+{
+  "title": "Yummy Vietnamese Rice Noodle Pho",
+  "description": "A smoky, fiery bowl of rice noodle pho packed with chili flakes and post-workout protein.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles (pho-ga)",
+      "amount": "200g",
+      "notes": "thin rice noodles"
+    },
+    {
+      "name": "lean beef sirloin, thinly sliced",
+      "amount": "400g"
+    },
+    {
+      "name": "smoked beef broth",
+      "amount": "1 liter",
+      "notes": "smoked"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tablespoon",
+      "notes": "pungent"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bok choy, chopped",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the kadhai over medium-high heat and add sesame oil, then swirl to coat the bottom.",
+    "Add minced garlic and ginger, sauté until fragrant, about 30 seconds.",
+    "Pour in smoked beef broth and bring to a gentle simmer.",
+    "Stir in fish sauce, lime juice, and chili flakes, allowing the flavors to meld for 2 minutes.",
+    "Add the thinly sliced beef, letting it cook until just browned, about 2-3 minutes.",
+    "While the beef cooks, steam the rice noodles until just soft, then drain.",
+    "Toss the cooked noodles into the broth, ensuring they are evenly coated.",
+    "Stir in chopped bok choy and simmer until wilted, about 1 minute.",
+    "Serve hot, garnishing with fresh cilantro, mint, and scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "kadhai",
+    "one-pot",
+    "post-workout",
+    "quick",
+    "smoky-pungent"
+  ],
+  "nutrition": {
+    "calories": 1070,
+    "protein": 100,
+    "carbs": 58,
+    "fat": 37
+  },
+  "slug": "yummy-vietnamese-rice-noodle-pho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-vietnamese-rice-noodle-pho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:47:53Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "smoke-hot",
+    "primaryIngredient": "chilli flakes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Yummy",
+    "dishForm": "Pho"
+  }
+}

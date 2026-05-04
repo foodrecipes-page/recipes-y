@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Filipino Duck Legs Skewers",
+  "description": "A cultured and creamy solo dinner dish featuring duck legs, grilled to perfection with a blend of Filipino flavors and ayurvedic sattvic friendly ingredients.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat.",
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, brown sugar, grated ginger, garlic, black pepper, and salt.",
+    "Add the duck legs to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated duck legs onto skewers, leaving a small space between each leg.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the duck legs for 5-7 minutes per side, or until they reach an internal temperature of 165 degrees.",
+    "Brush the duck legs with the remaining marinade during the last minute of grilling.",
+    "Serve the grilled duck legs hot, garnished with bruised lemon grass and a side of steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "yellowed-filipino-duck-legs-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-filipino-duck-legs-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:48:07Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "duck legs",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "duck legs",
+    "descriptor": "yakimono grilled",
+    "dishForm": "Skewers"
+  }
+}

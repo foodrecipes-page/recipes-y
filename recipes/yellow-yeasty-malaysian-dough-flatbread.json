@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Yeasty Malaysian dough Flatbread",
+  "description": "A fermented Malaysian flatbread featuring salsa and low-carb friendly ingredients, with a bouncy and light texture.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine yeast and warm water, stirring to dissolve the yeast.",
+    "Add coconut flour, eggs, salt, and garlic powder to the bowl, mixing until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 2 hours.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 4-6 equal pieces, depending on desired flatbread size.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Cook the flatbreads for 1-2 minutes on each side, until they are lightly browned and cooked through.",
+    "Serve the flatbreads warm with salsa spooned over the top.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "flatbread",
+    "low-carb",
+    "malaysian-food",
+    "salsa",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-yeasty-malaysian-dough-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yeasty-malaysian-dough-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:22:12Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "salsa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dough",
+    "descriptor": "Yellow Yeasty",
+    "dishForm": "Flatbread"
+  }
+}

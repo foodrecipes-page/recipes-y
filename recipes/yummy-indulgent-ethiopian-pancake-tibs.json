@@ -1,0 +1,94 @@
+{
+  "title": "Yummy Indulgent Ethiopian Pancake Tibs",
+  "description": "A buttery, crumbly pancake infused with Ethiopian spices, folded around a savory bhuna filling, served on an agave leaf for an indulgent low-calorie treat.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "100g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "25g"
+    },
+    {
+      "name": "butter",
+      "amount": "20g",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Whisk together rice flour, all-purpose flour, salt, berbere, and cardamom until dry mix is uniform.",
+    "Create a well in the center and crack the egg; add milk, melted butter, and whisk until smooth batter forms.",
+    "Heat a non-stick skillet over medium heat, drizzle a teaspoon of olive oil, pour a thin layer of batter to form a small pancake; cook until edges lift then flip and cook until golden, about 1 minute per side.",
+    "Repeat with remaining batter to make 8 pancakes, keeping them warm.",
+    "In a separate pan, heat a tablespoon of olive oil over medium heat and sauté diced onions, garlic, and a pinch of berbere until fragrant.",
+    "Add sliced bell peppers and lean protein such as tofu or chicken breast, cooking until browned and cooked through.",
+    "Stir in a splash of low-fat milk to deglaze, then reduce heat and let the mixture simmer until thickened slightly, about 4 minutes.",
+    "Spoon a generous portion of the bhuna filling onto the center of each pancake.",
+    "Fold the pancake halves over the filling and serve immediately on warm agave leaf.",
+    "Optional: garnish with fresh cilantro and a squeeze of lemon juice for brightness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "low-calorie",
+    "pancake",
+    "quick",
+    "tibs"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "yummy-indulgent-ethiopian-pancake-tibs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-indulgent-ethiopian-pancake-tibs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:45:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "pancake",
+    "descriptor": "Yummy Indulgent",
+    "dishForm": "Tibs"
+  }
+}

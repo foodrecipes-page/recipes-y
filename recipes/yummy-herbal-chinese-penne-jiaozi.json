@@ -1,0 +1,103 @@
+{
+  "title": "Yummy Herbal Chinese Penne Jiaozi",
+  "description": "A velvety, herbal hangover cure that blends low‑carb penne rigate with a savory jiaozi filling, finished al dente for a comforting lunch.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb",
+    "herbal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "low-carb penne rigate",
+      "amount": "200g"
+    },
+    {
+      "name": "ground pork",
+      "amount": "150g",
+      "notes": "trim fat for lower calories"
+    },
+    {
+      "name": "shredded napa cabbage",
+      "amount": "100g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallion",
+      "amount": "1 stalk",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "dried ginseng root",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-carb jiaozi wrappers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add sesame oil.",
+    "Sauté minced garlic and ginger until fragrant, about 30 seconds.",
+    "Add ground pork, breaking it apart, and cook until browned, about 4 minutes.",
+    "Stir in shredded cabbage and scallion, cooking until the cabbage wilts, about 2 minutes.",
+    "Season the mixture with soy sauce and crushed ginseng root, stirring well.",
+    "Set the filling aside to cool slightly, then toss it with the cooked low-carb penne rigate.",
+    "Lay a jiaozi wrapper flat and place a heaping spoonful of the penne‑pork mixture in the center.",
+    "Fold the wrapper into a half‑moon shape, sealing the edges with a pinch of water.",
+    "Arrange the formed jiaozi on a lightly oiled baking sheet and bake at 375°F for 10 minutes or until golden.",
+    "Serve the warm, herbal jiaozi with a drizzle of soy sauce and a sprinkle of fresh scallion."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "hangover-cure",
+    "herbal",
+    "low-carb",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 22,
+    "fat": 14
+  },
+  "slug": "yummy-herbal-chinese-penne-jiaozi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-herbal-chinese-penne-jiaozi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:57:33Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "penne rigate",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Penne",
+    "descriptor": "Yummy Herbal",
+    "dishForm": "Jiaozi"
+  }
+}

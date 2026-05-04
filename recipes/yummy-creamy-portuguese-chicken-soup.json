@@ -1,0 +1,105 @@
+{
+  "title": "Yummy Creamy Portuguese Chicken Soup",
+  "description": "A comforting Portuguese-style chicken soup that is creamy, soothing, and perfect for sick days. It uses chicken bouillon powder for depth and toasted bread for crunch.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "500ml"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "50ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "toasted bread cubes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Dice the chicken breast into bite-sized cubes and set aside.",
+    "In a medium pot, heat the olive oil over medium heat and sauté the chopped onion until translucent.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Stir in the smoked paprika and let it bloom for 30 seconds.",
+    "Pour in the water and sprinkle the chicken bouillon powder, stirring to dissolve.",
+    "Add the bay leaf and bring the mixture to a simmer; then add the chicken cubes and cook until the chicken is cooked through (about 10-12 minutes).",
+    "While the chicken cooks, whisk the milk and heavy cream together, then stir them into the soup to create a creamy texture.",
+    "Remove the bay leaf, season with salt and pepper to taste, and simmer for an additional 2 minutes.",
+    "Finish by adding the chopped parsley and lemon juice, stirring well.",
+    "Serve the soup hot, topped with toasted bread cubes for crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "flexitarian",
+    "one-pot",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 842,
+    "protein": 42,
+    "carbs": 57,
+    "fat": 42
+  },
+  "slug": "yummy-creamy-portuguese-chicken-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-creamy-portuguese-chicken-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:02:31Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Yummy Creamy",
+    "dishForm": "Soup"
+  }
+}

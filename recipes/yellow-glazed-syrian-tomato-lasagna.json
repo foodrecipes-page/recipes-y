@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Glazed Syrian Tomato Lasagna",
+  "description": "A high-protein, cheesy Syrian dish featuring tomatoes and a tangy mustard glaze, perfect for a lazy Sunday dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "28 ounces"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and add the crushed tomatoes, salt, and black pepper, stirring to combine.",
+    "Bring the tomato mixture to a simmer and let cook for 10 minutes, stirring occasionally.",
+    "In a large bowl, combine the ricotta cheese, feta cheese, and Dijon mustard, stirring until smooth.",
+    "Spread a layer of the tomato mixture in the bottom of a 9x13 inch baking dish, followed by a layer of lasagna noodles, and then a layer of the cheese mixture.",
+    "Repeat the layers two more times, ending with a layer of mozzarella cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10 minutes before slicing and serving, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "high-protein",
+    "lazy-sunday",
+    "syrian-cuisine",
+    "tomato-based",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellow-glazed-syrian-tomato-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-glazed-syrian-tomato-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:02:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "tomatoes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Yellow Glazed",
+    "dishForm": "Lasagna"
+  }
+}

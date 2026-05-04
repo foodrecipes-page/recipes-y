@@ -1,0 +1,109 @@
+{
+  "title": "yellow delicate ukrainian duck pilaf",
+  "description": "a creamy, earthy, and tender Ukrainian dish perfect for a date-night dinner. This recipe is whole30-friendly and features the unique flavor of custard powder.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless duck breast",
+      "amount": "1 pound",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "custard powder",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "heat a large skillet over medium-high heat and add 1 tablespoon of oil.",
+    "add the sliced onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the duck breast and cook until browned on both sides, about 5-6 minutes.",
+    "add the chicken broth, cumin, paprika, salt, and black pepper. Bring to a boil.",
+    "stir in the long-grain rice and cook until the liquid is absorbed, about 15-20 minutes.",
+    "add the custard powder and stir to combine. Cook for an additional 2-3 minutes.",
+    "serve the pilaf hot, garnished with fresh herbs or a sprinkle of paprika."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night-dinner",
+    "high-protein",
+    "one-pan-dish",
+    "ukrainian-cuisine",
+    "weeknight-meal",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellow-delicate-ukrainian-duck-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-delicate-ukrainian-duck-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:37:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "custard powder",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Duck",
+    "descriptor": "Yellow Delicate",
+    "dishForm": "Pilaf"
+  }
+}

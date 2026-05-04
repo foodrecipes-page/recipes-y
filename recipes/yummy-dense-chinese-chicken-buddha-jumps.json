@@ -1,0 +1,107 @@
+{
+  "title": "Yummy Dense Chinese Chicken Buddha Jumps",
+  "description": "A winey, dense chicken dish with toasted bread and cinnamon, served directly from a tagine pot for a romantic date night.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "500g"
+    },
+    {
+      "name": "sliced carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "sliced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "sliced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted baguette slices",
+      "amount": "4"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "2"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine pot over medium heat and drizzle the sesame oil.",
+    "Add the cinnamon stick and sauté for 1 minute until fragrant.",
+    "Toss in the chicken thighs, searing them until browned on all sides.",
+    "Push the chicken aside and add onion, garlic, ginger, carrots, and bell pepper, stirring for 3 minutes.",
+    "Pour in the Shaoxing wine, soy sauce, and brown sugar, then cover the pot and let simmer for 25 minutes.",
+    "Stir in the toasted baguette slices, letting the bread absorb the sauce and thicken the mixture.",
+    "Reduce the heat to low, cover, and simmer for an additional 10 minutes until the bread is fully incorporated and the sauce is dense.",
+    "Finish with a splash of sesame oil, season with salt and pepper to taste, and serve hot straight from the tagine pot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddha-jumps-over-wall",
+    "date-night",
+    "dense",
+    "kosher-friendly",
+    "one-pot",
+    "tagine-pot",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "yummy-dense-chinese-chicken-buddha-jumps",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-dense-chinese-chicken-buddha-jumps",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:18:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "cinnamon",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Yummy Dense",
+    "dishForm": "Buddha Jumps"
+  }
+}

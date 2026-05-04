@@ -1,0 +1,107 @@
+{
+  "title": "Yummy Chewy Turkish Flax Kebabs",
+  "description": "Grassy, chewy kebabs made with flax eggs and blanched namul vegetables, perfect for a midnight craving.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground flaxseed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "blanched green bean pods, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "blanched carrot sticks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Mix flaxseed and water in a bowl, stir until a gel forms, let sit 5 minutes.",
+    "Add lemon juice, soy sauce, cumin, smoked paprika, salt and pepper, stir until combined.",
+    "Fold in blanched vegetables and parsley, mixing until evenly coated.",
+    "Shape the mixture into small logs, about 3 inches long.",
+    "Preheat a grill or grill pan to medium heat.",
+    "Brush the kebabs with a little oil, grill each side for 4 minutes until firm and golden.",
+    "Sprinkle sesame seeds over the kebabs during the last minute of grilling.",
+    "Serve hot with a side of yogurt dip or fresh tomato salsa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "flexitarian",
+    "grassy",
+    "kebab",
+    "midnight-craving",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "yummy-chewy-turkish-flax-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-chewy-turkish-flax-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:30:25Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "flax eggs",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Flax",
+    "descriptor": "Yummy Chewy",
+    "dishForm": "Kebabs"
+  }
+}

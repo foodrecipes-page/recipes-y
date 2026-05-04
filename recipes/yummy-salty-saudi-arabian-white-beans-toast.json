@@ -1,0 +1,107 @@
+{
+  "title": "Yummy Salty Saudi Arabian White Beans Toast",
+  "description": "A salty, juicy, romantic Saudi Arabian dish featuring dried white beans, toast, and high protein friendly ingredients, perfect for a weeknight dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "white or whole wheat"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Drain and rinse the soaked white beans.",
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the soaked white beans, salt, and black pepper to the pot, and cook for 5 minutes.",
+    "Arrange the bread slices on a baking sheet and toast in the oven for 5 minutes.",
+    "Top the toasted bread with the white bean mixture, crumbled feta cheese, diced tomato, and chopped parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yummy-salty-saudi-arabian-white-beans-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-salty-saudi-arabian-white-beans-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:11:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "toast",
+    "primaryIngredient": "dried white beans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "white beans",
+    "descriptor": "yummy salty",
+    "dishForm": "Toast"
+  }
+}

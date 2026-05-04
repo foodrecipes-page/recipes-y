@@ -1,0 +1,109 @@
+{
+  "title": "Yummy Peruvian Bread Bowl",
+  "description": "A yeasty, crunchy bread bowl stuffed with spicy ssamjang, caramelized pineapple, roasted peanuts, and fresh cilantro, ideal for a hangover cure and temple-friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "400g"
+    },
+    {
+      "name": "warm water",
+      "amount": "250ml"
+    },
+    {
+      "name": "salt",
+      "amount": "6g"
+    },
+    {
+      "name": "sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "7g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "30ml"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "20g"
+    },
+    {
+      "name": "caramelized pineapple",
+      "amount": "40g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "5g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220C and line a baking sheet with parchment.",
+    "In a large bowl, whisk flour, salt, sugar, and yeast together.",
+    "Add warm water and olive oil to the dry mixture and stir until a shaggy dough forms.",
+    "Transfer the dough to a floured surface and knead for 8 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise for 1 hour until doubled in size.",
+    "Punch down the dough, shape it into a flat disc, then cut a small square from the center to create a hollow.",
+    "Place the dough disc on the prepared sheet and bake for 25 minutes until golden and hollow.",
+    "While the bread bakes, blend ssamjang, lime juice, and a pinch of salt in a small bowl.",
+    "When the bread is done, remove it, let it cool slightly, then gently press the edges inward to form a bowl shape.",
+    "Fill the hollow with caramelized pineapple, roasted peanuts, and the ssamjang mixture.",
+    "Top the filling with fresh cilantro, sesame seeds, and a drizzle of olive oil before serving.",
+    "Serve warm and enjoy a crunchy, savory, and herbal Peruvian bowl perfect for a quick hangover cure."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "gluten-yes",
+    "hangover-cure",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1900,
+    "protein": 18,
+    "carbs": 350,
+    "fat": 28
+  },
+  "slug": "yummy-peruvian-bread-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-peruvian-bread-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:13:49Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "candy",
+    "primaryIngredient": "ssamjang",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "bread",
+    "descriptor": "Yummy",
+    "dishForm": "Bowl"
+  }
+}

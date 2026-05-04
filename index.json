@@ -1058,6 +1058,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-peruvian-bread-bowl",
+    "title": "Yummy Peruvian Bread Bowl",
+    "tags": [
+      "buddhist-friendly",
+      "gluten-yes",
+      "hangover-cure",
+      "quick",
+      "vegan"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-peruvian-quinoa-bowl",
     "title": "Yummy Peruvian Quinoa Bowl",
     "tags": [

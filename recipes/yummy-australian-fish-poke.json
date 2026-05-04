@@ -1,0 +1,112 @@
+{
+  "title": "Yummy Australian Fish Poke",
+  "description": "A crisp, sour, post‑workout poke featuring fresh tuna, avocado, cucumber, pineapple, bay leaves and a dash of tempered chocolate.",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh tuna",
+      "amount": "200 g"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 small"
+    },
+    {
+      "name": "pineapple",
+      "amount": "50 g"
+    },
+    {
+      "name": "lime",
+      "amount": "1"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2"
+    },
+    {
+      "name": "70‑percent cacao dark chocolate",
+      "amount": "10 g",
+      "notes": "tempered"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Dice 200 g of fresh tuna into bite‑size cubes.",
+    "Slice half an avocado into thin slices.",
+    "Dice half a cucumber and 50 g of pineapple into small cubes.",
+    "Juice one lime and pour the juice over the fruit.",
+    "Whisk together one tablespoon of low‑sodium soy sauce, one teaspoon of sesame oil, and one teaspoon of mirin into a sauce.",
+    "Add the tuna, avocado, cucumber, pineapple, and the sauce mixture into a mixing bowl.",
+    "Gently toss the ingredients until everything is coated.",
+    "Crush two bay leaves and sprinkle them over the poke.",
+    "Let the poke rest for five minutes.",
+    "Melt ten grams of 70‑percent cacao dark chocolate in a microwave or doubleboiler and temper it to 31‑32°C.",
+    "Drizzle the tempered chocolate over the poke.",
+    "Sprinkle toasted sesame seeds and a pinch of chili flakes if desired, then serve immediately over shredded lettuce or with crisp cucumber ribbons."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 5,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "one-bowl",
+    "pescatarian",
+    "post-workout",
+    "quick",
+    "sour-citrus"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 46,
+    "carbs": 11,
+    "fat": 35
+  },
+  "slug": "yummy-australian-fish-poke",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-australian-fish-poke",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:05:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "bay leaves",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Fish",
+    "descriptor": "Yummy",
+    "dishForm": "Poke"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Earthy Korean Rice Pilaf",
+  "description": "A dense and herbal Korean rice dish made with sushi rice and cooked in a ttukbaegi earthenware pot, perfect for a weeknight dinner",
+  "cuisine": "Korean",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": "short grain rice"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ginseng",
+      "amount": "1 tablespoon",
+      "notes": "dried and sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice in a fine mesh sieve until the water runs clear",
+    "In a ttukbaegi earthenware pot, combine the rinsed rice and water",
+    "Add the dried ginseng, sesame oil, soy sauce, garlic, and ginger to the pot",
+    "Bring the mixture to a boil over high heat",
+    "Reduce the heat to low, cover the pot, and simmer for 18 minutes",
+    "Turn off the heat and let the pilaf rest, covered, for 5 minutes",
+    "Fluff the pilaf with a fork and stir in the chopped green onions",
+    "Serve the pilaf hot, garnished with additional green onions if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 23,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "korean-cuisine",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "yellow-earthy-korean-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-earthy-korean-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:51:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "sushi rice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Yellow earthy",
+    "dishForm": "Pilaf"
+  }
+}

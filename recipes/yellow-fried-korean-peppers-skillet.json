@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Fried Korean Peppers Skillet",
+  "description": "A salty and snappy Korean dish featuring mixed peppers, deep-fry-tod, and Buddhist-temple-friendly ingredients, cooked to perfection in an iron teppan.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mixed peppers",
+      "amount": "2 cups",
+      "notes": "any color bell peppers and Korean chili peppers"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "deep-fry-tod",
+      "amount": "1/2 cup",
+      "notes": "Korean fried tofu"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan over medium-high heat and add the vegetable oil.",
+    "Add the deep-fry-tod and cook until golden brown, about 3-4 minutes per side.",
+    "Remove the deep-fry-tod from the teppan and set aside.",
+    "Add the minced garlic and grated ginger to the teppan and cook for 1 minute, until fragrant.",
+    "Add the mixed peppers to the teppan and cook for 3-4 minutes, until they start to soften.",
+    "Add the soy sauce, sesame oil, salt, and black pepper to the teppan and stir to combine.",
+    "Return the deep-fry-tod to the teppan and stir to combine with the peppers and sauce.",
+    "Cook for an additional 2-3 minutes, until the peppers are tender and the sauce has thickened.",
+    "Serve the Yellow Fried Korean Peppers Skillet hot, garnished with chopped green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "lunch",
+    "one-pan",
+    "stir-fry",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "yellow-fried-korean-peppers-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-fried-korean-peppers-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:27:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "mixed peppers",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "peppers",
+    "descriptor": "Yellow Fried",
+    "dishForm": "Skillet"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "title": "youthful tunisian tomato tagine",
+  "description": "a bright, tangy, and refreshing tagine made with tinned tomatoes, perfect for a midnight craving. great for jain diets.",
+  "cuisine": "tunisian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tinned crushed tomatoes",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the chopped onion and cook for 3-4 minutes, until softened.",
+    "stir in the cumin powder, coriander powder, and red pepper flakes.",
+    "add the crushed tomatoes, vegetable broth, salt, and parsley.",
+    "bring the mixture to a simmer and cook for 15-20 minutes, until the tomatoes are broken down and the stew has thickened.",
+    "stir in the lemon juice and cook for an additional 2-3 minutes.",
+    "cook the quinoa according to package instructions and fluff with a fork.",
+    "serve the quinoa topped with the tomato tagine and garnished with additional parsley if desired.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "youthful-tunisian-tomato-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-tunisian-tomato-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:02:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tomato",
+    "descriptor": "Youthful",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "title": "yummy midnite craving saudi-arabian lamb mince tagine",
+  "description": "a peppery, fluffy, midnight-craving dish featuring lamb mince in a saudi-arabian style, served with a side of fluffy couscous",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "pescetarian",
+    "vegan",
+    "halal",
+    "keto",
+    "low-carb",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "4 tbsp",
+      "notes": "make sure to cook beurre-monte until it thickens slowly over low heat"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat oil in the tagine pot on low heat",
+    "add onion and cook until it becomes translucent",
+    "add ginger paste, cumin, coriander and pepper and cook for 1 minute",
+    "add lamb mince and cook until it browns",
+    "add beurre-monte, stir, and cook for 10 minutes on low heat",
+    "add couscous and stir well",
+    "remove from heat and garnish with parsley and lemon juice"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fluffy",
+    "lamb-mince",
+    "midnight-craving",
+    "one-pan",
+    "peppery",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "yummy-midnite-craving-saudi-arabian-lamb-mince-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-midnite-craving-saudi-arabian-lamb-mince-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "beurre-monte",
+    "primaryIngredient": "lamb mince",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "lamb mince",
+    "descriptor": "yummy midnite craving",
+    "dishForm": "tagine"
+  }
+}

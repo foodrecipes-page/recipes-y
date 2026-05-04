@@ -1,0 +1,106 @@
+{
+  "title": "Yummy Nutty Norwegian Walnut Lasagna",
+  "description": "A rich vegetarian lasagna bursting with crunchy walnuts and gooey cheeses, perfect for midnight cravings.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "no-boil lasagna sheets",
+      "amount": "12 sheets",
+      "notes": "360g"
+    },
+    {
+      "name": "walnuts, raw, chopped",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "300g"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "400g"
+    },
+    {
+      "name": "mozzarella cheese, shredded",
+      "amount": "200g"
+    },
+    {
+      "name": "parmesan cheese, grated",
+      "amount": "50g"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "400ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "30ml"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Heat the olive oil in a skillet over medium heat and add minced garlic, sauté for 1 minute until fragrant.",
+    "Add the fresh spinach to the skillet, stir until wilted, season with salt and pepper, then remove from heat.",
+    "In a mixing bowl combine the ricotta cheese, chopped walnuts, wilted spinach, and half the grated parmesan, stirring until well blended.",
+    "Lightly grease a baking dish and spread a thin layer of tomato sauce across the bottom.",
+    "Place a layer of no-boil lasagna sheets over the sauce, then spread a generous layer of the walnut ricotta mixture, sprinkle shredded mozzarella, and repeat to build three layers.",
+    "Finish with a top layer of lasagna sheets, cover with the remaining tomato sauce, mozzarella, and parmesan cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes in the preheated oven.",
+    "Remove the foil and bake for an additional 10 minutes until the cheese is melted and the surface is golden.",
+    "Allow the lasagna to rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "midnight-craving",
+    "no-boil",
+    "overnight",
+    "vegetarian",
+    "walnut"
+  ],
+  "nutrition": {
+    "calories": 538,
+    "protein": 16,
+    "carbs": 70,
+    "fat": 33
+  },
+  "slug": "yummy-nutty-norwegian-walnut-lasagna",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-nutty-norwegian-walnut-lasagna",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:43:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Walnut",
+    "descriptor": "Yummy Nutty",
+    "dishForm": "Lasagna"
+  }
+}

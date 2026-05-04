@@ -1,0 +1,115 @@
+{
+  "title": "yummy grilled argentinian chicken grill",
+  "description": "a floral, creamy, and weeknight-friendly argentinian dish featuring thai fish sauce and grilled chicken, served in a fondue pot.",
+  "cuisine": "argentinian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 lbs",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "thai fish sauce",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "preheat grill to medium-high heat",
+    "season chicken with salt, pepper, oregano, and thyme",
+    "brush chicken with olive oil and grill for 5-7 minutes per side",
+    "transfer chicken to fondue pot and top with feta cheese, parsley, and a drizzle of honey",
+    "serve immediately and adjust with thai fish sauce to taste"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chicken",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 17
+  },
+  "slug": "yummy-grilled-argentinian-chicken-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-grilled-argentinian-chicken-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yummy Grilled",
+    "dishForm": "Grill"
+  }
+}

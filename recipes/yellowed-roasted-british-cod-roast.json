@@ -1,0 +1,92 @@
+{
+  "title": "Yellowed Roasted British Cod Roast",
+  "description": "A delicious and flaky cod roast dish, featuring cold water cod and an ayurvedic-sattvic friendly cure, perfect for a solo dinner.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "1 pound",
+      "notes": "fresh, cold water"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the sea salt, brown sugar, black pepper, and garlic powder.",
+    "Place the cod fillet in a shallow dish and sprinkle the cure mixture evenly over both sides of the fish.",
+    "Drizzle the lemon juice and olive oil over the cod fillet.",
+    "Let the cod fillet sit at room temperature for 15 minutes to allow the cure to set.",
+    "Place the cod fillet on a baking sheet lined with parchment paper and roast in the preheated oven for 12 minutes.",
+    "Remove the cod fillet from the oven and sprinkle the chopped parsley over the top.",
+    "Return the cod fillet to the oven and continue to roast for an additional 2-3 minutes, or until the fish is cooked through and flakes easily with a fork."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "yellowed-roasted-british-cod-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-roasted-british-cod-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:40:24Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "cold water",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cod",
+    "descriptor": "Yellowed Roasted",
+    "dishForm": "Roast"
+  }
+}

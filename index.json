@@ -4169,6 +4169,19 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-sweet-glassy-mediterranean-jelly-stew",
+    "title": "Yummy Sweet Glassy Mediterranean Jelly Stew",
+    "tags": [
+      "dessert",
+      "gluten-free",
+      "mediterranean",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-sweet-greek-beef-stew",
     "title": "Yummy Sweet Greek Beef Stew",
     "tags": [

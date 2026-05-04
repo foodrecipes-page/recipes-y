@@ -1,0 +1,101 @@
+{
+  "title": "Yummy Sweet Glassy Mediterranean Jelly Stew",
+  "description": "A sweet and nostalgic Mediterranean dish featuring a jelly-like texture, perfect for a weeknight dinner or special occasion. This recipe uses a donabe vessel and is gluten-free friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Donabe (ceramic clay pot)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine rice vinegar, sugar, and dried apricots in the donabe. ",
+    "In a separate bowl, mix miso paste and water until smooth. ",
+    "Add the miso mixture to the donabe and stir to combine. ",
+    "Pour in the dry white wine and bring the mixture to a simmer over medium heat. ",
+    "Reduce heat to low and let cook for 10 minutes, or until the mixture has thickened and formed a jelly-like texture. ",
+    "Stir in chopped fresh mint and salt. ",
+    "Serve warm or at room temperature.",
+    "Let cool completely before refrigerating or freezing. ",
+    "Reheat gently before serving.",
+    "Serve hot, garnished with additional fresh mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "mediterranean",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 0
+  },
+  "slug": "yummy-sweet-glassy-mediterranean-jelly-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-sweet-glassy-mediterranean-jelly-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "dry white wine",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "jelly",
+    "descriptor": "yummy sweet glassy",
+    "dishForm": "stew"
+  }
+}

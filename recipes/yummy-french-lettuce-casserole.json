@@ -1,0 +1,111 @@
+{
+  "title": "Yummy French Lettuce Casserole",
+  "description": "A citrusy, chewy one-pot casserole that brings the flavors of Burgundy to the table, featuring crisp lettuce and a rich, keto-friendly mother-sauce base.",
+  "cuisine": "French",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "romaine lettuce",
+      "amount": "5 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Heat olive oil in a 9x9-inch baking dish over medium heat and sauté garlic until fragrant, about 1 minute.",
+    "Stir in chicken broth, Dijon mustard, lemon zest, and lemon juice, then bring to a simmer.",
+    "Add the chopped lettuce and cook until just wilted, about 3 minutes, then season with salt and pepper.",
+    "Pour the mixture over the lettuce, ensuring even coverage, then top with shredded Gruyère and grated Parmesan.",
+    "Dot the top with small pieces of butter to melt into the casserole.",
+    "Bake uncovered for 12-15 minutes or until the cheeses are golden and bubbly.",
+    "Remove from oven, let rest 5 minutes, then serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "burgundy-inspired",
+    "chewy",
+    "citrusy",
+    "keto-friendly",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "yummy-french-lettuce-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-french-lettuce-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:19:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "lettuce",
+    "diet": "keto",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "lettuce",
+    "descriptor": "yummy",
+    "dishForm": "casserole"
+  }
+}

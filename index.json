@@ -1119,6 +1119,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-french-lettuce-casserole",
+    "title": "Yummy French Lettuce Casserole",
+    "tags": [
+      "burgundy-inspired",
+      "chewy",
+      "citrusy",
+      "keto-friendly",
+      "low-carb",
+      "one-pot"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-garlicky-ethiopian-pistachio-stew",
     "title": "Yummy Garlicky Ethiopian Pistachio Stew",
     "tags": [

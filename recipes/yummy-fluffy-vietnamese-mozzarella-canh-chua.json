@@ -1,0 +1,104 @@
+{
+  "title": "Vietnamese Mozzarella Canh Chua",
+  "description": "A diabetic-friendly and fluffy post-workout Vietnamese dish featuring mozzarella, this Canh Chua is a unique twist on traditional Vietnamese sour soup, using spherified mozzarella for a fun and healthy meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "okra",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Combine the shredded mozzarella cheese and sodium alginate in a bowl and mix well.",
+    "Slowly add water to the bowl while stirring the mixture with a spoon until it forms a smooth and thick paste.",
+    "Drop the mozzarella paste into a bath of cold water and let it sit for 30 minutes to spherify.",
+    "In a large pot, combine the fish sauce, lime juice, diced tomato, sliced okra, chopped spinach, chili flakes, and minced garlic.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to medium-low and let it simmer for 10 minutes.",
+    "Remove the spherified mozzarella from the water bath and add it to the pot.",
+    "Let the Canh Chua simmer for an additional 5 minutes to allow the flavors to meld together.",
+    "Serve the Vietnamese Mozzarella Canh Chua hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "healthy-meal",
+    "low-carb",
+    "post-workout",
+    "spherified-food",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "yummy-fluffy-vietnamese-mozzarella-canh-chua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-fluffy-vietnamese-mozzarella-canh-chua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:52:42Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "spherify",
+    "primaryIngredient": "mozzarella",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "mozzarella",
+    "descriptor": "yummy fluffy",
+    "dishForm": "Canh Chua"
+  }
+}

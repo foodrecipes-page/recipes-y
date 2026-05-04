@@ -1,0 +1,92 @@
+{
+  "title": "Yellow Turmeric Indian Fish Skewers",
+  "description": "A light and flavorful Bengali dish featuring fish skewers marinated in a mixture of turmeric, currants, and nuka-pickle, grilled to perfection on a binchotan grill. This ayurvedic-tamasic-friendly recipe is perfect for a solo dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "1 pound",
+      "notes": "any white fish works"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "currants",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit.",
+    "In a bowl, mix together turmeric, currants, nuka-pickle, ghee, lemon juice, ginger, and cumin to make the marinade.",
+    "Cut the fish into 1-inch pieces and add to the marinade, making sure each piece is coated.",
+    "Thread the marinated fish onto skewers, leaving a little space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through.",
+    "Serve hot, garnished with additional currants and lemon wedges if desired.",
+    "Let the fish rest for a few minutes before serving.",
+    "Serve with a side of steamed vegetables or a salad for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-recipes",
+    "fish-recipes",
+    "grilled-food",
+    "healthy-dinner",
+    "indian-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "yellow-turmeric-indian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-turmeric-indian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:52:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "currants",
+    "diet": "ayurvedic-tamasic",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "Yellow Turmeric",
+    "dishForm": "Skewers"
+  }
+}

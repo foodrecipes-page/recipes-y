@@ -1,0 +1,101 @@
+{
+  "title": "Yummy Earthy Italian Rice Noodles Frittata",
+  "description": "A one-pot Italian frittata featuring rice stick noodles, earthy vegetables, and a nut-free blend of cheeses.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "nut-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "4 large"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "120 g"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "30 g"
+    },
+    {
+      "name": "rice stick noodles",
+      "amount": "200 g uncooked"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "150 g"
+    },
+    {
+      "name": "chopped spinach",
+      "amount": "80 g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a 10-inch nonstick skillet over medium heat.",
+    "Add minced garlic and sauté until fragrant for 30 seconds.",
+    "Add diced tomato and cook for 2 minutes until slightly softened.",
+    "Add rice noodles and stir to coat with oil and tomato, cooking for 3 minutes.",
+    "Whisk eggs, ricotta, and parmesan together in a bowl.",
+    "Pour the egg mixture over the noodles and vegetables in the skillet, spreading evenly.",
+    "Reduce heat to low, cover, and let cook for 8 minutes until the edges set.",
+    "Remove the lid, sprinkle salt and pepper, and cook for an additional 4 minutes until the top is set and lightly browned.",
+    "Slice the frittata into wedges and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "nut-free",
+    "one-pot",
+    "quick",
+    "rice-noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1006,
+    "protein": 57,
+    "carbs": 87,
+    "fat": 50
+  },
+  "slug": "yummy-earthy-italian-rice-noodles-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-earthy-italian-rice-noodles-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:20:32Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "nut-free",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Rice Noodles",
+    "descriptor": "Yummy Earthy",
+    "dishForm": "Frittata"
+  }
+}

@@ -501,6 +501,36 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-earthy-italian-rice-noodles-frittata",
+    "title": "Yummy Earthy Italian Rice Noodles Frittata",
+    "tags": [
+      "italian",
+      "nut-free",
+      "one-pot",
+      "quick",
+      "rice-noodles",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-filipino-tofu-stew",
+    "title": "Yummy Filipino Tofu Stew",
+    "tags": [
+      "dairy-rich",
+      "filipino",
+      "keto-friendly",
+      "one-pot",
+      "savory",
+      "single-serving"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-hunan-pork-stir-fry",
     "title": "Yummy Hunan Pork Stir-fry",
     "tags": [

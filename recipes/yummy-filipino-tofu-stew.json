@@ -1,0 +1,106 @@
+{
+  "title": "Yummy Filipino Tofu Stew",
+  "description": "A silky, grassy, keto-friendly stew made with whole milk, mirepoix, and tofu for a comforting solo dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "whole milk",
+      "amount": "240 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1/2 small, diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 inch, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh basil or parsley",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Press tofu for 15 minutes to remove excess water, then cut into 1.5-inch cubes.",
+    "Heat one tablespoon olive oil in a pot over medium heat and sauté diced onion, carrot, and celery for 5 minutes until fragrant.",
+    "Add minced garlic and ginger and cook for another 1 minute.",
+    "Pour in one cup whole milk and bring to a gentle simmer.",
+    "Add soy sauce, fish sauce, and a pinch of salt; stir well.",
+    "Gently fold in tofu cubes and simmer for 10 minutes, allowing the tofu to absorb the flavors.",
+    "Season with pepper; adjust salt as needed.",
+    "Serve hot, garnished with chopped fresh basil or parsley for a grassy finish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-rich",
+    "filipino",
+    "keto-friendly",
+    "one-pot",
+    "savory",
+    "single-serving"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "yummy-filipino-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-filipino-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:20:03Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "whole milk",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "tofu",
+    "descriptor": "Yummy",
+    "dishForm": "Stew"
+  }
+}

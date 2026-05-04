@@ -1,0 +1,97 @@
+{
+  "title": "Yummy Salted Algerian Carrots Tagine",
+  "description": "A roasted, pillowy carrot tagine with a salty kick, perfect for a quick gluten‑free dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 kg",
+      "notes": "peeled, cut into sticks"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment.",
+    "Toss carrots with olive oil, sea salt, cumin, coriander, paprika, and minced garlic until evenly coated.",
+    "Spread carrots in a single layer on the sheet and roast for 15 minutes.",
+    "Remove sheet and drizzle lemon juice over carrots, then return to oven for another 10 minutes.",
+    "While roasting, pour 1/4 cup water into a small saucepan and bring to a gentle simmer.",
+    "When carrots are tender, transfer them to a heavy skillet and add the simmering water.",
+    "Cover and let the carrots steam for 5 minutes, allowing flavors to meld.",
+    "Stir gently, then remove from heat and taste, adjusting salt if needed.",
+    "Serve hot as a side or over couscous for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "carrot-dish",
+    "gluten-free",
+    "one-pan",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "yummy-salted-algerian-carrots-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-salted-algerian-carrots-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:32:26Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "salt-bake",
+    "primaryIngredient": "carrots",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Carrots",
+    "descriptor": "Yummy Salted",
+    "dishForm": "Tagine"
+  }
+}

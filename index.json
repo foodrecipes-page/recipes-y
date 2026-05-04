@@ -1965,6 +1965,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-salted-algerian-carrots-tagine",
+    "title": "Yummy Salted Algerian Carrots Tagine",
+    "tags": [
+      "carrot-dish",
+      "gluten-free",
+      "one-pan",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-shattering-venezuelan-bean-sprouts-salad",
     "title": "Yummy Shattering Venezuelan Bean Sprouts Salad",
     "tags": [

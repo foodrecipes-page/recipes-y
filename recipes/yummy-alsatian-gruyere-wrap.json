@@ -1,0 +1,104 @@
+{
+  "title": "Yummy Alsatian Gruyere Wrap",
+  "description": "A winey, cheese‑pull brunch dish that folds creamy Gruyère with sweet plum sauce into steamed Swiss chard leaves, served on a salt block for a touch of elegance.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Swiss chard leaves",
+      "amount": "12",
+      "notes": "washed and rinsed"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Plum sauce",
+      "amount": "50g"
+    },
+    {
+      "name": "White wine",
+      "amount": "30ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Shallot",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "Salt block",
+      "amount": "1 small"
+    }
+  ],
+  "instructions": [
+    "Steam the chard leaves for 2 minutes until pliable, then set aside on a clean towel to cool slightly.",
+    "Thinly slice the Gruyère into strips that are long enough to wrap around the leaf.",
+    "Heat olive oil in a small saucepan over medium heat and add diced shallot, sautéing until translucent.",
+    "Add minced garlic to the pan, cooking for 30 seconds until fragrant.",
+    "Pour in white wine and simmer for 1 minute to reduce slightly before adding plum sauce.",
+    "Stir the plum sauce mixture until it coats the onions and garlic, then season with salt and pepper.",
+    "Place a strip of Gruyère on each leaf, then spoon a generous amount of the plum sauce mixture over the cheese.",
+    "Fold the leaf over the filling, tucking the sides to seal the wrap, and place each on the salt block to keep temperature steady.",
+    "Serve immediately, allowing the salt block to provide a subtle mineral flavor that complements the winey sauce.",
+    "Enjoy the creamy pull of the cheese and the sweet tang of plum sauce in every bite."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "alsatian",
+    "brunch",
+    "cheese-pull",
+    "plum-sauce",
+    "salt-block",
+    "steam-leaf",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 36
+  },
+  "slug": "yummy-alsatian-gruyere-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-alsatian-gruyere-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:29:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "plum sauce",
+    "diet": "shojin",
+    "region": "alsace",
+    "cuisineAdjective": "Alsatian",
+    "mainIngredient": "Gruyere",
+    "descriptor": "Yummy",
+    "dishForm": "Wrap"
+  }
+}

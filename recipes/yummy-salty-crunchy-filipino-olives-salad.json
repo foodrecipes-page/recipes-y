@@ -1,0 +1,122 @@
+{
+  "title": "Yummy Salty Crunchy Filipino Olives Salad",
+  "description": "A refreshing and energizing Filipino dish that combines the flavors of pitted black olives, lacquer-glaze, and other savory ingredients. Perfect for a quick and easy snack or side dish.",
+  "cuisine": "filipino",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pitted black olives",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed pecans",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "minced fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "minced fresh mint",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together lacquer-glaze, fish sauce, sugar, salt, and black pepper to make the dressing.",
+    "In a large bowl, combine pitted black olives, coconut flakes, crushed pecans, minced fresh cilantro, minced fresh mint, and grated ginger.",
+    "Add the dressing to the bowl and toss to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in bamboo shoots and lime juice.",
+    "Toss the salad gently to combine and serve chilled.",
+    "Arrange the salad on a bamboo tray and garnish with additional cilantro and mint if desired.",
+    "Refrigerate any leftovers for up to 2 days.",
+    "Serve the salad chilled to enjoy the flavors and textures of the dish.",
+    "Use a bamboo skewer to garnish the salad with a sprig of cilantro or mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "filipino",
+    "gluten-free",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yummy-salty-crunchy-filipino-olives-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-salty-crunchy-filipino-olives-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "pitted black olives",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "olives",
+    "descriptor": "yummy salty crunchy",
+    "dishForm": "Salad"
+  }
+}

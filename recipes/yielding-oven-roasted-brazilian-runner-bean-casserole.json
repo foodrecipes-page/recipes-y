@@ -1,0 +1,115 @@
+{
+  "title": "Yielding Oven-Roasted Brazilian Runner Bean Casserole",
+  "description": "Roasted runner beans and sweet potatoes in a creamy cashew sauce, perfect for a post-workout bite.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "500g",
+      "notes": "peeled and trimmed"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "300g",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cashews",
+      "amount": "100g",
+      "notes": "soaked 4 hours"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Toss runner beans, sweet potato, onion, and garlic with olive oil, salt, pepper, and paprika in a large bowl.",
+    "Spread the mixture on a baking sheet and roast for 25 minutes, stirring halfway through.",
+    "In a blender, combine soaked cashews, vegetable stock, lemon juice, and nutritional yeast; blend until smooth.",
+    "Remove the sheet from the oven, pour the cashew sauce over the roasted vegetables, and stir to coat.",
+    "Return to the oven and roast for an additional 15 minutes until beans are tender.",
+    "Let rest for 5 minutes, then sprinkle chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-casserole",
+    "brazilian",
+    "one-pan",
+    "post-workout",
+    "roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "yielding-oven-roasted-brazilian-runner-bean-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yielding-oven-roasted-brazilian-runner-bean-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:17:10Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "dehydrate",
+    "primaryIngredient": "runner beans",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Runner Bean",
+    "descriptor": "Yielding Oven-Roasted",
+    "dishForm": "Casserole"
+  }
+}

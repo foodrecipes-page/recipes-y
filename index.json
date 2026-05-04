@@ -4056,6 +4056,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-tender-fried-indian-wheat-gulab-jamun",
+    "title": "Yummy Tender Fried Indian Wheat Gulab Jamun",
+    "tags": [
+      "dessert",
+      "fried",
+      "indian",
+      "sweet",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 75,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-thai-rice-khanom-thai",
     "title": "Yummy Thai Rice Khanom Thai",
     "tags": [

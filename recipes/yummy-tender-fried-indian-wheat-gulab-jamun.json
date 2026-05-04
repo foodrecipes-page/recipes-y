@@ -1,0 +1,109 @@
+{
+  "title": "Yummy Tender Fried Indian Wheat Gulab Jamun",
+  "description": "Crispy fried dumplings in a sweet and sticky syrup, typically served as a dessert. This recipe uses a paleo-friendly alternative to traditional wheat flour.",
+  "cuisine": "Indian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour (or paleo-friendly alternative)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Milk powder",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil for frying",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gulab syrup",
+      "amount": "",
+      "notes": "",
+      "quantity": "as needed"
+    },
+    {
+      "name": "Chopped pistachios or almonds (optional)",
+      "amount": "",
+      "notes": "",
+      "quantity": "as needed"
+    }
+  ],
+  "instructions": [
+    "Combine ghee or vegetable oil, flour, milk powder, lemon juice, cardamom powder, and baking soda in a hot pot vessel and mix well.",
+    "Heat the mixture over medium heat, stirring constantly, until it thickens and forms a smooth dough.",
+    "Knead the dough for 5-7 minutes until it becomes pliable and smooth.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "Heat ghee or vegetable oil in a deep frying pan over medium-high heat.",
+    "Divide the dough into small balls and flatten them slightly.",
+    "Fry the dumplings until they are golden brown, about 3-4 minutes on each side.",
+    "Drain the fried dumplings on paper towels.",
+    "Soak the fried dumplings in gulab syrup for at least 30 minutes.",
+    "Serve the gulab jamun hot, garnished with chopped pistachios or almonds if desired.",
+    "Note: Traditionally, gulab jamun is cooked in a robata grill, but a deep frying pan can be used as a substitute.",
+    "Note: The dough can also be refrigerated for up to 24 hours and cooked later."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fried",
+    "indian",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yummy-tender-fried-indian-wheat-gulab-jamun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-tender-fried-indian-wheat-gulab-jamun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "robata-grill",
+    "primaryIngredient": "plain flour",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "wheat",
+    "descriptor": "yummy tender fried",
+    "dishForm": "Gulab Jamun"
+  }
+}

@@ -2334,6 +2334,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-rich-thai-tofu-curry",
+    "title": "Yummy Rich Thai Tofu Curry",
+    "tags": [
+      "easy",
+      "lazy-sunday",
+      "low-calorie",
+      "one-pot",
+      "thai",
+      "tofu",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-salted-algerian-carrots-tagine",
     "title": "Yummy Salted Algerian Carrots Tagine",
     "tags": [

@@ -1,0 +1,61 @@
+{
+  "title": "Yummy Quick Frankfurter German Frankfurter Slider",
+  "description": "A fresh, snappy, and energizing Polish-inspired dish featuring a frankfurter, crispy fry, and low-glycemic-friendly ingredients, served in a mason jar.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Mason Jar",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Cook the franks according to package instructions until browned and heated through.",
+    "Cut the jar into a flat bottom for stability.",
+    "Fry sliced potatoes in a pan with 2 inches of oil at 350°F for 4-5 minutes, or until crispy and golden brown.",
+    "Place the cooked frankfurter into the mason jar.",
+    "Add the crispy potato slices on top of the frankfurter."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "yummy-quick-frankfurter-german-frankfurter-slider",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-quick-frankfurter-german-frankfurter-slider",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "frankfurter",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "frankfurter",
+    "descriptor": "Yummy Quick Frankfurter",
+    "dishForm": "Slider"
+  }
+}

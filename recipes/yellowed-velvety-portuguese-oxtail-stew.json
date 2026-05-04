@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Velvety Portuguese Oxtail Stew",
+  "description": "A fermented and velvety stew featuring oxtail, perfect for a sick day, this Portuguese dish is low in fat and full of flavor, with a unique leaf-wrap-steam cooking method.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "port wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "collard greens",
+      "amount": "1 bunch",
+      "notes": "for leaf wrapping"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the oxtail pieces with salt and black pepper.",
+    "In a large Dutch oven, brown the oxtail pieces over medium high heat.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the port wine and beef broth to the pot, scraping up any browned bits from the bottom.",
+    "Add the bay leaves to the pot and bring the mixture to a boil.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the stew in the oven for 2 1/2 hours, or until the oxtail is tender.",
+    "While the stew is cooking, prepare the collard greens for leaf wrapping by blanching them in boiling water for 30 seconds.",
+    "After the stew has finished cooking, wrap each piece of oxtail in a blanched collard green leaf and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "leaf-wrap-steam",
+    "low-fat",
+    "oxtail-recipes",
+    "portuguese-cuisine",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "yellowed-velvety-portuguese-oxtail-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-velvety-portuguese-oxtail-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:44:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "oxtail",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "oxtail",
+    "descriptor": "Yellowed Velvety",
+    "dishForm": "Stew"
+  }
+}

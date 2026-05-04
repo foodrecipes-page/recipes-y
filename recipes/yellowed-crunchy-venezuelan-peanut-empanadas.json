@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Crunchy Venezuelan Peanut Empanadas",
+  "description": "A weeknight Venezuelan dish featuring peanuts in a crunchy empanada, served on a hot stone plate. This keto-friendly empanada has a bitter and juicy flavor.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the almond flour, coconut oil, eggs, salt, and black pepper.",
+    "Add the roasted peanuts, granulated sweetener, and water to the bowl and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of peanut filling in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Place the empanadas on a hot stone plate and bake for 20 minutes.",
+    "Serve the empanadas hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hot-stone-plate",
+    "keto-friendly",
+    "peanut-based",
+    "venezuelan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "yellowed-crunchy-venezuelan-peanut-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crunchy-venezuelan-peanut-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:47:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "peanuts",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "peanuts",
+    "descriptor": "Yellowed Crunchy",
+    "dishForm": "Empanadas"
+  }
+}

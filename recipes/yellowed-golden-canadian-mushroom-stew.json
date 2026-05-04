@@ -1,0 +1,105 @@
+{
+  "title": "Yellowed Golden Canadian Mushroom Stew",
+  "description": "A briny, pillowy, date-night Canadian dish featuring peanut oil and earthy mushrooms, cooked to perfection in a ttukbaegi earthenware pot. This ovo-vegetarian friendly stew is sure to impress.",
+  "cuisine": "Canadian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "mixed varieties such as cremini, shiitake, and oyster"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the peanut oil in the ttukbaegi earthenware pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the mixed mushrooms and cook until they release their liquid and start to brown.",
+    "Add the vegetable broth, white wine, dried thyme, and salt, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes, or until the flavors have melded together and the mushrooms are tender.",
+    "Stir in the beaten eggs and cook for an additional 2 minutes, or until the eggs are cooked through and the stew is creamy.",
+    "Serve the stew hot, garnished with chopped fresh parsley.",
+    "Let the stew cool to room temperature before refrigerating or freezing it.",
+    "Reheat the stew gently over low heat, stirring occasionally, until it is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "date-night",
+    "earthenware-cooking",
+    "mushroom-stew",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellowed-golden-canadian-mushroom-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-golden-canadian-mushroom-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:39:46Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "peanut oil",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Yellowed Golden",
+    "dishForm": "Stew"
+  }
+}

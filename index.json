@@ -1386,6 +1386,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-golden-canadian-mushroom-stew",
+    "title": "Yellowed Golden Canadian Mushroom Stew",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "date-night",
+      "earthenware-cooking",
+      "mushroom-stew",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-golden-croatian-taleggio-frittata",
     "title": "Yellowed Golden Croatian Taleggio Frittata",
     "tags": [

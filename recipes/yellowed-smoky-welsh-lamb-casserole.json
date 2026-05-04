@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Smoky Welsh Lamb Casserole",
+  "description": "A hearty and smoky Welsh lamb casserole featuring mirin-hon and rest-meat, perfect for a low-calorie friendly meal",
+  "cuisine": "British",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "rested for 2 days"
+    },
+    {
+      "name": "mirin-hon",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "Season the lamb shoulder with smoked paprika and let it rest for 30 minutes",
+    "Heat a large Dutch oven over medium-high heat and sear the lamb shoulder until browned on all sides",
+    "Add the sliced onion to the pot and cook until it is translucent and starting to caramelize",
+    "Add the sliced carrots and potatoes to the pot and cook for an additional 5 minutes",
+    "Add the lamb broth, tomato paste, and mirin-hon to the pot and stir to combine",
+    "Cover the pot and transfer it to the preheated oven",
+    "Bake for 2.5 hours or until the lamb is tender and the vegetables are cooked through",
+    "Let the casserole rest for 10 minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hearty",
+    "low-calorie",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-smoky-welsh-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-welsh-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:56:32Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "rest-meat",
+    "primaryIngredient": "mirin-hon",
+    "diet": "low-calorie",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Casserole"
+  }
+}

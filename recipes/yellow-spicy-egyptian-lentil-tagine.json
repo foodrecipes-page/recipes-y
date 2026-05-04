@@ -1,0 +1,111 @@
+{
+  "title": "Yellow Spicy Egyptian Lentil Tagine",
+  "description": "A citrusy and springy Egyptian dish featuring mixed spice and lacto-vegetarian-friendly ingredients, perfect for a crowd-pleasing meal. It is made by pounding spices in a mortar and pestle.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is softened.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the ground cumin, smoked paprika, cayenne pepper, salt, and black pepper and cook for 1 minute.",
+    "Add the red lentils, vegetable broth, and lemon juice and bring to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes.",
+    "Use a mortar and pestle to pound the spices and add them to the pot.",
+    "Simmer for an additional 10 minutes.",
+    "Serve hot over rice or with pita bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "lacto-vegetarian",
+    "lentil",
+    "one-pot",
+    "spicy",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-spicy-egyptian-lentil-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-egyptian-lentil-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:34:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "mixed spice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Tagine"
+  }
+}

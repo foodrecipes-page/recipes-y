@@ -580,6 +580,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-egyptian-lentil-tagine",
+    "title": "Yellow Spicy Egyptian Lentil Tagine",
+    "tags": [
+      "egyptian",
+      "lacto-vegetarian",
+      "lentil",
+      "one-pot",
+      "spicy",
+      "tagine"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-jamaican-ginger-curry",
     "title": "Yellow Spicy Jamaican Ginger Curry",
     "tags": [
@@ -2153,6 +2168,22 @@
       "vegetarian"
     ],
     "cuisine": "Tunisian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-turkish-pear-pide",
+    "title": "Yummy Turkish Pear Pide",
+    "tags": [
+      "bamboo-steamer",
+      "dessert",
+      "fluffy",
+      "fodmap-friendly",
+      "korean-pear",
+      "slow-cook",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
     "totalTimeMin": 35,
     "shard": "y"
   },

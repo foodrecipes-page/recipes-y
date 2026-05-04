@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Smoky Turkish Lamb Kebabs",
+  "description": "A briny and shaggy Turkish dish featuring lamb, peppers, and a smoky flavor, grilled to perfection in scallop shells, kosher-friendly and perfect for a monsoon evening.",
+  "cuisine": "Turkish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat.",
+    "In a large bowl, whisk together paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the lamb, bell pepper, and onion onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 10 minutes, turning occasionally, until the lamb is cooked through.",
+    "Transfer the skewers to scallop shells and brush with lemon juice.",
+    "Return the skewers to the grill and cook for an additional 2 minutes, until slightly charred.",
+    "Serve the kebabs hot, garnished with minced garlic."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "kosher-friendly",
+    "lamb-recipes",
+    "monsoon-dishes",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellowed-smoky-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:34:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "pepper",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Kebabs"
+  }
+}

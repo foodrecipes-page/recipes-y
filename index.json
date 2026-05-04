@@ -476,6 +476,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-silky-croatian-onion-stew",
+    "title": "Yellow Silky Croatian Onion Stew",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "healthy",
+      "keto-friendly",
+      "low-carb",
+      "one-pot"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-silky-middle-eastern-beetroot-maqluba",
     "title": "Yellow Silky Middle Eastern Beetroot Maqluba",
     "tags": [
@@ -826,6 +841,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-smoky-turkish-lamb-kebabs",
+    "title": "Yellowed Smoky Turkish Lamb Kebabs",
+    "tags": [
+      "grilled-meats",
+      "kosher-friendly",
+      "lamb-recipes",
+      "monsoon-dishes",
+      "turkish-food"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 32,
     "shard": "y"
   },
   {

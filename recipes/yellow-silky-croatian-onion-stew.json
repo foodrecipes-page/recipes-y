@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Silky Croatian Onion Stew",
+  "description": "A fresh and silky Croatian dish featuring chopped onion, perfect for a sick day, made with brine-wet and keto-friendly ingredients. This stew is a comforting and healthy option for any time of the year.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, melt the butter over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the garlic and cook for an additional minute, stirring constantly.",
+    "Add the chicken broth, salt, black pepper, and paprika, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes.",
+    "Use an immersion blender to puree the stew until it is smooth and silky.",
+    "Stir in the heavy cream and continue to cook for an additional 5 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "healthy",
+    "keto-friendly",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "yellow-silky-croatian-onion-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-silky-croatian-onion-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:33:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "brine-wet",
+    "primaryIngredient": "chopped onion",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "onion",
+    "descriptor": "Yellow Silky",
+    "dishForm": "Stew"
+  }
+}

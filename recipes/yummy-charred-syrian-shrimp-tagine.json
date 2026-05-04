@@ -1,0 +1,107 @@
+{
+  "title": "Yummy Charred Syrian Shrimp Tagine",
+  "description": "A brunch‑styled Syrian shrimp tagine that balances smoky char with sweet candied ginger, perfect for a quick, paleo‑friendly meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp, peeled and deveined",
+      "amount": "500g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "candied ginger, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "cayenne pepper flakes",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat a cast‑iron skillet over high heat for 4 minutes.",
+    "While the skillet warms, toss the shrimp with lemon juice, smoked paprika, cumin, coriander, salt, pepper, and a splash of olive oil.",
+    "Place the shrimp in the hot skillet and sear for 1 minute per side until they develop a dark char and turn opaque.",
+    "Remove the shrimp and set aside on a plate.",
+    "Reduce the skillet heat to medium and drizzle a tablespoon of olive oil, then add minced garlic and cook until fragrant, about 30 seconds.",
+    "Return the shrimp to the skillet, sprinkle with cayenne pepper flakes, and stir for another minute to blend the flavors.",
+    "Sprinkle chopped cilantro and candied ginger over the shrimp, then give everything a quick toss to coat.",
+    "Plate the shrimp on a serving dish, drizzle with a bit more olive oil, and serve immediately for a brunch‑style charred tagine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "charred",
+    "one-pan",
+    "paleo-friendly",
+    "seafood",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 120,
+    "carbs": 13,
+    "fat": 27
+  },
+  "slug": "yummy-charred-syrian-shrimp-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-charred-syrian-shrimp-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:42:10Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "candy",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Yummy Charred",
+    "dishForm": "Tagine"
+  }
+}

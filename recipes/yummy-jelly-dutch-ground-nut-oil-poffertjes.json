@@ -1,0 +1,98 @@
+{
+  "title": "Yummy Jelly Dutch Ground Nut Oil Poffertjes",
+  "description": "A festive Dutch dessert featuring ground nut oil, kombu-cold-extract, and a floral glassy-jelly topping.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ground nut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Cold water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Floral honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegan gelatin",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Activate the agar agar powder by mixing it with 1/4 cup of cold water in a small bowl.",
+    "In a separate bowl, mix the rice flour and ground nut oil.",
+    "Add the kombu pieces and cold water to the rice flour mixture and stir until smooth.",
+    "Heat a non-stick pan over medium heat and pour in the rice flour mixture.",
+    "Cook for 2-3 minutes or until the mixture forms a smooth, thick paste.",
+    "Remove the pan from the heat and let it cool.",
+    "Add the agar agar mixture, maple syrup, floral honey, and lemon juice to the cooled rice flour mixture.",
+    "Mix well until a smooth batter forms.",
+    "Heat a non-stick pan over medium heat and grease with vegan gelatin.",
+    "Drop the batter by spoonfuls onto the pan and cook for 2-3 minutes or until golden brown.",
+    "Flip the poffertjes and cook for another 2 minutes.",
+    "Serve hot with a glassy-jelly topping made from the agar agar mixture and floral honey."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dutch",
+    "high-protein",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "yummy-jelly-dutch-ground-nut-oil-poffertjes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-jelly-dutch-ground-nut-oil-poffertjes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T17:54:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "ground nut oil",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "dutch",
+    "mainIngredient": "ground nut oil",
+    "descriptor": "yummy jelly",
+    "dishForm": "poffertjes"
+  }
+}

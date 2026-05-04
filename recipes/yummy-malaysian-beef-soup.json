@@ -1,0 +1,109 @@
+{
+  "title": "Yummy Malaysian Beef Soup",
+  "description": "A bitter yet snappy Malaysian beef soup with aromatic aromatics and a subtle zing of lime.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock",
+      "amount": "6 cups"
+    },
+    {
+      "name": "lean beef",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 cm",
+      "notes": "sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4",
+      "notes": "torn"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "shallot",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the beef stock to a boil over medium‑high heat.",
+    "Add the sliced lemongrass, galangal, and kaffir lime leaves, and simmer for 10 minutes to infuse aromatics.",
+    "Reduce heat to low and add the thinly sliced beef, cooking until the meat is just cooked through, about 3‑4 minutes.",
+    "Stir in the minced garlic, ginger, and sliced shallot, and let the flavors marry for 2 minutes.",
+    "Add the fish sauce, lime juice, black pepper, and red chili flakes, and simmer gently for another 5 minutes.",
+    "Taste and adjust seasoning, adding more lime juice or fish sauce if needed.",
+    "Ladle the soup into bowls, garnish with fresh cilantro if desired, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "beef-soup",
+    "budget-friendly",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 50,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "yummy-malaysian-beef-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-malaysian-beef-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:12:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "beef stock",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "Yummy",
+    "dishForm": "Soup"
+  }
+}

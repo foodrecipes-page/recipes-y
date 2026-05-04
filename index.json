@@ -2961,6 +2961,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-malaysian-beef-soup",
+    "title": "Yummy Malaysian Beef Soup",
+    "tags": [
+      "asian",
+      "beef-soup",
+      "budget-friendly",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-malaysian-prawns-curry",
     "title": "Yummy Malaysian Prawns Curry",
     "tags": [

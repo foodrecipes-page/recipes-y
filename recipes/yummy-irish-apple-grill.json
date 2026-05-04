@@ -1,0 +1,101 @@
+{
+  "title": "Yummy Irish Apple Grill",
+  "description": "A sweet, flaky, cozy Irish apple dish glazed with shoyu‑koji and paired with spherified apple spheres, all cooked on a binchotan grill.",
+  "cuisine": "Irish",
+  "diet": [
+    "satvik-friendly",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apple",
+      "amount": "3",
+      "notes": "medium, Granny Smith"
+    },
+    {
+      "name": "shoyu‑koji",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "oat flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegan puff pastry",
+      "amount": "2 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium heat and oil the grates lightly with coconut oil.",
+    "Core the apples, cut them into thick slices, and place them on a parchment sheet.",
+    "Whisk together shoyu‑koji, maple syrup, sea salt, black pepper, and lime juice in a small bowl to make a glaze.",
+    "Brush the glaze over both sides of each apple slice.",
+    "Grill the apple slices for 4 minutes per side until caramelized and slightly charred.",
+    "Meanwhile, blend oat flour and coconut oil with a splash of water to create a thick dough for spherification.",
+    "Drop small spoonfuls of the mixture into a cold 1% sodium alginate bath to form spheres, then rinse and set aside.",
+    "Roll the vegan puff pastry into thin rounds, place a slice of grilled apple in the center, and fold over to form a flaky parcel.",
+    "Place the pastry parcels back on the grill for 3 minutes until golden brown and puffed.",
+    "Serve the grilled apple slices and pastry parcels with the spherified apple spheres floating on top, dusted with cinnamon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "apple",
+    "cozy",
+    "grill",
+    "satvik-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "yummy-irish-apple-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-irish-apple-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:44:05Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "spherify",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Apple",
+    "descriptor": "Yummy",
+    "dishForm": "Grill"
+  }
+}

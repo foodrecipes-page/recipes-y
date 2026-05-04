@@ -2647,6 +2647,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-irish-apple-grill",
+    "title": "Yummy Irish Apple Grill",
+    "tags": [
+      "apple",
+      "cozy",
+      "grill",
+      "satvik-friendly",
+      "vegan"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-irish-pistachio-casserole",
     "title": "Yummy Irish Pistachio Casserole",
     "tags": [

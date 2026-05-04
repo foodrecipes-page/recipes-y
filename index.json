@@ -968,6 +968,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-uruguayan-beef-stew",
+    "title": "Yummy Uruguayan Beef Stew",
+    "tags": [
+      "braised",
+      "high-protein",
+      "kosher-friendly",
+      "uruguay",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 135,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-venezuelan-beans-stew",
     "title": "Yummy Venezuelan Beans Stew",
     "tags": [

@@ -1,0 +1,111 @@
+{
+  "title": "Yummy Uruguayan Beef Stew",
+  "description": "A hearty, sweet and savory beef stew with dark brown sugar and aromatic herbs, perfect for post-workout recovery. The rich braise is packed with protein and comforting flavors.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1.5 kg",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400 g"
+    },
+    {
+      "name": "beef broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat until shimmering.",
+    "Add the beef cubes and brown them on all sides, about 5 minutes.",
+    "Reduce heat to medium and add the sliced onion, minced garlic, and carrot, cooking until the onion turns translucent, about 7 minutes.",
+    "Stir in the canned diced tomatoes, beef broth, dark brown sugar, soy sauce, paprika, cumin, and bay leaves, mixing well.",
+    "Bring the mixture to a gentle boil, then cover and reduce the heat to low so it simmers slowly.",
+    "Let the stew cook uncovered for 90 minutes, stirring occasionally, until the beef is tender and the sauce thickens.",
+    "Remove the bay leaves and season the stew with salt and pepper to taste.",
+    "Let the stew rest for 10 minutes before serving, allowing flavors to meld.",
+    "Ladle the stew into bowls and garnish with fresh parsley if desired.",
+    "Serve hot with crusty bread or over boiled potatoes for a comforting meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "high-protein",
+    "kosher-friendly",
+    "uruguay",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 35,
+    "carbs": 33,
+    "fat": 22
+  },
+  "slug": "yummy-uruguayan-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-uruguayan-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:03:08Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "braise",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Yummy",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Yummy Smoky Portuguese Cheese Frittata",
+  "description": "A cultured, dense, festive Portuguese dish featuring Colby-Jack cheese and binchotan charcoal for a low-carb twist.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "6 large",
+      "notes": null
+    },
+    {
+      "name": "colby jack cheese",
+      "amount": "200 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "bacon",
+      "amount": "50 g",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "spinach",
+      "amount": "100 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "green pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "infused with crushed binchotan charcoal"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 175C and lightly grease a 20cm round baking dish with olive oil infused with crushed binchotan charcoal.",
+    "In a skillet over medium heat, cook diced bacon until crisp, then remove and set aside.",
+    "In the same skillet, add diced onion and garlic, sauté until translucent.",
+    "Add diced green pepper and chopped spinach, cook until wilted, then remove from heat.",
+    "Whisk eggs in a bowl, season with smoked paprika, salt, and pepper.",
+    "Stir shredded colby jack cheese into the egg mixture until melted.",
+    "Fold in cooked bacon, sautéed vegetables, and a small drizzle of the infused olive oil.",
+    "Pour the mixture into the prepared baking dish, spreading evenly.",
+    "Bake for 20 minutes, or until the frittata is set and lightly golden on top.",
+    "Let rest for 5 minutes, slice into wedges, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-heavy",
+    "frittata",
+    "low-carb",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 446,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 32
+  },
+  "slug": "yummy-smoky-portuguese-cheese-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-smoky-portuguese-cheese-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:17:13Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "Yummy Smoky",
+    "dishForm": "Frittata"
+  }
+}

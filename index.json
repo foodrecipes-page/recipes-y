@@ -3112,6 +3112,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-smoky-portuguese-cheese-frittata",
+    "title": "Yummy Smoky Portuguese Cheese Frittata",
+    "tags": [
+      "cheese-heavy",
+      "frittata",
+      "low-carb",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-smoky-russian-provola-stew",
     "title": "Yummy Smoky Russian Provola Stew",
     "tags": [

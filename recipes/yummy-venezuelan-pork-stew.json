@@ -1,0 +1,104 @@
+{
+  "title": "Yummy Venezuelan Pork Stew",
+  "description": "A sour, tender stew with thyme and nuka-pickle that satisfies midnight cravings while staying keto-friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder bone-in",
+      "amount": "1500 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 bunch, chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nuka-pickle brine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium heat until shimmering.",
+    "Add the pork shoulder pieces and sear on all sides until browned, about 5 minutes.",
+    "Remove the pork and set aside, then sauté the onion, garlic, bell pepper, and tomato until softened, about 7 minutes.",
+    "Stir in the thyme, nuka-pickle brine, and a pinch of salt and pepper, letting the aromatics bloom for 2 minutes.",
+    "Return the pork to the pot, pour in the chicken stock, and bring the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 2 hours, or until the pork is fall-through-the-hand tender.",
+    "Stir in the chopped cilantro, taste, and adjust seasoning if needed.",
+    "Serve hot, optionally garnished with extra cilantro, and enjoy the sour, midnight-craving flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "one-pot",
+    "slow-cooked",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 793,
+    "protein": 48,
+    "carbs": 7,
+    "fat": 88
+  },
+  "slug": "yummy-venezuelan-pork-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-venezuelan-pork-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:47:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "thyme",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pork",
+    "descriptor": "Yummy",
+    "dishForm": "Stew"
+  }
+}

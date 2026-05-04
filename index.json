@@ -1443,5 +1443,18 @@
     "cuisine": "Venezuelan",
     "totalTimeMin": 45,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-venezuelan-pork-stew",
+    "title": "Yummy Venezuelan Pork Stew",
+    "tags": [
+      "keto-friendly",
+      "one-pot",
+      "slow-cooked",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 135,
+    "shard": "y"
   }
 ]

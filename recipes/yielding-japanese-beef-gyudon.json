@@ -1,0 +1,109 @@
+{
+  "title": "Yielding Japanese Beef Gyudon",
+  "description": "A buttery, molten breakfast bowl that fuses tandoor-grilled beef with a citrusy onion sauce, served over cauliflower rice for a whole30-friendly brunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lean beef sirloin",
+      "amount": "400g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "rice wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "400g"
+    },
+    {
+      "name": "green onions",
+      "amount": "2",
+      "notes": "sliced for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 200C and place beef slices on the grill rack.",
+    "Grill the beef for 2 minutes per side until seared, then remove from the tandoor.",
+    "Heat coconut oil and sesame oil in the cataplana over medium heat.",
+    "Add sliced onions and cook until translucent, about 5 minutes.",
+    "Add minced garlic and grated ginger, sauté for 30 seconds until fragrant.",
+    "Stir in rice wine vinegar, sea salt, and black pepper, cook for 1 minute.",
+    "Return the grilled beef to the cataplana and toss with onions and sauce, cooking for 2 minutes to heat through.",
+    "Add cauliflower rice to the pan, stir to combine and warm for 3 minutes.",
+    "Transfer the mixture to serving plates and garnish with sliced green onions.",
+    "Serve hot immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "cataplana",
+    "kyushu",
+    "low-carb",
+    "one-pan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 195,
+    "protein": 23,
+    "carbs": 5,
+    "fat": 9
+  },
+  "slug": "yielding-japanese-beef-gyudon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yielding-japanese-beef-gyudon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:06:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "onions",
+    "diet": "whole30",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Beef",
+    "descriptor": "Yielding",
+    "dishForm": "Gyudon"
+  }
+}

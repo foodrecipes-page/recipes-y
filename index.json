@@ -69,6 +69,18 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-canadian-birds-eye-chillies-stew",
+    "title": "Yeasty Canadian Birds-Eye Chilli Stew",
+    "tags": [
+      "comfort-food",
+      "high-calorie",
+      "stew"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-chewy-midnight-craving-dutch-ground-sugar-wrap",
     "title": "yeasty chewy midnight-craving Dutch ground sugar Wrap",
     "tags": [
@@ -216,6 +228,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 270,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-silky-korean-egg-rolls-gyoza",
+    "title": "Yeasty Silky Korean Egg Rolls Gyoza",
+    "tags": [
+      "high-protein",
+      "korean-fusion",
+      "one-pan",
+      "weeknight",
+      "yeast-based"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

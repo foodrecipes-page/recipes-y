@@ -1,0 +1,118 @@
+{
+  "title": "Yeasty Silky Korean Egg Rolls Gyoza",
+  "description": "Indulgent Korean dish featuring yeasty egg rolls, topped with crispy bonito shavings and a hint of Mediterranean flair.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pastry dough for gyoza wrappers",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a small bowl. Let it sit for 5 minutes until foamy.",
+    "Roll out the gyoza wrappers to your desired thickness.",
+    "In a large mixing bowl, combine ground pork, chopped scallions, sesame oil, soy sauce, granulated sugar, salt, and black pepper. Mix until well combined.",
+    "Add the yeast mixture to the pork mixture and mix until smooth.",
+    "Place a tablespoon of the pork mixture in the center of each gyoza wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper. Fold the wrapper over the filling to form a half-moon shape, pressing the edges together to seal the gyoza.",
+    "Heat a large skillet or wok over medium-high heat.",
+    "Add 1-2 tablespoons of oil to the skillet and swirl it around to coat the bottom.",
+    "When the oil is hot, add the gyoza to the skillet, leaving some space between each gyoza.",
+    "Cook the gyoza for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Remove the gyoza from the skillet and place them on a paper towel-lined plate to drain excess oil.",
+    "Top the gyoza with crispy bonito shavings and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "korean-fusion",
+    "one-pan",
+    "weeknight",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "yeasty-silky-korean-egg-rolls-gyoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-silky-korean-egg-rolls-gyoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "bonito-shave",
+    "primaryIngredient": "egg rolls",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "egg rolls",
+    "descriptor": "yeasty silky",
+    "dishForm": "Gyoza"
+  }
+}

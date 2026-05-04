@@ -1,0 +1,100 @@
+{
+  "title": "Yeasty Canadian Birds-Eye Chilli Stew",
+  "description": "A hearty, slow-cooked stew originating from Canada, featuring crunchy birds-eye chillies and a yeasty twist. Perfect for a monsoon dinner.",
+  "cuisine": "Canadian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Birds-Eye chillies",
+      "amount": "4",
+      "notes": "seeds removed, chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine yeast and warm water and let it sit for 5 minutes until frothy.",
+    "Heat butter in the pot over medium heat and saut\u00048 the onion until softened, about 5 minutes.",
+    "Add garlic and saut\u00048 for another minute.",
+    "Add flour and cook for 1-2 minutes, stirring constantly.",
+    "Gradually add beef broth, stirring continuously to avoid lumps.",
+    "Add chillies and season with salt and sugar.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20-25 minutes.",
+    "Preheat oven to 375\b7F (190\rC).\u00048",
+    "Transfer the stew to a slate-tile vessel and bake for 15-20 minutes, or until the top is golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-calorie",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 30,
+    "carbs": 90,
+    "fat": 40
+  },
+  "slug": "yeasty-canadian-birds-eye-chillies-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-canadian-birds-eye-chillies-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "slow-cook",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "birds-eye chillies",
+    "descriptor": "yeasty",
+    "dishForm": "stew"
+  }
+}

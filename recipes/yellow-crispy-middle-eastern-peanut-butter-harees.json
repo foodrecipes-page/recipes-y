@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Crispy Middle Eastern Peanut Butter Harees",
+  "description": "A low-glycemic, umami-rich Middle Eastern dish featuring peanut butter and crispy harees, steamed in a leaf wrap, perfect for a light lunch or snack. This recipe combines the flavors of the Middle East with the creaminess of peanut butter.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup",
+      "notes": "natural, unsweetened"
+    },
+    {
+      "name": "harees",
+      "amount": "1 cup",
+      "notes": "wheat berries"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rinse the harees and soak them in water for 30 minutes.",
+    "Drain the harees and mix them with peanut butter, olive oil, salt, black pepper, paprika, and garlic powder.",
+    "Lay a banana leaf flat and place 1/4 cup of the harees mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a triangle or square shape, and repeat with the remaining ingredients.",
+    "Place the leaf-wrapped harees on a baking sheet and bake for 20 minutes.",
+    "Increase the oven temperature to 400 degrees Fahrenheit and bake for an additional 10 minutes, or until crispy.",
+    "Remove the harees from the oven and let them cool for a few minutes.",
+    "Serve the crispy harees hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "low-glycemic",
+    "lunch",
+    "middle-eastern",
+    "peanut-butter",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-crispy-middle-eastern-peanut-butter-harees",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crispy-middle-eastern-peanut-butter-harees",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:08:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "peanut butter",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "peanut butter",
+    "descriptor": "Yellow Crispy",
+    "dishForm": "Harees"
+  }
+}

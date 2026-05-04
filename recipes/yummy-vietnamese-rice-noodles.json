@@ -1,0 +1,99 @@
+{
+  "title": "Yummy Vietnamese Rice Noodles",
+  "description": "Light, pillowy Vietnamese rice noodles tossed in a funky Chinese sesame sauce and served in a fondue pot for a shojin-friendly, quick meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "shojin-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "500ml"
+    },
+    {
+      "name": "soy sauce, low sodium",
+      "amount": "30ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "10ml"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "coriander, chopped",
+      "amount": "15g"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2"
+    },
+    {
+      "name": "tofu, cubed",
+      "amount": "100g",
+      "notes": "optional"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to a rolling boil and add a pinch of salt.",
+    "Add the rice noodles and cook for 3 to 4 minutes until al dente, then drain and rinse with cold water.",
+    "In a bowl, whisk together soy sauce, sesame oil, rice vinegar, minced garlic, and chili flakes until smooth.",
+    "Toss the noodles in the sauce, shaking until the noodles are evenly coated.",
+    "In a separate pan, lightly stir-fry the tofu cubes until golden brown and add them to the noodles.",
+    "Sprinkle chopped coriander over the dish and serve with lime wedges on the side.",
+    "Serve hot directly from the fondue pot, allowing diners to dip and stir as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fondue-pot",
+    "noodles",
+    "quick",
+    "sesame-sauce",
+    "shojin-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 20,
+    "carbs": 72,
+    "fat": 19
+  },
+  "slug": "yummy-vietnamese-rice-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-vietnamese-rice-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:11:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Rice",
+    "descriptor": "Yummy",
+    "dishForm": "Noodles"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Yummy Crunchy Basque White Fish Choux",
+  "description": "A rich, crunchy, cozy Basque‑French dish combining puffed choux pastry, tender white fish, and steamed spinach leaves for a nut‑free comfort meal.",
+  "cuisine": "basque-french",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "salt",
+      "amount": "1g"
+    },
+    {
+      "name": "egg white",
+      "amount": "1"
+    },
+    {
+      "name": "egg yolk",
+      "amount": "1"
+    },
+    {
+      "name": "white fish fillets (cod)",
+      "amount": "500g"
+    },
+    {
+      "name": "fresh spinach leaves",
+      "amount": "200g"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1g"
+    },
+    {
+      "name": "piment d'espelette",
+      "amount": "0.5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a sheet pan with parchment.",
+    "In a saucepan, combine water, butter, and salt; bring to a boil and then remove from heat.",
+    "Stir in flour until the mixture forms a smooth ball, then let it cool for five minutes.",
+    "Beat the egg white to soft peaks and fold into the dough; beat the yolk separately and fold it in next.",
+    "Pipe the dough into small rounds using a piping bag and place them on the parchment.",
+    "Arrange spinach leaves on the baking sheet, place fish fillets on top, then cover each fillet with a choux round, sealing the edges with a little water.",
+    "Brush the tops with olive oil and sprinkle oregano, piment d'espelette, and pepper over the choux.",
+    "Bake the assembly for 15 to 18 minutes until the choux puffs and turns golden brown.",
+    "Serve immediately with a squeeze of lemon and a side of steamed greens.",
+    "Check that the fish has reached an internal temperature of 63°C before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "choux",
+    "comfort-food",
+    "fish",
+    "leaf-wrap",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 825,
+    "protein": 64,
+    "carbs": 39,
+    "fat": 28
+  },
+  "slug": "yummy-crunchy-basque-white-fish-choux",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crunchy-basque-white-fish-choux",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:24:16Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "white fish",
+    "diet": "nut-free",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "white fish",
+    "descriptor": "Yummy Crunchy",
+    "dishForm": "Choux"
+  }
+}

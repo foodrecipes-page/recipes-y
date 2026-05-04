@@ -417,6 +417,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-smoky-mexican-vanilla-churros",
+    "title": "Yellow Smoky Mexican Vanilla Churros",
+    "tags": [
+      "claypot",
+      "kid-friendly",
+      "mexican-dessert",
+      "plant-based",
+      "smoky",
+      "vanilla"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spiced-indian-lentils-curry",
     "title": "Yellow Spiced Indian Lentils Curry",
     "tags": [

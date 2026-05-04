@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Smoky Mexican Vanilla Churros",
+  "description": "Smoky and velvety Mexican dessert featuring vanilla pod and plant-based friendly ingredients, served in a claypot. This kid-friendly dish is perfect for a sweet treat.",
+  "cuisine": "Mexican",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla pod",
+      "amount": "1",
+      "notes": "split lengthwise"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "cinnamon sugar",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine non-dairy milk, granulated sugar, and smoked paprika, and heat over medium heat, stirring occasionally.",
+    "Add the split vanilla pod to the saucepan and remove from heat, letting it steep for 10 minutes.",
+    "In a large bowl, whisk together flour and a pinch of salt.",
+    "Add the steeped non-dairy milk mixture to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Heat canola oil in a deep frying pan to 375 degrees Fahrenheit.",
+    "Pipe the dough through a star tip into the hot oil, cutting into 4-inch pieces.",
+    "Fry the churros for 2-3 minutes on each side, until golden brown.",
+    "Drain the churros on paper towels and dust with cinnamon sugar.",
+    "Serve the churros in a claypot, flambeing with a small amount of non-dairy rum or other plant-based liquor, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "claypot",
+    "kid-friendly",
+    "mexican-dessert",
+    "plant-based",
+    "smoky",
+    "vanilla"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "yellow-smoky-mexican-vanilla-churros",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-mexican-vanilla-churros",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:22:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "flambe",
+    "primaryIngredient": "vanilla pod",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "vanilla",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Churros"
+  }
+}

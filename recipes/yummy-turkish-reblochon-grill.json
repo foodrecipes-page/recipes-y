@@ -1,0 +1,94 @@
+{
+  "title": "Turkish Reblochon Grill",
+  "description": "A salty and chewy Turkish dish featuring reblochon cheese, perfect for a crowd, this lacto-vegetarian-friendly recipe is made using a raclette grill.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "8 oz",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "Turkish bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, garlic, paprika, salt, and black pepper.",
+    "Brush the mixture onto both sides of the Turkish bread cubes.",
+    "Place the bread cubes onto the raclette grill and cook for 2-3 minutes on each side, or until toasted.",
+    "Place a slice of reblochon cheese onto each bread cube.",
+    "Close the grill and cook for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the grilled cheese from the raclette grill and top with chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy-goodness",
+    "crowd-pleaser",
+    "easy-snack",
+    "lacto-vegetarian",
+    "raclette-grill",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "yummy-turkish-reblochon-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-turkish-reblochon-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:32:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "reblochon",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "reblochon",
+    "descriptor": "yummy cheesy",
+    "dishForm": "Grill"
+  }
+}

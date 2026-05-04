@@ -1,0 +1,117 @@
+{
+  "title": "Yummy Fluffy Spanish Chicken Crema Catalana",
+  "description": "A briny, fluffy Spanish custard with a subtle chicken bouillon twist that feels nostalgic and protein-packed.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "2 cups",
+      "notes": "whole"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for skimming fat"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together egg yolks, sugar, vanilla extract, and chicken bouillon powder until smooth.",
+    "Heat milk and heavy cream in a saucepan until it reaches a simmer, then pour over the egg mixture while whisking constantly.",
+    "Stir in the cinnamon stick, lemon zest, and salt.",
+    "Transfer the mixture to a pressure cooker, add the flour and stir until no lumps.",
+    "Seal the pressure cooker, cook on high pressure for 10 minutes, then allow natural release for 5 minutes.",
+    "Remove the pressure cooker, discard the cinnamon stick, and skim off any fat from the surface.",
+    "Transfer the custard to a heatproof bowl, cover with plastic wrap to prevent a skin from forming.",
+    "Let it cool to room temperature, then refrigerate for at least 2 hours until thickened.",
+    "Before serving, sprinkle lightly with additional sugar and zest if desired.",
+    "Spoon into ramekins and serve chilled for a creamy, nostalgic treat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "dessert",
+    "fluffy",
+    "high-protein",
+    "nostalgic",
+    "pressure-cooker",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "yummy-fluffy-spanish-chicken-crema-catalana",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-fluffy-spanish-chicken-crema-catalana",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:47:07Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Chicken",
+    "descriptor": "Yummy Fluffy",
+    "dishForm": "Crema Catalana"
+  }
+}

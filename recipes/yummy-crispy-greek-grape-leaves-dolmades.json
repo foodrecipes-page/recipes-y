@@ -1,0 +1,104 @@
+{
+  "title": "Yummy Crispy Greek Grape Leaves Dolmades",
+  "description": "Citrusy and crispy, these Greek grape leaf dolmades are light, nut-free and perfect for a quick lunch.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh grape leaves",
+      "amount": "20",
+      "notes": "blanched"
+    },
+    {
+      "name": "cooked short-grain rice",
+      "amount": "200g"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "100 ml"
+    }
+  ],
+  "instructions": [
+    "Rinse grape leaves and blanch them for 2 minutes, then drain and set aside.",
+    "In a bowl combine cooked rice, all purpose flour, salt, black pepper, dried oregano, ground cumin, lemon zest, and lemon juice.",
+    "Whisk in the egg until the mixture is smooth and well blended.",
+    "Place a heaped spoonful of the filling onto the center of each grape leaf, fold the sides over and roll tightly.",
+    "Heat olive oil in a skillet over medium heat and brown the dolmades on all sides.",
+    "Add water to the skillet until it reaches about 1/4 inch from the bottom of the pan, then cover and simmer for 15 minutes.",
+    "Remove the lid, raise the heat, and stir, allowing the liquid to evaporate for an additional 5 minutes.",
+    "Serve hot, optionally drizzling any remaining lemony sauce over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crispy",
+    "greek",
+    "nut-free",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 21,
+    "fat": 8
+  },
+  "slug": "yummy-crispy-greek-grape-leaves-dolmades",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crispy-greek-grape-leaves-dolmades",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:51:01Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "all purpose flour",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Grape Leaves",
+    "descriptor": "Yummy Crispy",
+    "dishForm": "Dolmades"
+  }
+}

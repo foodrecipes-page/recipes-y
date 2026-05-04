@@ -1,0 +1,96 @@
+{
+  "title": "Yellowed Resinous Northern Irish Aubergine Full English Breakfast Skillet",
+  "description": "A hearty one-pot Northern Irish dish featuring aubergine and a resinous flavor, wrapped in a lotus leaf for a unique twist on the traditional Full English Breakfast.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "sausages",
+      "amount": "4",
+      "notes": "pork and sage"
+    },
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "large"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the sausages until browned, then set aside.",
+    "Add the diced onions to the skillet and cook until translucent, then add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the diced aubergine to the skillet and cook until it starts to soften, then stir in the cooked sausages.",
+    "Create 4 wells in the skillet and crack an egg into each well.",
+    "Season with salt and pepper to taste, then cover the skillet with a lid and transfer to the preheated oven.",
+    "Bake for 15 minutes, or until the eggs are cooked to desired doneness.",
+    "Wrap each portion in a lotus leaf wrap and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-skillet",
+    "high-protein",
+    "lotus-leaf",
+    "northern-irish",
+    "one-pan",
+    "resinous"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-resinous-northern-irish-aubergine-full-english-breakfast-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-resinous-northern-irish-aubergine-full-english-breakfast-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:27:34Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "aubergine",
+    "diet": "high-protein",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "aubergine",
+    "descriptor": "Yellowed Resinous",
+    "dishForm": "Full English Breakfast Skillet"
+  }
+}

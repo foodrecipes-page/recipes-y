@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Pillowy Australian Lentils Curry",
+  "description": "A one-pot Australian dish featuring umami flavors, pillowy texture, and pickles, made with Jain-friendly ingredients. This curry is a delicious and hearty meal option.",
+  "cuisine": "Australian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Australian pickles",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until the onion is translucent.",
+    "Add curry powder and turmeric and cook for 1 minute.",
+    "Add lentils, pickles, and salt, and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Stir in coconut cream and continue to simmer for 5 minutes.",
+    "Use an immersion blender to mantecare-emulsify the curry to a pillowy texture.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "coconut-cream",
+    "jain-friendly",
+    "lentil-curry",
+    "one-pot",
+    "umami-flavors",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-pillowy-australian-lentils-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-pillowy-australian-lentils-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:16:11Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "pickles",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lentils",
+    "descriptor": "yellow pillowy",
+    "dishForm": "Curry"
+  }
+}

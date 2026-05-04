@@ -1,0 +1,99 @@
+{
+  "title": "Yummy Australian Flour Flatbread",
+  "description": "A garlicky, fluffy flatbread that kids love, made with simple flour, water, and a touch of olive oil for a nut‑free, kid‑friendly Australian treat.",
+  "cuisine": "Australian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "warm water",
+      "amount": "100ml",
+      "notes": "slightly warm, not hot"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "plus extra for cooking"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": "sifted with sugar"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": "about 1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine the flour, salt, sugar and active dry yeast.",
+    "Add the warm water and 2 tbsp of olive oil and stir until a shaggy dough forms.",
+    "Transfer the dough to a lightly floured surface and knead for about 5 minutes until smooth.",
+    "Return the dough to the bowl, cover with a damp cloth and let it rise in a warm place for 20 minutes.",
+    "After rising, punch the dough down and divide it into four equal portions.",
+    "Roll each portion into a thin circle, about 1.5 cm thick.",
+    "Heat a dry skillet over medium heat and brush each flatbread with a little olive oil before cooking.",
+    "Cook each flatbread for 2 to 3 minutes on each side until golden brown and puffed.",
+    "Meanwhile, mix the minced garlic with a teaspoon of olive oil to make a garlic oil rub.",
+    "Brush the cooked flatbread with the garlic oil and sprinkle oregano on top.",
+    "Serve the flatbread warm, cut into bite‑sized squares for kids to enjoy.",
+    "Store any leftovers wrapped in foil at room temperature for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "fluffy",
+    "garlicky",
+    "kid-friendly",
+    "nut-free",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 245,
+    "protein": 2,
+    "carbs": 39,
+    "fat": 7
+  },
+  "slug": "yummy-australian-flour-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-australian-flour-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:59:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "flour",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Flour",
+    "descriptor": "Yummy",
+    "dishForm": "Flatbread"
+  }
+}

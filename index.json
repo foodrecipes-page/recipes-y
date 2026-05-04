@@ -561,6 +561,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-and-tangy-mexican-chiles-quesadilla",
+    "title": "yummy and tangy Mexican chiles Quesadilla",
+    "tags": [
+      "brunch",
+      "comfort-food",
+      "high-calorie",
+      "mexican-breakfast",
+      "one-pan",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 32,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-australian-bacon-hash",
     "title": "Yummy Australian Bacon Hash",
     "tags": [

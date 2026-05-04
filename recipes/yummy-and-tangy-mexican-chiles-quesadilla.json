@@ -1,0 +1,113 @@
+{
+  "title": "yummy and tangy Mexican chiles Quesadilla",
+  "description": "Fermented, shaggy, sick-day Mexican dish featuring whipping cream, en-croute, sugar-free-friendly.",
+  "cuisine": "mexican",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fermented chiles",
+      "amount": "6"
+    },
+    {
+      "name": "whipping cream",
+      "amount": "250g"
+    },
+    {
+      "name": "monterey jack",
+      "amount": "250g",
+      "notes": "shredded"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "large flour tortillas",
+      "amount": "8"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "20g"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "In a blender, puree the fermented chiles, cumin, garlic powder, and cayenne pepper until smooth.",
+    "Heat the chicken broth in a pan over medium heat.",
+    "In a bowl, mix the whipping cream and the chile puree.",
+    "In a skillet, melt 1 tablespoon of butter over medium heat.",
+    "Place a large flour tortilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Pour the whipped cream and chile mixture over the cheese.",
+    "Fold the tortilla in half and cook for 2 minutes or until the cheese melts.",
+    "Flip the quesadilla and cook for another 2 minutes.",
+    "In a separate pan, melt the remaining butter over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the chopped cilantro and cook for 1 minute.",
+    "Cut the quesadilla into wedges and serve with the onion and cilantro mixture on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "high-calorie",
+    "mexican-breakfast",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 30,
+    "carbs": 100,
+    "fat": 80
+  },
+  "slug": "yummy-and-tangy-mexican-chiles-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-and-tangy-mexican-chiles-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:59:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "en-croute",
+    "primaryIngredient": "whipping cream",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chiles",
+    "descriptor": "yummy and tangy",
+    "dishForm": "Quesadilla"
+  }
+}

@@ -1223,6 +1223,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-italian-ham-panettone",
+    "title": "Yummy Italian Ham Panettone",
+    "tags": [
+      "bento-box",
+      "ham",
+      "neapolitan",
+      "raspberry",
+      "savory-panettone",
+      "sugar-free"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-juicy-japanese-fish-fillet-okonomiyaki",
     "title": "Yummy Juicy Japanese Fish Fillet Okonomiyaki",
     "tags": [

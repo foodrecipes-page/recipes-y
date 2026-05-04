@@ -1,0 +1,94 @@
+{
+  "title": "Yummy Italian Ham Panettone",
+  "description": "A savory Italian panettone filled with ham and topped with sugar-free raspberry jam, perfect for a quick energizing breakfast.",
+  "cuisine": "Italian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "300g"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "7g"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "Ham slices",
+      "amount": "100g"
+    },
+    {
+      "name": "Sugar-free raspberry jam",
+      "amount": "30g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Stevia powder",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C and grease a panettone mold or a loaf pan.",
+    "In a bowl, combine flour, yeast, salt and stevia, mixing well.",
+    "Warm milk to 38C, add softened butter and stir until melted.",
+    "Beat eggs in a separate bowl and add the milk mixture to the dry ingredients, stirring until a soft dough forms.",
+    "Knead the dough on a floured surface for 8 minutes until smooth and elastic.",
+    "Place the dough in the prepared pan, cover, and let rise for 60 minutes until doubled in size.",
+    "Bake the panettone for 35 minutes, then remove and allow to cool for 10 minutes before slicing.",
+    "Slice the cooled panettone, spread a thin layer of raspberry jam, layer ham slices inside, reassemble the loaf and pack into a bento box."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "ham",
+    "neapolitan",
+    "raspberry",
+    "savory-panettone",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 41,
+    "fat": 11
+  },
+  "slug": "yummy-italian-ham-panettone",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-italian-ham-panettone",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:25:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "en-croute",
+    "primaryIngredient": "raspberry jam",
+    "diet": "sugar-free",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "ham",
+    "descriptor": "Yummy",
+    "dishForm": "Panettone"
+  }
+}

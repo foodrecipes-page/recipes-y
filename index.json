@@ -1446,6 +1446,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-syrian-lentils-stew",
+    "title": "Yummy Syrian Lentils Stew",
+    "tags": [
+      "citrusy",
+      "low-fat",
+      "macrobiotic",
+      "one-pot",
+      "vegan"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-turkish-reblochon-grill",
     "title": "Turkish Reblochon Grill",
     "tags": [

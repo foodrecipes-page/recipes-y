@@ -792,6 +792,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-molten-italian-pasta-paccheri",
+    "title": "Yellow Molten Italian Pasta Paccheri",
+    "tags": [
+      "italian-food",
+      "one-pot-meals",
+      "pasta-recipes",
+      "romantic-dinners",
+      "vegetarian-options"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-peppered-croatian-fish-stew",
     "title": "Yellow Peppered Croatian Fish Stew",
     "tags": [

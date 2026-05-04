@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Molten Italian Pasta Paccheri",
+  "description": "A savory and romantic Italian dish featuring paccheri pasta in a sweet sherry sauce, perfect for a night in with loved ones. The dish is made with raw-friendly ingredients and a saute method to bring out the flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the diced onion and garlic until softened.",
+    "Add the diced yellow bell pepper to the skillet and continue to cook for an additional 2 minutes.",
+    "Pour in the sweet sherry and bring the mixture to a simmer, scraping up any browned bits from the bottom of the pan.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, stirring occasionally.",
+    "Stir in the shaved grana padano cheese until melted and smooth.",
+    "Drain the cooked pasta and add it to the skillet, tossing to coat with the sherry sauce.",
+    "Season with salt and pepper to taste, then garnish with chopped fresh parsley.",
+    "Serve immediately, with the molten cheese sauce still warm and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "one-pot-meals",
+    "pasta-recipes",
+    "romantic-dinners",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellow-molten-italian-pasta-paccheri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-molten-italian-pasta-paccheri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:55:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "saute",
+    "primaryIngredient": "sweet sherry",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "Yellow Molten",
+    "dishForm": "Paccheri"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Yellowed Velvety Mediterranean Sweet Potatoes Tagine",
+  "description": "A charred and velvety Mediterranean dish featuring sweet potatoes, cooked in a ttukbaegi earthenware pot, perfect for a paleo-friendly dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large ttukbaegi earthenware pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cubed sweet potatoes, ground cumin, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 45 minutes, or until the sweet potatoes are tender and the liquid has been absorbed.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "mediterranean-cuisine",
+    "one-pot",
+    "paleo-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-velvety-mediterranean-sweet-potatoes-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-velvety-mediterranean-sweet-potatoes-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:38:54Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Yellowed velvety",
+    "dishForm": "Tagine"
+  }
+}

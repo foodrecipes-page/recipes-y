@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Creamy German Lamb Stew",
+  "description": "A hearty and comforting German lamb stew with a floral and creamy twist, perfect for a midnight craving.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat and season the lamb shoulder pieces with salt, black pepper, and caraway seeds.",
+    "Grill the lamb pieces for 5 minutes per side, or until browned, then set aside.",
+    "In a large kazan-cauldron, saute the chopped onion and minced garlic over medium heat until the onion is translucent.",
+    "Add the grilled lamb pieces, chicken broth, and dried thyme to the cauldron and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the lamb is tender.",
+    "Stir in the heavy cream and continue to simmer for an additional 10 minutes, or until the stew has thickened slightly.",
+    "Season the stew with salt and black pepper to taste, then serve hot, garnished with chopped fresh parsley.",
+    "Serve the stew in bowls and enjoy with a side of crusty bread or over egg noodles."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "lamb-recipes",
+    "one-pot-meals",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 39
+  },
+  "slug": "yellowed-creamy-german-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-creamy-german-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:58:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Creamy",
+    "dishForm": "Stew"
+  }
+}

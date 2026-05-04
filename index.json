@@ -578,6 +578,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-turkish-stir-fry-vegetables-sutlu-boregi",
+    "title": "Turkish Stir-Fry Vegetables Sutlu Boregi",
+    "tags": [
+      "comfort-food",
+      "high-fiber",
+      "low-calorie",
+      "stir-fry",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-venezuelan-beans-stew",
     "title": "Yummy Venezuelan Beans Stew",
     "tags": [

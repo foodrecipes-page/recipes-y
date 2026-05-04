@@ -1,0 +1,117 @@
+{
+  "title": "Turkish Stir-Fry Vegetables Sutlu Boregi",
+  "description": "Resinous, snappy, and comforting Turkish dish ideal for a sick day featuring stir-fry vegetables, binchotan charcoal, and low-sodium options.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "binchotan charcoal-smoked"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Turkish red pepper flakes (optional)",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add olive oil to the skillet and swirl to coat the bottom.",
+    "Add the sliced zucchini, yellow onion, and red bell pepper to the skillet.",
+    "Cook, stirring occasionally, until the vegetables are tender and lightly charred.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Stir in the chopped parsley, lime juice, salt, and black pepper.",
+    "Cook for an additional 1-2 minutes to combine the flavors.",
+    "Taste and adjust the seasoning as needed.",
+    "If using, add the Turkish red pepper flakes and stir to combine.",
+    "Serve the Sutlu Boregi hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "low-calorie",
+    "stir-fry",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "yummy-turkish-stir-fry-vegetables-sutlu-boregi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-turkish-stir-fry-vegetables-sutlu-boregi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:16:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "stir-fry vegetables",
+    "descriptor": "yummy",
+    "dishForm": "Sutlu Boregi"
+  }
+}

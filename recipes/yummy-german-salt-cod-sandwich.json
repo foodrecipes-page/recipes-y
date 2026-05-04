@@ -1,0 +1,95 @@
+{
+  "title": "Yummy German Salt Cod Sandwich",
+  "description": "A charred, springy sandwich that celebrates German flavors, featuring tender salt cod, buttery double-rise bread, and a tangy dill mustard spread.",
+  "cuisine": "German",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "200g",
+      "notes": "rinse and blanch"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cucumber, sliced",
+      "amount": "1/2 small"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the salt cod under cold water and pat dry.",
+    "Place the cod in a saucepan, cover with water, and bring to a gentle simmer for 4 minutes to rehydrate and partially cook; then drain.",
+    "Using a fork, flake the cod into bite‑size pieces and transfer to a bowl.",
+    "In the same bowl, whisk together the mustard, dill, lemon juice, sea salt, and pepper until combined.",
+    "Toss the flaked cod with the mustard mixture until evenly coated.",
+    "Heat a skillet over medium‑high heat and melt 1 tablespoon of butter; add two slices of bread and toast each side until golden and slightly charred, about 2 minutes per side.",
+    "Spread a thin layer of the mustard‑cod mixture over one toasted slice, then top with cucumber slices.",
+    "Place the second toasted slice on top, cut the sandwich in half, and serve immediately.",
+    "Optionally garnish with a sprig of dill and a lemon wedge."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "high-protein",
+    "lunch",
+    "quick",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "yummy-german-salt-cod-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-german-salt-cod-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:10:57Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "salt cod",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Salt Cod",
+    "descriptor": "Yummy",
+    "dishForm": "Sandwich"
+  }
+}

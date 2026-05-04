@@ -2096,6 +2096,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-german-salt-cod-sandwich",
+    "title": "Yummy German Salt Cod Sandwich",
+    "tags": [
+      "german",
+      "high-protein",
+      "lunch",
+      "quick",
+      "sandwich"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 23,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-gooey-egyptian-date-tagine",
     "title": "Yummy Gooey Egyptian Date Tagine",
     "tags": [

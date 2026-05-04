@@ -1,0 +1,96 @@
+{
+  "title": "Yummy Smoky Irish Salmon Grill",
+  "description": "A smoky, crispy grilled salmon featuring a cacao-infused glaze, perfect for a sugar-free solo dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "200 g",
+      "notes": "sashimi cut"
+    },
+    {
+      "name": "Unsweetened cocoa powder",
+      "amount": "12 g",
+      "notes": "cacao"
+    },
+    {
+      "name": "Sugar-free maple syrup",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "sweetener"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "15 g"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp (2 g)",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "5 g",
+      "notes": "seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2 g",
+      "notes": "seasoning"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "14 g (1 tbsp)"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400°F (204°C) for medium-high heat.",
+    "Whisk cocoa powder, sugar-free maple syrup, miso paste, smoked paprika, sea salt, and black pepper in a small bowl to make the glaze.",
+    "Brush the salmon lightly with olive oil and coat it with the glaze, reserving a small amount for later.",
+    "Place the salmon skin-side down on the grill and sear for 3 minutes until a crust forms.",
+    "Flip the salmon, brush with remaining glaze, and grill for 4 more minutes until the internal temperature reaches 145°F (63°C).",
+    "Remove from the grill and let it rest for 2 minutes.",
+    "Slice the salmon into thin sashimi-style pieces and arrange on a plate.",
+    "Serve immediately, optionally garnishing with fresh herbs or lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "irish",
+    "sashimi-cut",
+    "smoky",
+    "solo-dinner",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yummy-smoky-irish-salmon-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-smoky-irish-salmon-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:19:09Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "cacao",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "salmon",
+    "descriptor": "Yummy Smoky",
+    "dishForm": "Grill"
+  }
+}

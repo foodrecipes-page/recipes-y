@@ -2275,6 +2275,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-smoky-irish-salmon-grill",
+    "title": "Yummy Smoky Irish Salmon Grill",
+    "tags": [
+      "crispy",
+      "irish",
+      "sashimi-cut",
+      "smoky",
+      "solo-dinner",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-smoky-russian-provola-stew",
     "title": "Yummy Smoky Russian Provola Stew",
     "tags": [

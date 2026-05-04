@@ -1,0 +1,121 @@
+{
+  "title": "Yummy Sweet Greek Beef Stew",
+  "description": "A sweet, tender Greek beef stew with caramelized honey, aromatic herbs, and blanched spinach, perfect for a midnight craving.",
+  "cuisine": "Greek",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef brisket",
+      "amount": "1500 g",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "200 ml",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "400 ml",
+      "notes": ""
+    },
+    {
+      "name": "Oregano dried",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Thyme dried",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Spinach",
+      "amount": "300 g",
+      "notes": "blanched"
+    }
+  ],
+  "instructions": [
+    "Heat the Tajine over medium flame and drizzle olive oil into it.",
+    "Add the beef cubes and sear until browned on all sides.",
+    "Pour in the red wine, letting it reduce slightly for 2 minutes.",
+    "Stir in honey and tomato paste, coating the meat evenly.",
+    "Add water, oregano, thyme, bay leaf, and salt, then bring to a gentle simmer.",
+    "Reduce heat to low, cover the Tajine, and let the stew cook for 60 minutes.",
+    "While the stew simmers, blanch the spinach in boiling water for 1 minute, then plunge into ice water and drain.",
+    "After 60 minutes, stir in the blanched spinach and lemon juice, and simmer uncovered for another 15 minutes.",
+    "Adjust seasoning with more salt or honey if needed, then remove from heat.",
+    "Serve hot, garnished with fresh oregano leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "greek",
+    "horiatiki",
+    "midnight-craving",
+    "satvik-friendly",
+    "sweet-dish",
+    "tajine"
+  ],
+  "nutrition": {
+    "calories": 4235,
+    "protein": 390,
+    "carbs": 49,
+    "fat": 168
+  },
+  "slug": "yummy-sweet-greek-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-sweet-greek-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:22:49Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "beef brisket",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Beef",
+    "descriptor": "Yummy Sweet",
+    "dishForm": "Stew"
+  }
+}

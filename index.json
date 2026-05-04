@@ -1016,6 +1016,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-sweet-greek-beef-stew",
+    "title": "Yummy Sweet Greek Beef Stew",
+    "tags": [
+      "beef",
+      "greek",
+      "horiatiki",
+      "midnight-craving",
+      "satvik-friendly",
+      "sweet-dish",
+      "tajine"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 105,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-syrian-kabanos-skewers",
     "title": "Yummy Syrian Kabanos Skewers",
     "tags": [

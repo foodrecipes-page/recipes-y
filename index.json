@@ -1073,6 +1073,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-crispy-chinese-cod-soup",
+    "title": "Yummy Crispy Chinese Cod Soup",
+    "tags": [
+      "comfort-food",
+      "easy",
+      "flexitarian",
+      "quick",
+      "soup",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-crispy-kenyan-cabbage-gratin",
     "title": "Yummy Crispy Kenyan Cabbage Gratin",
     "tags": [

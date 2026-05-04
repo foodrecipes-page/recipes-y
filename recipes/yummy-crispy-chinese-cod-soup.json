@@ -1,0 +1,110 @@
+{
+  "title": "Yummy Crispy Chinese Cod Soup",
+  "description": "A comforting, slightly spicy soup featuring tender cod fillets crisped in a soy‑garlic broth, finished with fresh cilantro and a splash of sesame oil.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "200g",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "5 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks sliced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh chili",
+      "amount": "1 sliced (optional)"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine vegetable stock, soy sauce, oyster sauce, shaoxing wine, garlic, ginger, and fresh chili; bring to a simmer over medium heat.",
+    "While the broth simmers, pat the cod fillets dry and coat them lightly with cornstarch.",
+    "When the broth is simmering, gently slide the coated cod fillets into the pot, covering them completely; cook for 3 to 4 minutes until the fillets turn opaque.",
+    "Reduce the heat to low, add shredded cabbage, and let the soup steam for an additional 2 minutes until the cabbage is tender but still crisp.",
+    "Remove the cod fillets with a slotted spoon and set them aside on a plate.",
+    "Strain the broth to remove solids, then return the clear liquid to the saucepan and bring back to a gentle simmer.",
+    "Season the broth with salt to taste and stir in the sesame oil.",
+    "Return the cod fillets to the pot and warm them through for 1 minute; the fillets should remain crispy on the surface.",
+    "Ladle the soup into bowls, garnish each with sliced scallions and a sprinkle of fresh cilantro if you like.",
+    "Serve hot, accompanied by steamed jasmine rice if you like."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy",
+    "flexitarian",
+    "quick",
+    "soup",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 11,
+    "carbs": 3,
+    "fat": 2
+  },
+  "slug": "yummy-crispy-chinese-cod-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crispy-chinese-cod-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:51:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "cod",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cod",
+    "descriptor": "Yummy Crispy",
+    "dishForm": "Soup"
+  }
+}

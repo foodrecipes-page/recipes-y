@@ -1,0 +1,117 @@
+{
+  "title": "Yummy Charred Punjabi Redcurrants Curry",
+  "description": "A comforting one-pot curry that blends charred spices with sweet redcurrants and soft paneer, finished with a poached egg for an ovo-vegetarian twist.",
+  "cuisine": "Punjabi",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Redcurrants",
+      "amount": "200g"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "2 tbsp",
+      "notes": "charred"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tsp",
+      "notes": "charred"
+    },
+    {
+      "name": "Fermented mustard seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Paneer",
+      "amount": "150g",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Heat a hot pot over medium heat and add the oil until shimmering.",
+    "Add cumin and coriander seeds and toast until fragrant, about 1 minute.",
+    "Add the onion, garlic, and ginger and cook until the onion turns translucent.",
+    "Stir in the fermented mustard seeds and garam masala and cook for another 30 seconds.",
+    "Pour in the vegetable broth and bring to a gentle boil.",
+    "Add the redcurrants and reduce the heat to low, simmering for 10 minutes until the currants soften.",
+    "Add the paneer cubes and cook for 5 more minutes until heated through.",
+    "Season with salt to taste and stir gently.",
+    "Turn off the heat and let the curry sit for 2 minutes to meld the flavors.",
+    "Garnish with chopped cilantro and a drizzle of fresh lime if desired.",
+    "Serve hot into bowls, optionally topping each serving with a poached egg.",
+    "Enjoy the charred aroma and comforting taste of this Punjabi redcurrants curry."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "comfort-food",
+    "one-pot",
+    "ovo-vegetarian",
+    "pan-indian",
+    "redcurrants",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 30
+  },
+  "slug": "yummy-charred-punjabi-redcurrants-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-charred-punjabi-redcurrants-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:53:20Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "ferment-jang",
+    "primaryIngredient": "redcurrants",
+    "diet": "ovo-vegetarian",
+    "region": "punjabi",
+    "cuisineAdjective": "Punjabi",
+    "mainIngredient": "redcurrants",
+    "descriptor": "Yummy Charred",
+    "dishForm": "Curry"
+  }
+}

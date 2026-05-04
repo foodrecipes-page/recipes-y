@@ -1,0 +1,97 @@
+{
+  "title": "Yummy Smoky Indian Pepper Curry",
+  "description": "A fragrant, smoky pepper curry that soothes hangovers with its warming spices and hearty chickpeas.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chickpeas, drained and rinsed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium heat and toast the cumin seeds until fragrant, about 30 seconds.",
+    "Add the black peppercorns, smoked paprika, coriander powder, and turmeric, stirring constantly for 1 minute to bloom the spices.",
+    "Pour in the diced tomatoes and cook until they break down and form a thick sauce, about 5 minutes.",
+    "Stir in the chickpeas and water, bring the mixture to a gentle simmer, and let it cook for 10 minutes to meld the flavors.",
+    "While the curry simmers, whisk the coconut milk in a bowl until it is smooth and slightly frothy.",
+    "Pour the whisked coconut milk into the pan, stir, and simmer for another 5 minutes until the curry thickens.",
+    "Remove from heat, stir in chopped cilantro, and let it rest for 5 minutes to develop a mellow aroma.",
+    "Serve the smoky pepper curry hot over steamed rice or with warm naan, and enjoy its restorative, hangover-cure properties."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "hangover-cure",
+    "quick",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 16,
+    "carbs": 52,
+    "fat": 42
+  },
+  "slug": "yummy-smoky-indian-pepper-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-smoky-indian-pepper-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:26:07Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "pepper",
+    "diet": "buddhist-temple",
+    "region": "north",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Yummy Smoky",
+    "dishForm": "Curry"
+  }
+}

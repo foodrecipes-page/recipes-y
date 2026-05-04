@@ -1,0 +1,108 @@
+{
+  "title": "Yummy German Cabbage Salad",
+  "description": "A fresh, bouncy German salad featuring napa cabbage, nuts, and a tangy mustard dressing that is macrobiotic-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, julienned"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small, thinly sliced"
+    },
+    {
+      "name": "apple",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "parsley",
+      "amount": "0.25 cup, chopped"
+    },
+    {
+      "name": "dill",
+      "amount": "0.25 cup, chopped"
+    },
+    {
+      "name": "walnuts",
+      "amount": "0.5 cup, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the napa cabbage and shred it into thin ribbons.",
+    "Peel and julienne the carrots, thinly slice the red onion, dice the apple, and combine all in a large bowl.",
+    "Finely chop the parsley, dill, and walnuts, then add them to the bowl.",
+    "Whisk together olive oil, apple cider vinegar, dijon mustard, honey, salt, and pepper in a small jug.",
+    "Pour the dressing over the salad and toss until everything is evenly coated.",
+    "Let the salad sit for 10 minutes to allow flavors to meld.",
+    "Serve chilled or at room temperature as a refreshing side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "german",
+    "macrobiotic-friendly",
+    "quick",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 5,
+    "carbs": 19,
+    "fat": 17
+  },
+  "slug": "yummy-german-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-german-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:20:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "score-fat",
+    "primaryIngredient": "napa cabbage",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cabbage",
+    "descriptor": "Yummy",
+    "dishForm": "Salad"
+  }
+}

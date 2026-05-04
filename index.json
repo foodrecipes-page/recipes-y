@@ -967,6 +967,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-german-cabbage-salad",
+    "title": "Yummy German Cabbage Salad",
+    "tags": [
+      "fresh",
+      "german",
+      "macrobiotic-friendly",
+      "quick",
+      "salad"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 10,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-gooey-egyptian-date-tagine",
     "title": "Yummy Gooey Egyptian Date Tagine",
     "tags": [

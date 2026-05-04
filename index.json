@@ -223,6 +223,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-pillowy-mediterranean-doubanjiang-pilaf",
+    "title": "Yellow Pillowy Mediterranean Doubanjiang Pilaf",
+    "tags": [
+      "flavorful",
+      "healthy",
+      "meal-prep",
+      "mediterranean",
+      "one-pot",
+      "vegan"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-poached-eggs-with-flaxseed-crackers",
     "title": "Yellow Poached Eggs with Flaxseed Crackers",
     "tags": [
@@ -666,6 +681,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-show-off-algerian-feather-blade-beef-tagine",
+    "title": "Yummy Show-Off Algerian Feather Blade Beef Tagine",
+    "tags": [
+      "algerian",
+      "beef",
+      "low-sodium",
+      "one-pan",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 95,
     "shard": "y"
   },
   {

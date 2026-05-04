@@ -1,0 +1,115 @@
+{
+  "title": "Yummy Show-Off Algerian Feather Blade Beef Tagine",
+  "description": "A rich, nutty, and aerated Algerian dish featuring tender feather blade beef, made with salt-bake technique for low-sodium-friendly.",
+  "cuisine": "algerian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 kg feather blade beef",
+      "amount": "1",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1",
+      "notes": "for cooking"
+    },
+    {
+      "name": "1 teaspoon cumin seeds",
+      "amount": "1",
+      "notes": "roasted"
+    },
+    {
+      "name": "1 teaspoon coriander seeds",
+      "amount": "1",
+      "notes": "roasted"
+    },
+    {
+      "name": "2 dried red chilies",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "1 can diced tomatoes",
+      "amount": "1",
+      "notes": "14 oz"
+    },
+    {
+      "name": "2 cups beef broth",
+      "amount": "2",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "amount": "2",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Salt-bake the beef pieces for 20 minutes, or until lightly browned.",
+    "In a large pan, heat oil over medium-high heat. Add onions and cook until lightly browned.",
+    "Add garlic, cumin seeds, coriander seeds, and chilies. Cook for 1 minute.",
+    "Add beef broth and diced tomatoes. Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Add the salt-baked beef to the pan and cook for 5 minutes.",
+    "Stir in honey, if using.",
+    "Transfer the pan to the preheated oven and bake for 30 minutes, or until the meat is tender.",
+    "Garnish with parsley and serve hot.",
+    "Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "beef",
+    "low-sodium",
+    "one-pan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yummy-show-off-algerian-feather-blade-beef-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-show-off-algerian-feather-blade-beef-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:51:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "salt-bake",
+    "primaryIngredient": "feather blade beef",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Feather Blade Beef",
+    "descriptor": "Yummy Show-Off",
+    "dishForm": "Tagine"
+  }
+}

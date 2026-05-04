@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Pillowy Mediterranean Doubanjiang Pilaf",
+  "description": "A flavorful and healthy Mediterranean dish featuring doubanjiang, confit-tomato, and pillowy texture, perfect for meal prep. This vegan-friendly recipe is easy to make and packed with nutrients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "doubanjiang",
+      "amount": "2 tablespoons",
+      "notes": "chili bean paste"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the doubanjiang and cook, stirring constantly, for 1 minute.",
+    "Add the confit tomato, basmati rice, lemon juice, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and stir in the chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flavorful",
+    "healthy",
+    "meal-prep",
+    "mediterranean",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-pillowy-mediterranean-doubanjiang-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-pillowy-mediterranean-doubanjiang-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:51:00Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "confit-tomato",
+    "primaryIngredient": "doubanjiang",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "doubanjiang",
+    "descriptor": "Yellow pillowy",
+    "dishForm": "Pilaf"
+  }
+}

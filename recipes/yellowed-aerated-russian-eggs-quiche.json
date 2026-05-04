@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Aerated Russian Eggs Quiche",
+  "description": "A jammy, aerated, cozy Russian dish featuring egg wash, en-croute, high-protein-friendly ingredients, this quiche is perfect for a satisfying meal. It combines the richness of eggs, the flakiness of crust, and the comfort of a warm, inviting dish.",
+  "cuisine": "Russian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg wash",
+      "amount": "1 large egg",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the dough on a floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Trim the edges and press the dough into the corners of the pan.",
+    "Prick the bottom of the crust with a fork to prevent it from bubbling.",
+    "Line the crust with parchment paper and fill with pie weights.",
+    "Bake the crust for 15 minutes, then remove the parchment paper and pie weights.",
+    "Whisk together the eggs, heavy cream, smoked salmon, dried dill, salt, and black pepper.",
+    "Pour the egg mixture into the baked crust.",
+    "Brush the edges of the crust with the beaten egg wash.",
+    "Bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellowed-aerated-russian-eggs-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-aerated-russian-eggs-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:04:05Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "en-croute",
+    "primaryIngredient": "egg wash",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "eggs",
+    "descriptor": "Yellowed Aerated",
+    "dishForm": "Quiche"
+  }
+}

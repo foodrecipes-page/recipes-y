@@ -1,0 +1,109 @@
+{
+  "title": "Norwegian Split Peas Stew",
+  "description": "A hearty and comforting Norwegian stew made with split peas and rest meat, perfect for a cold winter night, this dish is earthy and velvety with a romantic touch.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "rest meat",
+      "amount": "500g",
+      "notes": "pork or beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Rinse the split peas and pick out any debris or stones.",
+    "In a large pot, saute the chopped onion, carrot, and celery in a little bit of oil until they are tender.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the rest meat and cook until it is browned on all sides.",
+    "Add the split peas, chicken broth, salt, black pepper, and thyme to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 45 minutes.",
+    "Use an immersion blender to puree the stew until it is smooth and velvety.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "delicious",
+    "easy-to-make",
+    "hearty-stew",
+    "one-pot",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellowish-earthy-norwegian-split-peas-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-earthy-norwegian-split-peas-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:16:27Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "rest-meat",
+    "primaryIngredient": "split peas",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "split peas",
+    "descriptor": "Yellowish earthy",
+    "dishForm": "Stew"
+  }
+}

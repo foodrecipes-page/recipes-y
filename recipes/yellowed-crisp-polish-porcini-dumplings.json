@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Crisp Polish Porcini Dumplings",
+  "description": "A cozy Polish dish featuring fermented porcini mushrooms, with a crisp exterior and a sweet surprise from candy, all made paleo-friendly. This dish is perfect for a cold winter evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup",
+      "notes": "dried and fermented"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "paleo-friendly"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the almond flour, coconut sugar, and salt.",
+    "In a separate bowl, whisk together the eggs and coconut oil.",
+    "Add the fermented porcini mushrooms to the egg mixture and stir until well combined.",
+    "Gradually add the dry ingredients to the egg mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and place a small piece of candy in the center of each disk.",
+    "Fold the dough over the candy and press the edges together to seal the dumpling.",
+    "Heat a large skillet over medium heat and add a small amount of coconut oil.",
+    "Cook the dumplings for 3-4 minutes on each side, until they are golden brown and crispy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "comfort-food",
+    "fermented-foods",
+    "mushroom-based",
+    "paleo-friendly",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "yellowed-crisp-polish-porcini-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-polish-porcini-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:40:08Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "candy",
+    "primaryIngredient": "porcini",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "porcini",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Dumplings"
+  }
+}

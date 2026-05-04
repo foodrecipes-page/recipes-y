@@ -1133,6 +1133,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-kenyan-tofu-stir-fry",
+    "title": "Yummy Kenyan Tofu Stir-Fry",
+    "tags": [
+      "kenyan",
+      "one-pan",
+      "plant-based",
+      "quick",
+      "stir-fry",
+      "vegan"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-light-british-chicken-casserole",
     "title": "Light British Chicken Casserole",
     "tags": [

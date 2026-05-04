@@ -1,0 +1,102 @@
+{
+  "title": "Yummy Spicy Japanese Pork Fritters",
+  "description": "Crispy, spicy pork fritters with a tangy kick, perfect as a hangover cure snack.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "250 g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "potato starch",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine ground pork, soy sauce, mirin, sesame oil, chili flakes, grated ginger, miso paste, salt, pepper, egg, and potato starch; mix until fully blended.",
+    "Let the mixture rest for 10 minutes at room temperature.",
+    "Heat a non-stick skillet or shallow pan over medium-high heat and add about 2 tbsp of high-heat oil such as peanut or canola.",
+    "Spoon 1-2 tablespoon portions of the pork mixture onto the hot oil, flattening slightly to form fritters.",
+    "Fry each side for 3-4 minutes until golden brown and crisp, turning once.",
+    "Transfer cooked fritters onto paper towels to drain excess oil.",
+    "While frying, drizzle a splash of rice vinegar over the pan to deglaze, scraping up any browned bits.",
+    "Serve the fritters hot with a side of pickled ginger and a drizzle of soy sauce or spicy mayo.",
+    "Optionally, garnish with chopped scallions or sesame seeds for extra flavor.",
+    "Enjoy immediately as a savory snack or lunch item."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chubu-inspired",
+    "crispy",
+    "hangover-cure",
+    "high-heat",
+    "snack",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 283,
+    "protein": 18,
+    "carbs": 3,
+    "fat": 19
+  },
+  "slug": "yummy-spicy-japanese-pork-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-spicy-japanese-pork-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:00:46Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "no-onion-no-garlic",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Pork",
+    "descriptor": "Yummy Spicy",
+    "dishForm": "Fritters"
+  }
+}

@@ -909,6 +909,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-spicy-japanese-pork-fritters",
+    "title": "Yummy Spicy Japanese Pork Fritters",
+    "tags": [
+      "chubu-inspired",
+      "crispy",
+      "hangover-cure",
+      "high-heat",
+      "snack",
+      "spicy"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-syrian-kabanos-skewers",
     "title": "Yummy Syrian Kabanos Skewers",
     "tags": [

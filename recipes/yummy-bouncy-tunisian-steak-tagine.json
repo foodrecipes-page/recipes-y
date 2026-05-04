@@ -1,0 +1,103 @@
+{
+  "title": "Yummy Bouncy Tunisian Steak Tagine",
+  "description": "A savory, kid-friendly Tunisian tagine with lean minced beef, slow-simmered to a bouncy-qq texture, perfect for a diabetic-friendly dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "diabetic-friendly",
+    "lean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced beef",
+      "amount": "500g"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy pot over medium heat.",
+    "Add diced onion and cook until softened, about 3 minutes.",
+    "Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "Add minced beef, breaking it apart, and cook until browned, about 8 minutes.",
+    "Stir in tomato paste, cumin, coriander, salt, and pepper, cooking for 1 minute to toast the spices.",
+    "Pour in water and lemon juice, bring to a gentle simmer.",
+    "Cover the pot and let the mixture simmer until the beef is tender and the sauce thickens, about 30 minutes.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot over steamed couscous or whole-wheat pasta, sprinkled with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "low-carb",
+    "one-pot",
+    "tagine",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yummy-bouncy-tunisian-steak-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-bouncy-tunisian-steak-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:17:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "lean minced steak",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "steak",
+    "descriptor": "Yummy Bouncy",
+    "dishForm": "Tagine"
+  }
+}

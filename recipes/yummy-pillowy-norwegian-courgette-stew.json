@@ -1,0 +1,105 @@
+{
+  "title": "Yummy Pillowy Norwegian Courgette Stew",
+  "description": "A jammy, pillowy stew that showcases Norwegian flavors with al-dente courgettes and a fragrant, stone-bowl finish.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "400g"
+    },
+    {
+      "name": "onion",
+      "amount": "150g"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "200g"
+    },
+    {
+      "name": "potato",
+      "amount": "150g"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "960ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "30g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "dill",
+      "amount": "3g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "egg white",
+      "amount": "1 large egg white"
+    }
+  ],
+  "instructions": [
+    "Wash and slice 400g courgettes into 1 cm cubes.",
+    "Peel and dice 150g onion into small cubes.",
+    "Mince 3 cloves garlic.",
+    "Peel and dice 200g carrots and 150g potato into similar sized cubes.",
+    "Heat 30ml olive oil in the dolsot over medium heat.",
+    "Add onions and garlic; sauté until onions turn translucent.",
+    "Add carrots, potato and courgettes; cook for 5 minutes.",
+    "Stir in 30g tomato paste, 15ml lemon juice, 3g dill and 960ml vegetable stock; bring to a simmer.",
+    "Reduce heat, cover and simmer for 20 minutes until vegetables are al dente.",
+    "Whisk 1 egg white until frothy, fold gently into the stew and let sit for 5 minutes to create a pillowy texture.",
+    "Season with salt and pepper to taste, then ladle into the preheated dolsot for serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "european",
+    "one-pot",
+    "show-off",
+    "stone-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 20,
+    "carbs": 91,
+    "fat": 27
+  },
+  "slug": "yummy-pillowy-norwegian-courgette-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-pillowy-norwegian-courgette-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:15:41Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "courgettes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "courgettes",
+    "descriptor": "Yummy Pillowy",
+    "dishForm": "Stew"
+  }
+}

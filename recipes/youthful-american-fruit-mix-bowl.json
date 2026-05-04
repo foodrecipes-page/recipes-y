@@ -1,0 +1,91 @@
+{
+  "title": "Youthful American Fruit Mix Bowl",
+  "description": "A fresh and healthy post-workout dish featuring a mix of American fruits, mantecare-emulsify, and macrobiotic-friendly ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "2 medium",
+      "notes": "any variety"
+    },
+    {
+      "name": "bananas",
+      "amount": "3 medium"
+    },
+    {
+      "name": "oranges",
+      "amount": "2 medium"
+    },
+    {
+      "name": "grapes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and chop the apples and bananas into bite-sized pieces.",
+    "Peel and segment the oranges.",
+    "Rinse the grapes and remove any stems or leaves.",
+    "In a small bowl, mix together the almond butter, honey, and lemon juice until smooth.",
+    "Combine the chopped fruit in a large bowl and drizzle with the almond butter mixture.",
+    "Sprinkle the chia seeds over the top of the fruit mix.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-cuisine",
+    "fresh-fruit",
+    "healthy-snack",
+    "macrobiotic",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "youthful-american-fruit-mix-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-american-fruit-mix-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:23:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "fruit mix",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "fruit mix",
+    "descriptor": "youthful refreshing",
+    "dishForm": "Bowl"
+  }
+}

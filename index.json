@@ -728,6 +728,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-arabic-lamb-dumplings",
+    "title": "Yummy Arabic Lamb Dumplings",
+    "tags": [
+      "arabic",
+      "dumplings",
+      "puff-pastry",
+      "romantic",
+      "savory"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-australian-bacon-hash",
     "title": "Yummy Australian Bacon Hash",
     "tags": [
@@ -907,6 +921,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-kenyan-rye-bread-toast",
+    "title": "Yummy Kenyan Rye Bread Toast",
+    "tags": [
+      "anti-inflammatory",
+      "binchotan-grill",
+      "hangover-cure",
+      "quick-breakfast",
+      "rye-bread"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {

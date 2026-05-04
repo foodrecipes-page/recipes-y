@@ -1,0 +1,108 @@
+{
+  "title": "Yummy Arabic Lamb Dumplings",
+  "description": "Savory, springy lamb dumplings wrapped in puff pastry, a romantic and aromatic Saudi Arabian dish.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "500g",
+      "notes": "trim excess fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "puff pastry sheets",
+      "amount": "200g",
+      "notes": "cut into 6 cm squares"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten for glaze"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and line a baking sheet with parchment paper.",
+    "In a large bowl mix the lamb, onion, garlic, cumin, coriander, cinnamon, mint, salt, and pepper until well combined.",
+    "Cut each puff pastry square into 4 equal triangles and place a teaspoon of filling in the center of each triangle.",
+    "Fold the corners over the filling and press edges to seal, then use a fork to crimp the top.",
+    "Arrange the dumplings seam-side down on the prepared sheet and brush each with beaten egg.",
+    "Bake for 15 minutes until puff pastry is golden and lamb is cooked through.",
+    "Allow to cool for 5 minutes before serving.",
+    "Serve hot with a squeeze of lemon and a side of fresh salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "arabic",
+    "dumplings",
+    "puff-pastry",
+    "romantic",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "yummy-arabic-lamb-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-arabic-lamb-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:00:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "puff pastry",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Arabic",
+    "mainIngredient": "Lamb",
+    "descriptor": "Yummy",
+    "dishForm": "Dumplings"
+  }
+}

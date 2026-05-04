@@ -1,0 +1,110 @@
+{
+  "title": "Yummy Kenyan Rye Bread Toast",
+  "description": "A rich, gooey toast that blends rye bread with fresh avocado, cherry tomatoes, and spinach, served on a binchotan grill for a smoky finish that helps cure hangovers and soothe inflammation.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "anti-inflammatory"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rye bread slices",
+      "amount": "2",
+      "notes": "whole grain, sliced thick"
+    },
+    {
+      "name": "ripe avocado",
+      "amount": "1",
+      "notes": "medium, mashed lightly"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "5",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "1 cup",
+      "notes": "loosely packed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste",
+      "notes": "fine"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "microgreens",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill until it emits a light smoke.",
+    "Brush both sides of the rye bread slices with olive oil and season with sea salt and black pepper.",
+    "Place the bread on the grill and cook until the first side turns golden brown, about 2 minutes.",
+    "Flip the bread and cook the other side for an additional 1 minute, allowing the oil to seep into the crust.",
+    "Remove the bread from the grill and place it on a cutting board.",
+    "Spread the mashed avocado evenly over the warm slices.",
+    "Top the avocado with halved cherry tomatoes and fresh spinach.",
+    "Drizzle lemon juice over the vegetables and sprinkle with cayenne pepper if using.",
+    "Garnish with microgreens for a fresh finish.",
+    "Serve immediately while the bread is still warm and slightly crisp."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "binchotan-grill",
+    "hangover-cure",
+    "quick-breakfast",
+    "rye-bread"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 8,
+    "carbs": 38,
+    "fat": 12
+  },
+  "slug": "yummy-kenyan-rye-bread-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-kenyan-rye-bread-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:00:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "rye bread",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rye bread",
+    "descriptor": "Yummy",
+    "dishForm": "Toast"
+  }
+}

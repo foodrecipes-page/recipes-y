@@ -1,0 +1,94 @@
+{
+  "title": "yummy turkish walnuts toast",
+  "description": "a fermented, crunchy turkish dish featuring cinnamon stick, perfect for any time of day, especially as a snack or as a side dish",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "chia seeds",
+      "amount": "30g",
+      "notes": "soaked overnight in water (250ml) and drained before use"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes (2.5cm)"
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": "for soaking bread"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 200\u00109c (400\u00179f) for toasting bread.",
+    "soak chia seeds in 250ml water overnight and drain before use.",
+    "cut crusty bread into 1-inch cubes (2.5cm).",
+    "toast bread cubes in the oven for 5-7 minutes or until lightly browned.",
+    "mix walnuts, chia seeds, and cinnamon sticks in a large bowl.",
+    "squeeze in lemon juice and mix well.",
+    "add honey and mix until well combined.",
+    "place toasted bread cubes in a serving dish and spoon walnut mixture over the top.",
+    "drizzle with remaining lemon juice if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "gluten-free",
+    "snack",
+    "turkish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "yummy-turkish-walnuts-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-turkish-walnuts-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "walnuts",
+    "descriptor": "yummy",
+    "dishForm": "Toast"
+  }
+}

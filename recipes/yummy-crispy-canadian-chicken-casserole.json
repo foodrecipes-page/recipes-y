@@ -1,0 +1,105 @@
+{
+  "title": "Yummy Crispy Canadian Chicken Casserole",
+  "description": "A comforting Canadian chicken casserole with a crisp gelatin glaze, spherified chicken bites, and a fondue-pot twist, perfect for a quick, paleo-friendly dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "800g",
+      "notes": "cubed"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "200g",
+      "notes": "florets"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unflavored gelatin powder",
+      "amount": "50g"
+    },
+    {
+      "name": "cold water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "calcium chloride solution",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Toss the chicken cubes, cauliflower florets, salt, black pepper, smoked paprika, maple syrup, and coconut oil in a bowl until evenly coated.",
+    "Spread the mixture on a parchment-lined baking sheet and bake for 20 minutes until golden and cooked through.",
+    "In a separate bowl, dissolve the gelatin powder in 2 cups of cold water and let it sit for 5 minutes to set.",
+    "Prepare a 200 ml calcium chloride solution and, using a syringe, drop small amounts of the chicken into the solution to form spheres; let them set for 2 minutes before rinsing in cold water.",
+    "Transfer the baked chicken mixture into a fondue pot and pour the cooled gelatin over the top, forming a crispy glaze as it sets.",
+    "Let the casserole rest for 5 minutes to allow the gelatin to firm into a crisp crust.",
+    "Garnish with chopped fresh parsley before serving hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "fondue-pot",
+    "one-pot",
+    "paleo",
+    "quick",
+    "spherified"
+  ],
+  "nutrition": {
+    "calories": 1600,
+    "protein": 208,
+    "carbs": 14,
+    "fat": 28
+  },
+  "slug": "yummy-crispy-canadian-chicken-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crispy-canadian-chicken-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:54:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "spherify",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Yummy Crispy",
+    "dishForm": "Casserole"
+  }
+}

@@ -1089,6 +1089,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-crispy-canadian-chicken-casserole",
+    "title": "Yummy Crispy Canadian Chicken Casserole",
+    "tags": [
+      "crispy",
+      "fondue-pot",
+      "one-pot",
+      "paleo",
+      "quick",
+      "spherified"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-crispy-chinese-cod-soup",
     "title": "Yummy Crispy Chinese Cod Soup",
     "tags": [

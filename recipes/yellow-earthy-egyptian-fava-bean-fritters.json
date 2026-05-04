@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Earthy Egyptian Fava Bean Fritters",
+  "description": "A traditional Egyptian dish featuring coriander leaves and fava beans, perfect for a brunch mood, with a diabetic-friendly twist",
+  "cuisine": "Egyptian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fava beans",
+      "amount": "1 cup",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mash the fava beans using a fork or a potato masher",
+    "Add the chopped coriander leaves, onion, garlic, salt, and black pepper to the bowl and mix well",
+    "In a separate bowl, whisk together the olive oil and whole wheat flour",
+    "Add the beaten eggs to the flour mixture and stir until a smooth batter forms",
+    "Add the fava bean mixture to the batter and mix until just combined",
+    "Heat about 2-3 inches of olive oil in a deep frying pan over medium heat",
+    "Using a spoon, drop small balls of the mixture into the hot oil and fry until golden brown",
+    "Drain the fritters on paper towels and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "deep-fried",
+    "diabetic-friendly",
+    "egyptian-cuisine",
+    "fava-beans",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "yellow-earthy-egyptian-fava-bean-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-earthy-egyptian-fava-bean-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:55:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "coriander leaves",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fava beans",
+    "descriptor": "Yellow Earthy",
+    "dishForm": "Fritters"
+  }
+}

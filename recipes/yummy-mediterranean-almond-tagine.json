@@ -1,0 +1,106 @@
+{
+  "title": "Yummy Mediterranean Almond Tagine",
+  "description": "A nutty, tender, kid-friendly Mediterranean dish featuring udon noodles in a fragrant tagine sauce.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Almonds",
+      "amount": "50g"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "240g"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "70g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy pot over medium heat.",
+    "Add diced onion and minced garlic; sauté until onion soft and translucent.",
+    "Stir in sliced tomatoes and chopped almonds; cook for 3 minutes.",
+    "Pour in vegetable broth, add chickpeas, oregano, paprika, salt, and lemon juice; bring to a gentle simmer.",
+    "Cover and let the mixture simmer for 15 minutes, stirring occasionally to prevent sticking.",
+    "While sauce simmers, boil udon noodles in salted water for 4 minutes, then drain and set aside.",
+    "Remove the tagine from heat and fold in the cooked udon noodles, ensuring noodles are coated with the sauce.",
+    "Serve hot, garnished with a sprinkle of toasted almonds and a squeeze of fresh lemon if desired."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 25,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "mediterranean",
+    "nutty",
+    "one-pot",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yummy-mediterranean-almond-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-mediterranean-almond-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:14:27Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "tagine-cook",
+    "primaryIngredient": "udon noodles",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "almonds",
+    "descriptor": "Yummy",
+    "dishForm": "Tagine"
+  }
+}

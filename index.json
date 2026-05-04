@@ -2490,6 +2490,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-mediterranean-almond-tagine",
+    "title": "Yummy Mediterranean Almond Tagine",
+    "tags": [
+      "kid-friendly",
+      "mediterranean",
+      "nutty",
+      "one-pot",
+      "tagine",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 37,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-mediterranean-grape-leaves-wrap",
     "title": "Yummy Mediterranean Grape Leaves Wrap",
     "tags": [

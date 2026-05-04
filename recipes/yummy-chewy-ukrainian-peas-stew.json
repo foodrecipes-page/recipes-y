@@ -1,0 +1,105 @@
+{
+  "title": "Yummy Chewy Ukrainian Peas Stew",
+  "description": "A resinous, chewy Ukrainian stew with yellow split peas, smoked pork, and aromatic vegetables.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow split peas",
+      "amount": "2 cups",
+      "notes": "dry"
+    },
+    {
+      "name": "Water",
+      "amount": "8 cups"
+    },
+    {
+      "name": "Smoked pork belly",
+      "amount": "200g"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the yellow split peas under cold water until running clear, then place them in a pot with 8 cups of water and bring to a boil; let them simmer for 5 minutes to blanch, then drain and set aside.",
+    "In the same pot, add the cubed smoked pork belly and sauté for 3 minutes until lightly browned.",
+    "Add the chopped carrot, diced onion, and minced garlic to the pot and cook for 5 minutes until the vegetables soften.",
+    "Stir in the blanched peas, 8 cups of water, bay leaf, salt, and black pepper, and bring the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 60 minutes, stirring occasionally, until the peas are tender and the stew thickens.",
+    "Remove the bay leaf, and mash a portion of the peas against the side of the pot with a spoon to create a creamy, resinous texture.",
+    "Taste and adjust seasoning with extra salt or pepper if needed, then stir in chopped dill for freshness.",
+    "Ladle the hot-pea stew into bowls and serve immediately, letting the steam create a chewy, indulgent experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 90,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "comfort-food",
+    "hearty",
+    "hot-pot",
+    "one-pot",
+    "paleo-friendly",
+    "stew",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 7
+  },
+  "slug": "yummy-chewy-ukrainian-peas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-chewy-ukrainian-peas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:42:20Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "yellow split peas",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "peas",
+    "descriptor": "Yummy Chewy",
+    "dishForm": "Stew"
+  }
+}

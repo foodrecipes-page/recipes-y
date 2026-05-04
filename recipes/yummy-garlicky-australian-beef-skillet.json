@@ -1,0 +1,93 @@
+{
+  "title": "Yummy Garlicky Australian Beef Skillet",
+  "description": "A kid-friendly Australian dish featuring tender beef, onion, and garlic, cooked to perfection in a cast-iron skillet.",
+  "cuisine": "Australian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the beef strips and cook until they are browned, about 3-4 minutes.",
+    "Add the beef broth, tomato paste, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the sauce has thickened and the beef is cooked through.",
+    "Reduce the heat to low and let the skillet simmer for 10 minutes, stirring occasionally.",
+    "Serve the beef and sauce hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "garlic",
+    "high-protein",
+    "kid-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "yummy-garlicky-australian-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-garlicky-australian-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:57:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "emulsify",
+    "primaryIngredient": "onion",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "yummy garlicky",
+    "dishForm": "Skillet"
+  }
+}

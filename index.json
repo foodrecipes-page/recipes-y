@@ -1770,6 +1770,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-garlicky-australian-beef-skillet",
+    "title": "Yummy Garlicky Australian Beef Skillet",
+    "tags": [
+      "australian",
+      "beef",
+      "garlic",
+      "high-protein",
+      "kid-friendly",
+      "one-pan"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-garlicky-ethiopian-pistachio-stew",
     "title": "Yummy Garlicky Ethiopian Pistachio Stew",
     "tags": [

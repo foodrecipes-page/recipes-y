@@ -535,6 +535,20 @@
     "shard": "y"
   },
   {
+    "slug": "youthful-yellow-thai-chicken-curry",
+    "title": "Youthful Yellow Thai Chicken Curry",
+    "tags": [
+      "chicken-dish",
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "thai-curry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yuko-muffin",
     "title": "Vegan Yukon Muffin",
     "tags": [

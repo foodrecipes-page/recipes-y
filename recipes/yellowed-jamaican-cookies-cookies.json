@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Jamaican Cookies",
+  "description": "A sweet and crumbly cookie dish with a grassy and springy twist, perfect for a romantic evening, featuring namul-blanch-season and raw-friendly ingredients.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "organic"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "namul",
+      "amount": "1/4 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, coconut sugar, and desiccated coconut.",
+    "In a separate bowl, mix the melted butter, namul, vanilla extract, and salt.",
+    "Combine the wet and dry ingredients and stir until a dough forms.",
+    "Add the yellow food coloring and mix until the dough is evenly colored.",
+    "Scoop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.",
+    "Bake for 12 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer the cookies to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican-cookies",
+    "raw-friendly",
+    "romantic-dishes",
+    "spring-inspired",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "yellowed-jamaican-cookies-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-jamaican-cookies-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:13:08Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "cookies",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cookies",
+    "descriptor": "Yellowed",
+    "dishForm": "Cookies"
+  }
+}

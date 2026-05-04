@@ -1,0 +1,113 @@
+{
+  "title": "Yellow Zesty Italian Carrot Tagliatelle",
+  "description": "A vibrant, citrusy, and slightly sweet pasta dish loaded with fresh carrots, crunchy oregano, and a hint of zesty lemon",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "tagliatelle pasta",
+      "amount": "12 oz",
+      "notes": "fresh or high-quality dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "zest of lemon",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated, dairy or vegan alternative"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "kosher or sea"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a large pot of boiling salted water, cook the tagliatelle pasta according to the package instructions until al dente",
+    "While the pasta is cooking, heat the olive oil in a large skillet over medium heat",
+    "Add the minced garlic to the skillet and cook for 1-2 minutes until fragrant, stirring occasionally",
+    "Add the sliced carrots to the skillet and cook for 5-7 minutes until they start to soften and lightly caramelize",
+    "Add the chopped oregano, grated lemon zest, and lemon juice to the skillet and stir to combine",
+    "Stir in the grated parmesan cheese until melted and smooth",
+    "Drain the cooked tagliatelle pasta and add it to the skillet with the carrot mixture",
+    "Toss the pasta and carrot mixture together over low heat for 1-2 minutes until well combined and slightly coated in the sauce",
+    "Season the dish with salt and black pepper to taste",
+    "Serve the tagliatelle hot, garnished with additional chopped oregano and lemon zest if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "carrots",
+    "italian",
+    "lemon",
+    "oregano",
+    "parmesan",
+    "pasta",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "yellow-zesty-italian-carrot-yellow-oregano-tagliatelle",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-zesty-italian-carrot-yellow-oregano-tagliatelle",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:03:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "emulsify",
+    "primaryIngredient": "oregano",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "carrot",
+    "descriptor": "Yellow Zesty",
+    "dishForm": "Yellow Oregano Tagliatelle"
+  }
+}

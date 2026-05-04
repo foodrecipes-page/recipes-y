@@ -846,6 +846,23 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-zesty-italian-carrot-yellow-oregano-tagliatelle",
+    "title": "Yellow Zesty Italian Carrot Tagliatelle",
+    "tags": [
+      "carrots",
+      "italian",
+      "lemon",
+      "oregano",
+      "parmesan",
+      "pasta",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-aerated-russian-eggs-quiche",
     "title": "Yellowed Aerated Russian Eggs Quiche",
     "tags": [

@@ -1,0 +1,111 @@
+{
+  "title": "Yummy Shattering Venezuelan Bean Sprouts Salad",
+  "description": "A salty, crunchy salad packed with bean sprouts, pickled cucumbers, and energizing quinoa, perfect for a macrobiotic lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "200g"
+    },
+    {
+      "name": "nuka-pickle slices",
+      "amount": "150g"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "185g"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "75g",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "30g",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "5g",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "10g"
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "10g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "15ml"
+    }
+  ],
+  "instructions": [
+    "Rinse bean sprouts under cold water until crisp.",
+    "Drain and set aside in a large bowl.",
+    "Add nuka-pickle slices to the sprouts and toss gently.",
+    "Stir in cooked quinoa, red bell pepper, scallions, and cilantro.",
+    "Sprinkle toasted sesame seeds and pumpkin seeds over the mixture.",
+    "Drizzle olive oil on top of the salad.",
+    "Add sea salt and black pepper to taste.",
+    "Squeeze lime juice over the salad and mix again.",
+    "Let the salad sit for 5 minutes to allow flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "macrobiotic-friendly",
+    "quick",
+    "salad",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 14,
+    "carbs": 50,
+    "fat": 19
+  },
+  "slug": "yummy-shattering-venezuelan-bean-sprouts-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-shattering-venezuelan-bean-sprouts-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:56:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "bean sprouts",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Yummy Shattering",
+    "dishForm": "Salad"
+  }
+}

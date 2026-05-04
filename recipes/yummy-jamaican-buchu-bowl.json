@@ -1,0 +1,98 @@
+{
+  "title": "Yummy Jamaican Buchu Bowl",
+  "description": "A sweet, pillowy bowl that blends Jamaican flavors with Asian chives and buchu. Perfect for a lazy Sunday treat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unsweetened coconut milk",
+      "amount": "1 cup",
+      "notes": "low-fat dairy alternative"
+    },
+    {
+      "name": "Low-fat plain yogurt",
+      "amount": "1 cup",
+      "notes": "adds creaminess"
+    },
+    {
+      "name": "Asian chives",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Buchu leaves",
+      "amount": "1 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "Pure maple syrup",
+      "amount": "2 tbsp",
+      "notes": "natural sweetener"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "enhances flavor"
+    },
+    {
+      "name": "Fresh banana",
+      "amount": "1 medium",
+      "notes": "sliced, for topping"
+    },
+    {
+      "name": "Mixed berries",
+      "amount": "½ cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine coconut milk, yogurt, maple syrup, vanilla, and a pinch of salt; bring to a gentle simmer.",
+    "Reduce heat to low and whisk constantly until the mixture thickens slightly, about 5 minutes.",
+    "Stir in finely chopped Asian chives and buchu leaves until well distributed.",
+    "Transfer the custard to heat‑proof ramekins or small bowls.",
+    "Place the ramekins in a bain‑marie made with a larger pot of simmering water, covering the bottom of the ramekins.",
+    "Cook for 15 minutes, checking that the custard sets but remains tender.",
+    "Remove from heat, let cool slightly, then chill in the refrigerator for at least 30 minutes.",
+    "Serve each bowl topped with banana slices and a scatter of mixed berries."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian-chives",
+    "bain-marie",
+    "dessert",
+    "jamaican",
+    "lazy-sunday",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 7
+  },
+  "slug": "yummy-jamaican-buchu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-jamaican-buchu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:37:53Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "bain-marie",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Buchu",
+    "descriptor": "Yummy",
+    "dishForm": "Bowl"
+  }
+}

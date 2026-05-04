@@ -1,0 +1,106 @@
+{
+  "title": "Yummy Portuguese Salmon Dumplings",
+  "description": "Sashimi‑cut salmon wrapped in fluffy egg roll wrappers, seasoned with Portuguese spices, then pan‑fried and finished in the oven for a crispy, indulgent bite.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh salmon sashimi",
+      "amount": "200g"
+    },
+    {
+      "name": "egg roll wrappers",
+      "amount": "10"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add olive oil.",
+    "Spread the olive oil evenly across the pan.",
+    "Place a spoonful of seasoned salmon on each wrapper and fold into a triangle, sealing the edges with a touch of water.",
+    "Gently press the dumplings to ensure they are sealed tightly.",
+    "Arrange the dumplings on the skillet, leaving space between them.",
+    "Cook for 2 minutes on each side until golden brown.",
+    "Preheat the oven to 200C and transfer the pan to the oven to finish cooking the dumplings for 5 minutes.",
+    "Remove from oven and let rest for 2 minutes before serving.",
+    "Serve with a drizzle of soy sauce and a wedge of lemon.",
+    "Optional: garnish with extra dill or parsley for freshness."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "portuguese",
+    "lunch"
+  ],
+  "slug": "yummy-portuguese-salmon-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-portuguese-salmon-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:38:03Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Salmon",
+    "descriptor": "Yummy",
+    "dishForm": "Dumplings"
+  }
+}

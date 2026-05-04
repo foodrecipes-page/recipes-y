@@ -1,0 +1,111 @@
+{
+  "title": "Yummy Smoky Russian Provola Stew",
+  "description": "Hearty smoky stew with creamy provola, aromatic herbs, and a subtle kick, perfect for clearing a hangover.",
+  "cuisine": "Russian",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Provola cheese",
+      "amount": "200 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "dry"
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "stir"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "500 ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1",
+      "notes": "whole"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat a kadhai over medium heat and add a splash of olive oil.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Sprinkle in smoked paprika and smoked salt, tossing to coat the aromatics, cook 30 seconds.",
+    "Stir in tomato paste and cook for 2 minutes, letting it caramelize slightly.",
+    "Pour in the chicken stock, add bay leaf, and bring the mixture to a gentle simmer.",
+    "Reduce heat to low and gently fold in sliced provola cheese until melted and silky.",
+    "Season with black pepper, adjust salt if needed, and simmer for another 5 minutes.",
+    "Remove from heat, stir in chopped dill, and let the stew rest for a minute to meld flavors.",
+    "Serve hot over a bed of steamed rice or crusty bread, garnished with extra dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "kadhai",
+    "quick",
+    "smoky",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 770,
+    "protein": 39,
+    "carbs": 22,
+    "fat": 50
+  },
+  "slug": "yummy-smoky-russian-provola-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-smoky-russian-provola-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:08:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "provola",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Provola",
+    "descriptor": "Yummy Smoky",
+    "dishForm": "Stew"
+  }
+}

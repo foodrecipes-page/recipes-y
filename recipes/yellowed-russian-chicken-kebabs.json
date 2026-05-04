@@ -1,0 +1,103 @@
+{
+  "title": "Yellowed Russian Chicken Kebabs",
+  "description": "Tangy and crunchy Russian dish featuring malai and tandoor flavors, perfect for a nostalgic meal, this recipe is low in sodium and easy to make on a lazy susan spinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "malai",
+      "amount": "1/2 cup",
+      "notes": "or substitute with plain yogurt"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together malai, lemon juice, olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken, onion, and bell pepper onto skewers.",
+    "Place the skewers on the lazy susan spinner and cook for 20 minutes, turning occasionally.",
+    "Increase the heat to 450 degrees Fahrenheit and cook for an additional 5 minutes, or until the chicken is cooked through.",
+    "Serve the kebabs hot, garnished with fresh parsley or dill.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "kebabs",
+    "lazy-susan-spinner",
+    "low-sodium",
+    "russian-cuisine",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "yellowed-russian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-russian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:55:58Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "malai",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellowed Crunchy",
+    "dishForm": "Kebabs"
+  }
+}

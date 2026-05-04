@@ -652,6 +652,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-russian-chicken-kebabs",
+    "title": "Yellowed Russian Chicken Kebabs",
+    "tags": [
+      "chicken-recipes",
+      "kebabs",
+      "lazy-susan-spinner",
+      "low-sodium",
+      "russian-cuisine",
+      "tandoor-cooking"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellowish-dense-croatian-haggis-stew",
     "title": "Yellowish Dense Croatian Haggis Stew",
     "tags": [

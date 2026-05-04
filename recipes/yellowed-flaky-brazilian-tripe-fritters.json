@@ -1,0 +1,87 @@
+{
+  "title": "Yellowed Flaky Brazilian Tripe Fritters",
+  "description": "A traditional Brazilian dish featuring tripe, these fritters are mustardy, flaky, and perfect for a weeknight meal. They are also sugar-free-friendly, making them a great option for those with dietary restrictions.",
+  "cuisine": "brazilian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, mustard, salt, and pepper.",
+    "Add the tripe to the bowl and toss to coat with the flour mixture.",
+    "In a separate bowl, beat the eggs and add to the tripe mixture, stirring until everything is well combined.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "Using a spoon, drop small balls of the tripe mixture into the hot oil.",
+    "Fry the fritters for 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Remove the fritters from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "deep-fried",
+    "sugar-free",
+    "tripe-recipe",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "yellowed-flaky-brazilian-tripe-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-brazilian-tripe-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:15:07Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "tripe",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "tripe",
+    "descriptor": "Yellowed Flaky",
+    "dishForm": "Fritters"
+  }
+}

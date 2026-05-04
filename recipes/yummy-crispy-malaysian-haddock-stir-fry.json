@@ -1,0 +1,105 @@
+{
+  "title": "Yummy Crispy Malaysian Haddock Stir-fry",
+  "description": "Savory and crisp, this Malaysian stir-fry features haddock in a tangy, low-carb sauce. It is energizing and diabetic-friendly, perfect for a quick dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "200g",
+      "notes": "skin removed, cut into bite-sized pieces"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a wok over medium-high heat until shimmering.",
+    "Add haddock pieces and sear for 2-3 minutes per side until golden and crispy, then remove and set aside.",
+    "In the same wok, stir-fry red bell pepper and snow peas for 2 minutes until slightly tender.",
+    "Add green onions and minced garlic, cooking for 30 seconds until fragrant.",
+    "Return haddock to the wok, pour in low-sodium soy sauce and lime juice, tossing to coat evenly.",
+    "Sprinkle ground ginger over the stir-fry and stir for another minute, ensuring the sauce thickens slightly.",
+    "Taste and adjust seasoning, adding more lime juice if desired.",
+    "Transfer the dish to a serving plate and garnish with a few extra green onion slices.",
+    "Serve immediately with a side of cauliflower rice or leafy greens for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dinner",
+    "low-carb",
+    "malaysian",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 457,
+    "protein": 52,
+    "carbs": 23,
+    "fat": 15
+  },
+  "slug": "yummy-crispy-malaysian-haddock-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crispy-malaysian-haddock-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:13:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "haddock",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Haddock",
+    "descriptor": "Yummy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}

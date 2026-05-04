@@ -374,6 +374,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-peppery-mexican-turkey-ham-burrito",
+    "title": "Yellow Peppery Mexican Turkey Ham Burrito",
+    "tags": [
+      "high-protein",
+      "mexican-food",
+      "one-pot-meals",
+      "spicy-dishes",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-pillowy-australian-lentils-curry",
     "title": "Yellow Pillowy Australian Lentils Curry",
     "tags": [

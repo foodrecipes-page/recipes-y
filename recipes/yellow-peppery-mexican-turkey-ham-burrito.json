@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Peppery Mexican Turkey Ham Burrito",
+  "description": "A flavorful and spicy Mexican dish featuring turkey ham, bhuna, and poblano peppers, wrapped in a large burrito, served in a copper pot. This shojin-friendly meal is perfect for those looking for a peppery and chewy experience.",
+  "cuisine": "Mexican",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2 medium",
+      "notes": "roasted and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tortilla",
+      "amount": "4 large",
+      "notes": "flour or corn"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the poblano peppers in the oven for 30 minutes, then let them cool and dice them.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat and saute the diced onion and minced garlic until softened.",
+    "Add the diced turkey ham to the skillet and cook until browned, about 5 minutes.",
+    "Add the bhuna sauce to the skillet and stir to combine, cooking for an additional 2 minutes.",
+    "In a large copper pot, warm the tortillas over low heat for 2 minutes on each side.",
+    "Assemble the burritos by spooning the turkey ham mixture onto the center of each tortilla, then topping with roasted poblano peppers, diced yellow pepper, and shredded cheddar cheese.",
+    "Fold the bottom edge of each tortilla up over the filling, then fold in the sides and roll the burrito up tightly.",
+    "Serve the burritos hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican-food",
+    "one-pot-meals",
+    "spicy-dishes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "yellow-peppery-mexican-turkey-ham-burrito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-peppery-mexican-turkey-ham-burrito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:13:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "turkey ham",
+    "diet": "shojin",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Yellow Peppery",
+    "dishForm": "Burrito"
+  }
+}

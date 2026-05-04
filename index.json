@@ -1994,6 +1994,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-smoky-greek-pork-pie",
+    "title": "Yummy Smoky Greek Pork Pie",
+    "tags": [
+      "comfort-food",
+      "greek",
+      "high-protein",
+      "smoky",
+      "tasty",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-smoky-greek-tofu-skewers",
     "title": "Yummy Smoky Greek tofu Skewers",
     "tags": [

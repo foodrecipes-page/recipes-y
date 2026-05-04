@@ -1,0 +1,113 @@
+{
+  "title": "Yummy Smoky Greek Pork Pie",
+  "description": "A malty, pillowy, comforting Greek pie featuring smoked ground pork and a creamy yogurt filling.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "phyllo sheets",
+      "amount": "12"
+    },
+    {
+      "name": "melted butter",
+      "amount": "120ml",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190C.",
+    "Heat oil in a pan and sauté diced onion until translucent.",
+    "Add minced garlic and cook for 30 seconds.",
+    "Stir in ground pork, cooking until browned and crumbly.",
+    "Season the pork with smoked paprika, oregano, salt, and pepper, then mix thoroughly.",
+    "Allow the pork mixture to cool slightly while preparing the filling.",
+    "In a bowl, combine Greek yogurt, chopped dill, and crumbled feta cheese.",
+    "Arrange 6 phyllo sheets on a greased baking sheet, brushing each sheet with melted butter.",
+    "Spread half the pork mixture evenly over the phyllo layer, then spoon half the yogurt mixture on top.",
+    "Cover with the remaining 6 phyllo sheets, brushing each with melted butter and folding edges to seal.",
+    "Bake for 30 minutes until the pastry is golden and puffed.",
+    "Remove from oven, let rest 5 minutes, then cut into squares and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek",
+    "high-protein",
+    "smoky",
+    "tasty",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "yummy-smoky-greek-pork-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-smoky-greek-pork-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:19:35Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "smoke",
+    "primaryIngredient": "ground pork",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork",
+    "descriptor": "Yummy Smoky",
+    "dishForm": "Pie"
+  }
+}

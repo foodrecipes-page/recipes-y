@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Buttery Uruguayan Beef Empanadas",
+  "description": "A traditional Uruguayan dish featuring buttery and aerated empanadas, perfect for a post-workout snack, made with 00-flour and halal-friendly ingredients, cooked to perfection in a Dutch oven. This recipe is a delicious and satisfying treat.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "00-flour",
+      "amount": "2 cups",
+      "notes": "preferably Caputo"
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground, lean"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cure",
+      "amount": "1 teaspoon",
+      "notes": "optional, but recommended"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the 00-flour, salt, and black pepper.",
+    "Add the melted butter to the flour mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of ground beef in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas in the preheated Dutch oven and bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-empanadas",
+    "dutch-oven",
+    "halal-friendly",
+    "post-workout",
+    "snack",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "yellowed-buttery-uruguayan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-buttery-uruguayan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:21:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "00-flour",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Yellowed Buttery",
+    "dishForm": "Empanadas"
+  }
+}

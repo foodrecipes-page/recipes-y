@@ -3036,6 +3036,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-fermented-green-saudi-arabian-lentils-dal",
+    "title": "yummy feremented green saudi-arabian lentil dal",
+    "tags": [
+      "comfort-food",
+      "fermented",
+      "high-fiber",
+      "one-pan",
+      "saudi-arabian",
+      "weeknight"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 65,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-filipino-tofu-stew",
     "title": "Yummy Filipino Tofu Stew",
     "tags": [
@@ -3858,6 +3873,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-roasted-malaysian-all-purpose-flour-bread",
+    "title": "Yummy Roasted Malaysian All-Purpose Flour Bread",
+    "tags": [
+      "bread",
+      "malaysian",
+      "paleo-friendly",
+      "quick-fix",
+      "roasted",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-salt-baked-moroccan-pork-shoulder-tagine",
     "title": "Yummy Salt-Baked Moroccan Pork Shoulder Tagine",
     "tags": [
@@ -3958,6 +3988,19 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-silky-spanish-sloe-beries-dumplings",
+    "title": "Yummy Silky Spanish Sloe-beries Dumplings",
+    "tags": [
+      "comfort-food",
+      "dinner-ideas",
+      "spanish-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 32,
     "shard": "y"
   },
   {
@@ -4472,6 +4515,20 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yuzu-cure-slovakian-cheese-omelette",
+    "title": "yuzu-cure slovakian cheese omelette",
+    "tags": [
+      "brunch",
+      "cheese",
+      "diabetic-friendly",
+      "omelette",
+      "slovakian"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 15,
     "shard": "y"
   }
 ]

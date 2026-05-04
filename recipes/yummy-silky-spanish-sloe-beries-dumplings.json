@@ -1,0 +1,63 @@
+{
+  "title": "Yummy Silky Spanish Sloe-beries Dumplings",
+  "description": "A comforting Spanish dish featuring sour sloe-berries and silky dumplings, originating from the Galicia region. Perfect for a cold winter evening.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sloe-berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Combine 1 cup of sloe-berries and 2 tablespoons of sugar in a saucepan. Heat the mixture over medium heat until the berries start to release their juice.",
+    "In a large bowl, combine 2 cups of flour, 1 egg, 1/2 cup of milk, and a pinch of salt. Mix the dough until it comes together.",
+    "Add 1/4 cup of chopped fresh parsley and 1/4 cup of chopped fresh thyme to the dough. Mix well.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Heat a large skillet with 2 tablespoons of pork fat or vegetable oil over medium heat. Cook the dumplings for 2-3 minutes on each side, until they are golden brown.",
+    "Serve the dumplings with the sloe-berry sauce and a sprinkle of Galician cheese.",
+    "If desired, add 1/4 cup of white wine to the sloe-berry sauce and simmer for an additional 2 minutes.",
+    "Garnish with fresh parsley and serve hot.",
+    "Optional: serve with a side of steamed vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-ideas",
+    "spanish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "yummy-silky-spanish-sloe-beries-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-silky-spanish-sloe-beries-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:52:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "sloe-berries",
+    "diet": "vegetarian",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Sloe-beries",
+    "descriptor": "yummy silky",
+    "dishForm": "Dumplings"
+  }
+}

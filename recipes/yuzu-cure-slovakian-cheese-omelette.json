@@ -1,0 +1,98 @@
+{
+  "title": "yuzu-cure slovakian cheese omelette",
+  "description": "A Slovakian twist on a classic omelette, featuring the winey flavor of stilton cheese and the tangy yuzu-cure. Perfect for a diabetic-friendly brunch option.",
+  "cuisine": "slovakian",
+  "diet": [
+    "diabetic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 large eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup crumbled stilton cheese",
+      "amount": "",
+      "notes": "diabetic-friendly option, choose a low-carb variety if possible"
+    },
+    {
+      "name": "1 tablespoon yuzu-cure",
+      "amount": "",
+      "notes": "homemade or store-bought, reduce amount if too salty"
+    },
+    {
+      "name": "1/4 cup chopped fresh chives",
+      "amount": "",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork until lightly beaten.",
+    "Heat a medium non-stick skillet over medium heat and add 1 tablespoon of the melted butter. Once melted, tilt the skillet to make sure the butter covers the entire surface.",
+    "Add the crumbled stilton cheese to one half of the skillet and sprinkle with yuzu-cure.",
+    "Pour the egg mixture over the cheese and let it cook for 2-3 minutes, or until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center, allowing the uncooked egg to flow to the edges.",
+    "Once the eggs are almost set, use the spatula to carefully slide the omelette over and fold the other half of the skillet over the filling.",
+    "Cook for an additional 30 seconds to 1 minute, until the cheese is melted and the eggs are cooked through.",
+    "Slide the omelette out of the skillet onto a plate and garnish with chopped chives and parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "cheese",
+    "diabetic-friendly",
+    "omelette",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 16
+  },
+  "slug": "yuzu-cure-slovakian-cheese-omelette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yuzu-cure-slovakian-cheese-omelette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:52:34Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "stilton cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cheese",
+    "descriptor": "yuzu-cure",
+    "dishForm": "Omelette"
+  }
+}

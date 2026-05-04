@@ -1,0 +1,86 @@
+{
+  "title": "Yummy Roasted Malaysian All-Purpose Flour Bread",
+  "description": "A quick-fix Malaysian bread featuring roasted all-purpose flour, tender crust and paleo-friendly ingredients.",
+  "cuisine": "malaysian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "roasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix flour, baking powder, and salt in a large bowl.",
+    "Add coconut oil, water, roasted sesame seeds, and garlic powder. Mix until a sticky dough forms.",
+    "Knead the dough for 5 minutes and let it rest for 10 minutes.",
+    "Shape the dough into a round loaf and place it on a bamboo tray.",
+    "Bake the bread for 30 minutes or until golden brown.",
+    "Remove the bread from the oven and let it cool for 10 minutes.",
+    "Slice the bread and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "malaysian",
+    "paleo-friendly",
+    "quick-fix",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "yummy-roasted-malaysian-all-purpose-flour-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-roasted-malaysian-all-purpose-flour-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "all purpose flour",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "all-purpose flour",
+    "descriptor": "Yummy Roasted",
+    "dishForm": "Bread"
+  }
+}

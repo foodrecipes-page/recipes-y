@@ -1,0 +1,112 @@
+{
+  "title": "yummy feremented green saudi-arabian lentil dal",
+  "description": "a comforting, tender saudi-arabian dish featuring fermented green lentils and a rich flavour profile.",
+  "cuisine": "saudi-arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "2 cups",
+      "notes": "red or brown may be substituted but flavor profile will be altered."
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "use filtered or spring water for best results."
+    },
+    {
+      "name": "salt block",
+      "amount": "",
+      "notes": "a natural, non-reactive cooking surface."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "use non-hydrogenated and sustainably sourced oil for best results."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "any variety of onion may be used, but sweet and mild flavor will be best."
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "mince before using to release oils and flavors."
+    },
+    {
+      "name": "ginger",
+      "amount": "",
+      "notes": "grate or mince before using, 2 tablespoons fresh is equivalent to one tablespoon dried."
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "roast seeds before grinding for best flavor."
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": "roast seeds before grinding for best flavor."
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": "use fresh for best flavor."
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust spice level to individual taste."
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "",
+      "notes": "chopped or torn before garnishing, add as a garnish just before serving."
+    }
+  ],
+  "instructions": [
+    "roast the cumin seeds and coriander seeds in a small pan over low heat until fragrant, stirring frequently.",
+    "grind the roasted seeds into a fine powder using a spice grinder or mortar and pestle.",
+    "heat the coconut oil in a large saucepan over medium heat, add the onion and sauté until translucent.",
+    "add the garlic and ginger to the saucepan, sauté for an additional minute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "fermented",
+    "high-fiber",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 90,
+    "fat": 15
+  },
+  "slug": "yummy-fermented-green-saudi-arabian-lentils-dal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-fermented-green-saudi-arabian-lentils-dal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "green red lentils",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "lentils",
+    "descriptor": "yummy fermented green",
+    "dishForm": "Dal"
+  }
+}

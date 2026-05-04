@@ -1,0 +1,104 @@
+{
+  "title": "Yellowed Smoky Slovakian Ackee Pilaf",
+  "description": "Savory and silky Slovakian dish featuring ackee, binchotan-charcoal, and seafood, perfect for festive occasions. This pescatarian-friendly pilaf is a unique blend of flavors and textures.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup",
+      "notes": "canned or fresh, drained and chopped"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "2 tablespoons",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute, until fragrant.",
+    "Add the shrimp and cook until pink and fully cooked, about 5 minutes.",
+    "Add the Arborio rice and stir to combine with the shrimp and onion mixture.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the chopped ackee and stir to combine.",
+    "Add the binchotan charcoal powder and stir to combine, cooking for an additional 2 minutes.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "one-pot",
+    "pescatarian",
+    "seafood",
+    "slovakian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellowed-smoky-slovakian-ackee-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-slovakian-ackee-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:30:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "ackee",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "ackee",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Yummy Turkish Tomato Soup",
+  "description": "A briny, aerated tomato soup with a touch of shio-koji, perfect for post-workout recovery.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "diced tomatoes (canned)",
+      "amount": "400g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "10 leaves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion, garlic, carrot, and celery, sauté until softened, about 5 minutes.",
+    "Stir in canned tomatoes, vegetable broth, water, and shio-koji, bringing to a simmer.",
+    "Reduce heat to low and let the soup simmer gently for 15 minutes to meld flavors.",
+    "Use an immersion blender to aerate the soup until silky but not fully smooth, leaving some texture.",
+    "Season with lemon juice, pepper, and a pinch of salt if needed, adjusting for taste.",
+    "Ladle the soup into bowls and sprinkle fresh basil leaves over the top.",
+    "Serve hot, optionally with a drizzle of olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "briny",
+    "canned-tomato",
+    "diabetic-friendly",
+    "post-workout",
+    "shio-koji",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 13,
+    "carbs": 42,
+    "fat": 15
+  },
+  "slug": "yummy-turkish-tomato-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-turkish-tomato-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:00:12Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Tomato",
+    "descriptor": "Yummy",
+    "dishForm": "Soup"
+  }
+}

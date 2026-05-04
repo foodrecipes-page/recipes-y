@@ -1716,6 +1716,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-turkish-tomato-soup",
+    "title": "Yummy Turkish Tomato Soup",
+    "tags": [
+      "aerated",
+      "briny",
+      "canned-tomato",
+      "diabetic-friendly",
+      "post-workout",
+      "shio-koji",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-uruguayan-beef-stew",
     "title": "Yummy Uruguayan Beef Stew",
     "tags": [

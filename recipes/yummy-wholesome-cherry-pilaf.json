@@ -1,0 +1,83 @@
+{
+  "title": "Yummy Wholesome Cherry Pilaf",
+  "description": "A fresh and flavorful Portuguese dish featuring cherry tomatoes and other wholesome ingredients cooked in a clay pot for an easy post-workout meal.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "cup"
+    },
+    {
+      "name": "1 medium onion, diced",
+      "amount": "piece"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "3 cups brown rice",
+      "amount": "cups"
+    },
+    {
+      "name": "1 can (8 oz) vegetable broth",
+      "amount": "can"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "amount": null
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a clay pot over medium heat.",
+    "Add onion and garlic; sauté until softened, about 5 minutes.",
+    "Stir in cherry tomatoes and vegetable broth. Bring to a boil then reduce heat to low.",
+    "Cover with a tight fitting lid, transfer to oven at 350°F (175°C) for approximately 20-25 minutes or until rice is tender.",
+    "Season with salt and pepper before serving with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "oven-cooked",
+    "veggie-based",
+    "whole-foods"
+  ],
+  "nutrition": {
+    "calories": 327,
+    "protein": 8,
+    "carbs": 51,
+    "fat": 9
+  },
+  "slug": "yummy-wholesome-cherry-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-wholesome-cherry-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T23:58:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "cherry",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Cherry",
+    "descriptor": "Yummy",
+    "dishForm": "Pilaf"
+  }
+}

@@ -505,6 +505,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-mellow-ethiopian-lamb-stew",
+    "title": "Yellow Mellow Ethiopian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "ethiopian-cuisine",
+      "gluten-free",
+      "low-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 140,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-peppery-mexican-turkey-ham-burrito",
     "title": "Yellow Peppery Mexican Turkey Ham Burrito",
     "tags": [

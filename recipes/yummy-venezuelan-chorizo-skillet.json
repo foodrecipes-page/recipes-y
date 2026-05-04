@@ -1,0 +1,122 @@
+{
+  "title": "Yummy Venezuelan Chorizo Skillet",
+  "description": "A savory, dense, quick-fix Venezuelan dish featuring chorizo and a pasta-water emulsion, cooked in a tava-griddle for a whole30-friendly one-pan meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole30 chorizo",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup",
+      "notes": "from boiled pasta"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle over medium heat.",
+    "Add olive oil, swirl to coat the surface.",
+    "Add sliced chorizo and cook until browned, about 3-4 minutes.",
+    "Remove chorizo and set aside on a plate.",
+    "In the same pan add diced onion and cook until translucent.",
+    "Add diced bell pepper, minced garlic, and diced tomato, cooking until softened.",
+    "Stir in cumin, dried oregano, paprika, and a pinch of cayenne pepper, cooking for 30 seconds.",
+    "Return the browned chorizo to the pan and pour in the pasta water, stirring to combine.",
+    "Simmer the mixture until the sauce thickens, about 5 minutes.",
+    "Season with salt to taste, adjust seasoning if needed.",
+    "Serve hot directly from the tava, optionally garnishing with fresh cilantro.",
+    "Enjoy your quick, hearty, Venezuelan chorizo skillet."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "hearty",
+    "one-pan",
+    "quick-fix",
+    "spicy",
+    "venezuelan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 475,
+    "protein": 22,
+    "carbs": 13,
+    "fat": 39
+  },
+  "slug": "yummy-venezuelan-chorizo-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-venezuelan-chorizo-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:04:04Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "chorizo",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chorizo",
+    "descriptor": "Yummy",
+    "dishForm": "Skillet"
+  }
+}

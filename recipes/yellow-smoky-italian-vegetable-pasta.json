@@ -1,0 +1,102 @@
+{
+  "title": "Yellow Smoky Italian Vegetable Pasta",
+  "description": "A light and romantic Italian dish featuring smoky flavors and peanut oil, made with macrobiotic-friendly ingredients. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat spaghetti"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the peanut oil over medium heat.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the diced yellow bell pepper and cook until tender, about 4-5 minutes.",
+    "Add the halved cherry tomatoes and cook for an additional 2-3 minutes, stirring occasionally.",
+    "Stir in the infuse oil and cook for 1 minute.",
+    "Combine the cooked pasta, vegetable mixture, and chopped fresh basil in a large bowl and toss to combine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-food",
+    "macrobiotic",
+    "one-pan",
+    "smoky",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-smoky-italian-vegetable-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-italian-vegetable-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:46:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "peanut oil",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Pasta"
+  }
+}

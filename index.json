@@ -40,6 +40,19 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-argentinian-empanada-empanada",
+    "title": "Yeasty Argentinian Empanada",
+    "tags": [
+      "argentinian",
+      "gluten-free",
+      "low-carb",
+      "yeast"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 70,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-brazilian-ciabatta-grill",
     "title": "Brazilian Ciabatta Grill",
     "tags": [

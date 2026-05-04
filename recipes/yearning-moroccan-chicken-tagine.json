@@ -1,0 +1,119 @@
+{
+  "title": "Yearning Moroccan Chicken Tagine",
+  "description": "A slow‑cooked, savory Moroccan chicken tagine with green curry paste, dried apricots, and almonds, served over a slate tile for a romantic, aromatic experience.",
+  "cuisine": "moroccan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 kg",
+      "notes": "bone‑in, skin on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "100 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "50 g",
+      "notes": "blanched and toasted"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1",
+      "notes": "peeled and cut into strips"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "30 g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the slate tile over medium heat and add olive oil.",
+    "Place the chicken thighs skin side down and sear until golden brown, then flip and sear the other side.",
+    "Add sliced onion to the tile and cook until translucent, stirring occasionally.",
+    "Stir in minced garlic and green curry paste until fragrant, about 1 minute.",
+    "Pour in chicken broth, add the cinnamon stick, salt, pepper, and preserved lemon strips, and bring to a gentle simmer.",
+    "Return the seared chicken to the tile, nestle the apricots around the pieces, and cover with a tight‑fitting lid.",
+    "Reduce heat to low and let the tagine cook for 45 minutes, stirring once halfway through, until chicken reaches an internal temperature of 165°F.",
+    "Remove the lid, break the cinnamon stick, and stir in toasted almonds.",
+    "Let the dish rest off‑heat for 5 minutes to allow flavors to meld.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "kosher",
+    "moroccan",
+    "slate-tile",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 28
+  },
+  "slug": "yearning-moroccan-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yearning-moroccan-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:50:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Yearning",
+    "dishForm": "Tagine"
+  }
+}

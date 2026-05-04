@@ -1,5 +1,20 @@
 [
   {
+    "slug": "yearning-moroccan-chicken-tagine",
+    "title": "Yearning Moroccan Chicken Tagine",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "kosher",
+      "moroccan",
+      "slate-tile",
+      "slow-cook"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 65,
+    "shard": "y"
+  },
+  {
     "slug": "yeast-citrus-velveteen",
     "title": "Yeast Citrus Velveteen",
     "tags": [

@@ -1,0 +1,110 @@
+{
+  "title": "yummy sick-day Jamaican pak choi stew",
+  "description": "a pillowy, comforting stew featuring pak choi, nuka-pickle, and a hint of Jamaican spice.\nhopefully, this stew will help you feel better on a sick day.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "high-fiber"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "can diced tomatoes",
+      "amount": "14 oz",
+      "notes": ""
+    },
+    {
+      "name": "veggie broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large pot over medium heat.",
+    "add onion and garlic and saut\u00179 until softened, about 5 minutes.",
+    "add allspice and thyme and cook for 1 minute.",
+    "add pak choi, red bell pepper, diced tomatoes, and broth.",
+    "bring to a boil, then reduce heat and simmer for 15 minutes.",
+    "add nuka-pickle and stir to combine.",
+    "serve over brown rice.",
+    "garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "comfort-food",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "yummy-sick-day-jamaican-pak-choi-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-sick-day-jamaican-pak-choi-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "pak choi",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pak choi",
+    "descriptor": "yummy sick-day",
+    "dishForm": "Stew"
+  }
+}

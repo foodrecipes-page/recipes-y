@@ -2932,6 +2932,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-hangover-cure-malaysian-fish-satay",
+    "title": "Yummy Hangover-Cure Malaysian Fish Satay",
+    "tags": [
+      "breakfast",
+      "hangover-cure",
+      "malaysian",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 23,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-herbal-chinese-penne-jiaozi",
     "title": "Yummy Herbal Chinese Penne Jiaozi",
     "tags": [
@@ -3555,6 +3570,21 @@
     ],
     "cuisine": "algerian",
     "totalTimeMin": 95,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-sick-day-jamaican-pak-choi-stew",
+    "title": "yummy sick-day Jamaican pak choi stew",
+    "tags": [
+      "cold-weather",
+      "comfort-food",
+      "gluten-free",
+      "high-fiber",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

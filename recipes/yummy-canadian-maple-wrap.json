@@ -1,0 +1,97 @@
+{
+  "title": "Yummy Canadian Maple Wrap",
+  "description": "A resinous, molten brunch dish that blends maple sweetness with savory smoked salmon wrapped in lotus leaf.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "cooked wild rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "200 g"
+    },
+    {
+      "name": "cucumber, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "avocado, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "celery salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "toothpick",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Rinse lotus leaves and pat dry.",
+    "Warm each leaf on a hot skillet for 10 seconds to make pliable.",
+    "Spread 1/4 cup cooked wild rice over the center of each leaf.",
+    "Arrange slices of smoked salmon, cucumber, avocado, and a drizzle of maple syrup on top of the rice.",
+    "Sprinkle 1/2 tsp celery salt and a dash of lemon juice over the filling.",
+    "Fold the sides of the leaf over and roll tightly, securing with a toothpick if desired.",
+    "Place the wraps seam-side down on a steaming pan and cook for 3 minutes to meld flavors.",
+    "Remove from heat, let cool for a minute, then slice the wrap lengthwise and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "maple",
+    "quick",
+    "sugar-free",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "yummy-canadian-maple-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-canadian-maple-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:43:16Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "en-croute",
+    "primaryIngredient": "celery salt",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Maple",
+    "descriptor": "Yummy",
+    "dishForm": "Wrap"
+  }
+}

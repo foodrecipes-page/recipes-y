@@ -1482,6 +1482,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-canadian-maple-wrap",
+    "title": "Yummy Canadian Maple Wrap",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "maple",
+      "quick",
+      "sugar-free",
+      "wrap"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 15,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-charred-punjabi-redcurrants-curry",
     "title": "Yummy Charred Punjabi Redcurrants Curry",
     "tags": [

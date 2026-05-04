@@ -165,6 +165,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-creamy-indian-paneer-tikka",
+    "title": "Yellow Creamy Indian Paneer Tikka",
+    "tags": [
+      "comfort-food",
+      "indian-cuisine",
+      "low-glycemic",
+      "monsoon-recipes",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-creamy-middle-eastern-tomato-bowl",
     "title": "Yellow Creamy Middle Eastern Tomato Bowl",
     "tags": [
@@ -2272,6 +2287,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 135,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-zesty-polish-potato-skewers",
+    "title": "Yummy Zesty Polish Potato Skewers",
+    "tags": [
+      "crunchy",
+      "hangover-cure",
+      "kosher-friendly",
+      "one-pan",
+      "quick",
+      "spicy"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

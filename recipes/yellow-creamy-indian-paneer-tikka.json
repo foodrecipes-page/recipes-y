@@ -1,0 +1,106 @@
+{
+  "title": "Yellow Creamy Indian Paneer Tikka",
+  "description": "A winey, creamy, and flavorful Maharashtrian dish featuring paneer tikka, couscous, and a low-glycemic-friendly braise, perfect for the monsoon season. This recipe combines the richness of Indian spices with the comfort of a warm and creamy sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat and saute the onion until it is translucent.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the chopped tomato and cook until it is soft and mashed.",
+    "Add the curry powder and garam masala and cook for 1 minute, stirring constantly.",
+    "Add the paneer cubes and cook until they are lightly browned on all sides.",
+    "Add the yogurt and stir well to combine.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "While the paneer mixture is simmering, cook the couscous according to the package instructions.",
+    "Fluff the cooked couscous with a fork and serve with the paneer tikka.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian-cuisine",
+    "low-glycemic",
+    "monsoon-recipes",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellow-creamy-indian-paneer-tikka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-creamy-indian-paneer-tikka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:35:58Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "couscous",
+    "diet": "low-glycemic",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Yellow Creamy",
+    "dishForm": "Paneer Tikka"
+  }
+}

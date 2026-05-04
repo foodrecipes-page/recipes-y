@@ -1,0 +1,96 @@
+{
+  "title": "Yummy Zesty Polish Potato Skewers",
+  "description": "Spicy crunchy skewers baked in a wood fire style using sunflower oil, perfect for a quick lunch or hangover cure.",
+  "cuisine": "Polish",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "1.5 lb",
+      "notes": "cut into bite size pieces"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 lemon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood fire oven or grill to medium high heat (about 400F).",
+    "Toss the cut potatoes in a bowl with sunflower oil, smoked paprika, garlic powder, cayenne pepper, and salt until evenly coated.",
+    "Thread the seasoned potatoes onto skewers, leaving a little space between each piece.",
+    "Place the skewers on a sheet or on the grill and bake or grill for 12 to 15 minutes, turning occasionally, until the edges are crisp.",
+    "While the potatoes cook, zest the lemon and squeeze a tablespoon of fresh lemon juice.",
+    "Once done, remove the skewers from the heat and let them cool for a few minutes.",
+    "Drizzle the lemon zest, lemon juice, and chopped parsley over the hot skewers.",
+    "Give everything a gentle toss to combine the flavors.",
+    "Serve immediately hot for maximum crunch, optionally with a side of yogurt dip for added protein."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "hangover-cure",
+    "kosher-friendly",
+    "one-pan",
+    "quick",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 34,
+    "fat": 7
+  },
+  "slug": "yummy-zesty-polish-potato-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-zesty-polish-potato-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:37:05Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "sunflower oil",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potato",
+    "descriptor": "Yummy Zesty",
+    "dishForm": "Skewers"
+  }
+}

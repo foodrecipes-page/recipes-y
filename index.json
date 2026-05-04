@@ -356,6 +356,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-jamaican-ginger-curry",
+    "title": "Yellow Spicy Jamaican Ginger Curry",
+    "tags": [
+      "jamaican-cuisine",
+      "one-pot-meal",
+      "romantic-dinner",
+      "spicy-food",
+      "vegetarian-option"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-brown-australian-lamb-skewers",
     "title": "Yellowed Brown Australian Lamb Skewers",
     "tags": [

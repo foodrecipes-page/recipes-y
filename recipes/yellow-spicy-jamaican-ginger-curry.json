@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Spicy Jamaican Ginger Curry",
+  "description": "A sour and snappy Jamaican dish featuring ground ginger, this curry is a romantic and flavorful option for a special occasion, made with shojin-friendly ingredients and a mantecare emulsification technique to bring all the flavors together.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground ginger",
+      "amount": "2 tablespoons",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, ginger, and scotch bonnet pepper, and cook for 1 minute.",
+    "Stir in the curry powder and cook for 1 minute.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce the heat to low and let cook for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or with roti.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-cuisine",
+    "one-pot-meal",
+    "romantic-dinner",
+    "spicy-food",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-spicy-jamaican-ginger-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-jamaican-ginger-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:03:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "ground ginger",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "ginger",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Curry"
+  }
+}

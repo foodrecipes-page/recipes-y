@@ -2573,6 +2573,19 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-german-quinoa-wrap",
+    "title": "Yummy German Quinoa Wrap",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "healthy",
+      "quick"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-german-salt-cod-sandwich",
     "title": "Yummy German Salt Cod Sandwich",
     "tags": [

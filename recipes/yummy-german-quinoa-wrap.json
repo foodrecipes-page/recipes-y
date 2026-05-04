@@ -1,0 +1,90 @@
+{
+  "title": "Yummy German Quinoa Wrap",
+  "description": "Resinous, bouncy-qq, date-night German dish featuring pink food colouring, leaf-wrap-steam, gluten-free-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "100 g"
+    },
+    {
+      "name": "Spinach leaves",
+      "amount": "200 g"
+    },
+    {
+      "name": "Pink beet puree",
+      "amount": "50 g"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "30 g",
+      "notes": "softened"
+    },
+    {
+      "name": "Pickled cucumber strips",
+      "amount": "50 g"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "5 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "10 ml"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water until water runs clear.",
+    "Cook quinoa in a saucepan with 200 ml water, bring to a boil, then simmer for 12 minutes until fluffy.",
+    "Let quinoa cool to room temperature.",
+    "Spread a thin layer of cream cheese over each spinach leaf.",
+    "Spread pink beet puree on top of the cream cheese.",
+    "Place a few pickled cucumber strips and mint leaves on the puree.",
+    "Drizzle a small amount of olive oil and sprinkle sea salt over the filling.",
+    "Wrap the spinach leaf tightly and secure with a toothpick if needed.",
+    "Serve immediately and enjoy the bouncy texture and German flair."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "healthy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "yummy-german-quinoa-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-german-quinoa-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:33:33Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "pink food colouring",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Yummy",
+    "dishForm": "Wrap"
+  }
+}

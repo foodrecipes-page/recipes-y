@@ -56,6 +56,19 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-dense-festive-argentinian-fish-wrap",
+    "title": "Argentinian Fish Wrap with Nam Pla Sauce",
+    "tags": [
+      "argentinian",
+      "fish-wrap",
+      "weeknight",
+      "yeast-bread"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-ethiopian-almond-wrap",
     "title": "Yeasty Ethiopian Almond Wrap",
     "tags": [

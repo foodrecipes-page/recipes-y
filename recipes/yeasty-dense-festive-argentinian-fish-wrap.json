@@ -1,0 +1,97 @@
+{
+  "title": "Argentinian Fish Wrap with Nam Pla Sauce",
+  "description": "A flavorful and festive dish from Argentina, featuring a yeasty corn-husk wrap filled with fish, nam pla sauce, and crispy toast. Perfect for a light lunch or dinner.",
+  "cuisine": "Argentinian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "fish sauce (nam pla)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crusty bread",
+      "amount": "2 slices",
+      "notes": "toasted and cubed"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine yeast, flour, salt, and warm water in a bowl to make the corn-husk dough. Let it rise in a warm place for 1 hour.",
+    "Divide the dough into 4-6 pieces, depending on the desired wrap size. Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Heat a non-stick skillet over medium heat and cook the fish for 3-4 minutes on each side, until cooked through.",
+    "Mix the nam pla sauce with cilantro and red pepper flakes in a small bowl.",
+    "Assemble the wraps by spreading a tablespoon of nam pla sauce on each dough disk, followed by a piece of cooked fish, some toasted bread cubes, and a sprinkle of cilantro.",
+    "Brush the tops of the wraps with a little water and cook in the skillet for 1-2 minutes, until golden brown and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "fish-wrap",
+    "weeknight",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yeasty-dense-festive-argentinian-fish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-dense-festive-argentinian-fish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:03Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "fish",
+    "descriptor": "yeasty dense festive",
+    "dishForm": "wrap"
+  }
+}

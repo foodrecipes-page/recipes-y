@@ -1,0 +1,106 @@
+{
+  "title": "Yummy Flambe Thai Cherry Nam Prik",
+  "description": "A buttery, glassy cherry jelly infused with spicy Thai chili paste and served on slate tile for a festive, ayurvedic-friendly delight.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh cherries",
+      "amount": "200g"
+    },
+    {
+      "name": "sugar",
+      "amount": "80g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "butter",
+      "amount": "20g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "15ml"
+    },
+    {
+      "name": "nam prik pao chili paste",
+      "amount": "20g"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "5g",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "5g",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "10ml"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "2g"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Wash cherries and remove stems.",
+    "Crush cherries into juice using a blender and strain to remove skins and pits.",
+    "In a saucepan, combine cherry juice, sugar, coconut milk, butter, and water; heat until butter melts and sugar dissolves.",
+    "Whisk agar-agar powder into the mixture; bring to a rolling boil for one minute while stirring constantly.",
+    "Remove from heat and let the mixture cool to forty degrees Celsius, stirring occasionally to prevent clumping.",
+    "Pour the cooled mixture into a shallow slate tile and refrigerate for at least two hours until set into a glassy jelly.",
+    "While the jelly sets, whisk lime juice, fish sauce, chili paste, grated ginger, minced garlic, and sesame oil in a bowl until smooth.",
+    "Slice the set jelly into wedges and drizzle with the spicy glaze before serving on slate tile."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "festive",
+    "glass-jelly",
+    "rajasic-friendly",
+    "slate-served",
+    "thai-flambe"
+  ],
+  "nutrition": {
+    "calories": 1047,
+    "protein": 5,
+    "carbs": 119,
+    "fat": 30
+  },
+  "slug": "yummy-flambe-thai-cherry-nam-prik",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-flambe-thai-cherry-nam-prik",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:28:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "flambe",
+    "primaryIngredient": "cherry",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cherry",
+    "descriptor": "Yummy Flambe",
+    "dishForm": "Nam Prik"
+  }
+}

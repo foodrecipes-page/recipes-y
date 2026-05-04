@@ -1,0 +1,109 @@
+{
+  "title": "Yellow Malted Irish Lamb Stew",
+  "description": "A hearty and comforting Irish lamb stew with a malty flavor and fluffy texture, perfect for a rainy day. The dish features a poached lamb shoulder and a dash of vinegar for added depth.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the malted milk powder, apple cider vinegar, chicken broth, salt, and black pepper, and stir to combine.",
+    "Add the chopped carrots and potatoes, and stir to combine.",
+    "Cover the Dutch oven and transfer to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Remove the stew from the oven and stir in the chopped parsley.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "irish-cuisine",
+    "lamb-recipes",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "yellow-malted-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-malted-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:48:01Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "poach",
+    "primaryIngredient": "vinegar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Malted",
+    "dishForm": "Stew"
+  }
+}

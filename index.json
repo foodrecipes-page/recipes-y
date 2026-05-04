@@ -316,6 +316,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-malted-irish-lamb-stew",
+    "title": "Yellow Malted Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "irish-cuisine",
+      "lamb-recipes",
+      "one-pot-meal"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 170,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-pillowy-mediterranean-doubanjiang-pilaf",
     "title": "Yellow Pillowy Mediterranean Doubanjiang Pilaf",
     "tags": [

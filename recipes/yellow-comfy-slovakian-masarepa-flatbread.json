@@ -1,0 +1,53 @@
+{
+  "title": "yellow comfy slovakian masarepa flatbread",
+  "description": "fluffy and comforting slovakian flatbread featuring yellow masarepa, perfect for a snack or light meal",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 3/4 cups",
+      "notes": "preferably yellow cornmeal"
+    }
+  ],
+  "instructions": [
+    "in a large bowl, whisk together masarepa, eggs, water, salt, and melted butter until smooth"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "flatbread",
+    "masarepa",
+    "slovakian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "yellow-comfy-slovakian-masarepa-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-comfy-slovakian-masarepa-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:30Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "masarepa",
+    "descriptor": "yellow comfy",
+    "dishForm": "Flatbread"
+  }
+}

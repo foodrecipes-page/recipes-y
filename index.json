@@ -71,6 +71,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-german-turkish-delight-bake",
+    "title": "Yeasty German Turkish Delight Bake",
+    "tags": [
+      "cheese-bake",
+      "egg-free",
+      "german",
+      "meal-prep",
+      "turkish-delight",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-gooey-argentinian-cornmeal-empanadas",
     "title": "Yeasty Gooey Argentinian Cornmeal Empanadas",
     "tags": [
@@ -250,6 +265,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-comfy-slovakian-masarepa-flatbread",
+    "title": "yellow comfy slovakian masarepa flatbread",
+    "tags": [
+      "breakfast",
+      "flatbread",
+      "masarepa",
+      "slovakian",
+      "snack"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -2192,6 +2221,19 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-aerated-malaysian-celeria-aerated-celery-bowl",
+    "title": "yummy aerated malaysian celeria aerated-celery-bowl",
+    "tags": [
+      "gluten-free",
+      "malaysian",
+      "post-workout",
+      "vegan"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 27,
     "shard": "y"
   },
   {

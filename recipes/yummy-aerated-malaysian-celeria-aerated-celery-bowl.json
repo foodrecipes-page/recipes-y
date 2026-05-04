@@ -1,0 +1,114 @@
+{
+  "title": "yummy aerated malaysian celeria aerated-celery-bowl",
+  "description": "spicy, aerated, post-workout malaysian dish featuring celeriac, air-fry, satvik-friendly, served in a lacquerware bowl.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "air fryer oil",
+      "amount": "2 tbsp",
+      "notes": "such as coconut oil or avocado oil"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the celeriac into bite-sized pieces.",
+    "Rinse and dry the celeriac pieces with paper towels.",
+    "Heat the air fryer to 400°f (200°c).",
+    "Mix the minced ginger, garlic, chili flakes, lemon juice, salt, and black pepper in a small bowl.",
+    "Toss the celeriac pieces with the ginger-garlic mixture until they are evenly coated.",
+    "Air-fry the celeriac mixture for 10-12 minutes, or until tender and slightly caramelized.",
+    "Let the celeriac cool for a few minutes before serving.",
+    "Chop the cucumber and carrot into bite-sized pieces.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "This dish is best served immediately, but it can be refrigerated for up to a day if needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "malaysian",
+    "post-workout",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "yummy-aerated-malaysian-celeria-aerated-celery-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-aerated-malaysian-celeria-aerated-celery-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "celeriac",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "celeria",
+    "descriptor": "yummy aerated",
+    "dishForm": "aerated-celery-bowl"
+  }
+}

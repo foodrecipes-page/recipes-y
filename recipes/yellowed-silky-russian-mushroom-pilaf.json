@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Silky Russian Mushroom Pilaf",
+  "description": "A floral and silky Russian dish featuring mushrooms and lime juice, served in a stone bowl, perfect for a solo dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large stone bowl over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the arborio rice and cook for 1 minute, until lightly toasted.",
+    "Add the vegetable broth, lime juice, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover the bowl with a lid, and simmer for 20 minutes, until the rice is cooked and creamy.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "mushroom-lovers",
+    "one-pot",
+    "russian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "yellowed-silky-russian-mushroom-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-silky-russian-mushroom-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:28:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "lime juice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Yellowed Silky",
+    "dishForm": "Pilaf"
+  }
+}

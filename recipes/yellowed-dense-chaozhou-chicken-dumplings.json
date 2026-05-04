@@ -1,0 +1,108 @@
+{
+  "title": "Yellowed Dense Chaozhou Chicken Dumplings",
+  "description": "A sour and dense Chinese dish featuring almond flour, perfect for a diabetic-friendly date night, with a unique Chaozhou twist.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "sour mustard",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine chicken, almond flour, cornstarch, salt, and white pepper, and mix well.",
+    "Add rice vinegar, scallions, sesame oil, and water to the bowl, and mix until a dense dough forms.",
+    "Wrap the dough in plastic wrap, and refrigerate for 30 minutes.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Flatten each ball into a disk shape, and place a small spoonful of sour mustard in the center of each disk.",
+    "Fold the dough over the filling, and press the edges together to seal the dumpling.",
+    "Place the dumplings in a single layer in a sous-vide bag, and seal the bag.",
+    "Cook the dumplings in a water bath at 180 degrees Fahrenheit for 30 minutes.",
+    "Remove the dumplings from the bag, and serve hot with your favorite dipping sauce.",
+    "Brush the tops of the dumplings with beaten egg for a golden glaze."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 30,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chaozhou",
+    "chinese-food",
+    "date-night",
+    "diabetic-friendly",
+    "gluten-free",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "yellowed-dense-chaozhou-chicken-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-dense-chaozhou-chicken-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:22:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "almond flour",
+    "diet": "diabetic-friendly",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chaozhou",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellowed Dense",
+    "dishForm": "Dumplings"
+  }
+}

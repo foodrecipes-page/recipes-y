@@ -1,0 +1,97 @@
+{
+  "title": "Yummy Cajun Mediterranean Couscous Sushi",
+  "description": "A plant-based, Mediterranean-inspired sushi made with spiced couscous and fresh pickled vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "diced roasted red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cajun seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mixed pickled cucumber slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring vegetable broth to a rolling boil in a saucepan.",
+    "Remove from heat, stir in couscous, cover, and let rest for 5 minutes.",
+    "Fluff couscous with a fork, then stir in olive oil, Cajun seasoning, lemon juice, and chopped parsley.",
+    "Let the mixture cool to room temperature.",
+    "Place a thin layer of cooled couscous on parchment paper and press firmly with a rolling pin to form a 6 inch square.",
+    "Cut the square into 6 equal rectangles with a sharp knife.",
+    "Lay a rectangle of couscous, top with a spoonful of roasted bell pepper, a slice of pickled cucumber, and a sprinkle of capers, then roll tightly using the parchment paper.",
+    "Slice the roll into 6 bite-size pieces and arrange on a platter; optionally drizzle with extra olive oil and a squeeze of lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cajun",
+    "low-calorie",
+    "mediterranean",
+    "plant-based",
+    "quick-plate",
+    "sushi",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "yummy-cajun-mediterranean-couscous-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-cajun-mediterranean-couscous-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:05:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "cajun",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Couscous",
+    "descriptor": "Yummy Cajun",
+    "dishForm": "Sushi"
+  }
+}

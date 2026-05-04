@@ -937,6 +937,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-cajun-mediterranean-couscous-sushi",
+    "title": "Yummy Cajun Mediterranean Couscous Sushi",
+    "tags": [
+      "cajun",
+      "low-calorie",
+      "mediterranean",
+      "plant-based",
+      "quick-plate",
+      "sushi",
+      "vegan"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-charred-uruguayan-callaloo-stir-fry",
     "title": "Yummy Charred Uruguayan callaloo Stir-fry",
     "tags": [

@@ -1,0 +1,106 @@
+{
+  "title": "Yummy Tunisian Chestnut Grill",
+  "description": "A jammy, juicy, cozy Tunisian dish featuring cooked chestnuts glazed with aromatic spices and grilled to perfection on a robata grill.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh chestnuts",
+      "amount": "400g"
+    },
+    {
+      "name": "water",
+      "amount": "200ml",
+      "notes": "for blanching"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh mint, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Rinse the chestnuts and place them in a pot with 200ml water and 1 tsp salt.",
+    "Bring the water to a boil, then simmer the chestnuts for 20 minutes until they are tender.",
+    "Drain the chestnuts and peel them while still warm.",
+    "Pat the peeled chestnuts dry with a clean towel.",
+    "In a small bowl mix the olive oil, cumin, paprika, coriander, cayenne, mint, lemon juice, and parsley to create a glaze.",
+    "Brush the glaze over the chestnut shells, leaving some glaze in the hollows for extra flavor.",
+    "Place the glazed chestnuts on the preheated robata grill and cook for 5 minutes, turning occasionally, until the shells are crisp and the glaze is caramelized.",
+    "Remove the chestnuts from the grill and let them cool for a minute before serving.",
+    "Garnish with additional fresh mint and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chestnut",
+    "cozy",
+    "grill",
+    "jammy",
+    "robata-grill",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 11
+  },
+  "slug": "yummy-tunisian-chestnut-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-tunisian-chestnut-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:31:34Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "blanch",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chestnut",
+    "descriptor": "Yummy",
+    "dishForm": "Grill"
+  }
+}

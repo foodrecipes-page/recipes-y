@@ -1194,6 +1194,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-fluffy-turkish-soybean-sprout-revani",
+    "title": "Yummy Fluffy Turkish Soybean Sprout Revani",
+    "tags": [
+      "dessert",
+      "fluffy",
+      "kimchi",
+      "lacto-vegetarian",
+      "soybean-sprout",
+      "turkish",
+      "vegan"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-french-lettuce-casserole",
     "title": "Yummy French Lettuce Casserole",
     "tags": [

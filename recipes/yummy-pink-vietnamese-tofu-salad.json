@@ -1,0 +1,113 @@
+{
+  "title": "Yummy Pink Vietnamese Tofu Salad",
+  "description": "A bright, cultured and crumbly salad featuring pink tofu and crisp veggies, perfect for a sick day.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "200 g",
+      "notes": "pressed and diced"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamari sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "carrot",
+      "amount": "250 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "cucumber",
+      "amount": "200 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "100 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "millet noodles",
+      "amount": "50 g",
+      "notes": "cooked"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "minced garlic and ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 200°C.",
+    "Toss tofu cubes with pink food coloring and olive oil until evenly coated.",
+    "Place tofu in the air fryer basket and cook for 10 minutes, shaking halfway through, until golden and crisp.",
+    "Combine shredded carrot, sliced cucumber, and red cabbage in a large bowl.",
+    "Whisk together tamari sauce, lime juice, toasted sesame oil, and minced garlic and ginger to make the dressing.",
+    "Add cooked millet noodles to the vegetable mix and drizzle dressing over the mixture, tossing to coat.",
+    "Remove tofu from the air fryer and let cool for 2 minutes before adding to the salad.",
+    "Gently fold tofu into the salad until evenly distributed.",
+    "Sprinkle toasted sesame seeds over the top and give one final gentle toss.",
+    "Serve immediately on a talavera plate for a colorful presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "low-fat",
+    "macrobiotic",
+    "quick",
+    "salad",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "yummy-pink-vietnamese-tofu-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-pink-vietnamese-tofu-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:19:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "pink food colouring",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Yummy Pink",
+    "dishForm": "Salad"
+  }
+}

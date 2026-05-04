@@ -1,0 +1,104 @@
+{
+  "title": "Yummy Fluffy Chinese Chicken Grill",
+  "description": "A jammy, fluffy chicken dish grilled to perfection with ras el hanout and a date syrup glaze, perfect for a low‑FODMAP date night.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "400g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamari sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "green scallion, sliced",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Pat the chicken dry and season both sides with salt and pepper.",
+    "Whisk together sesame oil, ginger, tamari, date syrup, ras el hanout, and lemon juice.",
+    "Pour the sauce over the chicken, coat evenly, cover, and refrigerate for 30 minutes.",
+    "Preheat a robata grill or grill pan over medium‑high heat.",
+    "Remove chicken from the fridge and let it come to room temperature for 10 minutes.",
+    "Grill the chicken for 6–7 minutes per side, basting with remaining sauce, until internal temperature reaches 165°F (74°C).",
+    "Transfer the chicken to a plate, cover loosely with foil, and let rest for 5 minutes.",
+    "Slice the chicken into strips and drizzle with any leftover sauce from the grill.",
+    "Garnish with chopped cilantro and scallions before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "date-night",
+    "grilled",
+    "low-fodmap",
+    "quick",
+    "robata"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "yummy-fluffy-chinese-chicken-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-fluffy-chinese-chicken-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:17:19Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "robata-grill",
+    "primaryIngredient": "ras el hanout",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Yummy Fluffy",
+    "dishForm": "Grill"
+  }
+}

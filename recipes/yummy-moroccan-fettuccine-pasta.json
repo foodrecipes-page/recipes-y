@@ -1,0 +1,106 @@
+{
+  "title": "Yummy Moroccan Fettuccine Pasta",
+  "description": "A rich, aerated brunch-mood Moroccan fettuccine dish made with a silky sauce and a double-boiler technique, sugar-free friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fettuccine pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a rolling boil and cook 200g fettuccine until al dente, about 10 minutes.",
+    "While pasta cooks, heat 2 tbsp olive oil in a large skillet over medium heat until shimmering.",
+    "Add diced onion to the skillet and sauté until translucent, about 3 minutes, then stir in 2 minced garlic cloves and cook for 30 seconds.",
+    "Stir in 1 tsp each of ground ginger, cumin, coriander, and smoked paprika, cooking until fragrant, about 1 minute.",
+    "Mix in 2 tbsp tomato paste, then pour in 2 cups vegetable stock, bringing the mixture to a gentle simmer.",
+    "Reduce the heat to low and let the sauce thicken for 5 minutes, then transfer it to a bain-marie over simmering water, holding for 5 minutes to keep it silky.",
+    "Drain the cooked pasta, reserving 1 cup of pasta water, then toss the pasta into the warm sauce, adding reserved pasta water as needed to achieve desired consistency.",
+    "Finish with 2 tbsp chopped cilantro and 1 tbsp lemon juice, seasoning with salt and pepper to taste, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "breakfast",
+    "brunch",
+    "moroccan",
+    "pasta",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "yummy-moroccan-fettuccine-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-moroccan-fettuccine-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:20:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "bain-marie",
+    "primaryIngredient": "fettuccine",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "fettuccine",
+    "descriptor": "Yummy",
+    "dishForm": "Pasta"
+  }
+}

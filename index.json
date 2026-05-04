@@ -1860,6 +1860,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-moroccan-fettuccine-pasta",
+    "title": "Yummy Moroccan Fettuccine Pasta",
+    "tags": [
+      "bain-marie",
+      "breakfast",
+      "brunch",
+      "moroccan",
+      "pasta",
+      "sugar-free"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-nutty-norwegian-walnut-lasagna",
     "title": "Yummy Nutty Norwegian Walnut Lasagna",
     "tags": [

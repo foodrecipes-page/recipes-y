@@ -1,0 +1,109 @@
+{
+  "title": "Yellow Brown Greek Beef Stifado",
+  "description": "A traditional Greek dish made with beef, onions, and a sweet and spicy sauce, served as a solo dinner, this stifado is salty, snappy and ayurvedic-tamasic-friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large oven-safe pot over medium-high heat.",
+    "Add the beef strips and cook until browned, about 5 minutes.",
+    "Add the sliced onions and cook until they start to caramelize, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground allspice, ground cinnamon, salt, and black pepper, and stir to combine.",
+    "Add the red wine vinegar, tomato paste, and water, and stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Broil the stifado in the oven at 400 degrees Fahrenheit for 20 minutes.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stifado hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "beef-recipes",
+    "broiled-dishes",
+    "greek-cuisine",
+    "one-pot-meals"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellow-brown-greek-beef-stifado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-brown-greek-beef-stifado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:19:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "restaurant",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beef",
+    "descriptor": "Yellow Brown",
+    "dishForm": "Stifado"
+  }
+}

@@ -176,6 +176,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-brown-greek-beef-stifado",
+    "title": "Yellow Brown Greek Beef Stifado",
+    "tags": [
+      "ayurvedic-friendly",
+      "beef-recipes",
+      "broiled-dishes",
+      "greek-cuisine",
+      "one-pot-meals"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-canadian-chickpea-curry",
     "title": "Yellow Canadian Chickpea Curry",
     "tags": [

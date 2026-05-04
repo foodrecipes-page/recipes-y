@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Peppered Croatian Fish Stew",
+  "description": "A sweet and dense Croatian dish featuring black pepper, perfect for a weeknight dinner, this stew is made by poaching fish and vegetables in a hot pot vessel, and can be enjoyed with raw friendly ingredients on the side.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the white wine and fish stock in a hot pot vessel over medium heat.",
+    "Add the diced yellow bell pepper and cook until tender.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cod fish and cook until opaque and flaky.",
+    "Stir in the smoked paprika, salt, and black pepper.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Offer raw friendly ingredients like lemon wedges and crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "fish-stew",
+    "healthy-dinner",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yellow-peppered-croatian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-peppered-croatian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:04:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "black pepper",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "Yellow Peppered",
+    "dishForm": "Stew"
+  }
+}

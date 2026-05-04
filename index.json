@@ -580,6 +580,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-peppered-croatian-fish-stew",
+    "title": "Yellow Peppered Croatian Fish Stew",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "fish-stew",
+      "healthy-dinner",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-peppery-mexican-turkey-ham-burrito",
     "title": "Yellow Peppery Mexican Turkey Ham Burrito",
     "tags": [

@@ -81,6 +81,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-canadian-peas-stew",
+    "title": "Yeasty Canadian Peas Stew",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "crowd-pleaser",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 75,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-chewy-midnight-craving-dutch-ground-sugar-wrap",
     "title": "yeasty chewy midnight-craving Dutch ground sugar Wrap",
     "tags": [
@@ -148,6 +163,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-gelatine-polish-gelatin-bake",
+    "title": "Yeasty Gelatine Polish Gelatin Bake",
+    "tags": [
+      "comfort-food",
+      "gelatin-bake",
+      "no-garlic",
+      "no-onion",
+      "polish-dessert",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -244,6 +274,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-middle-eastern-enab-warak-enab",
+    "title": "Warak Enab",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-silky-korean-egg-rolls-gyoza",
     "title": "Yeasty Silky Korean Egg Rolls Gyoza",
     "tags": [
@@ -254,6 +298,21 @@
       "yeast-based"
     ],
     "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-snappy-italian-vine-leaves-panzanella-style-salad",
+    "title": "yeasty snappy italian vine leaves panzanella-style salad",
+    "tags": [
+      "one-pan",
+      "pescatarian",
+      "salad",
+      "summer",
+      "tuscan",
+      "weeknight"
+    ],
+    "cuisine": "tuscan",
     "totalTimeMin": 45,
     "shard": "y"
   },
@@ -2873,6 +2932,36 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-crunchy-peruvian-pappardelle-pasta-tiradito-style-pasta",
+    "title": "yummy crunchy peruvian pappardelle pasta tiradito style pasta",
+    "tags": [
+      "low-carb",
+      "meal-prep",
+      "quick-lunch",
+      "vegan-friendly"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-date-night-roast-duck-tagine",
+    "title": "Yummy Date Night Roast Duck Tagine",
+    "tags": [
+      "date-night",
+      "european",
+      "gluten-free",
+      "hearty",
+      "one-pan",
+      "rich",
+      "special-occasion",
+      "vegan-friendly"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 80,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-dense-chinese-chicken-buddha-jumps",
     "title": "Yummy Dense Chinese Chicken Buddha Jumps",
     "tags": [
@@ -2886,6 +2975,18 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-double-fried-south-indian-peanuts-rasam",
+    "title": "yummy double-fried South Indian peanuts Rasam",
+    "tags": [
+      "chewy-textured",
+      "comfort-food",
+      "south-indian"
+    ],
+    "cuisine": "South Indian",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -4172,6 +4273,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 135,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-velvety-indian-chicken-korma",
+    "title": "Yummy Velvety Indian Chicken Korma",
+    "tags": [
+      "chicken",
+      "comfort-food",
+      "dairy-free",
+      "easy-to-make",
+      "indian",
+      "one-pan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

@@ -1,0 +1,119 @@
+{
+  "title": "Yeasty Canadian Peas Stew",
+  "description": "A comforting and filling Canadian dish featuring split peas, double-fried chicken, and a hint of yeast, perfect for a cold winter night. This recipe is Jain-friendly and serves as a great crowd-pleaser.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Split Peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Double-Fried Chicken",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces before adding to stew."
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop into 1-inch pieces."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chop into 1-inch pieces."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": "Active dry yeast."
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded cheddar or mozzarella."
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "For serving."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted."
+    }
+  ],
+  "instructions": [
+    "Combine split peas, carrots, onions, garlic, and yeast in a large pot.",
+    "Add vegetable broth, salt, and black pepper. Stir to combine.",
+    "Bring mixture to a boil, then reduce heat to medium-low and simmer for 20 minutes.",
+    "Add double-fried chicken to the pot and stir to combine.",
+    "Continue to simmer for an additional 10 minutes or until the chicken is heated through.",
+    "Preheat the oven to 375°F (190°C).",
+    "Transfer the stew to a baking dish and top with shredded cheese.",
+    "Bake in the preheated oven for 10-15 minutes or until the cheese is melted and bubbly.",
+    "Serve hot with melted butter, bread, and a side salad.",
+    "Cook chicken in batches in a skillet with oil until cooked through. Double-fry by deep-frying until crispy, then baking in the oven for an additional 10 minutes.",
+    "Shred the cooked chicken into bite-sized pieces."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "crowd-pleaser",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 60,
+    "carbs": 150,
+    "fat": 30
+  },
+  "slug": "yeasty-canadian-peas-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-canadian-peas-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:58Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "split peas",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "peas",
+    "descriptor": "yeasty",
+    "dishForm": "stew"
+  }
+}

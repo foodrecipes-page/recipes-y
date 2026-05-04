@@ -1,0 +1,94 @@
+{
+  "title": "yummy crunchy peruvian pappardelle pasta tiradito style pasta",
+  "description": "bitter crunchy meal-prep peruvian dish featuring pappardelle pasta, nuka-pickle, vegan-friendly, form=tiradito, vessel=wooden-board",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "300g"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "200g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "90ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "60ml"
+    },
+    {
+      "name": "ginger",
+      "amount": "20g"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "20g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "cook pappardelle pasta according to package instructions",
+    "mix nuka-pickle, lemon juice, garlic, soy sauce, ginger, chili flakes, and salt in a bowl",
+    "combine cooked pappardelle pasta and nuka-pickle mixture",
+    "top with green onions and sesame seeds",
+    "serve immediately and refrigerate for later use"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "meal-prep",
+    "quick-lunch",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "yummy-crunchy-peruvian-pappardelle-pasta-tiradito-style-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crunchy-peruvian-pappardelle-pasta-tiradito-style-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pappardelle pasta",
+    "descriptor": "Yummy Crunchy",
+    "dishForm": "Tiradito Style Pasta"
+  }
+}

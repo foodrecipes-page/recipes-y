@@ -1,0 +1,124 @@
+{
+  "title": "yeasty snappy italian vine leaves panzanella-style salad",
+  "description": "nourishing, filling salad filled with the flavors of tuscany, perfect for a weeknight dinner. this pescatarian salad combines crunchy vine leaves, creamy mantecare, and juicy tomatoes in a tangy vinaigrette.",
+  "cuisine": "tuscan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "malfada pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "fregula pasta",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "anchovies",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the oven to 375f (190c).",
+    "blanch the vine leaves in boiling water for 2 minutes, then rinse with cold water.",
+    "cook the malfada and fregula pasta according to the package instructions, drain and set aside.",
+    "in a large bowl, whisk together the olive oil, red wine vinegar, salt, and a pinch of black pepper.",
+    "add the cherry tomatoes, garlic, and anchovies to the bowl and toss to combine.",
+    "add the cooked pasta to the bowl and toss to combine.",
+    "add the blanched vine leaves to the bowl and toss to combine.",
+    "drizzle the extra virgin olive oil and lemon juice over the salad and toss to combine.",
+    "sprinkle the grana padano cheese over the salad and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "pescatarian",
+    "salad",
+    "summer",
+    "tuscan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 30,
+    "carbs": 70,
+    "fat": 40
+  },
+  "slug": "yeasty-snappy-italian-vine-leaves-panzanella-style-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-snappy-italian-vine-leaves-panzanella-style-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:19Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "vine leaves",
+    "diet": "pescatarian",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vine leaves",
+    "descriptor": "yeasty snappy",
+    "dishForm": "Panzanella-Style Salad"
+  }
+}

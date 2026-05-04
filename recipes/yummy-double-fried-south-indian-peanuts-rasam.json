@@ -1,0 +1,116 @@
+{
+  "title": "yummy double-fried South Indian peanuts Rasam",
+  "description": "A comforting and briny Indian dish featuring peanuts, inspired by the Mediterranean diet, served in a scallop shell.",
+  "cuisine": "South Indian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "curry leaves",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon coconut oil in a pan over medium heat.",
+    "Add mustard seeds, cumin seeds, coriander seeds, and fenugreek seeds, and saut\u00199 until seeds crackle.",
+    "Add chili peppers and curry leaves, and saut\u00199 for 1 minutes.",
+    "Add peanuts and saut\u00199 for 3-4 minutes until they start to brown.",
+    "Add tamarind paste, salt, and water, and mix well.",
+    "Bring mixture to a boil, then reduce heat to low and simmer for 15 minutes.",
+    "Heat 1 tablespoon ghee in a separate pan over medium heat.",
+    "Add the cooked peanut mixture and stir well.",
+    "Season with salt to taste.",
+    "Serve in a scallop shell and garnish with coriander leaves.",
+    "Double-fry the peanuts by frying them twice at high heat, once raw and once cooked, to achieve the signature crunchy texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy-textured",
+    "comfort-food",
+    "south-indian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 26
+  },
+  "slug": "yummy-double-fried-south-indian-peanuts-rasam",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-double-fried-south-indian-peanuts-rasam",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "peanuts",
+    "diet": "mediterranean",
+    "region": "south",
+    "cuisineAdjective": "South Indian",
+    "mainIngredient": "peanuts",
+    "descriptor": "yummy double-fried",
+    "dishForm": "Rasam"
+  }
+}

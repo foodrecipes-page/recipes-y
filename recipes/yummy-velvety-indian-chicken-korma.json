@@ -1,0 +1,104 @@
+{
+  "title": "Yummy Velvety Indian Chicken Korma",
+  "description": "A spicy and creamy Indian-inspired dish perfect for a monsoon evening, made dairy-free friendly by using non-dairy milk and yogurt. This recipe adds a unique twist with the addition of Christmas pudding, which helps to balance the spiciness of the dish.",
+  "cuisine": "Indian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "non-dairy milk (such as almond or soy milk)",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "1 medium onion",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Christmas pudding",
+      "amount": "1/4 cup",
+      "notes": "cubed, soaked in rum (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it's lightly browned, about 5 minutes.",
+    "Add the grated ginger and cook for another minute, stirring constantly.",
+    "Add the garam masala, cumin, smoked paprika, and salt. Cook for 1 minute, stirring constantly.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Pour in the non-dairy milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let it cook for 10-15 minutes or until the chicken is cooked through.",
+    "Stir in the soaked Christmas pudding (if using) and cook for another 2 minutes.",
+    "Serve the korma hot, garnished with fresh cilantro leaves (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comfort-food",
+    "dairy-free",
+    "easy-to-make",
+    "indian",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "yummy-velvety-indian-chicken-korma",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-velvety-indian-chicken-korma",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:55Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "flambe",
+    "primaryIngredient": "christmas pudding",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yummy Velvety",
+    "dishForm": "Korma"
+  }
+}

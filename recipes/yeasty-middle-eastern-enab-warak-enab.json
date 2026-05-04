@@ -1,0 +1,111 @@
+{
+  "title": "Warak Enab",
+  "description": "Cozy Middle Eastern dish featuring a yeasty, cheesy center, served in a hot pot. The binchotan-charcoal adds a smoky flavor to the dish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Whole Grain Mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Molten Labneh Cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan Charcoal",
+      "amount": "1 piece",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast and warm water. Let it sit for 5 minutes, until frothy.",
+    "In a large mixing bowl, combine flour, salt, and whole grain mustard. Mix well.",
+    "Add the yeast mixture to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes, until smooth.",
+    "Transfer the dough to a lightly floured surface and shape into a sphere.",
+    "Place the dough in a hot pot and cover with a lid.",
+    "Preheat the binchotan charcoal until hot, and place it on top of the dough.",
+    "Reduce heat to medium-low and cook for 30 minutes, or until the dough has doubled in size.",
+    "Remove the charcoal and place the labneh cheese in the center of the dough.",
+    "Cover the hot pot and cook for an additional 10 minutes, or until the cheese is melted and the dough is golden brown.",
+    "Serve the Warak Enab hot, garnished with chopped parsley and garlic."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 22
+  },
+  "slug": "yeasty-middle-eastern-enab-warak-enab",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-middle-eastern-enab-warak-enab",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:06Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Enab",
+    "descriptor": "Yeasty",
+    "dishForm": "Warak Enab"
+  }
+}

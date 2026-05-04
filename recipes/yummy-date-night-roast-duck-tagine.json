@@ -1,0 +1,129 @@
+{
+  "title": "Yummy Date Night Roast Duck Tagine",
+  "description": "A delicious Egyptian-inspired dish featuring roast duck, dates, and cider. This meal is perfect for a date night or special occasion.",
+  "cuisine": "Egyptian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck (2 lbs)",
+      "amount": "1 whole",
+      "notes": "fresh duck from your butcher"
+    },
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "pitted dates"
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cider",
+      "amount": "1 cup",
+      "notes": "dry cider"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Stock",
+      "amount": "2 cups",
+      "notes": "chicken or vegetable"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 tsp",
+      "notes": "dried saffron"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Season the duck with salt and black pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Add the chopped onions and cook until golden brown, about 5 minutes.",
+    "Add the minced garlic and ground ginger and cook for 1 minute.",
+    "Add the chopped almonds and cook for 1 minute.",
+    "Add the dates, cider, orange juice, and stock to the pot. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Roast the duck in the oven for 30 minutes, then baste it with the juices from the pot.",
+    "Return the duck to the pot and continue roasting for another 20-25 minutes, or until the meat is cooked through and the skin is crispy.",
+    "Remove the pot from the oven and stir in the ground cinnamon and saffron threads.",
+    "Let the dish rest for 10 minutes before serving.",
+    "Serve the duck with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "european",
+    "gluten-free",
+    "hearty",
+    "one-pan",
+    "rich",
+    "special-occasion",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "yummy-date-night-roast-duck-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-date-night-roast-duck-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "cider",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "duck",
+    "descriptor": "yummy",
+    "dishForm": "Tagine"
+  }
+}

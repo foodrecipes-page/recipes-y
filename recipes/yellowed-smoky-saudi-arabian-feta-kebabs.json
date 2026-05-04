@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Smoky Saudi Arabian Feta Kebabs",
+  "description": "Savory and springy kebabs featuring feta, binchotan-charcoal, and traditional Saudi Arabian flavors, perfect for adventurous eaters, this dish is onion and garlic free. The smoky flavor from the binchotan-charcoal adds a unique twist to the traditional kebabs.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "zaatar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread cherry tomatoes onto skewers.",
+    "Crumble feta cheese into a bowl and mix with zaatar, salt, and black pepper.",
+    "Brush pita bread slices with olive oil and grill for 2 minutes per side.",
+    "Place the skewers on the grill and cook for 5 minutes per side.",
+    "Smoke the kebabs using binchotan charcoal for 2 minutes.",
+    "Serve the kebabs on top of the grilled pita bread with a squeeze of lemon juice.",
+    "Garnish with additional zaatar and cherry tomatoes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "feta",
+    "grilled",
+    "kebabs",
+    "saudi-arabian",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "yellowed-smoky-saudi-arabian-feta-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-saudi-arabian-feta-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:48:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "feta",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "feta",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Kebabs"
+  }
+}

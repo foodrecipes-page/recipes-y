@@ -1,0 +1,106 @@
+{
+  "title": "Yellow Spiced Ethiopian Rigatoni Shiro",
+  "description": "A cultured and romantic Ethiopian dish featuring rigatoni, katsuramuki-cut vegetables, and a blend of aromatic spices, made Whole30-friendly and served in a traditional shiro form.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni according to the package instructions until al dente.",
+    "In a large skillet, heat the coconut oil over medium heat and saute the katsuramuki-cut onion until translucent.",
+    "Add the minced garlic and grated ginger to the skillet and cook for an additional 2 minutes, stirring constantly.",
+    "Stir in the berbere spice and turmeric, and cook for 1 minute, until fragrant.",
+    "Add the cooked rigatoni to the skillet, tossing to combine with the spice mixture.",
+    "Season with salt and black pepper to taste.",
+    "In a small bowl, whisk together the chicken broth and a pinch of salt, then pour the mixture over the rigatoni and spice mixture.",
+    "Simmer the mixture over low heat for 10 minutes, stirring occasionally, until the liquid has been absorbed and the rigatoni is coated in the spicy shiro sauce.",
+    "Serve the Yellow Spiced Ethiopian Rigatoni Shiro hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "gluten-free",
+    "one-pot",
+    "spicy",
+    "vegetarian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "yellow-spiced-ethiopian-rigatoni-shiro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spiced-ethiopian-rigatoni-shiro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:37:03Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "rigatoni",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "rigatoni",
+    "descriptor": "Yellow Spiced",
+    "dishForm": "Shiro"
+  }
+}

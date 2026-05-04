@@ -432,6 +432,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spiced-ethiopian-rigatoni-shiro",
+    "title": "Yellow Spiced Ethiopian Rigatoni Shiro",
+    "tags": [
+      "african-cuisine",
+      "gluten-free",
+      "one-pot",
+      "spicy",
+      "vegetarian",
+      "whole30"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spiced-indian-lentils-curry",
     "title": "Yellow Spiced Indian Lentils Curry",
     "tags": [
@@ -1025,6 +1040,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-cheesy-dutch-shrimp-gratin",
+    "title": "Yummy Cheesy Dutch Shrimp Gratin",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

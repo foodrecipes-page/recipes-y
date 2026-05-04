@@ -1,0 +1,120 @@
+{
+  "title": "Yummy Sweet Jamaican Pork Roast",
+  "description": "A citrusy, kid-friendly Jamaican pork roast with a sweet marzipan glaze that satisfies both palate and temple guidelines.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless pork shoulder roast",
+      "amount": "1.5 kg",
+      "notes": "trim fat and rind"
+    },
+    {
+      "name": "Jamaican allspice (pimento)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "4 cloves",
+      "notes": "about 4 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "optional, replace with oat sauce if vegan"
+    },
+    {
+      "name": "fresh orange juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "marzipan, crushed",
+      "amount": "2 tbsp",
+      "notes": "use pure almond paste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the pork roast with allspice, ginger, cinnamon, salt, pepper, and minced garlic; let rest 15 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "citrusy",
+    "family-dinner",
+    "jamaican",
+    "kid-friendly",
+    "marzipan",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yummy-sweet-jamaican-pork-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-sweet-jamaican-pork-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:15:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "marzipan",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Pork",
+    "descriptor": "Yummy Sweet",
+    "dishForm": "Roast"
+  }
+}

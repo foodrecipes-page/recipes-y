@@ -594,6 +594,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-mediterranean-grape-leaves-wrap",
+    "title": "Yummy Mediterranean Grape Leaves Wrap",
+    "tags": [
+      "charred",
+      "flexitarian",
+      "grape-leaves",
+      "mirepoix",
+      "sick-day",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-peppery-russian-berries-salad",
     "title": "Yummy Peppery Russian Berries Salad",
     "tags": [

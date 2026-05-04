@@ -1,0 +1,115 @@
+{
+  "title": "Yummy Mediterranean Grape Leaves Wrap",
+  "description": "Charred, pillowy wraps that blend grape leaves with a mirepoix base, perfect for a quick flexitarian lunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grape leaves, jar",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Rinse grape leaves and pat them dry.",
+    "Heat olive oil in a skillet and sauté onion, carrot, celery, and garlic until softened.",
+    "Add rice and stir for 2 minutes.",
+    "Pour in chicken broth, add lemon juice, salt, and pepper, bring to a boil, then reduce heat and simmer until rice is cooked.",
+    "Fold the cooked mixture into each grape leaf, forming a wrap, and place them seam side down in a baking dish.",
+    "Brush the tops with a little olive oil and bake for 20 minutes until the leaves are charred and the wraps are puffed.",
+    "Let the wraps rest for 5 minutes, then garnish with fresh parsley.",
+    "Serve warm.",
+    "Optional: drizzle with extra lemon juice before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "flexitarian",
+    "grape-leaves",
+    "mirepoix",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "yummy-mediterranean-grape-leaves-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-mediterranean-grape-leaves-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:27:10Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "grape leaves",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "grape leaves",
+    "descriptor": "Yummy",
+    "dishForm": "Wrap"
+  }
+}

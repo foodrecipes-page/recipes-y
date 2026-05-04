@@ -1,0 +1,112 @@
+{
+  "title": "Yummy Rich Indian Chicken Biryani",
+  "description": "A nostalgic north Indian biryani packed with gooey spice, star anise, and a mother‑sauce base, served in individual mini cocottes.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs, boneless",
+      "amount": "500g",
+      "notes": "diced"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "200g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "150g",
+      "notes": "room temp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "100g",
+      "notes": "room temp"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "spice mix",
+      "amount": "1 tsp cumin, 1 tsp coriander, 1 tsp garam masala, 1/2 tsp turmeric, 1 tsp red chili powder, 1 tsp salt"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together yogurt, tomato puree, garlic, ginger, and spice mix until smooth.",
+    "Add diced chicken to the bowl, coat thoroughly, and let marinate for 30 minutes at room temperature.",
+    "Heat oil in a heavy skillet over medium‑high heat; add sliced onion and sauté until golden brown, about 5 minutes.",
+    "Pour the marinated chicken and its sauce into the skillet, stir and cook for 8 minutes until the chicken is almost done.",
+    "Rinse the rice until water runs clear, then add it to the skillet and stir to coat with the sauce.",
+    "Add 200 ml water to the skillet, bring to a gentle boil, then reduce heat to low, cover, and simmer for 15 minutes until the rice is cooked and liquid absorbed.",
+    "Sprinkle star anise over the top, cover with foil, and let the dish steam for an additional 5 minutes off the heat.",
+    "Remove the foil, fluff the rice gently with a fork, and stir in the chopped cilantro.",
+    "Transfer the contents into individual mini cocottes, sealing each with a metal lid.",
+    "Serve the biryani hot, optionally with a side of raita or yogurt dip."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "high-protein",
+    "mini-cocotte",
+    "no-oven",
+    "quick-meal",
+    "single-pot",
+    "star-anise"
+  ],
+  "nutrition": {
+    "calories": 1840,
+    "protein": 112,
+    "carbs": 60,
+    "fat": 55
+  },
+  "slug": "yummy-rich-indian-chicken-biryani",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-rich-indian-chicken-biryani",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:02:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "star anise",
+    "diet": "dash",
+    "region": "north",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Yummy Rich",
+    "dishForm": "Biryani"
+  }
+}

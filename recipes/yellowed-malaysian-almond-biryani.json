@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Malaysian Almond Biryani",
+  "description": "A salty, aerated, and cozy Malaysian dish featuring ground almonds, this biryani is a unique twist on traditional recipes, dehydrated to perfection and ayurvedic-rajasic-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large pan, heat the ghee over medium heat and saute the onion until it is translucent.",
+    "Add the garlic and cook for an additional minute, stirring constantly.",
+    "In a separate pot, bring 4 cups of water to a boil and add the basmati rice, cooking until it is 75% done.",
+    "In a large bowl, combine the cooked rice, ground almonds, turmeric, salt, and black pepper, mixing well.",
+    "Add the sauteed onion and garlic to the rice mixture and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and dehydrate in the oven for 30 minutes.",
+    "Remove the biryani from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dehydrated",
+    "gluten-free",
+    "malaysian-cuisine",
+    "one-pan",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "yellowed-malaysian-almond-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-malaysian-almond-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:02:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "dehydrate",
+    "primaryIngredient": "ground almonds",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "almonds",
+    "descriptor": "Yellowed",
+    "dishForm": "Biryani"
+  }
+}

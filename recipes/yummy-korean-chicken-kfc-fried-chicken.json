@@ -1,0 +1,104 @@
+{
+  "title": "Yummy Korean Chicken KFC Fried Chicken",
+  "description": "Crunchy, jammy fried chicken with a tomato ketchup glaze that satisfies midnight cravings.",
+  "cuisine": "korean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "600g"
+    },
+    {
+      "name": "low-fat buttermilk",
+      "amount": "120ml"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "60g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "60g"
+    },
+    {
+      "name": "korean spice mix",
+      "amount": "15g"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "30g"
+    },
+    {
+      "name": "honey",
+      "amount": "15g"
+    },
+    {
+      "name": "salt",
+      "amount": "3g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "5ml"
+    },
+    {
+      "name": "scallions",
+      "amount": "10g",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Cut the chicken into katsuramuki cut strips and pat dry with paper towels.",
+    "Whisk the buttermilk with 1 teaspoon salt and 1/2 teaspoon pepper, then soak the chicken for 10 minutes.",
+    "In a shallow bowl mix cornstarch, flour, and the Korean spice mix; dip each piece in the buttermilk, then dredge in the flour mixture, tapping off excess.",
+    "Heat the comal over medium heat and add sesame oil until shimmering.",
+    "Lay the coated chicken on the comal, cooking 4 minutes per side until golden and crispy.",
+    "In a separate bowl combine the tomato ketchup and honey; brush the glaze over the chicken during the last 2 minutes of cooking.",
+    "Remove the chicken from the comal, let rest 3 minutes, then sprinkle with chopped scallions.",
+    "Serve hot as a satisfying midnight snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "fried",
+    "korean",
+    "low-fat",
+    "one-pan",
+    "snack",
+    "tomato-ketchup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "yummy-korean-chicken-kfc-fried-chicken",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-korean-chicken-kfc-fried-chicken",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:02:39Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "low-fat",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Yummy",
+    "dishForm": "KFC Fried Chicken"
+  }
+}

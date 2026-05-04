@@ -1264,6 +1264,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-malaysian-almond-biryani",
+    "title": "Yellowed Malaysian Almond Biryani",
+    "tags": [
+      "dehydrated",
+      "gluten-free",
+      "malaysian-cuisine",
+      "one-pan",
+      "vegetarian-option"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-nutty-malaysian-chicken-satay",
     "title": "Yellowed Nutty Malaysian Chicken Satay",
     "tags": [
@@ -2649,6 +2663,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-korean-chicken-kfc-fried-chicken",
+    "title": "Yummy Korean Chicken KFC Fried Chicken",
+    "tags": [
+      "crunchy",
+      "fried",
+      "korean",
+      "low-fat",
+      "one-pan",
+      "snack",
+      "tomato-ketchup"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-kyushu-tomatoes-inari-sushi",
     "title": "Yummy Kyushu Tomatoes Inari Sushi",
     "tags": [
@@ -2870,6 +2900,22 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-rich-indian-chicken-biryani",
+    "title": "Yummy Rich Indian Chicken Biryani",
+    "tags": [
+      "aromatic",
+      "high-protein",
+      "mini-cocotte",
+      "no-oven",
+      "quick-meal",
+      "single-pot",
+      "star-anise"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {

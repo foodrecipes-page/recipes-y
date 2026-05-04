@@ -1,0 +1,119 @@
+{
+  "title": "yummy energizing mediterranean coriander bowl",
+  "description": "resinous, glassy-jelly mediterranean dish featuring ground coriander, poached eggs and keto-friendly ingredients. Perfect for a quick breakfast or snack.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground coriander",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "poached eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large skillet over medium heat.",
+    "add minced garlic and cook until fragrant, about 1 minute.",
+    "add diced tomatoes and cook for 2-3 minutes.",
+    "stir in ground coriander and cook for 1 minute.",
+    "make 4 wells in the mixture and crack an egg into each well.",
+    "cover the skillet and cook until the whites are set and the yolks are cooked to desired doneness, about 5-7 minutes.",
+    "transfer the eggs to a plate and sprinkle with feta cheese, chopped parsley, lemon juice, salt, black pepper and red pepper flakes.",
+    "serve the eggs over the tomato mixture and garnish with chopped fresh mint."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yummy-energizing-mediterranean-coriander-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-energizing-mediterranean-coriander-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:49Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "ground coriander",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "coriander",
+    "descriptor": "yummy energizing",
+    "dishForm": "Bowl"
+  }
+}

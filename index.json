@@ -2056,6 +2056,22 @@
     "shard": "y"
   },
   {
+    "slug": "yogurt-glazed-basque-french-kielbasa-clafoutis",
+    "title": "Yogurt-Glazed Basque-French Kielbasa Clafoutis",
+    "tags": [
+      "basque-french",
+      "breakfast",
+      "dinner",
+      "high-protein",
+      "lunch",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Basque-French",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yogurt-topped-argentinian-mascarpone-empanadas",
     "title": "Yogurt-Topped Argentinian Mascarpone Empanadas",
     "tags": [
@@ -2788,6 +2804,21 @@
       "vegetarian"
     ],
     "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-energizing-mediterranean-coriander-bowl",
+    "title": "yummy energizing mediterranean coriander bowl",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "low-carb",
+      "mediterranean"
+    ],
+    "cuisine": "mediterranean",
     "totalTimeMin": 25,
     "shard": "y"
   },

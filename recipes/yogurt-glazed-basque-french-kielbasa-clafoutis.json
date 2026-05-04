@@ -1,0 +1,112 @@
+{
+  "title": "Yogurt-Glazed Basque-French Kielbasa Clafoutis",
+  "description": "A spicy, high-protein Basque-French dish featuring kielbasa in a yogurt-based glaze, served in a traditional dolsot stone bowl.",
+  "cuisine": "Basque-French",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kielbasa sausage",
+      "amount": "8 oz",
+      "notes": "look for a spicy variety"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat for best results"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried, crushed"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": "chilled, for serving"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the yogurt, honey, mustard, garlic, thyme, and flour until smooth.",
+    "Add the sliced kielbasa to the bowl and toss to coat with the yogurt mixture.",
+    "Transfer the kielbasa mixture to a dolsot stone bowl and drizzle with coconut oil.",
+    "Bake for 20-25 minutes, or until the kielbasa is caramelized and the yogurt glaze is set.",
+    "While the kielbasa is baking, toast the coconut cream in a small saucepan over medium heat, stirring constantly, until it turns a deep golden brown.",
+    "Remove the kielbasa from the oven and top with the toasted coconut cream, sea salt, and black pepper.",
+    "Serve immediately, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basque-french",
+    "breakfast",
+    "dinner",
+    "high-protein",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 50
+  },
+  "slug": "yogurt-glazed-basque-french-kielbasa-clafoutis",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-glazed-basque-french-kielbasa-clafoutis",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "kielbasa",
+    "diet": "high-protein",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque-French",
+    "mainIngredient": "Kielbasa",
+    "descriptor": "Yogurt-Glazed",
+    "dishForm": "Clafoutis"
+  }
+}

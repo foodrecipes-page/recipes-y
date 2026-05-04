@@ -2649,6 +2649,23 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-german-flaxseed-stew",
+    "title": "Yummy German Flaxseed Stew",
+    "tags": [
+      "flaxseed",
+      "german-inspired",
+      "no-garlic",
+      "no-onion",
+      "one-pot",
+      "quick",
+      "sick-day",
+      "vegan"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-german-quinoa-wrap",
     "title": "Yummy German Quinoa Wrap",
     "tags": [

@@ -1,0 +1,109 @@
+{
+  "title": "Yummy German Flaxseed Stew",
+  "description": "A light, floral stew packed with flaxseeds and fermented soybean paste, perfect for a sick day and free of onion and garlic.",
+  "cuisine": "German",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried flaxseeds",
+      "amount": "1 cup",
+      "notes": "to be added at the end"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "potato",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegan white wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced carrot and potato and sauté for 5 minutes until they begin to soften.",
+    "Pour in the vegetable broth and stir in the fermented soybean paste, white wine vinegar, thyme, dill, salt, and pepper.",
+    "Bring the mixture to a gentle boil, then reduce heat and simmer uncovered for 15 minutes.",
+    "Add the chopped kale and continue simmering for another 5 minutes until the kale is tender.",
+    "Stir in the flaxseeds and cook for an additional 5 minutes, letting the seeds absorb the broth and thicken the stew slightly.",
+    "Taste and adjust seasoning if needed, then serve hot.",
+    "Serve one portion in each of five bowls, optionally garnishing with a sprinkle of fresh dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 5,
+  "difficulty": "medium",
+  "tags": [
+    "flaxseed",
+    "german-inspired",
+    "no-garlic",
+    "no-onion",
+    "one-pot",
+    "quick",
+    "sick-day",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "yummy-german-flaxseed-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-german-flaxseed-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:49:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "ferment-jang",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Yummy",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Yummy Algerian Dates Paella",
+  "description": "A fragrant, herb-infused paella with chewy dates and a swirl of sugar‑free ice cream, served from a traditional paella pan.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "short grain rice",
+      "amount": "2 cups",
+      "notes": "paella rice"
+    },
+    {
+      "name": "dates, pitted",
+      "amount": "1 cup",
+      "notes": "neat, chewy"
+    },
+    {
+      "name": "infused olive oil",
+      "amount": "2 tbsp",
+      "notes": "rosemary or thyme flavor"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 tsp",
+      "notes": "soaked in a tablespoon of warm almond milk"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar‑free vanilla ice cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the infused olive oil in a paella pan over medium heat until shimmering.",
+    "Add the rice and stir quickly to coat each grain with oil, then pour in the saffron‑infused almond milk.",
+    "Add the dates, salt, pepper, and lemon zest, stirring to combine.",
+    "Cover the pan, reduce heat to low, and cook for 15 minutes, stirring occasionally.",
+    "Remove the lid, and continue cooking for an additional 10 minutes until the rice is tender and liquid absorbed.",
+    "Swirl in the sugar‑free ice cream until it melts into a creamy sauce that coats the paella.",
+    "Garnish with chopped parsley and serve hot straight from the pan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "dessert",
+    "herb-infused",
+    "one-pan",
+    "paella",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 7
+  },
+  "slug": "yummy-algerian-dates-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-algerian-dates-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:06:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "ice cream",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Dates",
+    "descriptor": "Yummy",
+    "dishForm": "Paella"
+  }
+}

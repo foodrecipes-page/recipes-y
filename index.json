@@ -567,6 +567,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-garlic-spanish-chicken-paella",
+    "title": "Yellow Garlic Spanish Chicken Paella",
+    "tags": [
+      "garlic-lovers",
+      "jain-friendly",
+      "one-pan",
+      "romantic-dinner",
+      "spanish-cuisine"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-glazed-british-lamb-sunday-roast",
     "title": "Yellow Glazed British Lamb Sunday Roast",
     "tags": [

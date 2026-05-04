@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Garlic Spanish Chicken Paella",
+  "description": "A garlicky and romantic Spanish dish featuring chicken, full fat yogurt, and beurre-monte, cooked to perfection in a kazan cauldron.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "full fat yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the beurre-monte in the kazan cauldron over medium heat.",
+    "Add the garlic and cook until fragrant.",
+    "Add the chicken breast and cook until browned on all sides.",
+    "Add the saffron threads, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the full fat yogurt and lemon juice, and stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes.",
+    "Remove the cauldron from the heat and let it rest for 5 minutes.",
+    "Serve the paella hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic-lovers",
+    "jain-friendly",
+    "one-pan",
+    "romantic-dinner",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-garlic-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-garlic-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:14:46Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Garlic",
+    "dishForm": "Paella"
+  }
+}

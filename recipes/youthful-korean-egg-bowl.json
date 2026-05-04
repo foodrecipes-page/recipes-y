@@ -1,0 +1,102 @@
+{
+  "title": "Youthful Korean Egg Bowl",
+  "description": "A fresh, bouncy‑qq one‑pot Korean rice bowl with a smoky note from binchotan charcoal, eggs, and optional serrano ham.",
+  "cuisine": "Korean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "short grain, rinsed and drained"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "light"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "serrano ham",
+      "amount": "2 strips",
+      "notes": "optional, omit for strict ovo-vegetarian"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 disc",
+      "notes": "to be placed in pan for smoky aroma"
+    }
+  ],
+  "instructions": [
+    "Place the binchotan charcoal disc in a small pan and preheat over medium heat for 2 minutes.",
+    "Add the cooked rice to the pan and stir until the rice is heated through and slightly toasted.",
+    "Whisk together the gochujang, soy sauce, sesame oil, and black pepper in a bowl.",
+    "Pour the sauce mixture over the rice and stir to coat evenly.",
+    "Fold in the chopped scallions and optional serrano ham strips.",
+    "Create two wells in the rice and crack an egg into each well.",
+    "Cover the pan with a lid and cook until the egg whites are set but yolks remain runny, about 3 minutes.",
+    "Serve the bowl immediately, garnishing with extra scallions if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "one-pot",
+    "ovo-vegetarian",
+    "quick",
+    "rice",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "youthful-korean-egg-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-korean-egg-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:49:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "serrano ham",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "egg",
+    "descriptor": "Youthful",
+    "dishForm": "Bowl"
+  }
+}

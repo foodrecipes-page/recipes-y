@@ -800,6 +800,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-caramelized-canadian-blueberries-skillet",
+    "title": "Yellowed Caramelized Canadian Blueberries Skillet",
+    "tags": [
+      "anti-inflammatory",
+      "canadian-cuisine",
+      "date-night",
+      "gluten-free",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-creamy-german-lamb-stew",
     "title": "Yellowed Creamy German Lamb Stew",
     "tags": [
@@ -1376,6 +1391,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 65,
+    "shard": "y"
+  },
+  {
+    "slug": "youthful-korean-egg-bowl",
+    "title": "Youthful Korean Egg Bowl",
+    "tags": [
+      "korean",
+      "one-pot",
+      "ovo-vegetarian",
+      "quick",
+      "rice",
+      "smoky"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {

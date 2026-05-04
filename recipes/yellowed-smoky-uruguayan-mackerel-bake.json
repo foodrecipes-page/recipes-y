@@ -1,0 +1,107 @@
+{
+  "title": "Yellowed Smoky Uruguayan Mackerel Bake",
+  "description": "A cultured and adventurous Uruguayan dish featuring smoked mackerel, this keto-friendly bake is perfect for a unique dinner experience. The combination of smoky flavors and chewy textures will leave you wanting more.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto",
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "12 oz",
+      "notes": "fillets"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the smoked mackerel fillets to the bowl and marinate for at least 30 minutes.",
+    "In a separate bowl, toss the sliced zucchini and cauliflower florets with a pinch of salt and a drizzle of olive oil.",
+    "Spread the zucchini and cauliflower mixture in the bottom of a 9x13 inch baking dish.",
+    "Remove the mackerel fillets from the marinade and place them on top of the vegetable mixture.",
+    "Pour the remaining marinade over the mackerel and vegetables.",
+    "Sprinkle chopped parsley over the top of the dish.",
+    "Bake for 25 minutes or until the mackerel is cooked through and the vegetables are tender.",
+    "Remove from the oven and let rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-dish",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "smoked-fish",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "yellowed-smoky-uruguayan-mackerel-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-uruguayan-mackerel-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:08:43Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "salt-bake",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "mackerel",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Bake"
+  }
+}

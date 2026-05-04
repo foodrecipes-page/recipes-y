@@ -165,6 +165,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crunchy-ukrainian-milk-fritters",
+    "title": "Yellow Crunchy Ukrainian Milk Fritters",
+    "tags": [
+      "crunchy",
+      "deep-fried",
+      "lacto-ovo-vegetarian",
+      "malty",
+      "quick-fix",
+      "ukrainian",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-delicate-ukrainian-duck-pilaf",
     "title": "yellow delicate ukrainian duck pilaf",
     "tags": [

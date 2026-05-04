@@ -1,0 +1,91 @@
+{
+  "title": "Yellow Crunchy Ukrainian Milk Fritters",
+  "description": "A malty, chewy, quick-fix Ukrainian dish featuring milk, deep-fried to a crispy golden brown, suitable for a Buddhist temple gathering.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Gradually add milk and malt syrup, mixing until a smooth batter forms.",
+    "Knead the batter for 5 minutes until it becomes elastic.",
+    "Cover the bowl with a damp cloth and let it rest in a warm place for 30 minutes.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the batter into the hot oil, about 1 inch in diameter.",
+    "Fry the fritters until they are golden brown, about 2-3 minutes on each side.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the Yellow Crunchy Ukrainian Milk Fritters warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "deep-fried",
+    "lacto-ovo-vegetarian",
+    "malty",
+    "quick-fix",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "yellow-crunchy-ukrainian-milk-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crunchy-ukrainian-milk-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:40:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "milk",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "milk",
+    "descriptor": "Yellow Crunchy",
+    "dishForm": "Fritters"
+  }
+}

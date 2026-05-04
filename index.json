@@ -2558,6 +2558,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-italian-bigoli-pasta",
+    "title": "Yummy Italian Bigoli Pasta",
+    "tags": [
+      "bigoli",
+      "gluten-free",
+      "hangover-cure",
+      "italian-dish",
+      "malty",
+      "snappy"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-italian-ham-panettone",
     "title": "Yummy Italian Ham Panettone",
     "tags": [

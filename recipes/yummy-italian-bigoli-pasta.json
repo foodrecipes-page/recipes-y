@@ -1,0 +1,104 @@
+{
+  "title": "Yummy Italian Bigoli Pasta",
+  "description": "A malty, snappy hangover cure featuring V Sterbottensost cheese and bonito shavings, gluten‑free friendly.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten‑free bigoli pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "V Sterbottensost cheese",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "bonito shavings",
+      "amount": "30g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "anchovy fillets",
+      "amount": "2",
+      "notes": "mashed"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "500ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring water to a boil in a large pot and add salt.",
+    "Add bigoli pasta and cook for 7 minutes until al dente.",
+    "Meanwhile heat olive oil in a skillet over medium heat.",
+    "Sauté minced garlic until fragrant, about 30 seconds.",
+    "Add mashed anchovy fillets and stir until dissolved.",
+    "Stir in grated V Sterbottensost cheese and let it melt into a sauce.",
+    "Toss cooked pasta into the skillet and combine evenly.",
+    "Garnish with bonito shavings, lemon zest, and chopped parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bigoli",
+    "gluten-free",
+    "hangover-cure",
+    "italian-dish",
+    "malty",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "yummy-italian-bigoli-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-italian-bigoli-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:07:55Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "bonito-shave",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "bigoli",
+    "descriptor": "Yummy",
+    "dishForm": "Pasta"
+  }
+}

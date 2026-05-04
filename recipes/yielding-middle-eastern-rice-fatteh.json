@@ -1,0 +1,108 @@
+{
+  "title": "Yielding Middle Eastern Rice Fatteh",
+  "description": "A mustardy, velvety rice dish shaped like nigiri, served in a cazuela for a romantic date night.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "diced carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded part-skim mozzarella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until the water runs clear.",
+    "Heat the olive oil in a cazuela over medium heat and sauté the carrots and tomatoes until softened, about five minutes.",
+    "Add the ground annatto to the pot and stir until fragrant, about 30 seconds.",
+    "Stir in the rice, coating each grain with the annatto and oil mixture.",
+    "Pour in the chicken broth, add the mustard, salt, and pepper, and bring the mixture to a gentle boil.",
+    "Reduce the heat to low, cover the cazuela, and simmer until the rice is tender and the liquid is absorbed, about fifteen minutes.",
+    "While the rice cooks, lay a sheet of parchment over a clean surface and shape small rice clusters into nigiri-like cylinders using wet hands.",
+    "Transfer the shaped rice clusters to the cazuela, arranging them in a single layer.",
+    "Sprinkle the shredded mozzarella evenly over the rice and return to heat until the cheese melts, about three minutes.",
+    "Finish by drizzling lemon juice over the top, tossing with chopped parsley, and serving hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela",
+    "date-night",
+    "middle-eastern",
+    "mustardy",
+    "nigiri-shaping",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 53,
+    "fat": 6
+  },
+  "slug": "yielding-middle-eastern-rice-fatteh",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yielding-middle-eastern-rice-fatteh",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:32:50Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "ground annatto",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Rice",
+    "descriptor": "Yielding",
+    "dishForm": "Fatteh"
+  }
+}

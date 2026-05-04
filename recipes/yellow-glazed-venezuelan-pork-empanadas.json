@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Glazed Venezuelan Pork Empanadas",
+  "description": "Charred, gooey empanadas filled with slow-cooked pork and topped with a sweet and tangy Venezuelan-inspired glaze, featuring Italian seasoning and a hint of smokiness from the bonito flakes.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Slow-cook until tender"
+    },
+    {
+      "name": "Yellow cornmeal",
+      "amount": "2 cups",
+      "notes": "For the empanada dough"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "For the glaze"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "For the glaze"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "For the glaze"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Dried herbs"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked fish flakes"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "For egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C)",
+    "In a large skillet, cook the pork shoulder over medium heat until browned on all sides",
+    "Add the Italian seasoning and bonito flakes to the skillet and stir to combine",
+    "Transfer the pork to a slow cooker and cook on low for 8 hours or high for 4 hours",
+    "In a large bowl, combine the cornmeal, sugar, and water to form a dough",
+    "Knead the dough for 5 minutes until smooth and elastic",
+    "On a lightly floured surface, roll out the dough to a thickness of 1/4 inch",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass",
+    "Place a tablespoon of the slow-cooked pork in the center of each dough circle",
+    "Fold the dough over the filling to form a half-moon shape and press the edges to seal",
+    "Brush the tops of the empanadas with the beaten eggs for a golden glaze",
+    "Bake the empanadas for 15-20 minutes or until golden brown"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "bonito-flakes",
+    "dinner-party",
+    "empanadas",
+    "gluten-free",
+    "italian-seasoning",
+    "pork",
+    "sugar-free-friendly",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "yellow-glazed-venezuelan-pork-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-glazed-venezuelan-pork-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T20:16:09Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "bonito-shave",
+    "primaryIngredient": "italian seasoning",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Pork",
+    "descriptor": "Yellow Glazed",
+    "dishForm": "Empanadas"
+  }
+}

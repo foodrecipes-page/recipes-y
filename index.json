@@ -86,6 +86,23 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-creamy-argentinian-milk-pudding",
+    "title": "Yellow Creamy Argentinian Milk Pudding",
+    "tags": [
+      "argentinian",
+      "buddhist-friendly",
+      "creamy",
+      "dessert",
+      "glassy-jelly",
+      "jammy",
+      "milk-pudding",
+      "vegetarian"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crispy-middle-eastern-peanut-butter-harees",
     "title": "Yellow Crispy Middle Eastern Peanut Butter Harees",
     "tags": [
@@ -559,6 +576,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-irish-pistachio-casserole",
+    "title": "Yummy Irish Pistachio Casserole",
+    "tags": [
+      "crowd-pleaser",
+      "easy",
+      "irish-casserole",
+      "mustard",
+      "one-pan",
+      "pistachio"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

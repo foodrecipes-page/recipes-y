@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Creamy Argentinian Milk Pudding",
+  "description": "A traditional Argentinian dessert featuring semi-skimmed milk, score fat, and a jammy texture, this pudding is a solo dinner delight that is also Buddhist temple friendly. It has a glassy jelly appearance and a creamy taste.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semi-skimmed milk",
+      "amount": "2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the milk, sugar, and cornstarch, and cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 2 minutes, or until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the melted score fat, vanilla extract, lemon zest, and salt.",
+    "In a small bowl, whisk together the egg yolks and water, and then gradually add the warm milk mixture to the egg yolks, whisking constantly.",
+    "Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+    "Remove the saucepan from the heat and let the pudding cool to room temperature.",
+    "Cover the pudding with plastic wrap and refrigerate for at least 2 hours, or until chilled.",
+    "Serve the pudding chilled, garnished with a sprinkle of sugar and a few slices of lemon zest, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "buddhist-friendly",
+    "creamy",
+    "dessert",
+    "glassy-jelly",
+    "jammy",
+    "milk-pudding",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "yellow-creamy-argentinian-milk-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-creamy-argentinian-milk-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:24:27Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "score-fat",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "milk",
+    "descriptor": "Yellow Creamy",
+    "dishForm": "Pudding"
+  }
+}

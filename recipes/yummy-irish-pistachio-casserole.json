@@ -1,0 +1,104 @@
+{
+  "title": "Yummy Irish Pistachio Casserole",
+  "description": "A hearty, mustardy casserole with a glassy pistachio topping that brings Irish comfort to any table.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shredded pre-cooked potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground pistachios",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "strawberry jam",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350F and grease a 9x13 inch baking dish.",
+    "Melt the butter in a saucepan over medium heat, then add milk and cream and bring to a simmer.",
+    "Stir in Dijon mustard, honey, and strawberry jam until the mixture is smooth and glossy.",
+    "Whisk the eggs and pour them into the sauce, stirring constantly until fully incorporated.",
+    "Fold in the shredded potatoes, ground pistachios, salt, pepper, and cheddar cheese until everything is evenly coated.",
+    "Transfer the mixture to the prepared baking dish and spread it out evenly.",
+    "Bake for 30 minutes until the top is golden brown and the casserole is set.",
+    "Let the casserole rest for 5 minutes before cutting into squares."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "easy",
+    "irish-casserole",
+    "mustard",
+    "one-pan",
+    "pistachio"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 40
+  },
+  "slug": "yummy-irish-pistachio-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-irish-pistachio-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:24:29Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "ground pistachios",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pistachios",
+    "descriptor": "Yummy",
+    "dishForm": "Casserole"
+  }
+}

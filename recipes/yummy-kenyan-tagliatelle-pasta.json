@@ -1,0 +1,126 @@
+{
+  "title": "Yummy Kenyan Tagliatelle Pasta",
+  "description": "A rich, midnight-craving pasta that blends Kenyan spices with silky coconut cream and fresh tagliatelle.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "pumpkin cubes",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "sukuma wiki or kale",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "optional, poached or fried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the tagliatelle in salted boiling water until al dente, then drain and set aside.",
+    "Heat olive oil in a large pan over medium heat and sauté the onion and garlic until translucent.",
+    "Add the tomatoes, pumpkin, and kale, cooking until the vegetables soften.",
+    "Stir in the cumin, cloves, and coconut cream, letting the sauce simmer for about 5 minutes.",
+    "Fold in the cooked tagliatelle, mixing until the pasta is well coated with the coconut sauce.",
+    "Season with salt, pepper, and lemon juice, then add the fresh parsley.",
+    "If using eggs, top each serving with a poached or fried egg.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "kenyan",
+    "midnight-craving",
+    "one-pot",
+    "ovo-vegetarian",
+    "rich",
+    "tagliatelle"
+  ],
+  "nutrition": {
+    "calories": 395,
+    "protein": 14,
+    "carbs": 49,
+    "fat": 17
+  },
+  "slug": "yummy-kenyan-tagliatelle-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-kenyan-tagliatelle-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:38:22Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "tagliatelle",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Tagliatelle",
+    "descriptor": "Yummy",
+    "dishForm": "Pasta"
+  }
+}

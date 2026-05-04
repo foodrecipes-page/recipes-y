@@ -1,0 +1,108 @@
+{
+  "title": "Yielding Syrian Quinoa Stew",
+  "description": "A light, grassy quinoa stew that simmers slowly to airy perfection, topped with a velvety layer of cheese.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium (chopped)"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks (chopped)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (chopped)"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves (minced)"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grana-padano cheese",
+      "amount": "1/2 cup",
+      "notes": "use vegan alternative"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water until water runs clear.",
+    "In a large pot, combine rinsed quinoa, vegetable broth, diced tomatoes, carrots, celery, onion, garlic, oregano, cumin, salt and pepper; stir to mix.",
+    "Bring mixture to a boil over medium-high heat, then reduce heat to low, cover, and simmer for 25 minutes, stirring occasionally.",
+    "After 25 minutes, remove pot from heat and let the quinoa stew stand, covered, for 5 minutes to develop an airy texture.",
+    "Stir in the grated cheese (or vegan cheese alternative) and allow it to melt into the stew.",
+    "Taste and adjust seasoning with extra salt or pepper if needed.",
+    "Serve hot, optionally garnished with fresh parsley or a squeeze of lemon for brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grassy",
+    "one-pot",
+    "quinoa",
+    "slow-cook",
+    "stew",
+    "syrian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 52,
+    "fat": 10
+  },
+  "slug": "yielding-syrian-quinoa-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yielding-syrian-quinoa-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:14:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "grana-padano",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Yielding",
+    "dishForm": "Stew"
+  }
+}

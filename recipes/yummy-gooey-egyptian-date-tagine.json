@@ -1,0 +1,92 @@
+{
+  "title": "Yummy Gooey Egyptian Date Tagine",
+  "description": "A sweet and savory Egyptian dish featuring dates and palm sugar, perfect for a date night.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nam tan pip",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, combine dates, palm sugar, nam tan pip, almond oil, ginger, and cinnamon, and blend until smooth.",
+    "Transfer the mixture to a saucepan and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "In a small bowl, mix sodium alginate with water to create a spherification bath.",
+    "Using a spoon, drop small amounts of the date mixture into the spherification bath.",
+    "Let the mixture sit in the bath for 5 minutes to allow the spheres to form.",
+    "Remove the spheres from the bath with a slotted spoon and place them on a wooden board.",
+    "Serve the tagine hot, garnished with additional cinnamon and ginger if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "middle-eastern",
+    "special-occasion",
+    "sweet-and-savory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "yummy-gooey-egyptian-date-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-gooey-egyptian-date-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:28:48Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "spherify",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dates",
+    "descriptor": "yummy gooey",
+    "dishForm": "Tagine"
+  }
+}

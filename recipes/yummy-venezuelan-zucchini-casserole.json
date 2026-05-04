@@ -1,0 +1,107 @@
+{
+  "title": "Yummy Venezuelan Zucchini Casserole",
+  "description": "A jammy, bouncy casserole that brings a lazy Sunday comfort to the table with a sweet maple glaze and fresh herbs.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "3 medium",
+      "notes": "sliced into 1/4-inch rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat olive oil in a large skillet over medium heat and sauté onion, garlic, and bell pepper until softened, about 4 minutes.",
+    "Add sliced zucchini and cook, stirring occasionally, until they begin to wilt, about 5 minutes.",
+    "Stir in tomato sauce and oregano, season with salt and pepper, and let the mixture simmer for 3 minutes.",
+    "Transfer the zucchini mixture to a 9x13-inch baking dish.",
+    "Drizzle maple syrup over the top and sprinkle chopped basil.",
+    "Cover the dish with foil and bake for 15 minutes.",
+    "Remove the foil and bake an additional 10 minutes, or until the zucchini is tender and the glaze is slightly caramelized.",
+    "Let the casserole rest for 5 minutes before serving.",
+    "Serve warm as a side or main dish."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "venezuelan",
+    "dinner"
+  ],
+  "slug": "yummy-venezuelan-zucchini-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-venezuelan-zucchini-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:02:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "zucchini",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "zucchini",
+    "descriptor": "Yummy",
+    "dishForm": "Casserole"
+  }
+}

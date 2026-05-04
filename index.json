@@ -240,6 +240,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-creamy-syrian-spinach-bake",
+    "title": "Yellow Creamy Syrian Spinach Bake",
+    "tags": [
+      "creamy",
+      "jain-friendly",
+      "one-pan",
+      "quick-fix",
+      "syrian",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crisp-thai-apricot-khanom-thai",
     "title": "Yellow Crisp Thai Apricot Khanom Thai",
     "tags": [
@@ -2971,6 +2987,17 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 135,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-venezuelan-zucchini-casserole",
+    "title": "Yummy Venezuelan Zucchini Casserole",
+    "tags": [
+      "venezuelan",
+      "dinner"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

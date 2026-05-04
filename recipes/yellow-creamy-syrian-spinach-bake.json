@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Creamy Syrian Spinach Bake",
+  "description": "A quick and creamy Syrian dish featuring naan bread and spinach, perfect for a weeknight dinner. This jain-friendly recipe is easy to make and packed with umami flavor.",
+  "cuisine": "Syrian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "naan bread",
+      "amount": "4 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Chop the onion and garlic and saute them in olive oil until softened.",
+    "Add the spinach to the pan and cook until wilted.",
+    "In a separate bowl, mix the cream, salt, black pepper, and paprika.",
+    "Arrange the naan bread in a baking dish and top with the spinach mixture.",
+    "Pour the cream mixture over the spinach and top with feta cheese if using.",
+    "Bake for 20 minutes or until the bread is golden brown and the cream is bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "jain-friendly",
+    "one-pan",
+    "quick-fix",
+    "syrian",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "yellow-creamy-syrian-spinach-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-creamy-syrian-spinach-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:03:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "bake",
+    "primaryIngredient": "naan bread",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "spinach",
+    "descriptor": "Yellow Creamy",
+    "dishForm": "Bake"
+  }
+}

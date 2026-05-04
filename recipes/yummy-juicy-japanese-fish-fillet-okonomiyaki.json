@@ -1,0 +1,109 @@
+{
+  "title": "Yummy Juicy Japanese Fish Fillet Okonomiyaki",
+  "description": "A sweet and juicy Japanese dish featuring fish fillet, infused oil, and okonomiyaki, perfect for a romantic dinner, and is FODMAP friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillet",
+      "amount": "4 fillets",
+      "notes": "cod or tilapia work well"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "sesame and ginger infused"
+    },
+    {
+      "name": "okonomiyaki flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cabbage",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large non-stick skillet or okonomiyaki pan over medium heat.",
+    "In a large bowl, whisk together the okonomiyaki flour and water until smooth.",
+    "Add the shredded cabbage, chopped green onion, bonito flakes, soy sauce, sesame seeds, salt, and pepper to the bowl and mix well.",
+    "Add the fish fillet to the bowl and gently fold into the okonomiyaki mixture.",
+    "Brush the preheated skillet or okonomiyaki pan with the infused oil.",
+    "Using a 1/4 cup measuring cup, scoop the okonomiyaki mixture into the skillet or okonomiyaki pan.",
+    "Cook the okonomiyaki for 4-5 minutes on the first side, until the bottom is golden brown.",
+    "Flip the okonomiyaki over and cook for an additional 4-5 minutes, until the other side is also golden brown.",
+    "Serve the okonomiyaki hot and enjoy.",
+    "Garnish with additional green onion, sesame seeds, and bonito flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "japanese-food",
+    "okonomiyaki",
+    "romantic-dinner",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yummy-juicy-japanese-fish-fillet-okonomiyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-juicy-japanese-fish-fillet-okonomiyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:44:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "fish fillet",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fish fillet",
+    "descriptor": "yummy juicy",
+    "dishForm": "Okonomiyaki"
+  }
+}

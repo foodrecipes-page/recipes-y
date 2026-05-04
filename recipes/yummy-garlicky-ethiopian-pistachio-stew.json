@@ -1,0 +1,95 @@
+{
+  "title": "Yummy Garlicky Ethiopian Pistachio Stew",
+  "description": "A fragrant, low-calorie stew bursting with garlic and pistachios, perfect for a date-night Ethiopian experience.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas, cooked",
+      "amount": "300g",
+      "notes": "drained"
+    },
+    {
+      "name": "lentils, red",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pistachios, shelled, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a cataplana over medium heat until shimmering.",
+    "Add minced garlic and sauté for 30 seconds until fragrant.",
+    "Stir in berbere spice, and cook for another minute to release aromas.",
+    "Pour in cooked chickpeas, lentils, and vegetable broth; bring to a gentle boil.",
+    "Reduce heat, cover, and simmer for 20 minutes to meld flavors.",
+    "Stir in chopped pistachios and lemon juice, season with salt and pepper, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "date-night",
+    "garlic",
+    "low-calorie",
+    "one-pot",
+    "pistachio"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "yummy-garlicky-ethiopian-pistachio-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-garlicky-ethiopian-pistachio-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:38:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "pistachio",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "pistachio",
+    "descriptor": "Yummy Garlicky",
+    "dishForm": "Stew"
+  }
+}

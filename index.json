@@ -505,6 +505,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-resinous-mexican-wagyu-tacos-al-pastor",
+    "title": "Yellow Resinous Mexican Wagyu Tacos Al Pastor",
+    "tags": [
+      "grilled-meat",
+      "mexican-food",
+      "pineapple-salsa",
+      "tacos-al-pastor",
+      "wagyu-beef"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-silky-croatian-onion-stew",
     "title": "Yellow Silky Croatian Onion Stew",
     "tags": [
@@ -827,6 +841,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-nutty-malaysian-chicken-satay",
+    "title": "Yellowed Nutty Malaysian Chicken Satay",
+    "tags": [
+      "egg-free",
+      "festive",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

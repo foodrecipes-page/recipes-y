@@ -1,0 +1,114 @@
+{
+  "title": "Yellow Resinous Mexican Wagyu Tacos Al Pastor",
+  "description": "A Mexican dish featuring wagyu beef, served in tacos al pastor style with a resinous and fluffy texture, made with a blend of spices and a deglaze technique",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Poblano peppers",
+      "amount": "2 peppers",
+      "notes": "roasted and diced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 tortillas",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, brushing the grates with olive oil to prevent sticking",
+    "In a large bowl, whisk together cumin, coriander, and a pinch of salt and pepper, then add the sliced wagyu beef and toss to coat",
+    "Thread the beef onto skewers, leaving a small space between each piece, then brush with olive oil and season with salt and pepper",
+    "Grill the beef for 3-4 minutes per side, or until cooked to desired level of doneness, then transfer to a plate and cover with foil to keep warm",
+    "In a large skillet, heat a couple of tablespoons of olive oil over medium heat, then add the diced onion and cook until translucent, about 5 minutes",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning",
+    "Stir in the diced pineapple and roasted poblano peppers, cooking for an additional 2-3 minutes, then season with salt and pepper to taste",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds, then assemble the tacos by slicing the grilled beef into thin strips and serving with the pineapple and pepper mixture, topped with chopped cilantro and a squeeze of lime juice",
+    "Serve immediately, garnished with additional cilantro and lime wedges if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "mexican-food",
+    "pineapple-salsa",
+    "tacos-al-pastor",
+    "wagyu-beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellow-resinous-mexican-wagyu-tacos-al-pastor",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-resinous-mexican-wagyu-tacos-al-pastor",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:41:12Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "wagyu",
+    "diet": "dash",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "wagyu",
+    "descriptor": "Yellow Resinous",
+    "dishForm": "Tacos Al Pastor"
+  }
+}

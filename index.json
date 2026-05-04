@@ -654,6 +654,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-middle-eastern-lamb-tagine",
+    "title": "Yellow Middle Eastern Lamb Tagine",
+    "tags": [
+      "anti-inflammatory",
+      "comal-cooked",
+      "gluten-free",
+      "lamb",
+      "meringue-topped",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 110,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-peppered-croatian-fish-stew",
     "title": "Yellow Peppered Croatian Fish Stew",
     "tags": [
@@ -2813,6 +2828,22 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-moroccan-lamb-tagine",
+    "title": "Yummy Moroccan Lamb Tagine",
+    "tags": [
+      "cheese-pull",
+      "dairy-free",
+      "midnight-craving",
+      "moroccan",
+      "one-pot",
+      "tagine",
+      "vegan-friendly"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 80,
     "shard": "y"
   },
   {

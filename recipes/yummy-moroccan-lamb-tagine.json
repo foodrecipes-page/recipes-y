@@ -1,0 +1,109 @@
+{
+  "title": "Yummy Moroccan Lamb Tagine",
+  "description": "A funky, cheese-pull midnight craving Moroccan dish with rose water and kombu cold extract, dairy-free and served in a terracotta dish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb (kefta)",
+      "amount": "1.5 lb"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Moroccan spice blend (cumin, coriander, paprika, cinnamon)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a terracotta dish over medium heat until shimmering.",
+    "Add diced onion and cook until translucent, about 3 to 4 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Add ground lamb, breaking it apart, and cook until browned, about 5 to 7 minutes.",
+    "Sprinkle the Moroccan spice blend and tomato paste, stirring to coat the meat evenly.",
+    "Pour in vegetable broth and kombu cold extract, bring to a low simmer, cover, and let cook for 30 minutes.",
+    "Stir in rose water, dried apricots, and season with salt and pepper; simmer uncovered for 15 more minutes until sauce thickens.",
+    "Add chopped cilantro, fold in half of the vegan cheese, then place the remaining cheese on top.",
+    "Cover again and cook until cheese melts and forms a pully layer, about 5 to 7 minutes.",
+    "Remove from heat, let rest 5 minutes, then serve hot, optionally garnished with extra cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "dairy-free",
+    "midnight-craving",
+    "moroccan",
+    "one-pot",
+    "tagine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 2300,
+    "protein": 101,
+    "carbs": 49,
+    "fat": 142
+  },
+  "slug": "yummy-moroccan-lamb-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-moroccan-lamb-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:19:49Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "rose water",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Yummy",
+    "dishForm": "Tagine"
+  }
+}

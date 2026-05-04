@@ -1,0 +1,106 @@
+{
+  "title": "Yellowed Crispy Italian Egg Plants Arancini",
+  "description": "A fermented and springy solo dinner Italian dish featuring egg plants, cooked in a ttukbaegi earthenware pot, with a crispy exterior and a soft interior, dash friendly and formed into arancini balls.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "preferably firm and heavy for the size"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the eggplants into 1 inch cubes and soak them in salt water for 30 minutes.",
+    "Drain the eggplant cubes and squeeze out excess moisture.",
+    "In a bowl, mix together the bread crumbs, parmesan cheese, and a pinch of salt and pepper.",
+    "Dip each eggplant cube into the bread crumb mixture, coating it evenly.",
+    "Heat the olive oil in a ttukbaegi earthenware pot over medium heat and fry the eggplant cubes until golden brown.",
+    "In a separate bowl, mix together the tomato sauce, mozzarella cheese, and chopped basil.",
+    "Stuff each fried eggplant cube with the tomato sauce mixture and shape into arancini balls.",
+    "Place the arancini balls on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Serve the arancini hot and enjoy."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "italian-food",
+    "one-pot",
+    "vegetarian-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "yellowed-crispy-italian-egg-plants-arancini",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-italian-egg-plants-arancini",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:35:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "egg plants",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "egg plants",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Arancini"
+  }
+}

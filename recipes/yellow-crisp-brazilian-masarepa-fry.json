@@ -1,0 +1,110 @@
+{
+  "title": "Yellow Crisp Brazilian Masarepa Fry",
+  "description": "A winey and crisp post-workout Brazilian dish featuring yellow masarepa, perfect for a robata grill.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellow Masarepa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spicy Malagueta Pepper",
+      "amount": "1 tsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Heat the robata grill to medium-high heat.",
+    "In a mixing bowl, combine the yellow masarepa and water, stirring until it forms a thick batter.",
+    "Heat the coconut oil in a small pan over medium heat, then add the diced onion and sauté until translucent.",
+    "Add the minced garlic and chopped spicy malagueta pepper to the pan and stir for 1 minute.",
+    "Add the cilantro to the pan and stir for 30 seconds.",
+    "Using a spatula, spread the masarepa batter onto the grill in a circular shape, about 1/4 inch thick.",
+    "Cook the masarepa for 2 minutes, until the edges start to brown.",
+    "Flip the masarepa and cook for an additional 2 minutes, until crispy and golden brown.",
+    "Remove the masarepa from the grill and top with crumbled feta cheese.",
+    "Season with salt and black pepper to taste, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "robata-grill",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellow-crisp-brazilian-masarepa-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crisp-brazilian-masarepa-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:34Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "masarepa",
+    "descriptor": "Yellow Crisp",
+    "dishForm": "Fry"
+  }
+}

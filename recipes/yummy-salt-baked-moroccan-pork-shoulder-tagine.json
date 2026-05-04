@@ -1,0 +1,108 @@
+{
+  "title": "Yummy Salt-Baked Moroccan Pork Shoulder Tagine",
+  "description": "A rich, nutty, and snappy Moroccan dish featuring a pork shoulder, all wrapped up in a salt-baked shell, perfect for adventurous foodies.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 (1.5-2 kg)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 cup",
+      "notes": "fine sea salt"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 250°C. Prepare a 20 inch diameter wok or clay pot with a lid.",
+    "Mix the salt, rice flour and spices in a bowl.",
+    "Rub the spice and salt mixture all over the pork shoulder.",
+    "Place the pork in the wok or clay pot and drizzle with olive oil.",
+    "Add the chopped onion on top of the pork.",
+    "Tie the rosemary sprigs around the top of the wok or clay pot.",
+    "Cover the wok and bake for 5 hours.",
+    "Remove the wok from the oven and carefully open the lid.",
+    "Drizzle with lemon juice and let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 300,
+  "totalTimeMin": 310,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "gourmet",
+    "healthy",
+    "moroccan",
+    "one-pan",
+    "salt-baked",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 56,
+    "carbs": 24,
+    "fat": 56
+  },
+  "slug": "yummy-salt-baked-moroccan-pork-shoulder-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-salt-baked-moroccan-pork-shoulder-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "salt-bake",
+    "primaryIngredient": "pork shoulder",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "yummy salt-baked",
+    "dishForm": "Tagine"
+  }
+}

@@ -56,6 +56,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-crunchy-polish-green-pepper-quesadilla",
+    "title": "yeasty crunchy polish green pepper quesadilla",
+    "tags": [
+      "date-night",
+      "flambee",
+      "high-protein",
+      "polish",
+      "quesadilla",
+      "romantic"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 42,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-dense-festive-argentinian-fish-wrap",
     "title": "Argentinian Fish Wrap with Nam Pla Sauce",
     "tags": [
@@ -369,6 +384,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-crisp-brazilian-masarepa-fry",
+    "title": "Yellow Crisp Brazilian Masarepa Fry",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "robata-grill",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 16,
     "shard": "y"
   },
   {
@@ -3598,6 +3628,22 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-salt-baked-moroccan-pork-shoulder-tagine",
+    "title": "Yummy Salt-Baked Moroccan Pork Shoulder Tagine",
+    "tags": [
+      "adventurous",
+      "gourmet",
+      "healthy",
+      "moroccan",
+      "one-pan",
+      "salt-baked",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 310,
     "shard": "y"
   },
   {

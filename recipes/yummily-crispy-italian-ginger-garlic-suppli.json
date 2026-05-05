@@ -1,0 +1,90 @@
+{
+  "title": "Yummily Crispy Italian Ginger Garlic Supplì",
+  "description": "A daring take on traditional Italian supplì with a zesty ginger garlic flavor that complements the umami-rich filling and crispy exterior.",
+  "cuisine": "italian (emilia-romagna)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": 200
+    },
+    {
+      "name": "organic eggs",
+      "amount": 5,
+      "notes": "replaced with flaxseed or chia seeds"
+    },
+    {
+      "name": "sugar",
+      "amount": 15
+    },
+    {
+      "name": "fine sea salt",
+      "amount": 15
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "a small knob"
+    },
+    {
+      "name": "fresh garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "pinch"
+    },
+    {
+      "name": "olive oil",
+      "amount": 200
+    },
+    {
+      "name": "vegetable broth or water",
+      "amount": 150
+    },
+    {
+      "name": "flour for dusting",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "In a food processor, combine ginger, garlic, salt, red pepper flakes, sugar, and 2 tablespoons of olive oil. Process until finely minced.",
+    "In a mixing bowl, whisk together flour, eggs (replaced), and enough broth or water to reach a smooth batter consistency without being too thin.",
+    "Grease a deep-fryer with oil and heat to 180°C (350°F)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-gourmet",
+    "egg-free",
+    "flambe-friendly",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "yummily-crispy-italian-ginger-garlic-suppli",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummily-crispy-italian-ginger-garlic-suppli",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:34:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "flambe",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "egg-free",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Ginger Garlic Paste",
+    "descriptor": "Yummily Crispy",
+    "dishForm": "Supplì"
+  }
+}

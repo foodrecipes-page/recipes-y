@@ -1,0 +1,106 @@
+{
+  "title": "yeasty shattering venezuelan puff pastry tart",
+  "description": "a romantic venezuelan dish featuring puff pastry, rest, and low-carb-friendly options. pairs well with a warm cup of coffee or tea.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "low-carb",
+    "low-calorie"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "whipped cream",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "fresh berries",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f (190c)."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "low-carb",
+    "romantic",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "yeasty-shattering-venezuelan-puff-pastry-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-shattering-venezuelan-puff-pastry-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:27Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "puff pastry",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "puff pastry",
+    "descriptor": "yeasty shattering",
+    "dishForm": "Tart"
+  }
+}

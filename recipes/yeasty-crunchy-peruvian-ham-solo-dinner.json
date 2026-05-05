@@ -1,0 +1,124 @@
+{
+  "title": "Yeasty Crunchy Peruvian Ham Solo-Dinner",
+  "description": "A lacto-vegetarian-friendly Peruvian dish featuring crunchy parma ham and a yeasty flavor profile. This solo-dinner recipe is perfect for a quick and easy meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Parma Ham",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Infuse-Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sourdough Bread",
+      "amount": "1 slice",
+      "notes": "toasted and crumbled"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat. ",
+    "Add the olive oil, minced garlic, and salt. Stir to combine. ",
+    "Add the sliced parma ham to the skillet and cook for 2-3 minutes or until crispy. ",
+    "Add the toasted and crumbled sourdough bread to the skillet and stir to combine. ",
+    "Sprinkle the shredded cheddar cheese over the top of the bread mixture and stir to combine. ",
+    "In a small bowl, whisk together the infused-oil, active dry yeast, and black pepper. Pour the yeast mixture over the bread mixture and stir to combine. ",
+    "Cook for an additional 2-3 minutes or until the cheese is melted and the bread is crispy. ",
+    "Garnish with chopped scallions, fresh cilantro, and a squeeze of lime juice. ",
+    "Serve immediately and enjoy! ",
+    "Garnish with additional chopped cilantro if desired. ",
+    "Serve as a solo-dinner and enjoy the combination of crunchy parma ham and yeasty flavors. ",
+    "This recipe is best served immediately, but can be stored in an airtight container in the refrigerator for up to 24 hours. ",
+    "Reheat in a non-stick skillet over medium heat until crispy and golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "cheese",
+    "easy-meal",
+    "lacto-vegetarian",
+    "peruvian",
+    "solo-dinner",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yeasty-crunchy-peruvian-ham-solo-dinner",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-crunchy-peruvian-ham-solo-dinner",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:49:53Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "infuse-oil",
+    "primaryIngredient": "parma ham",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "peruvian",
+    "mainIngredient": "ham",
+    "descriptor": "yeasty crunchy",
+    "dishForm": "solo-dinner"
+  }
+}

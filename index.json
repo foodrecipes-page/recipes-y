@@ -3960,6 +3960,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-jammy-croatian-dish-wrap",
+    "title": "yummy jammy croatian dish wrap",
+    "tags": [
+      "croatian",
+      "easy-to-make",
+      "healthy",
+      "low-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-jelly-dutch-ground-nut-oil-poffertjes",
     "title": "Yummy Jelly Dutch Ground Nut Oil Poffertjes",
     "tags": [

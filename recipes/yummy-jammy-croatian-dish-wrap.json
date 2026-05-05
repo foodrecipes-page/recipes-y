@@ -1,0 +1,134 @@
+{
+  "title": "yummy jammy croatian dish wrap",
+  "description": "a pillowy croatian dish wrapped in leafy steam featuring soy sauce as its main flavor component",
+  "cuisine": "croatian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "soba noodles",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2tbsp",
+      "notes": null
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "50g",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "10g",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "0.25tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25tsp",
+      "notes": null
+    },
+    {
+      "name": "steamed cabbage leaves",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "10g",
+      "notes": null
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "0.5tsp",
+      "notes": null
+    },
+    {
+      "name": "low-calorie cream cheese",
+      "amount": "25g",
+      "notes": null
+    },
+    {
+      "name": "pickle slices",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "5g",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "0.25tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "soak soba noodles in hot water for 5 minutes then drain and set aside",
+    "in a mixing bowl combine cottage cheese shredded carrot chopped fresh parsley sesame oil salt black pepper and mix until smooth",
+    "add steamed cabbage leaves toasted sesame seeds crushed black pepper low-calorie cream cheese and pickle slices to the mixing bowl and mix until combined",
+    "slice the cabbage leaves into thin strips and lay them flat on a clean surface"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "easy-to-make",
+    "healthy",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "yummy-jammy-croatian-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-jammy-croatian-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:17Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "soy sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "dish",
+    "descriptor": "yummy jammy",
+    "dishForm": "wrap"
+  }
+}

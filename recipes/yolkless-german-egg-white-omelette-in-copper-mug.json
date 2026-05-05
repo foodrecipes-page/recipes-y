@@ -1,0 +1,71 @@
+{
+  "title": "Yolkless German Egg White Omelette in Copper-Mug",
+  "description": "This earthy and cheese-pull-enhanced omelette is perfect for a morning energizer. It’s low-glycemic-friendly and served in a copper mug, making it both functional and visually appealing.",
+  "cuisine": "German",
+  "diet": [
+    "low-glycemic",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup egg whites"
+    },
+    {
+      "name": "2 tablespoons grated Parmesan cheese"
+    },
+    {
+      "name": "2 teaspoons chopped fresh herbs (thyme, parsley)"
+    },
+    {
+      "name": "pinch of sea salt"
+    },
+    {
+      "name": "pepper to taste"
+    },
+    {
+      "name": "optional: 1 tablespoon butter or olive oil for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat your copper mug.",
+    "Beat the egg whites until frothy, then fold in Parmesan cheese and herbs. Season with salt and pepper.",
+    "If using, warm up the mug and a small amount of fat over medium heat to prevent sticking.",
+    "Pour the mixture into the mug and cook as you would an omelette on a skillet, allowing it to set slightly before folding gently for about 1 minute.",
+    "Slide onto a plate and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "energy-boosting",
+    "functional-cupboard",
+    "mug-cooking"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 14,
+    "carbs": 3,
+    "fat": 9
+  },
+  "slug": "yolkless-german-egg-white-omelette-in-copper-mug",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yolkless-german-egg-white-omelette-in-copper-mug",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T05:40:49Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "egg white",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "egg white",
+    "descriptor": "Yolkless",
+    "dishForm": "Omelette"
+  }
+}

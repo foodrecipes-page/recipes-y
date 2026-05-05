@@ -1,0 +1,103 @@
+{
+  "title": "yummy pickle sweet chinese pinto beans steamed dim sum",
+  "description": "a flavorful and pillowy steamed dim sum featuring pinto beans and pickle, perfect for kids",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickle juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine pinto beans, pickle juice, granulated sugar, dark soy sauce, rice vinegar, sesame oil, salt, and black pepper in a large bowl.",
+    "Mix well to combine.",
+    "Transfer the mixture to a molcajete or a heatproof bowl.",
+    "Add water and make sure the pinto beans are covered.",
+    "Cover the bowl with a lid or plastic wrap and steam for 20 minutes over boiling water.",
+    "Check if the pinto beans are tender by inserting a fork or knife.",
+    "If not tender, steam for an additional 5 minutes.",
+    "Remove from heat and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "yummy-pickle-sweet-chinese-pinto-beans-steamed-dim-sum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-pickle-sweet-chinese-pinto-beans-steamed-dim-sum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:45Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "pinto beans",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pinto beans",
+    "descriptor": "yummy pickle sweet",
+    "dishForm": "Steamed Dim Sum"
+  }
+}

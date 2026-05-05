@@ -1,0 +1,63 @@
+{
+  "title": "yellowstone molten irish pecan nuts stew",
+  "description": "a rich and creamy stew originating from the american west, blending irish flavors with a twist of molten pecan nuts. perfect for a cold winter night.",
+  "cuisine": "irish-american",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pecan nuts",
+      "amount": "1 cup",
+      "notes": "chopped and toasted"
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons of oil in a large dutch oven over medium heat.",
+    "add the chopped bacon and cook until crispy, then remove from the pot.",
+    "add the diced onion, carrots, and celery and cook until tender, about 10 minutes.",
+    "add the chopped smoked salmon, potatoes, garlic, thyme, and bay leaves to the pot.",
+    "pour in the chicken broth and bring to a boil.",
+    "reduce the heat to low and simmer for 15 minutes.",
+    "add the heavy cream, dijon mustard, and toasted pecan nuts to the pot.",
+    "stir in the crispy bacon and cook for an additional 2 minutes.",
+    "season with salt and black pepper to taste.",
+    "serve hot, garnished with additional thyme and pecan nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-oven",
+    "pescatarian",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "yellowstone-molten-irish-pecan-nuts-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowstone-molten-irish-pecan-nuts-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "pecan nuts",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Pecan Nuts",
+    "descriptor": "Yellowstone Molten",
+    "dishForm": "Stew"
+  }
+}

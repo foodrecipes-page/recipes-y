@@ -1,0 +1,104 @@
+{
+  "title": "Yeasty Chewy Irish Apple Crumble",
+  "description": "Moist and delicious Irish apple crumble made with dehydrated Bramley apples and a hint of yeast for a chewy twist.",
+  "cuisine": "Irish",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bramley apples",
+      "amount": "6 medium-sized",
+      "notes": "Dehydrate in a low-temperature oven (200°F) for 2 hours to remove excess moisture"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": "Active dry yeast (1 tsp) can be used as a substitute for a yeastier flavor"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "1 large",
+      "notes": "Optional, for egg wash"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the dehydrated apples, granulated sugar, and a pinch of cinnamon. Mix well until the apples are evenly coated with the sugar and cinnamon mixture.",
+    "In a separate bowl, combine the flour, baking powder, and a pinch of nutmeg. Mix well until the dry ingredients are evenly combined.",
+    "Add the unsalted butter to the dry ingredients and use a pastry blender or your fingers to work the butter into the flour mixture until it resembles coarse crumbs.",
+    "Add the egg (if using) and vanilla extract to the flour mixture and mix until the dough comes together in a ball.",
+    "Press the dough evenly into the bottom of a 9x9-inch baking dish.",
+    "Add the apple mixture to the dough and mix until the apples are evenly distributed throughout the dough.",
+    "Top the apple mixture with the remaining dough, spreading it evenly to cover the entire surface.",
+    "Bake the crumble in the preheated oven for 35-40 minutes, or until the top is golden brown and the apples are tender.",
+    "Remove the crumble from the oven and let it cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "irish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "yeasty-chewy-irish-apples-crumble",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-chewy-irish-apples-crumble",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:52:37Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "dehydrate",
+    "primaryIngredient": "bramley apples",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Apples",
+    "descriptor": "Yeasty Chewy",
+    "dishForm": "Crumble"
+  }
+}

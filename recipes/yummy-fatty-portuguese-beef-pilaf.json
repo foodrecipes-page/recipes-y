@@ -1,0 +1,114 @@
+{
+  "title": "yummy fatty portuguese beef pilaf",
+  "description": "An aerated and comforting pilaf dish from Portugal, featuring sashimi-cut beef and a rich beef gravy. Perfect for a weeknight dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "beef",
+    "dairy",
+    "pork-free",
+    "nutfree"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "1 dozen",
+      "notes": "for serving"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 litre"
+    },
+    {
+      "name": "pork fat",
+      "amount": "125g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef gravy mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Sear the beef in batches until browned, then set aside.",
+    "Finely chop the onion and saut\u00075e until translucent.",
+    "Add the garlic and cook for a further minute.",
+    "Add the beef broth and bring to a boil, scraping the pan with a wooden spoon.",
+    "Add the pork fat and stir to combine.",
+    "Return the beef to the pan and stir in the beef gravy mix, salt, and black pepper.",
+    "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Meanwhile, preheat the oven to 200\u00140C.",
+    "Transfer the pilaf to a baking dish and cover with aluminium foil.",
+    "Bake for 20 minutes, then remove the foil and bake for a further 10 minutes.",
+    "Serve hot, garnished with parsley and beef in the scallop shells.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "european",
+    "one-pan",
+    "pilaf",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "yummy-fatty-portuguese-beef-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-fatty-portuguese-beef-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:50:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "beef gravy",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beef",
+    "descriptor": "yummy fatty",
+    "dishForm": "Pilaf"
+  }
+}

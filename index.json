@@ -3150,6 +3150,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-fatty-portuguese-beef-pilaf",
+    "title": "yummy fatty portuguese beef pilaf",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "european",
+      "one-pan",
+      "pilaf",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-fermented-green-saudi-arabian-lentils-dal",
     "title": "yummy feremented green saudi-arabian lentil dal",
     "tags": [

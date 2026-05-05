@@ -1,0 +1,93 @@
+{
+  "title": "Yummy Asian Borscht Stir-fry",
+  "description": "A pungent, crispy date-night dish featuring borlotti beans and other Canadian-friendly ingredients for a Buddhist temple-style meal.",
+  "cuisine": "Asian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": 10
+    },
+    {
+      "name": "olive oil",
+      "amount": 5
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 piece"
+    },
+    {
+      "name": "bok choy",
+      "amount": "50g"
+    },
+    {
+      "name": "borlotti beans",
+      "amount": "2 cups canned"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "scallions (green onions)",
+      "amount": "2 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium heat.",
+    "Add olive oil, chicken breast, and garlic cloves to cook until golden brown on both sides.",
+    "Stir in tomato paste and ginger root, cooking for an additional minute.",
+    "Include chopped bok choy and sliced red bell pepper, simmering until they soften.",
+    "Fold in borlotti beans and green scallions. Cook for 5 more minutes.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-style",
+    "canadian-friendly",
+    "crispy",
+    "date-night-dish",
+    "pungent"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 37,
+    "fat": 19
+  },
+  "slug": "yummy-asian-borscht-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-asian-borscht-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T06:59:12Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "steam",
+    "primaryIngredient": "borlotti beans",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Asian",
+    "mainIngredient": "borscht",
+    "descriptor": "Yummy",
+    "dishForm": "Stir-fry"
+  }
+}

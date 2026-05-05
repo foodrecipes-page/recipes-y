@@ -2585,6 +2585,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-asian-borscht-stir-fry",
+    "title": "Yummy Asian Borscht Stir-fry",
+    "tags": [
+      "buddhist-temple-style",
+      "canadian-friendly",
+      "crispy",
+      "date-night-dish",
+      "pungent"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-australian-bacon-hash",
     "title": "Yummy Australian Bacon Hash",
     "tags": [

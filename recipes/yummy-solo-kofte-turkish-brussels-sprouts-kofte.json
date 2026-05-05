@@ -1,0 +1,56 @@
+{
+  "title": "Yummy Solo-Kofte Turkish Brussels Sprouts Kofte",
+  "description": "A fresh and tender Turkish-inspired solo-dinner featuring brussels sprouts and a subtle namul-blanch-season. Perfect for a solo Buddhist-temple-friendly dinner.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels Sprouts",
+      "amount": "12 sprouts",
+      "notes": "trimmed and halved"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "brussels-sprouts",
+    "kofte",
+    "low-calorie",
+    "low-carb",
+    "one-pan",
+    "turkish",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "yummy-solo-kofte-turkish-brussels-sprouts-kofte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-solo-kofte-turkish-brussels-sprouts-kofte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Brussels Sprouts",
+    "descriptor": "Yummy Solo-Kofte",
+    "dishForm": "Kofte"
+  }
+}

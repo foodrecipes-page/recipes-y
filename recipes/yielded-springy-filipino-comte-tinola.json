@@ -1,0 +1,125 @@
+{
+  "title": "yielded springy filipino comte tinola",
+  "description": "herbal and springy filipino dish featuring comte cheese, inspired by traditional tinola recipe",
+  "cuisine": "filipino",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece",
+      "notes": "about 2 inches long"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat, low-sodium version"
+    },
+    {
+      "name": "brine wet comte cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "papaya leaves",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fish broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon vegetable oil in a pan over medium heat.",
+    "add 2 cloves minced garlic and cook until fragrant, about 1 minute.",
+    "add 1 piece sliced ginger and cook for another minute.",
+    "add 1 lb boneless chicken breast and cook until browned on all sides, about 5 minutes.",
+    "add 4 cups fish broth, 2 cups water, 2 tablespoons fish sauce, and 2 tablespoons lemon juice.",
+    "bring to a boil, then reduce heat to low and simmer for 15 minutes.",
+    "add 1 cup brine wet comte cheese and stir until melted and well combined.",
+    "add 1 can coconut milk and stir until heated through.",
+    "season with black pepper to taste.",
+    "serve hot on a hot stone plate, garnished with green onions, chopped fresh ginger, and papaya leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "filipino",
+    "herbal",
+    "low-sodium",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 22,
+    "fat": 24
+  },
+  "slug": "yielded-springy-filipino-comte-tinola",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yielded-springy-filipino-comte-tinola",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "brine-wet",
+    "primaryIngredient": "comte",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Comte",
+    "descriptor": "Yielded Springy",
+    "dishForm": "Tinola"
+  }
+}

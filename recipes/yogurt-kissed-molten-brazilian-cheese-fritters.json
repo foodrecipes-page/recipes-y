@@ -1,0 +1,85 @@
+{
+  "title": "Yogurt-kissed Molten Brazilian Cheese Fritters",
+  "description": "Crispy on the outside, gooey on the inside, these cheese fritters are a midnight craving's best friend. Infused with the subtle flavor of rosemary and a hint of yogurt, they're a taste of Brazil in every bite.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup cornstarch",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup grated Parmesan cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup grated cheddar cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup plain yogurt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large egg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": "use a salt block for serving"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together flour, cornstarch, and a pinch of salt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cheese",
+    "fritters",
+    "low-calorie",
+    "melted",
+    "midnight-craving",
+    "rosemary"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "yogurt-kissed-molten-brazilian-cheese-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-kissed-molten-brazilian-cheese-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:13Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "rosemary",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "yogurt-kissed molten",
+    "dishForm": "fritters"
+  }
+}

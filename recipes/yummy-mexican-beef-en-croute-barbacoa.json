@@ -1,0 +1,118 @@
+{
+  "title": "Yummy Mexican Beef En-Croute Barbacoa",
+  "description": "This hearty Mexican dish is a twist on traditional Sonoran barbacoa, wrapped in a flaky pastry crust and served with a side of rice vermicelli. It's a comforting meal that's perfect for a chilly evening.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound beef brisket",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon chili powder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "1 (14.1 ounce) package puff pastry, thawed",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup rice vermicelli",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "0",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large Dutch oven, combine the beef brisket, diced onion, minced garlic, beef broth, chili powder, cumin, oregano, and cayenne pepper. Cover the pot and transfer it to the preheated oven.",
+    "Braise the beef mixture for 2 1/2 hours, or until the meat is tender and falls apart easily.",
+    "While the beef is cooking, roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Cut the pastry into four equal pieces, and place each piece on a separate baking sheet lined with parchment paper.",
+    "After the beef has finished cooking, remove it from the oven and carefully transfer the pieces of pastry to the pot, pressing them into the bottom and sides to form a crust.",
+    "Return the pot to the oven and bake for an additional 20-25 minutes, or until the pastry is golden brown.",
+    "While the pastry is baking, cook the rice vermicelli according to package instructions and set aside.",
+    "Once the pastry is done, carefully remove it from the oven and let it cool for a few minutes before slicing and serving with the rice vermicelli.",
+    "Season the beef with salt and pepper to taste before serving.",
+    "Serve warm, garnished with fresh cilantro if desired.",
+    "This recipe makes 4-6 servings, and can be easily doubled or tripled if needed.",
+    "You can also make individual servings by using smaller pieces of pastry and portioning out the beef mixture accordingly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "barbacoa",
+    "beef",
+    "en-croute",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "pastry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 62,
+    "carbs": 64,
+    "fat": 36
+  },
+  "slug": "yummy-mexican-beef-en-croute-barbacoa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-mexican-beef-en-croute-barbacoa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:09Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "en-croute",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "high-protein",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "yummy",
+    "dishForm": "En-Croute Barbacoa"
+  }
+}

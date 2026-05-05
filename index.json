@@ -2140,6 +2140,21 @@
     "shard": "y"
   },
   {
+    "slug": "yielded-springy-filipino-comte-tinola",
+    "title": "yielded springy filipino comte tinola",
+    "tags": [
+      "cheesy",
+      "filipino",
+      "herbal",
+      "low-sodium",
+      "spring",
+      "weeknight"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yielding-australian-beef-broth",
     "title": "Yielding Australian Beef Broth",
     "tags": [
@@ -2300,6 +2315,22 @@
     ],
     "cuisine": "Basque-French",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yogurt-kissed-molten-brazilian-cheese-fritters",
+    "title": "Yogurt-kissed Molten Brazilian Cheese Fritters",
+    "tags": [
+      "brazilian",
+      "cheese",
+      "fritters",
+      "low-calorie",
+      "melted",
+      "midnight-craving",
+      "rosemary"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -3106,6 +3137,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-dense-canadian-peanut-wrap",
+    "title": "yummy dense canadian peanut wrap",
+    "tags": [
+      "canadian",
+      "gluten-free",
+      "high-fiber",
+      "lunch",
+      "mediterranean",
+      "snack",
+      "vegan"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-dense-chinese-chicken-buddha-jumps",
     "title": "Yummy Dense Chinese Chicken Buddha Jumps",
     "tags": [
@@ -3846,6 +3893,23 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-mexican-beef-en-croute-barbacoa",
+    "title": "Yummy Mexican Beef En-Croute Barbacoa",
+    "tags": [
+      "barbacoa",
+      "beef",
+      "en-croute",
+      "high-protein",
+      "mexican",
+      "one-pan",
+      "pastry",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 270,
     "shard": "y"
   },
   {

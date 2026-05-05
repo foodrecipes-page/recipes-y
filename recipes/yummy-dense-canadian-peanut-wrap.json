@@ -1,0 +1,106 @@
+{
+  "title": "yummy dense canadian peanut wrap",
+  "description": "Jammy, dense, crowd-pleaser Canadian dish featuring roasted peanut, nigiri-shaping, Mediterranean-friendly, vessel=lotus-leaf-wrap",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus leaf wraps",
+      "amount": "12",
+      "notes": "large, fresh leaves"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1 cup",
+      "notes": "cooled, chopped, unsalted"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "thick, pure, raw"
+    },
+    {
+      "name": "Rye flour",
+      "amount": "1/4 cup",
+      "notes": "all-purpose, finely milled"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tbsp",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": "fleur de sel, flaky"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "light, neutral flavor"
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1/4 tsp",
+      "notes": "medium heat, powdered"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh leaves"
+    }
+  ],
+  "instructions": [
+    "Combine honey, rye flour, and water in a small bowl to form a sticky dough.",
+    "Divide dough into 12 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Place a tablespoon of chopped peanuts in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape, pressing edges to seal.",
+    "Brush the tops with sesame oil and sprinkle with salt, red pepper, and cilantro.",
+    "Heat a large skillet over medium heat and cook wraps for 2-3 minutes on each side, until golden brown.",
+    "Serve warm and enjoy!",
+    "Let wraps cool slightly before serving to prevent breakage.",
+    "For an added crunch, sprinkle with additional peanuts before serving.",
+    "Serve with your favorite dipping sauce, such as chili oil or sriracha.",
+    "Experiment with different fillings, such as hummus or avocado, for a unique twist."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "high-fiber",
+    "lunch",
+    "mediterranean",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 24
+  },
+  "slug": "yummy-dense-canadian-peanut-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-dense-canadian-peanut-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "roasted peanut",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "peanut",
+    "descriptor": "yummy dense",
+    "dishForm": "wrap"
+  }
+}

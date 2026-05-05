@@ -83,6 +83,22 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-brazilian-peas-curry",
+    "title": "Yeasty Brazilian Peas Curry",
+    "tags": [
+      "brazilian",
+      "gluten-free",
+      "high-fiber",
+      "low-calorie",
+      "one-pot",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-canadian-birds-eye-chillies-stew",
     "title": "Yeasty Canadian Birds-Eye Chilli Stew",
     "tags": [
@@ -478,6 +494,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 75,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-tender-egyptian-yam-bake",
+    "title": "Yeasty Tender Egyptian Yam Bake",
+    "tags": [
+      "breakfast",
+      "egyptian",
+      "kid-friendly",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

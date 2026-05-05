@@ -1,0 +1,110 @@
+{
+  "title": "yummy dense peruvian chicken drumsticks stew",
+  "description": "a hearty and comforting stew featuring chicken drumsticks, potatoes, and a variety of spices, all slow-cooked in a rich and flavorful broth.",
+  "cuisine": "peruvian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks (12-16 pieces)",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2-3 medium-sized",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3-4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ají amarillo pepper",
+      "amount": "1 small",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced, optional"
+    }
+  ],
+  "instructions": [
+    "place the copper pot over medium heat on the stovetop.",
+    "add the chopped onion and cook until softened, about 5-7 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the chicken drumsticks, potatoes, oregano, cumin, paprika, salt, and black pepper. stir to combine.",
+    "add the chopped ají amarillo pepper and sliced ginger, if using.",
+    "pour in the chicken broth and bring the mixture to a boil.",
+    "reduce the heat to low and simmer, covered, for 25-30 minutes, or until the chicken is cooked through and the potatoes are tender.",
+    "serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yummy-dense-peruvian-chicken-drumsticks-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-dense-peruvian-chicken-drumsticks-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "yummy dense",
+    "dishForm": "Stew"
+  }
+}

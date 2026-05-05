@@ -1,0 +1,95 @@
+{
+  "title": "Yeasty Tunisian Bun Toast",
+  "description": "A romantic breakfast dish featuring crispy bun toast and a hint of yeast, all while being Whole30-friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buns (4-6)",
+      "amount": "1 package",
+      "notes": "preferably a day-old buns"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Cut the buns in half lengthwise.",
+    "Brush the buns with coconut oil on both sides.",
+    "Place the buns in the skillet and cook for 2-3 minutes or until golden brown.",
+    "Flip the buns and cook for another 2 minutes.",
+    "Meanwhile, in a small bowl, whisk together eggs, almond milk, honey, cinnamon, and cardamom.",
+    "Pour the egg mixture over the toasted buns.",
+    "Cook for another 2-3 minutes or until the eggs are set.",
+    "Serve warm.",
+    "Garnish with fresh herbs or a sprinkle of cinnamon, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-breakfast",
+    "romantic",
+    "snappy",
+    "whole30",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "yeasty-tunisian-bun-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-tunisian-bun-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:56Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "toast",
+    "primaryIngredient": "bun",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "bun",
+    "descriptor": "yeasty",
+    "dishForm": "toast"
+  }
+}

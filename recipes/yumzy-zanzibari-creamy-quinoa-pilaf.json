@@ -1,0 +1,89 @@
+{
+  "title": "Yumzy Zanzibari Creamy Quinoa Pilaf",
+  "description": "A malty and tender middle-eastern dish for a solo dinner featuring vegan butter, mother-sauce-base, and gluten-free-friendly quinoa pilaf.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": 1,
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": 2
+    },
+    {
+      "name": "1/4 cup vegan butter",
+      "amount": 1
+    },
+    {
+      "name": "3 tbsp tahini",
+      "amount": 3
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": 1
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": 1,
+      "notes": "for quinoa"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": 2
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": 0.25
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine quinoa and water/broth in a baking dish.",
+    "Mix vegan butter, tahini, lemon juice, salt, and garlic into the dish.",
+    "Stir in parsley before baking for 25 minutes.",
+    "Serve hot as a solo dinner dish.",
+    "Enjoy your malty and tender middle-eastern Quinoa Pilaf."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malt-flavored",
+    "parsley",
+    "quinoa",
+    "tahini"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 22,
+    "fat": 4
+  },
+  "slug": "yumzy-zanzibari-creamy-quinoa-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yumzy-zanzibari-creamy-quinoa-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T16:17:28Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "vegan butter",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "quinoa",
+    "descriptor": "Creamy",
+    "dishForm": "Pilaf"
+  }
+}

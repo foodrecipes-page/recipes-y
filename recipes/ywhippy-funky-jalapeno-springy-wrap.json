@@ -1,0 +1,82 @@
+{
+  "title": "Ywhippy Funky Jalapeno Springy Wrap",
+  "description": "A raw-friendly British dish featuring brine-wet jalapenos in a springy wrap for post-workout snacking.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jalapeño peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "1-2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "Jalapeño brine",
+      "amount": "4 ounces"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix jalapeno peppers with lime juice and water.",
+    "Add garlic cloves and salt. Mix well.",
+    "Blend the mixture until smooth using an immersion blender or food processor.",
+    "Stir in chopped fresh cilantro leaves.",
+    "Let it chill for at least 30 minutes to infuse flavors.",
+    "Slice the jalapeño brine into rounds, keeping a few pieces whole.",
+    "Warm your wraps and fill them with the cool spicy dip.",
+    "Add some of the brine slices as garnish if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "funky",
+    "post-workout",
+    "raw-friendly",
+    "springy"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "ywhippy-funky-jalapeno-springy-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ywhippy-funky-jalapeno-springy-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T05:47:18Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "brine-wet",
+    "primaryIngredient": "jalapeno",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Funky",
+    "mainIngredient": "Jalapeno",
+    "descriptor": "Springy",
+    "dishForm": "Wrap"
+  }
+}

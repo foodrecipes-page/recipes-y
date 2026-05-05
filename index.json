@@ -4595,5 +4595,18 @@
     "cuisine": "slovakian",
     "totalTimeMin": 15,
     "shard": "y"
+  },
+  {
+    "slug": "ywhippy-funky-jalapeno-springy-wrap",
+    "title": "Ywhippy Funky Jalapeno Springy Wrap",
+    "tags": [
+      "funky",
+      "post-workout",
+      "raw-friendly",
+      "springy"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

@@ -1,0 +1,99 @@
+{
+  "title": "Yogurt-Kissed Uruguayan Clotted-Cream Hash",
+  "description": "A twist on the classic Uruguayan dish, this yogurt-kissed clotted-cream hash is perfect for a quick and easy breakfast. The addition of yogurt adds a tangy flavor and a touch of coolness to the warm clotted cream.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Clotted cream",
+      "amount": "1 cup",
+      "notes": "Extra clotted cream adds a rich and creamy texture to the dish."
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": "Greek yogurt provides a tangy flavor and a touch of coolness to the dish."
+    },
+    {
+      "name": "Diced chorizo",
+      "amount": "1/2 cup",
+      "notes": "Uruguayan-style chorizo adds a spicy kick to the dish."
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/4 cup",
+      "notes": "Caramelized onion adds a sweet and savory flavor to the dish."
+    },
+    {
+      "name": "Diced bell pepper",
+      "amount": "1/4 cup",
+      "notes": "Green bell pepper adds a crunchy texture and a touch of sweetness to the dish."
+    },
+    {
+      "name": "Diced cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Talavera plate",
+      "amount": "",
+      "notes": "Serve in a stone bowl dolsot, garnished with cilantro and a dollop of yogurt."
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat.",
+    "Add the diced chorizo and cook until browned, about 3-4 minutes.",
+    "Add the diced onion and cook until caramelized, about 5-6 minutes.",
+    "Add the diced bell pepper and cook until tender, about 3-4 minutes.",
+    "Stir in the clotted cream and cook until heated through.",
+    "Stir in the yogurt and cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve in a talavera plate, garnished with cilantro and a dollop of yogurt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "gluten-free",
+    "keto",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "yogurt-kissed-uruguayan-clotted-cream-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-kissed-uruguayan-clotted-cream-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "clotted-cream",
+    "descriptor": "yogurt-kissed",
+    "dishForm": "Hash"
+  }
+}

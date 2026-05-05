@@ -378,6 +378,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-middle-eastern-hummus-tagine",
+    "title": "Yeasty Middle-Eastern Hummus Tagine",
+    "tags": [
+      "aerated",
+      "hummus",
+      "middle-eastern",
+      "nostalgic",
+      "snack",
+      "yeast"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-peruvian-sweetened-condensed-milk-pudding",
     "title": "Yeasty Peruvian Sweetened Condensed Milk Pudding",
     "tags": [
@@ -2404,6 +2419,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yogurt-kissed-uruguayan-clotted-cream-hash",
+    "title": "Yogurt-Kissed Uruguayan Clotted-Cream Hash",
+    "tags": [
+      "breakfast",
+      "easy",
+      "gluten-free",
+      "keto",
+      "one-pan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

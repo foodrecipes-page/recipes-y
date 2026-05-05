@@ -1,0 +1,88 @@
+{
+  "title": "Yawn Richly Creamy Russian Manchego Cheese Pilaf",
+  "description": "This rich, springy dish features a gluten-free-friendly blend of Manchego cheese and herbs to energize your morning or lunch.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups manchego cheese",
+      "amount": "",
+      "notes": "Manchego in brine"
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup fresh dill, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "pinch of black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "3 cups chicken broth",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Melt butter in a large skillet over medium heat.",
+    "Add garlic and sauté for about 2 minutes until fragrant.",
+    "Stir in cheese, dill, salt, and pepper. Cook for another minute.",
+    "Whisk in flour to create a roux-like consistency.",
+    "Gradually pour in broth while continuously whisking.",
+    "Simmer until sauce thickens slightly, stirring frequently.",
+    "Serve hot as a side dish or over rice for an elegant lunch option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-cheese",
+    "elegant-side-dish",
+    "fresh-herbs",
+    "gluten-free",
+    "quick-cook"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "yawn-richly-creamy-russian-manchego-cheese-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yawn-richly-creamy-russian-manchego-cheese-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T23:44:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "brine-dry",
+    "primaryIngredient": "manchego",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Manchego Cheese",
+    "descriptor": "Richly Creamy",
+    "dishForm": "Pilaf"
+  }
+}

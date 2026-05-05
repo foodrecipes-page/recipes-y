@@ -1,0 +1,106 @@
+{
+  "title": "yummy ukrainian herbal juice pilaf",
+  "description": "romantic ukrainian dish featuring rice vinegar",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "herbs",
+      "amount": "1 tsp",
+      "notes": "optional: dried thyme, rosemary, or lavender"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a kadhai over medium heat.",
+    "add the chopped parsley and dill and saut\u00138 them until fragrant.",
+    "add the long-grain rice and stir to coat with the herb mixture.",
+    "pour in the broth and bring to a boil.",
+    "reduce the heat to low and cover the kadhai with a tight-fitting lid.",
+    "simmer for 18 minutes or until the liquid has been absorbed.",
+    "fluff the pilaf with a fork and stir in the rice vinegar, salt, and black pepper.",
+    "transfer the pilaf to a serving dish and serve hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "yummy-ukrainian-herbal-juice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-ukrainian-herbal-juice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "emulsify",
+    "primaryIngredient": "rice vinegar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "herbal juice",
+    "descriptor": "yummy",
+    "dishForm": "Pilaf"
+  }
+}

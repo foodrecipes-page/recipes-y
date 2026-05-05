@@ -1,0 +1,96 @@
+{
+  "title": "Yeasty Crisp Irish Lettuce Salad",
+  "description": "A romantic Irish dish featuring little gem lettuce, blanched to perfection and topped with a yeasty crust.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Little Gem Lettuce",
+      "amount": "4 heads",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the butter and flour to make a roux, cooking for 2 minutes over medium heat.",
+    "Gradually add 1 cup of milk to the saucepan, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2 minutes, until thickened.",
+    "Set the sauce aside to cool slightly.",
+    "In a large skillet, blanch the little gem lettuce leaves in boiling water for 30 seconds, then plunge into a bowl of ice water to stop the cooking process.",
+    "Drain the lettuce leaves and pat dry with paper towels.",
+    "In a small bowl, mix together the grated cheddar cheese, fresh thyme, and a pinch of salt and pepper.",
+    "Divide the blanched lettuce leaves among 4 plates, then top each plate with the cooled sauce and sprinkle with the cheese mixture.",
+    "Drizzle the red wine vinegar over the top of each plate, to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "one-pan",
+    "romantic",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "yeasty-crisp-irish-lettuce-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-crisp-irish-lettuce-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lettuce",
+    "descriptor": "yeasty crisp",
+    "dishForm": "Salad"
+  }
+}

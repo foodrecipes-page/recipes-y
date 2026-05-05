@@ -138,6 +138,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-crisp-irish-lettuce-salad",
+    "title": "Yeasty Crisp Irish Lettuce Salad",
+    "tags": [
+      "irish",
+      "one-pan",
+      "romantic",
+      "salad",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-crunchy-indian-mirin-hon-idli",
     "title": "Yeasty Crunchy Indian Mirin-Hon Idli",
     "tags": [
@@ -4738,6 +4752,18 @@
     ],
     "cuisine": "turkish",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-ukrainian-herbal-juice-pilaf",
+    "title": "yummy ukrainian herbal juice pilaf",
+    "tags": [
+      "comfort-food",
+      "high-fiber",
+      "vegan-friendly"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

@@ -1,0 +1,103 @@
+{
+  "title": "Yummy Falafel Squash Falafel",
+  "description": "A winey, crisp middle-eastern dish featuring falafel made from squash and served with a side of tangy salsa for a crowd-pleaser that's low-calorie-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "onions",
+      "amount": "4 small"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup chopped fresh"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp toasted and coarsely ground"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flaxseed oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Chop the squash into small cubes, finely chop onions and garlic cloves.",
+    "In a large bowl, mix chopped squash, chickpeas, onions, and garlic.",
+    "Add cumin seeds, coriander seeds, sesame seeds, flaxseed meal, olive oil, salt, and pepper to the mixture; toss well.",
+    "Divide the falafel mixture into 12 equal portions and shape each portion into a ball using your hands.",
+    "Heat 1 tbsp of flaxseed oil in a non-stick pan over medium-high heat. Once hot, place falafel balls on the pan and fry for about 5 minutes or until golden brown and crispy.",
+    "While frying, prepare salsa by finely chopping tomatoes, cucumbers, jalapenos (optional), lime juice, salt, and pepper in a bowl.",
+    "Serve fried falafel with warm lettuce leaves and tangy salsa on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "crowd-pleaser",
+    "low-calorie-friendly",
+    "middle-eastern",
+    "one-pan",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 16
+  },
+  "slug": "yummy-falafel-squash-falafel",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-falafel-squash-falafel",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:07:21Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "salsa",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Squash",
+    "descriptor": "Yummy",
+    "dishForm": "Falafel"
+  }
+}

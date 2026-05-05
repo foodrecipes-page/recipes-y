@@ -1,0 +1,86 @@
+{
+  "title": "Yeasty Crunchy Saudi-Arabian All-Purpose Seasoning Flatbread",
+  "description": "A flavorful and crunchy flatbread infused with the warm spices of Saudi-Arabia, perfect for a date-night dinner. Made with a yeast-based dough and topped with a blend of all-purpose seasoning.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose seasoning blend",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, sugar, and warm water in a large bowl. Let the mixture sit for 5 minutes until frothy.",
+    "Add flour, salt, and olive oil to the bowl. Mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat a pressure cooker to 375°F (190°C).",
+    "Punch down the dough and divide it into 4-6 equal pieces. Roll each piece into a ball and flatten it slightly.",
+    "Place the flatbreads in the pressure cooker and cook for 5 minutes.",
+    "Let the flatbreads cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "all-purpose-seasoning",
+    "date-night",
+    "flatbread",
+    "pressure-cooker",
+    "saudi-arabian",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "slug": "yeasty-crunchy-saudi-arabian-all-purpose-seasoning-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-crunchy-saudi-arabian-all-purpose-seasoning-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:07:41Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "all-purpose seasoning",
+    "descriptor": "yeasty crunchy",
+    "dishForm": "flatbread"
+  }
+}

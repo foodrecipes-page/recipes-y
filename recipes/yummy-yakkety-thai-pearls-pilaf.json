@@ -1,0 +1,87 @@
+{
+  "title": "Yummy Yakkety Thai Pearls Pilaf",
+  "description": "A floral, shaggy dish that is dairy-free-friendly and perfect for a quick weeknight meal featuring orange juice and binchotan-charcoal.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup Thai rice pearls",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 small orange, juiced",
+      "amount": "orange"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup coconut milk",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup orange juice",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of binchotan-charcoal powder",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant but not browned.",
+    "Stir in Thai rice pearls, orange juice, salt, pepper, and coconut milk.",
+    "Simmer for 5 minutes or until liquid is absorbed by the pearls.",
+    "Sprinkle binchotan-charcoal powder on top of the mixture and stir gently to distribute evenly.",
+    "Serve hot as a side dish or over greens."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "light-and-flavorful",
+    "orange-based",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "yummy-yakkety-thai-pearls-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-yakkety-thai-pearls-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:23:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "orange juice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pearls",
+    "descriptor": "Yummy Yakkety",
+    "dishForm": "Pilaf"
+  }
+}

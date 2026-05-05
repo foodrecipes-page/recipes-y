@@ -1,0 +1,119 @@
+{
+  "title": "Yummy Gooey Indian Chicken Curry",
+  "description": "A simple and delicious Indian-inspired curry recipe featuring the flavors of panang paste and tender chicken. Perfect for a lazy Sunday evening.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "panang paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tandoori masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat. Add onion and cook until browned, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add panang paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add yogurt, tomato, tandoori masala, salt, and black pepper. Stir well to combine.",
+    "Bring mixture to a simmer and cook, stirring occasionally, for 10-15 minutes or until the chicken is cooked through and the sauce is thick and creamy.",
+    "Stir in coconut milk and cook for an additional 2-3 minutes, until heated through.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comfort-food",
+    "curry",
+    "easy-to-make",
+    "high-protein",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 57,
+    "carbs": 14,
+    "fat": 30
+  },
+  "slug": "yummy-gooey-indian-chicken-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-gooey-indian-chicken-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "panang-paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "yummy gooey",
+    "dishForm": "curry"
+  }
+}

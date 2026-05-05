@@ -1,0 +1,139 @@
+{
+  "title": "yummy silky mediterranean vegetable oil bowl",
+  "description": "umami, silky, date-night mediterranean dish featuring vegetable oil, flambe, anti-inflammatory-friendly. served in an earthenware bowl for a romantic dinner experience.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 tablespoon",
+      "notes": "for dusting the bowl"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large earthenware bowl over medium heat.",
+    "add the minced garlic and cook until fragrant, about 1 minute.",
+    "add the chopped rosemary and cook for 1 minute more.",
+    "add the sliced zucchini, yellow bell pepper, and red onion, and cook until the vegetables are tender, about 5 minutes.",
+    "add the chopped parsley, kalamata olives, capers, lemon juice, honey, cumin, smoked paprika, salt, and black pepper, and stir to combine.",
+    "dust the inside of the bowl with flour, then carefully add the vegetable mixture and flambe with a match or lighter, if desired.",
+    "serve the silky, flavorful oil sauce over the vegetables and enjoy!",
+    "garnish with additional parsley, if desired.",
+    "serve immediately, as the sauce will thicken and lose its silky texture over time."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "date-night",
+    "flambe",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "yummy-silky-mediterranean-vegetable-oil-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-silky-mediterranean-vegetable-oil-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:45Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "flambe",
+    "primaryIngredient": "vegetable oil",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "vegetable oil",
+    "descriptor": "Yummy silky",
+    "dishForm": "Bowl"
+  }
+}

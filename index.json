@@ -453,6 +453,22 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-silky-canadian-oyster-mushrooms-gravy",
+    "title": "Yeasty Silky Canadian Oyster Mushrooms Gravy",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "gravy",
+      "hangover-cure",
+      "one-pan",
+      "silky-texture",
+      "weeknight"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-silky-korean-egg-rolls-gyoza",
     "title": "Yeasty Silky Korean Egg Rolls Gyoza",
     "tags": [
@@ -3666,6 +3682,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-gooey-indian-chicken-curry",
+    "title": "Yummy Gooey Indian Chicken Curry",
+    "tags": [
+      "chicken",
+      "comfort-food",
+      "curry",
+      "easy-to-make",
+      "high-protein",
+      "indian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-grilled-argentinian-chicken-grill",
     "title": "yummy grilled argentinian chicken grill",
     "tags": [
@@ -4452,6 +4483,19 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-silky-mediterranean-vegetable-oil-bowl",
+    "title": "yummy silky mediterranean vegetable oil bowl",
+    "tags": [
+      "anti-inflammatory",
+      "date-night",
+      "flambe",
+      "mediterranean"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

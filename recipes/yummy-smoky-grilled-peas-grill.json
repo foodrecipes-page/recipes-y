@@ -1,0 +1,106 @@
+{
+  "title": "yummy smoky grilled peas",
+  "description": "a smoky and savory croatian-inspired dish featuring frozen peas grilled to perfection in a donabe",
+  "cuisine": "croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed in cold water before using"
+    },
+    {
+      "name": "halal olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "donabe",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "metal skewers",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat grill to medium-high heat.",
+    "rinsse the thawed peas and pat dry with paper towels.",
+    "in a small bowl, mix together olive oil, smoked paprika, sea salt, and black pepper.",
+    "add the minced garlic to the bowl and mix well.",
+    "thread the peas onto the metal skewers, leaving a little space between each pea.",
+    "brush the skewers with the garlic and spice mixture.",
+    "place the skewers in the preheated grill and cook for 4-5 minutes per side, or until slightly charred.",
+    "remove the skewers from the grill and sprinkle with chopped parsley.",
+    "serve the grilled peas hot, garnished with additional parsley if desired.",
+    "cook the donabe over the grill, if desired.",
+    "let the donabe heat up for 10-15 minutes before cooking the peas, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "halal",
+    "one-pan",
+    "peas",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "yummy-smoky-grilled-peas-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-smoky-grilled-peas-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "frozen peas",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Peas",
+    "descriptor": "Yummy Smoky Grilled",
+    "dishForm": "Grill"
+  }
+}

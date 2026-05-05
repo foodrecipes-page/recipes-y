@@ -1,0 +1,103 @@
+{
+  "title": "yummy chewy korean mushrooms wrapped-ssam",
+  "description": "a delicious, resinous, and chewy solo-dinner dish featuring mushrooms and toast, perfect for a quick and easy meal.",
+  "cuisine": "korean",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms (enoki or shiitake)",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "toast (gluten-free)",
+      "amount": "4 slices",
+      "notes": "use any type of toast you like"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "crushed toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "preheat your oven to 375°f (190°c).",
+    "toast the bread until lightly browned.",
+    "in a large bowl, whisk together sesame oil, soy sauce, rice vinegar, sugar, and garlic.",
+    "add the sliced mushrooms to the marinade and let it sit for at least 10 minutes.",
+    "heat a skillet over medium heat and cook the marinated mushrooms until they're tender and lightly browned.",
+    "assemble the ssam by placing a slice of toasted bread on a flat surface, then add a few pieces of the cooked mushrooms, some green onions, and a sprinkle of crushed toasted sesame seeds.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "korean",
+    "low-calorie",
+    "one-pan",
+    "quick-and-easy",
+    "veggie-centric",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yummy-chewy-korean-mushrooms-wrapped-ssam",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-chewy-korean-mushrooms-wrapped-ssam",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:03Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "mushrooms",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "mushrooms",
+    "descriptor": "yummy chewy",
+    "dishForm": "Wrapped-ssam"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Yeasty Crunchy Brazilian Cucumber Bowl",
+  "description": "A refreshing and crunchy ovo-vegetarian-friendly bowl featuring fermented cucumber and a tangy yeasty sauce, perfect for a romantic Brazilian dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "2 medium",
+      "notes": "peeled, sliced 1/4 inch thick"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crumbly parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine sliced cucumber and salt. Let it sit for 30 minutes to allow excess water to drain."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cucumber",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "yeasty-crunchy-brazilian-cucumber-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-crunchy-brazilian-cucumber-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:54Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "cucumber",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "cucumber",
+    "descriptor": "yeasty crunchy",
+    "dishForm": "bowl"
+  }
+}

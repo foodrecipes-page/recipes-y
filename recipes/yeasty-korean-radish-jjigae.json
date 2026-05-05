@@ -1,0 +1,114 @@
+{
+  "title": "Yeasty Korean Radish Jjigae",
+  "description": "A crispy, savory, and slightly sweet Korean dish featuring radish, perfect for a hearty brunch. Traditionally cooked in a clay pot over low heat, this recipe is shojin-friendly and easy to prepare.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large Korean radish",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cut the radish into 1-inch pieces and set aside.",
+    "In a small bowl, mix together the water and yeast. Let it sit for 5 minutes until it becomes frothy.",
+    "Heat the vegetable oil in a clay pot over medium heat. Add the garlic and ginger and sauté for 1 minute until fragrant.",
+    "Add the radish pieces and cook for 5 minutes until they start to soften.",
+    "Add the Korean chili flakes, sesame oil, sesame seeds, salt, and sugar. Mix well to combine.",
+    "Pour the yeast mixture into the pot and mix well to combine.",
+    "Reduce the heat to low and simmer for 10 minutes, stirring occasionally, until the radish is cooked through and the liquid has thickened slightly.",
+    "Garnish with chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "yeasty-korean-radish-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-korean-radish-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:23Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "radish",
+    "diet": "shojin",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "radish",
+    "descriptor": "yeasty",
+    "dishForm": "Jjigae"
+  }
+}

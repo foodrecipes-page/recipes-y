@@ -168,6 +168,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-crunchy-brazilian-cucumber-bowl",
+    "title": "Yeasty Crunchy Brazilian Cucumber Bowl",
+    "tags": [
+      "brazilian",
+      "cucumber",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-crunchy-indian-mirin-hon-idli",
     "title": "Yeasty Crunchy Indian Mirin-Hon Idli",
     "tags": [
@@ -377,6 +391,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 270,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-korean-radish-jjigae",
+    "title": "Yeasty Korean Radish Jjigae",
+    "tags": [
+      "brunch",
+      "korean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -3075,6 +3102,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-chewy-korean-mushrooms-wrapped-ssam",
+    "title": "yummy chewy korean mushrooms wrapped-ssam",
+    "tags": [
+      "fodmap-friendly",
+      "korean",
+      "low-calorie",
+      "one-pan",
+      "quick-and-easy",
+      "veggie-centric",
+      "weeknight"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 22,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-chewy-turkish-flax-kebabs",
     "title": "Yummy Chewy Turkish Flax Kebabs",
     "tags": [
@@ -4585,6 +4628,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-smoky-grilled-peas-grill",
+    "title": "yummy smoky grilled peas",
+    "tags": [
+      "grilled",
+      "halal",
+      "one-pan",
+      "peas",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 18,
     "shard": "y"
   },
   {

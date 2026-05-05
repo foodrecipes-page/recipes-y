@@ -1,0 +1,106 @@
+{
+  "title": "Yummy Tasty Briny Uruguayan None Bowl",
+  "description": "A hearty, briny Uruguayan dish featuring cranberry juice and double-rise bread.",
+  "cuisine": "uruguayan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Double-rise bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old loaf"
+    },
+    {
+      "name": "Cranberry juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Merguez sausage",
+      "amount": "4",
+      "notes": "Uruguayan-style, sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, crumbled"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the double-rise bread into 1-inch cubes and place in the earthenware bowl.",
+    "Drizzle the olive oil over the bread, then sprinkle with salt, black pepper, and garlic powder.",
+    "In a separate pan, cook the sliced merguez sausage over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the thinly sliced red onion to the pan and cook until softened, about 5 minutes.",
+    "Stir in the chopped cilantro and cook for an additional minute.",
+    "Pour the cranberry juice into the pan, scraping up any browned bits from the bottom.",
+    "Add the cooked sausage mixture to the bread, then pour the cranberry sauce over the top.",
+    "Top with crumbled feta cheese and serve hot, garnished with additional cilantro if desired.",
+    "Bake the earthenware bowl in the preheated oven for 15-20 minutes, or until the cheese is melted and the bread is toasted.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "briny",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "yummy-tasty-briny-uruguayan-none-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-tasty-briny-uruguayan-none-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:42Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cranberry juice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "none",
+    "descriptor": "Yummy Tasty Briny",
+    "dishForm": "Bowl"
+  }
+}

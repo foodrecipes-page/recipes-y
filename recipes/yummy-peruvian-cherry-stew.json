@@ -1,0 +1,126 @@
+{
+  "title": "yummy peruvian cherry stew",
+  "description": "briny, glassy-jelly, one-pot peruvian dish featuring cherry, roast, fodmap-friendly ingredients. perfect for a weeknight dinner.",
+  "cuisine": "peruvian",
+  "diet": [
+    "fodmap-friendly",
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherries, fresh or frozen",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "limes, juiced",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "amarillo pepper, seeded",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat oil in a large saucepan over medium-high heat.",
+    "add onion and garlic and cook until onion is translucent, about 3 minutes.",
+    "add jalapeno pepper and cook for 1 minute.",
+    "add chicken and cook until browned, about 5 minutes.",
+    "add broth, salt, black pepper, and oregano, and bring to a boil.",
+    "reduce heat to medium-low and simmer for 20 minutes.",
+    "add cherries and continue to simmer for 5 minutes.",
+    "stir in cilantro and lime juice.",
+    "serve stew hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cherry-stew",
+    "easy-dinner",
+    "fodmap-friendly",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "yummy-peruvian-cherry-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-peruvian-cherry-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:34Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "cherry",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cherry",
+    "descriptor": "yummy",
+    "dishForm": "stew"
+  }
+}

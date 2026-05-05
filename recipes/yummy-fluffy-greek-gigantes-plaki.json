@@ -1,0 +1,106 @@
+{
+  "title": "Yummy Fluffy Greek Gigantes Plaki",
+  "description": "A hearty, comforting Greek dish made with tender beans in a rich tomato sauce, served in a clay cazuela. Serve with crusty bread or over rice for a satisfying meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek gigantes beans (such as Lima beans or butter beans)",
+      "amount": "2 cups, drained and rinsed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 can (28 oz)"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay cazuela over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the crushed tomatoes, vinegar, water, mustard powder, oregano, salt, and pepper. Stir to combine.",
+    "Bring the sauce to a simmer and let cook for 10-15 minutes, stirring occasionally.",
+    "Add the cooked gigantes beans to the sauce and stir to combine.",
+    "Transfer the cazuela to the oven and bake at 375°F for 20-25 minutes, or until the beans are heated through and the sauce is bubbly.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve with crusty bread or over rice for a satisfying meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 64,
+    "fat": 12
+  },
+  "slug": "yummy-fluffy-greek-gigantes-plaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-fluffy-greek-gigantes-plaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:56Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "mustard powder",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "gigantes",
+    "descriptor": "Yummy Fluffy",
+    "dishForm": "Plaki"
+  }
+}

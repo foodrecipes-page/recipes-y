@@ -1,0 +1,106 @@
+{
+  "title": "Argentinian Yeast Empanadas",
+  "description": "Delicious, yeasty, and savory, these empanadas are perfect for a crowd. They are a pescatarian-friendly twist on traditional Argentine cuisine.",
+  "cuisine": "argentinian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Horseradish",
+      "amount": "2 tablespoons",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cure",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, sugar, and yeast in a large mixing bowl.",
+    "Add the egg and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat oven to 375\u0003c",
+    "On a lightly floured surface, roll out the dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the onion, horseradish, and cure mixture onto the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together with a fork to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with a little water.",
+    "Bake for 20 minutes or until the empanadas are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "high-protein",
+    "weeknight",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yeasty-argentinian-cure-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-argentinian-cure-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:11Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "horseradish",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cure",
+    "descriptor": "yeasty dense",
+    "dishForm": "Empanadas"
+  }
+}

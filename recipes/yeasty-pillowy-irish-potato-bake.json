@@ -1,0 +1,113 @@
+{
+  "title": "Yeasty Pillowy Irish Potato Bake",
+  "description": "A kid-friendly twist on traditional Irish potato bread, made with a tender beurre-monte and pillowy texture",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Warm milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Beurre-monte (unsalted butter and milk mixture)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together warm milk and yeast, letting it sit for 5-10 minutes until frothy.",
+    "In a large mixing bowl, combine potatoes, egg, sugar, and salt. Mash until smooth.",
+    "Add flour to potato mixture, stirring until a sticky dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the risen dough to a thickness of 1/4 inch.",
+    "Spread the beurre-monte mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Roll the dough into a tight log, starting from the long side. Cut into 8-10 slices.",
+    "Place the slices in a greased 9x13 baking dish, leaving about 1 inch of space between each slice.",
+    "Bake for 25-30 minutes, or until golden brown and puffed.",
+    "Serve warm, dust with powdered sugar if desired.",
+    "Let cool for at least 10 minutes before slicing.",
+    "Optional: drizzle with melted butter or sprinkle with chopped fresh herbs like chives or parsley.",
+    "Cut into slices and serve hot.",
+    "Let the potato bake cool on a wire rack for at least 5 minutes before serving.",
+    "Place the potato bake on a serving platter, slice, and serve immediately.",
+    "This potato bake is perfect for a comforting breakfast or brunch on a chilly morning.",
+    "Serve warm with a pat of butter or a dollop of whipped cream, if desired.",
+    "Let the potato bake rest for 5 minutes before slicing and serving.",
+    "Slice and serve hot, garnished with chopped fresh herbs or a sprinkle of powdered sugar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "irish",
+    "kid-friendly",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "yeasty-pillowy-irish-potato-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-pillowy-irish-potato-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "russet potato",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potato",
+    "descriptor": "yeasty pillowy",
+    "dishForm": "Bake"
+  }
+}

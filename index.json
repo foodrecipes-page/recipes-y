@@ -40,6 +40,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-argentinian-cure-empanadas",
+    "title": "Argentinian Yeast Empanadas",
+    "tags": [
+      "argentinian",
+      "empanadas",
+      "high-protein",
+      "weeknight",
+      "yeast"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-argentinian-empanada-empanada",
     "title": "Yeasty Argentinian Empanada",
     "tags": [
@@ -211,6 +225,23 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-fluffy-saudi-arabian-nuts-tagine",
+    "title": "Yeasty Fluffy Saudi-Arabian Nuts Tagine",
+    "tags": [
+      "ayurvedic-sattvic",
+      "breakfast",
+      "fluffy",
+      "gluten-free",
+      "nut-based",
+      "saudi-arabian",
+      "vegetarian",
+      "yeasty"
+    ],
+    "cuisine": "Saudi-Arabian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-gelatine-polish-gelatin-bake",
     "title": "Yeasty Gelatine Polish Gelatin Bake",
     "tags": [
@@ -346,6 +377,20 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-pillowy-irish-potato-bake",
+    "title": "Yeasty Pillowy Irish Potato Bake",
+    "tags": [
+      "breakfast",
+      "comfort-food",
+      "irish",
+      "kid-friendly",
+      "yeast-bread"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {
@@ -3314,6 +3359,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-fluffy-greek-gigantes-plaki",
+    "title": "Yummy Fluffy Greek Gigantes Plaki",
+    "tags": [
+      "comfort-food",
+      "greek-cuisine",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-fluffy-spanish-chicken-crema-catalana",
     "title": "Yummy Fluffy Spanish Chicken Crema Catalana",
     "tags": [
@@ -4018,6 +4077,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-peruvian-cherry-stew",
+    "title": "yummy peruvian cherry stew",
+    "tags": [
+      "cherry-stew",
+      "easy-dinner",
+      "fodmap-friendly",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-peruvian-quinoa-bowl",
     "title": "Yummy Peruvian Quinoa Bowl",
     "tags": [
@@ -4518,6 +4592,18 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-tasty-briny-uruguayan-none-bowl",
+    "title": "Yummy Tasty Briny Uruguayan None Bowl",
+    "tags": [
+      "breakfast-for-dinner",
+      "briny",
+      "uruguayan"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

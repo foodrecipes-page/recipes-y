@@ -1,0 +1,125 @@
+{
+  "title": "yummy yellow-glazed Indian beans Paella",
+  "description": "Buttery, chewy, kid-friendly Indian (Goan) dish featuring beans, lacquer-glaze, vegan-friendly, served in a Paella pan.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goan style red kidney beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yellow moong dal",
+      "amount": "1/2 cup",
+      "notes": "Split yellow mung beans, rinsed and drained."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped."
+    },
+    {
+      "name": "ginger",
+      "amount": "1 small piece",
+      "notes": "Grated."
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1 sprig",
+      "notes": "Fresh."
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "Mix with 2 tablespoons of water."
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "a few drops",
+      "notes": ""
+    },
+    {
+      "name": "lacquer glaze (maple syrup and turmeric mixed)",
+      "amount": "2 tablespoons",
+      "notes": "See notes."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Paella pan over medium heat. ",
+    "Add onion, ginger, and garlic; cook, stirring occasionally, until the onion is translucent, about 8 minutes. ",
+    "Add curry leaves and cook for 1 minute, until fragrant. ",
+    "Add red kidney beans, moong dal, tamarind paste, turmeric, cumin, and salt; stir to combine. ",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes. ",
+    "Stir in the lacquer glaze and cook for another 5 minutes, until the beans are well coated. ",
+    "Taste and adjust seasoning as needed. ",
+    "Serve hot, garnished with a sprinkle of turmeric powder, if desired.",
+    "Serve with steamed basmati rice or roti for a complete meal.",
+    "If using lacquer glaze made with maple syrup, reduce the amount to 1 tablespoon, as it can be quite sweet."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian",
+    "kid-friendly",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yummy-yellow-glazed-indian-beans-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-yellow-glazed-indian-beans-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "beans",
+    "diet": "vegan",
+    "region": "goan",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "beans",
+    "descriptor": "yummy yellow-glazed",
+    "dishForm": "Paella"
+  }
+}

@@ -466,6 +466,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-russian-buckwheat-blini",
+    "title": "Yeasty Russian Buckwheat Blini",
+    "tags": [
+      "breakfast",
+      "low-glycemic",
+      "russian",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-shattering-venezuelan-puff-pastry-tart",
     "title": "yeasty shattering venezuelan puff pastry tart",
     "tags": [
@@ -1058,6 +1072,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-frozen-venezuelan-seafood-cazuela",
+    "title": "Yellow Frozen Venezuelan Seafood Cazuela",
+    "tags": [
+      "cazuela",
+      "easy-to-make",
+      "one-pan",
+      "seafood",
+      "venezuelan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -5130,6 +5159,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-yellow-glazed-indian-beans-paella",
+    "title": "yummy yellow-glazed Indian beans Paella",
+    "tags": [
+      "gluten-free",
+      "indian",
+      "kid-friendly",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

@@ -1,0 +1,84 @@
+{
+  "title": "Yoghurt-Cured Briny Milk Stew",
+  "description": "A unique Malaysian solo dinner dish featuring whole milk, yogurt, and brine. Gluten-free and suitable for a satvik diet.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "broad beans (mung beans)",
+      "amount": "2 cups soaked overnight"
+    },
+    {
+      "name": "yogurt",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt-block",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Mix milk with soaked broad beans, yogurt, salt, ginger paste, curry powder, and cumin seeds.",
+    "Pour the mixture into a salt-block at least 30 seconds before its melting point to ensure even heating.",
+    "Cook on high heat for 15 minutes until the liquid has been absorbed by the dairy.",
+    "Serve as is or with steamed rice."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 60,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "aerated",
+    "briny",
+    "malaysian",
+    "salt-block-cooking",
+    "solo-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 5,
+    "fat": 6
+  },
+  "slug": "yoghurt-cured-briny-milk-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yoghurt-cured-briny-milk-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T12:41:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "whole milk",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "milk",
+    "descriptor": "Yoghurt-Cured",
+    "dishForm": "Stew"
+  }
+}

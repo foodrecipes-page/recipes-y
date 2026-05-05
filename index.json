@@ -2215,6 +2215,21 @@
     "shard": "y"
   },
   {
+    "slug": "yoghurt-cured-briny-milk-stew",
+    "title": "Yoghurt-Cured Briny Milk Stew",
+    "tags": [
+      "aerated",
+      "briny",
+      "malaysian",
+      "salt-block-cooking",
+      "solo-dinner",
+      "vegetarian"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yogurt-caprese",
     "title": "Yogurt Caprese",
     "tags": [

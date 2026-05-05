@@ -1,0 +1,102 @@
+{
+  "title": "Yogurt-Infused Smoked Punjabi Haddock Paratha Bake",
+  "description": "A sweet and creamy monsoon-inspired Punjabi dish featuring smoked haddock, yogurt glaze, and flaky paratha layers, all cooked in a kazan cauldron.",
+  "cuisine": "punjabi",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked Haddock Fillets",
+      "amount": "4",
+      "notes": "Freshness level: 1-2 days old"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "250",
+      "notes": "Traditional Indian yogurt, 1000 ml container"
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "2 teaspoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "0.5 teaspoon",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Unrefined, iodized salt"
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "50ml",
+      "notes": "For brushing the paratha layers"
+    },
+    {
+      "name": "Punjabi-Style Paratha",
+      "amount": "4-6 layers",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan cauldron to 375 degrees Fahrenheit.",
+    "Brush the paratha layers with a mixture of ghee and cumin powder.",
+    "Layer the paratha, smoked haddock, and yogurt mixture in the kazan, finishing with a layer of paratha on top.",
+    "Brush the top layer of paratha with the remaining ghee mixture.",
+    "Cover the kazan with a lid and cook for 20 minutes.",
+    "Uncover and continue cooking for an additional 10-12 minutes, until the paratha is golden brown.",
+    "Remove from heat and garnish with chopped cilantro.",
+    "Serve hot, with a side of chutney or raita, if desired."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 30,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "monsoon",
+    "one-pan",
+    "punjabi",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yogurt-infused-smoked-punjabi-smoked-haddock-layered-paratha-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-infused-smoked-punjabi-smoked-haddock-layered-paratha-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "glaze",
+    "primaryIngredient": "smoked haddock",
+    "diet": "mediterranean",
+    "region": "punjabi",
+    "cuisineAdjective": "Punjabi",
+    "mainIngredient": "smoked haddock",
+    "descriptor": "yogurt-infused smoked",
+    "dishForm": "Layered Paratha Bake"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "title": "yummy chewy Canadian yam hash",
+  "description": "funky, chewy, one-pot Canadian dish featuring curry powder, vegetarian-friendly, and a hint of smokiness from yakimono-grill. Perfect for a cozy dinner or lunch with friends.",
+  "cuisine": "Canadian",
+  "diet": [
+    null,
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yams",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use for grilling"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "yakimono-grill seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "heat 1 tbsp olive oil in a large cast-iron skillet or Dutch oven over medium-high heat.",
+    "add yams, onion, and garlic; cook, stirring occasionally, until the yams start to soften, about 10 minutes.",
+    "add curry powder and cook for 1 minute, stirring constantly.",
+    "add carrots and cook, stirring occasionally, for 5 minutes.",
+    "add yakimono-grill seasoning, salt, and black pepper; stir to combine.",
+    "grill the hash, covered, for 5-7 minutes per side, or until the yams are tender and slightly charred.",
+    "remove from heat and garnish with chopped green onions and cilantro, if using.",
+    "serve hot, straight from the grill.",
+    "adjust seasoning to taste, if needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "yummy-chewy-canadian-yam-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-chewy-canadian-yam-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:19Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "curry powder",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "yam",
+    "descriptor": "yummy chewy",
+    "dishForm": "hash"
+  }
+}

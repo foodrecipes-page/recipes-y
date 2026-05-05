@@ -2436,6 +2436,20 @@
     "shard": "y"
   },
   {
+    "slug": "yogurt-infused-smoked-punjabi-smoked-haddock-layered-paratha-bake",
+    "title": "Yogurt-Infused Smoked Punjabi Haddock Paratha Bake",
+    "tags": [
+      "high-protein",
+      "monsoon",
+      "one-pan",
+      "punjabi",
+      "weeknight"
+    ],
+    "cuisine": "punjabi",
+    "totalTimeMin": 65,
+    "shard": "y"
+  },
+  {
     "slug": "yogurt-kissed-molten-brazilian-cheese-fritters",
     "title": "Yogurt-kissed Molten Brazilian Cheese Fritters",
     "tags": [
@@ -3013,6 +3027,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-chewy-canadian-yam-hash",
+    "title": "yummy chewy Canadian yam hash",
+    "tags": [
+      "canadian",
+      "gluten-free",
+      "one-pan",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

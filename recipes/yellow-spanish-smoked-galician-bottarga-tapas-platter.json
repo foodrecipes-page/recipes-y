@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Spanish Smoked Galician Bottarga Tapas-Platter",
+  "description": "A light and easy tapas platter featuring smoked bottarga, fresh vegetables, and crusty bread.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked bottarga",
+      "amount": "1/2 cup",
+      "notes": "high-quality, thinly sliced"
+    },
+    {
+      "name": "Large onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "seeds removed, thinly sliced"
+    },
+    {
+      "name": "Yellow tomato",
+      "amount": "2",
+      "notes": "halved"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi-earthenware cook to 400°F (200°C).",
+    "In a small bowl, whisk together the olive oil, minced garlic, and a pinch of salt.",
+    "Add the sliced onion and red bell pepper to the bowl and toss to coat with the garlic oil.",
+    "Arrange the bread on a plate and toast in the ttukbaegi-earthenware cook for 2 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "galician",
+    "pescatarian",
+    "quick",
+    "spanish",
+    "tapas",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "yellow-spanish-smoked-galician-bottarga-tapas-platter",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spanish-smoked-galician-bottarga-tapas-platter",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:50:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "bottarga",
+    "diet": "pescatarian",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "Bottarga",
+    "descriptor": "Yellow Spanish Smoked",
+    "dishForm": "Tapas-Platter"
+  }
+}

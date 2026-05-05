@@ -4635,5 +4635,20 @@
     "cuisine": "British",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yzesty-indian-tomato-pilaf",
+    "title": "Yzesty Indian Tomato Pilaf",
+    "tags": [
+      "barley-dense",
+      "meal-prep",
+      "sweetness-free",
+      "vessel-specific",
+      "vinegar-based",
+      "yuzu-flavored"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 65,
+    "shard": "y"
   }
 ]

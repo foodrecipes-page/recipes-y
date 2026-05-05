@@ -1,0 +1,91 @@
+{
+  "title": "Yzesty Indian Tomato Pilaf",
+  "description": "A malty, dense malty Brazilian dish featuring white vinegar and yuzu-cure for a unique meal-prep option.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups pearl barley",
+      "amount": "cup"
+    },
+    {
+      "name": "1 cup diced tomatoes",
+      "amount": "cup"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/2 cup white vinegar",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tablespoon yuzu-cure",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of sugar-free sweetener",
+      "amount": null
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine pearl barley, diced tomatoes, onion, and garlic in a mixing bowl.",
+    "In another pan, heat olive oil over medium heat. Add white vinegar and yuzu-cure. Bring to simmering point.",
+    "Pour the vinegar mixture over the vegetable mix and toss well until evenly distributed.",
+    "Place barley mixture into an oven-safe dish and pour the vinegar mixture over it as well.",
+    "Bake for 40 minutes or until the barley is tender but not mushy.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barley-dense",
+    "meal-prep",
+    "sweetness-free",
+    "vessel-specific",
+    "vinegar-based",
+    "yuzu-flavored"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 2
+  },
+  "slug": "yzesty-indian-tomato-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yzesty-indian-tomato-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T11:31:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "white vinegar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tomato",
+    "descriptor": "Zesty",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Yvelvety Sour Cacao Panna Cotta",
+  "description": "A velvety Irish dish featuring cacao that is perfect for a weeknight dinner and suitable for Buddhist temple-friendly settings.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": 200
+    },
+    {
+      "name": "heavy cream",
+      "amount": 150
+    },
+    {
+      "name": "sour cream",
+      "amount": 100
+    },
+    {
+      "name": "cacao paste",
+      "amount": 75
+    },
+    {
+      "name": "vanilla extract",
+      "amount": 3
+    },
+    {
+      "name": "powdered sugar",
+      "amount": 20
+    },
+    {
+      "name": "agar agar (agar-agar)",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Combine milk and heavy cream in a saucepan.",
+    "Add vanilla extract, cacao paste, and powdered sugar to the saucepan.",
+    "Stir until everything is fully incorporated. Bring mixture to a simmer on medium heat.",
+    "Reduce heat to low and add agar agar slowly while stirring continuously until it dissolves completely.",
+    "Continue cooking for about 5 minutes or until thick enough to coat the back of a spoon (mushimoto-steaming).",
+    "Let cool slightly before serving, garnishing with additional vanilla extract if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cacao-based",
+    "dessert",
+    "low-fat",
+    "vegan-friendly",
+    "weeknight-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 6
+  },
+  "slug": "yvelvety-sour-cacao-panna-cotta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yvelvety-sour-cacao-panna-cotta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:48:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "cacao",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Sour",
+    "mainIngredient": "Cacao",
+    "descriptor": "Velvety",
+    "dishForm": "Panna Cotta"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Yucky Norwesky Black Treacle Crumble Cataplana",
+  "description": "A savory, crumbly, indulgent Norwegian dish featuring black treacle, double-fry-kfc, low-sodium-friendly, prepared in a cataplana vessel.",
+  "cuisine": "norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black treacle",
+      "amount": "100g"
+    },
+    {
+      "name": "double-fry-kfc meat",
+      "amount": "250g"
+    },
+    {
+      "name": "low-sodium-friendly seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cocoa powder for dusting",
+      "amount": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat cataplana dish at 350F.",
+    "Mix black treacle with double-fry-kfc meat, seasoning blend, and flour until evenly coated.",
+    "Heat unsalted butter in cataplana for about 1 minute on medium heat.",
+    "Add the meat mixture to the heated butter and cook for another 5 minutes.",
+    "Sprinkle cocoa powder over the top before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "indulgent",
+    "low-sodium-friendly",
+    "norwegian",
+    "one-pan",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 75,
+    "fat": 25
+  },
+  "slug": "yucky-norwesky-black-treacle-crumble-cataplana",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yucky-norwesky-black-treacle-crumble-cataplana",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:41:12Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "black treacle",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Black Treacle",
+    "descriptor": "Indulgent Crumbly",
+    "dishForm": "Crumble"
+  }
+}

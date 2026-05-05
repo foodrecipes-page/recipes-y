@@ -1,0 +1,114 @@
+{
+  "title": "peppery polish meat tagine",
+  "description": "a hearty and savory polish dish featuring harissa spice and tender lamb. serves 4-6 people.",
+  "cuisine": "polish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "onion",
+      "amount": "2 large",
+      "notes": "- chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "- minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "- chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "- peeled and chopped"
+    },
+    {
+      "name": "harissa spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 150°c.",
+    "season the lamb shoulder with salt, black pepper, and harissa spice blend.",
+    "heat the olive oil in a large oven-safe pot over medium-high heat.",
+    "sear the lamb shoulder until browned on all sides, about 2 minutes per side.",
+    "add the chopped onion, minced garlic, chopped carrots, and peeled and chopped potatoes to the pot.",
+    "cook until the vegetables are tender, about 10 minutes.",
+    "add the smoked paprika, ground cumin, and chicken broth to the pot.",
+    "transfer the pot to the preheated oven and cook for 2-3 hours, or until the lamb is tender.",
+    "remove the pot from the oven and let it cool slightly.",
+    "serve the lamb and vegetables hot, garnished with fresh parsley.",
+    "taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "meat-lovers",
+    "mediterranean",
+    "polish-cuisine",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 60,
+    "carbs": 50,
+    "fat": 40
+  },
+  "slug": "yields-peppery-polish-meat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yields-peppery-polish-meat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:38:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "sous-vide",
+    "primaryIngredient": "harissa spice",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "meat",
+    "descriptor": "yields peppery",
+    "dishForm": "Tagine"
+  }
+}

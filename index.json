@@ -2409,6 +2409,21 @@
     "shard": "y"
   },
   {
+    "slug": "yields-peppery-polish-meat-tagine",
+    "title": "peppery polish meat tagine",
+    "tags": [
+      "adventurous",
+      "meat-lovers",
+      "mediterranean",
+      "polish-cuisine",
+      "slow-cooker",
+      "weeknight"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 150,
+    "shard": "y"
+  },
+  {
     "slug": "yoghurt-cured-briny-milk-stew",
     "title": "Yoghurt-Cured Briny Milk Stew",
     "tags": [

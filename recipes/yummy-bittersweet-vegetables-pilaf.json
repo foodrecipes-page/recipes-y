@@ -1,0 +1,84 @@
+{
+  "title": "Yummy Bittersweet Vegetables Pilaf",
+  "description": "A hearty blend of fluffy vegetables in a bittersweet sauce with caramelized sugar and rest-meat for a perfect hangover cure.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": 2
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4
+    },
+    {
+      "name": "carrots",
+      "amount": 3
+    },
+    {
+      "name": "celery stalks",
+      "amount": 2
+    },
+    {
+      "name": "butter",
+      "amount": 100
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "caramelized sugar sauce",
+      "amount": ""
+    },
+    {
+      "name": "rest-meat",
+      "amount": "as desired"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a pot, then add onions and garlic.",
+    "Sauté until the onions are translucent. Add carrots and celery.",
+    "Cook for an additional 5 minutes, stirring occasionally.",
+    "Stir in caramelized sugar sauce with salt to taste.",
+    "Add rest-meat and cook for another 3-4 minutes or until heated through.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-dish",
+    "bittersweet-vegetables",
+    "fluffy",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yummy-bittersweet-vegetables-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-bittersweet-vegetables-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:03:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "rest-meat",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Bittersweet",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Yummy",
+    "dishForm": "Pilaf"
+  }
+}

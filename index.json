@@ -2660,6 +2660,19 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-bittersweet-vegetables-pilaf",
+    "title": "Yummy Bittersweet Vegetables Pilaf",
+    "tags": [
+      "american-dish",
+      "bittersweet-vegetables",
+      "fluffy",
+      "hangover-cure"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-bouncy-tunisian-steak-tagine",
     "title": "Yummy Bouncy Tunisian Steak Tagine",
     "tags": [

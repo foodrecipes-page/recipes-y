@@ -3419,6 +3419,19 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-italian-gelato-pasta",
+    "title": "Yummy Italian Gelato Pasta",
+    "tags": [
+      "emilia-romagna",
+      "gelato-pasta",
+      "snack",
+      "sweet"
+    ],
+    "cuisine": "italian (emilia-romagna)",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-italian-ham-panettone",
     "title": "Yummy Italian Ham Panettone",
     "tags": [

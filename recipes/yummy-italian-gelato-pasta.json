@@ -1,0 +1,65 @@
+{
+  "title": "Yummy Italian Gelato Pasta",
+  "description": "A sweet, snappy post-workout dish featuring linguine pasta with a touch of gelato for added texture and flavor.",
+  "cuisine": "italian (emilia-romagna)",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "gelato",
+      "amount": "100g"
+    },
+    {
+      "name": "linguine pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "vanilla ice cream sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a pot of salted water to boiling.",
+    "Add linguine pasta and cook according to package instructions until al dente.",
+    "Drain pasta and set aside.",
+    "In a separate pan, warm the vanilla ice cream sauce over low heat.",
+    "Combine cooked pasta with the warmed sauce in a serving dish.",
+    "Sprinkle gelato on top of the mixture for added texture and flavor.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "emilia-romagna",
+    "gelato-pasta",
+    "snack",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 12,
+    "carbs": 58,
+    "fat": 15
+  },
+  "slug": "yummy-italian-gelato-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-italian-gelato-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T07:38:21Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "linguine pasta",
+    "diet": "buddhist-temple",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Pasta",
+    "mainIngredient": "Gelato",
+    "descriptor": "Yummy",
+    "dishForm": "Noodles"
+  }
+}

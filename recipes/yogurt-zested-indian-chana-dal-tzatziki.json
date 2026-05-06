@@ -1,0 +1,96 @@
+{
+  "title": "Yogurt-Zested Indian Chana-Dal Tzatziki",
+  "description": "A pungent and energizing Indian dish featuring a blend of datterini-tomato, mirepoix-base, paleo-friendly ingredients that combines the flavors of chana-masala with tzatziki sauce for a unique culinary experience.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "3 cups raw chickpeas (chana dal)",
+      "amount": "1",
+      "notes": "Soaked and drained"
+    },
+    {
+      "name": "2 large tomatoes, diced",
+      "amount": "1"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "3"
+    },
+    {
+      "name": "2 green chilies, slit and finely chopped",
+      "amount": "2"
+    },
+    {
+      "name": "6 tablespoons lemon juice (squeeze from 2 lemons)",
+      "amount": "6"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null
+    },
+    {
+      "name": "A pinch of cumin powder",
+      "amount": "1"
+    },
+    {
+      "name": "2 tablespoons garam masala",
+      "amount": "2"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro (coriander)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "In a large pot, add soaked and drained chickpeas, diced tomatoes, finely chopped onion, minced garlic, green chilies, lemon juice, olive oil, salt, cumin powder, and garam masala. Stir well.",
+    "Simmer over medium heat for about 15 minutes or until the mixture thickens slightly.",
+    "Remove from heat and let it cool before serving with tzatziki sauce.",
+    "For tzatziki, mix 2 cups of Greek yogurt with finely chopped datterini-tomato, olive oil, lemon juice, garlic, green chilies (if used), salt, and cumin powder. Chill for at least an hour before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "energy-packed",
+    "high-protein",
+    "indian-dish",
+    "paleo-friendly",
+    "tzatziki-sauce"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "yogurt-zested-indian-chana-dal-tzatziki",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-zested-indian-chana-dal-tzatziki",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T12:22:39Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Chana Dal",
+    "descriptor": "Yogurt-Zested",
+    "dishForm": "Yogurt-Tzatziki Chana-Masala"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "title": "yeasty fluffy portuguese yautia pilaf",
+  "description": "a pescatarian-friendly portuguese pilaf made with yautia, yeast, and reduced fish stock, with a yeasty, fluffy texture.",
+  "cuisine": "portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fish stock",
+      "amount": "4 cups",
+      "notes": "reduced to 1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken bouillon cube",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "combine yautia and yeast in a bowl, cover, and let sit for 30 minutes",
+    "heat olive oil in a large pan over medium heat, add onion and garlic and cook for 5 minutes",
+    "add fish stock, bouillon cube, ginger, salt, and black pepper to the pan, bring to a boil, then reduce heat to low and simmer for 20 minutes",
+    "add grated cheddar cheese to the pan and stir until melted",
+    "fluff pilaf with a fork, then top with chopped parsley and scallions",
+    "transfer pilaf to a serving dish and serve hot"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "yeasty-fluffy-portuguese-yautia-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-fluffy-portuguese-yautia-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "yautia",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "yautia",
+    "descriptor": "yeasty fluffy",
+    "dishForm": "pilaf"
+  }
+}

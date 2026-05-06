@@ -311,6 +311,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-fluffy-portuguese-yautia-pilaf",
+    "title": "yeasty fluffy portuguese yautia pilaf",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 75,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-fluffy-saudi-arabian-nuts-tagine",
     "title": "Yeasty Fluffy Saudi-Arabian Nuts Tagine",
     "tags": [
@@ -3467,6 +3481,24 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 24,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-crisp-peruvian-nectarines-picarones",
+    "title": "peruvian nectarine picarones",
+    "tags": [
+      "dessert",
+      "diabetic-friendly",
+      "easy-to-make",
+      "gluten-free",
+      "homemade",
+      "one-pan",
+      "peruvian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

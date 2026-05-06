@@ -1,0 +1,93 @@
+{
+  "title": "Yzesty Irish Serrano Ham Pasta",
+  "description": "This salty post-workout dish features a combination of serrano ham and ttukbaegi in a glassy-jelly pasta sauce.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": 200,
+      "notes": "any type"
+    },
+    {
+      "name": "serrano ham",
+      "amount": 150,
+      "notes": "fresh, thinly sliced"
+    },
+    {
+      "name": "ttukbaegi",
+      "amount": 100,
+      "notes": "soaked in water for at least an hour, drained and chopped finely"
+    },
+    {
+      "name": "olive oil",
+      "amount": 20
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": 1
+    },
+    {
+      "name": "salt",
+      "amount": 5
+    },
+    {
+      "name": "black pepper",
+      "amount": 3
+    },
+    {
+      "name": "vegetable broth concentrate",
+      "amount": 20
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add sliced serrano ham and cook until golden brown, about 5 minutes.",
+    "Remove from heat and set aside.",
+    "In the same pan, add chopped ttukbaegi and red pepper flakes. Cook for an additional 2-3 minutes or until fragrant.",
+    "Return serrano ham to the pan with ttukbaegi mixture and stir well.",
+    "Stir in salt and black pepper to taste. Simmer for another minute.",
+    "Bring a pot of salted water to boil. Add pasta, cook according to package instructions.",
+    "Drain pasta, then toss it into the serrano ham-ttukbaegi sauce.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "plant-based-friendly",
+    "post-workout",
+    "salted"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "yzesty-irish-serrano-ham-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yzesty-irish-serrano-ham-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T13:59:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "serrano ham",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Serrano Ham",
+    "descriptor": "Zesty",
+    "dishForm": "Pasta"
+  }
+}

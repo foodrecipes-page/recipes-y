@@ -1,0 +1,116 @@
+{
+  "title": "Yeasty Bouncy Brazilian Fish Fillet Knead",
+  "description": "A lazy Sunday Brazilian dish featuring a yeasty fish fillet with a bouncy twist, perfect for a high-protein meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Flounder Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Large Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, baking soda, and kosher salt. ",
+    "Melt 1 tablespoon of unsalted butter in a small saucepan over medium heat. ",
+    "Add the sugar to the melted butter and stir until dissolved. ",
+    "Pour the sugar mixture into the mixing bowl and stir to combine. ",
+    "In a separate bowl, whisk together active dry yeast and lukewarm water. ",
+    "Add the yeast mixture to the mixing bowl and stir to combine. ",
+    "Add the flounder fillets to the mixing bowl and toss to coat evenly. ",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Transfer the dough to a greased surface and shape into a ball. ",
+    "Roll out the dough to a thickness of 1/4 inch. ",
+    "Cut out 4 equal pieces of dough and place a flounder fillet on each piece.",
+    "Roll out the dough around each fillet to form a ball and press to seal. ",
+    "Place the fish balls onto a greased baking sheet and brush with remaining 1 tablespoon of unsalted butter. ",
+    "Bake in a preheated oven at 375°F (190°C) for 12 minutes, or until golden brown.",
+    "Garnish with chopped fresh cilantro and serve with a side of plain Greek yogurt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fish",
+    "high-protein",
+    "knead",
+    "lazy-sunday",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "yeasty-bouncy-brazilian-fish-fillet-knead",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-bouncy-brazilian-fish-fillet-knead",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "fish fillet",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "fish fillet",
+    "descriptor": "yeasty bouncy",
+    "dishForm": "knead"
+  }
+}

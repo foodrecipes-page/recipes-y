@@ -1,0 +1,100 @@
+{
+  "title": "Yquick YCheesy Shiitake Wrap",
+  "description": "A funky, cheesy dish featuring shiitake mushrooms in a quick-fix Mexican (Sonoran) style. Buddhist-friendly and served on a Talavera plate.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "10"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lentils",
+      "amount": "200g"
+    },
+    {
+      "name": "cheese blend",
+      "amount": ""
+    },
+    {
+      "name": "pasta sauce",
+      "amount": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": ""
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan, add shiitake mushrooms and onions.",
+    "Stir in garlic and spices. Deglaze with pasta sauce, mayonnaise, tomato paste, salt.",
+    "Add lentils, reduce heat to simmer for 10 minutes.",
+    "Serve on Talavera plate with shredded cheese blend."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-friendly",
+    "funky-cheesy",
+    "mexican-sonoran",
+    "quick-fix",
+    "shiitake-mushroom",
+    "talavera-plate"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 25
+  },
+  "slug": "yquick-y-cheesy-shiitake-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yquick-y-cheesy-shiitake-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T04:16:41Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "buddhist-temple",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "Funky Cheese-Pull",
+    "dishForm": "Wrap"
+  }
+}

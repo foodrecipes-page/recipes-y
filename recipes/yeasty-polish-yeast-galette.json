@@ -1,0 +1,87 @@
+{
+  "title": "Yeasty Polish Galette",
+  "description": "A traditional Polish dessert with a sweet, yeasty flavor and crunchy texture, featuring cinnamon and baked to perfection in a ttukbaegi-earthenware-cook.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1",
+      "notes": "broke into pieces before adding to dough"
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a small bowl, let sit for 5 minutes until frothy.",
+    "In a large mixing bowl, whisk together flour, sugar, and cinnamon stick pieces.",
+    "Add the egg, melted butter, and yeast mixture to the dry ingredients, mix until a sticky dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth, then place in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat a ttukbaegi-earthenware-cook over medium heat on the stovetop.",
+    "Divide the dough into 2 equal pieces, roll out each piece into a thin circle, place one circle in the preheated pot and top with the second circle, press edges together to seal the galette.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the crisp edges are caramelized.",
+    "Let cool for 5 minutes before slicing and serving.",
+    "Serve warm, dust with powdered sugar if desired.",
+    "Serve with whipped cream or ice cream if preferred."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 20,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "breakfast",
+    "dessert",
+    "polish",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "yeasty-polish-yeast-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-polish-yeast-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:00:55Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "yeast",
+    "descriptor": "yeasty",
+    "dishForm": "Galette"
+  }
+}

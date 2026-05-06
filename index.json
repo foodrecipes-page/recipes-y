@@ -539,6 +539,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-polish-yeast-galette",
+    "title": "Yeasty Polish Galette",
+    "tags": [
+      "baked",
+      "breakfast",
+      "dessert",
+      "polish",
+      "sweet"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-russian-buckwheat-blini",
     "title": "Yeasty Russian Buckwheat Blini",
     "tags": [

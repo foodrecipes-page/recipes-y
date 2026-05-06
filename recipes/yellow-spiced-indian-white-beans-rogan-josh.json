@@ -1,0 +1,114 @@
+{
+  "title": "Yellow Spiced Indian White Beans Rogan Josh",
+  "description": "A mustardy and cozy Indian dish featuring dried white beans in a rich and aromatic rogan josh sauce, marinated in miso for added depth of flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "such as cannellini or navy beans"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried white beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked beans, then transfer them to a large pot with 2 cups of water and bring to a boil.",
+    "Reduce the heat to a simmer and cook the beans until they are tender, about 45 minutes.",
+    "In a small bowl, whisk together the miso paste, mustard oil, ground cumin, ground coriander, cayenne pepper, and salt.",
+    "Add the chopped onion, grated ginger, and minced garlic to the bowl with the miso mixture and stir to combine.",
+    "Add the cooked white beans to the bowl with the miso mixture and stir to coat the beans evenly.",
+    "Transfer the bean mixture to a large saucepan and add 1 cup of water, bringing the mixture to a simmer.",
+    "Reduce the heat to low and cook the rogan josh sauce for 20 minutes, stirring occasionally, until the sauce has thickened and the flavors have melded together.",
+    "Stir in the chopped fresh cilantro and serve the Yellow Spiced Indian White Beans Rogan Josh hot over rice or with naan bread.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "indian-cuisine",
+    "one-pot",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-spiced-indian-white-beans-rogan-josh",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spiced-indian-white-beans-rogan-josh",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:08:36Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "miso-marinate",
+    "primaryIngredient": "dried white beans",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "white beans",
+    "descriptor": "Yellow Spiced",
+    "dishForm": "Rogan Josh"
+  }
+}

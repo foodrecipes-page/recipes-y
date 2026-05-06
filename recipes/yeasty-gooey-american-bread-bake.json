@@ -1,0 +1,108 @@
+{
+  "title": "Yeasty Gooey American Bread Bake",
+  "description": "Soft, buttery bread rolls with a gooey center, perfect for a lazy Sunday brunch. ",
+  "cuisine": "american",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, sugar, and yeast in a large mixing bowl.",
+    "Add warm water and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375\u000496F.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Place the balls onto a baking sheet lined with parchment paper, leaving 2 inches of space between each roll.",
+    "Brush the tops of the rolls with egg wash and sprinkle with sesame seeds.",
+    "Bake for 15 minutes or until golden brown.",
+    "Remove the rolls from the oven and let them cool for 5 minutes.",
+    "Split each roll in half horizontally using a serrated knife.",
+    "Place the rolls under the broiler for 1-2 minutes or until the centers are golden brown and gooey.",
+    "Remove the rolls from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 22,
+  "totalTimeMin": 42,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "bread",
+    "breakfast",
+    "brunch",
+    "easy-to-make",
+    "homemade",
+    "rolls",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 16,
+    "carbs": 80,
+    "fat": 14
+  },
+  "slug": "yeasty-gooey-american-bread-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-gooey-american-bread-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:56:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "salt-bake",
+    "primaryIngredient": "bread rolls",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "bread",
+    "descriptor": "yeasty gooey",
+    "dishForm": "Bake"
+  }
+}

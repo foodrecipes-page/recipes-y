@@ -1,0 +1,124 @@
+{
+  "title": "yummy slow-cooked argentinian pork knuckle bowl",
+  "description": "grassy, cheese-pull, sick-day argentinian dish featuring pork knuckle, sous-vide, keto-friendly",
+  "cuisine": "argentinian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salsa criolla",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "chimichurri",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grass-fed beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the pork knuckle with sea salt, black pepper, chili flakes, and dried oregano. ",
+    "Wrap the pork knuckle in plastic wrap and seal in a sous vide bag. ",
+    "Cook the pork knuckle in a water bath at 130\u0000120F for 24 hours.",
+    " Meanwhile, combine parsley, garlic, chimichurri, and salsa criolla in a bowl. ",
+    "Sear the sous vide bag of pork knuckle in a hot skillet with olive oil until browned, about 5 minutes per side.",
+    "Transfer the pork knuckle to a cutting board and let rest for 10 minutes before slicing.",
+    "To assemble the bowl, place a portion of the sliced pork knuckle on the bottom, followed by a spoonful of the parsley mixture, a sprinkle of parmesan cheese, and a few sprigs of fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1470,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 80,
+    "carbs": 5,
+    "fat": 70
+  },
+  "slug": "yummy-slow-cooked-argentinian-pork-knuckle-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-slow-cooked-argentinian-pork-knuckle-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:54:53Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "sous-vide",
+    "primaryIngredient": "pork knuckle",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "yummy slow-cooked",
+    "dishForm": "bowl"
+  }
+}

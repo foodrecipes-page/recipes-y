@@ -343,6 +343,23 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-gooey-american-bread-bake",
+    "title": "Yeasty Gooey American Bread Bake",
+    "tags": [
+      "american",
+      "bread",
+      "breakfast",
+      "brunch",
+      "easy-to-make",
+      "homemade",
+      "rolls",
+      "weekend"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 42,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-gooey-argentinian-cornmeal-empanadas",
     "title": "Yeasty Gooey Argentinian Cornmeal Empanadas",
     "tags": [
@@ -4860,6 +4877,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-slow-cooked-argentinian-pork-knuckle-bowl",
+    "title": "yummy slow-cooked argentinian pork knuckle bowl",
+    "tags": [
+      "argentinian",
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 1470,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-smoky-greek-pork-pie",
     "title": "Yummy Smoky Greek Pork Pie",
     "tags": [
@@ -4993,6 +5025,24 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 23,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-sour-tunisian-mung-bean-sprout-sukju-tagine",
+    "title": "Yummy Sour Tunisian Mung-Bean-Sprout-Sukju Tagine",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "high-protein",
+      "lunch",
+      "mung-bean-sprouts",
+      "one-pan",
+      "snack",
+      "tunisian",
+      "vegan"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

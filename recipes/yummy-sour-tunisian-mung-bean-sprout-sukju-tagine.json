@@ -1,0 +1,110 @@
+{
+  "title": "Yummy Sour Tunisian Mung-Bean-Sprout-Sukju Tagine",
+  "description": "A delicious and energizing dish originating from Tunisia, featuring mung-bean-sprouts and sukju, with a tangy and fluffy texture.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mung bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sukju",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "Tunisian preserved lemon",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Glossy olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a terracotta dish over medium heat.",
+    "Add the ginger paste and cook for 1 minute until fragrant.",
+    "Add the mung bean sprouts and sukju, and stir to combine.",
+    "Add the cumin powder, salt, and black pepper, and stir to combine.",
+    "Add the Tunisian preserved lemon, and stir to combine.",
+    "Cook for 10 minutes, stirring occasionally, until the mixture is fluffy and tangy.",
+    "Stir in the chopped fresh parsley.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Let the tagine rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "high-protein",
+    "lunch",
+    "mung-bean-sprouts",
+    "one-pan",
+    "snack",
+    "tunisian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yummy-sour-tunisian-mung-bean-sprout-sukju-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-sour-tunisian-mung-bean-sprout-sukju-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "emulsify",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "mung-bean-sprout-sukju",
+    "descriptor": "yummy sour",
+    "dishForm": "Tagine"
+  }
+}

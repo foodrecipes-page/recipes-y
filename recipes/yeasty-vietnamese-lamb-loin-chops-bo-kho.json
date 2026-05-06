@@ -1,0 +1,114 @@
+{
+  "title": "Yeasty Vietnamese Lamb Loin Chops Bo Kho",
+  "description": "A quick and flavorful Vietnamese dish featuring lamb loin chops, served in a yeasty, crisp broth. Serve with rice or noodles for a satisfying meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "use gluten-free if needed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass stalk",
+      "amount": "1",
+      "notes": "slightly bruised to release oils"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "instant dry yeast, active dry yeast or saffron may also work"
+    }
+  ],
+  "instructions": [
+    "Combine lamb loin chops and 1 tsp caraway seeds in a large bowl; set aside.",
+    "In a small saucepan, combine white vinegar, fish sauce, soy sauce, honey, garlic cloves, lemongrass stalk, and ginger. Heat over low heat, whisking until yeast is dissolved.",
+    "Pour the yeast mixture over the lamb loin chops and toss to coat; let marinate for 15 minutes.",
+    "Bring a large skillet or saucepan to medium-high heat. Remove lamb loin chops from marinade, letting any excess liquid drip off. Cook lamb loin chops for 2-3 minutes per side, or until browned and cooked to desired doneness. Transfer lamb loin chops to a plate and set aside.",
+    "Add water to the skillet or saucepan and bring to a boil.",
+    "Reduce heat to low and simmer for 5-7 minutes, or until the broth has reduced slightly and thickened. Season with additional fish sauce, soy sauce, or honey to taste.",
+    "Slice cooked lamb loin chops into thin medallions. Serve with yeasty broth and garnish with additional lemongrass if desired.",
+    "Garnish with chopped cilantro or scallions if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bo-kho",
+    "high-protein",
+    "lamb-loin-chops",
+    "one-pan",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "yeasty-vietnamese-lamb-loin-chops-bo-kho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-vietnamese-lamb-loin-chops-bo-kho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:45:06Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "lamb loin chops",
+    "descriptor": "yeasty",
+    "dishForm": "Bo Kho"
+  }
+}

@@ -5388,5 +5388,17 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 65,
     "shard": "y"
+  },
+  {
+    "slug": "yzzy-briny-zesty-rice-stick-noodles",
+    "title": "Yzzy Briny Zesty Rice Stick Noodles",
+    "tags": [
+      "low-fat-friendly",
+      "simple-sauce",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 60,
+    "shard": "y"
   }
 ]

@@ -1,0 +1,91 @@
+{
+  "title": "Yzzy Briny Zesty Rice Stick Noodles",
+  "description": "A briny, chewy weeknight dish featuring rice stick noodles, long-fermentation-dough, and a low-fat-friendly sauce.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice stick noodles",
+      "amount": 200
+    },
+    {
+      "name": "long-fermentation dough",
+      "amount": "1 packet"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "300 ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "50 ml"
+    },
+    {
+      "name": "lime zest",
+      "amount": "juice of 2"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "30 ml"
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "200 g, diced"
+    },
+    {
+      "name": "crumbled tofu",
+      "amount": "100 g"
+    }
+  ],
+  "instructions": [
+    "Soak rice stick noodles in hot water for 5 minutes.",
+    "Preheat oven to 180°C (350°F)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat-friendly",
+    "simple-sauce",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 32,
+    "carbs": 71,
+    "fat": 29
+  },
+  "slug": "yzzy-briny-zesty-rice-stick-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yzzy-briny-zesty-rice-stick-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T05:22:49Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Briny",
+    "mainIngredient": "Rice Stick Noodles",
+    "descriptor": "Zesty",
+    "dishForm": "Noodles"
+  }
+}

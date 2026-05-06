@@ -1,0 +1,100 @@
+{
+  "title": "Ycitrusy Ivory Yak Biryani",
+  "description": "A citrusy, dense post-workout Irish dish featuring beef stock and yakimono-grill. Ayurvedic-rajasic-friendly.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock",
+      "amount": 1
+    },
+    {
+      "name": "yak meat cubes",
+      "amount": 200
+    },
+    {
+      "name": "oranges, zest and juice",
+      "amount": "1"
+    },
+    {
+      "name": "lemons, zest and juice",
+      "amount": "1"
+    },
+    {
+      "name": "ginger, fresh and finely chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green chili peppers, seeds removed and finely chopped",
+      "amount": "3-4"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "asafetida (hing), powdered",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "garam masala, fine grind",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "6-8"
+    },
+    {
+      "name": "basil leaves, fresh and torn",
+      "amount": "4-5"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add stock, yak cubes, orange zest, lemon zest, ginger, green chili peppers, cumin powder, coriander powder, asafetida, garam masala, and curry leaves to the pot.",
+    "Bring to a simmer then let cook for 15 minutes.",
+    "Stir in basil leaves and cook for another minute.",
+    "Season with salt to taste and garnish with fresh mint leaves if available.",
+    "Serve hot as a main dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "beef-stock",
+    "post-workout-dish",
+    "yak"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 61,
+    "fat": 27
+  },
+  "slug": "ycitrusy-ivory-yak-biryani",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ycitrusy-ivory-yak-biryani",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T19:16:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "beef stock",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ivory",
+    "mainIngredient": "Yak",
+    "descriptor": "Citrusy",
+    "dishForm": "Biryani"
+  }
+}

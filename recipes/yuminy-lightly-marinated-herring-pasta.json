@@ -1,0 +1,83 @@
+{
+  "title": "Yuminy Lightly Marinated Herring Pasta",
+  "description": "A floral, light Malaysian dish featuring herring in a low-fat-friendly marinade and pasta combo, perfect for showcasing culinary skills.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "200g herring fillets",
+      "amount": "pieces"
+    },
+    {
+      "name": "1/4 cup low-fat soy sauce",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp sugar-free sweetener (optional)",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "amount": ""
+    },
+    {
+      "name": "Cooking spray or olive oil for pasta",
+      "amount": ""
+    },
+    {
+      "name": "40g fettuccine pasta",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Sprinkle herring with low-fat soy sauce, lemon juice, sugar-free sweetener, olive oil, salt, and pepper.",
+    "Arrange halved herring on a baking sheet lined with parchment paper. Bake at 200°C for 15 minutes or until the skin is crisp.",
+    "In a large pot, cook fettuccine pasta according to package instructions. Drain well when cooked.",
+    "While pasta cooks, mix marinated herring pieces in a bowl with a little olive oil and reserved cooking spray from pasta.",
+    "Toss the pasta mixture with the cooled herring for a quick and delightful meal.",
+    "Serve immediately and garnish if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herring-pasta",
+    "light-floral-malaysian",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "yuminy-lightly-marinated-herring-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yuminy-lightly-marinated-herring-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:56:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "herring",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Herring",
+    "descriptor": "Lightly Marinated",
+    "dishForm": "Pasta"
+  }
+}

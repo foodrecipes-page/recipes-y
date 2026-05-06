@@ -1,0 +1,117 @@
+{
+  "title": "Yeasty Middle Eastern Yogurt Muhammara",
+  "description": "A kid-friendly Middle Eastern dish that combines the tanginess of natural yoghurt with the crunch of toasted bread and spices.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Natural Yogurt",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "amount": "150g",
+      "crust removed and torn into small pieces},": ",notes:"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Mint",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "Finely Chopped Onion",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Red Pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Freshly Squeezed Lemon Juice",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 160F (71C).",
+    "In a bowl, combine the natural yoghurt, egg, lemon juice, ground cumin, and crushed red pepper. ",
+    "Mix until well combined.",
+    "Add the toasted bread, chopped onion, chopped parsley, chopped mint, pumpkin seeds, and salt to the yoghurt mixture.",
+    "Mix until well combined.",
+    "Place the mixture in a sous-vide bag and seal.",
+    "Cook in the sous-vide machine for 1 hour.",
+    "Remove the bag from the sous-vide machine and let it sit in an ice bath for 10 minutes.",
+    "Open the bag and mix the muhammara well.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "low-glycemic",
+    "middle-eastern",
+    "snack",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "yeasty-middle-eastern-yoghurt-muhammara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-middle-eastern-yoghurt-muhammara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:46Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "yoghurt",
+    "descriptor": "yeasty",
+    "dishForm": "muhammara"
+  }
+}

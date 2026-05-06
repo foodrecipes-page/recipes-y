@@ -1,0 +1,69 @@
+{
+  "title": "Yummy British Chinese Leaf Wrap",
+  "description": "A rich, light dish featuring a combination of norther Irish and Chinese flavors in a wrap made from nuka-pickle seasoned kale leaves.",
+  "cuisine": "British-Chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "1 head"
+    },
+    {
+      "name": "Nuka-Pickle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wash and chop the kale leaves into strips.",
+    "Add nuka-pickle, salt, and olive oil to a small bowl. Mix well until evenly distributed.",
+    "Gently heat the mixed ingredients over low-medium heat for about 5 minutes, stirring occasionally.",
+    "Transfer the heated mixture to a serving dish and let it cool down slightly.",
+    "Place the cooled vegetable dressing inside each kale leaf wrap.",
+    "Fold kale leaves into wraps and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthier-meal",
+    "kale-wrap",
+    "kosher-friendly",
+    "northern-irish",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "yummy-british-chinese-leaf-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-british-chinese-leaf-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T09:29:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "chinese leaf",
+    "diet": "kosher",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Chinese leaf",
+    "descriptor": "Yummy",
+    "dishForm": "Wrap"
+  }
+}

@@ -3110,6 +3110,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-british-chinese-leaf-wrap",
+    "title": "Yummy British Chinese Leaf Wrap",
+    "tags": [
+      "healthier-meal",
+      "kale-wrap",
+      "kosher-friendly",
+      "northern-irish",
+      "quick-fix"
+    ],
+    "cuisine": "British-Chinese",
+    "totalTimeMin": 15,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-cajun-mediterranean-couscous-sushi",
     "title": "Yummy Cajun Mediterranean Couscous Sushi",
     "tags": [

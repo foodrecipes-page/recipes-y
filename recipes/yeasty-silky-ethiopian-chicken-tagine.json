@@ -1,0 +1,127 @@
+{
+  "title": "Ethiopian Yeasty Silky Chicken Tagine",
+  "description": "A rich, comforting, and aromatic chicken stew from Ethiopia, featuring a silky, yeasty texture. Perfect for a cozy dinner with friends or family.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": "make sure to use gluten-free stock concentrate if needed"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": "use gluten-free flour if needed"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "plain water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large saucepan over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the ginger and garlic and cook for another minute, stirring constantly.",
+    "In a small bowl, whisk together the flour and yeast. Add the mixture to the saucepan and cook for 1 minute, stirring constantly.",
+    "Gradually add the water to the saucepan, whisking continuously to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes, or until the sauce has thickened.",
+    "Add the chicken stock concentrate, chicken breast, salt, and black pepper to the saucepan. Cook until the chicken is cooked through, about 10 minutes.",
+    "Stir in the yogurt and coconut oil. Cook for an additional 2-3 minutes, or until the sauce has thickened slightly.",
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired.",
+    "Let the tagine rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Serve the tagine with steamed rice or injera bread for a traditional Ethiopian experience.",
+    "Taste and adjust the seasoning as needed before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "ethiopian",
+    "gluten-free",
+    "one-pan",
+    "rich-and-creamy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "yeasty-silky-ethiopian-chicken-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-silky-ethiopian-chicken-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:45:43Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "yeasty silky",
+    "dishForm": "Tagine"
+  }
+}

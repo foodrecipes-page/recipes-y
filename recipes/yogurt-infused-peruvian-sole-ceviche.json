@@ -1,0 +1,106 @@
+{
+  "title": "Yogurt-Infused Peruvian Sole Ceviche",
+  "description": "A refreshing and cultured Peruvian dish featuring tender sole, yogurt, and raspberries.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh sole fillets",
+      "amount": "4",
+      "notes": "1 pound"
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Raspberries",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Beurre monte",
+      "amount": "1/4 cup",
+      "notes": "See notes"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the sole fillets into small pieces and place in a large bowl.",
+    "In a small bowl, whisk together the yogurt, lime juice, salt, and black pepper.",
+    "Add the raspberries, red onion, and chopped cilantro to the bowl with the sole.",
+    "Pour the yogurt mixture over the sole mixture and stir gently to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, prepare the beurre monte by whisking together the butter and heavy cream until stiff peaks form.",
+    "Fold the beurre monte into the ceviche mixture and serve immediately.",
+    "Garnish with additional raspberries and cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "yogurt-infused-peruvian-sole-ceviche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-infused-peruvian-sole-ceviche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:49:57Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "beurre-monte",
+    "primaryIngredient": "raspberries",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "peruvian",
+    "mainIngredient": "sole",
+    "descriptor": "yogurt-infused",
+    "dishForm": "ceviche"
+  }
+}

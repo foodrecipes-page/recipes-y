@@ -1,0 +1,130 @@
+{
+  "title": "Yellow Buttery Japanese Squash Jjigae",
+  "description": "A peppery and flaky Hokkaido Japanese dish made with butternut squash, a rich mother sauce base, and Mediterranean-friendly ingredients, served in a traditional inarizushi form.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Butternut squash",
+      "amount": "1 (1 kg)",
+      "notes": ""
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp ground",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp minced",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Inari tofu",
+      "amount": "4 pieces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the sushi rice and water in a medium saucepan and bring to a boil over high heat, then reduce the heat to low and cover, cooking for 15 minutes or until the water is absorbed and the rice is fluffy.",
+    "In a separate pan, melt the butter over medium heat and add the ground ginger and minced garlic, cooking for 1 minute or until fragrant.",
+    "Add the miso paste and soy sauce to the pan, whisking until smooth, then add the sesame oil and whisk until combined.",
+    "Add the cooked butternut squash to the pan, stirring to coat with the sauce, then season with salt and black pepper to taste.",
+    "Cut the inari tofu into quarters and place them on a plate, then spoon the butternut squash mixture on top of the tofu.",
+    "Sprinkle the chopped green onions and sesame seeds over the top of the squash mixture, then serve in the inari tofu cups.",
+    "Cook the sushi rice according to the package instructions, then let cool to room temperature.",
+    "Cut the butternut squash into 1-inch cubes and steam until tender, then let cool to room temperature.",
+    "Cut the inari tofu into quarters and cook in a pan with a little bit of oil until crispy on the outside and tender on the inside, then let cool to room temperature.",
+    "Cut the cooked butternut squash into small pieces and mix with the cooked sushi rice, then season with salt and black pepper to taste.",
+    "Spoon the butternut squash and rice mixture into the inari tofu cups, then top with the green onions and sesame seeds.",
+    "Serve the squash and rice mixture in the inari tofu cups hot, garnished with additional green onions and sesame seeds if desired, and a side of soy sauce for serving if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hokkaido",
+    "japanese",
+    "mediterranean-friendly",
+    "one-pan",
+    "vegan-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-buttery-japanese-squash-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-buttery-japanese-squash-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:11:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "butternut squash",
+    "diet": "mediterranean",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Squash",
+    "descriptor": "Yellow Buttery",
+    "dishForm": "Jjigae"
+  }
+}

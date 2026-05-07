@@ -4343,6 +4343,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-japanese-rice-bowl",
+    "title": "yummy japanese rice bowl",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "japanese-cuisine",
+      "one-pan",
+      "rice-bowl",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-jelly-dutch-ground-nut-oil-poffertjes",
     "title": "Yummy Jelly Dutch Ground Nut Oil Poffertjes",
     "tags": [

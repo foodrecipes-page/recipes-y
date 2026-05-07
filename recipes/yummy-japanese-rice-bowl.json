@@ -1,0 +1,72 @@
+{
+  "title": "yummy japanese rice bowl",
+  "description": "grassy, pillowy, adventurous japanese dish featuring plum jam, nimono-simmer, buddhist-temple-friendly. a rice bowl that's both comforting and invigorating.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short-grain japanese rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "plum jam",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "cook the short-grain japanese rice according to package instructions.",
+    "heat a tablespoon of oil in a pan over medium heat.",
+    "add the sliced shiitake mushrooms and cook until they're tender and fragrant, about 5 minutes.",
+    "add the plum jam and stir to combine, then cook for another minute.",
+    "simmer the nimono (mixed vegetables) in a separate pot of water for 10 minutes.",
+    "assemble the rice bowl by placing the cooked rice in a bowl, topping with the nimono and the mushroom-plum jam mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "japanese-cuisine",
+    "one-pan",
+    "rice-bowl",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "yummy-japanese-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-japanese-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:05:06Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "plum jam",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "yummy",
+    "dishForm": "Bowl"
+  }
+}

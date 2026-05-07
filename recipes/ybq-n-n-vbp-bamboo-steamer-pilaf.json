@@ -1,0 +1,84 @@
+{
+  "title": "Ybq-n N Vbp Bamboo-Steamer Pilaf",
+  "description": "A herbal, bouncy-qq, nostalgic Russian dish featuring vanilla bean paste, caramelize, ovo-vegetarian-friendly, vessel=bamboo-steamer.",
+  "cuisine": "Russian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bamboo steamer",
+      "amount": null
+    },
+    {
+      "name": "Vanilla bean paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Herbs (e.g. parsley, dill)",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a bamboo steamer.",
+    "Sauté garlic and onions until translucent, about 3 minutes.",
+    "Add rice to the steamer with more 2 tbsp of olive oil.",
+    "Stir in herbs and remaining vanilla bean paste. Mix well.",
+    "Cover and steam for 20-25 minutes or until rice is tender.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bbq-steamer-friendly",
+    "herbal",
+    "n-straight-from-russia-with-love",
+    "no-refrigeration",
+    "o-vegetarian",
+    "vanilla-bean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "ybq-n-n-vbp-bamboo-steamer-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ybq-n-n-vbp-bamboo-steamer-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T08:47:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "caramelize",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Vanilla Bean Paste",
+    "descriptor": "Bouncy-Qq Nostalgic",
+    "dishForm": "Pilaf"
+  }
+}

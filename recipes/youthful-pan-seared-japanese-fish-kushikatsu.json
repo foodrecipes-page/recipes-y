@@ -1,0 +1,121 @@
+{
+  "title": "Youthful Pan-Seared Japanese Fish Kushikatsu",
+  "description": "Buttery, aerated, festive kushikatsu dish featuring dill, miso-marinate, low-calorie-friendly. A delicious and healthy Japanese-inspired meal from the Kanto region, served in scallop shells.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scallop shells",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Japanese sea bass",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the Japanese sea bass fillets into 1-inch pieces.",
+    "In a shallow dish, mix together miso paste, mirin, soy sauce, sake, sugar, and rice vinegar to make the marinade.",
+    "Add the sea bass pieces to the marinade and refrigerate for at least 30 minutes.",
+    "Prepare the dipping sauce by mixing together equal parts of soy sauce and sake in a small bowl.",
+    "Heat a non-stick pan over medium heat and add 1 tablespoon of butter.",
+    "Dredge the flour-coated sea bass pieces in Panko breadcrumbs, shaking off excess.",
+    "Pan-fry the Kushikatsu for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Transfer the Kushikatsu to a plate and serve immediately in scallop shells with a side of dipping sauce.",
+    "Garnish with chopped dill and serve hot.",
+    "Serve with steamed rice or noodles for a complete meal.",
+    "Adjust the seasoning as needed.",
+    "Make sure not to overcrowd the pan, cook in batches if necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "holiday",
+    "japanese",
+    "kanto-region",
+    "kushikatsu",
+    "low-calorie",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "youthful-pan-seared-japanese-fish-kushikatsu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-pan-seared-japanese-fish-kushikatsu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:11:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "miso-marinate",
+    "primaryIngredient": "dill",
+    "diet": "low-calorie",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Fish",
+    "descriptor": "Youthful Pan-Seared",
+    "dishForm": "Kushikatsu"
+  }
+}

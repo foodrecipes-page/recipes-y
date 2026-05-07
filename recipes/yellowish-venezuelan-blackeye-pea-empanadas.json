@@ -1,0 +1,98 @@
+{
+  "title": "Yellowish Venezuelan Blackeye Pea Empanadas",
+  "description": "A lacto-vegetarian friendly Venezuelan dish featuring blackeye pea, with a mustardy and juicy flavor, perfect for crowds. This empanada is a twist on traditional Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "1"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, butter, and eggs to make the empanada dough.",
+    "Add the mashed blackeye peas, mustard, salt, and pepper to the dough and mix well.",
+    "Gradually add the milk and vegetable oil to the dough, mixing until a ball forms.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the blackeye pea mixture in the center of each circle.",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of milk and bake for 20 minutes, or until golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "blackeye-peas",
+    "crowd-pleaser",
+    "empanadas",
+    "juicy",
+    "lacto-vegetarian",
+    "mustardy",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "yellowish-venezuelan-blackeye-pea-empanadas",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-venezuelan-blackeye-pea-empanadas",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:09:23Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "whisk",
+    "primaryIngredient": "blackeye pea",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "blackeye pea",
+    "descriptor": "yummy juicy",
+    "dishForm": "Empanadas"
+  }
+}

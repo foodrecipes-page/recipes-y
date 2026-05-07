@@ -832,6 +832,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-caramelized-moroccan-reblochon-tagine",
+    "title": "Yellow Caramelized Moroccan Reblochon Tagine",
+    "tags": [
+      "brunch-ideas",
+      "cheesy-dishes",
+      "hot-pot-recipes",
+      "moroccan-cuisine",
+      "pescatarian-friendly"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-citrusy-american-steak-skewers",
     "title": "Yellow Citrusy American Steak Skewers",
     "tags": [
@@ -2534,6 +2548,22 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowish-venezuelan-blackeye-pea-empanadas",
+    "title": "Yellowish Venezuelan Blackeye Pea Empanadas",
+    "tags": [
+      "blackeye-peas",
+      "crowd-pleaser",
+      "empanadas",
+      "juicy",
+      "lacto-vegetarian",
+      "mustardy",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

@@ -1,0 +1,99 @@
+{
+  "title": "Yeasty Flaky German Sweetcorn Bake",
+  "description": "A traditional German brunch dish featuring sweetcorn, salt-bake, and a yeasty flaky crust, perfect for a kosher-friendly meal",
+  "cuisine": "German",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sweetcorn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit",
+    "In a large mixing bowl, combine flour, yeast, and salt",
+    "Gradually add warm water to the bowl and mix until a dough forms",
+    "Knead the dough for 5 minutes until smooth and elastic",
+    "Place the dough in a greased bowl, cover, and let rise in a warm place for 1 hour",
+    "Punch down the dough and roll out into a 1/4 inch thick sheet",
+    "In a separate bowl, mix together sweetcorn kernels, sugar, eggs, and milk",
+    "Spread the sweetcorn mixture evenly over the dough, leaving a 1 inch border around the edges",
+    "Fold the edges of the dough over the filling to form a crust",
+    "Brush the crust with melted butter and bake for 35 minutes, or until golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "brunch-recipes",
+    "german-brunch",
+    "kosher-friendly",
+    "sweetcorn-bake",
+    "yeasty-crust"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "yeasty-flaky-german-sweetcorn-bake",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-flaky-german-sweetcorn-bake",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:08:51Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "salt-bake",
+    "primaryIngredient": "sweetcorn",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "yeasty flaky",
+    "dishForm": "Bake"
+  }
+}

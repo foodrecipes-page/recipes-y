@@ -1,0 +1,86 @@
+{
+  "title": "Ywholesome Zanzibari Millet Pilaf",
+  "description": "A rich and shaggy Malaysian vegetarian-friendly millet pilaf with a midnight-craving appeal.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup millet",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cup"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": null
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "1/2 cup coconut milk",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tbsp vegetable oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cook millet in water until tender, about 20 minutes.",
+    "Saute onion and garlic in oil for a minute.",
+    "Add red bell pepper and cook for another minute.",
+    "Stir in cooked millet, coconut milk, salt, and pepper. Mix well.",
+    "Transfer mixture to an oven-safe dish and bake for 25 minutes or until thickened.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-based",
+    "millet-pilaf",
+    "one-pan-dish",
+    "vegan-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 7
+  },
+  "slug": "ywholesome-zanzibari-millet-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ywholesome-zanzibari-millet-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T18:30:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "millet",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "millet",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Yum-Yum Smoke-Cold Bowtie Pasta",
+  "description": "A buttery, velvety, light polish dish featuring bowtie pasta that is smoke-cold and ovo-vegetarian-friendly. Served in a hot-pot vessel for an easy meal.",
+  "cuisine": "polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": 200,
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "butter",
+      "amount": "80g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": 250,
+      "notes": "sour or regular"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful"
+    },
+    {
+      "name": "salt",
+      "amount": 1,
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": 1,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a pot of salted water to cook the bowtie pasta.",
+    "Melt the butter in a pan over medium heat.",
+    "Add chopped garlic and onion to the melted butter and sauté until soft.",
+    "Stir in the cooked pasta, heavy cream (or sour cream), fresh parsley, salt, and pepper.",
+    "Taste test and adjust seasoning as needed.",
+    "Garnish with additional parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bowtie-pasta",
+    "light-dish",
+    "ovo-vegetarian-friendly",
+    "quick-meal",
+    "smoke-cold"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 23,
+    "carbs": 48,
+    "fat": 19
+  },
+  "slug": "yum-yum-smoke-cold-bowtie-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yum-yum-smoke-cold-bowtie-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T09:14:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "smoke-cold",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "Smoke-Cold",
+    "dishForm": "Pasta"
+  }
+}

@@ -3055,6 +3055,20 @@
     "shard": "y"
   },
   {
+    "slug": "yum-yum-smoke-cold-bowtie-pasta",
+    "title": "Yum-Yum Smoke-Cold Bowtie Pasta",
+    "tags": [
+      "bowtie-pasta",
+      "light-dish",
+      "ovo-vegetarian-friendly",
+      "quick-meal",
+      "smoke-cold"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yuminy-lightly-marinated-herring-pasta",
     "title": "Yuminy Lightly Marinated Herring Pasta",
     "tags": [

@@ -1,0 +1,72 @@
+{
+  "title": "Yummy-Yellow Peruvian Pear Pandan Leaf Wrap",
+  "description": "A creamy and tangy dish featuring pear slices wrapped in a pandan leaf with a dollop of stone-bowl sauce for a brunch-friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pear",
+      "amount": 2,
+      "notes": "Choose firm pears to avoid too much moisture."
+    },
+    {
+      "name": "Stone-bowl sauce",
+      "amount": 100,
+      "notes": "Use store-bought or homemade as a guide for quantities."
+    },
+    {
+      "name": "Pandan leaves",
+      "amount": "2 pieces",
+      "notes": "Look for fresh pandan leaves. Avoid dried ones unless specified."
+    },
+    {
+      "name": "Salt",
+      "amount": 1,
+      "notes": "For taste enhancement."
+    }
+  ],
+  "instructions": [
+    "Wash and peel pears; slice them thinly.",
+    "Prepare the stone-bowl sauce by mixing ingredients according to package instructions.",
+    "Place pandan leaves in a bowl for easier handling.",
+    "Fold each pear slice into pandan leaf wraps, top with dollops of stone-bowl sauce.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy-sauce",
+    "dollop-style",
+    "gluten-free",
+    "pandan-leaf-wrap",
+    "pear-peruvian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "yummy-yellow-peruvian-pear-pandan-leaf-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-yellow-peruvian-pear-pandan-leaf-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T15:50:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "pears",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pear",
+    "descriptor": "Yummy-Yellow",
+    "dishForm": "Wrap"
+  }
+}

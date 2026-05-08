@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Creamy Greek Cox Apple Tiropita",
+  "description": "A creamy and savory Greek dish featuring Cox apples, simmered to perfection and wrapped in a flaky tiropita crust, served on a salt block.",
+  "cuisine": "Greek",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cox apples",
+      "amount": "4",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "yellow cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, simmer the sliced Cox apples over medium heat until they are tender.",
+    "In a large bowl, mix together the crumbly feta cheese, softened yellow cream cheese, and beaten eggs.",
+    "Add the cooked Cox apples to the cheese mixture and stir until well combined.",
+    "Unroll the phyllo dough and cut it into 4 equal pieces.",
+    "Place a quarter of the cheese and apple mixture onto the center of each phyllo piece.",
+    "Fold the phyllo into a triangle and brush the edges with melted butter.",
+    "Place the tiropita on a preheated salt block and bake for 25 minutes.",
+    "Remove the tiropita from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cream-cheese",
+    "flaky-crust",
+    "greek-cuisine",
+    "lunch-ideas",
+    "ovo-vegetarian",
+    "salt-block-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 24
+  },
+  "slug": "yellow-creamy-greek-cox-apple-tiropita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-creamy-greek-cox-apple-tiropita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:03:15Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "cox-apple",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cox apple",
+    "descriptor": "Yellow Creamy",
+    "dishForm": "Tiropita"
+  }
+}

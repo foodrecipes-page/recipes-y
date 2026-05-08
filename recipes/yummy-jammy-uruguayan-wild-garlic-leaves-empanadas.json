@@ -1,0 +1,93 @@
+{
+  "title": "Uruguayan Wild Garlic Empanadas",
+  "description": "A crowd-pleasing Uruguayan dish featuring wild garlic leaves and a jammy filling, these empanadas are perfect for a snack or lunch. The katsuramuki-cut wild garlic leaves add a nice texture to the dish.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 bunch",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the katsuramuki-cut wild garlic leaves to the skillet and cook for an additional 2 minutes.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Spoon a small amount of jam onto the center of each dough circle.",
+    "Add a spoonful of the wild garlic mixture on top of the jam.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and bake for 20 minutes.",
+    "Serve the empanadas warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "jammy",
+    "snack",
+    "uruguayan",
+    "vegetarian",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "yummy-jammy-uruguayan-wild-garlic-leaves-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-jammy-uruguayan-wild-garlic-leaves-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:32:17Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "wild garlic leaves",
+    "descriptor": "yummy jammy",
+    "dishForm": "Empanadas"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Yellow Smoked British Cod Fish And Chips",
+  "description": "A malty, silky, date-night British dish featuring smoked paprika and a mirepoix base, this ayurvedic-sattvic-friendly fish and chips recipe is sure to impress, made with yellow smoked British cod and served with a side of crispy chips.",
+  "cuisine": "British",
+  "diet": [
+    "sattvic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British cod fillets",
+      "amount": "4 pieces",
+      "notes": "yellow smoked"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the diced onion, grated carrot, and diced celery.",
+    "Add the smoked paprika, sea salt, and black pepper to the bowl and mix well.",
+    "Cut the potatoes into long thin strips and rinse them in cold water to remove excess starch.",
+    "Dry the potato strips with paper towels and fry them in hot oil until they are crispy and golden brown.",
+    "Remove the chips from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Dip each cod fillet into the mirepoix mixture, coating it evenly.",
+    "Place the coated cod fillets on a baking sheet lined with parchment paper and drizzle with malt vinegar.",
+    "Bake the cod fillets in the preheated oven for 12 minutes, or until they are cooked through and flake easily with a fork.",
+    "Serve the baked cod with the crispy chips and a side of malt vinegar for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "date-night",
+    "fish-and-chips",
+    "sattvic-friendly",
+    "seafood",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellow-smoked-british-cod-fish-and-chips",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoked-british-cod-fish-and-chips",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:32:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "smoked paprika",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cod",
+    "descriptor": "Yellow Smoked",
+    "dishForm": "Fish And Chips"
+  }
+}

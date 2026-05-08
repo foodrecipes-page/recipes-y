@@ -2101,6 +2101,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-smoked-british-cod-fish-and-chips",
+    "title": "Yellow Smoked British Cod Fish And Chips",
+    "tags": [
+      "british-cuisine",
+      "date-night",
+      "fish-and-chips",
+      "sattvic-friendly",
+      "seafood",
+      "smoked-paprika"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-smoky-argentinian-shrimp-skewers",
     "title": "Yellow Smoky Argentinian Shrimp Skewers",
     "tags": [
@@ -5820,6 +5835,21 @@
     ],
     "cuisine": "croatian",
     "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-jammy-uruguayan-wild-garlic-leaves-empanadas",
+    "title": "Uruguayan Wild Garlic Empanadas",
+    "tags": [
+      "empanadas",
+      "jammy",
+      "snack",
+      "uruguayan",
+      "vegetarian",
+      "wild-garlic"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

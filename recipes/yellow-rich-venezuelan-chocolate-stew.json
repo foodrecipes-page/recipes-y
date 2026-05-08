@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Rich Venezuelan Chocolate Stew",
+  "description": "A rich and creamy one-pot Venezuelan dish featuring plain chocolate and shio-cure, this stew is perfect for a cold evening. The resinous flavor of the chocolate pairs well with the savory elements of the dish.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plain chocolate",
+      "amount": "8 ounces",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Heat the shio-cure in a large pot over medium heat until fragrant.",
+    "Add the plain chocolate to the pot and stir until melted and smooth.",
+    "Add the beef broth, heavy cream, dried thyme, garlic powder, salt, and black pepper to the pot and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the sliced carrots and cubed potatoes to the pot and continue to simmer for an additional 20 minutes, or until the vegetables are tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Let the stew cool slightly before serving to allow the flavors to meld together.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-based",
+    "cold-weather",
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "yellow-rich-venezuelan-chocolate-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-rich-venezuelan-chocolate-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:57:00Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "shio-cure",
+    "primaryIngredient": "plain chocolate",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chocolate",
+    "descriptor": "Yellow Rich",
+    "dishForm": "Stew"
+  }
+}

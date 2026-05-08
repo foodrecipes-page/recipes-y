@@ -2749,6 +2749,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-rich-venezuelan-chocolate-stew",
+    "title": "Yellow Rich Venezuelan Chocolate Stew",
+    "tags": [
+      "chocolate-based",
+      "cold-weather",
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-roasted-brazilian-chicken-skewers",
     "title": "Yellow Roasted Brazilian Chicken Skewers",
     "tags": [
@@ -5523,6 +5538,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-tunisian-challots-skewers",
+    "title": "Yellowed Tunisian Challots Skewers",
+    "tags": [
+      "gluten-free",
+      "grilled",
+      "quick-fix",
+      "snack",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

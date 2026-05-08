@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Flaky Irish Potato Grill",
+  "description": "A midnight craving Irish dish featuring truffle oil and deglaze fond, this recipe is a umami and flaky delight, perfect for a snack, made in a raclette grill and nut free friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "4 large",
+      "notes": "preferably high starch potatoes"
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Deglaze fond",
+      "amount": "2 tablespoons",
+      "notes": "from beef broth reduction"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit.",
+    "Slice the Irish potatoes into 1/4 inch thick rounds.",
+    "In a bowl, mix together minced garlic, salt, and black pepper.",
+    "Add the sliced potatoes to the bowl and toss to coat with the garlic mixture.",
+    "Place the potato slices on the raclette grill and cook for 5 minutes on each side, or until they are golden brown and flaky.",
+    "While the potatoes are cooking, mix the truffle oil and deglaze fond in a small bowl.",
+    "Once the potatoes are done, brush them with the truffle oil mixture.",
+    "Top each potato slice with shaved Grana padano cheese and return to the grill for an additional 2 minutes, or until the cheese is melted and bubbly.",
+    "Remove the potatoes from the grill and top with chopped fresh parsley and a pat of butter.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-texture",
+    "irish-cuisine",
+    "midnight-craving",
+    "nut-free",
+    "raclette-grill",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-flaky-irish-potato-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-irish-potato-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:16:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "truffle oil",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Yellowed Flaky",
+    "dishForm": "Grill"
+  }
+}

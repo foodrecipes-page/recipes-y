@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Garlicky Canadian Kale Skillet",
+  "description": "A garlicky and juicy Canadian dish featuring kale, perfect for a low-carb friendly meal. This energizing skillet is filled with flavor and nutrients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and cut into bite-sized pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped kale to the skillet and cook until it starts to wilt.",
+    "Add the minced garlic to the skillet and cook for an additional 1-2 minutes.",
+    "Add the chicken breast to the skillet and cook until it is browned and cooked through.",
+    "Season the skillet with salt and pepper to taste.",
+    "Pour the lemon juice and chicken broth into the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the skillet for 5 minutes.",
+    "Serve the skillet hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "healthy-dinner",
+    "low-carb",
+    "one-pan",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yellowed-garlicky-canadian-kale-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-garlicky-canadian-kale-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:06:34Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "kale",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "kale",
+    "descriptor": "Yellowed Garlicky",
+    "dishForm": "Skillet"
+  }
+}

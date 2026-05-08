@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Citrusy Thai Tofu Kanom Ko",
+  "description": "A tangy and springy Thai dish featuring marinated tofu and lardons, served in a lacquerware bowl, with a mediterranean twist, this kanom ko is perfect for a quick and easy meal prep",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "yellow curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, ginger, yellow curry powder, salt, and black pepper.",
+    "Add the cubed tofu to the bowl and marinate for at least 30 minutes.",
+    "Remove the tofu from the marinade and bake in the oven for 20 minutes, or until golden brown.",
+    "In a large skillet, render the diced lardons over medium heat until crispy.",
+    "Add the cooked tofu to the skillet and stir to combine with the lardons.",
+    "Serve the tofu and lardons in a lacquerware bowl, garnished with chopped cilantro.",
+    "Prepare the kanom ko by filling small cups with the tofu and lardons mixture.",
+    "Refrigerate the kanom ko for at least 30 minutes to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "thai-street-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yellow-citrusy-thai-tofu-kanom-ko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-citrusy-thai-tofu-kanom-ko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:28:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "marinated tofu",
+    "diet": "mediterranean",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Kanom Ko"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Spiced Egyptian Lamb Kebabs",
+  "description": "Rich and creamy Egyptian dish featuring lamb kebabs grilled to perfection, served with a side of warm water and spices, sugar-free friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "yellow spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked to an internal temperature of 145 degrees.",
+    "While the kebabs are cooking, mix the yellow spice mix with 1 tablespoon of warm water.",
+    "Brush the spice mixture onto the kebabs during the last minute of cooking.",
+    "Serve the kebabs hot with a side of warm water and additional spices if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "healthy-dinner",
+    "lamb-recipes",
+    "middle-eastern",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-spiced-egyptian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spiced-egyptian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:15:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "warm water",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Spiced",
+    "dishForm": "Kebabs"
+  }
+}

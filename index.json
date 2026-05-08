@@ -2070,6 +2070,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spiced-egyptian-lamb-kebabs",
+    "title": "Yellow Spiced Egyptian Lamb Kebabs",
+    "tags": [
+      "grilled-meats",
+      "healthy-dinner",
+      "lamb-recipes",
+      "middle-eastern",
+      "spicy-food"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spiced-ethiopian-rigatoni-shiro",
     "title": "Yellow Spiced Ethiopian Rigatoni Shiro",
     "tags": [

@@ -2,9 +2,7 @@
   "title": "Yellow Citrusy Korean Tortillas Wrap",
   "description": "A vegetarian-friendly Korean-inspired dish featuring citrusy and creamy flavors wrapped in tortillas, perfect for a light lunch or snack. This dish combines the freshness of citrus with the comfort of creamy sauce and crunchy vegetables.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -90,5 +88,9 @@
     "mainIngredient": "tortillas",
     "descriptor": "Yellow Citrusy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

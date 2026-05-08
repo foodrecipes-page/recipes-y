@@ -64,7 +64,10 @@
     "Return the pork to the pot, pour in the chicken stock, and bring the mixture to a gentle boil.",
     "Reduce heat to low, cover, and simmer for 2 hours, or until the pork is fall-through-the-hand tender.",
     "Stir in the chopped cilantro, taste, and adjust seasoning if needed.",
-    "Serve hot, optionally garnished with extra cilantro, and enjoy the sour, midnight-craving flavor."
+    "Serve hot, optionally garnished with extra cilantro, and enjoy the sour, midnight-craving flavor.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 120,
@@ -100,5 +103,11 @@
     "mainIngredient": "pork",
     "descriptor": "Yummy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

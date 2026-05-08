@@ -3,8 +3,7 @@
   "description": "A briny, fluffy Spanish custard with a subtle chicken bouillon twist that feels nostalgic and protein-packed.",
   "cuisine": "Spanish",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -74,7 +73,8 @@
     "Transfer the custard to a heatproof bowl, cover with plastic wrap to prevent a skin from forming.",
     "Let it cool to room temperature, then refrigerate for at least 2 hours until thickened.",
     "Before serving, sprinkle lightly with additional sugar and zest if desired.",
-    "Spoon into ramekins and serve chilled for a creamy, nostalgic treat."
+    "Spoon into ramekins and serve chilled for a creamy, nostalgic treat.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -113,5 +113,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Yummy Fluffy",
     "dishForm": "Crema Catalana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Yummy Jelly Dutch Ground Nut Oil Poffertjes",
   "description": "A festive Dutch dessert featuring ground nut oil, kombu-cold-extract, and a floral glassy-jelly topping.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -68,8 +65,7 @@
     "breakfast",
     "brunch",
     "dutch",
-    "high-protein",
-    "vegan"
+    "high-protein"
   ],
   "nutrition": {
     "calories": 120,
@@ -94,5 +90,10 @@
     "mainIngredient": "ground nut oil",
     "descriptor": "yummy jelly",
     "dishForm": "poffertjes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

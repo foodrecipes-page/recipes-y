@@ -67,7 +67,8 @@
     "Add the split peas, chicken broth, salt, black pepper, and thyme to the pot.",
     "Bring the stew to a boil, then reduce the heat to low and simmer for 45 minutes.",
     "Use an immersion blender to puree the stew until it is smooth and velvety.",
-    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -105,5 +106,9 @@
     "mainIngredient": "split peas",
     "descriptor": "Yellowish earthy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

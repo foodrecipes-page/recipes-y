@@ -72,12 +72,10 @@
   "difficulty": "medium",
   "tags": [
     "canadian",
-    "gluten-free",
     "high-fiber",
     "lunch",
     "mediterranean",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 420,
@@ -102,5 +100,10 @@
     "mainIngredient": "peanut",
     "descriptor": "yummy dense",
     "dishForm": "wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

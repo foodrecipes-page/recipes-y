@@ -69,7 +69,8 @@
     "Sprinkle star anise over the top, cover with foil, and let the dish steam for an additional 5 minutes off the heat.",
     "Remove the foil, fluff the rice gently with a fork, and stir in the chopped cilantro.",
     "Transfer the contents into individual mini cocottes, sealing each with a metal lid.",
-    "Serve the biryani hot, optionally with a side of raita or yogurt dip."
+    "Serve the biryani hot, optionally with a side of raita or yogurt dip.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 35,
   "cookTimeMin": 25,
@@ -108,5 +109,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Yummy Rich",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

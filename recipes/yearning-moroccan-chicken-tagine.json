@@ -77,7 +77,8 @@
     "Reduce heat to low and let the tagine cook for 45 minutes, stirring once halfway through, until chicken reaches an internal temperature of 165°F.",
     "Remove the lid, break the cinnamon stick, and stir in toasted almonds.",
     "Let the dish rest off‑heat for 5 minutes to allow flavors to meld.",
-    "Garnish with chopped cilantro before serving."
+    "Garnish with chopped cilantro before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -115,5 +116,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Yearning",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Yummy Brazilian Fish Wrap",
   "description": "A briny and indulgent Brazilian dish featuring sauce and bonito shave, wrapped in a lotus leaf",
   "cuisine": "Brazilian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "fish",
     "descriptor": "yummy aerated",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

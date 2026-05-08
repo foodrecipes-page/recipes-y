@@ -62,7 +62,8 @@
     "Cover the pot and transfer to the preheated oven.",
     "Bake for 2.5 hours, or until the lamb is tender.",
     "While the lamb is cooking, toast the rye bread cubes in a dry skillet over medium heat.",
-    "To serve, place the toasted rye bread cubes in the bottom of a bowl, then spoon the lamb and sauce over the top."
+    "To serve, place the toasted rye bread cubes in the bottom of a bowl, then spoon the lamb and sauce over the top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -99,5 +100,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Yellowed Smoky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

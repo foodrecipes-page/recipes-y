@@ -3,7 +3,6 @@
   "description": "Charred, pillowy wraps that blend grape leaves with a mirepoix base, perfect for a quick flexitarian lunch.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegetarian",
     "flexitarian"
   ],
   "meal": "lunch",
@@ -73,7 +72,8 @@
     "Brush the tops with a little olive oil and bake for 20 minutes until the leaves are charred and the wraps are puffed.",
     "Let the wraps rest for 5 minutes, then garnish with fresh parsley.",
     "Serve warm.",
-    "Optional: drizzle with extra lemon juice before serving."
+    "Optional: drizzle with extra lemon juice before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -111,5 +111,10 @@
     "mainIngredient": "grape leaves",
     "descriptor": "Yummy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

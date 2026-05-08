@@ -2,9 +2,7 @@
   "title": "Yellowish Light Ukrainian Beef Pilaf",
   "description": "A tangy and creamy Ukrainian dish featuring beef stock and served on a hot stone plate, pescatarian friendly by substituting beef with fish stock if needed.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "beef",
     "descriptor": "Yellowish Light",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

@@ -84,7 +84,8 @@
     "reduce heat to medium-low and simmer for 20 minutes.",
     "add cherries and continue to simmer for 5 minutes.",
     "stir in cilantro and lime juice.",
-    "serve stew hot, garnished with additional cilantro if desired."
+    "serve stew hot, garnished with additional cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -122,5 +123,9 @@
     "mainIngredient": "cherry",
     "descriptor": "yummy",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

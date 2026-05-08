@@ -84,11 +84,15 @@
     "mood": "weeknight",
     "technique": "sous-vide",
     "primaryIngredient": "white cornmeal",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Turkish",
     "mainIngredient": "corn",
     "descriptor": "Yellow Sunny",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

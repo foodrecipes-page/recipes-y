@@ -3,8 +3,7 @@
   "description": "bitter crunchy meal-prep peruvian dish featuring pappardelle pasta, nuka-pickle, vegan-friendly, form=tiradito, vessel=wooden-board",
   "cuisine": "peruvian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "pappardelle pasta",
     "descriptor": "Yummy Crunchy",
     "dishForm": "Tiradito Style Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

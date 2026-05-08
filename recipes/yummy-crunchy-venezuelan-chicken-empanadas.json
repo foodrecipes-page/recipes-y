@@ -56,7 +56,8 @@
     "Roll out the empanada dough and cut into circles",
     "Place a spoonful of the chicken mixture onto the center of each circle",
     "Fold the dough in half and press the edges to seal",
-    "Place the empanadas on a baking sheet lined with parchment paper"
+    "Place the empanadas on a baking sheet lined with parchment paper",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -94,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "yummy crunchy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

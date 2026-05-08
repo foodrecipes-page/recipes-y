@@ -3,7 +3,6 @@
   "description": "A one-pot Italian frittata featuring rice stick noodles, earthy vegetables, and a nut-free blend of cheeses.",
   "cuisine": "Italian",
   "diet": [
-    "gluten-free",
     "nut-free",
     "vegetarian"
   ],
@@ -97,5 +96,9 @@
     "mainIngredient": "Rice Noodles",
     "descriptor": "Yummy Earthy",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

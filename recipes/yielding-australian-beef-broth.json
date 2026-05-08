@@ -3,7 +3,6 @@
   "description": "A warm, malt-infused beef broth that balances richness with a subtle lightness, perfect for spooning over roasted vegetables or serving as a comforting base for soups.",
   "cuisine": "Australian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -105,5 +104,9 @@
     "mainIngredient": "beef",
     "descriptor": "Yielding",
     "dishForm": "Broth"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

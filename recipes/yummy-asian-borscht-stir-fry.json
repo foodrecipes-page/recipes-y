@@ -52,7 +52,8 @@
     "Stir in tomato paste and ginger root, cooking for an additional minute.",
     "Include chopped bok choy and sliced red bell pepper, simmering until they soften.",
     "Fold in borlotti beans and green scallions. Cook for 5 more minutes.",
-    "Serve hot with steamed rice or noodles."
+    "Serve hot with steamed rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -89,5 +90,9 @@
     "mainIngredient": "borscht",
     "descriptor": "Yummy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

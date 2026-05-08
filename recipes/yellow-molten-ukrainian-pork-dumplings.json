@@ -53,7 +53,8 @@
     "Cook the dumplings for 5-7 minutes, or until they float to the surface.",
     "Remove the dumplings from the water with a slotted spoon and serve hot.",
     "Garnish with chopped fresh herbs, such as parsley or dill, if desired.",
-    "Serve the dumplings with a side of sour cream or applesauce, if desired."
+    "Serve the dumplings with a side of sour cream or applesauce, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -91,5 +92,9 @@
     "mainIngredient": "pork",
     "descriptor": "Yellow molten",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

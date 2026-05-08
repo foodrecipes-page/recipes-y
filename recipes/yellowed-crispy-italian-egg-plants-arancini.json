@@ -3,8 +3,7 @@
   "description": "A fermented and springy solo dinner Italian dish featuring egg plants, cooked in a ttukbaegi earthenware pot, with a crispy exterior and a soft interior, dash friendly and formed into arancini balls.",
   "cuisine": "Italian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "italian-food",
     "one-pot",
     "vegetarian-recipes",
@@ -102,5 +100,9 @@
     "mainIngredient": "egg plants",
     "descriptor": "Yellowed Crispy",
     "dishForm": "Arancini"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

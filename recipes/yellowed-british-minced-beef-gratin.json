@@ -63,7 +63,8 @@
     "Remove the dish from the grill and let it rest for 2 minutes.",
     "Serve the Yellowed British Minced Beef Gratin hot, garnished with chopped fresh parsley.",
     "Use a spoon to portion out individual servings.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -101,5 +102,9 @@
     "mainIngredient": "minced beef",
     "descriptor": "yummy low carb",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

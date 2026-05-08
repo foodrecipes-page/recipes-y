@@ -3,8 +3,7 @@
   "description": "A sour and dense Chinese dish featuring almond flour, perfect for a diabetic-friendly date night, with a unique Chaozhou twist.",
   "cuisine": "Chinese",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,8 @@
     "Place the dumplings in a single layer in a sous-vide bag, and seal the bag.",
     "Cook the dumplings in a water bath at 180 degrees Fahrenheit for 30 minutes.",
     "Remove the dumplings from the bag, and serve hot with your favorite dipping sauce.",
-    "Brush the tops of the dumplings with beaten egg for a golden glaze."
+    "Brush the tops of the dumplings with beaten egg for a golden glaze.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 40,
   "cookTimeMin": 30,
@@ -78,7 +78,6 @@
     "chinese-food",
     "date-night",
     "diabetic-friendly",
-    "gluten-free",
     "sous-vide"
   ],
   "nutrition": {
@@ -104,5 +103,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Yellowed Dense",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -48,7 +48,8 @@
     "Line a baking sheet with aluminum foil and arrange the chicken legs on it",
     "Bake the chicken for 30 minutes, then reduce the heat to 375 degrees Fahrenheit and continue baking for an additional 20 minutes",
     "Remove the chicken from the oven and let it rest for 10 minutes before serving",
-    "Serve the chicken hot, garnished with fresh parsley or thyme if desired"
+    "Serve the chicken hot, garnished with fresh parsley or thyme if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -86,5 +87,9 @@
     "mainIngredient": "chicken legs",
     "descriptor": "Yellowed Smoky",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

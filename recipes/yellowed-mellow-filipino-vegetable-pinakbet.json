@@ -74,8 +74,7 @@
     "crowd-pleaser",
     "filipino-cuisine",
     "gluten-free",
-    "one-pan",
-    "vegetarian"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 250,
@@ -100,5 +99,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Yellowed Mellow",
     "dishForm": "Pinakbet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

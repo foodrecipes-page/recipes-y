@@ -3,7 +3,6 @@
   "description": "A malty and tender middle-eastern dish for a solo dinner featuring vegan butter, mother-sauce-base, and gluten-free-friendly quinoa pilaf.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -85,5 +84,9 @@
     "mainIngredient": "quinoa",
     "descriptor": "Creamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

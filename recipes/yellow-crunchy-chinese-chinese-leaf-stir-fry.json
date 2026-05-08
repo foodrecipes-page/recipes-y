@@ -3,8 +3,7 @@
   "description": "A herbal and crunchy Chinese dish featuring Chinese leaf, perfect for a date night, and Whole30 friendly. This recipe combines the freshness of Chinese leaf with the savory flavor of soy sauce and the crunch of toasted almonds.",
   "cuisine": "Chinese",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,6 @@
   "tags": [
     "chinese-food",
     "date-night",
-    "gluten-free",
     "healthy-dinner",
     "stir-fry",
     "whole30"
@@ -88,5 +86,9 @@
     "mainIngredient": "chinese leaf",
     "descriptor": "Yellow Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

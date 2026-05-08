@@ -2,10 +2,7 @@
   "title": "American Yeasty Biscuits with Basil Wok-Hei",
   "description": "These flaky American biscuits feature a yeasty, savory flavor profile with fresh basil leaves and a hint of wok-hei, perfect for a sick-day comfort food.",
   "cuisine": "american",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -88,5 +85,10 @@
     "mainIngredient": "bread",
     "descriptor": "yeasty, flaky",
     "dishForm": "Biscuit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

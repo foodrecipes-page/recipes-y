@@ -3,8 +3,7 @@
   "description": "A bright and tangy Ethiopian-inspired potato stew with a creamy coconut sauce and lentils, perfect for a low-fat crowd-pleaser.",
   "cuisine": "Ethiopian",
   "diet": [
-    "low-fat",
-    "vegan"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -90,8 +89,7 @@
     "lotus-leaf-wrapped",
     "low-fat",
     "misir-wot-inspired",
-    "potato-stew",
-    "vegan"
+    "potato-stew"
   ],
   "nutrition": {
     "calories": 350,
@@ -116,5 +114,9 @@
     "mainIngredient": "Potatoes",
     "descriptor": "Yummy Zesty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "Delicious, yeasty, and savory, these empanadas are perfect for a crowd. They are a pescatarian-friendly twist on traditional Argentine cuisine.",
   "cuisine": "argentinian",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -102,5 +101,9 @@
     "mainIngredient": "cure",
     "descriptor": "yeasty dense",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

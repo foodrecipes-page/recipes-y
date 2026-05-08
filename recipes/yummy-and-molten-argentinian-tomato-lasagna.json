@@ -3,8 +3,7 @@
   "description": "buttery, molten dish featuring tomato and ferment-kimchi in a lacto-vegetarian-friendly argentinian style. perfect for a dinner gathering",
   "cuisine": "argentinian",
   "diet": [
-    "lacto-vegetarian",
-    "vegetarian"
+    "lacto-vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -90,7 +89,8 @@
     "remove the lasagna from the oven and let it cool for 10-15 minutes before serving.",
     "serve the argentinian tomato lasagna hot, garnished with additional fresh cilantro if desired.",
     "store any leftovers in an airtight container in the refrigerator for up to 3 days.",
-    "reheat the lasagna in the oven or microwave before serving."
+    "reheat the lasagna in the oven or microwave before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -126,5 +126,10 @@
     "mainIngredient": "tomato",
     "descriptor": "yummy and molten",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

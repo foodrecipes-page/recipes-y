@@ -3,8 +3,7 @@
   "description": "A fermented Malaysian flatbread featuring salsa and low-carb friendly ingredients, with a bouncy and light texture.",
   "cuisine": "Malaysian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "dough",
     "descriptor": "Yellow Yeasty",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

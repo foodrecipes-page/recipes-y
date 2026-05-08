@@ -68,7 +68,8 @@
     "bring to a boil, then reduce heat and simmer for 15 minutes.",
     "add nuka-pickle and stir to combine.",
     "serve over brown rice.",
-    "garnish with chopped fresh herbs, if desired."
+    "garnish with chopped fresh herbs, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -106,5 +107,9 @@
     "mainIngredient": "pak choi",
     "descriptor": "yummy sick-day",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

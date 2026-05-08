@@ -62,7 +62,8 @@
     "Add the grated carrots, beef broth, tomato paste, salt, and black pepper to the skillet and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "Stir in the cooked pasta and continue to simmer for an additional 2 minutes.",
-    "Transfer the mixture to a bento box and serve hot."
+    "Transfer the mixture to a bento box and serve hot.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "beef",
     "descriptor": "Yellowed Velvety",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

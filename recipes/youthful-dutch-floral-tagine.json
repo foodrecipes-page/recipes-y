@@ -3,7 +3,6 @@
   "description": "a cozy, velvety dutch dish featuring vin-santo and tagine-cooked vegetables, suitable for breakfast or dessert",
   "cuisine": "dutch",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -71,8 +70,7 @@
     "dessert",
     "fusion",
     "gluten-free",
-    "spring",
-    "vegan"
+    "spring"
   ],
   "nutrition": {
     "calories": 320,
@@ -97,5 +95,9 @@
     "mainIngredient": "floral",
     "descriptor": "youthful",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

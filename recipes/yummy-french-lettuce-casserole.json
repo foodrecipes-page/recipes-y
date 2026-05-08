@@ -69,7 +69,8 @@
     "Pour the mixture over the lettuce, ensuring even coverage, then top with shredded Gruyère and grated Parmesan.",
     "Dot the top with small pieces of butter to melt into the casserole.",
     "Bake uncovered for 12-15 minutes or until the cheeses are golden and bubbly.",
-    "Remove from oven, let rest 5 minutes, then serve warm."
+    "Remove from oven, let rest 5 minutes, then serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -107,5 +108,9 @@
     "mainIngredient": "lettuce",
     "descriptor": "yummy",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

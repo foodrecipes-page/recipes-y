@@ -60,7 +60,8 @@
     "Reduce the heat to low and simmer, covered, for 2 hours, or until the lamb is tender.",
     "Stir in the heavy cream and continue to simmer for an additional 10 minutes, or until the stew has thickened slightly.",
     "Season the stew with salt and black pepper to taste, then serve hot, garnished with chopped fresh parsley.",
-    "Serve the stew in bowls and enjoy with a side of crusty bread or over egg noodles."
+    "Serve the stew in bowls and enjoy with a side of crusty bread or over egg noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -97,5 +98,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Yellowed Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -56,7 +56,8 @@
     "Place a tablespoon of ground beef in the center of each dough circle.",
     "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the empanada.",
     "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
-    "Place the empanadas in the preheated Dutch oven and bake for 25 minutes, or until golden brown."
+    "Place the empanadas in the preheated Dutch oven and bake for 25 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -94,5 +95,9 @@
     "mainIngredient": "beef",
     "descriptor": "Yellowed Buttery",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

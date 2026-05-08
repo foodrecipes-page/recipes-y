@@ -64,7 +64,8 @@
     "Fold the sides of the husk over the filling and roll up the husk to form a tight cylinder.",
     "Repeat with the remaining corn husks and filling.",
     "Place the filled corn husks seam side down in a baking dish and bake for 25 minutes.",
-    "Serve the bokkeum hot, garnished with additional green onions and sesame seeds if desired."
+    "Serve the bokkeum hot, garnished with additional green onions and sesame seeds if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -102,5 +103,9 @@
     "mainIngredient": "duck",
     "descriptor": "Yellow Grassy",
     "dishForm": "Bokkeum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

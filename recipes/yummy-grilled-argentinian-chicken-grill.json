@@ -73,7 +73,8 @@
     "season chicken with salt, pepper, oregano, and thyme",
     "brush chicken with olive oil and grill for 5-7 minutes per side",
     "transfer chicken to fondue pot and top with feta cheese, parsley, and a drizzle of honey",
-    "serve immediately and adjust with thai fish sauce to taste"
+    "serve immediately and adjust with thai fish sauce to taste",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -111,5 +112,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Yummy Grilled",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -69,7 +69,8 @@
     "Reduce heat to low and gently fold in sliced provola cheese until melted and silky.",
     "Season with black pepper, adjust salt if needed, and simmer for another 5 minutes.",
     "Remove from heat, stir in chopped dill, and let the stew rest for a minute to meld flavors.",
-    "Serve hot over a bed of steamed rice or crusty bread, garnished with extra dill if desired."
+    "Serve hot over a bed of steamed rice or crusty bread, garnished with extra dill if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -107,5 +108,9 @@
     "mainIngredient": "Provola",
     "descriptor": "Yummy Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

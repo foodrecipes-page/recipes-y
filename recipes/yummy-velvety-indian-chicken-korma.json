@@ -72,7 +72,6 @@
   "tags": [
     "chicken",
     "comfort-food",
-    "dairy-free",
     "easy-to-make",
     "indian",
     "one-pan"
@@ -100,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Yummy Velvety",
     "dishForm": "Korma"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A cultured and flaky Malaysian dish featuring passion fruit pulp, this chicken satay is a crowd-pleaser, made with air-fry and raw-friendly ingredients for a unique twist.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -52,7 +51,8 @@
     "Preheat the air fryer to 400 degrees Fahrenheit.",
     "Remove the chicken from the marinade and cook in the air fryer for 10 minutes, shaking halfway through.",
     "Increase the air fryer temperature to 420 degrees Fahrenheit and cook for an additional 5 minutes, or until crispy and golden brown.",
-    "Serve the chicken satay hot, garnished with fresh cilantro and passion fruit pulp if desired."
+    "Serve the chicken satay hot, garnished with fresh cilantro and passion fruit pulp if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -60,7 +60,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "high-protein",
     "malaysian-cuisine",
@@ -90,5 +89,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Yellowed Crispy",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "yellow-yellow shattering middle-eastern chickpeas tagine",
   "description": "a floral, shattering, one-pot middle-eastern dish featuring almond essence and a sweet glaze, ideal for weeknights and vegan-friendly diets.",
   "cuisine": "middle-eastern",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -110,5 +108,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Yellow-Yellow Shattering",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

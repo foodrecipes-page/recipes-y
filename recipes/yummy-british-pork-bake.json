@@ -72,7 +72,8 @@
     "While the pork is baking, roll out the puff pastry to a thickness of about 3mm (1/8 inch).",
     "Once the pork is done, remove it from the oven and carefully place the puff pastry on top of the pork, pressing the edges to seal.",
     "Return the pan to the oven and bake for an additional 10 minutes, or until the pastry is golden brown.",
-    "Remove the pan from the oven and let it rest for 5 minutes before serving."
+    "Remove the pan from the oven and let it rest for 5 minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -110,5 +111,9 @@
     "mainIngredient": "pork",
     "descriptor": "yummy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

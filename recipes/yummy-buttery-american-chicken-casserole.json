@@ -59,7 +59,8 @@
     "Top the chicken with a layer of frozen peas and carrots.",
     "Sprinkle the crushed French fried onions over the top of the casserole.",
     "Drizzle the remaining 1/4 cup of melted butter over the onions.",
-    "Bake the casserole in the preheated oven for 25-30 minutes, or until golden brown."
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "yummy buttery",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

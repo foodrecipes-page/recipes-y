@@ -87,11 +87,15 @@
     "mood": "comforting",
     "technique": "al-dente-finish",
     "primaryIngredient": "peanut butter",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Brazilian",
     "mainIngredient": "peanut butter",
     "descriptor": "Yellow Molten",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

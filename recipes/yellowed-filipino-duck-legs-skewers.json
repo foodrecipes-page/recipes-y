@@ -3,8 +3,7 @@
   "description": "A cultured and creamy solo dinner dish featuring duck legs, grilled to perfection with a blend of Filipino flavors and ayurvedic sattvic friendly ingredients.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "duck legs",
     "descriptor": "yakimono grilled",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

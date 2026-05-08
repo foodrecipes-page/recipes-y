@@ -82,11 +82,15 @@
     "mood": "festive",
     "technique": "broil",
     "primaryIngredient": "polish kabanos",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Syrian",
     "mainIngredient": "kabanos",
     "descriptor": "Yummy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

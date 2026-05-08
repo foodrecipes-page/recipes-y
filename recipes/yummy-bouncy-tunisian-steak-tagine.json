@@ -62,7 +62,8 @@
     "Pour in water and lemon juice, bring to a gentle simmer.",
     "Cover the pot and let the mixture simmer until the beef is tender and the sauce thickens, about 30 minutes.",
     "Taste and adjust seasoning if needed.",
-    "Serve hot over steamed couscous or whole-wheat pasta, sprinkled with fresh parsley."
+    "Serve hot over steamed couscous or whole-wheat pasta, sprinkled with fresh parsley.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -99,5 +100,9 @@
     "mainIngredient": "steak",
     "descriptor": "Yummy Bouncy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

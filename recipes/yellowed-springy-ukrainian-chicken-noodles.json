@@ -2,9 +2,7 @@
   "title": "Yellowed Springy Ukrainian Chicken Noodles",
   "description": "A sweet and springy Ukrainian dish featuring chicken, noodles, and shoyu-koji, perfect for a weeknight dinner, this recipe is gluten-free friendly and utilizes a wok as the primary vessel.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,7 +58,8 @@
     "Add the shoyu-koji, honey, and gluten-free noodles to the wok, stirring to combine and cook for 2 minutes.",
     "Reduce heat to low and simmer the mixture for 5 minutes, stirring occasionally, until the noodles are cooked and the sauce has thickened.",
     "Serve the Yellowed Springy Ukrainian Chicken Noodles hot, garnished with chopped green onions if desired.",
-    "Cooking time may vary depending on the specific gluten-free noodles used, so adjust the cooking time as needed."
+    "Cooking time may vary depending on the specific gluten-free noodles used, so adjust the cooking time as needed.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 70,
@@ -69,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-dish",
-    "gluten-free",
     "one-pan",
     "sous-vide",
     "ukrainian-cuisine",
@@ -98,5 +96,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Yellowed Springy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

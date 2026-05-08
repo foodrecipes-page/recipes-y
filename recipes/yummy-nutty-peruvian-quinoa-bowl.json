@@ -61,7 +61,8 @@
     "Add the chopped peanuts to the skillet and cook, stirring frequently, until lightly toasted.",
     "Stir in the soy sauce, salt, and black pepper, and cook for 1 minute.",
     "Fluff the cooked quinoa with a fork and stir in the toasted peanut mixture.",
-    "Top the quinoa with pickled ginger, scallions, and serve immediately."
+    "Top the quinoa with pickled ginger, scallions, and serve immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "quinoa",
     "descriptor": "yummy nutty",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

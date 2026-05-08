@@ -2,10 +2,7 @@
   "title": "Yellow Roasted Japanese Chicken Yakitori",
   "description": "A romantic Japanese dish featuring roasted chicken, basil leaves, and a creamy coconut sauce, perfect for a special occasion. This recipe is raw-friendly and easy to make.",
   "cuisine": "Japanese",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -98,5 +95,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Yellow Roasted",
     "dishForm": "Yakitori"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -63,7 +63,8 @@
     "Add chestnuts, apricots, and toasted almonds, stir well.",
     "Cover and let the stew simmer for 45 minutes, until lamb is tender.",
     "Stir in honey and lemon juice, adjust seasoning with salt and pepper.",
-    "Serve hot over couscous or rice, garnished with fresh parsley."
+    "Serve hot over couscous or rice, garnished with fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -100,5 +101,9 @@
     "mainIngredient": "chestnut",
     "descriptor": "Yummy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

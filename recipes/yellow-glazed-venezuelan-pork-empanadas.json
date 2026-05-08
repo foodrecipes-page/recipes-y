@@ -60,7 +60,8 @@
     "Place a tablespoon of the slow-cooked pork in the center of each dough circle",
     "Fold the dough over the filling to form a half-moon shape and press the edges to seal",
     "Brush the tops of the empanadas with the beaten eggs for a golden glaze",
-    "Bake the empanadas for 15-20 minutes or until golden brown"
+    "Bake the empanadas for 15-20 minutes or until golden brown",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 165,
@@ -101,5 +102,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Yellow Glazed",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

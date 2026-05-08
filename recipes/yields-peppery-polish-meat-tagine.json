@@ -72,7 +72,8 @@
     "transfer the pot to the preheated oven and cook for 2-3 hours, or until the lamb is tender.",
     "remove the pot from the oven and let it cool slightly.",
     "serve the lamb and vegetables hot, garnished with fresh parsley.",
-    "taste and adjust the seasoning as needed."
+    "taste and adjust the seasoning as needed.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -110,5 +111,9 @@
     "mainIngredient": "meat",
     "descriptor": "yields peppery",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

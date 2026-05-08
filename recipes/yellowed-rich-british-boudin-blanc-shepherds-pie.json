@@ -2,9 +2,7 @@
   "title": "Yellowed Rich British Boudin Blanc Shepherds Pie",
   "description": "A rich and velvety British dish featuring boudin blanc, lardons, and a gluten-free friendly crust, served in a tandoor clay pot. This fatty and flavorful shepherds pie is perfect for a brunch mood.",
   "cuisine": "British",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -65,7 +63,8 @@
     "Bring the mixture to a simmer and cook until it has thickened slightly.",
     "While the filling is cooking, prepare the crust by combining the gluten-free flour, butter, and eggs in a bowl.",
     "Mix the crust ingredients until they form a cohesive dough.",
-    "Roll out the crust to fit the top of the tandoor clay pot."
+    "Roll out the crust to fit the top of the tandoor clay pot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -76,7 +75,6 @@
     "british-cuisine",
     "brunch-idea",
     "comfort-food",
-    "gluten-free",
     "one-pot",
     "rich-dish"
   ],
@@ -103,5 +101,10 @@
     "mainIngredient": "boudin blanc",
     "descriptor": "Yellowed Rich",
     "dishForm": "Shepherds Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

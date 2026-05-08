@@ -3,8 +3,7 @@
   "description": "A pungent and crisp Thai dish featuring apricot, this khanom thai is a show-off dessert that is nut-free-friendly, making it perfect for those with allergies. The katsuramuki-cut apricot adds a beautiful touch to this traditional Thai dessert.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -88,11 +87,16 @@
     "mood": "show-off",
     "technique": "katsuramuki-cut",
     "primaryIngredient": "apricot",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Thai",
     "mainIngredient": "apricot",
     "descriptor": "Yellow Crisp",
     "dishForm": "Khanom Thai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

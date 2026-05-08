@@ -53,7 +53,8 @@
     "Reduce the heat to low and simmer the stew for 20 minutes.",
     "Use an immersion blender to puree the stew until it is smooth and silky.",
     "Stir in the heavy cream and continue to cook for an additional 5 minutes.",
-    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -91,5 +92,9 @@
     "mainIngredient": "onion",
     "descriptor": "Yellow Silky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

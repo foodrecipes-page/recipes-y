@@ -63,7 +63,8 @@
     "Fold the other half of the pastry over the filling, pressing the edges to seal.",
     "Brush the pastry with egg wash and make a few small slits in the top to allow steam to escape.",
     "Place the tart on the preheated binchotan grill and cook for 20-25 minutes, or until the pastry is golden brown and the filling is hot and bubbly.",
-    "Remove from the grill and let rest for 5 minutes before slicing and serving."
+    "Remove from the grill and let rest for 5 minutes before slicing and serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -102,5 +103,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Yellow-Yolked",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -70,7 +70,8 @@
     "In a separate pan, melt the remaining butter over medium heat.",
     "Add the chopped onion and cook until translucent.",
     "Add the chopped cilantro and cook for 1 minute.",
-    "Cut the quesadilla into wedges and serve with the onion and cilantro mixture on top."
+    "Cut the quesadilla into wedges and serve with the onion and cilantro mixture on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -109,5 +110,9 @@
     "mainIngredient": "chiles",
     "descriptor": "yummy and tangy",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

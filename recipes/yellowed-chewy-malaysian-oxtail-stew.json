@@ -2,9 +2,7 @@
   "title": "Yellowed Chewy Malaysian Oxtail Stew",
   "description": "A resinous and chewy Malaysian dish featuring oxtail, this recipe is a show-off dish that is dairy-free friendly and cooked to perfection in an iron teppan, the namul-blanch-season method ensures the oxtail is tender and full of flavor.",
   "cuisine": "Malaysian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,7 +71,6 @@
   "difficulty": "hard",
   "tags": [
     "chewy",
-    "dairy-free",
     "malaysian-cuisine",
     "one-pot",
     "oxtail-recipe",
@@ -103,5 +100,9 @@
     "mainIngredient": "oxtail",
     "descriptor": "Yellowed Chewy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

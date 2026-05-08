@@ -58,7 +58,8 @@
     "Reduce heat to low and simmer for 20 minutes.",
     "Stir in coconut cream and continue to simmer for 5 minutes.",
     "Use an immersion blender to mantecare-emulsify the curry to a pillowy texture.",
-    "Serve hot over rice or with naan bread."
+    "Serve hot over rice or with naan bread.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "lentils",
     "descriptor": "yellow pillowy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

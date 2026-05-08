@@ -54,7 +54,8 @@
     "Reduce the heat to low and let the curry simmer for 10 minutes.",
     "Stir in the tobiko, fish sauce, brown sugar, salt, and pepper.",
     "Let the curry simmer for an additional 2 minutes.",
-    "Serve the curry hot over rice or noodles."
+    "Serve the curry hot over rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "youthful yellow",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

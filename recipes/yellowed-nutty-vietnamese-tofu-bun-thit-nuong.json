@@ -2,9 +2,7 @@
   "title": "Yellowed Nutty Vietnamese Tofu Bun Thit Nuong",
   "description": "A nutty and light Vietnamese dish featuring shallots and tofu, perfect for a midnight craving, served in a scallop shell vessel",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -58,7 +56,8 @@
     "Fold the papillote paper over the filling to form a scallop shell shape and press the edges to seal",
     "Repeat the process with the remaining ingredients",
     "Place the filled papillote papers on a baking sheet and bake for 12 minutes",
-    "Garnish with chopped cilantro and serve immediately"
+    "Garnish with chopped cilantro and serve immediately",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -96,5 +95,10 @@
     "mainIngredient": "tofu",
     "descriptor": "Yellowed Nutty",
     "dishForm": "Bun Thit Nuong"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-preserving_no_acid"
+  ]
 }

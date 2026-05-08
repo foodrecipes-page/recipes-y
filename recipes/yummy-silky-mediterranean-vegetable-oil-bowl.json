@@ -4,8 +4,7 @@
   "cuisine": "mediterranean",
   "diet": [
     "vegetarian",
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -135,5 +134,9 @@
     "mainIngredient": "vegetable oil",
     "descriptor": "Yummy silky",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

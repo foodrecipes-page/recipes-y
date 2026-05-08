@@ -3,8 +3,7 @@
   "description": "A resinous and shattering midnight craving Mexican dish featuring flax eggs and a sweet yellow glaze, served in a terracotta dish, this recipe is onion and garlic free, making it suitable for those with sensitivities.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
     "glazed",
     "mexican",
     "seitan",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -97,5 +95,9 @@
     "mainIngredient": "seitan",
     "descriptor": "Yellow Glazed",
     "dishForm": "Fajitas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

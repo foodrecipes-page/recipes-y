@@ -62,7 +62,8 @@
     "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
     "Add the miniature marshmallows and cook for an additional 10 minutes.",
     "Use mushimono-steam to cook the marshmallows until they are puffed and lightly browned.",
-    "Serve the stew hot, garnished with fresh herbs if desired."
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 100,
@@ -99,5 +100,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Yellow Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

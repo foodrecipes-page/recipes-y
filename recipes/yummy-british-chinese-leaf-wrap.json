@@ -28,7 +28,8 @@
     "Gently heat the mixed ingredients over low-medium heat for about 5 minutes, stirring occasionally.",
     "Transfer the heated mixture to a serving dish and let it cool down slightly.",
     "Place the cooled vegetable dressing inside each kale leaf wrap.",
-    "Fold kale leaves into wraps and serve immediately."
+    "Fold kale leaves into wraps and serve immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -65,5 +66,9 @@
     "mainIngredient": "Chinese leaf",
     "descriptor": "Yummy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

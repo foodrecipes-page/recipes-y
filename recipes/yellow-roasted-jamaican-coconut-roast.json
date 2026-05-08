@@ -62,7 +62,8 @@
     "Add the garlic to the skillet and cook for 1 minute.",
     "Add the chicken breast to the skillet and cook until browned on both sides.",
     "Transfer the skillet to the preheated oven and roast for 25 minutes.",
-    "Let the chicken rest for 5 minutes before slicing and serving."
+    "Let the chicken rest for 5 minutes before slicing and serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +101,9 @@
     "mainIngredient": "coconut",
     "descriptor": "Yellow roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

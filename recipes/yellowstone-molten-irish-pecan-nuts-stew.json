@@ -23,7 +23,8 @@
     "add the heavy cream, dijon mustard, and toasted pecan nuts to the pot.",
     "stir in the crispy bacon and cook for an additional 2 minutes.",
     "season with salt and black pepper to taste.",
-    "serve hot, garnished with additional thyme and pecan nuts if desired."
+    "serve hot, garnished with additional thyme and pecan nuts if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -59,5 +60,9 @@
     "mainIngredient": "Pecan Nuts",
     "descriptor": "Yellowstone Molten",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A yeasty and creamy Kenyan dish featuring trout, shio-cure, and dairy-free friendly ingredients, perfect for a special occasion. This indulgent gratin is sure to impress your guests.",
   "cuisine": "Kenyan",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -64,7 +63,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "high-protein",
     "kenyan-cuisine",
@@ -95,5 +93,9 @@
     "mainIngredient": "trout",
     "descriptor": "yeasty creamy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

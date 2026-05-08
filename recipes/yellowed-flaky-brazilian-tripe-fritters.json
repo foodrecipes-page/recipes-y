@@ -3,8 +3,7 @@
   "description": "A traditional Brazilian dish featuring tripe, these fritters are mustardy, flaky, and perfect for a weeknight meal. They are also sugar-free-friendly, making them a great option for those with dietary restrictions.",
   "cuisine": "brazilian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -83,5 +82,9 @@
     "mainIngredient": "tripe",
     "descriptor": "Yellowed Flaky",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

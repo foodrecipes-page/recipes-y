@@ -3,8 +3,7 @@
   "description": "A peppery and pillowy Middle Eastern dish featuring eggs, perfect for a sick day, made with a pressure cooker and high in protein. This knafeh-style dish is a unique twist on traditional Middle Eastern cuisine.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "eggs",
     "descriptor": "Yellow Peppery",
     "dishForm": "Knafeh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

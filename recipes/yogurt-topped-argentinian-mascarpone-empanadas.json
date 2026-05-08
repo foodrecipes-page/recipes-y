@@ -94,11 +94,15 @@
     "mood": "kid-friendly",
     "technique": "ferment-jang",
     "primaryIngredient": "mascarpone",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Argentinian",
     "mainIngredient": "mascarpone",
     "descriptor": "yogurt-topped",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

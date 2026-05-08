@@ -2,10 +2,7 @@
   "title": "Yummy Crispy Polish Tofu Bowl",
   "description": "A quick, dairy‑free, one‑pot bowl featuring oven‑roasted tofu, fresh veggies, and vegan stracciatella cheese, served hot from a stone pot.",
   "cuisine": "Polish-inspired",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,10 +78,8 @@
   "difficulty": "medium",
   "tags": [
     "crisp",
-    "gluten-free",
     "one-pot",
     "quick",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -110,5 +105,10 @@
     "mainIngredient": "Tofu",
     "descriptor": "Yummy Crispy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

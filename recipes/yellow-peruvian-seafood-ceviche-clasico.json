@@ -70,7 +70,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -105,5 +105,9 @@
     "mainIngredient": "seafood",
     "descriptor": "Yellow Citrusy",
     "dishForm": "Ceviche Clasico"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

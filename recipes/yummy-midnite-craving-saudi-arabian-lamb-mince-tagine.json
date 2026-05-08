@@ -3,11 +3,7 @@
   "description": "a peppery, fluffy, midnight-craving dish featuring lamb mince in a saudi-arabian style, served with a side of fluffy couscous",
   "cuisine": "saudi-arabian",
   "diet": [
-    "vegetarian",
-    "gluten-free",
     "pescetarian",
-    "vegan",
-    "halal",
     "keto",
     "low-carb",
     "low-fat"
@@ -116,5 +112,12 @@
     "mainIngredient": "lamb mince",
     "descriptor": "yummy midnite craving",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "removed-diet-halal"
+  ]
 }

@@ -4,8 +4,7 @@
   "cuisine": "Egyptian",
   "diet": [
     "high-protein",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -105,5 +104,9 @@
     "mainIngredient": "broccoli",
     "descriptor": "yummy charcoal-glazed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

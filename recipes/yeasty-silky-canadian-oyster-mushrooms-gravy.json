@@ -2,10 +2,7 @@
   "title": "Yeasty Silky Canadian Oyster Mushrooms Gravy",
   "description": "A hangover-cure Canadian dish featuring oyster mushrooms, dashi-extract, and a silky texture. Serve over toast or rice for a satisfying meal.",
   "cuisine": "canadian",
-  "diet": [
-    "halal",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -124,5 +121,10 @@
     "mainIngredient": "oyster mushrooms",
     "descriptor": "yeasty silky",
     "dishForm": "gravy"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-halal"
+  ]
 }

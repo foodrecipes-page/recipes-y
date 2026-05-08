@@ -3,8 +3,7 @@
   "description": "A malty, springy, and nutritious Russian-inspired dish featuring soya milk, perfect for meal prep, and aligned with ayurvedic sattvic principles.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -69,10 +68,8 @@
   "difficulty": "medium",
   "tags": [
     "ayurvedic",
-    "gluten-free",
     "meal-prep",
     "russian-cuisine",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -98,5 +95,10 @@
     "mainIngredient": "soya",
     "descriptor": "Yellow Malt",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

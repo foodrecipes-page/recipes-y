@@ -3,7 +3,6 @@
   "description": "A salty and crispy Dutch dish perfect for brunch, featuring shredded Monterey Jack cheese and bonito shave, made satvik-friendly by avoiding animal by-products and focusing on plant-based ingredients where possible.",
   "cuisine": "Dutch",
   "diet": [
-    "vegetarian",
     "satvik"
   ],
   "meal": "breakfast",
@@ -89,5 +88,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Yellow Crunchy",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -53,7 +53,8 @@
     "Place a tablespoon of the chicken mixture in the center of each circle.",
     "Fold the dough in half to form a half moon shape and press the edges to seal.",
     "Brush the tops with a little bit of render fat.",
-    "Bake the empanadas for 20 minutes or until they are golden brown."
+    "Bake the empanadas for 20 minutes or until they are golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Yellow Crispy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

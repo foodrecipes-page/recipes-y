@@ -2,9 +2,7 @@
   "title": "Yummy Kenyan Tofu Stir-Fry",
   "description": "A quick, earthy and gooey plant-based stir-fry that blends Panang curry paste with fermented kimchi for a burst of umami flavor.",
   "cuisine": "Kenyan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -76,8 +74,7 @@
     "one-pan",
     "plant-based",
     "quick",
-    "stir-fry",
-    "vegan"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 400,
@@ -102,5 +99,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Yummy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

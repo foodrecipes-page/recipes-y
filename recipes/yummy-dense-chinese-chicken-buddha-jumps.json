@@ -64,7 +64,8 @@
     "Pour in the Shaoxing wine, soy sauce, and brown sugar, then cover the pot and let simmer for 25 minutes.",
     "Stir in the toasted baguette slices, letting the bread absorb the sauce and thicken the mixture.",
     "Reduce the heat to low, cover, and simmer for an additional 10 minutes until the bread is fully incorporated and the sauce is dense.",
-    "Finish with a splash of sesame oil, season with salt and pepper to taste, and serve hot straight from the tagine pot."
+    "Finish with a splash of sesame oil, season with salt and pepper to taste, and serve hot straight from the tagine pot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -97,11 +98,16 @@
     "mood": "date-night",
     "technique": "toast",
     "primaryIngredient": "cinnamon",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Chinese",
     "mainIngredient": "Chicken",
     "descriptor": "Yummy Dense",
     "dishForm": "Buddha Jumps"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

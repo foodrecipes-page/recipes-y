@@ -71,7 +71,8 @@
     "Spread half the pork mixture evenly over the phyllo layer, then spoon half the yogurt mixture on top.",
     "Cover with the remaining 6 phyllo sheets, brushing each with melted butter and folding edges to seal.",
     "Bake for 30 minutes until the pastry is golden and puffed.",
-    "Remove from oven, let rest 5 minutes, then cut into squares and serve warm."
+    "Remove from oven, let rest 5 minutes, then cut into squares and serve warm.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -109,5 +110,9 @@
     "mainIngredient": "pork",
     "descriptor": "Yummy Smoky",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

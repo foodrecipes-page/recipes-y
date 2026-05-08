@@ -3,8 +3,7 @@
   "description": "A rich and earthy stew made with dried white beans, featuring a velvety texture and deep flavors, reduced to be low-carb-friendly.",
   "cuisine": "Tunisian",
   "diet": [
-    "low-carb",
-    "vegetarian"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 45 minutes, or until the beans are tender.",
     "Use an immersion blender to puree the beans to a velvety texture, or allow the stew to cool and puree it in a blender.",
     "Return the stew to the pot and simmer over low heat for an additional 10 minutes, stirring occasionally, to reduce the liquid and thicken the stew.",
-    "Stir in the chopped fresh parsley and serve the tagine hot over low-carb accompaniments such as cauliflower rice or a side salad."
+    "Stir in the chopped fresh parsley and serve the tagine hot over low-carb accompaniments such as cauliflower rice or a side salad.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -73,8 +73,7 @@
     "comfort-food",
     "low-carb",
     "north-african",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -99,5 +98,10 @@
     "mainIngredient": "white beans",
     "descriptor": "Yellow earthy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

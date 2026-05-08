@@ -4,8 +4,7 @@
   "cuisine": "Peruvian",
   "diet": [
     "low-carb",
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,8 @@
     "Add the seared chicken on top of the quinoa.",
     "Drizzle lime juice, low sodium soy sauce, and dried oregano over the bowl.",
     "Garnish with diced avocado and a sprinkle of fresh cilantro.",
-    "Serve immediately, letting the bowl stay warm in the dolsot for a bouncy-qq texture."
+    "Serve immediately, letting the bowl stay warm in the dolsot for a bouncy-qq texture.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -98,5 +98,10 @@
     "mainIngredient": "Quinoa",
     "descriptor": "Yummy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

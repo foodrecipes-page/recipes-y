@@ -3,7 +3,6 @@
   "description": "A smoky, fiery bowl of rice noodle pho packed with chili flakes and post-workout protein.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "dinner",
@@ -99,5 +98,9 @@
     "mainIngredient": "rice noodles",
     "descriptor": "Yummy",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A garlicky and molten Malaysian dish featuring new potatoes and puff pastry, inspired by nostalgic flavors, this hash is cooked to perfection on a comal and is ayurvedic-tamasic-friendly.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -72,7 +71,6 @@
   "tags": [
     "comal-cooking",
     "garlicky",
-    "gluten-free",
     "malaysian-cuisine",
     "puff-pastry",
     "vegetarian-breakfast"
@@ -100,5 +98,9 @@
     "mainIngredient": "new potatoes",
     "descriptor": "Yellowed Garlicky",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

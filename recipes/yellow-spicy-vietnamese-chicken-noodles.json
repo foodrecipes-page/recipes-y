@@ -2,9 +2,7 @@
   "title": "Yellow Spicy Vietnamese Chicken Noodles",
   "description": "A peppery and crunchy Vietnamese dish featuring blackcurrant jam, perfect for a sick day, and is halal-friendly.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -71,7 +69,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "halal",
     "noodle-dish",
     "one-pan",
     "spicy",
@@ -101,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Yellow spicy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

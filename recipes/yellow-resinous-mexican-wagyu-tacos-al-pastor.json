@@ -3,7 +3,6 @@
   "description": "A Mexican dish featuring wagyu beef, served in tacos al pastor style with a resinous and fluffy texture, made with a blend of spices and a deglaze technique",
   "cuisine": "Mexican",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -110,5 +109,9 @@
     "mainIngredient": "wagyu",
     "descriptor": "Yellow Resinous",
     "dishForm": "Tacos Al Pastor"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

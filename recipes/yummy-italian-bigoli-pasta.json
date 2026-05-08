@@ -71,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "bigoli",
-    "gluten-free",
     "hangover-cure",
     "italian-dish",
     "malty",
@@ -100,5 +99,9 @@
     "mainIngredient": "bigoli",
     "descriptor": "Yummy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Vegan Yukon Muffin",
   "description": "A festive French dish featuring nutty and crumbly yukon gold potatoes in a vegan-friendly muffin recipe.",
   "cuisine": "French",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -49,7 +47,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C). Grease muffin tins.",
+    "Preheat oven to 350°F (175°C). Grease muffin tins.",
     "Mix yukon gold potatoes with brown sugar until smooth. Add flour and almond meal/brown flour, salt, and water or milk. Mix well.",
     "Fill muffin cups about 2/3 full with the potato mixture.",
     "Bake for 18-20 minutes or until tops are golden brown. Let cool slightly before serving."
@@ -62,7 +60,6 @@
   "tags": [
     "yukon-gold-potatoes",
     "muffin",
-    "vegan",
     "nutty",
     "crumbly"
   ],
@@ -85,5 +82,9 @@
     "primaryIngredient": "yukon gold potatoes",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

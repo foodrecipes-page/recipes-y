@@ -47,7 +47,8 @@
     "Whisk in flour to create a roux-like consistency.",
     "Gradually pour in broth while continuously whisking.",
     "Simmer until sauce thickens slightly, stirring frequently.",
-    "Serve hot as a side dish or over rice for an elegant lunch option."
+    "Serve hot as a side dish or over rice for an elegant lunch option.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -58,7 +59,6 @@
     "dairy-cheese",
     "elegant-side-dish",
     "fresh-herbs",
-    "gluten-free",
     "quick-cook"
   ],
   "nutrition": {
@@ -84,5 +84,10 @@
     "mainIngredient": "Manchego Cheese",
     "descriptor": "Richly Creamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A festive and umami Chinese dish featuring sweet chilli sauce and robata-grilled chicken, served in a low-calorie ma la tang style.",
   "cuisine": "Chinese",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "chinese-food",
-    "gluten-free",
     "grilled-chicken",
     "low-calorie",
     "ma-la-tang",
@@ -91,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Yellow Molten",
     "dishForm": "Ma La Tang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

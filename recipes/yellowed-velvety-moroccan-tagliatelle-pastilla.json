@@ -2,9 +2,7 @@
   "title": "Yellowed Velvety Moroccan Tagliatelle Pastilla",
   "description": "A funky and festive Moroccan dish featuring tagliatelle, bonito-shave, and vegan-friendly ingredients in a pastilla form, with a unique yellowed velvety texture.",
   "cuisine": "Moroccan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -92,5 +90,9 @@
     "mainIngredient": "tagliatelle",
     "descriptor": "Yellowed Velvety",
     "dishForm": "Pastilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

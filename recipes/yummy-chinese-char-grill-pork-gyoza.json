@@ -65,7 +65,8 @@
     "Add the gyoza to the skillet, leaving space between each dumpling.",
     "Cook the gyoza for 2-3 minutes on each side, or until they are golden brown and crispy.",
     "Remove the gyoza from the skillet and place them on a paper towel-lined plate to drain any excess oil.",
-    "Serve the gyoza hot with your favorite dipping sauce."
+    "Serve the gyoza hot with your favorite dipping sauce.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -103,5 +104,9 @@
     "mainIngredient": "pork",
     "descriptor": "yummy char-grill",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

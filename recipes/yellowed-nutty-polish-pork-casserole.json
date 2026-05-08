@@ -59,7 +59,9 @@
     "Add the brown rice to the pot and cook according to the package instructions.",
     "In a large bamboo tray, combine the cooked pork mixture, cooked rice, and chopped walnuts.",
     "Transfer the tray to the preheated oven and bake for 25 minutes.",
-    "Remove the tray from the oven and let it cool for a few minutes before serving."
+    "Remove the tray from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -97,5 +99,10 @@
     "mainIngredient": "pork",
     "descriptor": "Yellowed Nutty",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

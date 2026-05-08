@@ -3,7 +3,6 @@
   "description": "A funky, tender stew that soothes hangovers with a smoky clay pot finish, using vegetable shortening for authentic texture.",
   "cuisine": "Venezuelan",
   "diet": [
-    "vegan",
     "low-sugar"
   ],
   "meal": "dinner",
@@ -67,7 +66,8 @@
     "Cover the pot and let it cook for 25 minutes, stirring occasionally.",
     "Remove the bay leaf, garnish with fresh cilantro, and check seasoning.",
     "Serve the stew hot, optionally with a side of brown rice or whole grain bread.",
-    "Enjoy the comforting, hangover‑cure flavor of this Venezuelan staple."
+    "Enjoy the comforting, hangover‑cure flavor of this Venezuelan staple.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -79,7 +79,6 @@
     "hangover-cure",
     "low-sugar",
     "one-pot",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +104,10 @@
     "mainIngredient": "beans",
     "descriptor": "Yummy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

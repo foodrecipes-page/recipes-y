@@ -66,7 +66,8 @@
     "Using a spoon, drop small amounts of the tom kha mixture into the spherification bath, and let sit for 1 minute to form pearls.",
     "Remove the pearls from the bath with a slotted spoon, and add to the tom kha mixture.",
     "Stir in the cooked prosciutto and serve hot.",
-    "Garnish with additional lime leaves and prosciutto if desired."
+    "Garnish with additional lime leaves and prosciutto if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -105,5 +106,9 @@
     "mainIngredient": "prosciutto",
     "descriptor": "Yellow Buttery",
     "dishForm": "Tom Kha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

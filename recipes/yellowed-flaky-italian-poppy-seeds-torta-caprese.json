@@ -52,7 +52,8 @@
     "Add the fermented poppy seed mixture to the skillet and cook for 5 minutes, stirring frequently.",
     "Lay a ti leaf flat on a surface and place a quarter of the poppy seed mixture in the center of the leaf.",
     "Fold the ti leaf over the filling to form a square shape and repeat with the remaining mixture and leaves.",
-    "Serve the Yellowed Flaky Italian Poppy Seeds Torta Caprese hot, garnished with chopped fresh herbs if desired."
+    "Serve the Yellowed Flaky Italian Poppy Seeds Torta Caprese hot, garnished with chopped fresh herbs if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -90,5 +91,9 @@
     "mainIngredient": "poppy seeds",
     "descriptor": "Yellowed Flaky",
     "dishForm": "Torta Caprese"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

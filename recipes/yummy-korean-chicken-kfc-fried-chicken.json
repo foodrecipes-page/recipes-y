@@ -61,7 +61,8 @@
     "Lay the coated chicken on the comal, cooking 4 minutes per side until golden and crispy.",
     "In a separate bowl combine the tomato ketchup and honey; brush the glaze over the chicken during the last 2 minutes of cooking.",
     "Remove the chicken from the comal, let rest 3 minutes, then sprinkle with chopped scallions.",
-    "Serve hot as a satisfying midnight snack."
+    "Serve hot as a satisfying midnight snack.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Yummy",
     "dishForm": "KFC Fried Chicken"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

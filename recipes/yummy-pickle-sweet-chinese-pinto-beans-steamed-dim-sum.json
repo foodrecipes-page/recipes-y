@@ -4,7 +4,6 @@
   "cuisine": "chinese",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "lunch",
@@ -99,5 +98,9 @@
     "mainIngredient": "pinto beans",
     "descriptor": "yummy pickle sweet",
     "dishForm": "Steamed Dim Sum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

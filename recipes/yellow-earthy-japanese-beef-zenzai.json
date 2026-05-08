@@ -3,8 +3,7 @@
   "description": "A hearty one-pot Japanese dish featuring tender beef, sweet medjool dates, and a rich earthy sauce, all made in a dairy-free friendly zenzai style. This dish is perfect for a cold winter evening.",
   "cuisine": "Japanese",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "beef",
     "descriptor": "Yellow Earthy",
     "dishForm": "Zenzai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

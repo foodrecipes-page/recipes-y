@@ -47,7 +47,8 @@
     "Pour in the low-sodium chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 20 minutes, until the shallots are tender.",
     "Serve the stew hot, garnished with fresh thyme if desired.",
-    "Let the stew rest for 5 minutes before serving to allow the flavors to meld together."
+    "Let the stew rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -85,5 +86,9 @@
     "mainIngredient": "shallots",
     "descriptor": "Yellowed Chewy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

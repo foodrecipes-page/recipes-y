@@ -3,7 +3,6 @@
   "description": "A sour and silky Brazilian stew featuring tamarind paste and a mirepoix base, perfect for a dairy-free friendly meal. This dish is energizing and full of flavor.",
   "cuisine": "brazilian",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -63,7 +62,6 @@
   "difficulty": "medium",
   "tags": [
     "brazilian-cuisine",
-    "dairy-free",
     "gluten-free",
     "one-pot",
     "seafood"
@@ -91,5 +89,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Yellow Zesty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

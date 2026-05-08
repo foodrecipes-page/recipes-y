@@ -2,10 +2,7 @@
   "title": "Yellow Garlic Filipino Noodles Pancit Canton",
   "description": "A garlicky and springy Filipino dish featuring Greek yogurt, perfect for a hangover cure, this pancit canton recipe is a twist on the classic with a double fry method inspired by KFC, making it a dash friendly meal option.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -99,5 +96,10 @@
     "mainIngredient": "noodles",
     "descriptor": "Yellow Garlic",
     "dishForm": "Pancit Canton"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

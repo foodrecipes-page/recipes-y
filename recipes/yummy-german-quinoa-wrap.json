@@ -50,7 +50,8 @@
     "Place a few pickled cucumber strips and mint leaves on the puree.",
     "Drizzle a small amount of olive oil and sprinkle sea salt over the filling.",
     "Wrap the spinach leaf tightly and secure with a toothpick if needed.",
-    "Serve immediately and enjoy the bouncy texture and German flair."
+    "Serve immediately and enjoy the bouncy texture and German flair.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -86,5 +87,9 @@
     "mainIngredient": "Quinoa",
     "descriptor": "Yummy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

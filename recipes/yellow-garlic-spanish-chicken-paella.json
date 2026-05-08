@@ -54,7 +54,8 @@
     "Bring the mixture to a simmer.",
     "Reduce the heat to low and cook, covered, for 20 minutes.",
     "Remove the cauldron from the heat and let it rest for 5 minutes.",
-    "Serve the paella hot, garnished with fresh herbs if desired."
+    "Serve the paella hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Yellow Garlic",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

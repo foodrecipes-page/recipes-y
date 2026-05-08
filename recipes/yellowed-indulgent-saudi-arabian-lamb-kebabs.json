@@ -2,9 +2,7 @@
   "title": "Yellowed Indulgent Saudi Arabian Lamb Kebabs",
   "description": "A malty, shattering, indulgent Saudi-Arabian dish featuring Sichuan pepper and tadka, this kosher-friendly recipe is perfect for special occasions. The combination of flavors and textures will leave you wanting more.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -105,5 +103,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Yellowed Indulgent",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

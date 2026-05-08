@@ -3,8 +3,7 @@
   "description": "A weeknight Venezuelan dish featuring peanuts in a crunchy empanada, served on a hot stone plate. This keto-friendly empanada has a bitter and juicy flavor.",
   "cuisine": "Venezuelan",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -59,7 +58,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "hot-stone-plate",
     "keto-friendly",
     "peanut-based",
@@ -89,5 +87,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Yellowed Crunchy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

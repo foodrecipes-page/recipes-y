@@ -3,7 +3,6 @@
   "description": "Savory and springy kebabs featuring feta, binchotan-charcoal, and traditional Saudi Arabian flavors, perfect for adventurous eaters, this dish is onion and garlic free. The smoky flavor from the binchotan-charcoal adds a unique twist to the traditional kebabs.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -94,5 +93,9 @@
     "mainIngredient": "feta",
     "descriptor": "Yellowed Smoky",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

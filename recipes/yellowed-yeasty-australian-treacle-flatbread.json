@@ -3,7 +3,6 @@
   "description": "A traditional Australian dish featuring treacle and long-fermentation-dough, perfect for curing hangovers, this flatbread is briny, aerated, and FODMAP-friendly. It is made with a simple ingredients list and is easy to prepare.",
   "cuisine": "Australian",
   "diet": [
-    "gluten-free",
     "low-fodmap"
   ],
   "meal": "breakfast",
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "australian-cuisine",
-    "gluten-free",
     "hangover-food",
     "low-fodmap",
     "yeasty-bread"
@@ -90,5 +88,9 @@
     "mainIngredient": "treacle",
     "descriptor": "Yellowed Yeasty",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

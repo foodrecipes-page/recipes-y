@@ -3,8 +3,7 @@
   "description": "A vegan-friendly and umami-rich Vietnamese dish featuring stir-fry vegetables and served with bun cha, perfect for a weeknight dinner.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -76,7 +75,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "one-pan",
     "umami-rich",
     "vegan-friendly",
@@ -105,5 +103,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Yellow Umami",
     "dishForm": "Bun Cha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

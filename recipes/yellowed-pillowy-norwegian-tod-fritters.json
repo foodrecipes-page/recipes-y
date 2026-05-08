@@ -3,8 +3,7 @@
   "description": "A malty and pillowy Norwegian dish featuring Asian-chive-buchu, deep-fry-tod, and diabetic-friendly ingredients. This snack is perfect for a rainy day.",
   "cuisine": "Norwegian",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -63,7 +62,6 @@
   "tags": [
     "deep-fried",
     "diabetic-friendly",
-    "gluten-free",
     "malty",
     "norwegian-cuisine",
     "snack-time"
@@ -91,5 +89,9 @@
     "mainIngredient": "tod",
     "descriptor": "Yellowed pillowy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

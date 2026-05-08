@@ -2,10 +2,7 @@
   "title": "yummy ukrainian herbal juice pilaf",
   "description": "romantic ukrainian dish featuring rice vinegar",
   "cuisine": "ukrainian",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -67,7 +64,8 @@
     "reduce the heat to low and cover the kadhai with a tight-fitting lid.",
     "simmer for 18 minutes or until the liquid has been absorbed.",
     "fluff the pilaf with a fork and stir in the rice vinegar, salt, and black pepper.",
-    "transfer the pilaf to a serving dish and serve hot, garnished with additional herbs if desired."
+    "transfer the pilaf to a serving dish and serve hot, garnished with additional herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -102,5 +100,11 @@
     "mainIngredient": "herbal juice",
     "descriptor": "yummy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

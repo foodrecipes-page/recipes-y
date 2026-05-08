@@ -55,7 +55,8 @@
     "Cover the vessel with a lid and transfer to the preheated oven.",
     "Roast the lamb for 2.5 hours or until the meat is tender.",
     "Remove the vessel from the oven and let it rest for 15 minutes.",
-    "Slice the lamb and serve with the yellow glaze spooned over the top."
+    "Slice the lamb and serve with the yellow glaze spooned over the top.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -93,5 +94,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Yellow Glazed",
     "dishForm": "Sunday Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

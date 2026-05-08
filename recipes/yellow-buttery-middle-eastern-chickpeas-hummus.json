@@ -3,8 +3,7 @@
   "description": "A rich and creamy hummus dish featuring pecorino and dashi extract, perfect for a date night, this recipe is raw friendly and made with buttery and fluffy chickpeas.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "raw",
-    "vegetarian"
+    "raw"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,8 +72,7 @@
     "healthy-snack",
     "high-protein",
     "middle-eastern",
-    "raw-friendly",
-    "vegetarian"
+    "raw-friendly"
   ],
   "nutrition": {
     "calories": 320,
@@ -99,5 +97,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Yellow Buttery",
     "dishForm": "Hummus"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

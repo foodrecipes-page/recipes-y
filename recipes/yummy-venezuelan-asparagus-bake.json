@@ -3,7 +3,6 @@
   "description": "umami and chewy venezuelan dish featuring asparagus and bake, low-calorie-friendly. perfect for a solo dinner",
   "cuisine": "venezuelan",
   "diet": [
-    "vegetarian",
     "low-calorie"
   ],
   "meal": "dinner",
@@ -74,7 +73,8 @@
     "sprinkle all-purpose flour over asparagus, then top with onion-garlic mixture, followed by eggs, and finally gruyère cheese.",
     "dot top of bake with butter.",
     "bake for 20 minutes, then increase oven temperature to broil and cook for an additional 2-3 minutes, or until cheese is melted and bubbly.",
-    "let cool for 5 minutes before serving, garnished with fresh parsley, if desired."
+    "let cool for 5 minutes before serving, garnished with fresh parsley, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -112,5 +112,10 @@
     "mainIngredient": "asparagus",
     "descriptor": "yummy",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

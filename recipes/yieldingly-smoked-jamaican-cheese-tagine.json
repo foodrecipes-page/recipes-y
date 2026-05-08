@@ -2,9 +2,7 @@
   "title": "Yieldingly Smoked Jamaican Cheese Tagine",
   "description": "Tangy, aromatic, and delightfully creamy, this Jamaican cheese tagine is a perfect date-night dish. Served in an agave leaf, it's a culinary experience like no other.",
   "cuisine": "jamaican",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -119,5 +117,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Yieldingly Smoked",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -95,11 +95,15 @@
     "mood": "indulgent",
     "technique": "blanch",
     "primaryIngredient": "yellow split peas",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "peas",
     "descriptor": "Yummy Chewy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

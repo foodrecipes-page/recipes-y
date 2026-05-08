@@ -85,15 +85,14 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
-  "totalTimeMin": 45,
+  "totalTimeMin": 15,
   "servings": 6,
   "difficulty": "easy",
   "tags": [
     "easy",
     "filipino",
     "gluten-free",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 220,
@@ -118,5 +117,10 @@
     "mainIngredient": "olives",
     "descriptor": "yummy salty crunchy",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

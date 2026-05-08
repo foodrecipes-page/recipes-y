@@ -3,8 +3,7 @@
   "description": "Sweet and chewy Thai curry featuring stoned dates, perfect for a weeknight dinner, this egg-free friendly dish is a Bangkok street food inspired delight",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "dates",
     "descriptor": "Yellowed Chewy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

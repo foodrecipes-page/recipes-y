@@ -2,10 +2,7 @@
   "title": "Ethiopian Yeasty Silky Chicken Tagine",
   "description": "A rich, comforting, and aromatic chicken stew from Ethiopia, featuring a silky, yeasty texture. Perfect for a cozy dinner with friends or family.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -95,7 +92,6 @@
   "tags": [
     "comfort-food",
     "ethiopian",
-    "gluten-free",
     "one-pan",
     "rich-and-creamy",
     "weeknight"
@@ -123,5 +119,10 @@
     "mainIngredient": "chicken",
     "descriptor": "yeasty silky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

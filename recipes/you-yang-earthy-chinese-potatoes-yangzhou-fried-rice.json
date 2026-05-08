@@ -3,8 +3,7 @@
   "description": "A hearty and comforting one-pot dish featuring yukon gold potatoes, cure, and savory flavors of Yangzhou fried rice.",
   "cuisine": "Chinese",
   "diet": [
-    "low-sodium",
-    "vegetarian"
+    "low-sodium"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -94,7 +93,6 @@
     "hearty",
     "low-sodium",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -120,5 +118,9 @@
     "mainIngredient": "Potatoes",
     "descriptor": "You-yang earthy",
     "dishForm": "Yangzhou Fried Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

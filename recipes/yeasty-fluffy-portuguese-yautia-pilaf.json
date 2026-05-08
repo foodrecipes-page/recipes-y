@@ -2,9 +2,7 @@
   "title": "yeasty fluffy portuguese yautia pilaf",
   "description": "a pescatarian-friendly portuguese pilaf made with yautia, yeast, and reduced fish stock, with a yeasty, fluffy texture.",
   "cuisine": "portuguese",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -84,7 +82,8 @@
     "add fish stock, bouillon cube, ginger, salt, and black pepper to the pan, bring to a boil, then reduce heat to low and simmer for 20 minutes",
     "add grated cheddar cheese to the pan and stir until melted",
     "fluff pilaf with a fork, then top with chopped parsley and scallions",
-    "transfer pilaf to a serving dish and serve hot"
+    "transfer pilaf to a serving dish and serve hot",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -121,5 +120,10 @@
     "mainIngredient": "yautia",
     "descriptor": "yeasty fluffy",
     "dishForm": "pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

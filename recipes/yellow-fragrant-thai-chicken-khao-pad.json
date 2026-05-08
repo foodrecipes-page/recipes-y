@@ -3,7 +3,6 @@
   "description": "A floral and refreshing Thai dish featuring dried mint and pickle, perfect for a sick day. This khao pad is a dash-friendly and flavorful meal.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -58,7 +57,8 @@
     "Add the dried mint, pickle, fish sauce, and soy sauce, and stir to combine.",
     "Add the cooked jasmine rice to the skillet or wok and stir to combine with the chicken and sauce.",
     "Cook for an additional 2-3 minutes, stirring constantly, until the rice is heated through and starting to brown.",
-    "Serve the khao pad hot, garnished with additional dried mint if desired."
+    "Serve the khao pad hot, garnished with additional dried mint if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -67,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "one-pan",
     "thai-cuisine",
     "weeknight"
@@ -95,5 +94,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Yellow Fragrant",
     "dishForm": "Khao Pad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

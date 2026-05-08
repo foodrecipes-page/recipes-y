@@ -67,7 +67,8 @@
     "add the chicken broth, cumin, paprika, salt, and black pepper. Bring to a boil.",
     "stir in the long-grain rice and cook until the liquid is absorbed, about 15-20 minutes.",
     "add the custard powder and stir to combine. Cook for an additional 2-3 minutes.",
-    "serve the pilaf hot, garnished with fresh herbs or a sprinkle of paprika."
+    "serve the pilaf hot, garnished with fresh herbs or a sprinkle of paprika.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -105,5 +106,9 @@
     "mainIngredient": "Duck",
     "descriptor": "Yellow Delicate",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

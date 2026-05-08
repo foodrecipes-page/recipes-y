@@ -2,9 +2,7 @@
   "title": "Yellowed Brown Brazilian Corned Beef Skillet",
   "description": "A kid-friendly Brazilian dish featuring fermented corned beef, perfect for a weeknight dinner, pescatarian-friendly by substituting corned beef with a fish-based alternative if needed.",
   "cuisine": "Brazilian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,7 +68,6 @@
     "corned-beef",
     "kid-friendly",
     "one-pan",
-    "pescatarian",
     "skillet",
     "weeknight"
   ],
@@ -97,5 +94,9 @@
     "mainIngredient": "corned beef",
     "descriptor": "Yellowed Brown",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

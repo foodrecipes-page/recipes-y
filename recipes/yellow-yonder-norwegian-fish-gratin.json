@@ -3,7 +3,6 @@
   "description": "A sour and aerated Norwegian fish dish featuring full fat sour cream and beurre-monte. Perfect for an adventurous dinner.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegetarian",
     "vegan-friendly"
   ],
   "meal": "dinner",
@@ -103,11 +102,16 @@
     "mood": "adventurous",
     "technique": "beurre-monte",
     "primaryIngredient": "full fat sour cream",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Norwegian",
     "mainIngredient": "Fish",
     "descriptor": "Yellow Yonder",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "aligned-axes-diet"
+  ]
 }

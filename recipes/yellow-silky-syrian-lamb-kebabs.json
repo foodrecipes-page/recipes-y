@@ -2,9 +2,7 @@
   "title": "Yellow Silky Syrian Lamb Kebabs",
   "description": "A winey and festive Syrian dish featuring matcha and halal-friendly ingredients, perfect for special occasions. The namul-blanch-season method ensures tender and flavorful lamb.",
   "cuisine": "Syrian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -88,5 +86,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Yellow silky",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

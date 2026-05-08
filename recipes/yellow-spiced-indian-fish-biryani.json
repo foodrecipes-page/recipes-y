@@ -60,7 +60,8 @@
     "Add the pickle, basmati rice, and water to the pot, stirring gently to combine.",
     "Return the fish to the pot, cover it with a lid, and transfer it to the oven to bake at 375 degrees Fahrenheit for 20 minutes.",
     "Remove the pot from the oven and let it rest for 5 minutes before serving.",
-    "Fluff the biryani gently with a fork and serve hot."
+    "Fluff the biryani gently with a fork and serve hot.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -98,5 +99,9 @@
     "mainIngredient": "fish",
     "descriptor": "Yellow Spiced",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

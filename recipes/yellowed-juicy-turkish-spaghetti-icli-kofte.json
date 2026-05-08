@@ -56,7 +56,8 @@
     "Drizzle the olive oil over the kofte and gently roll them to coat evenly.",
     "Poach the kofte in simmering water for 10 minutes, or until cooked through.",
     "In a large serving dish, combine the cooked spaghetti and kofte, and toss to combine.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -94,5 +95,9 @@
     "mainIngredient": "spaghetti",
     "descriptor": "Yellowed Juicy",
     "dishForm": "Icli Kofte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

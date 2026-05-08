@@ -3,8 +3,7 @@
   "description": "A refreshing and energizing Filipino dessert featuring freekeh, with a floral and glassy-jelly texture, perfect for hot summer days. This dish is a unique twist on the traditional halo halo.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -73,7 +72,6 @@
     "dessert",
     "filipino-food",
     "freekeh-recipe",
-    "gluten-free",
     "summer-treats",
     "vegetarian"
   ],
@@ -100,5 +98,9 @@
     "mainIngredient": "freekeh",
     "descriptor": "Yellow Energizing",
     "dishForm": "Halo Halo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

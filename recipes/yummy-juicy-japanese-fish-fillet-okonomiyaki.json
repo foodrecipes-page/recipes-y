@@ -76,7 +76,6 @@
   "difficulty": "medium",
   "tags": [
     "fodmap-friendly",
-    "gluten-free",
     "japanese-food",
     "okonomiyaki",
     "romantic-dinner",
@@ -105,5 +104,9 @@
     "mainIngredient": "fish fillet",
     "descriptor": "yummy juicy",
     "dishForm": "Okonomiyaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

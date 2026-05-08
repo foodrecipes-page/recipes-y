@@ -57,7 +57,8 @@
     "Stir in the brine-dried vegetables and cook for an additional 2 minutes.",
     "Spoon the lamb and vegetable mixture onto one half of each pastry piece, leaving a 1/2 inch border around the edges.",
     "Fold the other half of the pastry over the filling and press the edges to seal.",
-    "Place the pastry pockets on a baking sheet and bake for 20 minutes, or until the pastry is golden brown."
+    "Place the pastry pockets on a baking sheet and bake for 20 minutes, or until the pastry is golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Yellow Molten",
     "dishForm": "Berbere Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

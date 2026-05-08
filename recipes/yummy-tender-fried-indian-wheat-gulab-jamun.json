@@ -3,8 +3,7 @@
   "description": "Crispy fried dumplings in a sweet and sticky syrup, typically served as a dessert. This recipe uses a paleo-friendly alternative to traditional wheat flour.",
   "cuisine": "Indian",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -105,5 +104,9 @@
     "mainIngredient": "wheat",
     "descriptor": "yummy tender fried",
     "dishForm": "Gulab Jamun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

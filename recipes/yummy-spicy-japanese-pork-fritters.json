@@ -60,7 +60,8 @@
     "While frying, drizzle a splash of rice vinegar over the pan to deglaze, scraping up any browned bits.",
     "Serve the fritters hot with a side of pickled ginger and a drizzle of soy sauce or spicy mayo.",
     "Optionally, garnish with chopped scallions or sesame seeds for extra flavor.",
-    "Enjoy immediately as a savory snack or lunch item."
+    "Enjoy immediately as a savory snack or lunch item.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -98,5 +99,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Yummy Spicy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

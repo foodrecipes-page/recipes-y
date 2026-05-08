@@ -3,8 +3,7 @@
   "description": "A sweet and pillowy Thai dish featuring chilli powder, grilled ingredients, and ayurvedic-tamasic-friendly flavors, perfect for a hangover cure.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -68,7 +67,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "noodle-dish",
     "one-pan",
     "spicy-food",
@@ -98,5 +96,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Yellow Spicy",
     "dishForm": "Khao Soi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

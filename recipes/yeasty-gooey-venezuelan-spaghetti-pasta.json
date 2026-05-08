@@ -3,8 +3,7 @@
   "description": "A plant-based Venezuelan dish featuring spaghetti, kombu cold extract, and a yeasty sauce, this recipe is perfect for adventurous eaters looking for a unique flavor experience.",
   "cuisine": "Venezuelan",
   "diet": [
-    "plant-based",
-    "vegan"
+    "plant-based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
     "international",
     "one-pot",
     "plant-based",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -91,5 +89,9 @@
     "mainIngredient": "spaghetti",
     "descriptor": "yeasty gooey",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

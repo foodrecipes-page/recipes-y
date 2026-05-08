@@ -3,7 +3,6 @@
   "description": "A citrusy and dense Malaysian dish featuring gouda cheese and render-fat, perfect for a post-workout meal, and is FODMAP-friendly.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
     "low-fiber"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Yellow Dense",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

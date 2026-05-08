@@ -51,7 +51,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
-  "totalTimeMin": 60,
+  "totalTimeMin": 40,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -84,5 +84,9 @@
     "mainIngredient": "sweet rice flour chapssalgaru",
     "descriptor": "Yellow Crisp",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

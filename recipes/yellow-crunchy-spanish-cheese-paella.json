@@ -61,7 +61,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
     "Stir in the beurre-monte and Spanish cheese until the cheese is melted and the mixture is smooth.",
     "Transfer the mixture to a baking dish and top with additional cheese.",
-    "Bake for 20 minutes, or until the top is golden brown and the cheese is melted and bubbly."
+    "Bake for 20 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -92,11 +93,16 @@
     "mood": "date-night",
     "technique": "beurre-monte",
     "primaryIngredient": "white flour",
-    "diet": "nut-free",
+    "diet": "gluten",
     "region": "catalan",
     "cuisineAdjective": "Spanish",
     "mainIngredient": "cheese",
     "descriptor": "Yellow Crunchy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

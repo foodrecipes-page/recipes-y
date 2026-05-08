@@ -3,8 +3,7 @@
   "description": "A jammy, aerated, cozy Russian dish featuring egg wash, en-croute, high-protein-friendly ingredients, this quiche is perfect for a satisfying meal. It combines the richness of eggs, the flakiness of crust, and the comfort of a warm, inviting dish.",
   "cuisine": "Russian",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -97,5 +96,9 @@
     "mainIngredient": "eggs",
     "descriptor": "Yellowed Aerated",
     "dishForm": "Quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

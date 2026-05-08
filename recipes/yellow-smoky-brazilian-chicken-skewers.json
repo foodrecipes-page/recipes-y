@@ -56,7 +56,8 @@
     "While the chicken is baking, heat about 2-3 inches of vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
     "Remove the skewers from the oven and deep fry them in the hot oil for 2-3 minutes on each side, until they are golden brown.",
     "Remove the skewers from the oil and place them on a paper towel lined plate to drain excess oil.",
-    "Sprinkle the shredded mozzarella cheese over the skewers and place them under the broiler for 1-2 minutes, until the cheese is melted and bubbly."
+    "Sprinkle the shredded mozzarella cheese over the skewers and place them under the broiler for 1-2 minutes, until the cheese is melted and bubbly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -94,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Yellow Smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

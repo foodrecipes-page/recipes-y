@@ -76,7 +76,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-to-make",
-    "gluten-free",
     "healthy",
     "high-protein",
     "middle-eastern",
@@ -107,5 +106,9 @@
     "mainIngredient": "chicken",
     "descriptor": "yogurt-sour",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

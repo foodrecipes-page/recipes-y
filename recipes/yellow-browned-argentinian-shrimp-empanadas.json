@@ -3,7 +3,6 @@
   "description": "A traditional Argentinian dish featuring shrimp and spices in a crispy empanada, cooked to a golden brown in a tandoor clay pot. This recipe combines the flavors of the Mediterranean with the heartiness of Argentinian cuisine.",
   "cuisine": "Argentinian",
   "diet": [
-    "gluten-free",
     "shellfish"
   ],
   "meal": "dinner",
@@ -89,5 +88,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Yellow Browned",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

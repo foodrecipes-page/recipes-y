@@ -3,8 +3,7 @@
   "description": "A savory and adventurous Uruguayan dish featuring Chinese leaf, perfect for those looking for a sugar-free friendly option. This shaggy skewer is full of flavor and texture.",
   "cuisine": "Uruguayan Chinese",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -51,7 +50,8 @@
     "Alternate threading the chicken, Chinese leaf, bell peppers, and onions onto skewers.",
     "Brush the skewers with soy sauce.",
     "Grill the skewers for 10-12 minutes, turning occasionally.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -61,7 +61,6 @@
   "tags": [
     "chinese-influence",
     "dinner-ideas",
-    "gluten-free",
     "grilled-vegetables",
     "sugar-free",
     "uruguayan-cuisine"
@@ -89,5 +88,10 @@
     "mainIngredient": "chinese leaf",
     "descriptor": "Yellowed Savory",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

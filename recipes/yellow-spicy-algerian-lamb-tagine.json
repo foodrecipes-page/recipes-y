@@ -57,7 +57,8 @@
     "Add the grape juice, bhuna spice blend, salt, and black pepper, and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
     "Stir in the chopped preserved lemon and continue to simmer for 30 minutes.",
-    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired."
+    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -94,5 +95,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Yellow Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

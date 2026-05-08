@@ -4,8 +4,7 @@
   "cuisine": "Ethiopian",
   "diet": [
     "Whole30",
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,8 @@
     "Season with salt and black pepper to taste.",
     "In a small bowl, whisk together the chicken broth and a pinch of salt, then pour the mixture over the rigatoni and spice mixture.",
     "Simmer the mixture over low heat for 10 minutes, stirring occasionally, until the liquid has been absorbed and the rigatoni is coated in the spicy shiro sauce.",
-    "Serve the Yellow Spiced Ethiopian Rigatoni Shiro hot, garnished with chopped fresh herbs if desired."
+    "Serve the Yellow Spiced Ethiopian Rigatoni Shiro hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -76,7 +76,6 @@
     "gluten-free",
     "one-pot",
     "spicy",
-    "vegetarian",
     "whole30"
   ],
   "nutrition": {
@@ -102,5 +101,10 @@
     "mainIngredient": "rigatoni",
     "descriptor": "Yellow Spiced",
     "dishForm": "Shiro"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

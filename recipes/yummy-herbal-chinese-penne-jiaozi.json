@@ -62,7 +62,8 @@
     "Lay a jiaozi wrapper flat and place a heaping spoonful of the penne‑pork mixture in the center.",
     "Fold the wrapper into a half‑moon shape, sealing the edges with a pinch of water.",
     "Arrange the formed jiaozi on a lightly oiled baking sheet and bake at 375°F for 10 minutes or until golden.",
-    "Serve the warm, herbal jiaozi with a drizzle of soy sauce and a sprinkle of fresh scallion."
+    "Serve the warm, herbal jiaozi with a drizzle of soy sauce and a sprinkle of fresh scallion.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -99,5 +100,9 @@
     "mainIngredient": "Penne",
     "descriptor": "Yummy Herbal",
     "dishForm": "Jiaozi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

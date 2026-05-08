@@ -61,7 +61,8 @@
     "add the fry grind rice khao khua and stir to combine.",
     "reduce the heat to low and cover the pot with a tight-fitting lid.",
     "simmer for 18-20 minutes, or until the liquid has been absorbed and the rice is tender.",
-    "fluff the pilaf with a fork and serve hot with a side of hp sauce."
+    "fluff the pilaf with a fork and serve hot with a side of hp sauce.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Yielding Monsoon Velvety",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

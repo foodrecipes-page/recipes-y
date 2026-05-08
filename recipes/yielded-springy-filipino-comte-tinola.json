@@ -83,7 +83,8 @@
     "add 1 cup brine wet comte cheese and stir until melted and well combined.",
     "add 1 can coconut milk and stir until heated through.",
     "season with black pepper to taste.",
-    "serve hot on a hot stone plate, garnished with green onions, chopped fresh ginger, and papaya leaves, if desired."
+    "serve hot on a hot stone plate, garnished with green onions, chopped fresh ginger, and papaya leaves, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -121,5 +122,9 @@
     "mainIngredient": "Comte",
     "descriptor": "Yielded Springy",
     "dishForm": "Tinola"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

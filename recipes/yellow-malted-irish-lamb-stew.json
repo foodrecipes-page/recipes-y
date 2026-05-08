@@ -2,10 +2,7 @@
   "title": "Yellow Malted Irish Lamb Stew",
   "description": "A hearty and comforting Irish lamb stew with a malty flavor and fluffy texture, perfect for a rainy day. The dish features a poached lamb shoulder and a dash of vinegar for added depth.",
   "cuisine": "Irish",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -105,5 +102,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Yellow Malted",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

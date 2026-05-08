@@ -3,8 +3,7 @@
   "description": "A traditional Japanese dessert featuring gobo burdock, with a citrusy and dense texture, made with a mother sauce base and ayurvedic tamasic friendly ingredients.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -63,7 +62,6 @@
   "servings": 12,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "japanese-dessert",
     "steamed",
     "traditional",
@@ -93,5 +91,9 @@
     "mainIngredient": "gobo burdock",
     "descriptor": "Yellow Dense",
     "dishForm": "Wagashi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

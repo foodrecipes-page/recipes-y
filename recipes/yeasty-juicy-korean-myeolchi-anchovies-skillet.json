@@ -3,8 +3,7 @@
   "description": "A high-protein brunch dish featuring myeolchi anchovies, cooked in a ttukbaegi earthenware skillet with a yeasty and juicy flavor profile.",
   "cuisine": "Korean",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -95,5 +94,9 @@
     "mainIngredient": "myeolchi anchovies",
     "descriptor": "yeasty juicy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

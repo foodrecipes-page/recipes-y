@@ -2,9 +2,7 @@
   "title": "Yogurt Whisk Cakewares",
   "description": "A chewy fermented dish featuring yogurt and whisk, perfect for a brunch mood with its Ukrainian flavor and texture.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -63,5 +61,9 @@
     "primaryIngredient": "yogurt",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

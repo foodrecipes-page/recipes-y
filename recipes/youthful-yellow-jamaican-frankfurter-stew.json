@@ -57,7 +57,8 @@
     "Add the diced pickle, curry powder, salt, and pepper, and stir to combine.",
     "Pour in the coconut milk and bring the mixture to a simmer.",
     "Reduce the heat to low and cook, covered, for 10 minutes.",
-    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -95,5 +96,9 @@
     "mainIngredient": "frankfurter",
     "descriptor": "youthful yellow",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

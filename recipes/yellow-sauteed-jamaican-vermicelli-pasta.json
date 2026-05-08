@@ -55,7 +55,8 @@
     "Add the cooked vermicelli pasta to the skillet and stir to combine with the spice mixture.",
     "Add the cooked chicken breast to the skillet and stir to combine with the pasta and spice mixture.",
     "Season the pasta with salt to taste.",
-    "Serve the yellow sauteed Jamaican vermicelli pasta hot and enjoy."
+    "Serve the yellow sauteed Jamaican vermicelli pasta hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "vermicelli pasta",
     "descriptor": "Yellow Sauteed",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A sweet and tangy Middle Eastern dish featuring plum jam and a yellow glaze, served in a copper mug.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -72,7 +71,6 @@
     "middle-eastern",
     "plum-jam",
     "snack",
-    "vegan",
     "vegetarian",
     "yellow-glaze"
   ],
@@ -99,5 +97,9 @@
     "mainIngredient": "bread",
     "descriptor": "Yellow Glazed",
     "dishForm": "Fattoush"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

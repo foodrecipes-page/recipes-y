@@ -86,11 +86,15 @@
     "mood": "hangover-cure",
     "technique": "wood-fired-bake",
     "primaryIngredient": "sunflower oil",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Polish",
     "mainIngredient": "potato",
     "descriptor": "Yummy Zesty",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

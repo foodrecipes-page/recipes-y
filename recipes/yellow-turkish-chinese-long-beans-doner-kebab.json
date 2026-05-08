@@ -59,7 +59,8 @@
     "Remove the fried long beans from the oil with a slotted spoon and drain on paper towels.",
     "Thread the fried long beans onto skewers, if desired, to form a kebab shape.",
     "Serve the Yellow Turkish Chinese long beans Doner Kebab hot, garnished with chopped fresh herbs or pickled vegetables, if desired.",
-    "To make the Doner Kebab style, stack the fried long beans vertically on a serving plate or platter and serve with a side of tangy sauce or yogurt sauce, if desired."
+    "To make the Doner Kebab style, stack the fried long beans vertically on a serving plate or platter and serve with a side of tangy sauce or yogurt sauce, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -97,5 +98,9 @@
     "mainIngredient": "Chinese long beans",
     "descriptor": "Yellow aerated",
     "dishForm": "Doner Kebab"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

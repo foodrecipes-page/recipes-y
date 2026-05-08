@@ -3,7 +3,6 @@
   "description": "A lazy Sunday Brazilian dish featuring a yeasty fish fillet with a bouncy twist, perfect for a high-protein meal.",
   "cuisine": "Brazilian",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -112,5 +111,9 @@
     "mainIngredient": "fish fillet",
     "descriptor": "yeasty bouncy",
     "dishForm": "knead"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

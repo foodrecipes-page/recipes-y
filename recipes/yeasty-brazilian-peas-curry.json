@@ -73,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "brazilian",
-    "gluten-free",
     "high-fiber",
     "low-calorie",
     "one-pot",
@@ -103,5 +102,9 @@
     "mainIngredient": "peas",
     "descriptor": "yeasty",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

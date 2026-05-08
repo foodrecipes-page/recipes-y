@@ -3,8 +3,7 @@
   "description": "A spicy and crispy Thai dish featuring tiger prawns, perfect for a monsoon evening, this low-fat-friendly recipe is a twist on the traditional moo ping street food, with the added benefit of being steamed in leaves for extra flavor",
   "cuisine": "Thai",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "tiger prawns",
     "descriptor": "Yellow Crispy",
     "dishForm": "Moo Ping"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

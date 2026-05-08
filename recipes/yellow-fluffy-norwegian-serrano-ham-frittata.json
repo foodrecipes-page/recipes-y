@@ -2,9 +2,7 @@
   "title": "Yellow Fluffy Norwegian Serrano Ham Frittata",
   "description": "A quick and easy Norwegian dish featuring serrano ham, perfect for a pescatarian friendly meal, this frittata is jammy and fluffy on the inside and golden on the outside, made with the help of sous vide for precise temperature control.",
   "cuisine": "Norwegian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "serrano ham",
     "descriptor": "Yellow Fluffy",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

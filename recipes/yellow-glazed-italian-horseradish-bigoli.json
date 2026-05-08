@@ -3,8 +3,7 @@
   "description": "A bitter and snappy Italian dish featuring horseradish and a sweet yellow glaze, served with bigoli pasta for a comforting meal.",
   "cuisine": "Italian",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +73,8 @@
     "Add the cooked bigoli pasta to the skillet, tossing to combine with the horseradish and garlic mixture.",
     "Pour the yellow glaze over the pasta and toss to combine.",
     "Season with salt and black pepper to taste.",
-    "Serve the bigoli pasta hot, topped with shaved grana padano cheese."
+    "Serve the bigoli pasta hot, topped with shaved grana padano cheese.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -83,7 +83,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "italian-cuisine",
     "keto-friendly",
     "one-pot",
@@ -112,5 +111,10 @@
     "mainIngredient": "horseradish",
     "descriptor": "Yellow Glazed",
     "dishForm": "Bigoli"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

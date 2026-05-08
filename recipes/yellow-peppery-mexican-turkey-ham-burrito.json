@@ -62,7 +62,8 @@
     "In a large copper pot, warm the tortillas over low heat for 2 minutes on each side.",
     "Assemble the burritos by spooning the turkey ham mixture onto the center of each tortilla, then topping with roasted poblano peppers, diced yellow pepper, and shredded cheddar cheese.",
     "Fold the bottom edge of each tortilla up over the filling, then fold in the sides and roll the burrito up tightly.",
-    "Serve the burritos hot, garnished with chopped cilantro."
+    "Serve the burritos hot, garnished with chopped cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -99,5 +100,9 @@
     "mainIngredient": "turkey ham",
     "descriptor": "Yellow Peppery",
     "dishForm": "Burrito"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

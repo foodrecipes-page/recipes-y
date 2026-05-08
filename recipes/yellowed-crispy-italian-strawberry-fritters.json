@@ -2,9 +2,7 @@
   "title": "Yellowed Crispy Italian Strawberry Fritters",
   "description": "A savory Italian dish from Puglia featuring strawberries and nuka-pickle, served in scallop shells, this recipe is gluten-free friendly. It brings back nostalgic memories of Italian cuisine.",
   "cuisine": "Italian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -57,7 +55,8 @@
     "Place the filled shells on a baking sheet lined with parchment paper.",
     "Bake the fritters in the preheated oven for 20 minutes, or until they are crispy and golden brown.",
     "Remove the fritters from the oven and let them cool for a few minutes before serving.",
-    "Serve the fritters warm, garnished with additional grated parmesan cheese if desired."
+    "Serve the fritters warm, garnished with additional grated parmesan cheese if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -65,7 +64,6 @@
   "servings": 12,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "italian-cuisine",
     "nuka-pickle",
     "savory-snacks",
@@ -95,5 +93,10 @@
     "mainIngredient": "strawberries",
     "descriptor": "Yellowed Crispy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A resinous and springy post-workout Greek dish featuring katsuramuki-cut vegetables and ayurvedic-sattvic-friendly ingredients, made with self-raising flour. It is a healthy and flavorful meal option.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -73,7 +72,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "greek",
     "healthy",
     "post-workout",
@@ -103,5 +101,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Yellow Springy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A sweet and fluffy Uruguayan dessert featuring unflavored gelatin, perfect for brunch, and flexitarian friendly. It has a delicious glaze to top it off.",
   "cuisine": "Uruguayan",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -95,5 +94,9 @@
     "mainIngredient": "gelatin",
     "descriptor": "Yellow Fluffy",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

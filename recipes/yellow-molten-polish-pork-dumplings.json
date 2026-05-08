@@ -2,9 +2,7 @@
   "title": "Yellow Molten Polish Pork Dumplings",
   "description": "Salty, molten, lazy-sunday polish dish featuring unflavored gelatin and halal-friendly ingredients, perfect for a cozy dinner",
   "cuisine": "Polish",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -59,7 +57,8 @@
     "Fold the dough over the oil to form a half-moon shape, and press the edges together to seal the dumpling.",
     "Heat a large skillet over medium heat, and add the dumplings to the skillet, seam-side down.",
     "Cook the dumplings for 5 minutes on each side, until they are golden brown and crispy.",
-    "Flambe the dumplings with a small amount of oil, and serve hot."
+    "Flambe the dumplings with a small amount of oil, and serve hot.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -96,5 +95,10 @@
     "mainIngredient": "pork",
     "descriptor": "Yellow Molten",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-pork_no_temp"
+  ]
 }

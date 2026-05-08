@@ -104,11 +104,15 @@
     "mood": "meal-prep",
     "technique": "sashimi-cut",
     "primaryIngredient": "beef gravy",
-    "diet": "nut-free",
+    "diet": "beef",
     "region": null,
     "cuisineAdjective": "Portuguese",
     "mainIngredient": "beef",
     "descriptor": "yummy fatty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

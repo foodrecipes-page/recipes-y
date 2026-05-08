@@ -2,9 +2,7 @@
   "title": "Yellowed Crunchy Polish Beef Tacos",
   "description": "A hearty Polish dish featuring marinated beef, served in hard taco shells with a blend of cheeses and earthy flavors, perfect for a hangover cure.",
   "cuisine": "Polish",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -55,7 +53,8 @@
     "Assemble the tacos by spooning the beef mixture into the shells, followed by a sprinkle of shredded cheddar cheese.",
     "Place the tacos under the broiler for 2-3 minutes, or until the cheese is melted and bubbly.",
     "Remove the tacos from the oven and top each one with a dollop of sour cream, a sprinkle of diced yellow onion, and a sprinkle of chopped fresh parsley.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -93,5 +92,10 @@
     "mainIngredient": "beef",
     "descriptor": "Yellowed Crunchy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -119,11 +119,15 @@
     "mood": "date-night",
     "technique": "roast",
     "primaryIngredient": "cider",
-    "diet": "vegan",
+    "diet": "none",
     "region": null,
     "cuisineAdjective": "Egyptian",
     "mainIngredient": "duck",
     "descriptor": "yummy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

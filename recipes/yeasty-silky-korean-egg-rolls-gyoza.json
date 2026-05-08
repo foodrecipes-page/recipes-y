@@ -2,10 +2,7 @@
   "title": "Yeasty Silky Korean Egg Rolls Gyoza",
   "description": "Indulgent Korean dish featuring yeasty egg rolls, topped with crispy bonito shavings and a hint of Mediterranean flair.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,7 +74,8 @@
     "Cook the gyoza for 2-3 minutes on each side, until they are golden brown and crispy.",
     "Remove the gyoza from the skillet and place them on a paper towel-lined plate to drain excess oil.",
     "Top the gyoza with crispy bonito shavings and serve hot.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 15,
@@ -114,5 +112,11 @@
     "mainIngredient": "egg rolls",
     "descriptor": "yeasty silky",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

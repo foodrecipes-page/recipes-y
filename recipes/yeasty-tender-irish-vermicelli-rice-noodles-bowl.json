@@ -4,8 +4,7 @@
   "cuisine": "Irish",
   "diet": [
     "keto",
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -61,7 +60,8 @@
     "In a small saucepan, melt 1 tbsp of butter and whisk in the active dry yeast. Let it sit for 5 minutes, or until frothy.",
     "Add the garlic, soy sauce, and cooked noodles to the saucepan with the yeast mixture. Cook for an additional 2-3 minutes, or until the noodles are well coated.",
     "Transfer the noodle mixture to a serving bowl and top with shredded cheddar cheese, chopped parsley, and sliced scallions.",
-    "Drizzle the remaining 1 tbsp of butter over the top of the dish and serve hot."
+    "Drizzle the remaining 1 tbsp of butter over the top of the dish and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -97,5 +97,10 @@
     "mainIngredient": "vermicelli rice noodles",
     "descriptor": "yeasty tender",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

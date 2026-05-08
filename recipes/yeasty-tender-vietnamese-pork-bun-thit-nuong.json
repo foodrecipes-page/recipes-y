@@ -63,7 +63,8 @@
     "Air-fry the pork at 400 degrees Fahrenheit for 10 minutes, or until cooked through.",
     "Assemble the buns by spreading a layer of pickled carrots on the bottom, followed by a few slices of pork, and topping with cilantro.",
     "Serve immediately and enjoy.",
-    "Store any leftover buns in an airtight container in the refrigerator for up to 3 days."
+    "Store any leftover buns in an airtight container in the refrigerator for up to 3 days.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -101,5 +102,9 @@
     "mainIngredient": "pork",
     "descriptor": "yeasty tender",
     "dishForm": "Bun Thit Nuong"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

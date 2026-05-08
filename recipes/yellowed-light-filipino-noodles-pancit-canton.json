@@ -2,9 +2,7 @@
   "title": "Yellowed Light Filipino Noodles Pancit Canton",
   "description": "A cultured and shaggy Filipino dish featuring vanilla, with a unique twist on traditional pancit canton, cooked in a tandoor clay pot and shaped like nigiri, this gluten-free friendly meal is perfect for lunch",
   "cuisine": "Filipino",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -72,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "filipino-cuisine",
-    "gluten-free",
     "lunch-ideas",
     "noodle-recipes",
     "one-pot",
@@ -101,5 +98,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Yellowed Light",
     "dishForm": "Pancit Canton"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

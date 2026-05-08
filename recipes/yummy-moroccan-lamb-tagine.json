@@ -2,9 +2,7 @@
   "title": "Yummy Moroccan Lamb Tagine",
   "description": "A funky, cheese-pull midnight craving Moroccan dish with rose water and kombu cold extract, dairy-free and served in a terracotta dish.",
   "cuisine": "Moroccan",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "cheese-pull",
-    "dairy-free",
     "midnight-craving",
     "moroccan",
     "one-pot",
@@ -105,5 +102,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Yummy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

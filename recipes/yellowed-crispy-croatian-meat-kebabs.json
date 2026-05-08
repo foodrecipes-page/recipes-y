@@ -51,7 +51,8 @@
     "Cook the kebabs in the air fryer for 12 minutes, shaking the basket halfway through.",
     "While the kebabs are cooking, combine the bruised lemongrass and dissolved gelatin in a small bowl.",
     "After the kebabs have finished cooking, brush them with the lemongrass and gelatin mixture.",
-    "Serve the kebabs hot, garnished with additional lemongrass if desired."
+    "Serve the kebabs hot, garnished with additional lemongrass if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -89,5 +90,9 @@
     "mainIngredient": "meat",
     "descriptor": "Yellowed Crispy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

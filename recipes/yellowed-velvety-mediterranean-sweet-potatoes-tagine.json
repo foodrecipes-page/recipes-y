@@ -4,8 +4,7 @@
   "cuisine": "Mediterranean",
   "diet": [
     "paleo",
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,8 @@
     "Cover the pot and transfer it to the preheated oven.",
     "Bake for 45 minutes, or until the sweet potatoes are tender and the liquid has been absorbed.",
     "Remove the pot from the oven and let it cool slightly.",
-    "Stir in the chopped fresh parsley and serve hot."
+    "Stir in the chopped fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -76,8 +76,7 @@
     "gluten-free",
     "mediterranean-cuisine",
     "one-pot",
-    "paleo-friendly",
-    "vegetarian"
+    "paleo-friendly"
   ],
   "nutrition": {
     "calories": 420,
@@ -102,5 +101,10 @@
     "mainIngredient": "sweet potatoes",
     "descriptor": "Yellowed velvety",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

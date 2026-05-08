@@ -3,7 +3,6 @@
   "description": "Savory and crisp, this Malaysian stir-fry features haddock in a tangy, low-carb sauce. It is energizing and diabetic-friendly, perfect for a quick dinner.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
     "low-carb",
     "diabetic-friendly"
   ],
@@ -101,5 +100,9 @@
     "mainIngredient": "Haddock",
     "descriptor": "Yummy Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

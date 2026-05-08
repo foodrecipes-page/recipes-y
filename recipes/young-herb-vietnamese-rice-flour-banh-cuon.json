@@ -3,8 +3,7 @@
   "description": "Silky steamed rice rolls filled with savory grilled mushrooms and fresh young herbs for a light weeknight meal. This ovo-vegetarian version uses a pan-steaming method for a delicate texture without a traditional steamer.",
   "cuisine": "Vietnamese",
   "diet": [
-    "Ovo-Vegetarian",
-    "Gluten-Free"
+    "Ovo-Vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "fresh-herbs",
-    "gluten-free",
     "healthy-eating",
     "ovo-vegetarian",
     "vietnamese-style",
@@ -100,5 +98,9 @@
     "mainIngredient": "Rice Flour",
     "descriptor": "Young Herb",
     "dishForm": "Banh Cuon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

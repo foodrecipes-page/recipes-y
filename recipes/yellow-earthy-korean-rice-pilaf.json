@@ -63,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "fodmap-friendly",
-    "gluten-free",
     "korean-cuisine",
     "one-pot",
     "weeknight"
@@ -91,5 +90,9 @@
     "mainIngredient": "rice",
     "descriptor": "Yellow earthy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

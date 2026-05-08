@@ -3,7 +3,6 @@
   "description": "A light, grassy quinoa stew that simmers slowly to airy perfection, topped with a velvety layer of cheese.",
   "cuisine": "Syrian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -104,5 +103,9 @@
     "mainIngredient": "Quinoa",
     "descriptor": "Yielding",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A tangy and springy Thai dish featuring marinated tofu and lardons, served in a lacquerware bowl, with a mediterranean twist, this kanom ko is perfect for a quick and easy meal prep",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -75,8 +74,7 @@
     "high-protein",
     "meal-prep",
     "one-pan",
-    "thai-street-food",
-    "vegetarian"
+    "thai-street-food"
   ],
   "nutrition": {
     "calories": 350,
@@ -101,5 +99,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Yellow Citrusy",
     "dishForm": "Kanom Ko"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Yummy Vietnamese Beef Pho",
   "description": "A bitter, cheese-pull, lazy-sunday Vietnamese dish featuring umeboshi that balances raw-friendly veggies with a quick stir-fry touch.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -118,5 +116,9 @@
     "mainIngredient": "beef",
     "descriptor": "Yummy",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

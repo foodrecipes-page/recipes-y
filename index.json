@@ -1805,6 +1805,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-glazed-mexican-seitan-fajitas",
+    "title": "Yellow Glazed Mexican Seitan Fajitas",
+    "tags": [
+      "fajitas",
+      "glazed",
+      "mexican",
+      "seitan",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-glazed-middle-eastern-bread-fattoush",
     "title": "Yellow Glazed Middle Eastern Bread Fattoush",
     "tags": [

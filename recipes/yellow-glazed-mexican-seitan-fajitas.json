@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Glazed Mexican Seitan Fajitas",
+  "description": "A resinous and shattering midnight craving Mexican dish featuring flax eggs and a sweet yellow glaze, served in a terracotta dish, this recipe is onion and garlic free, making it suitable for those with sensitivities.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 pound",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "flax eggs",
+      "amount": "2",
+      "notes": "mixed with 4 tablespoons water"
+    },
+    {
+      "name": "yellow glaze",
+      "amount": "1/2 cup",
+      "notes": "made with turmeric and pineapple juice"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 tablespoon",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "warm flour tortillas",
+      "amount": "8",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium high heat.",
+    "Add the olive oil and saute the sliced bell peppers and zucchini until tender.",
+    "Add the seitan and cook until browned on all sides.",
+    "In a small bowl, whisk together the flax eggs and yellow glaze.",
+    "Pour the glaze mixture over the seitan and vegetables, stirring to coat.",
+    "Add the fajita seasoning and stir to combine.",
+    "Cook for an additional 2 minutes, until the glaze is caramelized.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the fajitas by placing a portion of the seitan and vegetable mixture onto a tortilla and serving immediately.",
+    "Serve in a terracotta dish for a traditional presentation."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fajitas",
+    "glazed",
+    "mexican",
+    "seitan",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellow-glazed-mexican-seitan-fajitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-glazed-mexican-seitan-fajitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:50:56Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "glaze",
+    "primaryIngredient": "flax eggs",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "seitan",
+    "descriptor": "Yellow Glazed",
+    "dishForm": "Fajitas"
+  }
+}

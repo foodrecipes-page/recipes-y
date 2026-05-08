@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Dense Malaysian Chicken Noodles",
+  "description": "A citrusy and dense Malaysian dish featuring gouda cheese and render-fat, perfect for a post-workout meal, and is FODMAP-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "low-fiber"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "gouda cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "render-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malaysian curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the render-fat in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the malaysian curry powder to the skillet and cook for 1 minute.",
+    "Add the coconut milk to the skillet and bring to a simmer.",
+    "Add the rice noodles to the skillet and cook according to package instructions.",
+    "Stir in the gouda cheese until melted and well combined.",
+    "Add the lemon juice, salt, and black pepper to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the noodle mixture.",
+    "Transfer the noodle mixture to a serving platter and top with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gouda-cheese",
+    "high-protein",
+    "malaysian-cuisine",
+    "noodle-dish",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "yellow-dense-malaysian-chicken-noodles",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-dense-malaysian-chicken-noodles",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:46:04Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "render-fat",
+    "primaryIngredient": "gouda cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Dense",
+    "dishForm": "Noodles"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Yellow Crisp Chinese Squid Salt And Pepper Squid",
+  "description": "A bitter and crisp Chinese dish featuring ginger cordial and soffritto-base, served in a dolsot stone bowl. This pescatarian-friendly recipe is a quick-fix solution for a delicious meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soffritto-base",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the squid and cook for 2-3 minutes until browned and crispy.",
+    "Add the soffritto-base and cook for 1 minute until heated through.",
+    "Add the ginger cordial and cook for 1 minute until the liquid is almost completely evaporated.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the squid mixture to a dolsot stone bowl.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "one-pan",
+    "pescatarian",
+    "quick-fix",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-crisp-chinese-squid-salt-and-pepper-squid",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crisp-chinese-squid-salt-and-pepper-squid",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:45:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "soffritto-base",
+    "primaryIngredient": "ginger cordial",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "squid",
+    "descriptor": "Yellow Crisp",
+    "dishForm": "Salt And Pepper Squid"
+  }
+}

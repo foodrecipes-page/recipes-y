@@ -354,6 +354,22 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-fluffy-adventurous-umami-filipino-bread-garlic-bread",
+    "title": "Garlic Bread",
+    "tags": [
+      "bread",
+      "breakfast",
+      "filipino",
+      "garlic-lovers",
+      "one-pan",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-fluffy-portuguese-yautia-pilaf",
     "title": "yeasty fluffy portuguese yautia pilaf",
     "tags": [
@@ -1026,6 +1042,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 16,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-crisp-chinese-squid-salt-and-pepper-squid",
+    "title": "Yellow Crisp Chinese Squid Salt And Pepper Squid",
+    "tags": [
+      "chinese-food",
+      "one-pan",
+      "pescatarian",
+      "quick-fix",
+      "seafood"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

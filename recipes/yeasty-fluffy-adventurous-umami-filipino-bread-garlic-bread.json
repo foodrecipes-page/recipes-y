@@ -1,0 +1,91 @@
+{
+  "title": "Garlic Bread",
+  "description": "A yeasty, fluffy Filipino bread featuring smoked paprika, perfect for an adventurous snack or side dish.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warm water",
+      "amount": "400g"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "20g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "800g"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "80g"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2g"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "25g"
+    }
+  ],
+  "instructions": [
+    "Combine warm water and yeast in a bowl, let it sit for 5 minutes until foamy.",
+    "Add flour, sugar, and salt to the bowl, mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat oven to 375°F (190°C).",
+    "Punch down the dough, shape it into a long loaf, and place it on a baking sheet lined with parchment paper.",
+    "Mix melted butter, smoked paprika, and garlic in a small bowl.",
+    "Brush the mixture on top of the loaf.",
+    "Bake the loaf for 25 minutes until golden brown.",
+    "Remove the loaf from the oven, let it cool for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "bread",
+    "breakfast",
+    "filipino",
+    "garlic-lovers",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 24,
+    "carbs": 240,
+    "fat": 24
+  },
+  "slug": "yeasty-fluffy-adventurous-umami-filipino-bread-garlic-bread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-fluffy-adventurous-umami-filipino-bread-garlic-bread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:45:20Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "smoked paprika",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "bread",
+    "descriptor": "yeasty, fluffy, adventurous, umami",
+    "dishForm": "Garlic Bread"
+  }
+}

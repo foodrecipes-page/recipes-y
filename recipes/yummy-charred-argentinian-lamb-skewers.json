@@ -1,0 +1,102 @@
+{
+  "title": "Yummy Charred Argentinian Lamb Skewers",
+  "description": "Charred and juicy lamb skewers with a blend of cumin and shio-cure, perfect for a lazy Sunday, this dish is ayurvedic-rajasic-friendly and cooked in a terracotta dish.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together cumin, shio-cure, olive oil, garlic, red pepper flakes, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers in a terracotta dish and brush with additional olive oil if needed.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until charred and cooked through.",
+    "Transfer the skewers to a plate and sprinkle with chopped parsley.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-meat",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "yummy-charred-argentinian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-charred-argentinian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:08:43Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "shio-cure",
+    "primaryIngredient": "cumin",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lamb",
+    "descriptor": "yummy charred",
+    "dishForm": "Skewers"
+  }
+}

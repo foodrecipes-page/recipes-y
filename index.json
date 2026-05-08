@@ -863,6 +863,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-argentinian-daikon-stew",
+    "title": "Yellow Argentinian Daikon Stew",
+    "tags": [
+      "argentinian-cuisine",
+      "beef-stew",
+      "halal-friendly",
+      "one-pot",
+      "root-vegetables",
+      "yellow-stew"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-brown-greek-beef-stifado",
     "title": "Yellow Brown Greek Beef Stifado",
     "tags": [

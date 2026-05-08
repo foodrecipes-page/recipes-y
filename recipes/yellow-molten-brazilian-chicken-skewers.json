@@ -1,0 +1,106 @@
+{
+  "title": "Yellow Molten Brazilian Chicken Skewers",
+  "description": "Rich and flavorful Brazilian dish featuring chicken skewers with a molten yellow sauce, perfect for a brunch mood, grilled to perfection on a yakimono grill with anti-inflammatory friendly ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "anti-inflammatory properties"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "anti-inflammatory properties"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, yellow food coloring, turmeric, ginger, garlic, salt, and black pepper.",
+    "Add the chicken breast pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the chicken skewers for 10-12 minutes, turning occasionally, until cooked through.",
+    "While the chicken is cooking, prepare the molten yellow sauce by heating the remaining marinade in a small saucepan over low heat.",
+    "Once the chicken is cooked, brush the molten yellow sauce onto the skewers.",
+    "Serve the yellow molten Brazilian chicken skewers hot, garnished with fresh cilantro or scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "brazilian-cuisine",
+    "brunch-ideas",
+    "gluten-free",
+    "grilled-chicken",
+    "low-carb",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-molten-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-molten-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:57:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Molten",
+    "dishForm": "Skewers"
+  }
+}

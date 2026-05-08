@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Spicy Italian Peppers Cacio E Pepe",
+  "description": "A spicy and aerated Italian dish featuring colatura and Calabrian peppers, made in a wok and served en-croute, inspired by the traditional cacio e pepe recipe with an Ayurvedic twist",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Italian Peppers",
+      "amount": "4 large",
+      "notes": "any color will work"
+    },
+    {
+      "name": "Pecorino Romano cheese",
+      "amount": "1 cup grated"
+    },
+    {
+      "name": "Colatura di Alici",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Calabrian chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok over medium heat",
+    "Add the minced garlic and cook for 1 minute until fragrant",
+    "Add the sliced yellow peppers and cook for 5 minutes until they start to soften",
+    "Add the Calabrian chili flakes and cook for 1 minute",
+    "Add the colatura and stir to combine",
+    "Add the grated Pecorino Romano cheese and stir until melted and well combined",
+    "Season with black pepper to taste",
+    "Transfer the mixture to a serving dish and top with chopped parsley",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "one-pan-meals",
+    "spicy-dishes",
+    "vegetarian-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellow-spicy-italian-peppers-cacio-e-pepe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-italian-peppers-cacio-e-pepe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:59:34Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "en-croute",
+    "primaryIngredient": "colatura",
+    "diet": "ayurvedic-tamasic",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "peppers",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Cacio E Pepe"
+  }
+}

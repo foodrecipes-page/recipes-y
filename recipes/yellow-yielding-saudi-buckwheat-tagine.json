@@ -1,0 +1,105 @@
+{
+  "title": "yellow-yielding saudi buckwheat tagine",
+  "description": "a dense and savory saudi-arabian dish that combines the nutty flavors of buckwheat with the tangy taste of shio-koji-cure, all wrapped in a romantic and healthy tagine vessel.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large kadhai over medium heat.",
+    "Add the sliced onion and cook until it's translucent and lightly caramelized.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced red bell pepper and cook for 2-3 minutes, until tender.",
+    "Add the cumin powder, paprika powder, and salt, and stir well.",
+    "Add the chickpeas, tomato puree, and cooked onion mixture to the kadhai.",
+    "Stir in the shio-koji cure and cook for 2-3 minutes, until the flavors have melded together.",
+    "Add the buckwheat and stir well to combine.",
+    "Cook for 5-7 minutes, until the buckwheat is tender and the tagine is heated through.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "saudi-arabian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-yielding-saudi-buckwheat-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yielding-saudi-buckwheat-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T18:39:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "buckwheat",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Yellow-Yielding",
+    "dishForm": "Tagine"
+  }
+}

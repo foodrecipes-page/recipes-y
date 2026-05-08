@@ -1132,6 +1132,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-cheesy-kenyan-toffee-popcorn-casserole",
+    "title": "Yellow Cheesy Kenyan Toffee Popcorn Casserole",
+    "tags": [
+      "high-protein",
+      "kenyan",
+      "lazy-sunday",
+      "one-pan",
+      "snack",
+      "toffee",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-cheesy-venezuelan-cannellini-bean-stew",
     "title": "Yellow Cheesy Venezuelan Cannellini Bean Stew",
     "tags": [
@@ -4918,6 +4934,21 @@
       "weeknight"
     ],
     "cuisine": "Malaysian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-nutty-polish-pork-casserole",
+    "title": "Yellowed Nutty Polish Pork Casserole",
+    "tags": [
+      "anti-inflammatory",
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
     "totalTimeMin": 50,
     "shard": "y"
   },

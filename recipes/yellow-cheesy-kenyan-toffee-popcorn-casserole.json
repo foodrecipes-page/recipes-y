@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Cheesy Kenyan Toffee Popcorn Casserole",
+  "description": "A lazy Sunday Kenyan dish featuring toffee popcorn, dum, and high-protein friendly ingredients, with a fermented and cheese-pull twist.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "toffee popcorn",
+      "amount": "2 cups",
+      "notes": "fermented for 2 days"
+    },
+    {
+      "name": "dum",
+      "amount": "1 cup",
+      "notes": "high-protein friendly"
+    },
+    {
+      "name": "yellow cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the fermented toffee popcorn, dum, and shredded yellow cheese.",
+    "In a separate bowl, whisk together the melted butter, beaten eggs, low-fat milk, salt, and black pepper.",
+    "Pour the wet ingredients into the dry ingredients and stir until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish and bake for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for 5 minutes.",
+    "Serve the casserole hot, garnished with additional toffee popcorn if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan",
+    "lazy-sunday",
+    "one-pan",
+    "snack",
+    "toffee",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "yellow-cheesy-kenyan-toffee-popcorn-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-cheesy-kenyan-toffee-popcorn-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:32:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "toffee popcorn",
+    "descriptor": "Yellow cheesy",
+    "dishForm": "Casserole"
+  }
+}

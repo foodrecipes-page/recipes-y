@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Nutty Polish Pork Casserole",
+  "description": "A comforting Polish dish featuring ground allspice, with a nutty and gooey texture, cooked in a traditional ttukbaegi earthenware style, but using a bamboo tray for a modern twist, and incorporating anti-inflammatory friendly ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably pasture raised"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the coconut oil over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the ground pork, ground allspice, turmeric, and ginger, and cook until the pork is browned.",
+    "In a separate pot, bring the chicken broth to a boil.",
+    "Add the brown rice to the pot and cook according to the package instructions.",
+    "In a large bamboo tray, combine the cooked pork mixture, cooked rice, and chopped walnuts.",
+    "Transfer the tray to the preheated oven and bake for 25 minutes.",
+    "Remove the tray from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellowed-nutty-polish-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-nutty-polish-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:32:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "ground allspice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Yellowed Nutty",
+    "dishForm": "Casserole"
+  }
+}

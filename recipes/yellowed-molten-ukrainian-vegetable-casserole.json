@@ -1,0 +1,97 @@
+{
+  "title": "Yellowed Molten Ukrainian Vegetable Casserole",
+  "description": "A charred, molten, lazy-sunday Ukrainian dish featuring meringue nests and bhuna, perfect for a vegetarian-friendly meal. It is a hearty and flavorful casserole.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14.5 oz",
+      "notes": "drained"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "meringue nests",
+      "amount": "6",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the onion and garlic until softened.",
+    "Add the sliced eggplant and zucchini to the skillet and cook until they start to brown.",
+    "Stir in the canned diced tomatoes and bhuna spice blend and bring to a simmer.",
+    "In a large baking dish, create a layer of the vegetable mixture.",
+    "Top the vegetable layer with a meringue nest.",
+    "Repeat the layers two more times, ending with a layer of meringue nests on top.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the meringue is golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "hearty-meal",
+    "lazy-sunday",
+    "one-pan",
+    "ukrainian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "yellowed-molten-ukrainian-vegetable-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-molten-ukrainian-vegetable-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:00:29Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "meringue nests",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Yellowed molten",
+    "dishForm": "Casserole"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Yummy Kenyan Beef Wrap",
+  "description": "A winey and bouncy post-workout Kenyan dish featuring a baguette and leaf wrap steam, served in a Korean brass bowl.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baguette",
+      "amount": "1 loaf",
+      "notes": "preferably day old"
+    },
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Collard green leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the baguette into 1 inch thick rounds and toast until lightly browned.",
+    "In a large skillet, heat the coconut oil over medium high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes per side.",
+    "Add the garlic, ginger, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the red wine to the skillet and cook until the liquid is almost completely reduced.",
+    "Wrap each toasted baguette round in a collard green leaf and steam for 2-3 minutes.",
+    "Assemble the wraps by placing the beef mixture onto the steamed baguette rounds.",
+    "Serve the wraps in a Korean brass bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "post-workout",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "yummy-kenyan-beef-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-kenyan-beef-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:56:26Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "baguette",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "yummy leaf wrapped",
+    "dishForm": "Wrap"
+  }
+}

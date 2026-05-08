@@ -6003,6 +6003,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-kenyan-beef-wrap",
+    "title": "Yummy Kenyan Beef Wrap",
+    "tags": [
+      "high-protein",
+      "kenyan-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "post-workout",
+      "wine-based"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-kenyan-cashews-wrap",
     "title": "Yummy Kenyan Cashews Wrap",
     "tags": [

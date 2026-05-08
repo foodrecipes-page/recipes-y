@@ -1,0 +1,96 @@
+{
+  "title": "Yellowed Velvety Moroccan Tagliatelle Pastilla",
+  "description": "A funky and festive Moroccan dish featuring tagliatelle, bonito-shave, and vegan-friendly ingredients in a pastilla form, with a unique yellowed velvety texture.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "vegan-friendly substitute"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spices",
+      "amount": "2 tbsp",
+      "notes": "moroccan blend"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the tagliatelle according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the moroccan spices and cook for 1 minute.",
+    "In a large bowl, combine the cooked tagliatelle, bonito flakes, and chickpeas.",
+    "Add the lemon juice and toss to combine.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive-recipe",
+    "moroccan-cuisine",
+    "pasta-dish",
+    "vegan-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellowed-velvety-moroccan-tagliatelle-pastilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-velvety-moroccan-tagliatelle-pastilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:51:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "bonito-shave",
+    "primaryIngredient": "tagliatelle",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "Yellowed Velvety",
+    "dishForm": "Pastilla"
+  }
+}

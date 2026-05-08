@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Yakimono Irish Cornmeal Grill",
+  "description": "A savory and crumbly Irish dish featuring fine yellow cornmeal, grilled to perfection on a cedar plank, with a rich umami flavor, perfect for a monsoon evening, this recipe is onion and garlic free.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fine Yellow Cornmeal",
+      "amount": "2 cups",
+      "notes": "stone ground"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Mushroom Duxelles",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Grated Carrot",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cedar Plank",
+      "amount": "1 piece",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornmeal, salt, and black pepper.",
+    "Add the buttermilk to the bowl and stir until just combined, the batter should still be slightly lumpy.",
+    "Fold in the mushroom duxelles and grated carrot.",
+    "Place the cedar plank on the grill and brush with unsalted butter.",
+    "Spoon the cornmeal mixture onto the cedar plank, shaping into a rectangular shape.",
+    "Close the grill lid and cook for 20 minutes, or until the cornmeal is golden brown and crispy.",
+    "Flip the cornmeal grill over and cook for an additional 10 minutes, or until crispy and golden brown.",
+    "Remove the cornmeal grill from the grill and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cornmeal-recipe",
+    "grilled-vegetarian",
+    "irish-cuisine",
+    "monsoon-dish",
+    "umami-flavor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-yakimono-irish-cornmeal-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yakimono-irish-cornmeal-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:10:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Yellow Yakimono",
+    "dishForm": "Grill"
+  }
+}

@@ -2114,6 +2114,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-yolk-american-eggs-frittata",
+    "title": "Yellow Yolk American Eggs Frittata",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "flexitarian-friendly",
+      "one-pan",
+      "smoked",
+      "weekend"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-yonder-norwegian-fish-gratin",
     "title": "Yellow Yonder Norwegian Fish Gratin",
     "tags": [

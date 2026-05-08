@@ -2601,6 +2601,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-peruvian-seafood-ceviche-clasico",
+    "title": "Yellow Peruvian Seafood Ceviche Clasico",
+    "tags": [
+      "bento-box",
+      "ceviche",
+      "gluten-free",
+      "nut-free",
+      "peruvian",
+      "quick-fix",
+      "seafood"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-pickled-peruvian-fromage-blanc-tiradito",
     "title": "Yellow Pickled Peruvian Fromage Blanc Tiradito",
     "tags": [

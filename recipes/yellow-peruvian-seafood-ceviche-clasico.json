@@ -1,0 +1,109 @@
+{
+  "title": "Yellow Peruvian Seafood Ceviche Clasico",
+  "description": "A savory and juicy Peruvian dish featuring seafood marinated in citrus juices, served in a bento box. This recipe is a quick fix and nut free friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the seafood, lime juice, and lemon juice, making sure that the seafood is completely covered with the marinade.",
+    "Add the sliced onion, chopped aji amarillo pepper, and minced garlic to the bowl and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the seafood to marinate.",
+    "In a small saucepan, melt the vegetable shortening over low heat.",
+    "Remove the bowl from the refrigerator and stir in the melted shortening, salt, and black pepper.",
+    "To serve, divide the ceviche among four bento boxes, garnished with corn kernels and chopped cilantro.",
+    "Serve immediately and enjoy.",
+    "Make sure to discard any leftover ceviche after 24 hours.",
+    "Keep the bento boxes refrigerated at a temperature of 40 degrees Fahrenheit or below."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "ceviche",
+    "gluten-free",
+    "nut-free",
+    "peruvian",
+    "quick-fix",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "yellow-peruvian-seafood-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-peruvian-seafood-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:26:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "seafood",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Ceviche Clasico"
+  }
+}

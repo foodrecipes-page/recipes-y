@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Charred Jamaican Tofu Skewers",
+  "description": "Charred and creamy Jamaican dish featuring balsamic vinegar, perfect for a post-workout meal, this shojin-friendly recipe is a great option for those looking for a healthy and flavorful meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": " seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine balsamic vinegar, soy sauce, brown sugar, scotch bonnet peppers, garlic, thyme, and allspice, and blend until smooth.",
+    "Place the tofu cubes in a large bowl and pour the marinade over them, tossing to coat.",
+    "Thread the marinated tofu cubes onto the bamboo skewers, leaving a small space between each cube.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the skewers from the oven and increase the oven temperature to broil.",
+    "Broil the skewers for an additional 5 minutes, or until lightly charred.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican-cuisine",
+    "one-pan",
+    "shojin-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yellow-charred-jamaican-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-charred-jamaican-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:20:20Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "dehydrate",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tofu",
+    "descriptor": "Yellow Charred",
+    "dishForm": "Skewers"
+  }
+}

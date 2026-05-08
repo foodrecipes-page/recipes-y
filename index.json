@@ -3274,6 +3274,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellowfin-australian-fish-sushi",
+    "title": "Yellowfin Australian Fish Sushi",
+    "tags": [
+      "australian-cuisine",
+      "date-night",
+      "high-protein",
+      "seafood-dish",
+      "sushi-recipe"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellowish-brown-argentinian-beef-stew",
     "title": "Yellowish Brown Argentinian Beef Stew",
     "tags": [

@@ -1,0 +1,95 @@
+{
+  "title": "Yellowfin Australian Fish Sushi",
+  "description": "A jammy and glassy-jelly Australian dish featuring canola oil, perfect for a date night, made with yellowfin fish and shaped into nigiri, ayurvedic-tamasic-friendly",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellowfin fish",
+      "amount": "1 pound",
+      "notes": "sashimi grade"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "short grain rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "norii sheets",
+      "amount": "10 sheets"
+    },
+    {
+      "name": "wasabi",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to the package instructions",
+    "Cut the yellowfin fish into small pieces and set aside",
+    "Heat the canola oil in a pan over medium heat",
+    "Add the sugar and salt to the pan and stir until dissolved",
+    "Add the fish pieces to the pan and cook for 2 minutes on each side",
+    "Prepare the norii sheets by cutting them into small squares",
+    "Assemble the nigiri by shaping the sushi rice into small balls and topping with a piece of fish and a norii square",
+    "Serve the nigiri with wasabi and pickled ginger on the side",
+    "Drizzle the canola oil mixture over the top of the nigiri"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "date-night",
+    "high-protein",
+    "seafood-dish",
+    "sushi-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yellowfin-australian-fish-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowfin-australian-fish-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:47:30Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "canola oil",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "Yellowfin",
+    "dishForm": "Sushi"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Young Herb Vietnamese Rice Flour Banh Cuon",
+  "description": "Silky steamed rice rolls filled with savory grilled mushrooms and fresh young herbs for a light weeknight meal. This ovo-vegetarian version uses a pan-steaming method for a delicate texture without a traditional steamer.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "Ovo-Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "200g",
+      "notes": "Preferably Thai elephant brand"
+    },
+    {
+      "name": "Tapioca starch",
+      "amount": "50g",
+      "notes": "Adds elasticity to the batter"
+    },
+    {
+      "name": "King oyster mushrooms",
+      "amount": "300g",
+      "notes": "Finely diced for a char-grilled meat substitute"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "Lightly beaten for the ovo-vegetarian filling"
+    },
+    {
+      "name": "Thai basil and mint",
+      "amount": "1 cup",
+      "notes": "Fresh young herbs, finely chopped"
+    },
+    {
+      "name": "Vegetarian fish sauce",
+      "amount": "3 tbsp",
+      "notes": "Made from pineapple or soy"
+    },
+    {
+      "name": "Water",
+      "amount": "500ml",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Shallots",
+      "amount": "4",
+      "notes": "Fried until crispy for topping"
+    }
+  ],
+  "instructions": [
+    "Whisk together the rice flour, tapioca starch, water, and a pinch of salt until smooth.",
+    "Let the batter rest for thirty minutes to allow the starches to fully hydrate.",
+    "Saute the diced king oyster mushrooms in a hot pan until they are browned and charred.",
+    "Pour the beaten eggs over the mushrooms and scramble them until just set.",
+    "Lightly grease a non-stick skillet and heat it over medium-low heat.",
+    "Pour a thin layer of batter into the pan and swirl it quickly to cover the surface.",
+    "Cover the pan with a lid and steam the batter for one minute until translucent.",
+    "Carefully flip the rice sheet onto a greased plate and place a spoonful of filling in the center.",
+    "Roll the sheet tightly around the mushroom and egg mixture.",
+    "Repeat the process until all the batter and filling are used.",
+    "Garnish the rolls with fresh young herbs and crispy fried shallots.",
+    "Serve immediately with a side of vegetarian dipping sauce."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "serv": 4,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fresh-herbs",
+    "gluten-free",
+    "healthy-eating",
+    "ovo-vegetarian",
+    "vietnamese-style",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 58,
+    "fat": 6
+  },
+  "slug": "young-herb-vietnamese-rice-flour-banh-cuon",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/young-herb-vietnamese-rice-flour-banh-cuon",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T07:48:42Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Rice Flour",
+    "descriptor": "Young Herb",
+    "dishForm": "Banh Cuon"
+  }
+}

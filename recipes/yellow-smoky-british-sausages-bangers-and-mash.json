@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Smoky British Sausages Bangers And Mash",
+  "description": "A classic British dish featuring smoky sausages and mashed potatoes, served with a side of meringue nests and grilled to perfection on a yakimono-grill.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British sausages",
+      "amount": "8",
+      "notes": "preferably made with pork and seasoned with smoky spices"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "high-starch variety like Russet or Idaho"
+    },
+    {
+      "name": "meringue nests",
+      "amount": "8",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat, approximately 400 degrees Fahrenheit.",
+    "Grill the British sausages for about 5 minutes on each side, or until they are nicely browned and cooked through.",
+    "While the sausages are cooking, boil the potatoes in a large pot of salted water until they are tender, about 15-20 minutes.",
+    "Drain the potatoes and mash them with olive oil, salt, and black pepper in a large bowl.",
+    "In a separate pan, sauté the sliced onion and minced garlic in a little bit of olive oil until they are softened and lightly browned.",
+    "Add the chicken broth to the pan and bring to a simmer, scraping up any browned bits from the bottom of the pan.",
+    "To serve, place a grilled sausage on top of a mound of mashed potatoes, spoon some of the onion and garlic sauce over the top, and garnish with a meringue nest.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "grilled-meats",
+    "homemade-meringues",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "yellow-smoky-british-sausages-bangers-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-british-sausages-bangers-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:49:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "meringue nests",
+    "diet": "anti-inflammatory",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Bangers And Mash"
+  }
+}

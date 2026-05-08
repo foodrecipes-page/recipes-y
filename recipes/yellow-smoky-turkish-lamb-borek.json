@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Smoky Turkish Lamb Borek",
+  "description": "A sour and flaky Turkish dish featuring coriander seeds and smoked lamb, perfect for a romantic dinner",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Mix the ground lamb with coriander seeds, smoked paprika, salt, and black pepper in a bowl",
+    "Add the yogurt and lemon juice to the bowl and mix until just combined",
+    "Unroll the phyllo dough and cut it into 4 equal pieces",
+    "Place a quarter of the lamb mixture onto the center of each piece of phyllo dough",
+    "Brush the edges of the phyllo dough with olive oil",
+    "Fold the phyllo dough over the filling to form a triangle and press the edges together to seal",
+    "Brush the tops of the borek with olive oil and bake for 25 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "low-glycemic",
+    "romantic-dinner",
+    "smoky-flavors",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-smoky-turkish-lamb-borek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-turkish-lamb-borek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:49:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "coriander seeds",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Borek"
+  }
+}

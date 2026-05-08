@@ -1604,6 +1604,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-smoky-british-sausages-bangers-and-mash",
+    "title": "Yellow Smoky British Sausages Bangers And Mash",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "grilled-meats",
+      "homemade-meringues",
+      "smoky-flavors"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-smoky-italian-vegetable-pasta",
     "title": "Yellow Smoky Italian Vegetable Pasta",
     "tags": [
@@ -1660,6 +1674,20 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 70,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-smoky-turkish-lamb-borek",
+    "title": "Yellow Smoky Turkish Lamb Borek",
+    "tags": [
+      "lamb-recipes",
+      "low-glycemic",
+      "romantic-dinner",
+      "smoky-flavors",
+      "turkish-food"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -2037,6 +2065,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 75,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crispy-norwegian-guanciale-skewers",
+    "title": "Yellowed Crispy Norwegian Guanciale Skewers",
+    "tags": [
+      "adventurous-eating",
+      "guanciale-recipes",
+      "norwegian-cuisine",
+      "papillote-cooking",
+      "raw-friendly",
+      "salmon-fillets"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 32,
     "shard": "y"
   },
   {
@@ -2983,6 +3026,21 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 9,
+    "shard": "y"
+  },
+  {
+    "slug": "young-herb-vietnamese-rice-flour-banh-cuon",
+    "title": "Young Herb Vietnamese Rice Flour Banh Cuon",
+    "tags": [
+      "fresh-herbs",
+      "gluten-free",
+      "healthy-eating",
+      "ovo-vegetarian",
+      "vietnamese-style",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {

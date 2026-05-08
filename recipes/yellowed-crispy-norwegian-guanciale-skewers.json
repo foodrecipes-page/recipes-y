@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Crispy Norwegian Guanciale Skewers",
+  "description": "A funky and flaky Norwegian dish featuring guanciale, this recipe is perfect for adventurous eaters, with the option to serve raw or cooked, and the use of papillote for added flavor and texture. The combination of crispy guanciale and fresh Norwegian ingredients creates a unique taste experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4 fillets",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the guanciale into 1 inch pieces and set aside.",
+    "In a large bowl, whisk together the lemon juice, olive oil, salt, and black pepper.",
+    "Add the Norwegian salmon fillets, red onion, and fresh dill to the bowl and toss to combine.",
+    "Thread a piece of guanciale, a piece of salmon, and a slice of red onion onto each skewer.",
+    "Wrap each skewer in a piece of papillote paper, making sure to seal the edges.",
+    "Place the skewers on a baking sheet and bake for 12 minutes.",
+    "Remove the skewers from the oven and let cool for 2 minutes.",
+    "Serve the skewers hot, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "guanciale-recipes",
+    "norwegian-cuisine",
+    "papillote-cooking",
+    "raw-friendly",
+    "salmon-fillets"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "yellowed-crispy-norwegian-guanciale-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-norwegian-guanciale-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:48:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "papillote",
+    "primaryIngredient": "guanciale",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "guanciale",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Skewers"
+  }
+}

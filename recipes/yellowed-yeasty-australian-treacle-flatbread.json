@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Yeasty Australian Treacle Flatbread",
+  "description": "A traditional Australian dish featuring treacle and long-fermentation-dough, perfect for curing hangovers, this flatbread is briny, aerated, and FODMAP-friendly. It is made with a simple ingredients list and is easy to prepare.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "treacle",
+      "amount": "1 cup",
+      "notes": "use high-quality, low-FODMAP treacle"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine yeast, sugar, and warm water, then let it sit for 10 minutes until the mixture becomes frothy.",
+    "Add treacle, olive oil, salt, and sea salt to the bowl, then mix until well combined.",
+    "Gradually add rice flour to the bowl, mixing until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 24 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and shape it into a flat round.",
+    "Place the flatbread on a baking sheet lined with parchment paper and bake for 25 minutes until it is golden brown.",
+    "Remove the flatbread from the oven and let it cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "gluten-free",
+    "hangover-food",
+    "low-fodmap",
+    "yeasty-bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "yellowed-yeasty-australian-treacle-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-yeasty-australian-treacle-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:08:15Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "treacle",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "treacle",
+    "descriptor": "Yellowed Yeasty",
+    "dishForm": "Flatbread"
+  }
+}

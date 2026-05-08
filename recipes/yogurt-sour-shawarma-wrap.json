@@ -1,0 +1,111 @@
+{
+  "title": "Yogurt-Sour Shawarma Wrap",
+  "description": "A tangy twist on the classic Middle Eastern shawarma, featuring a crispy pita and a refreshing yogurt-sour sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lavash Bread",
+      "amount": "4-6",
+      "notes": "You can use any type of flatbread, but lavash is traditional."
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "Plain, full-fat yogurt is best for this recipe."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed is always best."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince them finely for best flavor."
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley adds a lot of flavor."
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Slice it thinly for best results."
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice it and soak it in cold water for 10 minutes to remove some of the pungency."
+    },
+    {
+      "name": "Unsalted Pistachios",
+      "amount": "1/4 cup",
+      "notes": "Chopped pistachios add crunch and flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use as needed to bring out the flavors."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "for brushing",
+      "notes": "Brush the pita with a little olive oil before toasting it for best flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Toast the lavash bread for about 30 seconds on each side, until it's crispy and slightly charred.",
+    "In a small bowl, whisk together the yogurt, lemon juice, garlic, salt, and parsley.",
+    "Add the chopped cucumber and red onion to the yogurt mixture and stir to combine.",
+    "Spread a tablespoon or two of the yogurt-sour sauce on each toasted lavash bread.",
+    "Top each bread with some chopped pistachios and a slice or two of cucumber.",
+    "Drizzle with a little olive oil and serve immediately.",
+    "Serve the yogurt-sour shawarma wrap with additional yogurt-sour sauce on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yogurt-sour-shawarma-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-sour-shawarma-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:11:11Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "yogurt-sour",
+    "dishForm": null
+  }
+}

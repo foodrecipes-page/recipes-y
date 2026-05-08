@@ -1,0 +1,102 @@
+{
+  "title": "Yellow Spiced Indian Fish Biryani",
+  "description": "A flavorful and aromatic Hyderabadi dish featuring fish, spices, and basmati rice, cooked to perfection in a tandoor clay pot. This recipe is pescatarian-friendly and serves one.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish works"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "mango or lime pickle"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot by placing it in a preheated oven at 400 degrees Fahrenheit for 10 minutes.",
+    "Mix the flour, cumin seeds, coriander powder, turmeric powder, and salt in a small bowl.",
+    "Coat the fish fillets with the flour mixture, shaking off any excess.",
+    "Heat the ghee in the preheated tandoor clay pot over medium heat, then add the coated fish fillets and cook until golden brown on both sides.",
+    "Remove the fish from the pot and set it aside on a plate.",
+    "Add the pickle, basmati rice, and water to the pot, stirring gently to combine.",
+    "Return the fish to the pot, cover it with a lid, and transfer it to the oven to bake at 375 degrees Fahrenheit for 20 minutes.",
+    "Remove the pot from the oven and let it rest for 5 minutes before serving.",
+    "Fluff the biryani gently with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "fish-recipes",
+    "indian-cuisine",
+    "one-pot",
+    "spicy-food",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-spiced-indian-fish-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spiced-indian-fish-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:08:45Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "all purpose flour",
+    "diet": "pescatarian",
+    "region": "hyderabadi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "Yellow Spiced",
+    "dishForm": "Biryani"
+  }
+}

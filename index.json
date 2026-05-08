@@ -3013,6 +3013,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spiced-indian-fish-biryani",
+    "title": "Yellow Spiced Indian Fish Biryani",
+    "tags": [
+      "clay-pot",
+      "fish-recipes",
+      "indian-cuisine",
+      "one-pot",
+      "spicy-food",
+      "tandoor-cooking"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spiced-indian-lentils-curry",
     "title": "Yellow Spiced Indian Lentils Curry",
     "tags": [

@@ -1,0 +1,102 @@
+{
+  "title": "Yellowed Springy Ukrainian Chicken Noodles",
+  "description": "A sweet and springy Ukrainian dish featuring chicken, noodles, and shoyu-koji, perfect for a weeknight dinner, this recipe is gluten-free friendly and utilizes a wok as the primary vessel.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gluten-free noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sous-vide machine",
+      "amount": "1",
+      "notes": "for cooking chicken"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and black pepper, then cook in a sous-vide machine at 140 degrees Fahrenheit for 1 hour.",
+    "Heat the vegetable oil in a wok over medium-high heat, then add the sliced onion and cook until it is translucent.",
+    "Add the minced garlic to the wok and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the cooked chicken to the wok, stirring to combine with the onion and garlic.",
+    "Add the shoyu-koji, honey, and gluten-free noodles to the wok, stirring to combine and cook for 2 minutes.",
+    "Reduce heat to low and simmer the mixture for 5 minutes, stirring occasionally, until the noodles are cooked and the sauce has thickened.",
+    "Serve the Yellowed Springy Ukrainian Chicken Noodles hot, garnished with chopped green onions if desired.",
+    "Cooking time may vary depending on the specific gluten-free noodles used, so adjust the cooking time as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dish",
+    "gluten-free",
+    "one-pan",
+    "sous-vide",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellowed-springy-ukrainian-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-springy-ukrainian-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:45:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellowed Springy",
+    "dishForm": "Noodles"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Steamed Norwegian Rice Noodles",
+  "description": "A weeknight Norwegian dish featuring steamed rice noodles with a savory umami flavor, served in a tagliere vessel.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably Norwegian brand"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Fill a large pot with 2 cups of water and bring to a boil.",
+    "Add the chicken broth, sliced mushrooms, chopped onion, and grated carrots to the pot.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Add the rice noodles to the pot and steam for 5 minutes.",
+    "Stir in the turmeric and black pepper.",
+    "Serve the noodles in a tagliere vessel.",
+    "Garnish with chopped parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "low-sodium",
+    "noodles",
+    "norwegian",
+    "steamed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-steamed-norwegian-rice-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-steamed-norwegian-rice-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:33:41Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "rice noodles",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Yellow Steamed",
+    "dishForm": "Noodles"
+  }
+}

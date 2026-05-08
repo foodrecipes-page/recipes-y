@@ -1963,6 +1963,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-steamed-norwegian-rice-noodles",
+    "title": "Yellow Steamed Norwegian Rice Noodles",
+    "tags": [
+      "easy-dinner",
+      "low-sodium",
+      "noodles",
+      "norwegian",
+      "steamed",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-tunisian-lentil-tagine",
     "title": "Yellow Tunisian Lentil Tagine",
     "tags": [

@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Smoked Moroccan Turkey Tagine",
+  "description": "A rich and comforting Moroccan dish featuring crispy turkey, smoked to perfection, with a blend of aromatic spices and vegetables, perfect for a special occasion or a cozy night in.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the smoked paprika, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Rub the spice mixture all over the turkey breast, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the turkey breast until it is browned on all sides, about 5 minutes per side.",
+    "Add the chopped onion to the pot and cook until it is softened, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for an additional 1 minute.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake the tagine for 25 minutes, or until the turkey is cooked through and the vegetables are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy-night-in",
+    "moroccan-cuisine",
+    "smoked-food",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "yellow-smoked-moroccan-turkey-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoked-moroccan-turkey-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:34:55Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "smoke-hot",
+    "primaryIngredient": "turkey",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "turkey",
+    "descriptor": "Yellow Smoked",
+    "dishForm": "Tagine"
+  }
+}

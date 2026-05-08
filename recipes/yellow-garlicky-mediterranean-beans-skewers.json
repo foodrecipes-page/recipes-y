@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Garlicky Mediterranean Beans Skewers",
+  "description": "A flavorful and energizing Mediterranean dish featuring refried beans, garlic, and vegetables, made Whole30-friendly by using agemono-deep-fry method, perfect for a quick lunch or snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "Whole30",
+    "Vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Refried beans",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together refried beans, garlic, olive oil, lemon juice, paprika, salt, and black pepper.",
+    "Thread cherry tomatoes, bell peppers, and onions onto skewers.",
+    "Brush the skewers with the bean mixture, making sure they are fully coated.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 2 minutes, or until the vegetables are tender and lightly browned.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic-lovers",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "yellow-garlicky-mediterranean-beans-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-garlicky-mediterranean-beans-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:00:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "refried beans",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beans",
+    "descriptor": "Yellow garlicky",
+    "dishForm": "Skewers"
+  }
+}

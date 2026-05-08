@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Creamy Brazilian Cornmeal Pilaf",
+  "description": "A floral and creamy weeknight Brazilian dish featuring fine yellow cornmeal, this pilaf is a low-carb-friendly option for a quick dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fine yellow cornmeal",
+      "amount": "1 cup",
+      "notes": "preferably freshly milled"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large saucepan.",
+    "Gradually whisk in the fine yellow cornmeal and reduce heat to medium.",
+    "Cook for 5 minutes or until the cornmeal is slightly tender.",
+    "Shock the cornmeal mixture in an ice bath to stop cooking.",
+    "In a large skillet, melt the unsalted butter over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the heavy cream and bring to a simmer.",
+    "Add the cooked cornmeal mixture, dried parsley, salt, and black pepper to the skillet.",
+    "Cook for an additional 2 minutes or until the pilaf is creamy and heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "yellow-creamy-brazilian-cornmeal-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-creamy-brazilian-cornmeal-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:40:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Yellow Creamy",
+    "dishForm": "Pilaf"
+  }
+}

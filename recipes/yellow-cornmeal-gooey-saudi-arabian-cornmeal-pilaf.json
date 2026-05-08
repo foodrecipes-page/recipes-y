@@ -1,0 +1,89 @@
+{
+  "title": "Yellow Cornmeal Gooey Saudi-Arabian Cornmeal Pilaf",
+  "description": "A traditional Saudi-Arabian dish featuring fine yellow cornmeal, cooked to perfection in a comal with a crispy and gooey texture.",
+  "cuisine": "saudi-arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fine yellow cornmeal",
+      "amount": "1 1/2 cups",
+      "notes": "preferably stone-ground"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/4 cups",
+      "notes": "adjust to desired consistency"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "optional for added flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tablespoons",
+      "notes": "optional for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the cornmeal and salt.",
+    "Gradually add in the water, stirring with a spoon until just combined.",
+    "Heat a comal or large non-stick skillet over medium heat.",
+    "Pour the cornmeal mixture into the comal and spread it out evenly.",
+    "Cook for 2-3 minutes, until the bottom layer starts to form a crust.",
+    "Use a spatula to gently lift and fold the edges of the pilaf towards the center.",
+    "Continue cooking for another 5-7 minutes, until the pilaf has reached your desired level of doneness.",
+    "Transfer the pilaf to a serving platter and garnish with chopped scallions if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cornmeal",
+    "gluten-free",
+    "lunch",
+    "one-pot",
+    "pilaf",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "yellow-cornmeal-gooey-saudi-arabian-cornmeal-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-cornmeal-gooey-saudi-arabian-cornmeal-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:06:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Yellow Cornmeal Gooey",
+    "dishForm": "Pilaf"
+  }
+}

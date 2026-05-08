@@ -1,0 +1,90 @@
+{
+  "title": "Yellowed Smoky Syrian Chicken Legs Roast",
+  "description": "A smoky and shattering Syrian dish featuring chicken legs, perfect for a lazy Sunday, this recipe is shojin-friendly and salt-baked to perfection, the chicken is marinated in a mixture of olive oil, lemon juice, and spices before being roasted to a golden brown",
+  "cuisine": "Syrian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4-6 legs",
+      "notes": "skin on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, paprika, salt, black pepper, garlic powder, and sumac",
+    "Add the chicken legs to the bowl and toss to coat evenly with the marinade",
+    "Line a baking sheet with aluminum foil and arrange the chicken legs on it",
+    "Bake the chicken for 30 minutes, then reduce the heat to 375 degrees Fahrenheit and continue baking for an additional 20 minutes",
+    "Remove the chicken from the oven and let it rest for 10 minutes before serving",
+    "Serve the chicken hot, garnished with fresh parsley or thyme if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "lazy-sunday",
+    "salt-bake",
+    "shojin-friendly",
+    "smoky-flavors",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "yellowed-smoky-syrian-chicken-legs-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-syrian-chicken-legs-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:09:31Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "salt-bake",
+    "primaryIngredient": "chicken legs",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken legs",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Roast"
+  }
+}

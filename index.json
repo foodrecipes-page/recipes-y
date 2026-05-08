@@ -1764,6 +1764,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-lacquered-korean-tofu-sujebi",
+    "title": "Yellow Lacquered Korean Tofu Sujebi",
+    "tags": [
+      "korean-cuisine",
+      "romantic-dinner",
+      "spicy-food",
+      "turmeric-based",
+      "vegan-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-malted-irish-lamb-stew",
     "title": "Yellow Malted Irish Lamb Stew",
     "tags": [
@@ -3494,6 +3508,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-smoky-syrian-chicken-legs-roast",
+    "title": "Yellowed Smoky Syrian Chicken Legs Roast",
+    "tags": [
+      "chicken-recipes",
+      "lazy-sunday",
+      "salt-bake",
+      "shojin-friendly",
+      "smoky-flavors",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 70,
     "shard": "y"
   },
   {

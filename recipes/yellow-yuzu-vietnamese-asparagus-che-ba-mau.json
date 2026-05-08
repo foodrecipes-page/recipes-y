@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Yuzu Vietnamese Asparagus Che Ba Mau",
+  "description": "A spicy and chewy Vietnamese dish featuring asparagus and yuzu cure, served in a raclette grill, this che ba mau is a show-off dish that is gluten-free friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "2 peppers",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yuzu juice, fish sauce, rice vinegar, sugar, grated ginger, salt, and black pepper to make the yuzu cure.",
+    "Add the sliced Thai chili peppers to the yuzu cure and stir to combine.",
+    "Add the asparagus to the yuzu cure and toss to coat.",
+    "Brush the raclette grill with vegetable oil to prevent sticking.",
+    "Add the asparagus to the raclette grill and cook for 5 minutes per side, or until tender.",
+    "Serve the asparagus hot, spooning some of the yuzu cure over the top.",
+    "Garnish with sliced Thai chili peppers and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus-recipes",
+    "gluten-free",
+    "raclette-grill",
+    "spicy-food",
+    "vietnamese-cuisine",
+    "yuzu-recipes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "yellow-yuzu-vietnamese-asparagus-che-ba-mau",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yuzu-vietnamese-asparagus-che-ba-mau",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:38:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "asparagus",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "asparagus",
+    "descriptor": "Yellow Yuzu",
+    "dishForm": "Che Ba Mau"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Yellowed Light Filipino Noodles Pancit Canton",
+  "description": "A cultured and shaggy Filipino dish featuring vanilla, with a unique twist on traditional pancit canton, cooked in a tandoor clay pot and shaped like nigiri, this gluten-free friendly meal is perfect for lunch",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice flour noodles",
+      "amount": "1 pound",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in the tandoor clay pot over medium heat",
+    "Add the chopped onion and cook until translucent",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the grated carrots and cook for 2 minutes",
+    "Add the shredded cabbage and cook until wilted",
+    "Add the rice flour noodles and cook for 2 minutes",
+    "Add the soy sauce, salt, and black pepper, and stir to combine",
+    "Add the vanilla extract and stir to combine",
+    "Use a small amount of water to shape the noodles into nigiri shapes",
+    "Serve the pancit canton hot in the tandoor clay pot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "gluten-free",
+    "lunch-ideas",
+    "noodle-recipes",
+    "one-pot",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "yellowed-light-filipino-noodles-pancit-canton",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-light-filipino-noodles-pancit-canton",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:13:35Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "vanilla",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "noodles",
+    "descriptor": "Yellowed Light",
+    "dishForm": "Pancit Canton"
+  }
+}

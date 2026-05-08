@@ -1,0 +1,97 @@
+{
+  "title": "Yellowed Brown German Pork Roast",
+  "description": "A spicy and comforting German dish featuring green cardamom pods and a cheese-pull, made with a roast and ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "4 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325 degrees Fahrenheit.",
+    "In a small bowl, mix together brown sugar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture all over the pork roast, making sure to coat it evenly.",
+    "Place the pork roast in a large Dutch oven and add the crushed green cardamom pods.",
+    "Roast the pork in the preheated oven for 2 hours, or until it reaches an internal temperature of 160 degrees Fahrenheit.",
+    "Remove the pork from the oven and let it rest for 10 minutes.",
+    "Slice the pork into thin strips and place it back in the Dutch oven.",
+    "Top the pork with shredded cheddar cheese and sour cream.",
+    "Return the Dutch oven to the oven and bake for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 130,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "yellowed-brown-german-pork-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-brown-german-pork-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:42:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Yellowed Brown",
+    "dishForm": "Roast"
+  }
+}

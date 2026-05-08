@@ -1,0 +1,105 @@
+{
+  "title": "Turkish Yeasty, Springy Flaxseed Kazandibi",
+  "description": "A charred, springy, festive Turkish dish featuring flaxseed in a pandan-leaf vessel.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaxseeds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, whisk together the flour, sugar, and yeast.",
+    "In a separate bowl, whisk together the eggs, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Add the flaxseeds and mix until well combined.",
+    "Pour the batter into the pandan-leaf vessel and cover with another leaf.",
+    "Place the vessel in a steamer basket and steam for 30 minutes.",
+    "Remove the vessel from the steamer and place it in the preheated oven.",
+    "Bake for 20-25 minutes or until the top is golden brown and the edges are charred.",
+    "Remove the vessel from the oven and let it cool for 5 minutes.",
+    "Invert the vessel onto a serving plate and serve warm.",
+    "Serve with a drizzle of honey, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-calorie",
+    "high-carb",
+    "special-occasion",
+    "traditional",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yeasty-springy-turkish-flaxseed-kazandibi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-springy-turkish-flaxseed-kazandibi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:20:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "flaxseed",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Yeasty, Springy",
+    "dishForm": "Kazandibi"
+  }
+}

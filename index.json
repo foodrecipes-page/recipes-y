@@ -2108,6 +2108,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-glazed-slovakian-kabanos-skillet",
+    "title": "Yellow Glazed Slovakian Kabanos Skillet",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "slovakian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-glazed-syrian-tomato-lasagna",
     "title": "Yellow Glazed Syrian Tomato Lasagna",
     "tags": [
@@ -2703,6 +2718,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-roasted-brazilian-chicken-skewers",
+    "title": "Yellow Roasted Brazilian Chicken Skewers",
+    "tags": [
+      "brazilian-food",
+      "chicken-recipes",
+      "easy-dinner",
+      "gluten-free",
+      "hangover-cure",
+      "roasted-chicken"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-roasted-jamaican-coconut-roast",
     "title": "Yellow Roasted Jamaican Coconut Roast",
     "tags": [
@@ -3294,6 +3324,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-croatian-shrimp-skewers",
+    "title": "Yellow Spicy Croatian Shrimp Skewers",
+    "tags": [
+      "croatian",
+      "high-protein",
+      "jain-friendly",
+      "seafood",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

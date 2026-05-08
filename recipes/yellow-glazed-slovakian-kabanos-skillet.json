@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Glazed Slovakian Kabanos Skillet",
+  "description": "A hearty and comforting Slovakian dish featuring Polish kabanos sausage in a sweet and tangy yellow glaze, perfect for a sick day, and dairy-free-friendly. This dish is easy to make and can be ready in under an hour.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish kabanos sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "yellow glaze mix",
+      "amount": "1 package",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced kabanos sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped bell pepper and cook until tender, about 5 minutes.",
+    "Add the diced potatoes and cook until they start to brown, about 5 minutes.",
+    "Pour in the yellow glaze mix and stir to combine.",
+    "Reduce heat to low and simmer, covered, until the potatoes are tender, about 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "slovakian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellow-glazed-slovakian-kabanos-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-glazed-slovakian-kabanos-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:26:05Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "polish kabanos",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "kabanos",
+    "descriptor": "Yellow Glazed",
+    "dishForm": "Skillet"
+  }
+}

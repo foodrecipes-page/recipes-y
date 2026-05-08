@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Spicy Croatian Shrimp Skewers",
+  "description": "A flavorful and spicy Croatian dish featuring shrimp, kimchi, and cheese, served on a hot stone plate. This jain-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "jain",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the shrimp onto skewers, leaving a small space between each shrimp.",
+    "In a bowl, mix together the kimchi, feta cheese, paprika, garlic, olive oil, lemon juice, parsley, salt, and black pepper.",
+    "Brush the mixture onto the shrimp, making sure they are fully coated.",
+    "Place the skewers on a hot stone plate and bake for 8-10 minutes, or until the shrimp are pink and fully cooked.",
+    "Serve the shrimp hot, garnished with additional parsley and kimchi if desired.",
+    "Make sure to handle the hot stone plate with care, as it will be extremely hot.",
+    "Let the shrimp rest for a few minutes before serving, to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "jain-friendly",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-spicy-croatian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-croatian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:27:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "crustaceans",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Skewers"
+  }
+}

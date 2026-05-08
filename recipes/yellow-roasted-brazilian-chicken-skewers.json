@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Roasted Brazilian Chicken Skewers",
+  "description": "A roasted Brazilian dish featuring chicken skewers marinated in white wine and ferment jang, perfect for a hangover cure. This springy dish is full of flavor and easy to make.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together white wine, ferment jang, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the chicken to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the chicken in the preheated oven for 20-25 minutes, or until cooked through.",
+    "Serve the chicken hot, garnished with fresh parsley or cilantro if desired.",
+    "Let the chicken rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "chicken-recipes",
+    "easy-dinner",
+    "gluten-free",
+    "hangover-cure",
+    "roasted-chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "yellow-roasted-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-roasted-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:26:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "ferment-jang",
+    "primaryIngredient": "white wine",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Roasted",
+    "dishForm": "Skewers"
+  }
+}

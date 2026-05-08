@@ -1,0 +1,107 @@
+{
+  "title": "Yellowed Rich French Chestnuts Beef Bourguignon",
+  "description": "A hearty and cozy French dish featuring tender beef, chestnuts, and a citrusy twist, served in a slate-tile vessel. This Mediterranean-friendly boeuf bourguignon is perfect for a cold winter's night.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, cut into 2-inch pieces"
+    },
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300 degrees Fahrenheit.",
+    "Season the beef short ribs with salt and pepper.",
+    "In a large Dutch oven, cook the beef short ribs over medium-high heat until browned on all sides.",
+    "Add the chopped onions to the pot and cook until they are translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and cook for 2 minutes.",
+    "Add the chestnuts, tomato paste, red wine, beef broth, lemon juice, and thyme to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the mixture for 2 1/2 hours, or until the beef is tender.",
+    "Serve the bourguignon hot, garnished with fresh thyme.",
+    "Let the dish rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "mediterranean-friendly",
+    "one-pot",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "yellowed-rich-french-chestnuts-beef-bourguignon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-rich-french-chestnuts-beef-bourguignon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:44:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "chestnuts",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chestnuts",
+    "descriptor": "Yellowed Rich",
+    "dishForm": "Beef Bourguignon"
+  }
+}

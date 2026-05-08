@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Spicy Middle Eastern Turkey Labneh Bowl",
+  "description": "A nutty and bouncy Middle Eastern dish featuring turkey, confit tomato, and labneh, perfect for a lazy Sunday, this recipe is low in sodium and rich in flavor.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground turkey",
+      "amount": "1 pound",
+      "notes": "93% lean"
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground turkey, sumac, paprika, cumin, and salt-free seasoning blend, and mix well with your hands or a wooden spoon until just combined.",
+    "Form the turkey mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Place the patties on a baking sheet lined with parchment paper, drizzle with 1 tablespoon of olive oil, and bake for 18 minutes, or until cooked through.",
+    "While the turkey is cooking, heat the remaining 1 tablespoon of olive oil in a small saucepan over medium heat.",
+    "Add the confit tomatoes to the saucepan and cook, stirring occasionally, for 5 minutes, or until heated through.",
+    "To assemble the bowls, divide the labneh cheese among four bowls, then top with a turkey patty, some confit tomatoes, chopped parsley, and chopped mint.",
+    "Drizzle the lemon juice over the top of each bowl and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 23,
+  "totalTimeMin": 43,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "healthy",
+    "low-sodium",
+    "middle-eastern",
+    "one-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "yellow-spicy-middle-eastern-turkey-labneh-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-middle-eastern-turkey-labneh-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:22:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "confit-tomato",
+    "primaryIngredient": "turkey",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "turkey",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Labneh Bowl"
+  }
+}

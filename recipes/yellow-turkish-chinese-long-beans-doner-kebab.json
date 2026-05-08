@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Turkish Chinese long beans Doner Kebab",
+  "description": "A unique and flavorful Turkish dish featuring Chinese long beans, perfect for flexitarian foodies, this Doner Kebab is salty, aerated, and visually impressive. It is deep-fry-tod and kebab-doner in form.",
+  "cuisine": "Turkish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "1 pound",
+      "notes": "trimmed"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, salt, black pepper, paprika, garlic powder, onion powder, and turmeric.",
+    "Add the trimmed Chinese long beans to the bowl and toss to coat evenly with the flour mixture.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully add the coated Chinese long beans to the hot oil and fry until golden brown, about 5 minutes.",
+    "Remove the fried long beans from the oil with a slotted spoon and drain on paper towels.",
+    "Thread the fried long beans onto skewers, if desired, to form a kebab shape.",
+    "Serve the Yellow Turkish Chinese long beans Doner Kebab hot, garnished with chopped fresh herbs or pickled vegetables, if desired.",
+    "To make the Doner Kebab style, stack the fried long beans vertically on a serving plate or platter and serve with a side of tangy sauce or yogurt sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "flexitarian",
+    "kebab-style",
+    "middle-eastern",
+    "turkish-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "yellow-turkish-chinese-long-beans-doner-kebab",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-turkish-chinese-long-beans-doner-kebab",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:23:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "chinese long beans",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Chinese long beans",
+    "descriptor": "Yellow aerated",
+    "dishForm": "Doner Kebab"
+  }
+}

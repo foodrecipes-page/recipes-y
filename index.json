@@ -2769,6 +2769,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-turkish-chinese-long-beans-doner-kebab",
+    "title": "Yellow Turkish Chinese long beans Doner Kebab",
+    "tags": [
+      "deep-fried",
+      "flexitarian",
+      "kebab-style",
+      "middle-eastern",
+      "turkish-food",
+      "vegetarian"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-turmeric-greek-feta-saganaki",
     "title": "Yellow Turmeric Greek Feta Saganaki",
     "tags": [

@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Indian Mulukhiyah Palak Paneer",
+  "description": "A one-pot Indian dish featuring mulukhiyah and paneer in a palak sauce, cooked in a banana leaf vessel. This resinous and bouncy dish is onion and garlic free, making it friendly for all diets.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mulukhiyah leaves",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "paneer",
+      "amount": "1 block",
+      "notes": "200g"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 pieces",
+      "notes": "for vessel"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pan over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the ginger paste, coriander powder, turmeric powder, and salt, and stir well.",
+    "Add the mulukhiyah leaves and stir until they are wilted.",
+    "Add the paneer and stir gently until it is well coated with the sauce.",
+    "Transfer the mixture to a banana leaf vessel and fold the leaf to seal.",
+    "Steam the vessel over boiling water for 10 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "gluten-free",
+    "indian-cuisine",
+    "mulukhiyah",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yellow-indian-mulukhiyah-palak-paneer",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-indian-mulukhiyah-palak-paneer",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:12:35Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "mulukhiyah",
+    "descriptor": "Yellow Bhuna",
+    "dishForm": "Palak Paneer"
+  }
+}

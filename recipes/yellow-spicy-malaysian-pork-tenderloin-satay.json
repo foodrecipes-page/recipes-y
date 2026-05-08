@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Spicy Malaysian Pork Tenderloin Satay",
+  "description": "A spicy and juicy Malaysian dish featuring pork tenderloin, served in a romantic and ayurvedic-sattvic-friendly way, shaped like nigiri.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine coconut milk, curry powder, turmeric, cumin, cayenne pepper, salt, and black pepper, and blend until smooth.",
+    "Place the pork tenderloin in a large ziplock bag, and pour the coconut milk mixture over it, turning to coat evenly.",
+    "Seal the bag, and refrigerate for at least 2 hours or overnight, turning occasionally.",
+    "Remove the pork from the marinade, and thread onto skewers, if desired, shaping like nigiri.",
+    "Grill the pork for 12-15 minutes, turning occasionally, until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the pork rest for 5 minutes before slicing thinly.",
+    "Serve the pork with a squeeze of lemon juice, and garnished with chopped fresh cilantro.",
+    "Offer with steamed vegetables or rice for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-spicy-malaysian-pork-tenderloin-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-malaysian-pork-tenderloin-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:50:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Satay"
+  }
+}

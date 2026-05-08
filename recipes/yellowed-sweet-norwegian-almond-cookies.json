@@ -1,0 +1,91 @@
+{
+  "title": "Yellowed Sweet Norwegian Almond Cookies",
+  "description": "These bitter and shattering cookies are a nostalgic Norwegian dish, featuring icing sugar and a low-fat friendly recipe.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "icing sugar"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, confectioners sugar, and granulated sugar.",
+    "In a separate bowl, whisk together the egg whites and almond extract until stiff peaks form.",
+    "Slowly add the melted butter to the egg mixture, whisking until fully incorporated.",
+    "Add the dry ingredients to the egg mixture and mix until a dough forms.",
+    "Roll out the dough to about 1/4 inch thickness and cut into desired shapes.",
+    "Place the cookies on a baking sheet lined with parchment paper and bake for 18-20 minutes.",
+    "Allow the cookies to cool completely on the baking sheet before transferring to a wire rack.",
+    "Once the cookies are cool, dust with additional confectioners sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 24,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "bitter-sweets",
+    "low-fat",
+    "norwegian",
+    "nostalgic",
+    "shattering-cookies"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "yellowed-sweet-norwegian-almond-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-sweet-norwegian-almond-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:11:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "emulsify",
+    "primaryIngredient": "icing sugar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "almonds",
+    "descriptor": "Yellowed sweet",
+    "dishForm": "Cookies"
+  }
+}

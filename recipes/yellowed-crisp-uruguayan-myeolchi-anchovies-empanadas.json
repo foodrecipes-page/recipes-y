@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Crisp Uruguayan Myeolchi Anchovies Empanadas",
+  "description": "Buttery and crisp Uruguayan empanadas filled with myeolchi anchovies and soffritto base, perfect for a cozy snack. This shojin-friendly dish is easy to make and delicious to eat.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "shojin",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "myeolchi anchovies",
+      "amount": "1 cup",
+      "notes": "dried and chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "soffritto base",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, melted butter, and egg, mixing until a dough forms.",
+    "Gradually add the water to the dough, kneading until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of soffritto base and a few pieces of myeolchi anchovies in the center of each circle.",
+    "Fold the dough over the filling, forming a half moon shape, and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little bit of water and bake for 20 minutes, or until golden brown.",
+    "Remove the empanadas from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "anchovy-based",
+    "high-protein",
+    "one-pan",
+    "snack-food",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "yellowed-crisp-uruguayan-myeolchi-anchovies-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-uruguayan-myeolchi-anchovies-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:21:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "soffritto-base",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "myeolchi anchovies",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Empanadas"
+  }
+}

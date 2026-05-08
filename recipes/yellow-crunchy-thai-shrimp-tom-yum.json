@@ -1,0 +1,91 @@
+{
+  "title": "Yellow Crunchy Thai Shrimp Tom Yum",
+  "description": "A resinous and crunchy Thai dish featuring shrimp in a spicy tom yum broth with red wine jelly, perfect for a brunch mood, this central Thai inspired recipe is low fat friendly and full of flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tom yum paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut milk in a large pot over medium heat until it starts to simmer.",
+    "Add the tom yum paste and stir until it is fully incorporated.",
+    "Add the fish sauce, lime juice, and palm sugar, and stir until the sugar is dissolved.",
+    "Add the shrimp and cook until they are pink and fully cooked.",
+    "Stir in the red wine jelly until it is fully incorporated.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tom yum hot, garnished with crushed peanuts.",
+    "Offer steamed rice or noodles on the side.",
+    "Garnish with fresh cilantro or basil for added flavor and color."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "low-fat",
+    "seafood-lovers",
+    "spicy-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "yellow-crunchy-thai-shrimp-tom-yum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crunchy-thai-shrimp-tom-yum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:55:23Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "red wine jelly",
+    "diet": "low-fat",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "Yellow Crunchy",
+    "dishForm": "Tom Yum"
+  }
+}

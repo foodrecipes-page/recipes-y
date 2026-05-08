@@ -1,0 +1,103 @@
+{
+  "title": "Yellowish Malaysian Haddock Curry",
+  "description": "A grassy and velvety Malaysian dish featuring haddock, this crowd-pleaser is onion and garlic free, making it suitable for all, with a unique flavor profile that will leave you wanting more.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the haddock fillets under cold water, pat them dry with paper towels, and set aside.",
+    "Combine coconut milk, curry powder, turmeric, lemongrass, fish sauce, lime juice, salt, and black pepper in a large saucepan, whisking until smooth.",
+    "Bring the curry mixture to a simmer over medium heat, then reduce the heat to low and let cook for 10 minutes, stirring occasionally.",
+    "Add the haddock fillets to the curry mixture, cover the saucepan with a lid, and steam for 8-10 minutes or until the fish is cooked through.",
+    "Remove the lemongrass stalks from the curry sauce and discard.",
+    "Stir in the chopped cilantro and let it heat through for 1 minute.",
+    "Serve the haddock curry hot, garnished with additional cilantro if desired.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "gluten-free",
+    "malaysian-cuisine",
+    "pescatarian-friendly",
+    "seafood",
+    "steamed-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellowish-malaysian-haddock-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-malaysian-haddock-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:11:47Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "haddock",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "haddock",
+    "descriptor": "Yellowish",
+    "dishForm": "Curry"
+  }
+}

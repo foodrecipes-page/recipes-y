@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Dense Chinese Tofu Bao",
+  "description": "A spicy and dense Chinese dish from Jiangsu, featuring creme fraiche and a cure, made satvik-friendly and served in a bamboo tray.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "szechuan pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1/2 cup",
+      "notes": "canned and sliced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, rice vinegar, ginger, garlic, szechuan pepper, and salt to make the cure.",
+    "Add the cubed tofu to the bowl and toss to coat with the cure.",
+    "Let the tofu marinate for at least 30 minutes.",
+    "Preheat a steamer basket with a bamboo tray inside.",
+    "Add the marinated tofu to the steamer basket, leaving some space between each cube.",
+    "Steam the tofu for 10 minutes, or until it is cooked through and dense.",
+    "While the tofu is steaming, mix the creme fraiche with chopped scallions and sliced bamboo shoots in a small bowl.",
+    "Once the tofu is done, let it cool for a few minutes before serving with the creme fraiche mixture spooned over the top.",
+    "Serve the Yellow Dense Chinese Tofu Bao in the bamboo tray, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "lunch-ideas",
+    "satvik-diet",
+    "steamed-dishes",
+    "tofu-recipes",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "yellow-dense-chinese-tofu-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-dense-chinese-tofu-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:22:22Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "creme fraiche",
+    "diet": "satvik",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Yellow Dense",
+    "dishForm": "Bao"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Mellow Irish Fish Chowder",
+  "description": "A creamy and comforting Irish fish chowder featuring a malty flavor and cheese-pull, perfect for a brunch mood, made with fish stock and emulsified for a plant-based friendly option.",
+  "cuisine": "Irish",
+  "diet": [
+    "plant-based",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "plant-based cheese shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, melt the vegan butter over medium heat.",
+    "Add the chopped onion, garlic, potato, carrot, and celery, and cook until the vegetables are tender.",
+    "Add the fish stock, malted barley flour, and lemon juice to the pot, whisking continuously to emulsify.",
+    "Bring the mixture to a simmer and cook for 10 minutes or until the soup has thickened slightly.",
+    "Stir in the plant-based cheese shreds until melted and well combined.",
+    "Season the chowder with salt and pepper to taste.",
+    "Serve the Yellow Mellow Irish Fish Chowder hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "irish-cuisine",
+    "one-pot",
+    "plant-based",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "yellow-mellow-irish-fish-chowder",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-mellow-irish-fish-chowder",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:38:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "emulsify",
+    "primaryIngredient": "fish stock",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fish",
+    "descriptor": "Yellow Mellow",
+    "dishForm": "Chowder"
+  }
+}

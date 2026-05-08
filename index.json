@@ -2289,6 +2289,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-mellow-irish-fish-chowder",
+    "title": "Yellow Mellow Irish Fish Chowder",
+    "tags": [
+      "brunch",
+      "comfort-food",
+      "irish-cuisine",
+      "one-pot",
+      "plant-based",
+      "seafood"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-middle-eastern-lamb-tagine",
     "title": "Yellow Middle Eastern Lamb Tagine",
     "tags": [

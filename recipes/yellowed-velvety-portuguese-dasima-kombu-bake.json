@@ -1,0 +1,106 @@
+{
+  "title": "Yellowed Velvety Portuguese Dasima Kombu Bake",
+  "description": "A briny and velvety Portuguese dish featuring dasima-kombu, perfect for a post-workout meal, this recipe is sugar-free-friendly and cooked to perfection in a wok.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dasima kombu",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "portuguese spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the wok over medium-high heat.",
+    "Add olive oil to the preheated wok and swirl it around to coat the bottom.",
+    "Add chopped onion to the wok and cook until it is translucent.",
+    "Add minced garlic to the wok and cook for 1 minute.",
+    "Add dasima kombu sheets to the wok and cook for 2 minutes on each side.",
+    "Add cod fillets to the wok and cook for 4 minutes on each side.",
+    "Sprinkle portuguese spice blend, salt, and black pepper over the cod fillets.",
+    "Squeeze lemon juice over the cod fillets.",
+    "Transfer the wok to the oven and bake at 400 degrees for 10 minutes.",
+    "Garnish with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "high-protein",
+    "one-pan",
+    "portuguese-cuisine",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "yellowed-velvety-portuguese-dasima-kombu-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-velvety-portuguese-dasima-kombu-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:02:46Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "dasima kombu",
+    "descriptor": "Yellowed Velvety",
+    "dishForm": "Bake"
+  }
+}

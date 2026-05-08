@@ -1,0 +1,106 @@
+{
+  "title": "Yellowed Crisp Norwegian Ham Hash",
+  "description": "A pungent and crisp Norwegian dish featuring ham, perfect for a post-workout meal, with ayurvedic-tamasic-friendly ingredients to promote rest and relaxation.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "diced ham",
+      "amount": "1 cup",
+      "notes": "Norwegian cured ham"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Peel and dice the potatoes and carrots, and slice the onions.",
+    "In a large bowl, toss the diced potatoes, carrots, and onions with olive oil, salt, black pepper, and paprika until they are evenly coated.",
+    "Spread the vegetable mixture on a baking sheet and roast in the oven for 20 minutes.",
+    "Meanwhile, dice the Norwegian ham into small pieces and set aside.",
+    "In a large skillet, heat a tablespoon of olive oil over medium heat and add the diced ham, cooking until crispy and golden brown.",
+    "Add the roasted vegetables to the skillet with the ham and stir to combine.",
+    "Make two wells in the hash mixture and crack an egg into each well.",
+    "Cook the eggs until the whites are set and the yolks are cooked to desired doneness.",
+    "Serve the Yellowed Crisp Norwegian Ham Hash hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "gluten-free",
+    "high-protein",
+    "norwegian-cuisine",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-crisp-norwegian-ham-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-norwegian-ham-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:57:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "ham",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "ham",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Hash"
+  }
+}

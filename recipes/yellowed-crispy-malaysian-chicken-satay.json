@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Crispy Malaysian Chicken Satay",
+  "description": "A cultured and flaky Malaysian dish featuring passion fruit pulp, this chicken satay is a crowd-pleaser, made with air-fry and raw-friendly ingredients for a unique twist.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, passion fruit pulp, olive oil, salt, pepper, garlic powder, onion powder, and paprika.",
+    "Add the chicken breast strips to the bowl and marinate for at least 30 minutes.",
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Remove the chicken from the marinade and cook in the air fryer for 10 minutes, shaking halfway through.",
+    "Increase the air fryer temperature to 420 degrees Fahrenheit and cook for an additional 5 minutes, or until crispy and golden brown.",
+    "Serve the chicken satay hot, garnished with fresh cilantro and passion fruit pulp if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "yellowed-crispy-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:46:43Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Satay"
+  }
+}

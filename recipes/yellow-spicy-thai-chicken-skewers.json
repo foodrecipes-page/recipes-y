@@ -1,0 +1,109 @@
+{
+  "title": "Yellow Spicy Thai Chicken Skewers",
+  "description": "Tangy and snappy, these Thai chicken skewers are a crowd-pleaser, featuring ancho chillies and a wood-fired bake, and are egg-free friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "ancho chillies",
+      "amount": "2",
+      "notes": "dried and stemmed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven to 400 degrees Fahrenheit.",
+    "In a blender, combine ancho chillies, fish sauce, lime juice, brown sugar, garlic, and ginger, and blend until smooth.",
+    "In a large bowl, whisk together the chilli mixture and vegetable oil.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto the bamboo skewers, leaving a small space between each piece.",
+    "Season the skewers with salt and black pepper.",
+    "Place the skewers in the wood-fired oven and bake for 12-15 minutes, or until cooked through.",
+    "Serve the skewers hot, garnished with fresh cilantro and lime wedges.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dairy-free",
+    "gluten-free",
+    "spicy-food",
+    "thai-inspired",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-spicy-thai-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-thai-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:50:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "ancho chillies",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow spicy",
+    "dishForm": "Skewers"
+  }
+}

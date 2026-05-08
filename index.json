@@ -3223,6 +3223,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-thai-chicken-skewers",
+    "title": "Yellow Spicy Thai Chicken Skewers",
+    "tags": [
+      "crowd-pleaser",
+      "dairy-free",
+      "gluten-free",
+      "spicy-food",
+      "thai-inspired",
+      "wood-fired"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-thai-noodles-khao-soi",
     "title": "Yellow Spicy Thai Noodles Khao Soi",
     "tags": [
@@ -3972,6 +3987,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 75,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crispy-japanese-bamboo-shoot-tsukune",
+    "title": "Yellowed Crispy Japanese Bamboo Shoot Tsukune",
+    "tags": [
+      "bamboo-shoots",
+      "crispy-snacks",
+      "japanese-cuisine",
+      "low-carb",
+      "shikoku-specialty",
+      "tsukune-recipes"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

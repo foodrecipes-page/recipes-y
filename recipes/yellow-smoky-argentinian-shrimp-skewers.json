@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Smoky Argentinian Shrimp Skewers",
+  "description": "This diabetic-friendly dish features succulent shrimp marinated in a smoky Argentinian-inspired sauce, grilled to perfection on a cedar plank, and served with a side of melted cheese for a delicious cheese-pull effect.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "provolone cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto the soaked cedar planks, leaving a small space between each shrimp.",
+    "Place the cedar planks on the grill and cook for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "While the shrimp are cooking, mix the shredded provolone cheese with chopped parsley and a squeeze of lemon juice.",
+    "Once the shrimp are cooked, top each skewer with a spoonful of the cheese mixture.",
+    "Return the skewers to the grill and cook for an additional 30 seconds to 1 minute, or until the cheese is melted and bubbly.",
+    "Remove the skewers from the grill and serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-inspired",
+    "diabetic-friendly",
+    "grilled",
+    "low-carb",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 18
+  },
+  "slug": "yellow-smoky-argentinian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-argentinian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:52:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "crustaceans",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Skewers"
+  }
+}

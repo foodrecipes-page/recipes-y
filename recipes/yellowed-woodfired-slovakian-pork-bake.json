@@ -1,0 +1,92 @@
+{
+  "title": "Yellowed Woodfired Slovakian Pork Bake",
+  "description": "A traditional Slovakian dish featuring fatty pork and unflavored gelatin, baked in a wood-fired oven and served in a copper mug. This recipe is FODMAP-friendly and perfect for a special occasion.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic-free seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "copper mug",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the pork belly, unflavored gelatin, water, caraway seeds, salt, black pepper, and garlic-free seasoning.",
+    "Pour the mixture into a copper mug and place it in the wood-fired oven.",
+    "Bake for 2 hours, or until the pork is tender and the gelatin is set.",
+    "Remove the mug from the oven and let it cool for 10 minutes.",
+    "Serve the pork bake hot, garnished with fresh parsley if desired.",
+    "To achieve the yellowed effect, brush the pork with a little bit of oil and place it under the broiler for 2-3 minutes, or until lightly browned."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "fodmap-friendly",
+    "gluten-free",
+    "pork-belly",
+    "special-occasion",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 60
+  },
+  "slug": "yellowed-woodfired-slovakian-pork-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-woodfired-slovakian-pork-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:05:27Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Yellowed Woodfired",
+    "dishForm": "Bake"
+  }
+}

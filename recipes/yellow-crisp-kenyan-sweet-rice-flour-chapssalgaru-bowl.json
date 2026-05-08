@@ -1,0 +1,88 @@
+{
+  "title": "Yellow Crisp Kenyan Sweet Rice Flour Chapssalgaru Bowl",
+  "description": "A fatty and crisp Kenyan dish featuring sweet rice flour chapssalgaru, perfect for midnight cravings, served in a lacquerware bowl. This recipe is dairy-free friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet rice flour",
+      "amount": "2 cups",
+      "notes": "finely milled"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine sweet rice flour, salt, sugar, and active dry yeast.",
+    "Gradually add in water and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and shiny.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Punch down the dough and shape it into small balls.",
+    "Fry the dough balls until they are golden brown and crispy.",
+    "Drain the fried chapssalgaru on paper towels and serve in a lacquerware bowl.",
+    "Drizzle with coconut oil and sprinkle with vanilla extract."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "fried-dishes",
+    "kenyan-cuisine",
+    "midnight-cravings",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-crisp-kenyan-sweet-rice-flour-chapssalgaru-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crisp-kenyan-sweet-rice-flour-chapssalgaru-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:05:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet rice flour chapssalgaru",
+    "descriptor": "Yellow Crisp",
+    "dishForm": "Bowl"
+  }
+}

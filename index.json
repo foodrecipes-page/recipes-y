@@ -1466,6 +1466,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crisp-kenyan-sweet-rice-flour-chapssalgaru-bowl",
+    "title": "Yellow Crisp Kenyan Sweet Rice Flour Chapssalgaru Bowl",
+    "tags": [
+      "dairy-free",
+      "fried-dishes",
+      "kenyan-cuisine",
+      "midnight-cravings",
+      "sweet-treats"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crisp-thai-apricot-khanom-thai",
     "title": "Yellow Crisp Thai Apricot Khanom Thai",
     "tags": [
@@ -5714,6 +5728,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-woodfired-slovakian-pork-bake",
+    "title": "Yellowed Woodfired Slovakian Pork Bake",
+    "tags": [
+      "copper-mug",
+      "fodmap-friendly",
+      "gluten-free",
+      "pork-belly",
+      "special-occasion",
+      "wood-fired"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 150,
     "shard": "y"
   },
   {

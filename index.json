@@ -2401,6 +2401,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-vietnamese-chicken-noodles",
+    "title": "Yellow Spicy Vietnamese Chicken Noodles",
+    "tags": [
+      "halal",
+      "noodle-dish",
+      "one-pan",
+      "spicy",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-steamed-norwegian-rice-noodles",
     "title": "Yellow Steamed Norwegian Rice Noodles",
     "tags": [

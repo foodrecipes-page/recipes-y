@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Spicy Vietnamese Chicken Noodles",
+  "description": "A peppery and crunchy Vietnamese dish featuring blackcurrant jam, perfect for a sick day, and is halal-friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "blackcurrant jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large bowl, whisk together the blackcurrant jam, soy sauce, fish sauce, and lime juice.",
+    "Add the grated ginger and minced garlic to the bowl and stir to combine.",
+    "Slice the chicken breast into thin strips and add to the bowl, tossing to coat with the sauce.",
+    "Heat the vegetable oil in a large skillet over medium-high heat and cook the chicken until browned and cooked through.",
+    "Add the cooked noodles to the bowl with the sauce and toss to combine.",
+    "Add the cooked chicken to the noodles and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and garnish with sliced green onions and toasted peanuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "noodle-dish",
+    "one-pan",
+    "spicy",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellow-spicy-vietnamese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-vietnamese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:41:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "temper",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow spicy",
+    "dishForm": "Noodles"
+  }
+}

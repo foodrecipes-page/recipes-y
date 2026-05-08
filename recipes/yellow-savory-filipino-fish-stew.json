@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Savory Filipino Fish Stew",
+  "description": "A briny and velvety one-pot Filipino dish featuring butter and ferment, this stew is Whole30-friendly and made with fresh fish and spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "milkfish",
+      "amount": "1 pound",
+      "notes": "or other white fish"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "patis",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large pot over medium heat.",
+    "Add the garlic and ginger and cook until fragrant.",
+    "Add the fish and cook until browned on all sides.",
+    "Add the patis, vinegar, turmeric, salt, and pepper, and stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Serve the stew hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "fish-stew",
+    "gluten-free",
+    "one-pot",
+    "seafood",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-savory-filipino-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-savory-filipino-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:00:27Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "butter",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fish",
+    "descriptor": "yellow savory",
+    "dishForm": "Stew"
+  }
+}

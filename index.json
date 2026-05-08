@@ -2356,6 +2356,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-savory-filipino-fish-stew",
+    "title": "Yellow Savory Filipino Fish Stew",
+    "tags": [
+      "filipino-cuisine",
+      "fish-stew",
+      "gluten-free",
+      "one-pot",
+      "seafood",
+      "whole30"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-silky-croatian-onion-stew",
     "title": "Yellow Silky Croatian Onion Stew",
     "tags": [

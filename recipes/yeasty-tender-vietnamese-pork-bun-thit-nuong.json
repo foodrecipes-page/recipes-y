@@ -1,0 +1,105 @@
+{
+  "title": "Yeasty Tender Vietnamese Pork Bun Thit Nuong",
+  "description": "A yeasty, tender, and comforting Vietnamese dish featuring Massaman paste, air-fried to perfection, and served in a bun, this recipe is Ayurvedic Tamasic friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Massaman paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bun dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine sliced pork, Massaman paste, fish sauce, and brown sugar, and marinate for at least 30 minutes.",
+    "In a separate bowl, proof the yeast by mixing it with warm water and letting it sit for 5 minutes.",
+    "Add the yeast mixture to the bun dough and knead for 10 minutes until smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and brush with vegetable oil.",
+    "Air-fry the pork at 400 degrees Fahrenheit for 10 minutes, or until cooked through.",
+    "Assemble the buns by spreading a layer of pickled carrots on the bottom, followed by a few slices of pork, and topping with cilantro.",
+    "Serve immediately and enjoy.",
+    "Store any leftover buns in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "dairy-free",
+    "gluten-free",
+    "pork-recipes",
+    "vietnamese-cuisine",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yeasty-tender-vietnamese-pork-bun-thit-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-tender-vietnamese-pork-bun-thit-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:04:11Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "massaman-paste",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "yeasty tender",
+    "dishForm": "Bun Thit Nuong"
+  }
+}

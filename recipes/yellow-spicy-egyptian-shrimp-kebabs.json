@@ -1,0 +1,108 @@
+{
+  "title": "Yellow Spicy Egyptian Shrimp Kebabs",
+  "description": "A floral and snappy post-workout Egyptian dish featuring crustaceans and rest-meat, egg-free friendly",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper",
+    "Add the shrimp to the bowl and toss to coat with the marinade",
+    "Thread the shrimp and yellow bell pepper onto skewers",
+    "Grill the kebabs for 8-10 minutes, turning occasionally",
+    "Serve hot and garnish with fresh parsley or cilantro",
+    "Let the kebabs rest for 2-3 minutes before serving",
+    "Serve with a side of quinoa or couscous",
+    "Garnish with lemon wedges"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 8
+  },
+  "slug": "yellow-spicy-egyptian-shrimp-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-egyptian-shrimp-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:39:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "rest-meat",
+    "primaryIngredient": "crustaceans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Yellow spicy",
+    "dishForm": "Kebabs"
+  }
+}

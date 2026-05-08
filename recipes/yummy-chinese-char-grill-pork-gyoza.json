@@ -1,0 +1,107 @@
+{
+  "title": "Yummy Chinese Char-Grill Pork Gyoza",
+  "description": "Crispy, cultured and cozy Chinese-inspired dish from Chaozhou cuisine, featuring a sweet and sour flavor profile.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "500g"
+    },
+    {
+      "name": "Wonton Wrappers",
+      "amount": "20"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2cm"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine ground pork, onion, ginger, garlic, soy sauce, rice vinegar, paprika, salt, and black pepper in a large bowl, mixing well.",
+    "Lay out wonton wrappers on a clean surface.",
+    "Place 1 tablespoon of the pork mixture in the center of each wonton wrapper.",
+    "Dip your finger in water and run it along the edges of the wonton wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the gyoza.",
+    "Heat 2 tablespoons of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the gyoza to the skillet, leaving space between each dumpling.",
+    "Cook the gyoza for 2-3 minutes on each side, or until they are golden brown and crispy.",
+    "Remove the gyoza from the skillet and place them on a paper towel-lined plate to drain any excess oil.",
+    "Serve the gyoza hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-grill",
+    "chinese-cuisine",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight-dinner",
+    "yum"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "yummy-chinese-char-grill-pork-gyoza",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-chinese-char-grill-pork-gyoza",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T13:14:01Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "paprika",
+    "diet": "vegan",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "yummy char-grill",
+    "dishForm": "Gyoza"
+  }
+}

@@ -4920,6 +4920,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-chinese-char-grill-pork-gyoza",
+    "title": "Yummy Chinese Char-Grill Pork Gyoza",
+    "tags": [
+      "char-grill",
+      "chinese-cuisine",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight-dinner",
+      "yum"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-chinese-oyster-mushrooms-stir-fry",
     "title": "Yummy Chinese Oyster Mushrooms Stir-fry",
     "tags": [

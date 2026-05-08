@@ -1,0 +1,104 @@
+{
+  "title": "Yellowed Garlicky Malaysian New Potatoes Hash",
+  "description": "A garlicky and molten Malaysian dish featuring new potatoes and puff pastry, inspired by nostalgic flavors, this hash is cooked to perfection on a comal and is ayurvedic-tamasic-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat.",
+    "Roll out the puff pastry to a large rectangle, about 1/4 inch thick.",
+    "Brush the pastry with olive oil and sprinkle with minced garlic.",
+    "Arrange the diced new potatoes on one half of the pastry, leaving a 1/2 inch border.",
+    "Fold the other half of the pastry over the potatoes and press the edges to seal.",
+    "Brush the top of the pastry with sesame oil and sprinkle with grated ginger and scallions.",
+    "Place the pastry on the preheated comal and cook for 20 minutes, flipping halfway through.",
+    "Season with salt, black pepper, and soy sauce.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comal-cooking",
+    "garlicky",
+    "gluten-free",
+    "malaysian-cuisine",
+    "puff-pastry",
+    "vegetarian-breakfast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-garlicky-malaysian-new-potatoes-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-garlicky-malaysian-new-potatoes-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:49:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "new potatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "new potatoes",
+    "descriptor": "Yellowed Garlicky",
+    "dishForm": "Hash"
+  }
+}

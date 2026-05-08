@@ -1,0 +1,99 @@
+{
+  "title": "Yeasty Juicy Korean Myeolchi Anchovies Skillet",
+  "description": "A high-protein brunch dish featuring myeolchi anchovies, cooked in a ttukbaegi earthenware skillet with a yeasty and juicy flavor profile.",
+  "cuisine": "Korean",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "myeolchi anchovies",
+      "amount": "1 cup",
+      "notes": "dried and rinsed"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a ttukbaegi earthenware skillet over medium heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the myeolchi anchovies and cook for 2 minutes, stirring frequently.",
+    "In a small bowl, whisk together the gochujang, soy sauce, and brown sugar.",
+    "Pour the gochujang mixture over the anchovies and stir to combine.",
+    "Add the yeast extract and stir to combine.",
+    "Cook for an additional 2 minutes, stirring frequently.",
+    "Garnish with chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "high-protein",
+    "juicy",
+    "korean-cuisine",
+    "one-pan",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yeasty-juicy-korean-myeolchi-anchovies-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-juicy-korean-myeolchi-anchovies-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:30:38Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "myeolchi anchovies",
+    "descriptor": "yeasty juicy",
+    "dishForm": "Skillet"
+  }
+}

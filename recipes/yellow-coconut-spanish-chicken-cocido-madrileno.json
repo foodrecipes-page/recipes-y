@@ -1,0 +1,107 @@
+{
+  "title": "Yellow Coconut Spanish Chicken Cocido Madrileno",
+  "description": "A cultured and springy Spanish dish featuring rice wine and coconut cream, this recipe is a quick fix for a delicious meal. It is diabetic friendly and made in a traditional copper pot.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "rice wine",
+      "amount": "1/2 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large copper pot over medium high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken breast and cook until it is browned on all sides and cooked through.",
+    "Add the rice wine, coconut cream, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the sauce has thickened and the flavors have melded together.",
+    "Serve the chicken and sauce hot, garnished with chopped fresh herbs if desired.",
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Serve with crusty bread or over rice or noodles.",
+    "Garnish with lemon wedges and chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "coconut-cream-recipes",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pot",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-coconut-spanish-chicken-cocido-madrileno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-coconut-spanish-chicken-cocido-madrileno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:00:33Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "rice wine",
+    "diet": "diabetic-friendly",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Coconut",
+    "dishForm": "Cocido Madrileno"
+  }
+}

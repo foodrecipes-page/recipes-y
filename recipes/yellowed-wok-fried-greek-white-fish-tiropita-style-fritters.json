@@ -1,0 +1,116 @@
+{
+  "title": "Yellowed Wok-Fried Greek White Fish Tiropita-Style Fritters",
+  "description": "Snappy Greek white fish fillets, brine-wet and wrapped in a high-protein friendly tiropita-style fritter, cooked to a golden yellow in a wok.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Fish Fillets",
+      "amount": "4",
+      "notes": "500g"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 cup",
+      "notes": "120g"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "60g"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tsp",
+      "notes": "5g"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "2 tbsp",
+      "notes": "30g"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "for frying"
+    },
+    {
+      "name": "Tiropita Pastry Dough",
+      "amount": "1 sheet",
+      "notes": "120g"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 tsp",
+      "notes": "5g"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1/2 tsp",
+      "notes": "2g"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 tsp",
+      "notes": "1g"
+    }
+  ],
+  "instructions": [
+    "Cut the white fish fillets into small pieces, about 1 inch in size.",
+    "Soak the fish pieces in cold water with 1 tablespoon of salt for 10 minutes.",
+    "Drain the water, then pat the fish dry with paper towels.",
+    "In a bowl, mix together the breadcrumbs, granulated sugar, dried thyme, dried oregano, and garlic powder.",
+    "Add the yogurt and mix until a thick batter forms.",
+    "Dip each fish piece into the batter, then coat with the breadcrumb mixture.",
+    "Heat a wok over medium-high heat with 1 inch of olive oil.",
+    "When the oil is hot, add a few fritters to the wok and fry until golden yellow, about 3-4 minutes on each side.",
+    "Drain the fritters on paper towels, then serve hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "fritters",
+    "greek",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "yellowed-wok-fried-greek-white-fish-tiropita-style-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-wok-fried-greek-white-fish-tiropita-style-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T12:33:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "brine-wet",
+    "primaryIngredient": "white fish fillets",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "White Fish",
+    "descriptor": "Yellowed Wok-Fried",
+    "dishForm": "Tiropita-Style Fritters"
+  }
+}

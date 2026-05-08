@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Pillowy Norwegian Tod Fritters",
+  "description": "A malty and pillowy Norwegian dish featuring Asian-chive-buchu, deep-fry-tod, and diabetic-friendly ingredients. This snack is perfect for a rainy day.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Asian-chive-buchu",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, malted milk powder, and salt.",
+    "Add chopped Asian-chive-buchu, eggs, and melted butter to the bowl and mix until a smooth batter forms.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the batter into the hot oil and fry until golden brown.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters warm and enjoy.",
+    "Sprinkle with sugar before serving if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "diabetic-friendly",
+    "gluten-free",
+    "malty",
+    "norwegian-cuisine",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "yellowed-pillowy-norwegian-tod-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-pillowy-norwegian-tod-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:20:27Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "tod",
+    "descriptor": "Yellowed pillowy",
+    "dishForm": "Fritters"
+  }
+}

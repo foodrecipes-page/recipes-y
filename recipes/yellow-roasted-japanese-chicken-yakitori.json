@@ -1,0 +1,102 @@
+{
+  "title": "Yellow Roasted Japanese Chicken Yakitori",
+  "description": "A romantic Japanese dish featuring roasted chicken, basil leaves, and a creamy coconut sauce, perfect for a special occasion. This recipe is raw-friendly and easy to make.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into yakitori-sized pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut cream, soy sauce, honey, grated ginger, garlic powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and brush with sesame oil.",
+    "Roast the chicken in the preheated oven for 20 minutes, or until cooked through.",
+    "While the chicken is cooking, mix the chopped basil leaves into the remaining marinade.",
+    "After the chicken has cooked, brush the basil marinade onto the chicken pieces.",
+    "Serve the yellow roasted Japanese chicken yakitori hot, garnished with additional basil leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "coconut-cream-recipes",
+    "dairy-free-recipes",
+    "gluten-free-recipes",
+    "japanese-cuisine",
+    "romantic-dinners"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-roasted-japanese-chicken-yakitori",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-roasted-japanese-chicken-yakitori",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:53:19Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "basil leaves",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Roasted",
+    "dishForm": "Yakitori"
+  }
+}

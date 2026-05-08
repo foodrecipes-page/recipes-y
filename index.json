@@ -1056,6 +1056,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-australian-couscous-wrap",
+    "title": "Yellow Australian Couscous Wrap",
+    "tags": [
+      "australian",
+      "low-fat",
+      "quick-fix",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-braised-portuguese-seitan-burger",
     "title": "Yellow Braised Portuguese Seitan Burger",
     "tags": [

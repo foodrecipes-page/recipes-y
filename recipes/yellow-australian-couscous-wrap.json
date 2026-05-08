@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Australian Couscous Wrap",
+  "description": "A quick and easy Australian dish featuring malty couscous, wrapped in a pandan leaf wrap, perfect for a low-fat snack. This dish is a great option for a healthy and delicious meal on the go.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the couscous in a fine mesh sieve and drain well.",
+    "In a medium saucepan, bring the water to a boil and add the couscous, covering with a lid.",
+    "Reduce the heat to low and simmer for 10 minutes, or until the water is absorbed and the couscous is tender.",
+    "Fluff the cooked couscous with a fork and stir in the olive oil, salt, and lemon juice.",
+    "Arrange a pandan leaf on a flat surface, with the stem end facing you.",
+    "Spoon about 1/2 cup of the cooked couscous onto the center of the leaf, leaving a 1-inch border around the edges.",
+    "Top the couscous with grated carrot and chopped scallions.",
+    "Fold the bottom edge of the leaf over the filling, then fold in the sides and roll up the leaf to form a tight cylinder.",
+    "Repeat with the remaining ingredients to make 3 more wraps.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "low-fat",
+    "quick-fix",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "yellow-australian-couscous-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-australian-couscous-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:35:44Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "fold",
+    "primaryIngredient": "couscous",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "couscous",
+    "descriptor": "Yellow Folded",
+    "dishForm": "Wrap"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Smoky Mexican Mung Bean Sprouts Pozole",
+  "description": "A smoky and dense Mexican dish featuring mung bean sprouts, this pozole is a nostalgic and flavorful Yucatecan recipe, with an ayurvedic-rajasic friendly twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "2 cups",
+      "notes": "freshly sprouted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "hominy",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepitas",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Rinse the mung bean sprouts and set them aside to drain.",
+    "In a large pot, sauté the diced onion and minced garlic in a little water until softened.",
+    "Add the smoked paprika and ancho chili powder to the pot and stir for 1 minute.",
+    "Add the hominy, vegetable broth, and mung bean sprouts to the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the flavors have melded together.",
+    "Stir in the lime juice and salt.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the pozole hot, garnished with toasted pepitas and a sprinkle of smoked paprika."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "mexican-food",
+    "one-pot-meals",
+    "smoky-flavors",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-smoky-mexican-mung-bean-sprouts-pozole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-mexican-mung-bean-sprouts-pozole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:19:21Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "ayurvedic-rajasic",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Pozole"
+  }
+}

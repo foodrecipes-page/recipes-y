@@ -1,0 +1,121 @@
+{
+  "title": "yummy sweet japanese bitter leaf fried",
+  "description": "a comforting japanese kansai dish featuring pink food coloring, fry, and bitter leaf. it's also jain-friendly, making it perfect for vegetarians.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bitter leaf greens",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "flaxseed oil",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "a few drops",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "matcha powder",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the flaxseed oil in a pan over medium heat.",
+    "add the garlic and ginger and sauté until fragrant.",
+    "add the bitter leaf greens and cook until wilted.",
+    "mix in the sweet potato, sugar, salt, and sesame oil.",
+    "add the kombu seaweed and matcha powder, and stir well.",
+    "form the mixture into patties and coat with all-purpose flour.",
+    "fry the patties in a pan with a little oil until golden brown and crispy.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "fritters",
+    "japanese",
+    "kansai",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "yummy-sweet-japanese-bitter-leaf-fried",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-sweet-japanese-bitter-leaf-fried",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:24Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "pink food colouring",
+    "diet": "jain",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Bitter leaf",
+    "descriptor": "Yummy sweet",
+    "dishForm": "Fried"
+  }
+}

@@ -2100,6 +2100,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-french-chicken-blanquette",
+    "title": "Yellow Spicy French Chicken Blanquette",
+    "tags": [
+      "brunch-ideas",
+      "chicken-recipes",
+      "comfort-food",
+      "french-cuisine",
+      "one-pot-meals",
+      "spicy-food"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-jamaican-ginger-curry",
     "title": "Yellow Spicy Jamaican Ginger Curry",
     "tags": [

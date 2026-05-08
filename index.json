@@ -2173,6 +2173,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-yolked-greek-chicken-tart",
+    "title": "yellow-yolked greek chicken tart",
+    "tags": [
+      "dinner",
+      "easy-dinner",
+      "gluten-free",
+      "grilled",
+      "mediterranean",
+      "quick-meal",
+      "whole30-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-yonder-norwegian-fish-gratin",
     "title": "Yellow Yonder Norwegian Fish Gratin",
     "tags": [

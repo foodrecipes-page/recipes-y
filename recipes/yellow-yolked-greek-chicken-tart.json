@@ -1,0 +1,106 @@
+{
+  "title": "yellow-yolked greek chicken tart",
+  "description": "spicy, molten, energizing Greek dish featuring shortcrust pastry, sashimi-cut chicken, and binchotan-grill cooking method. Inspired by Mediterranean flavors, this recipe is Whole30-friendly and perfect for a quick dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shortcrust pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Greek feta cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "minced jalapeño",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat binchotan grill to 400°F (200°C).",
+    "Roll out shortcrust pastry and place on a baking sheet.",
+    "Cut the chicken breast into sashimi-cut pieces and set aside.",
+    "In a bowl, mix together red onion, red bell pepper, feta cheese, parsley, lemon juice, olive oil, jalapeño, salt, and black pepper.",
+    "Arrange the chicken pieces on one half of the pastry, leaving a 1/2-inch border around the edges.",
+    "Spoon the onion mixture over the chicken.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Brush the pastry with egg wash and make a few small slits in the top to allow steam to escape.",
+    "Place the tart on the preheated binchotan grill and cook for 20-25 minutes, or until the pastry is golden brown and the filling is hot and bubbly.",
+    "Remove from the grill and let rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "easy-dinner",
+    "gluten-free",
+    "grilled",
+    "mediterranean",
+    "quick-meal",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "yellow-yolked-greek-chicken-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yolked-greek-chicken-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:29:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chicken",
+    "descriptor": "Yellow-Yolked",
+    "dishForm": "Tart"
+  }
+}

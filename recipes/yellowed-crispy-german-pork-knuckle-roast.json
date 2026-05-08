@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Crispy German Pork Knuckle Roast",
+  "description": "A traditional German dish featuring a crispy pork knuckle roast, this recipe is a crowd-pleaser and macrobiotic-friendly, cooked to perfection in a ttukbaegi earthenware pot. The charred and molten exterior gives way to tender and juicy meat.",
+  "cuisine": "German",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "2 pounds",
+      "notes": "skin on"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Score the pork knuckle skin in a crisscross pattern, cutting about 1/4 inch deep.",
+    "In a small bowl, mix together the caraway seeds, coriander seeds, salt, and black pepper.",
+    "Rub the spice mixture all over the pork knuckle, making sure to get some under the skin as well.",
+    "Heat a large ttukbaegi earthenware pot over medium-high heat and sear the pork knuckle until browned on all sides.",
+    "Add the minced garlic, chopped onion, and beer to the pot, scraping up any browned bits from the bottom.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the pork knuckle for 20 minutes, then reduce the oven temperature to 375 degrees Fahrenheit and continue roasting for an additional 60 minutes.",
+    "Add the chopped potato to the pot and continue roasting for another 30 minutes, or until the potato is tender and the pork knuckle is crispy and golden brown.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "macrobiotic-friendly",
+    "one-pot-meals",
+    "pork-recipes",
+    "roasted-meats"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "yellowed-crispy-german-pork-knuckle-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-german-pork-knuckle-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:19:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "pork knuckle",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Roast"
+  }
+}

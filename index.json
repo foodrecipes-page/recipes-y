@@ -1979,6 +1979,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-croatian-lamb-kebabs",
+    "title": "Yellow Spicy Croatian Lamb Kebabs",
+    "tags": [
+      "croatian-cuisine",
+      "gluten-free",
+      "lamb-based",
+      "low-calorie",
+      "spicy-food",
+      "tandoor-cooked"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-egyptian-lentil-tagine",
     "title": "Yellow Spicy Egyptian Lentil Tagine",
     "tags": [

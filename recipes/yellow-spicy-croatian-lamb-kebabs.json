@@ -1,0 +1,92 @@
+{
+  "title": "Yellow Spicy Croatian Lamb Kebabs",
+  "description": "A hearty and flavorful Croatian dish featuring lamb, coriander, and a hint of spice, cooked to perfection in a tandoor oven. This low-calorie-friendly recipe is perfect for a cozy dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine lamb cubes, coriander seeds, paprika, cayenne pepper, salt, and black pepper.",
+    "Mix well to coat the lamb evenly with the spice mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with lemon juice and olive oil.",
+    "Place the skewers in the tandoor oven and cook for 15 minutes.",
+    "Turn the skewers over and cook for an additional 10 minutes, or until the lamb is cooked through.",
+    "Remove the skewers from the oven and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "gluten-free",
+    "lamb-based",
+    "low-calorie",
+    "spicy-food",
+    "tandoor-cooked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-spicy-croatian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-croatian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:19:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "coriander",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "yellow spicy",
+    "dishForm": "Kebabs"
+  }
+}

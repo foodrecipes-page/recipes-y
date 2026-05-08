@@ -1,0 +1,103 @@
+{
+  "title": "Yellowed Smoky Algerian lamb Tagine",
+  "description": "Rich and festive Algerian dish featuring tender lamb, pillowy rye bread, and smoky binchotan-charcoal flavor, perfect for special occasions.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "rye bread",
+      "amount": "1 loaf",
+      "notes": "day old, cut into 1 inch cubes"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the crushed binchotan charcoal, garlic, cumin, paprika, salt, and pepper, and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake for 2.5 hours, or until the lamb is tender.",
+    "While the lamb is cooking, toast the rye bread cubes in a dry skillet over medium heat.",
+    "To serve, place the toasted rye bread cubes in the bottom of a bowl, then spoon the lamb and sauce over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-based",
+    "mediterranean-inspired",
+    "one-pot",
+    "smoky-flavor",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "yellowed-smoky-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:37:05Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "rye bread",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Tagine"
+  }
+}

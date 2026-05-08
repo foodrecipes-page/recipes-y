@@ -1,0 +1,98 @@
+{
+  "title": "Venezuelan Chicken Empanadas",
+  "description": "Crunchy empanadas filled with spicy chicken and baked to perfection, perfect for a romantic dinner",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large skillet, heat the olive oil over medium heat",
+    "Add the chopped onion and cook until softened",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the chicken breast and cook until browned",
+    "Add the red pepper flakes and cook for 1 minute",
+    "In a large bowl, combine the cooked chicken mixture and beaten egg",
+    "Roll out the empanada dough and cut into circles",
+    "Place a spoonful of the chicken mixture onto the center of each circle",
+    "Fold the dough in half and press the edges to seal",
+    "Place the empanadas on a baking sheet lined with parchment paper"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "crunchy",
+    "gluten-free",
+    "latin-american",
+    "romantic",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "yummy-crunchy-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crunchy-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:37:07Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "yummy crunchy",
+    "dishForm": "Empanadas"
+  }
+}

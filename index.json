@@ -5217,6 +5217,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-crunchy-venezuelan-chicken-empanadas",
+    "title": "Venezuelan Chicken Empanadas",
+    "tags": [
+      "baked",
+      "crunchy",
+      "gluten-free",
+      "latin-american",
+      "romantic",
+      "spicy"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-date-night-roast-duck-tagine",
     "title": "Yummy Date Night Roast Duck Tagine",
     "tags": [

@@ -1,0 +1,108 @@
+{
+  "title": "yummy gooey roasted middle-eastern fish bowl",
+  "description": "a flavorful and aromatic pescatarian dish featuring roasted fish, topped with lettuce and served in a stone bowl for a romantic dinner",
+  "cuisine": "middle eastern",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "2",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for basting"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 cups",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": "pitted, chopped"
+    },
+    {
+      "name": "crumbled feta cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425f.",
+    "line a baking sheet with parchment paper and place the tilapia fillets on it.",
+    "drizzle the olive oil over the fish and sprinkle with garlic, cumin, coriander, and paprika.",
+    "bake the fish in the preheated oven for 12 minutes, or until cooked through.",
+    "while the fish is baking, prepare the lettuce, chopping it into bite-sized pieces and placing it in a large stone bowl.",
+    "top the lettuce with chopped dates and crumbled feta cheese (if using).",
+    "remove the fish from the oven and place it on top of the lettuce mixture.",
+    "drizzle the lemon juice over the fish and serve immediately.",
+    "serve the fish bowl with warm pita bread or couscous on the side (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "middle-eastern",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "yummy-gooey-roasted-middle-eastern-fish-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-gooey-roasted-middle-eastern-fish-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:26:03Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "lettuce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Fish",
+    "descriptor": "Yummy Gooey Roasted",
+    "dishForm": "Bowl"
+  }
+}

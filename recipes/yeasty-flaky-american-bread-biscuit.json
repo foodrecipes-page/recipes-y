@@ -1,0 +1,92 @@
+{
+  "title": "American Yeasty Biscuits with Basil Wok-Hei",
+  "description": "These flaky American biscuits feature a yeasty, savory flavor profile with fresh basil leaves and a hint of wok-hei, perfect for a sick-day comfort food.",
+  "cuisine": "american",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 1/2 teaspoons"
+    },
+    {
+      "name": "warm non-dairy milk",
+      "amount": "1 cup",
+      "notes": "105°F to 115°F"
+    },
+    {
+      "name": "canola oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "6 tablespoons, softened"
+    },
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "salt block"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast and warm non-dairy milk. Stir to dissolve and let sit for 5 minutes until frothy.",
+    "In a large mixing bowl, combine flour, salt, and flaky sea salt. Whisk to combine.",
+    "Add canola oil and vegan butter to dry ingredients. Using a pastry blender or fork, cut until mixture resembles coarse crumbs.",
+    "Add yeast mixture to dry ingredients. Mix until dough comes together in a shaggy mass.",
+    "Turn dough out onto a lightly floured surface and knead 6-8 times until smooth.",
+    "Roll dough out to 1-inch thickness. Use a biscuit cutter or the rim of a glass to cut out biscuits.",
+    "Place biscuits on a parchment-lined baking sheet. Brush tops with a little extra non-dairy milk.",
+    "Bake in a preheated oven at 400°F for 12-15 minutes until golden brown.",
+    "Remove biscuits from oven and sprinkle with chopped basil leaves. Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-bread",
+    "breakfast",
+    "comfort-food",
+    "vegan-biscuits"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "yeasty-flaky-american-bread-biscuit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-flaky-american-bread-biscuit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:25:59Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "wok-hei",
+    "primaryIngredient": "basil leaves",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "bread",
+    "descriptor": "yeasty, flaky",
+    "dishForm": "Biscuit"
+  }
+}

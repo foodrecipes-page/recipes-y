@@ -1477,6 +1477,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-fluffy-moroccan-avocado-chebakia",
+    "title": "Yellow Fluffy Moroccan Avocado Chebakia",
+    "tags": [
+      "avocado",
+      "clay-pot",
+      "macrobiotic",
+      "moroccan",
+      "tandoor",
+      "vegetarian"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-fluffy-norwegian-serrano-ham-frittata",
     "title": "Yellow Fluffy Norwegian Serrano Ham Frittata",
     "tags": [
@@ -1716,6 +1731,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-indian-paneer-rasmalai",
+    "title": "Yellow Indian Paneer Rasmalai",
+    "tags": [
+      "dairy-friendly",
+      "gluten-free",
+      "indian-desserts",
+      "nutty-flavors",
+      "velvety-texture"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -2788,6 +2817,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-cheesy-vietnamese-chicken-noodles",
+    "title": "Yellowed Cheesy Vietnamese Chicken Noodles",
+    "tags": [
+      "cheesy",
+      "chicken",
+      "noodles",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

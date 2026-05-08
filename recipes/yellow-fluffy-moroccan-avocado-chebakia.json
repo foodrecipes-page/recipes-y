@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Fluffy Moroccan Avocado Chebakia",
+  "description": "A light and fluffy Moroccan dish featuring avocado hass pulp, cured in a mixture of spices and herbs, and cooked to perfection in a tandoor clay pot. This macrobiotic friendly dish is a twist on traditional chebakia.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado hass pulp",
+      "amount": "2 cups",
+      "notes": "ripe"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the almond flour, coconut sugar, and sea salt.",
+    "Add the orange blossom water, rose water, ground cinnamon, and ground ginger to the bowl and mix until well combined.",
+    "Fold in the avocado hass pulp until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes pliable and easy to shape.",
+    "Divide the dough into 8 equal pieces and shape each piece into a chebakia.",
+    "Place the chebakia in the preheated tandoor clay pot and cook for 15 minutes.",
+    "Flip the chebakia over and cook for an additional 10 minutes.",
+    "Remove the chebakia from the tandoor clay pot and let cool for 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "avocado",
+    "clay-pot",
+    "macrobiotic",
+    "moroccan",
+    "tandoor",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "yellow-fluffy-moroccan-avocado-chebakia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-fluffy-moroccan-avocado-chebakia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:07:03Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "avocado",
+    "descriptor": "Yellow Fluffy",
+    "dishForm": "Chebakia"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Yellow Indian Paneer Rasmalai",
+  "description": "A nutty and velvety Indian dessert featuring paneer, orange juice, and a gluten-free friendly twist, served in a tagliere vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "1 pound",
+      "notes": "crumbled"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Soak the saffron threads in 1 tablespoon of hot water for 10 minutes.",
+    "Combine the crumbled paneer, orange juice, saffron with its water, cardamom powder, and rose water in a blender and blend until smooth.",
+    "Transfer the mixture to a saucepan and cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the almond milk and honey until well combined.",
+    "Let the mixture cool to room temperature, then cover and refrigerate for at least 2 hours.",
+    "Just before serving, stir in the chopped pistachios.",
+    "Spoon the paneer mixture into a tagliere vessel and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-friendly",
+    "gluten-free",
+    "indian-desserts",
+    "nutty-flavors",
+    "velvety-texture"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "yellow-indian-paneer-rasmalai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-indian-paneer-rasmalai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:07:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "spherify",
+    "primaryIngredient": "orange juice",
+    "diet": "gluten-free",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "yummy nutty",
+    "dishForm": "Rasmalai"
+  }
+}

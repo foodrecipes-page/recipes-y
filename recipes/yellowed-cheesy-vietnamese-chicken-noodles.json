@@ -1,0 +1,109 @@
+{
+  "title": "Yellowed Cheesy Vietnamese Chicken Noodles",
+  "description": "A tangy and savory Vietnamese dish featuring chicken, noodles, and dried apricots, with a cheesy pull and a hint of dashi extract, all served on a slate tile.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped green onions to the skillet and cook until fragrant.",
+    "Add the dashi extract, fish sauce, and lime juice to the skillet and stir to combine.",
+    "Add the chopped dried apricots to the skillet and cook for 1 minute.",
+    "Add the cooked noodles to the skillet and stir to combine with the apricot mixture.",
+    "Add the shredded cheese to the skillet and stir until melted and well combined.",
+    "Add the cooked chicken back to the skillet and stir to combine with the cheese and noodle mixture.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Serve the yellowed cheesy Vietnamese chicken noodles on a slate tile."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "chicken",
+    "noodles",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellowed-cheesy-vietnamese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-cheesy-vietnamese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:07:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "dashi-extract",
+    "primaryIngredient": "dried apricots",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellowed cheesy",
+    "dishForm": "Noodles"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Youthful Sour Saudi Arabian Saskatoon Berries Tagine",
+  "description": "A sweet and sour Saudi Arabian dish featuring Saskatoon berries, perfect for a lazy Sunday, with a unique ice-bath-shock step to preserve the berries' texture. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the Saskatoon berries and pick out any stems or debris.",
+    "In a large bowl, mix together the lemon juice, apple cider vinegar, and honey until well combined.",
+    "Add the Saskatoon berries to the bowl and toss to coat with the lemon mixture.",
+    "Let the berries sit at room temperature for 30 minutes to allow them to release their juice.",
+    "In a small bowl, whisk together the water and cornstarch until smooth.",
+    "Add the cornstarch mixture to the bowl with the berries and stir to combine.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 10 minutes.",
+    "Remove the bowl from the heat and stir in the salt, black pepper, and cardamom powder.",
+    "Immediately submerge the bowl in an ice bath to stop the cooking process and preserve the texture of the berries.",
+    "Let the tagine cool to room temperature, then refrigerate until chilled.",
+    "Serve the tagine cold, garnished with additional Saskatoon berries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "lazy-sunday",
+    "no-onion-no-garlic",
+    "saudi-arabian",
+    "sour",
+    "springy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "youthful-sour-saudi-arabian-saskatoon-berries-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-sour-saudi-arabian-saskatoon-berries-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:34:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "youthful sour",
+    "dishForm": "Tagine"
+  }
+}

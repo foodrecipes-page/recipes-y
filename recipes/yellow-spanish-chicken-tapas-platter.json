@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Spanish Chicken Tapas Platter",
+  "description": "A fresh and tender Spanish dish featuring ground annatto, perfect for a kid-friendly meal, this tapas platter is low in carbs and full of flavor",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, mix together the chicken, ground annatto, olive oil, garlic, smoked paprika, salt, and black pepper",
+    "Thread the chicken mixture onto skewers, if desired",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Bake the chicken for 20 minutes, or until cooked through",
+    "While the chicken is baking, mix the lemon juice with a little water to make a glaze",
+    "After the chicken has baked for 15 minutes, brush the lemon glaze over the top of the chicken",
+    "Remove the chicken from the oven and let it rest for a few minutes before serving",
+    "To serve, place the chicken on a large tagliere or platter, garnished with lemon wedges and fresh herbs"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy-option",
+    "kid-friendly",
+    "low-carb",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "yellow-spanish-chicken-tapas-platter",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spanish-chicken-tapas-platter",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:49:15Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "ground annatto",
+    "diet": "low-carb",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Tapas Platter"
+  }
+}

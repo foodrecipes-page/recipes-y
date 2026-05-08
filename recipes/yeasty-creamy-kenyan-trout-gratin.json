@@ -1,0 +1,99 @@
+{
+  "title": "Yeasty Creamy Kenyan Trout Gratin",
+  "description": "A yeasty and creamy Kenyan dish featuring trout, shio-cure, and dairy-free friendly ingredients, perfect for a special occasion. This indulgent gratin is sure to impress your guests.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tablespoons",
+      "notes": "vegan"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together the shio-cure, yeast extract, and non-dairy milk.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the trout fillets to the skillet and cook for 2-3 minutes on each side.",
+    "Transfer the trout to a baking dish and pour the shio-cure mixture over the top.",
+    "Sprinkle the nutritional yeast over the top, if using.",
+    "Bake the gratin in the preheated oven for 12-15 minutes, or until the trout is cooked through and the top is golden brown.",
+    "Remove the gratin from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yeasty-creamy-kenyan-trout-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-creamy-kenyan-trout-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:14:27Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "shio-cure",
+    "primaryIngredient": "trout",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "trout",
+    "descriptor": "yeasty creamy",
+    "dishForm": "Gratin"
+  }
+}

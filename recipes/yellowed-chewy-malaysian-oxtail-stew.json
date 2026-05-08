@@ -1,0 +1,107 @@
+{
+  "title": "Yellowed Chewy Malaysian Oxtail Stew",
+  "description": "A resinous and chewy Malaysian dish featuring oxtail, this recipe is a show-off dish that is dairy-free friendly and cooked to perfection in an iron teppan, the namul-blanch-season method ensures the oxtail is tender and full of flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 whole"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan over medium high heat and add the vegetable oil.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the oxtail pieces and cook until they are browned on all sides.",
+    "Add the soy sauce, coconut milk, star anise, cinnamon stick, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2 1/2 hours.",
+    "Remove the star anise and cinnamon stick, and serve the stew hot.",
+    "Garnish with chopped scallions and serve with steamed rice or noodles."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chewy",
+    "dairy-free",
+    "malaysian-cuisine",
+    "one-pot",
+    "oxtail-recipe",
+    "resinous",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "yellowed-chewy-malaysian-oxtail-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-chewy-malaysian-oxtail-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:23:18Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "oxtail",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "oxtail",
+    "descriptor": "Yellowed Chewy",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Peruvian Lamb Seco De Cordero",
+  "description": "A salty and gooey Peruvian dish featuring Polish kabanos, this crowd-pleaser is a unique twist on traditional seco de cordero, served on a slate tile.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "Polish kabanos",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the lamb chunks and cook until browned on all sides, about 5 minutes.",
+    "Add the sliced kabanos and cook for an additional 2 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped aji amarillo peppers, turmeric, cumin, salt, and pepper, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Serve the seco de cordero on a slate tile, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dairy-free",
+    "lamb-recipes",
+    "peruvian-cuisine",
+    "slate-tile-recipes",
+    "wok-hei-inspired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "yellow-peruvian-lamb-seco-de-cordero",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:20:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "wok-hei",
+    "primaryIngredient": "polish kabanos",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Gooey",
+    "dishForm": "Seco De Cordero"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Yellowed Greek Soya Bean Moussaka",
+  "description": "A tangy and pillowy Greek dish featuring soya bean, perfect for midnight cravings, this satvik-friendly moussaka is a delicious and satisfying meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the tomato puree, salt, black pepper, and paprika to the pan and stir well.",
+    "In a large bowl, combine the cooked soya beans, bechamel sauce, and the tomato mixture, and mix well.",
+    "In a separate bowl, brush the eggplant slices with olive oil and season with salt and pepper.",
+    "In a 9x13 inch baking dish, create a layer of eggplant slices, followed by a layer of the soya bean mixture, and repeat this process until all ingredients are used, ending with a layer of eggplant on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "midnight-cravings",
+    "moussaka-recipes",
+    "satvik-friendly",
+    "soya-bean-recipes",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "yellowed-greek-soya-bean-moussaka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-greek-soya-bean-moussaka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:06:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "simmer",
+    "primaryIngredient": "soya bean",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "soya bean",
+    "descriptor": "Yellowed",
+    "dishForm": "Moussaka"
+  }
+}

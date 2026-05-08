@@ -3161,6 +3161,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-kenyan-tomato-stew",
+    "title": "Yellow Spicy Kenyan Tomato Stew",
+    "tags": [
+      "african",
+      "clay-pot",
+      "one-pot",
+      "spicy",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-korean-sevaiiya-noodles",
     "title": "Yellow Spicy Korean Sevaiiya Noodles",
     "tags": [
@@ -4385,6 +4400,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 180,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-greek-soya-bean-moussaka",
+    "title": "Yellowed Greek Soya Bean Moussaka",
+    "tags": [
+      "greek-food",
+      "midnight-cravings",
+      "moussaka-recipes",
+      "satvik-friendly",
+      "soya-bean-recipes",
+      "vegetarian-meals"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 80,
     "shard": "y"
   },
   {

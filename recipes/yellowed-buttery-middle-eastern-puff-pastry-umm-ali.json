@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Buttery Middle Eastern Puff Pastry Umm Ali",
+  "description": "A malty, light, and comforting Middle Eastern dessert featuring puff pastry, sake cooking, and poaching, served in a lazy susan spinner vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of 1/8 inch.",
+    "Cut the pastry into 6 equal pieces and place them in a lazy susan spinner vessel.",
+    "In a saucepan, combine the sake, milk, sugar, and melted butter, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer for 5 minutes.",
+    "In a bowl, whisk together the eggs and rose water.",
+    "Pour the egg mixture over the pastry pieces in the vessel.",
+    "Sprinkle the chopped pistachios over the top of the pastry.",
+    "Bake for 25 minutes, or until the pastry is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "lazy-susan-spinner",
+    "middle-eastern",
+    "puff-pastry",
+    "sake-cooking",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "yellowed-buttery-middle-eastern-puff-pastry-umm-ali",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-buttery-middle-eastern-puff-pastry-umm-ali",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:01:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "sake-cooking",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "puff pastry",
+    "descriptor": "Yellowed Buttery",
+    "dishForm": "Umm Ali"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "title": "You-yang Earthy Chinese Potatoes Yangzhou Fried Rice",
+  "description": "A hearty and comforting one-pot dish featuring yukon gold potatoes, cure, and savory flavors of Yangzhou fried rice.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yukon gold potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "cure",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "cooking wine",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry until fragrant, about 1 minute.",
+    "Add the yukon gold potatoes and stir-fry until they start to soften, about 3-4 minutes.",
+    "Add the cure, soy sauce, oyster sauce (if using), sugar, salt, and pepper, and stir-fry for 1 minute.",
+    "Add the cooking wine and stir-fry until the liquid is almost completely evaporated, about 2-3 minutes.",
+    "Add the scallions and stir-fry for 1 minute.",
+    "Push the ingredients to one side of the wok or skillet, making a well in the center.",
+    "Add a little more oil to the well and pour in the beaten eggs.",
+    "Scramble the eggs until they are cooked through, breaking them up into small pieces as they cook.",
+    "Mix the eggs with the other ingredients.",
+    "Serve the You-yang Earthy Chinese Potatoes Yangzhou Fried Rice hot, garnished with additional scallions if desired.",
+    "Adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "comfort-food",
+    "hearty",
+    "low-sodium",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "you-yang-earthy-chinese-potatoes-yangzhou-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/you-yang-earthy-chinese-potatoes-yangzhou-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:58:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Potatoes",
+    "descriptor": "You-yang earthy",
+    "dishForm": "Yangzhou Fried Rice"
+  }
+}

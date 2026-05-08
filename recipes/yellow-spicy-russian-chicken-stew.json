@@ -1,0 +1,112 @@
+{
+  "title": "Yellow Spicy Russian Chicken Stew",
+  "description": "A savory and energizing Russian dish featuring makrut lime leaves, this stew is perfect for a cold winter's night. It is keto-friendly and can be cooked in a hot pot vessel.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "4",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 teaspoon",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "In a large hot pot vessel, combine chicken broth, heavy cream, makrut lime leaves, dried dill weed, smoked paprika, salt, and black pepper.",
+    "Bring the mixture to a boil over high heat.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the chicken to the pot and cook until it is browned on all sides.",
+    "Reduce the heat to low and simmer the stew for 20 minutes or until the chicken is cooked through.",
+    "Stir in the chopped fresh herbs, if using.",
+    "Serve the stew hot, garnished with additional makrut lime leaves if desired.",
+    "Refrigerate or freeze the stew for later use.",
+    "Reheat the stew over low heat, stirring occasionally."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "yellow-spicy-russian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-russian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:40:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Stew"
+  }
+}

@@ -3356,6 +3356,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-russian-chicken-stew",
+    "title": "Yellow Spicy Russian Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "keto-friendly",
+      "low-carb",
+      "one-pot",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-thai-chicken-skewers",
     "title": "Yellow Spicy Thai Chicken Skewers",
     "tags": [

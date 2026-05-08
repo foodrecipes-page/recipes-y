@@ -1815,6 +1815,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-smoky-egyptian-chicken-kebabs",
+    "title": "Yellow Smoky Egyptian Chicken Kebabs",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "grilled-chicken",
+      "middle-eastern",
+      "smoky-flavor",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 32,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-smoky-italian-vegetable-pasta",
     "title": "Yellow Smoky Italian Vegetable Pasta",
     "tags": [

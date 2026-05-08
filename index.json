@@ -2823,6 +2823,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-roasted-italian-pul-biber-pesto-pasta",
+    "title": "Yellow Roasted Italian Pul Biber Pesto Pasta",
+    "tags": [
+      "italian-food",
+      "low-calorie",
+      "one-pot",
+      "pasta-lover",
+      "quick-dinner",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-roasted-jamaican-coconut-roast",
     "title": "Yellow Roasted Jamaican Coconut Roast",
     "tags": [
@@ -4567,6 +4582,20 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crispy-mediterranean-lamb-tagine",
+    "title": "Yellowed Crispy Mediterranean Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "halal-friendly",
+      "lamb-recipes",
+      "mediterranean-cuisine",
+      "special-occasion"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 70,
     "shard": "y"
   },
   {

@@ -1,0 +1,110 @@
+{
+  "title": "Yellow Roasted Italian Pul Biber Pesto Pasta",
+  "description": "A quick and flavorful Italian dish featuring roasted pul biber and a pesto sauce, served in a tajine clay vessel.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "pul biber",
+      "amount": "2 tbsp",
+      "notes": "roasted"
+    },
+    {
+      "name": "basil",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the pul biber with a tablespoon of olive oil and roast in the oven for 10 minutes.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a food processor, combine the roasted pul biber, basil, garlic, pine nuts, and a pinch of salt and pepper.",
+    "Process the mixture until it forms a smooth pesto sauce.",
+    "In a large skillet, combine the cooked pasta, pesto sauce, and grated parmesan cheese.",
+    "Toss the pasta in the skillet over low heat until the cheese is melted and the sauce is well combined.",
+    "Season the pasta with salt, pepper, and a squeeze of lemon juice to taste.",
+    "Serve the pasta hot in a tajine clay vessel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-food",
+    "low-calorie",
+    "one-pot",
+    "pasta-lover",
+    "quick-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-roasted-italian-pul-biber-pesto-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-roasted-italian-pul-biber-pesto-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:08:44Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "pul biber",
+    "diet": "low-calorie",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pul biber",
+    "descriptor": "Yellow Roasted",
+    "dishForm": "Pesto Pasta"
+  }
+}

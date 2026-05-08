@@ -1,0 +1,102 @@
+{
+  "title": "Yellowed Crispy Mediterranean Lamb Tagine",
+  "description": "A sweet and comforting Mediterranean dish featuring ground pistachios and crispy lamb, cooked to perfection in an agave leaf vessel, halal friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "halal certified"
+    },
+    {
+      "name": "ground pistachios",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, ground pistachios, olive oil, onion, garlic, paprika, cumin, salt, and black pepper, mixing well with your hands until just combined.",
+    "Lay an agave leaf flat on a work surface and place about 1/4 of the lamb mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package, repeating with the remaining lamb mixture and agave leaves.",
+    "Place the packages in a large baking dish, leaving a little space between each package to allow for even cooking.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the lamb is cooked through and the agave leaves are crispy and golden brown.",
+    "Remove the packages from the oven and let them rest for 5 minutes before serving.",
+    "Serve the lamb tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "lamb-recipes",
+    "mediterranean-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "yellowed-crispy-mediterranean-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-mediterranean-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:08:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "papillote",
+    "primaryIngredient": "ground pistachios",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Tagine"
+  }
+}

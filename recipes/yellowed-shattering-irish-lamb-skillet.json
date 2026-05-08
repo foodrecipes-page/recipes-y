@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Shattering Irish Lamb Skillet",
+  "description": "A citrusy one-pot Irish dish featuring ground annatto and a shattering crust, high in protein and perfect for a weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the ground lamb and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the dried thyme, lemon zest, lemon juice, salt, black pepper, and garlic powder to the skillet and stir to combine.",
+    "Add the diced potatoes to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes.",
+    "Remove the skillet from the oven and sprinkle the ground annatto over the top.",
+    "Return the skillet to the oven and bake for an additional 10 minutes, or until the top is lightly browned and shattering.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish",
+    "lamb",
+    "one-pot",
+    "skillet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "yellowed-shattering-irish-lamb-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-shattering-irish-lamb-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:05:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "dehydrate",
+    "primaryIngredient": "ground annatto",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Shattering",
+    "dishForm": "Skillet"
+  }
+}

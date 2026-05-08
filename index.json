@@ -211,6 +211,22 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-chewy-uruguayan-pecan-bread",
+    "title": "Yeasty Chewy Uruguayan Pecan Bread",
+    "tags": [
+      "bread",
+      "breakfast",
+      "chewy",
+      "donabe",
+      "uruguayan",
+      "weeknight",
+      "yeasty"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-crisp-irish-lettuce-salad",
     "title": "Yeasty Crisp Irish Lettuce Salad",
     "tags": [

@@ -1,0 +1,101 @@
+{
+  "title": "Yeasty Chewy Uruguayan Pecan Bread",
+  "description": "A traditional Uruguayan bread filled with the rich flavor of pecans, made with a yeasty dough that yields a chewy texture.",
+  "cuisine": "uruguayan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "350"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1.5"
+    },
+    {
+      "name": "table sugar",
+      "amount": "2"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1.5"
+    },
+    {
+      "name": "salt",
+      "amount": "1"
+    },
+    {
+      "name": "pecan nuts",
+      "amount": "1.25"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "0.25"
+    },
+    {
+      "name": "donabe vessel",
+      "notes": "1 liter capacity"
+    }
+  ],
+  "instructions": [
+    "Combine warm water and yeast in a small bowl. Stir gently and let sit for 5 minutes.",
+    "Add sugar, melted butter, eggs, flour, and salt to the donabe vessel.",
+    "Mix the dough using a wooden spoon or a stand mixer until smooth.",
+    "Add pecan nuts and sesame seeds to the dough and mix until evenly distributed.",
+    "Knead the dough for 10 minutes until elastic and smooth.",
+    "Place the dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "Preheat the donabe vessel to 375°F (190°C).",
+    "Punch down the dough and shape into a round loaf.",
+    "Place the loaf in the preheated donabe vessel and bake for 35 minutes.",
+    "Remove the loaf from the oven and let cool in the vessel for 10 minutes.",
+    "Transfer the loaf to a wire rack and let cool completely.",
+    "Slice the loaf and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "chewy",
+    "donabe",
+    "uruguayan",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "yeasty-chewy-uruguayan-pecan-bread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-chewy-uruguayan-pecan-bread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:48:23Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "spherify",
+    "primaryIngredient": "pecan nuts",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Pecan",
+    "descriptor": "Yeasty Chewy",
+    "dishForm": "Bread"
+  }
+}

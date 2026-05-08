@@ -1,0 +1,99 @@
+{
+  "title": "Yellowed Crispy Italian Strawberry Fritters",
+  "description": "A savory Italian dish from Puglia featuring strawberries and nuka-pickle, served in scallop shells, this recipe is gluten-free friendly. It brings back nostalgic memories of Italian cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "1 pint",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scalloped shells",
+      "amount": "12",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the gluten-free flour, eggs, parmesan cheese, salt, and black pepper.",
+    "Add the sliced strawberries and chopped nuka-pickle to the bowl and stir until they are well coated with the flour mixture.",
+    "Drizzle the olive oil over the strawberry mixture and stir until everything is well combined.",
+    "Spoon the strawberry mixture into the scalloped shells, filling them about 3/4 of the way full.",
+    "Place the filled shells on a baking sheet lined with parchment paper.",
+    "Bake the fritters in the preheated oven for 20 minutes, or until they are crispy and golden brown.",
+    "Remove the fritters from the oven and let them cool for a few minutes before serving.",
+    "Serve the fritters warm, garnished with additional grated parmesan cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian-cuisine",
+    "nuka-pickle",
+    "savory-snacks",
+    "scallop-shells",
+    "strawberry-recipes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "yellowed-crispy-italian-strawberry-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-italian-strawberry-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:25:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "strawberries",
+    "diet": "gluten-free",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "strawberries",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Fritters"
+  }
+}

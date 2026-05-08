@@ -891,6 +891,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-buttery-thai-prosciutto-tom-kha",
+    "title": "Yellow Buttery Thai Prosciutto Tom Kha",
+    "tags": [
+      "dairy",
+      "gluten-free",
+      "one-pot",
+      "prosciutto",
+      "thai-cuisine",
+      "tom-kha",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-canadian-chickpea-curry",
     "title": "Yellow Canadian Chickpea Curry",
     "tags": [

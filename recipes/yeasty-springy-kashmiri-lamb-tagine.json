@@ -1,0 +1,103 @@
+{
+  "title": "Yeasty Springy Kashmiri Lamb Tagine",
+  "description": "A flavorful and aromatic Kashmiri lamb dish cooked in a tagine clay vessel, featuring ginger cordial and yuzu-cure for a unique taste experience. This recipe is low in calories and rich in protein.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless and cut into 2 inch pieces"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kashmiri red chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in the tagine clay vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the ginger cordial, yuzu juice, yeast extract, kashmiri red chili powder, salt, and black pepper, and stir to combine.",
+    "Cover the tagine clay vessel with a lid and transfer it to the preheated oven.",
+    "Bake for 2.5 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove the tagine from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "lamb-recipes",
+    "low-calorie",
+    "tagine-cooking",
+    "yeasty-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "yeasty-springy-kashmiri-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-springy-kashmiri-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:10:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "ginger cordial",
+    "diet": "low-calorie",
+    "region": "kashmiri",
+    "cuisineAdjective": "Kashmiri",
+    "mainIngredient": "lamb",
+    "descriptor": "yeasty springy",
+    "dishForm": "Tagine"
+  }
+}

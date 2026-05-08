@@ -1,0 +1,97 @@
+{
+  "title": "Yellow Sauteed Jamaican Vermicelli Pasta",
+  "description": "A dense and flavorful Jamaican dish featuring vermicelli pasta, perfect for meal prep. This low-carb-friendly recipe is a great option for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "8 oz",
+      "notes": "low-carb version"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the vermicelli pasta according to package instructions.",
+    "In a large skillet, heat the coconut oil over medium heat.",
+    "Add the diced onion and minced garlic to the skillet and saute until the onion is translucent.",
+    "Add the scotch bonnet pepper to the skillet and saute for an additional minute.",
+    "Add the curry powder and thyme to the skillet and stir to combine.",
+    "Add the cooked vermicelli pasta to the skillet and stir to combine with the spice mixture.",
+    "Add the cooked chicken breast to the skillet and stir to combine with the pasta and spice mixture.",
+    "Season the pasta with salt to taste.",
+    "Serve the yellow sauteed Jamaican vermicelli pasta hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "jamaican-cuisine",
+    "low-carb",
+    "one-pan",
+    "pasta-dishes",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-sauteed-jamaican-vermicelli-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-sauteed-jamaican-vermicelli-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:17:51Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vermicelli pasta",
+    "descriptor": "Yellow Sauteed",
+    "dishForm": "Pasta"
+  }
+}

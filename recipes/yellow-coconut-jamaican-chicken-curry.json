@@ -1,0 +1,106 @@
+{
+  "title": "Yellow Coconut Jamaican Chicken Curry",
+  "description": "A rich and creamy Jamaican chicken curry with a deep umami flavor, featuring cocoa powder and cooked in a cataplana vessel over binchotan charcoal, this satvik friendly dish is perfect for a solo dinner",
+  "cuisine": "Jamaican",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the cataplana vessel over medium heat on the binchotan charcoal grill",
+    "Add the diced onion and cook until it is translucent and starting to caramelize",
+    "Add the minced garlic and grated ginger and cook for 1 minute",
+    "Add the chicken breast and cook until it is browned on all sides",
+    "Add the curry powder, cocoa powder, salt, and black pepper, and cook for 1 minute",
+    "Add the coconut milk and yellow curry paste, and stir to combine",
+    "Bring the mixture to a simmer and cook until the chicken is cooked through and the sauce has thickened",
+    "Serve the chicken and sauce over rice or with naan bread"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "grilled",
+    "jamaican-cuisine",
+    "one-pan",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "yellow-coconut-jamaican-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-coconut-jamaican-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:17:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "cocoa powder",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Coconut",
+    "dishForm": "Curry"
+  }
+}

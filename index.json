@@ -1238,6 +1238,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-coconut-jamaican-chicken-curry",
+    "title": "Yellow Coconut Jamaican Chicken Curry",
+    "tags": [
+      "coconut-based",
+      "grilled",
+      "jamaican-cuisine",
+      "one-pan",
+      "umami-rich"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-coconut-spanish-chicken-cocido-madrileno",
     "title": "Yellow Coconut Spanish Chicken Cocido Madrileno",
     "tags": [
@@ -2626,6 +2640,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 70,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-sauteed-jamaican-vermicelli-pasta",
+    "title": "Yellow Sauteed Jamaican Vermicelli Pasta",
+    "tags": [
+      "chicken-recipes",
+      "jamaican-cuisine",
+      "low-carb",
+      "one-pan",
+      "pasta-dishes",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

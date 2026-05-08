@@ -1,0 +1,114 @@
+{
+  "title": "yellow-yellow shattering middle-eastern chickpeas tagine",
+  "description": "a floral, shattering, one-pot middle-eastern dish featuring almond essence and a sweet glaze, ideal for weeknights and vegan-friendly diets.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "almond essence",
+      "amount": "1 tsp",
+      "notes": "or substitute with lemon zest"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality extra virgin olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp",
+      "notes": "sweet smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "use a flaky sea salt"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "or substitute with maple syrup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "add the onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "add the garlic and cook for 1-2 minutes, stirring constantly, until fragrant.",
+    "add the cumin, coriander, paprika, and salt. Cook, stirring constantly, for 1-2 minutes.",
+    "add the chickpeas, almond essence, and honey. Stir to combine.",
+    "bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20-25 minutes, or until the flavors have melded together.",
+    "stir in the lemon juice and cook for an additional 2-3 minutes.",
+    "season with salt to taste, then serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-yellow-shattering-middle-eastern-chickpeas-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yellow-shattering-middle-eastern-chickpeas-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T13:42:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "glaze",
+    "primaryIngredient": "almond essence",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Yellow-Yellow Shattering",
+    "dishForm": "Tagine"
+  }
+}

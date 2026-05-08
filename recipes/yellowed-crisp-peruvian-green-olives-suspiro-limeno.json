@@ -1,0 +1,88 @@
+{
+  "title": "Yellowed Crisp Peruvian Green Olives Suspiro Limeno",
+  "description": "A sweet and crisp Peruvian dish featuring green olives, perfect for a sick day, and keto-friendly, formed as a suspiro limeno.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a medium saucepan, combine the heavy cream, granulated sweetener, and unsalted butter, and heat over medium heat until the sweetener has dissolved.",
+    "Remove the saucepan from the heat and stir in the vanilla extract and cinnamon powder.",
+    "Add the green olives to the saucepan and toss to coat with the cream mixture.",
+    "Transfer the olives to a baking dish and broil for 5 minutes, or until lightly browned.",
+    "Remove the olives from the oven and sprinkle with salt.",
+    "Serve the yellowed crisp Peruvian green olives suspiro limeno warm.",
+    "Garnish with additional cinnamon powder if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broiled",
+    "comfort-food",
+    "gluten-free",
+    "keto-friendly",
+    "peruvian-cuisine",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 32
+  },
+  "slug": "yellowed-crisp-peruvian-green-olives-suspiro-limeno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-peruvian-green-olives-suspiro-limeno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:09:11Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "broil",
+    "primaryIngredient": "green olives",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "green olives",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Suspiro Limeno"
+  }
+}

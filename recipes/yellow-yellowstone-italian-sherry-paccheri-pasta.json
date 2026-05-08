@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Yellowstone Italian Sherry Paccheri Pasta",
+  "description": "A rich, umami-packed Italian dish featuring aerated sherry and Paccheri pasta, served in a hot stone bowl.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paccheri pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "Mushroom (shiitake, cremini, or a mix)",
+      "amount": "120g"
+    },
+    {
+      "name": "Sherry (dry, such as Fino or Amontillado)",
+      "amount": "60ml"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Butter",
+      "amount": "30g"
+    },
+    {
+      "name": "Parmesan cheese, grated",
+      "amount": "30g"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "10g"
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the Paccheri pasta according to the package instructions until al dente.",
+    "In a separate pan, sauté the sliced mushrooms and chopped onion in butter until they release their liquid and start to brown.",
+    "Add the minced garlic to the pan and cook for 1-2 minutes, until fragrant.",
+    "Pour in the sherry and cook until the liquid is reduced by half, scraping up any browned bits from the pan.",
+    "Add the cooked Paccheri pasta to the pan, tossing to combine with the mushroom and sherry mixture.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta mixture to a hot stone bowl and top with grated Parmesan cheese and chopped parsley.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "date-night",
+    "dinner-party",
+    "italian",
+    "one-pan",
+    "sherry-based",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 26
+  },
+  "slug": "yellow-yellowstone-italian-sherry-paccheri-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yellowstone-italian-sherry-paccheri-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:15:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "sherry",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sherry",
+    "descriptor": "Yellow-Yellowstone",
+    "dishForm": "Paccheri Pasta"
+  }
+}

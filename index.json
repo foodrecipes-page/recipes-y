@@ -1149,6 +1149,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crunchy-spanish-cheese-paella",
+    "title": "Yellow Crunchy Spanish Cheese Paella",
+    "tags": [
+      "cheese-lover",
+      "date-night",
+      "one-pan",
+      "spanish-cuisine",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crunchy-ukrainian-milk-fritters",
     "title": "Yellow Crunchy Ukrainian Milk Fritters",
     "tags": [
@@ -2688,6 +2702,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 180,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-sweet-russian-saskatoon-berry-dumplings",
+    "title": "Yellowed Sweet Russian Saskatoon Berry Dumplings",
+    "tags": [
+      "berry-filled",
+      "comfort-food",
+      "midnight-craving",
+      "one-pan",
+      "ovarian-friendly",
+      "russian-dish"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

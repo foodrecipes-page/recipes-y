@@ -1,0 +1,106 @@
+{
+  "title": "Yellow Grassy Korean Duck Bokkeum",
+  "description": "A romantic Korean dish from Busan featuring duck sauce and infused oil, wrapped in a corn husk, this ovo-vegetarian friendly bokkeum is a unique experience, with grassy and gooey textures combining for a delightful meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "Infused oil",
+      "amount": "1/2 cup",
+      "notes": "with garlic and ginger"
+    },
+    {
+      "name": "Corn husks",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the duck sauce and infused oil.",
+    "Add the sliced zucchini, carrots, and chopped green onions to the bowl and toss to coat.",
+    "Add the cubed tofu to the bowl and toss gently to combine.",
+    "Season the mixture with sesame seeds, salt, and black pepper.",
+    "Lay a corn husk flat on a work surface and spoon about 1/2 cup of the mixture onto the center of the husk.",
+    "Fold the sides of the husk over the filling and roll up the husk to form a tight cylinder.",
+    "Repeat with the remaining corn husks and filling.",
+    "Place the filled corn husks seam side down in a baking dish and bake for 25 minutes.",
+    "Serve the bokkeum hot, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bokkeum",
+    "busan-style",
+    "corn-husk-wrap",
+    "korean-cuisine",
+    "ovo-vegetarian",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "yellow-grassy-korean-duck-bokkeum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-grassy-korean-duck-bokkeum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:53:16Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "duck sauce",
+    "diet": "ovo-vegetarian",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "duck",
+    "descriptor": "Yellow Grassy",
+    "dishForm": "Bokkeum"
+  }
+}

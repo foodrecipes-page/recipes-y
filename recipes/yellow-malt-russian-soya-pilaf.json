@@ -1,0 +1,102 @@
+{
+  "title": "Yellow Malt Russian Soya Pilaf",
+  "description": "A malty, springy, and nutritious Russian-inspired dish featuring soya milk, perfect for meal prep, and aligned with ayurvedic sattvic principles.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "soya milk",
+      "amount": "2 cups",
+      "notes": "low fat"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wood-fired baked vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine soya milk, malt syrup, and turmeric, whisking until smooth.",
+    "Add the brown rice, yellow split peas, onion, garlic, salt, and black pepper to the bowl, stirring until well combined.",
+    "Add the wood-fired baked vegetables to the bowl and stir gently.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes.",
+    "Remove the dish from the oven and let it cool for 10 minutes.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with fresh herbs, such as parsley or dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "meal-prep",
+    "russian-cuisine",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-malt-russian-soya-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-malt-russian-soya-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:31:32Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "soya milk",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "soya",
+    "descriptor": "Yellow Malt",
+    "dishForm": "Pilaf"
+  }
+}

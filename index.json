@@ -2186,6 +2186,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-malt-russian-soya-pilaf",
+    "title": "Yellow Malt Russian Soya Pilaf",
+    "tags": [
+      "ayurvedic",
+      "gluten-free",
+      "meal-prep",
+      "russian-cuisine",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 70,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-malted-irish-lamb-stew",
     "title": "Yellow Malted Irish Lamb Stew",
     "tags": [

@@ -1,0 +1,109 @@
+{
+  "title": "Egyptian Charcoal-Glazed Broccoli Tagine",
+  "description": "A charred and flavorful Egyptian-inspired dish with Chinese broccoli and a rich, sticky glaze.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "high-protein",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broccoli florets",
+      "amount": "2 cups",
+      "notes": "Chinese broccoli, also known as gai lan"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "charcoal powder",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C) and prepare a charcoal glaze by mixing together honey, apple cider vinegar, cumin powder, coriander powder, salt, and black pepper in a small bowl.",
+    "In a large mason jar, combine broccoli florets, olive oil, garlic cloves, ginger, and lemon juice. Toss to coat.",
+    "Cover the mason jar with a lid and bake in the preheated oven for 10 minutes.",
+    "Remove the mason jar from the oven and brush the charcoal glaze evenly over the broccoli florets.",
+    "Return the mason jar to the oven and bake for an additional 5-7 minutes, or until the broccoli is tender and the glaze is caramelized.",
+    "Remove the mason jar from the oven and let it cool slightly.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easier",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "yummy-charcoal-glazed-egyptian-broccoli-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-charcoal-glazed-egyptian-broccoli-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:31:37Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "broccoli",
+    "descriptor": "yummy charcoal-glazed",
+    "dishForm": "Tagine"
+  }
+}

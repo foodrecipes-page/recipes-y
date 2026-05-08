@@ -1311,6 +1311,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-fluffy-norwegian-serrano-ham-frittata",
+    "title": "Yellow Fluffy Norwegian Serrano Ham Frittata",
+    "tags": [
+      "high-protein",
+      "norwegian-cuisine",
+      "one-pan",
+      "pescatarian-friendly",
+      "quick-fix",
+      "sous-vide"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-fold-delight",
     "title": "Yellow Fold Delight",
     "tags": [
@@ -3719,6 +3734,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 15,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-charcoal-glazed-egyptian-broccoli-tagine",
+    "title": "Egyptian Charcoal-Glazed Broccoli Tagine",
+    "tags": [
+      "easier",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 27,
     "shard": "y"
   },
   {

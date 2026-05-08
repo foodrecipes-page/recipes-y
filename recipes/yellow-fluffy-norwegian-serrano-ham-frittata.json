@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Fluffy Norwegian Serrano Ham Frittata",
+  "description": "A quick and easy Norwegian dish featuring serrano ham, perfect for a pescatarian friendly meal, this frittata is jammy and fluffy on the inside and golden on the outside, made with the help of sous vide for precise temperature control.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "serrano ham",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "such as cheddar or mozzarella"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 160 degrees Fahrenheit.",
+    "Whisk the eggs in a bowl and season with salt and black pepper.",
+    "Add the diced serrano ham, grated cheese, and chopped parsley to the bowl and mix well.",
+    "Heat the butter in a skillet over medium heat.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the sous vide machine and cook for 20 minutes.",
+    "Remove the skillet from the sous vide machine and use a spatula to gently lift and fold the edges of the frittata towards the center.",
+    "Return the skillet to the sous vide machine and cook for an additional 5 minutes.",
+    "Remove the skillet from the sous vide machine and let it cool for a few minutes.",
+    "Slice the frittata into wedges and serve with a dollop of sour cream on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "norwegian-cuisine",
+    "one-pan",
+    "pescatarian-friendly",
+    "quick-fix",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-fluffy-norwegian-serrano-ham-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-fluffy-norwegian-serrano-ham-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:32:00Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "serrano ham",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "serrano ham",
+    "descriptor": "Yellow Fluffy",
+    "dishForm": "Frittata"
+  }
+}

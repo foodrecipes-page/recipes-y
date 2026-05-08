@@ -1,0 +1,116 @@
+{
+  "title": "yummy venezuelan asparagus bake",
+  "description": "umami and chewy venezuelan dish featuring asparagus and bake, low-calorie-friendly. perfect for a solo dinner",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chorizo",
+      "amount": "4 ounces",
+      "notes": "optional, for extra umami flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1/4 cup",
+      "notes": "+ extra for serving, if desired"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "+ extra for serving, if desired"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "+ garnish, if desired"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400°f (200°c).",
+    "trim asparagus and cut into 1-inch pieces.",
+    "in a large skillet, sauté onion and garlic until softened, about 5 minutes.",
+    "add chorizo (if using), chicken broth, and cook until liquid is almost completely evaporated, about 3 minutes.",
+    "in a separate bowl, whisk eggs and season with salt and pepper.",
+    "in a greased 9x13-inch baking dish, arrange asparagus in an even layer.",
+    "sprinkle all-purpose flour over asparagus, then top with onion-garlic mixture, followed by eggs, and finally gruyère cheese.",
+    "dot top of bake with butter.",
+    "bake for 20 minutes, then increase oven temperature to broil and cook for an additional 2-3 minutes, or until cheese is melted and bubbly.",
+    "let cool for 5 minutes before serving, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus",
+    "cheese",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "yummy-venezuelan-asparagus-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-venezuelan-asparagus-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:30:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "asparagus",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "asparagus",
+    "descriptor": "yummy",
+    "dishForm": "bake"
+  }
+}

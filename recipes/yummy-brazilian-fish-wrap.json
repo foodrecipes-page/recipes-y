@@ -1,0 +1,98 @@
+{
+  "title": "Yummy Brazilian Fish Wrap",
+  "description": "A briny and indulgent Brazilian dish featuring sauce and bonito shave, wrapped in a lotus leaf",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "black"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Rinse the cod fish and pat dry with paper towels.",
+    "Shave the bonito flakes over the cod fish.",
+    "Drizzle the coconut milk and lime juice over the fish.",
+    "Wrap each piece of fish in a lotus leaf.",
+    "Drizzle the olive oil over the lotus leaves.",
+    "Season with salt and pepper to taste.",
+    "Place the wraps on a baking sheet and bake for 12 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "fish-recipes",
+    "high-protein",
+    "kosher-friendly",
+    "lotus-leaf-wraps"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yummy-brazilian-fish-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-brazilian-fish-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:09:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "fish",
+    "descriptor": "yummy aerated",
+    "dishForm": "Wrap"
+  }
+}

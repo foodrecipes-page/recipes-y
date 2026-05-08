@@ -6274,6 +6274,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-brazilian-fish-wrap",
+    "title": "Yummy Brazilian Fish Wrap",
+    "tags": [
+      "brazilian-cuisine",
+      "fish-recipes",
+      "high-protein",
+      "kosher-friendly",
+      "lotus-leaf-wraps"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 32,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-british-chinese-leaf-wrap",
     "title": "Yummy British Chinese Leaf Wrap",
     "tags": [

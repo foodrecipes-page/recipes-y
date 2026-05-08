@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Spicy Korean Sevaiiya Noodles",
+  "description": "A spicy and crunchy one-pot Korean dish featuring sevaiiya, made in a robata-grill vessel with sous-vide technique, this kosher-friendly meal is perfect for dinner",
+  "cuisine": "Korean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sevaiiya noodles",
+      "amount": "200g",
+      "notes": "preferably yellow colored"
+    },
+    {
+      "name": "Gochujang sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Crushed garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "400ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill vessel to 400 degrees Fahrenheit",
+    "In a bowl, whisk together gochujang sauce, sesame oil, crushed garlic, grated ginger, salt, and black pepper",
+    "Add the sevaiiya noodles to the bowl and toss to coat with the sauce mixture",
+    "Add the sliced green onions and toasted sesame seeds to the bowl and toss to combine",
+    "Add the water to the robata-grill vessel and bring to a boil",
+    "Add the noodle mixture to the vessel and cook for 10 minutes with the lid on",
+    "Use the sous-vide technique to cook the noodles at 190 degrees Fahrenheit for 30 minutes",
+    "Remove the lid and stir-fry the noodles for 2 minutes",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "noodle-recipes",
+    "one-pot",
+    "robata-grill",
+    "sous-vide",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "yellow-spicy-korean-sevaiiya-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-korean-sevaiiya-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:21:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "sevaiiya",
+    "diet": "kosher",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Noodles"
+  }
+}

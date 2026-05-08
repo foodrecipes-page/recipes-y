@@ -1,0 +1,115 @@
+{
+  "title": "Yellow Spicy Ukrainian Chickpeas Stew",
+  "description": "A spicy and comforting Ukrainian stew featuring chickpeas, infused oil, and Buddhist temple friendly ingredients, perfect for a sick day. This dish is easy to make and packed with nutrients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "infused oil",
+      "amount": "2 tablespoons",
+      "notes": "chili and garlic"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Stir in the ground turmeric, cumin, smoked paprika, salt, and black pepper.",
+    "Add the chickpeas, vegetable broth, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the flavors have melded together.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh herbs or a dollop of yogurt if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-spicy-ukrainian-chickpeas-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-ukrainian-chickpeas-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:32:16Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chickpeas",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Stew"
+  }
+}

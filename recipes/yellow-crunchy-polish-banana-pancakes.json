@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Crunchy Polish Banana Pancakes",
+  "description": "A rich and crunchy Polish dish featuring bananas and confit tomato, perfect for a solo dinner, made with low fat friendly ingredients. This recipe is a unique blend of flavors and textures.",
+  "cuisine": "Polish",
+  "diet": [
+    "low fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "3",
+      "notes": "mashed"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low fat milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "crushed almonds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and salt.",
+    "In a separate bowl, mix together mashed bananas, confit tomato, and low fat milk.",
+    "Add the egg to the banana mixture and stir until well combined.",
+    "Add the wet ingredients to the dry ingredients and stir until a smooth batter forms.",
+    "Heat a non stick pan over medium heat and add the butter.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan.",
+    "Sprinkle crushed almonds on top of each pancake.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes or until golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-recipes",
+    "crunchy-texture",
+    "easy-dinner",
+    "low-fat",
+    "polish-cuisine",
+    "quick-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "yellow-crunchy-polish-banana-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crunchy-polish-banana-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:26:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "confit-tomato",
+    "primaryIngredient": "bananas",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "bananas",
+    "descriptor": "Yellow Crunchy",
+    "dishForm": "Pancakes"
+  }
+}

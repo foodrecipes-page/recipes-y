@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Nutty Vietnamese Tofu Bun Thit Nuong",
+  "description": "A nutty and light Vietnamese dish featuring shallots and tofu, perfect for a midnight craving, served in a scallop shell vessel",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets",
+      "notes": "cut into scallop shell shapes"
+    },
+    {
+      "name": "nuoc cham sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice vermicelli",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a small bowl, whisk together nuoc cham sauce and chopped peanuts",
+    "In a separate bowl, toss tofu cubes with a pinch of salt and a grind of black pepper",
+    "Place a sheet of papillote paper on a flat surface and arrange a small amount of rice vermicelli in the center",
+    "Top the vermicelli with a few slices of shallots, a few pieces of tofu, and a sprinkle of pickled carrots",
+    "Drizzle the nuoc cham sauce mixture over the top of the filling",
+    "Fold the papillote paper over the filling to form a scallop shell shape and press the edges to seal",
+    "Repeat the process with the remaining ingredients",
+    "Place the filled papillote papers on a baking sheet and bake for 12 minutes",
+    "Garnish with chopped cilantro and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "midnight-cravings",
+    "papillote-recipes",
+    "snack-ideas",
+    "tofu-recipes",
+    "vegan-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "yellowed-nutty-vietnamese-tofu-bun-thit-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-nutty-vietnamese-tofu-bun-thit-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:26:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "papillote",
+    "primaryIngredient": "shallots",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Yellowed Nutty",
+    "dishForm": "Bun Thit Nuong"
+  }
+}

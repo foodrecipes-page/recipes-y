@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Molten Ukrainian Pork Dumplings",
+  "description": "A traditional Ukrainian dish featuring pork dumplings with a sweet and spicy twist, made with gochujang and fermented ingredients, sugar-free-friendly. This recipe is perfect for a midnight craving.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, gochujang, sauerkraut, egg, onion, garlic, salt, and pepper, and mix until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to cook, bring a large pot of salted water to a boil.",
+    "Using a spoon, drop small balls of the pork mixture into the boiling water, about 1 tablespoon each.",
+    "Cook the dumplings for 5-7 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot.",
+    "Garnish with chopped fresh herbs, such as parsley or dill, if desired.",
+    "Serve the dumplings with a side of sour cream or applesauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gochujang-recipes",
+    "midnight-cravings",
+    "pork-dumplings",
+    "sugar-free",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-molten-ukrainian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-molten-ukrainian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:26:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "gochujang",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "Yellow molten",
+    "dishForm": "Dumplings"
+  }
+}

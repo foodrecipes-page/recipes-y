@@ -1271,6 +1271,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crunchy-polish-banana-pancakes",
+    "title": "Yellow Crunchy Polish Banana Pancakes",
+    "tags": [
+      "banana-recipes",
+      "crunchy-texture",
+      "easy-dinner",
+      "low-fat",
+      "polish-cuisine",
+      "quick-recipes",
+      "vegetarian"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crunchy-spanish-cheese-paella",
     "title": "Yellow Crunchy Spanish Cheese Paella",
     "tags": [
@@ -1758,6 +1774,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-molten-ukrainian-pork-dumplings",
+    "title": "Yellow Molten Ukrainian Pork Dumplings",
+    "tags": [
+      "comfort-food",
+      "gochujang-recipes",
+      "midnight-cravings",
+      "pork-dumplings",
+      "sugar-free",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -3035,6 +3066,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-nutty-vietnamese-tofu-bun-thit-nuong",
+    "title": "Yellowed Nutty Vietnamese Tofu Bun Thit Nuong",
+    "tags": [
+      "midnight-cravings",
+      "papillote-recipes",
+      "snack-ideas",
+      "tofu-recipes",
+      "vegan-friendly",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 32,
     "shard": "y"
   },
   {

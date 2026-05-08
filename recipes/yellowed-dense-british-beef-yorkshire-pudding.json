@@ -1,0 +1,89 @@
+{
+  "title": "Yellowed Dense British Beef Yorkshire Pudding",
+  "description": "A traditional British dish featuring a dense and fatty Yorkshire pudding made with 00-flour, served with beef, this recipe is Whole30-friendly and kid-friendly.",
+  "cuisine": "British",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "00-flour",
+      "amount": "2 cups",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "beef drippings",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cooked and diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the 00-flour, eggs, whole milk, salt, and black pepper until smooth.",
+    "Heat the beef drippings in a kadhai over medium heat.",
+    "Pour the batter into the kadhai and cook for 2 minutes.",
+    "Transfer the kadhai to the preheated oven and cook for 20 minutes, or until the pudding is golden brown and puffed.",
+    "Remove the pudding from the oven and let it cool for 5 minutes.",
+    "Serve the pudding with the cooked and diced beef.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "british-classics",
+    "kid-friendly",
+    "one-pan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-dense-british-beef-yorkshire-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-dense-british-beef-yorkshire-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:16:32Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "00-flour",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef",
+    "descriptor": "Yellowed Dense",
+    "dishForm": "Yorkshire Pudding"
+  }
+}

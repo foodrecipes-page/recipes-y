@@ -1045,6 +1045,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crisp-chinese-goats-cheese-spring-rolls",
+    "title": "Yellow Crisp Chinese Goats Cheese Spring Rolls",
+    "tags": [
+      "asian-inspired",
+      "cheesy",
+      "comfort-food",
+      "deep-fried",
+      "snack-time"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 32,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crisp-chinese-squid-salt-and-pepper-squid",
     "title": "Yellow Crisp Chinese Squid Salt And Pepper Squid",
     "tags": [
@@ -2368,6 +2382,20 @@
       "weeknight"
     ],
     "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-dense-british-beef-yorkshire-pudding",
+    "title": "Yellowed Dense British Beef Yorkshire Pudding",
+    "tags": [
+      "beef-recipes",
+      "british-classics",
+      "kid-friendly",
+      "one-pan",
+      "whole30"
+    ],
+    "cuisine": "British",
     "totalTimeMin": 40,
     "shard": "y"
   },

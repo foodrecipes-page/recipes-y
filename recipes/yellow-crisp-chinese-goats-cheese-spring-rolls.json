@@ -1,0 +1,91 @@
+{
+  "title": "Yellow Crisp Chinese Goats Cheese Spring Rolls",
+  "description": "A salty and crisp Chinese dish featuring goats cheese, perfect for a sick day, made with agemono deep fry method and dash friendly ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "spring roll wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix the crumbly goats cheese with soy sauce, sesame oil, scallions, salt, and pepper.",
+    "Lay a spring roll wrapper on a flat surface and place 1 tablespoon of the cheese mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a small amount of water and fold the wrapper into a triangle, pressing the edges to seal.",
+    "Repeat the process with the remaining wrappers and cheese mixture.",
+    "Carefully place the spring rolls in the hot oil and fry until golden brown, about 3-4 minutes on each side.",
+    "Remove the spring rolls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the yellow crisp Chinese goats cheese spring rolls hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "cheesy",
+    "comfort-food",
+    "deep-fried",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "yellow-crisp-chinese-goats-cheese-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crisp-chinese-goats-cheese-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:15:49Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "goats cheese",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "goats cheese",
+    "descriptor": "Yellow Crisp",
+    "dishForm": "Spring-Rolls"
+  }
+}

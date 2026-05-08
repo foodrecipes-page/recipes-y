@@ -1,0 +1,116 @@
+{
+  "title": "Yellow Glazed Italian Horseradish Bigoli",
+  "description": "A bitter and snappy Italian dish featuring horseradish and a sweet yellow glaze, served with bigoli pasta for a comforting meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bigoli pasta",
+      "amount": "12 oz",
+      "notes": "made from gluten-free ingredients"
+    },
+    {
+      "name": "fresh horseradish",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "yellow glaze ingredients",
+      "amount": "1/2 cup",
+      "notes": "see below for ingredients"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "yellow glaze ingredient 1",
+      "amount": "1/4 cup",
+      "notes": "lemon juice"
+    },
+    {
+      "name": "yellow glaze ingredient 2",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "yellow glaze ingredient 3",
+      "amount": "2 tbsp",
+      "notes": "dijon mustard"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bigoli pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the grated horseradish to the skillet and cook for 1-2 minutes until slightly softened.",
+    "In a small bowl, whisk together the lemon juice, olive oil, and dijon mustard to make the yellow glaze.",
+    "Add the chicken broth to the skillet and bring to a simmer.",
+    "Add the cooked bigoli pasta to the skillet, tossing to combine with the horseradish and garlic mixture.",
+    "Pour the yellow glaze over the pasta and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the bigoli pasta hot, topped with shaved grana padano cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "italian-cuisine",
+    "keto-friendly",
+    "one-pot",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "yellow-glazed-italian-horseradish-bigoli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-glazed-italian-horseradish-bigoli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:36:15Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "glaze",
+    "primaryIngredient": "horseradish",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "horseradish",
+    "descriptor": "Yellow Glazed",
+    "dishForm": "Bigoli"
+  }
+}

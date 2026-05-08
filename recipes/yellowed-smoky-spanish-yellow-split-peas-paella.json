@@ -1,0 +1,92 @@
+{
+  "title": "Yellowed Smoky Spanish Yellow Split Peas Paella",
+  "description": "A plant-based Andalusian dish featuring yellow split peas and wok-hei, perfect for a weeknight dinner. This paella is a grassy, aerated meal-prep option.",
+  "cuisine": "Spanish",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the garlic and onion and cook until the onion is translucent.",
+    "Add the bell pepper and cook until it starts to soften.",
+    "Add the smoked paprika and cook for 1 minute.",
+    "Add the yellow split peas, salt, and 2 cups of water to the pan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the tomato to the pan and cook for an additional 5 minutes.",
+    "Stir the paella constantly over high heat for 2 minutes to achieve the wok-hei effect."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "one-pan",
+    "plant-based",
+    "smoky",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellowed-smoky-spanish-yellow-split-peas-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-spanish-yellow-split-peas-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:34:28Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "wok-hei",
+    "primaryIngredient": "yellow split peas",
+    "diet": "plant-based",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "yellow split peas",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Paella"
+  }
+}

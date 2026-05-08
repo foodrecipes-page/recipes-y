@@ -1,0 +1,99 @@
+{
+  "title": "Youthful Yellow Jamaican Frankfurter Stew",
+  "description": "A fresh and flavorful Jamaican stew featuring frankfurter, pickle, and spices, cooked to perfection in a cataplana vessel, suitable for Jain dietary preferences. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frankfurter",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the cataplana vessel over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the chopped bell pepper and cook for an additional 2 minutes.",
+    "Add the sliced frankfurter and cook until browned.",
+    "Add the diced pickle, curry powder, salt, and pepper, and stir to combine.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 10 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana-recipe",
+    "jain-friendly",
+    "jamaican-cuisine",
+    "one-pot",
+    "vegetarian-option",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "youthful-yellow-jamaican-frankfurter-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-yellow-jamaican-frankfurter-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:07:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "frankfurter",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "frankfurter",
+    "descriptor": "youthful yellow",
+    "dishForm": "Stew"
+  }
+}

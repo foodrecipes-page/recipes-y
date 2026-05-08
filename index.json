@@ -878,6 +878,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-braised-portuguese-seitan-burger",
+    "title": "Yellow Braised Portuguese Seitan Burger",
+    "tags": [
+      "comfort-food",
+      "lazy-sunday",
+      "portuguese",
+      "seitan",
+      "sesame-seed",
+      "vegan"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-brown-greek-beef-stifado",
     "title": "Yellow Brown Greek Beef Stifado",
     "tags": [

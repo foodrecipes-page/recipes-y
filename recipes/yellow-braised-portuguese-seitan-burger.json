@@ -1,0 +1,108 @@
+{
+  "title": "Yellow Braised Portuguese Seitan Burger",
+  "description": "A vegan friendly Portuguese dish featuring a fatty and velvety seitan burger, served on a sesame seed bun. It is a perfect lazy Sunday meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 package",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "sesame seed buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "port wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the seitan and cook until it is browned on all sides.",
+    "Add the port wine, vegetable broth, tomato paste, smoked paprika, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "While the seitan is cooking, toast the sesame seed buns.",
+    "Assemble the burgers by placing the cooked seitan on the toasted buns.",
+    "Serve the burgers hot, garnished with chopped fresh parsley or cilantro.",
+    "Let the burgers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lazy-sunday",
+    "portuguese",
+    "seitan",
+    "sesame-seed",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellow-braised-portuguese-seitan-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-braised-portuguese-seitan-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:08:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "seitan",
+    "descriptor": "Yellow Braised",
+    "dishForm": "Burger"
+  }
+}

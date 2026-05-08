@@ -3192,6 +3192,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-sunny-turkish-corn-pilaf",
+    "title": "Yellow Sunny Turkish Corn Pilaf",
+    "tags": [
+      "gluten-free",
+      "one-pot",
+      "sous-vide",
+      "turkish-cuisine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-tunisian-lentil-tagine",
     "title": "Yellow Tunisian Lentil Tagine",
     "tags": [

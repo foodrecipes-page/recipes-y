@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Sunny Turkish Corn Pilaf",
+  "description": "A tangy and light Turkish dish featuring white cornmeal, perfect for a weeknight dinner, made using sous-vide for consistent results and is nut-free-friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornmeal, water, olive oil, salt, and black pepper.",
+    "Add the lemon juice and minced garlic to the bowl and stir to combine.",
+    "Pour the mixture into a sous-vide bag and seal the bag, making sure to remove as much air as possible.",
+    "Place the bag in the preheated sous-vide machine and cook for 30 minutes.",
+    "Remove the bag from the machine and carefully cut it open, pouring the pilaf into a serving dish.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Let the pilaf cool to room temperature before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "sous-vide",
+    "turkish-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "yellow-sunny-turkish-corn-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-sunny-turkish-corn-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:54:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "white cornmeal",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "corn",
+    "descriptor": "Yellow Sunny",
+    "dishForm": "Pilaf"
+  }
+}

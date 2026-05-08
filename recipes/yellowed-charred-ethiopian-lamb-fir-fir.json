@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Charred Ethiopian Lamb Fir Fir",
+  "description": "A charred, tender, solo-dinner Ethiopian dish featuring gherkin relish, fold, low-calorie-friendly, in the form of fir-fir.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into small pieces"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "injera bread",
+      "amount": "2 pieces",
+      "notes": "torn into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, berbere spice, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Spread the lamb pieces on a baking sheet and roast in the oven for 20 minutes.",
+    "While the lamb is cooking, heat a large skillet over medium-high heat.",
+    "Add the chopped onion to the skillet and cook until it is lightly charred.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the gherkin relish to the skillet and stir to combine with the onion and garlic.",
+    "Once the lamb is done, add it to the skillet and stir to combine with the relish mixture.",
+    "Add the torn injera bread to the skillet and stir to combine with the lamb and relish mixture.",
+    "Cook for an additional 2 minutes, stirring constantly, until the bread is lightly toasted."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-charred-ethiopian-lamb-fir-fir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-charred-ethiopian-lamb-fir-fir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:56:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "fold",
+    "primaryIngredient": "gherkin relish",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Charred",
+    "dishForm": "Fir Fir"
+  }
+}

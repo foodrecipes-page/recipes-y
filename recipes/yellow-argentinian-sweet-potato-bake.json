@@ -1,0 +1,91 @@
+{
+  "title": "Yellow Argentinian Sweet Potato Bake",
+  "description": "A light and flavorful Argentinian dish featuring sweet potatoes, coriander, and a jammy texture, this bake is perfect for a weeknight dinner. It is also ayurvedic-tamasic-friendly, making it a great option for those looking for a balancing meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "yellow variety"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Peel and chop the sweet potatoes into 1-inch cubes.",
+    "In a large bowl, toss the sweet potatoes with olive oil, coriander seeds, salt, black pepper, garlic powder, paprika, and chili flakes until they are evenly coated.",
+    "Transfer the sweet potatoes to a baking dish and bake for 45 minutes.",
+    "After 45 minutes, increase the oven temperature to 425 degrees and continue baking for an additional 15 minutes, or until the sweet potatoes are tender and caramelized.",
+    "Remove the sweet potatoes from the oven and let them cool for a few minutes before serving.",
+    "Serve the sweet potatoes hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "one-pan",
+    "sweet-potato",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "yellow-argentinian-sweet-potato-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-argentinian-sweet-potato-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:24:47Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "coriander",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "yellow baked",
+    "dishForm": "Bake"
+  }
+}

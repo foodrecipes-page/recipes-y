@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Delicate Russian Almond Stir Fry",
+  "description": "A light and fresh Russian dish featuring almond butter and stir-fry, perfect for a shojin-friendly meal. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced yellow bell pepper and cook until it is tender.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "Stir in the almond butter, soy sauce, salt, and black pepper.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Serve the stir-fry hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pan",
+    "quick-meal",
+    "russian-cuisine",
+    "shojin-friendly",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "yellow-delicate-russian-almond-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-delicate-russian-almond-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:50:29Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "almond butter",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "almonds",
+    "descriptor": "Yellow Delicate",
+    "dishForm": "Stir-fry"
+  }
+}

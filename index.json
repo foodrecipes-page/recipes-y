@@ -1628,6 +1628,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crispy-moroccan-chicken-tagine",
+    "title": "Yellow Crispy Moroccan Chicken Tagine",
+    "tags": [
+      "chicken-recipes",
+      "gluten-free",
+      "moroccan-cuisine",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crispy-moroccan-lamb-couscous-royal",
     "title": "Yellow Crispy Moroccan Lamb Couscous Royal",
     "tags": [
@@ -1806,6 +1820,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-delicate-russian-almond-stir-fry",
+    "title": "Yellow Delicate Russian Almond Stir Fry",
+    "tags": [
+      "one-pan",
+      "quick-meal",
+      "russian-cuisine",
+      "shojin-friendly",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

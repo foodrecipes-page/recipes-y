@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Crispy Moroccan Chicken Tagine",
+  "description": "A sweet and crispy one-pot Moroccan dish featuring applesauce and miso-marinated chicken, perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 3 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Stir in the miso paste, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the applesauce to the pot and stir to combine.",
+    "Return the chicken to the pot and bring the mixture to a simmer.",
+    "Reduce the heat to medium-low and cook, covered, until the chicken is cooked through, about 20 minutes.",
+    "Increase the heat to medium-high and cook, uncovered, until the sauce has thickened and the chicken is crispy, about 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "moroccan-cuisine",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-crispy-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crispy-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:51:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "miso-marinate",
+    "primaryIngredient": "applesauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Crispy",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Juicy Turkish Spaghetti Icli Kofte",
+  "description": "A rich and festive Turkish dish featuring spaghetti and juicy kofte, low in sodium and perfect for special occasions.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the spaghetti in boiling water until al dente, then set aside.",
+    "In a large bowl, combine the ground beef, chopped onion, bulgur, parsley, black pepper, and paprika, and mix well.",
+    "Using your hands, shape the mixture into small kofte and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the kofte and gently roll them to coat evenly.",
+    "Poach the kofte in simmering water for 10 minutes, or until cooked through.",
+    "In a large serving dish, combine the cooked spaghetti and kofte, and toss to combine.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "juicy-kofte",
+    "low-sodium",
+    "middle-eastern",
+    "spaghetti-recipe",
+    "special-occasion",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellowed-juicy-turkish-spaghetti-icli-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-juicy-turkish-spaghetti-icli-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:25:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "poach",
+    "primaryIngredient": "spaghetti",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "spaghetti",
+    "descriptor": "Yellowed Juicy",
+    "dishForm": "Icli Kofte"
+  }
+}

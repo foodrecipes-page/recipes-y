@@ -1,0 +1,90 @@
+{
+  "title": "Kenyan Ice Cream Parfait",
+  "description": "A fresh and velvety Kenyan dessert featuring ice cream and infused oil, perfect for a sick day pick me up",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vanilla Ice Cream",
+      "amount": "1 pint",
+      "notes": "halal certified"
+    },
+    {
+      "name": "Infused Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "with cardamom and cinnamon"
+    },
+    {
+      "name": "Fresh Mango",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh Pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": " Toasted Coconut Flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped Pecans",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the diced mango and pineapple",
+    "In a small bowl, mix together the infused coconut oil and honey",
+    "Pour the oil and honey mixture over the fruit mixture and stir until well combined",
+    "Scoop the vanilla ice cream into individual serving cups",
+    "Top each scoop of ice cream with the fruit and oil mixture",
+    "Sprinkle toasted coconut flakes and chopped pecans over the top of each parfait",
+    "Serve immediately and enjoy",
+    "Garnish with additional fresh fruit and nuts if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-oil",
+    "easy-to-make",
+    "fruit-based",
+    "halal-friendly",
+    "ice-cream",
+    "kenyan-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "yummy-velvety-kenyan-ice-cream-parfait",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-velvety-kenyan-ice-cream-parfait",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:54:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "infuse-oil",
+    "primaryIngredient": "ice cream",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "ice cream",
+    "descriptor": "yummy velvety",
+    "dishForm": "Parfait"
+  }
+}

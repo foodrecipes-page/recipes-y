@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Crunchy Russian Beet Skillet",
+  "description": "A lazy Sunday Russian dish featuring bitter and crunchy beets with a sweet brown sugar flavor, perfect for a relaxing afternoon meal. This egg-free friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced beets with olive oil, salt, black pepper, garlic powder, and paprika until they are evenly coated.",
+    "Heat a large oven-safe skillet over medium-high heat and add the beet mixture.",
+    "Cook the beets for 5 minutes on each side, or until they are tender and lightly browned.",
+    "Sprinkle the brown sugar over the beets and stir to combine.",
+    "Transfer the skillet to the preheated broiler and cook for an additional 2-3 minutes, or until the beets are caramelized and crispy.",
+    "Remove the skillet from the oven and sprinkle with chopped fresh dill, if desired.",
+    "Serve the beets hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beet-recipes",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "russian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "yellowed-crunchy-russian-beet-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crunchy-russian-beet-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:15:43Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "broil",
+    "primaryIngredient": "brown sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beets",
+    "descriptor": "Yellowed crunchy",
+    "dishForm": "Skillet"
+  }
+}

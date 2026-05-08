@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Savory Uruguayan Chinese Leaf Skewers",
+  "description": "A savory and adventurous Uruguayan dish featuring Chinese leaf, perfect for those looking for a sugar-free friendly option. This shaggy skewer is full of flavor and texture.",
+  "cuisine": "Uruguayan Chinese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese leaf",
+      "amount": "1 bunch",
+      "notes": "also known as bok choy"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "onions",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Cut the Chinese leaf into large pieces and set aside.",
+    "In a blender, combine olive oil, garlic, and ginger to make a marinade.",
+    "Cut the chicken breast into bite sized pieces and add to the marinade.",
+    "Cut the bell peppers and onions into large pieces.",
+    "Alternate threading the chicken, Chinese leaf, bell peppers, and onions onto skewers.",
+    "Brush the skewers with soy sauce.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-influence",
+    "dinner-ideas",
+    "gluten-free",
+    "grilled-vegetables",
+    "sugar-free",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "yellowed-savory-uruguayan-chinese-leaf-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-savory-uruguayan-chinese-leaf-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:56:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "fold",
+    "primaryIngredient": "chinese leaf",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chinese leaf",
+    "descriptor": "Yellowed Savory",
+    "dishForm": "Skewers"
+  }
+}

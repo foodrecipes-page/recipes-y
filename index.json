@@ -2194,6 +2194,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-peppery-middle-eastern-eggs-knafeh",
+    "title": "Yellow Peppery Middle Eastern Eggs Knafeh",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "high-protein",
+      "middle-eastern",
+      "phyllo-dough",
+      "pressure-cooker"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-peruvian-lamb-seco-de-cordero",
     "title": "Yellow Peruvian Lamb Seco De Cordero",
     "tags": [
@@ -4107,6 +4122,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-savory-uruguayan-chinese-leaf-skewers",
+    "title": "Yellowed Savory Uruguayan Chinese Leaf Skewers",
+    "tags": [
+      "chinese-influence",
+      "dinner-ideas",
+      "gluten-free",
+      "grilled-vegetables",
+      "sugar-free",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan Chinese",
+    "totalTimeMin": 32,
     "shard": "y"
   },
   {

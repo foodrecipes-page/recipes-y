@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Peppery Middle Eastern Eggs Knafeh",
+  "description": "A peppery and pillowy Middle Eastern dish featuring eggs, perfect for a sick day, made with a pressure cooker and high in protein. This knafeh-style dish is a unique twist on traditional Middle Eastern cuisine.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "shredded phyllo dough",
+      "amount": "1 cup",
+      "notes": "frozen, thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": "none"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "none"
+    },
+    {
+      "name": "akawi cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "none"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, sugar, black pepper, and salt until well combined.",
+    "Add the melted butter, akawi cheese, and chopped parsley to the bowl and stir until the cheese is fully incorporated.",
+    "Layer the shredded phyllo dough in a 9-inch springform pan, brushing each layer with a little bit of melted butter.",
+    "Pour the egg mixture over the phyllo dough and smooth the top.",
+    "Cover the pan with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top is golden brown.",
+    "Remove the knafeh from the oven and let it cool for 10 minutes before slicing and serving.",
+    "Use a pressure cooker to cook the knafeh for 10 minutes, then let the pressure release naturally for 5 minutes, if desired, for a quicker cooking time."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "high-protein",
+    "middle-eastern",
+    "phyllo-dough",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "yellow-peppery-middle-eastern-eggs-knafeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-peppery-middle-eastern-eggs-knafeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:55:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "pressure-cook",
+    "primaryIngredient": "eggs",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggs",
+    "descriptor": "Yellow Peppery",
+    "dishForm": "Knafeh"
+  }
+}

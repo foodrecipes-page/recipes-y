@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Glazed Middle Eastern Bread Fattoush",
+  "description": "A sweet and tangy Middle Eastern dish featuring plum jam and a yellow glaze, served in a copper mug.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pita bread",
+      "amount": "4 pieces",
+      "notes": "toasted"
+    },
+    {
+      "name": "plum jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yellow glaze",
+      "amount": "1/4 cup",
+      "notes": "made with mustard and honey"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toast the pita bread until it is crispy and golden brown.",
+    "In a small bowl, whisk together the yellow glaze and lemon juice.",
+    "In a large bowl, combine the mixed greens, cucumber, tomato, and red onion.",
+    "Drizzle the yellow glaze mixture over the top of the salad and toss to combine.",
+    "Brush the toasted pita bread with olive oil and sprinkle with sumac.",
+    "Break the pita bread into small pieces and add it to the salad.",
+    "Drizzle the plum jam over the top of the salad and serve in a copper mug."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "copper-mug",
+    "middle-eastern",
+    "plum-jam",
+    "snack",
+    "vegan",
+    "vegetarian",
+    "yellow-glaze"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "yellow-glazed-middle-eastern-bread-fattoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-glazed-middle-eastern-bread-fattoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:40:48Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "glaze",
+    "primaryIngredient": "plum jam",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "bread",
+    "descriptor": "Yellow Glazed",
+    "dishForm": "Fattoush"
+  }
+}

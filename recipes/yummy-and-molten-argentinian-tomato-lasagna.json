@@ -1,0 +1,130 @@
+{
+  "title": "argentinian-tomato-lasagna",
+  "description": "buttery, molten dish featuring tomato and ferment-kimchi in a lacto-vegetarian-friendly argentinian style. perfect for a dinner gathering",
+  "cuisine": "argentinian",
+  "diet": [
+    "lacto-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "12-16",
+      "notes": ""
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground beef fat or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400°f (200°c).",
+    "cook the lasagna noodles according to the package instructions and set aside.",
+    "in a large saucepan, sauté the onion and garlic until the onion is translucent.",
+    "add the ground beef fat or vegetable oil to the saucepan and stir to combine with the onion and garlic.",
+    "add the tomato paste to the saucepan and cook for 1-2 minutes, stirring constantly.",
+    "add the diced tomatoes to the saucepan and stir to combine with the tomato paste and onion mixture.",
+    "bring the sauce to a simmer and let it cook for 5-10 minutes, stirring occasionally.",
+    "in a large bowl, combine the cooked lasagna noodles, tomato sauce, mozzarella cheese, and fresh cilantro.",
+    "mix well to combine the ingredients.",
+    "in a baking dish, create a layer of the tomato sauce followed by a layer of the noodle mixture. repeat this process until all the ingredients are used up, finishing with a layer of tomato sauce on top.",
+    "cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "remove the aluminum foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "remove the lasagna from the oven and let it cool for 10-15 minutes before serving.",
+    "serve the argentinian tomato lasagna hot, garnished with additional fresh cilantro if desired.",
+    "store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "reheat the lasagna in the oven or microwave before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dinner",
+    "lacto-vegetarian",
+    "lasagna"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "yummy-and-molten-argentinian-tomato-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-and-molten-argentinian-tomato-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "tomato",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tomato",
+    "descriptor": "yummy and molten",
+    "dishForm": "Lasagna"
+  }
+}

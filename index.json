@@ -2367,6 +2367,19 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-greek-gigantes-plaki",
+    "title": "Yellow Greek Gigantes Plaki",
+    "tags": [
+      "comfortfood",
+      "greeksoup",
+      "lentilstew",
+      "omelettealternatives"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 260,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-indian-paneer-rasmalai",
     "title": "Yellow Indian Paneer Rasmalai",
     "tags": [
@@ -6866,6 +6879,19 @@
       "weeknight"
     ],
     "cuisine": "American",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-and-molten-argentinian-tomato-lasagna",
+    "title": "argentinian-tomato-lasagna",
+    "tags": [
+      "argentinian",
+      "dinner",
+      "lacto-vegetarian",
+      "lasagna"
+    ],
+    "cuisine": "argentinian",
     "totalTimeMin": 60,
     "shard": "y"
   },

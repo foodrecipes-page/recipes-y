@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Greek Gigantes Plaki",
+  "description": "A twist on the classic Greek dish, using Shaoxing wine for added depth and sous-vide for tender beans. This recipe is ovo-vegetarian-friendly and a perfect hangover cure.",
+  "cuisine": "Greek",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gigantes beans",
+      "amount": "1 pound (450g)",
+      "notes": ""
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "2 tablespoons",
+      "notes": "you can substitute with dry white wine or omit for a non-alcoholic version"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Combine the Gigantes beans, onion, garlic, parsley, oregano, salt, and pepper in a sous-vide bag.",
+    "Add the Shaoxing wine and olive oil to the bag, sealing it tightly.",
+    "Cook the beans sous-vide at 190°F (88°C) for 4 hours.",
+    "After cooking, heat the bean mixture in a saucepan over medium heat until heated through.",
+    "Serve the Gigantes beans hot, topped with crumbled feta cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 240,
+  "totalTimeMin": 260,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfortfood",
+    "greeksoup",
+    "lentilstew",
+    "omelettealternatives"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 19,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "yellow-greek-gigantes-plaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-greek-gigantes-plaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:26:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Gigantes",
+    "descriptor": "Yellow",
+    "dishForm": "Plaki"
+  }
+}

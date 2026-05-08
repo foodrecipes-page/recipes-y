@@ -1,0 +1,98 @@
+{
+  "title": "Yellow-gold pillowy Canadian chestnuts tagine",
+  "description": "A date-night dish featuring the earthy sweetness of chestnuts, slow-cooked in a tagine with aromatic spices and wrapped in ti-leaf for a delicate presentation.",
+  "cuisine": "Canadian",
+  "diet": [
+    "sugar-free-friendly",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chestnuts (1 pound)",
+      "amount": "1 pound",
+      "notes": "fresh or canned, peeled and sliced"
+    },
+    {
+      "name": "coconut oil (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion (1 small)",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger (1 inch)",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon stick (1)",
+      "amount": "1",
+      "notes": "for flavor"
+    },
+    {
+      "name": "star anise (1)",
+      "amount": "1",
+      "notes": "for flavor"
+    },
+    {
+      "name": "ti-leaf leaves (4-6)",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine to 300°F (150°C).",
+    "Heat the coconut oil in the tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger and cook for another minute.",
+    "Add the sliced chestnuts, cinnamon stick, and star anise. Stir to combine.",
+    "Cook, covered, for 20-25 minutes, or until the chestnuts are tender.",
+    "Season with salt to taste.",
+    "Transfer the tagine to a heatproof surface and let cool slightly.",
+    "To serve, place a portion of the chestnut mixture onto a ti-leaf leaf and fold the leaf to create a package.",
+    "Serve immediately, garnished with additional ti-leaf leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chestnut-lovers",
+    "date-night",
+    "easy-gourmet",
+    "one-pan",
+    "sugar-free-friendly",
+    "vegan",
+    "weeknight",
+    "winter-special"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellow-gold-pillowy-canadian-chestnuts-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-gold-pillowy-canadian-chestnuts-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:13:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "tagine-cook",
+    "primaryIngredient": "chestnuts",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chestnuts",
+    "descriptor": "Yellow-gold pillowy",
+    "dishForm": "Tagine"
+  }
+}

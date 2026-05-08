@@ -1404,6 +1404,23 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-gold-pillowy-canadian-chestnuts-tagine",
+    "title": "Yellow-gold pillowy Canadian chestnuts tagine",
+    "tags": [
+      "chestnut-lovers",
+      "date-night",
+      "easy-gourmet",
+      "one-pan",
+      "sugar-free-friendly",
+      "vegan",
+      "weeknight",
+      "winter-special"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-gooey-australian-shrimp-skewers",
     "title": "Yellow Gooey Australian Shrimp Skewers",
     "tags": [
@@ -2641,6 +2658,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 180,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowish-brown-argentinian-beef-stew",
+    "title": "Yellowish Brown Argentinian Beef Stew",
+    "tags": [
+      "argentinian-cuisine",
+      "beef-stew",
+      "gluten-free",
+      "one-pot",
+      "pressure-cooker",
+      "sugar-free"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {

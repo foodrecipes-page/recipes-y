@@ -1,0 +1,96 @@
+{
+  "title": "Yellowish Brown Argentinian Beef Stew",
+  "description": "A hearty and savory Argentinian beef stew featuring green olives, this dish is perfect for midnight cravings and can be made without sugar.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch cubes"
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pressure cooker over medium high heat.",
+    "Add the beef cubes and cook until browned on all sides.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the green olives, beef broth, red wine, and tomato paste.",
+    "Stir to combine and bring to a boil.",
+    "Close the pressure cooker and cook for 30 minutes.",
+    "Let the pressure release naturally, then season with black pepper.",
+    "Serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-stew",
+    "gluten-free",
+    "one-pot",
+    "pressure-cooker",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "yellowish-brown-argentinian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-brown-argentinian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:13:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "green olives",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Yellowish Brown",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Yellowed Turkish Fenugreek Kunefe",
+  "description": "A sour and chewy Turkish dish featuring fenugreek, shaped like nigiri and served in a lacquerware bowl, this kunefe is a quick fix for a low calorie friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fenugreek leaves",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "kunefe cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the fenugreek leaves and pat them dry with a paper towel.",
+    "In a bowl, mix together the shredded kunefe cheese, water, lemon juice, olive oil, salt, and black pepper.",
+    "Add the fenugreek leaves to the bowl and mix until they are well coated with the cheese mixture.",
+    "Using your hands, shape the mixture into small nigiri shapes.",
+    "Place the shaped kunefe in a lacquerware bowl.",
+    "Serve the Yellowed Turkish Fenugreek Kunefe immediately.",
+    "Garnish with additional fenugreek leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy-snack",
+    "low-calorie",
+    "quick-fix",
+    "turkish-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 5
+  },
+  "slug": "yellowed-turkish-fenugreek-kunefe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-turkish-fenugreek-kunefe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:19:06Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "fenugreek",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fenugreek",
+    "descriptor": "Yellowed Chewy",
+    "dishForm": "Kunefe"
+  }
+}

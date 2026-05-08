@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Roasted Kenyan Lentil Stew",
+  "description": "A traditional Kenyan one-pot dish featuring roasted lentils and coco sugar, with a bitter and springy texture, made with ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "coco sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the lentils, coco sugar, turmeric, cumin, salt, and pepper, and stir to combine.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Roast in the oven at 400 degrees for 20 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "kenyan",
+    "lentil-stew",
+    "one-pot",
+    "roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-roasted-kenyan-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-roasted-kenyan-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:17:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "coco sugar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lentils",
+    "descriptor": "Yellow Roasted",
+    "dishForm": "Stew"
+  }
+}

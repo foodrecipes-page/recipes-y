@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Smoked Croatian Lamb Tagine",
+  "description": "A winey and aerated Croatian dish featuring hot smoked paprika, this midnight-craving tagine is made with air-fried lamb and cooked in a ceramic tagine vessel, following ayurvedic-sattvic-friendly principles.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Season the lamb cubes with salt, black pepper, and hot smoked paprika.",
+    "Air-fry the lamb cubes in batches until browned on all sides, about 5 minutes per batch.",
+    "Heat the olive oil in the ceramic tagine vessel over medium heat.",
+    "Add the chopped onion to the tagine vessel and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the tagine vessel and cook for 1 minute.",
+    "Add the browned lamb cubes, dry white wine, and chicken broth to the tagine vessel.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1.5 hours.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "dairy-free",
+    "gluten-free",
+    "lamb-based",
+    "one-pot",
+    "smoky",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "yellow-smoked-croatian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoked-croatian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:17:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "air-fry",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Smoked",
+    "dishForm": "Tagine"
+  }
+}

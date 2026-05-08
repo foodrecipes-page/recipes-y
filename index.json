@@ -2220,6 +2220,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-roasted-kenyan-lentil-stew",
+    "title": "Yellow Roasted Kenyan Lentil Stew",
+    "tags": [
+      "ayurvedic",
+      "gluten-free",
+      "kenyan",
+      "lentil-stew",
+      "one-pot",
+      "roasted",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 70,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-silky-croatian-onion-stew",
     "title": "Yellow Silky Croatian Onion Stew",
     "tags": [
@@ -2292,6 +2308,22 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-smoked-croatian-lamb-tagine",
+    "title": "Yellow Smoked Croatian Lamb Tagine",
+    "tags": [
+      "croatian-cuisine",
+      "dairy-free",
+      "gluten-free",
+      "lamb-based",
+      "one-pot",
+      "smoky",
+      "wine-based"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 120,
     "shard": "y"
   },
   {

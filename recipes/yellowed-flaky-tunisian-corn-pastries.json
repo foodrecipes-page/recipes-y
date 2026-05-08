@@ -1,0 +1,88 @@
+{
+  "title": "Tunisian Corn Pastries",
+  "description": "A floral and flaky pastry featuring creamed corn, deep-fried to a golden brown, this Tunisian dish is an indulgent treat that is friendly to low-calorie diets",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cream-style corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 inches deep in a frying pan"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the sifted flour and cornstarch",
+    "Add the cream-style corn, melted butter, orange blossom water, and salt to the bowl and mix until a dough forms",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball",
+    "Roll out each ball into a thin circle",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees",
+    "Carefully place each pastry in the hot oil and fry for 2-3 minutes on each side",
+    "Remove the pastries from the oil and place them on a paper towel-lined plate to drain excess oil"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "flaky-pastry",
+    "low-calorie",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "yellowed-flaky-tunisian-corn-pastries",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-tunisian-corn-pastries",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:00:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "creamed corn",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "corn",
+    "descriptor": "Yellowed flaky",
+    "dishForm": "Pastries"
+  }
+}

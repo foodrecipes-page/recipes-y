@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Peppered British Corn Skillet",
+  "description": "A fermented and juicy British dish featuring yellow pepper and a mother-sauce-base, cooked in an iron teppan skillet, perfect for adventurous eaters. This egg-free-friendly recipe is a unique twist on traditional Cornish cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow pepper",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cornish yarg cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan skillet over medium heat and add the olive oil.",
+    "Add the diced yellow pepper and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the corn, mother sauce, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Stir in the crumbly cornish yarg cheese until melted and well combined.",
+    "Serve the skillet hot, garnished with additional yellow pepper slices if desired.",
+    "Let the skillet cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "british-cuisine",
+    "fermented-food",
+    "gluten-free",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-peppered-british-corn-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-peppered-british-corn-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:16:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "pepper",
+    "diet": "egg-free",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "corn",
+    "descriptor": "Yellow Peppered",
+    "dishForm": "Skillet"
+  }
+}

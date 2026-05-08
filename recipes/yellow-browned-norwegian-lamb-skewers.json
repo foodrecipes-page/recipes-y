@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Browned Norwegian Lamb Skewers",
+  "description": "Smoky and juicy lamb skewers with a cozy Norwegian twist, featuring palm sugar and a mirepoix base, perfect for a cold winter night.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle to medium high heat.",
+    "In a large bowl, whisk together palm sugar, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the palm sugar mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion, carrot, and celery until tender.",
+    "Add the garlic to the pan and cook for 1 minute.",
+    "Brush the tava griddle with olive oil and cook the lamb skewers for 5 minutes per side.",
+    "Serve the lamb skewers with the mirepoix base spooned over the top.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "one-pan",
+    "skewers",
+    "winter-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-browned-norwegian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-browned-norwegian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:25:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "palm sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Browned",
+    "dishForm": "Skewers"
+  }
+}

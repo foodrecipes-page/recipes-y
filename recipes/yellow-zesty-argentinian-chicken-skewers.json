@@ -1,0 +1,97 @@
+{
+  "title": "Yellow Zesty Argentinian Chicken Skewers",
+  "description": "A light and flavorful Argentinian dish featuring chicken skewers with a zesty Thai chilli jam sauce, made with render fat for a crispy texture, perfect for a low-calorie dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "render fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic powder, paprika, salt, and black pepper",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece",
+    "Brush the render fat onto the chicken skewers, making sure they are evenly coated",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through",
+    "While the chicken is cooking, heat the Thai chilli jam in a small saucepan over low heat",
+    "Once the chicken is done, brush the warmed Thai chilli jam onto the skewers",
+    "Serve the skewers hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "gluten-free",
+    "grilled-chicken",
+    "low-calorie",
+    "quick-dinner",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "yellow-zesty-argentinian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-zesty-argentinian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:25:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "render-fat",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Zesty",
+    "dishForm": "Skewers"
+  }
+}

@@ -922,6 +922,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-browned-norwegian-lamb-skewers",
+    "title": "Yellow Browned Norwegian Lamb Skewers",
+    "tags": [
+      "lamb-recipes",
+      "norwegian-cuisine",
+      "one-pan",
+      "skewers",
+      "winter-dinner"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-buttery-japanese-squash-jjigae",
     "title": "Yellow Buttery Japanese Squash Jjigae",
     "tags": [
@@ -2831,6 +2845,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-zesty-argentinian-chicken-skewers",
+    "title": "Yellow Zesty Argentinian Chicken Skewers",
+    "tags": [
+      "argentinian-cuisine",
+      "gluten-free",
+      "grilled-chicken",
+      "low-calorie",
+      "quick-dinner",
+      "thai-inspired"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 32,
     "shard": "y"
   },
   {

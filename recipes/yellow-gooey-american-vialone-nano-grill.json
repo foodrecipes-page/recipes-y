@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Gooey American Vialone Nano Grill",
+  "description": "A funky American dish featuring vialone nano rice, grilled to perfection with a dairy free sauce, this recipe is perfect for those looking to show off their culinary skills.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vialone nano rice",
+      "amount": "1 cup",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "non dairy butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegan cheddar shreds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "canned corn kernels",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced bell peppers",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat.",
+    "In a large bowl, mix together the vialone nano rice, non dairy butter, olive oil, smoked paprika, garlic powder, salt, and black pepper until well combined.",
+    "Add the vegan cheddar shreds, canned corn kernels, and diced bell peppers to the bowl and stir until the cheese is evenly distributed.",
+    "Using a 1/4 cup measuring cup, scoop the rice mixture onto the preheated grill.",
+    "Grill the rice mixture for 3-4 minutes on each side, or until it is golden brown and crispy.",
+    "Repeat the grilling process with the remaining rice mixture.",
+    "Serve the yellow gooey American vialone nano grill hot and enjoy.",
+    "Garnish with diced scallions and a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "dairy-free",
+    "grilled-rice",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-gooey-american-vialone-nano-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-gooey-american-vialone-nano-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:11:44Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "vialone-nano",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "vialone nano",
+    "descriptor": "Yellow gooey",
+    "dishForm": "Grill"
+  }
+}

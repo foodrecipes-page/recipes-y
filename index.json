@@ -2143,6 +2143,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-gooey-american-vialone-nano-grill",
+    "title": "Yellow Gooey American Vialone Nano Grill",
+    "tags": [
+      "american-cuisine",
+      "dairy-free",
+      "grilled-rice",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-gooey-australian-shrimp-skewers",
     "title": "Yellow Gooey Australian Shrimp Skewers",
     "tags": [

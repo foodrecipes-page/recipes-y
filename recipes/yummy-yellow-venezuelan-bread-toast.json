@@ -1,0 +1,88 @@
+{
+  "title": "Yummy Yellow Venezuelan Bread Toast",
+  "description": "A citrusy and fluffy Venezuelan dish featuring light brown soft sugar and double-rise-bread, perfect for a nostalgic snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "light brown soft sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Slice the bread into 1-inch thick slices.",
+    "In a small bowl, mix together the light brown soft sugar, orange zest, and salt.",
+    "In a separate bowl, whisk together the eggs and orange juice.",
+    "Dip each bread slice into the egg mixture, then coat in the sugar mixture.",
+    "Place the coated bread slices on a baking sheet lined with parchment paper.",
+    "Dot the top of each bread slice with unsalted butter.",
+    "Bake for 15 minutes or until the bread is golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-baking",
+    "fodmap-friendly",
+    "snack-time",
+    "vegan-free",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "yummy-yellow-venezuelan-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-yellow-venezuelan-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:54Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "bread",
+    "descriptor": "yummy yellow",
+    "dishForm": "Toast"
+  }
+}

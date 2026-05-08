@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Smoky Vietnamese Tomatoes Noodles",
+  "description": "A briny and shattering Vietnamese dish featuring diced tomatoes in a smoke hot satvik friendly sauce served over noodles, perfect for a romantic dinner",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside",
+    "Heat the vegetable oil in a large skillet over medium high heat",
+    "Add the diced garlic and ginger to the skillet and saute until fragrant",
+    "Add the diced tomatoes to the skillet and cook until they start to break down",
+    "Add the smoked paprika to the skillet and stir to combine",
+    "Add the soy sauce and lime juice to the skillet and stir to combine",
+    "Season the sauce with salt and black pepper to taste",
+    "Add the cooked noodles to the skillet and toss to combine with the sauce",
+    "Serve the noodles hot and garnish with chopped green onions if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "noodle-dishes",
+    "romantic-dinners",
+    "smoky-flavors",
+    "vegetarian-options",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-smoky-vietnamese-tomatoes-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-vietnamese-tomatoes-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:56:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Noodles"
+  }
+}

@@ -343,6 +343,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-dense-tunisian-butter-tagine",
+    "title": "yeasty dense tunisian butter tagine",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "moroccan",
+      "tunisian",
+      "weeknight",
+      "yeast"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-ethiopian-almond-wrap",
     "title": "Yeasty Ethiopian Almond Wrap",
     "tags": [

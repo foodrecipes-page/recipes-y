@@ -1,0 +1,101 @@
+{
+  "title": "Italian Wood Ear Mushrooms Panforte",
+  "description": "A funky and fluffy Italian dish featuring wood ear mushrooms, pasta water emulsion, and halal friendly ingredients, served in a panforte form in a ramekin, perfect as a hangover cure.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "wood ear mushrooms",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "pasta water",
+      "amount": "2 cups",
+      "notes": "reserved from cooking pasta"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Reconstitute the dried wood ear mushrooms by soaking them in hot water for 10 minutes, then drain and chop them into small pieces.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the chopped mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "In a large bowl, whisk together the pasta water, salt, black pepper, and beaten eggs.",
+    "Add the grated parmesan cheese and chopped parsley to the bowl and stir to combine.",
+    "Add the cooked mushroom mixture to the bowl and stir to combine.",
+    "Pour the mixture into 6 ramekins and bake for 25 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the panforte from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "italian-inspired",
+    "mushroom-based",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "yummy-fluffy-italian-wood-ear-mushrooms-panforte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-fluffy-italian-wood-ear-mushrooms-panforte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:22:33Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "halal",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "wood ear mushrooms",
+    "descriptor": "yummy fluffy",
+    "dishForm": "Panforte"
+  }
+}

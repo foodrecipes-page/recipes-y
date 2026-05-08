@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Spicy Chinese Pork Dumplings",
+  "description": "A traditional Chinese dish featuring minced garlic and a spicy kick, these dumplings are perfect for a special occasion, with a chewy texture and a flavor that is both mustardy and slightly sweet from the tempering chocolate, and are fodmap friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tempering Chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, minced garlic, grated ginger, mustard, salt, and black pepper, and mix well until just combined.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 10 second increments, stirring between each interval until smooth.",
+    "Add the melted chocolate to the pork mixture and mix until just combined.",
+    "Lay a dumpling wrapper on a flat surface and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of sesame oil and run it along the edge of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "In a large pot, bring a quart of water to a boil and add the dumplings, being careful not to overcrowd the pot.",
+    "Cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the pot with a slotted spoon and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "dumplings",
+    "fodmap-friendly",
+    "pork-recipes",
+    "special-occasion",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "yellow-spicy-chinese-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-chinese-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:35:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "minced garlic",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Yellow spicy",
+    "dishForm": "Dumplings"
+  }
+}

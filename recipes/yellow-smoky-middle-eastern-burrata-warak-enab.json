@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Smoky Middle Eastern Burrata Warak Enab",
+  "description": "A smoky and crumbly Middle Eastern dish featuring burrata cheese, served in a warak enab form with a rich mother sauce base, paleo friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "12 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "20 leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the grape leaves by blanching them in boiling water for 30 seconds.",
+    "In a blender, combine olive oil, lemon juice, garlic, smoked paprika, salt, and black pepper to make the mother sauce.",
+    "Arrange the grape leaves in a warak enab form, brushing each leaf with the mother sauce.",
+    "Place the burrata cheese in the center of the grape leaves, folding the leaves over to seal.",
+    "Bake the warak enab in the preheated oven for 15 minutes, or until the cheese is melted and the leaves are crispy.",
+    "Serve the Yellow Smoky Middle Eastern Burrata Warak Enab hot, garnished with fresh parsley or thyme.",
+    "Let it cool for a few minutes before serving.",
+    "Serve with a side of paleo friendly crackers or bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burrata",
+    "indulgent",
+    "middle-eastern",
+    "paleo-friendly",
+    "smoky",
+    "warak-enab"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellow-smoky-middle-eastern-burrata-warak-enab",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-middle-eastern-burrata-warak-enab",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:34:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "burrata",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "burrata",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Warak Enab"
+  }
+}

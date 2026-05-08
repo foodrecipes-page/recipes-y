@@ -1,0 +1,92 @@
+{
+  "title": "Yellowed Crumbly Egyptian Lamb Kebabs",
+  "description": "A traditional Egyptian dish featuring lamb, coriander, and binchotan-charcoal, perfect for meal prep. This recipe yields fatty and crumbly kebabs with a unique flavor.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "fatty cuts preferred"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 cup",
+      "notes": "for grilling"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan charcoal grill to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb shoulder, coriander, onion, garlic, salt, and black pepper.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Brush the kebabs with olive oil and grill for 10 minutes per side.",
+    "Let the kebabs rest for 5 minutes before serving on a tagliere.",
+    "Garnish with fresh parsley and serve immediately.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat the kebabs in the oven at 350 degrees Fahrenheit for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb-based",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "yellowed-crumbly-egyptian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crumbly-egyptian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:49:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "coriander",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Crumbly",
+    "dishForm": "Kebabs"
+  }
+}

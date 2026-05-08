@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Smoky Indian Mackerel Korma",
+  "description": "A smoky and crumbly Indian dish featuring mackerel, ferment-kimchi, and Mediterranean-friendly flavors, all combined in a delicious korma form, grilled to perfection on a binchotan grill.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the yogurt, lemon juice, ghee or oil, garam masala, smoked paprika, and salt.",
+    "Add the mackerel fillets to the bowl and coat with the yogurt mixture, making sure they are fully covered.",
+    "Grill the mackerel fillets for 4-5 minutes per side, or until they are cooked through and slightly charred.",
+    "While the mackerel is cooking, heat the ferment-kimchi in a small saucepan over low heat.",
+    "Once the mackerel is done, place it on a serving platter and spoon the warmed ferment-kimchi over the top.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Serve with basmati rice or naan bread for a complete meal.",
+    "Refrigerate any leftovers and consume within 2 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "indian-inspired",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-smoky-indian-mackerel-korma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-indian-mackerel-korma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:38:52Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "mackerel",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "mackerel",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Korma"
+  }
+}

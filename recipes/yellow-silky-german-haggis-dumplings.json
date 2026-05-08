@@ -1,0 +1,92 @@
+{
+  "title": "Yellow Silky German Haggis Dumplings",
+  "description": "Indulgent German dish featuring haggis, beurre-monte, and silky texture, suitable for Buddhist temple gatherings",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "traditional Scottish dish made from sheep heart, liver, and lungs, but use a vegetarian version"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/2 cup",
+      "notes": "mountain butter made from butter and water"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine haggis, beurre-monte, and flour in a large mixing bowl",
+    "Add egg, milk, turmeric, salt, and pepper, and mix until a smooth dough forms",
+    "Knead the dough for 10 minutes until it becomes silky and elastic",
+    "Divide the dough into small balls, about 1 inch in diameter",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10 minutes",
+    "Remove the dumplings from the water with a slotted spoon and serve hot",
+    "Garnish with chopped fresh parsley or chives, if desired",
+    "Serve with a side of steamed vegetables or a salad"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-food",
+    "indulgent",
+    "one-pot",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "yellow-silky-german-haggis-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-silky-german-haggis-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:46:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "beurre-monte",
+    "primaryIngredient": "haggis",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "haggis",
+    "descriptor": "Yellow Silky",
+    "dishForm": "Dumplings"
+  }
+}

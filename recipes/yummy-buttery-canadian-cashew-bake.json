@@ -1,0 +1,89 @@
+{
+  "title": "Yummy Buttery Canadian Cashew Bake",
+  "description": "A buttery and shattering Canadian dish featuring cashews, this bake is perfect for a snack or dessert, and is also raw-friendly and energizing.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 1/2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "rolled"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the chopped cashews, melted butter, brown sugar, and honey until well combined.",
+    "In a separate bowl, mix together the oats and salt.",
+    "Add the oat mixture to the cashew mixture and stir until a dough forms.",
+    "Press the dough into a 9x9 inch baking dish.",
+    "Bake for 20 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Cut into bars and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-classic",
+    "high-energy",
+    "quick-snack",
+    "raw-friendly",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "yummy-buttery-canadian-cashew-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-buttery-canadian-cashew-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:40:29Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "salt-bake",
+    "primaryIngredient": "cashews",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cashews",
+    "descriptor": "yummy buttery",
+    "dishForm": "Bake"
+  }
+}

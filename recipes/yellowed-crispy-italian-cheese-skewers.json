@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Crispy Italian Cheese Skewers",
+  "description": "A light Italian dish featuring cheese slices, this recipe is perfect for a snack or appetizer, with a floral and shaggy texture from the cheese and fresh herbs",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "12 slices",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 375 degrees Fahrenheit",
+    "Thread a mozzarella cheese slice, a cherry tomato half, and a sprinkle of chopped fresh basil onto each skewer",
+    "Drizzle the skewers with extra virgin olive oil and season with salt, black pepper, and Italian seasoning",
+    "Sprinkle a pinch of lemon zest over the cheese for added flavor",
+    "Place the skewers on the robata grill and cook for 2-3 minutes per side, or until the cheese is melted and slightly browned",
+    "Remove the skewers from the grill and let them cool for a minute or two",
+    "Serve the Yellowed Crispy Italian Cheese Skewers hot, garnished with additional chopped fresh basil if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-snack",
+    "gluten-free",
+    "italian-cuisine",
+    "mediterranean-diet",
+    "quick-appetizer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "yellowed-crispy-italian-cheese-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-italian-cheese-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:09:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "brine-dry",
+    "primaryIngredient": "cheese slices",
+    "diet": "mediterranean",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cheese",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Skewers"
+  }
+}

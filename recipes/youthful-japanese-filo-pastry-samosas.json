@@ -1,0 +1,96 @@
+{
+  "title": "Youthful Japanese Filo Pastry Samosas",
+  "description": "A sweet and energizing Japanese dish featuring filo pastry, candy, and ayurvedic-sattvic-friendly ingredients, with a jammy and shattering texture. This dish is perfect for a snack or dessert.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Filo Pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Mochi Candy",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Green Tea Ice Cream",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Rice Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the filo pastry and cut it into small squares.",
+    "Mix the crushed mochi candy, coconut sugar, sesame seeds, and cardamom powder in a bowl.",
+    "Place a small spoonful of the candy mixture onto the center of each filo pastry square.",
+    "Brush the edges of the pastry with melted ghee.",
+    "Fold the pastry into triangles and press the edges to seal.",
+    "Brush the tops of the samosas with more melted ghee.",
+    "Bake the samosas for 20 minutes, or until golden brown.",
+    "Serve the samosas warm with a scoop of green tea ice cream.",
+    "Sprinkle the tops with rice flour before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "filo-pastry",
+    "green-tea",
+    "japanese-dessert",
+    "mochi-candy",
+    "sattvic-friendly",
+    "sesame-seeds"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "youthful-japanese-filo-pastry-samosas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-japanese-filo-pastry-samosas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:28:32Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "candy",
+    "primaryIngredient": "filo pastry",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "filo pastry",
+    "descriptor": "youthful energizing",
+    "dishForm": "Samosas"
+  }
+}

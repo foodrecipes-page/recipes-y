@@ -1,0 +1,97 @@
+{
+  "title": "Yellowed Crunchy Polish Beef Tacos",
+  "description": "A hearty Polish dish featuring marinated beef, served in hard taco shells with a blend of cheeses and earthy flavors, perfect for a hangover cure.",
+  "cuisine": "Polish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced yellow onion",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together mushroom broth, onion powder, and garlic powder to create the marinade.",
+    "Add the ground beef to the marinade and mix until just combined, being careful not to overmix.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a large skillet over medium-high heat and cook the marinated beef until browned, breaking it up into small pieces as it cooks.",
+    "Reduce heat to low and simmer the beef for 10 minutes, stirring occasionally.",
+    "While the beef is cooking, prepare the taco shells according to package instructions.",
+    "Assemble the tacos by spooning the beef mixture into the shells, followed by a sprinkle of shredded cheddar cheese.",
+    "Place the tacos under the broiler for 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the tacos from the oven and top each one with a dollop of sour cream, a sprinkle of diced yellow onion, and a sprinkle of chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "high-protein",
+    "meat-based",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellowed-crunchy-polish-beef-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crunchy-polish-beef-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:58:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "hard taco shells",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beef",
+    "descriptor": "Yellowed Crunchy",
+    "dishForm": "Tacos"
+  }
+}

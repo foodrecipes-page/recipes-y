@@ -1,0 +1,97 @@
+{
+  "title": "Yellowed Crunchy Polish Sausage Skillet",
+  "description": "A festive Polish dish featuring crunchy sausage and a hint of grassy flavor, made with dijon mustard and score-fat for a low-glycemic friendly meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "preferably with a natural casing"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the score-fat in a large skillet over medium-high heat until it reaches 350 degrees Fahrenheit.",
+    "Add the sliced onion and bell pepper to the skillet and cook until they are tender and lightly browned.",
+    "Add the Polish sausage to the skillet and cook until it is browned on all sides and cooked through.",
+    "Add the dijon mustard, salt, black pepper, and garlic powder to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Stir in the chopped fresh parsley and cook for an additional 2 minutes.",
+    "Serve the skillet hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-glycemic",
+    "one-pan",
+    "polish-cuisine",
+    "sausage-recipes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "yellowed-crunchy-polish-sausage-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crunchy-polish-sausage-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:22:43Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "score-fat",
+    "primaryIngredient": "dijon mustard",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sausage",
+    "descriptor": "Yellowed Crunchy",
+    "dishForm": "Skillet"
+  }
+}

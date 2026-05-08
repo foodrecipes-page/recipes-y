@@ -924,6 +924,19 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-tender-irish-vermicelli-rice-noodles-bowl",
+    "title": "Yeasty Tender Irish Vermicelli Rice Noodles Bowl",
+    "tags": [
+      "comfort-food",
+      "irish",
+      "keto-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-tender-vietnamese-pork-bun-thit-nuong",
     "title": "Yeasty Tender Vietnamese Pork Bun Thit Nuong",
     "tags": [
@@ -6560,6 +6573,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 15,
+    "shard": "y"
+  },
+  {
+    "slug": "youthful-dutch-floral-tagine",
+    "title": "youthful dutch floral tagine",
+    "tags": [
+      "breakfast",
+      "dessert",
+      "fusion",
+      "gluten-free",
+      "spring",
+      "vegan"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

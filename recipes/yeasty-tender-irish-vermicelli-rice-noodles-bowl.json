@@ -1,0 +1,101 @@
+{
+  "title": "Yeasty Tender Irish Vermicelli Rice Noodles Bowl",
+  "description": "A comforting and nostalgic Irish dish featuring vermicelli rice noodles, served with a yeast-based broth and topped with savory ingredients for a keto-friendly meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli Rice Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring 4 cups of chicken broth to a boil in a large pot.",
+    "Add the vermicelli rice noodles and cook for 3-5 minutes, or until slightly tender.",
+    "In a small saucepan, melt 1 tbsp of butter and whisk in the active dry yeast. Let it sit for 5 minutes, or until frothy.",
+    "Add the garlic, soy sauce, and cooked noodles to the saucepan with the yeast mixture. Cook for an additional 2-3 minutes, or until the noodles are well coated.",
+    "Transfer the noodle mixture to a serving bowl and top with shredded cheddar cheese, chopped parsley, and sliced scallions.",
+    "Drizzle the remaining 1 tbsp of butter over the top of the dish and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish",
+    "keto-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "yeasty-tender-irish-vermicelli-rice-noodles-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-tender-irish-vermicelli-rice-noodles-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:41Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "boil",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "vermicelli rice noodles",
+    "descriptor": "yeasty tender",
+    "dishForm": "Bowl"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Flaky Italian Poppy Seeds Torta Caprese",
+  "description": "A satvik-friendly, fermented, flaky Italian dish featuring poppy seeds and pickle, wrapped in a ti-leaf wrap, inspired by the traditional Torta Caprese.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "poppy seeds",
+      "amount": "1/2 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak the poppy seeds in water overnight and drain well.",
+    "In a large bowl, combine the soaked poppy seeds, chopped pickle, minced garlic, salt, black pepper, and Italian seasoning.",
+    "Mix well and let it ferment for 2 hours.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the fermented poppy seed mixture to the skillet and cook for 5 minutes, stirring frequently.",
+    "Lay a ti leaf flat on a surface and place a quarter of the poppy seed mixture in the center of the leaf.",
+    "Fold the ti leaf over the filling to form a square shape and repeat with the remaining mixture and leaves.",
+    "Serve the Yellowed Flaky Italian Poppy Seeds Torta Caprese hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "italian-food",
+    "one-pot",
+    "satvik-diet",
+    "ti-leaf-wrap",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-flaky-italian-poppy-seeds-torta-caprese",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-italian-poppy-seeds-torta-caprese",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:53:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "pickle",
+    "primaryIngredient": "poppy seeds",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "Yellowed Flaky",
+    "dishForm": "Torta Caprese"
+  }
+}

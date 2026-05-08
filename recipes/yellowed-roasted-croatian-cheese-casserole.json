@@ -1,0 +1,97 @@
+{
+  "title": "Yellowed Roasted Croatian Cheese Casserole",
+  "description": "A comforting Croatian dish featuring roasted cheese and a unique blend of flavors, including Thai fish sauce, this casserole is perfect for a cold winter's night. It is a nut-free-friendly option for those with dietary restrictions.",
+  "cuisine": "Croatian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "croatian cheese",
+      "amount": "1 cup shredded",
+      "notes": "such as Paški sir or Zagorski sir"
+    },
+    {
+      "name": "thai fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "nam pla"
+    },
+    {
+      "name": "deep-fry-tod",
+      "amount": "1 cup fried",
+      "notes": "deep fried tofu"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and sauté the chopped onions until they are translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "In a large bowl, combine the cooked onions and garlic, shredded cheese, deep-fry-tod, thai fish sauce, paprika, salt, and black pepper, and mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish and roast in the preheated oven for 25 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with chopped fresh herbs if desired.",
+    "Leftovers can be refrigerated for up to 3 days and reheated in the oven or microwave."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "cheese-pull",
+    "comfort-food",
+    "one-pan",
+    "roasted",
+    "unique-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellowed-roasted-croatian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-roasted-croatian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:54:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Yellowed Roasted",
+    "dishForm": "Casserole"
+  }
+}

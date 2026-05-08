@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Browned Saudi Arabian Beef Kidney Kebabs",
+  "description": "A jammy, cheese-pull, date-night Saudi Arabian dish featuring beef kidney, deep-fried to perfection, ovo-vegetarian friendly",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "500g",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together flour, paprika, garlic powder, salt, and black pepper.",
+    "Add the sliced beef kidney to the bowl and toss to coat evenly with the flour mixture.",
+    "Dip each coated beef kidney piece into the beaten eggs, making sure they are fully coated.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep fry the egg-coated beef kidney pieces in batches until they are golden brown, about 5 minutes per batch.",
+    "Remove the fried beef kidney from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Thread the fried beef kidney pieces onto skewers, leaving a small space between each piece.",
+    "Top each beef kidney piece with a sprinkle of shredded mozzarella cheese and a date.",
+    "Place the skewers under the broiler for 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve the kebabs hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-kidney",
+    "date-night",
+    "deep-fried",
+    "high-protein",
+    "kebabs",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "yellow-browned-saudi-arabian-beef-kidney-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-browned-saudi-arabian-beef-kidney-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:23:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "beef kidney",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Yellow Browned",
+    "dishForm": "Kebabs"
+  }
+}

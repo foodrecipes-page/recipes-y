@@ -1,0 +1,111 @@
+{
+  "title": "Yellowed Peruvian Boudin Noir Picarones",
+  "description": "A savory Peruvian dish featuring boudin noir and picarones, made with lardons render and jain friendly ingredients, served in a ceramic tagine.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin noir",
+      "amount": "1 pound",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "mild"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "picarones batter",
+      "amount": "2 cups",
+      "notes": "store bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Render the lardons in a pan over medium heat until crispy.",
+    "Remove the lardons from the pan and set aside.",
+    "Add the chopped onion to the pan and cook until translucent.",
+    "Add the minced garlic to the pan and cook for one minute.",
+    "Add the ground anise seeds and chili powder to the pan and cook for one minute.",
+    "Add the boudin noir to the pan and cook until browned, breaking it up with a spoon as it cooks.",
+    "Stir in the mashed sweet potato, salt, and black pepper.",
+    "Pour the picarones batter into a ceramic tagine.",
+    "Add the boudin noir mixture to the center of the picarones batter.",
+    "Top with the rendered lardons and bake for 35 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "boudin-noir",
+    "ceramic-tagine",
+    "jain-friendly",
+    "lardons-render",
+    "peruvian-cuisine",
+    "picarones"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellowed-peruvian-boudin-noir-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-peruvian-boudin-noir-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:56:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "boudin-noir",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "boudin noir",
+    "descriptor": "Yellowed Savory",
+    "dishForm": "Picarones"
+  }
+}

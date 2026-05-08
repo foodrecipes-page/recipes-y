@@ -1,0 +1,102 @@
+{
+  "title": "Yellowed Crisp Tunisian Fish Skewers",
+  "description": "A pescatarian-friendly Tunisian dish featuring emmentaler cheese and a nutty, crisp texture, air-fried to perfection. This adventurous recipe is perfect for those looking to try something new.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "emmentaler cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, salt, and black pepper.",
+    "Add the cod pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated cod pieces onto skewers, leaving a small space between each piece.",
+    "Sprinkle the shredded emmentaler cheese over the cod pieces.",
+    "Air-fry the skewers for 8-10 minutes, or until the fish is cooked through and the cheese is golden brown.",
+    "Sprinkle the toasted pine nuts and chopped parsley over the skewers.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipes",
+    "cheesy-dishes",
+    "nutty-flavors",
+    "pescatarian-friendly",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yellowed-crisp-tunisian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-tunisian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:58:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Skewers"
+  }
+}

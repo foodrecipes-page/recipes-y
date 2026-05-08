@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Smoky Portuguese Peppers Bake",
+  "description": "A grassy and springy Portuguese dish featuring yellow peppers, perfect for a crowd, and shojin-friendly. This wood-fired bake is a delightful and flavorful experience.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow peppers",
+      "amount": "4 large",
+      "notes": "any variety"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425 degrees Fahrenheit.",
+    "Cut the tops off the yellow peppers and remove the seeds and membranes.",
+    "In a large bowl, whisk together the olive oil, smoked paprika, salt, and black pepper.",
+    "Add the sliced onion to the bowl and toss to coat with the oil mixture.",
+    "Stuff each pepper with the onion mixture, filling to the top.",
+    "Place the stuffed peppers in the wood-fired oven and bake for 30 minutes.",
+    "After 30 minutes, sprinkle the minced garlic and chopped parsley over the peppers.",
+    "Return the peppers to the oven and continue baking for an additional 15 minutes.",
+    "Remove the peppers from the oven and squeeze the lemon juice over the top.",
+    "Let the peppers cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese-cuisine",
+    "smoky-flavors",
+    "spring-recipes",
+    "vegetarian-dishes",
+    "wood-fired-oven"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellow-smoky-portuguese-peppers-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-portuguese-peppers-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:54:20Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "peppers",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peppers",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Molten Ethiopian Lamb Berbere Stew",
+  "description": "A salty and molten Ethiopian dish featuring lamb and berbere spices, perfect for a weeknight dinner, wrapped in a shortcrust pastry and served with a side of brine-dried vegetables, making it paleo-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shortcrust pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brine-dried vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the shortcrust pastry and cut it into 4 equal pieces.",
+    "In a large pan, heat 2 tablespoons of oil over medium heat and cook the lamb until browned, about 5 minutes.",
+    "Add the onion and garlic to the pan and cook until the onion is translucent, about 3 minutes.",
+    "Add the berbere spice, salt, and black pepper to the pan and stir to combine.",
+    "Add the chicken broth to the pan and bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the brine-dried vegetables and cook for an additional 2 minutes.",
+    "Spoon the lamb and vegetable mixture onto one half of each pastry piece, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Place the pastry pockets on a baking sheet and bake for 20 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian-cuisine",
+    "lamb-recipes",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellow-molten-ethiopian-lamb-berbere-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-molten-ethiopian-lamb-berbere-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:28:56Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "brine-dry",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Molten",
+    "dishForm": "Berbere Stew"
+  }
+}

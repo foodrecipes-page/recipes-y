@@ -1,0 +1,97 @@
+{
+  "title": "Yellow Molten Spanish Shrimp Gambas Al Ajillo",
+  "description": "A funky and indulgent Spanish dish featuring shrimp in a miso and toor dal infused sauce, this recipe is high in protein and perfect for a dinner party. It has a molten and creamy texture that will leave you wanting more.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "toor dal",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side until pink and cooked through.",
+    "In a small bowl, whisk together the miso paste, toor dal, lemon juice, paprika, salt, and black pepper.",
+    "Pour the miso mixture over the shrimp and stir to combine.",
+    "Reduce the heat to low and simmer for 2 minutes until the sauce has thickened.",
+    "Serve the shrimp hot, garnished with chopped parsley or cilantro if desired.",
+    "Let the dish rest for a few minutes before serving to allow the sauce to set.",
+    "Serve with crusty bread or over rice to soak up the sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indulgent",
+    "one-pan",
+    "seafood",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "yellow-molten-spanish-shrimp-gambas-al-ajillo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-molten-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:04:19Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "miso-marinate",
+    "primaryIngredient": "toor dal",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "Yellow Molten",
+    "dishForm": "Gambas Al Ajillo"
+  }
+}

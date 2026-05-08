@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Smoky Brazilian Chicken Skewers",
+  "description": "Smoky Brazilian chicken skewers with a cheesy pull, featuring tahini paste and agemono deep fry technique, perfect for meal prep and halal friendly, this dish combines the flavors of Brazil with a smoky twist.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10 pieces",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together tahini paste, olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the chicken breast pieces to the bowl and mix until they are well coated with the tahini mixture.",
+    "Thread the chicken pieces onto the wooden skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the chicken is baking, heat about 2-3 inches of vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Remove the skewers from the oven and deep fry them in the hot oil for 2-3 minutes on each side, until they are golden brown.",
+    "Remove the skewers from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Sprinkle the shredded mozzarella cheese over the skewers and place them under the broiler for 1-2 minutes, until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "chicken",
+    "halal-friendly",
+    "meal-prep",
+    "skewers",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "yellow-smoky-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:27:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "tahini paste",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Skewers"
+  }
+}

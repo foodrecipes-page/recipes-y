@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Spicy Peruvian Vegetable Stir Fry",
+  "description": "A spicy and chewy Peruvian dish featuring chopped parsley and infused oil, perfect for a crowd, this vegan-friendly stir fry is made in a wok and is sure to please. It combines the flavors of Peru with the convenience of a stir fry.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Parsley",
+      "amount": "1 cup chopped",
+      "notes": "fresh"
+    },
+    {
+      "name": "Infused oil",
+      "amount": "2 tablespoons",
+      "notes": "with aji amarillo peppers"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large sliced"
+    },
+    {
+      "name": "Yellow potatoes",
+      "amount": "2 large diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a wok over medium-high heat.",
+    "Add the diced onion and cook until it starts to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the sliced bell pepper and cook until it starts to soften.",
+    "Add the sliced zucchini and cook until it starts to soften.",
+    "Add the diced yellow potatoes and cook until they are tender, stirring occasionally.",
+    "Add the chopped parsley, salt, and black pepper, and stir to combine.",
+    "Squeeze the lemon juice over the top of the stir fry and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Serve the stir fry hot, garnished with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "healthy",
+    "peruvian",
+    "spicy",
+    "stir-fry",
+    "vegan",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-spicy-peruvian-vegetable-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-peruvian-vegetable-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:55:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chopped parsley",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Stir-fry"
+  }
+}

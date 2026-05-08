@@ -1,0 +1,91 @@
+{
+  "title": "Yellow Cedar Canadian Salmon Skewers",
+  "description": "A rich and snappy Canadian dish featuring salmon, fajita seasoning, and a light flavor profile, all on a cedar plank.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yellow cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together fajita seasoning, lemon juice, olive oil, garlic powder, salt, and pepper.",
+    "Add the salmon cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated salmon cubes onto the soaked cedar planks, leaving a small space between each piece.",
+    "Place the cedar planks on the grill and cook for 8-10 minutes, or until the salmon is cooked through.",
+    "Remove the planks from the grill and let cool for a few minutes.",
+    "Serve the salmon skewers hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "cedar-plank",
+    "grilled",
+    "healthy",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "yellow-cedar-canadian-salmon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-cedar-canadian-salmon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:24:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "blanch",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "Yellow Cedar",
+    "dishForm": "Skewers"
+  }
+}

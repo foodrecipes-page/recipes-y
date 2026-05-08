@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Roasted Jamaican Coconut Roast",
+  "description": "A light and flavorful Jamaican dish featuring coconut and clotted cream, perfect for a flexitarian meal. This recipe is easy to make and delicious to eat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut cream, clotted cream, jamaican jerk seasoning, salt, and black pepper.",
+    "Add the chicken breast to the bowl and coat with the cream mixture.",
+    "Heat the olive oil in a large oven safe skillet over medium high heat.",
+    "Add the diced yellow bell pepper and onion to the skillet and cook until tender.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Add the chicken breast to the skillet and cook until browned on both sides.",
+    "Transfer the skillet to the preheated oven and roast for 25 minutes.",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clotted-cream",
+    "coconut-cream",
+    "flexitarian",
+    "jamaican-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-roasted-jamaican-coconut-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-roasted-jamaican-coconut-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:46:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "coconut",
+    "descriptor": "Yellow roasted",
+    "dishForm": "Roast"
+  }
+}

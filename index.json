@@ -3662,6 +3662,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-smoky-croatian-lamb-stew",
+    "title": "Yellowed Smoky Croatian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty",
+      "lamb-based",
+      "one-pot",
+      "smoky"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 120,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-smoky-french-flaxseed-canele",
     "title": "Yellowed Smoky French Flaxseed Canele",
     "tags": [
@@ -3792,6 +3807,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 90,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-sweet-french-milk-macaron",
+    "title": "Yellowed Sweet French Milk Macaron",
+    "tags": [
+      "bitter",
+      "french-dessert",
+      "grilled",
+      "low-fat",
+      "macaron",
+      "sweet"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

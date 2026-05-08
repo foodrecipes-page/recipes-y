@@ -1,0 +1,107 @@
+{
+  "title": "Yellowed Smoky Croatian Lamb Stew",
+  "description": "A traditional Croatian dish featuring lamb leg, this stew is smoky, pillowy, and perfect for a sick day, with ayurvedic-rajasic-friendly ingredients and sashimi-cut lamb for a unique twist.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "1.5 pounds",
+      "notes": "sashimi-cut into thin strips"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sashimi-cut lamb leg and cook until browned on all sides, about 5 minutes.",
+    "Add the smoked paprika, dried thyme, salt, and black pepper, and stir to combine.",
+    "Add the chopped carrots and potatoes, chicken broth, and tomato paste, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1.5 hours.",
+    "Serve hot, garnished with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty",
+    "lamb-based",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "yellowed-smoky-croatian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-croatian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:20:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "lamb leg",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Stew"
+  }
+}

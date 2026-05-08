@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Sweet French Milk Macaron",
+  "description": "A bitter and sweet dessert featuring sweetened condensed milk, with a glassy-jelly texture, inspired by French cuisine, specifically the Burgundy region, and adapted to be low-fat-friendly, this macaron is grilled to perfection on a binchotan grill.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "full fat not required"
+    },
+    {
+      "name": "egg whites",
+      "amount": "3 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 375 degrees Fahrenheit.",
+    "Combine the sweetened condensed milk, granulated sugar, and 1/4 cup of water in a saucepan and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 5 minutes or until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the almond flour, confectioners sugar, black food coloring, and salt.",
+    "Allow the mixture to cool to room temperature.",
+    "Once cooled, stir in the egg whites until stiff peaks form.",
+    "Spoon the mixture into a piping bag fitted with a round tip.",
+    "Pipe small, round circles onto a parchment-lined baking sheet.",
+    "Tap the baking sheet gently to remove any air bubbles.",
+    "Grill the macarons on the binchotan grill for 2-3 minutes on each side, or until the edges are lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "french-dessert",
+    "grilled",
+    "low-fat",
+    "macaron",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "yellowed-sweet-french-milk-macaron",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-sweet-french-milk-macaron",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:20:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "low-fat",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "milk",
+    "descriptor": "Yellowed Sweet",
+    "dishForm": "Macaron"
+  }
+}

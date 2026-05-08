@@ -1,0 +1,107 @@
+{
+  "title": "Norwegian Fish Pudding",
+  "description": "A traditional Norwegian dish featuring fish, gelatine, and butter, served on a salt block, this recipe is a unique and delicious way to enjoy fish, and is also ayurvedic-sattvic-friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "gelatine leaves",
+      "amount": "4 sheets",
+      "notes": "soaked in cold water"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets under cold water, pat dry with paper towels, and cut into small pieces.",
+    "Soak the gelatine leaves in cold water for about 5 minutes, until they become soft and pliable.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat, add the chopped onion, carrot, and celery, and cook until the vegetables are softened.",
+    "Add the cod pieces to the skillet, cook until they are opaque and flake easily with a fork.",
+    "Remove the skillet from the heat, stir in the soaked gelatine leaves, white pepper, and salt, until the gelatine is fully dissolved.",
+    "Stir in the heavy cream, and let the mixture cool to room temperature.",
+    "Pour the mixture into a heat-proof bowl, cover with plastic wrap, and refrigerate for at least 2 hours, or until set.",
+    "Preheat the salt block in the oven at 200 degrees Fahrenheit for about 30 minutes.",
+    "Remove the pudding from the refrigerator, scoop it onto the preheated salt block, and top with chopped parsley and the remaining 1 tablespoon of butter.",
+    "Serve the pudding immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "fish-based",
+    "gluten-free",
+    "norwegian-cuisine",
+    "pescatarian",
+    "salt-block-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yummy-springy-norwegian-fish-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-springy-norwegian-fish-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:01:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "fry",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "yummy springy",
+    "dishForm": "Pudding"
+  }
+}

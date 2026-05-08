@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Yogurt British Lamb Scotch Egg",
+  "description": "A kid-friendly British dish featuring lamb shoulder, tandoor spices, and a sweet yellow yogurt sauce, wrapped in a soft and bouncy scotch egg form. This dish is perfect for a snack or light meal.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "yellow yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the ground lamb, tandoor spice mix, salt, and black pepper.",
+    "Divide the lamb mixture into 4 equal parts and shape each part into a ball.",
+    "Flatten each ball into a patty and place a hard-boiled egg in the center of each patty.",
+    "Wrap the lamb mixture around the egg to form a scotch egg shape.",
+    "Dip each scotch egg into the beaten eggs and then roll in breadcrumbs to coat.",
+    "Place the scotch eggs on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the scotch eggs are baking, mix together the yellow yogurt and chopped onion in a small bowl.",
+    "Serve the scotch eggs with the yellow yogurt sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "kid-friendly",
+    "lamb-recipes",
+    "scotch-eggs",
+    "snack-ideas",
+    "tandoor-spices"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yellow-yogurt-british-lamb-scotch-egg",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yogurt-british-lamb-scotch-egg",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:43:21Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "tandoor",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Yogurt",
+    "dishForm": "Scotch Egg"
+  }
+}

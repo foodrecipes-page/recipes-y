@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Crunchy Dutch Cheese Frittata",
+  "description": "A salty and crispy Dutch dish perfect for brunch, featuring shredded Monterey Jack cheese and bonito shave, made satvik-friendly by avoiding animal by-products and focusing on plant-based ingredients where possible.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "preferably room temperature"
+    },
+    {
+      "name": "shredded Monterey Jack cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bonito shave",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, salt, black pepper, and garlic powder until well combined.",
+    "Heat the olive oil in a 10-inch oven-safe skillet over medium heat.",
+    "Pour the egg mixture into the skillet and let it cook for about 2 minutes.",
+    "Sprinkle the shredded Monterey Jack cheese and bonito shave evenly over the top of the egg mixture.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes or until the eggs are almost set.",
+    "Remove the skillet from the oven and sprinkle the chopped fresh parsley on top.",
+    "Return the skillet to the oven and bake for an additional 1-2 minutes or until the eggs are completely set and the top is lightly browned.",
+    "Remove the skillet from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "cheesy-delights",
+    "dutch-cuisine",
+    "one-pan-meal",
+    "satvik-food",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "yellow-crunchy-dutch-cheese-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crunchy-dutch-cheese-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:36:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "bonito-shave",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "Yellow Crunchy",
+    "dishForm": "Frittata"
+  }
+}

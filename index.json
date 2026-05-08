@@ -2682,6 +2682,34 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-mellow-filipino-vegetable-pinakbet",
+    "title": "Yellowed Mellow Filipino Vegetable Pinakbet",
+    "tags": [
+      "crowd-pleaser",
+      "filipino-cuisine",
+      "gluten-free",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-nutty-american-pecan-pie",
+    "title": "Yellowed Nutty American Pecan Pie",
+    "tags": [
+      "american-classics",
+      "low-carb",
+      "nutty-delights",
+      "romantic-dinners",
+      "special-occasions"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-nutty-malaysian-chicken-satay",
     "title": "Yellowed Nutty Malaysian Chicken Satay",
     "tags": [

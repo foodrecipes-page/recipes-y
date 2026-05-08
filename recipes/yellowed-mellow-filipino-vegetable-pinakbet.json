@@ -1,0 +1,104 @@
+{
+  "title": "Yellowed Mellow Filipino Vegetable Pinakbet",
+  "description": "A malty, aerated, crowd-pleaser Filipino dish featuring applesauce and confit-tomato, served in a scallop shell.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "applesauce",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "okra",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "string beans",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the chopped bitter melon, okra, eggplant, and string beans.",
+    "In a small bowl, whisk together the fish sauce, vegetable oil, salt, and black pepper.",
+    "Pour the fish sauce mixture over the vegetable mixture and toss to coat.",
+    "Spoon the vegetable mixture into scallop shells, leaving a 1-inch border around the edges.",
+    "Top each scallop shell with a spoonful of applesauce and a spoonful of confit-tomato.",
+    "Bake the pinakbet in the preheated oven for 25 minutes, or until the vegetables are tender.",
+    "Remove the pinakbet from the oven and let it cool for a few minutes before serving.",
+    "Serve the pinakbet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "filipino-cuisine",
+    "gluten-free",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "yellowed-mellow-filipino-vegetable-pinakbet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-mellow-filipino-vegetable-pinakbet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:37:53Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "confit-tomato",
+    "primaryIngredient": "applesauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Yellowed Mellow",
+    "dishForm": "Pinakbet"
+  }
+}

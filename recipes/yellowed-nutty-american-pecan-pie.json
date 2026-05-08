@@ -1,0 +1,91 @@
+{
+  "title": "Yellowed Nutty American Pecan Pie",
+  "description": "A romantic American dessert featuring dutch stroop and lacquer glaze, with a nutty and aerated texture, this pie is a low-carb friendly treat. It combines the richness of pecans with the sweetness of stroop.",
+  "cuisine": "American",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pecans",
+      "amount": "1 1/2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "dutch stroop",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, salt, and chopped pecans.",
+    "In a separate bowl, whisk together the melted butter, dutch stroop, lacquer glaze, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Pour the mixture into a 9 inch pie dish.",
+    "Bake the pie for 40 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove the pie from the oven and let it cool completely.",
+    "Once the pie is cool, refrigerate it for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "low-carb",
+    "nutty-delights",
+    "romantic-dinners",
+    "special-occasions"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "yellowed-nutty-american-pecan-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-nutty-american-pecan-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:37:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "dutch stroop",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Pecans",
+    "descriptor": "Yellowed nutty",
+    "dishForm": "Pie"
+  }
+}

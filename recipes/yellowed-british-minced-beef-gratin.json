@@ -1,0 +1,105 @@
+{
+  "title": "Yellowed British Minced Beef Gratin",
+  "description": "A fresh and indulgent British dish featuring minced beef, steamed to perfection and served in a raclette grill, this Yellowed British Minced Beef Gratin is a low-carb friendly delight. It is a pillowy and flavorful meal that is sure to satisfy.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "500g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "25g",
+      "notes": "melted"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "100g",
+      "notes": "grated"
+    },
+    {
+      "name": "double cream",
+      "amount": "50ml",
+      "notes": "full fat"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "10g",
+      "notes": "smooth"
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 180 degrees Celsius.",
+    "In a large bowl, combine the minced beef, chopped onion, sliced mushrooms, melted butter, grated cheese, double cream, dijon mustard, salt, and black pepper.",
+    "Mix all the ingredients together until they are well combined.",
+    "Transfer the mixture to a raclette grill dish.",
+    "Steam the mixture in the raclette grill for 10 minutes.",
+    "After steaming, grill the top of the mixture for 2 minutes to give it a yellowed crust.",
+    "Remove the dish from the grill and let it rest for 2 minutes.",
+    "Serve the Yellowed British Minced Beef Gratin hot, garnished with chopped fresh parsley.",
+    "Use a spoon to portion out individual servings.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-food",
+    "comfort-food",
+    "indulgent",
+    "low-carb",
+    "raclette-grill",
+    "steamed-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 30
+  },
+  "slug": "yellowed-british-minced-beef-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-british-minced-beef-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:03:24Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "minced beef",
+    "diet": "low-carb",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "minced beef",
+    "descriptor": "yummy low carb",
+    "dishForm": "Gratin"
+  }
+}

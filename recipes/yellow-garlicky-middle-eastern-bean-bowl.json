@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Garlicky Middle Eastern Bean Bowl",
+  "description": "A flavorful and aromatic Middle Eastern dish featuring crispy beans, garlic, and char-grilled yang, served in a lacquerware bowl. This recipe is ayurvedic-tamasic-friendly and perfect for a romantic dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, black pepper, and lemon juice.",
+    "Add the chickpeas to the bowl and toss to coat with the garlic mixture.",
+    "Spread the chickpeas on a baking sheet and roast for 30 minutes, or until crispy.",
+    "While the chickpeas are roasting, heat a small skillet over medium heat and char-grill the yang for 2-3 minutes on each side.",
+    "To assemble the bowls, divide the roasted chickpeas between two lacquerware bowls.",
+    "Top the chickpeas with char-grilled yang, chopped parsley, and a sprinkle of crushed red pepper, if using.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "garlicky",
+    "gluten-free",
+    "middle-eastern",
+    "one-bowl",
+    "romantic-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-garlicky-middle-eastern-bean-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-garlicky-middle-eastern-bean-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:57:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "beans",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "beans",
+    "descriptor": "Yellow garlicky crispy",
+    "dishForm": "Bowl"
+  }
+}

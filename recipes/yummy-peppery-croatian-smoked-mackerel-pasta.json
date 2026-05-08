@@ -1,0 +1,107 @@
+{
+  "title": "Yummy Peppery Croatian Smoked Mackerel Pasta",
+  "description": "A quick and delicious Croatian dish featuring smoked mackerel, this peppery and creamy pasta is perfect for a weeknight dinner. It is low in calories and can be prepared in no time.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "200g",
+      "notes": "flaked"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "low-fat sour cream",
+      "amount": "100g"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente.",
+    "In a large pan, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the pan and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the smoked mackerel to the pan, breaking it up with a spoon as it cooks.",
+    "Stir in the black pepper, paprika, and cayenne pepper, and cook for 1 minute.",
+    "In a small bowl, mix the low-fat sour cream with a pinch of salt and pepper.",
+    "Drain the cooked pasta and add it to the pan with the mackerel mixture, tossing everything together until the pasta is well coated.",
+    "Stir in the sour cream mixture and cook for an additional 2 minutes, until the sauce has thickened slightly.",
+    "Season with salt to taste, then serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yummy-peppery-croatian-smoked-mackerel-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-peppery-croatian-smoked-mackerel-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:55:43Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "tandoor",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "smoked mackerel",
+    "descriptor": "yummy peppery",
+    "dishForm": "Pasta"
+  }
+}

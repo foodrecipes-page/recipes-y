@@ -1,0 +1,111 @@
+{
+  "title": "Yeasty Velvety Moroccan Currant Tagine",
+  "description": "A light and flavorful Moroccan dish featuring currants and a yeasty velvety texture, cooked to perfection in a traditional clay tajine vessel over a tandoor",
+  "cuisine": "Moroccan",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "currants",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons",
+      "notes": "active dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit",
+    "In a small bowl, mix the yeast with 1 cup of warm water and let it sit for 10 minutes",
+    "In the clay tajine vessel, heat the olive oil over medium heat",
+    "Add the chopped onion and cook until it is translucent",
+    "Add the minced garlic and grated ginger and cook for 1 minute",
+    "Add the ground cumin, coriander, salt, and black pepper and cook for 1 minute",
+    "Add the currants, yeast mixture, and water to the vessel and stir well",
+    "Cover the vessel with a lid and cook for 30 minutes",
+    "Remove the lid and cook for an additional 10 minutes",
+    "Serve the tagine hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-cooking",
+    "moroccan-cuisine",
+    "tandoor-recipes",
+    "vegetarian-dishes",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yeasty-velvety-moroccan-currant-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-velvety-moroccan-currant-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:54:11Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "currants",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "currants",
+    "descriptor": "yeasty velvety",
+    "dishForm": "Tagine"
+  }
+}

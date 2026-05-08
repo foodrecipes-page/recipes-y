@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Buttery Irish Potato Skillet",
+  "description": "A buttery and energizing Irish dish featuring vanilla bean paste and a mirepoix base, perfect for a weeknight dinner. This egg-free friendly recipe is cooked to perfection in an iron teppan.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan over medium heat.",
+    "Add 2 tablespoons of butter to the teppan and let it melt.",
+    "Add the diced onions, carrots, and celery to the teppan and cook until they are tender.",
+    "Add the diced potatoes to the teppan and cook for 10 minutes, stirring occasionally.",
+    "Add the vanilla bean paste, salt, and black pepper to the teppan and stir to combine.",
+    "Continue cooking the potato mixture for an additional 10 minutes, stirring occasionally.",
+    "Add the remaining 2 tablespoons of butter to the teppan and stir to combine.",
+    "Cook for an additional 2 minutes, until the butter is melted and the potatoes are golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-buttery-irish-potato-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-buttery-irish-potato-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:49:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Yellowed Buttery",
+    "dishForm": "Skillet"
+  }
+}

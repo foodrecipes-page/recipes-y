@@ -1,0 +1,102 @@
+{
+  "title": "Yellow Spicy Thai Noodles Khao Soi",
+  "description": "A sweet and pillowy Thai dish featuring chilli powder, grilled ingredients, and ayurvedic-tamasic-friendly flavors, perfect for a hangover cure.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "chilli powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grilled tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the egg noodles according to the package instructions and set aside.",
+    "In a large pan, heat the vegetable oil over medium heat and add the sliced onion.",
+    "Add the minced garlic and cook until the onion is translucent.",
+    "Add the chilli powder and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk, soy sauce, and brown sugar, and stir to combine.",
+    "Add the grilled tofu and bean sprouts, and stir to combine.",
+    "Add the cooked noodles to the pan and stir to combine with the sauce.",
+    "Cook for an additional 2 minutes, stirring constantly, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "noodle-dish",
+    "one-pan",
+    "spicy-food",
+    "thai-cuisine",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-spicy-thai-noodles-khao-soi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-thai-noodles-khao-soi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:49:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "grill",
+    "primaryIngredient": "chilli powder",
+    "diet": "ayurvedic-tamasic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Khao Soi"
+  }
+}

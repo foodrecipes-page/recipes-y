@@ -2205,6 +2205,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-thai-noodles-khao-soi",
+    "title": "Yellow Spicy Thai Noodles Khao Soi",
+    "tags": [
+      "gluten-free",
+      "noodle-dish",
+      "one-pan",
+      "spicy-food",
+      "thai-cuisine",
+      "vegetarian-option"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-tunisian-romano-pepper-tagine",
     "title": "Yellow Spicy Tunisian Romano Pepper Tagine",
     "tags": [
@@ -2461,6 +2476,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-buttery-irish-potato-skillet",
+    "title": "Yellowed Buttery Irish Potato Skillet",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "one-pan",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

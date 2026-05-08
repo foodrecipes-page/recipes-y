@@ -968,6 +968,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-citrusy-mexican-corn-pozole",
+    "title": "Yellow Citrusy Mexican Corn Pozole",
+    "tags": [
+      "citrusy",
+      "comfort-food",
+      "lazy-sunday",
+      "mexican",
+      "one-pot",
+      "vegan"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-comfy-slovakian-masarepa-flatbread",
     "title": "yellow comfy slovakian masarepa flatbread",
     "tags": [

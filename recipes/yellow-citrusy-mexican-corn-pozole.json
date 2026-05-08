@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Citrusy Mexican Corn Pozole",
+  "description": "A funky and creamy Mexican dish featuring golden caster sugar and shio-cure, perfect for a lazy Sunday, this vegan-friendly pozole is a delicious and comforting meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hominy",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yellow corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the hominy, yellow corn kernels, golden caster sugar, shio-cure, and salt, stirring to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the flavors have melded together.",
+    "Stir in the lime juice and chopped cilantro.",
+    "Serve the pozole hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "lazy-sunday",
+    "mexican",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-citrusy-mexican-corn-pozole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-citrusy-mexican-corn-pozole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:04:34Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "shio-cure",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Pozole"
+  }
+}

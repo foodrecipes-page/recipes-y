@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Fluffy Uruguayan Gelatin Pudding",
+  "description": "A sweet and fluffy Uruguayan dessert featuring unflavored gelatin, perfect for brunch, and flexitarian friendly. It has a delicious glaze to top it off.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 envelope",
+      "notes": "0.25 oz"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "3"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it sit for 5 minutes to soften.",
+    "In a medium saucepan, combine the milk, sugar, and vanilla extract, and heat over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "In a small bowl, whisk together the egg yolks and cornstarch, then gradually add the lemon juice, whisking until smooth.",
+    "Gradually add the hot milk mixture to the egg yolk mixture, whisking constantly to prevent the eggs from scrambling.",
+    "Return the mixture to the saucepan and cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Remove the saucepan from the heat and add the softened gelatin, stirring until it is fully dissolved.",
+    "Strain the mixture into a clean bowl and let it cool to room temperature.",
+    "Cover the bowl with plastic wrap and refrigerate until the pudding is set, at least 3 hours.",
+    "Just before serving, melt the butter and mix with the confectioners sugar to make a glaze.",
+    "Serve the pudding chilled, topped with the glaze."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dessert",
+    "flexitarian",
+    "gelatin",
+    "south-american",
+    "sweet",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellow-fluffy-uruguayan-gelatin-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-fluffy-uruguayan-gelatin-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:27:22Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "glaze",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "gelatin",
+    "descriptor": "Yellow Fluffy",
+    "dishForm": "Pudding"
+  }
+}

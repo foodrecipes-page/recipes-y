@@ -1,0 +1,114 @@
+{
+  "title": "Yummy British Pork Bake",
+  "description": "A deliciously citrusy and crispy British-style pork dish from Northern Ireland that's perfect for a lazy Sunday meal.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g pork shoulder",
+      "amount": "1",
+      "notes": "cut into 2.5cm chunks"
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "200g mixed carrots and parsnips",
+      "amount": "1",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "100g mirin-hon",
+      "amount": "1/2 cup",
+      "notes": "or other sweet white wine"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "1",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "1",
+      "notes": "dried"
+    },
+    {
+      "name": "1 tsp dried rosemary",
+      "amount": "1",
+      "notes": "dried"
+    },
+    {
+      "name": "1 lemon",
+      "amount": "1",
+      "notes": "zested and juiced"
+    },
+    {
+      "name": "200g cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "250g puff pastry",
+      "amount": "1",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "In a large bowl, toss the pork chunks with the olive oil, thyme, and rosemary until evenly coated.",
+    "Heat a large oven-safe pan over medium-high heat. Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the pan and sauté until softened, about 3-4 minutes.",
+    "Add the mixed carrots and parsnips, mirin-hon, lemon zest, and lemon juice to the pan, stirring to combine.",
+    "Transfer the pan to the preheated oven and bake for 20 minutes.",
+    "After 20 minutes, add the halved cherry tomatoes to the pan and continue baking for another 15 minutes.",
+    "While the pork is baking, roll out the puff pastry to a thickness of about 3mm (1/8 inch).",
+    "Once the pork is done, remove it from the oven and carefully place the puff pastry on top of the pork, pressing the edges to seal.",
+    "Return the pan to the oven and bake for an additional 10 minutes, or until the pastry is golden brown.",
+    "Remove the pan from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "flexitarian",
+    "lazy-sunday",
+    "northern-irish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 24
+  },
+  "slug": "yummy-british-pork-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-british-pork-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T17:21:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "mirin-hon",
+    "diet": "flexitarian",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "pork",
+    "descriptor": "yummy",
+    "dishForm": "Bake"
+  }
+}

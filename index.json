@@ -541,6 +541,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-irish-taleggio-casserole",
+    "title": "Yeasty Irish Taleggio Casserole",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "low-calorie",
+      "sous-vide",
+      "vegetarian",
+      "yeasty"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 150,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-japanese-beef-broth",
     "title": "tokyo beef storm",
     "tags": [

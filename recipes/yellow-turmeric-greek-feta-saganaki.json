@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Turmeric Greek Feta Saganaki",
+  "description": "A creamy and aromatic Greek dish featuring turmeric and feta cheese, cooked to perfection in a kazan cauldron, perfect for a crowd. This recipe is shojin-friendly and served in a saganaki form.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan cauldron over medium heat.",
+    "Add olive oil to the cauldron and swirl it around to coat the bottom.",
+    "Add minced garlic and cook until fragrant, about 1 minute.",
+    "Add turmeric powder and cook for another minute, stirring constantly.",
+    "Crumble the feta cheese into the cauldron and stir to combine with the turmeric mixture.",
+    "Squeeze lemon juice over the feta mixture and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Reduce heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Stir in chopped fresh parsley and cook for an additional 2 minutes.",
+    "Remove the cauldron from the heat and serve the saganaki hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "greek-cuisine",
+    "one-pot",
+    "umami-rich",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "yellow-turmeric-greek-feta-saganaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-turmeric-greek-feta-saganaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:02:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "turmeric",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "Yellow Turmeric",
+    "dishForm": "Saganaki"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Yellow Kenyan Pumpkin Seeds Tagine",
+  "description": "A traditional Kenyan dish featuring roasted pumpkin seeds, served in a terracotta dish with a blend of earthy spices, perfect for a post-workout snack. This flexitarian-friendly recipe incorporates shio-cure for added flavor.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pumpkin seeds",
+      "amount": "1 cup",
+      "notes": "Yellow Kenyan variety"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Spread the pumpkin seeds on a baking sheet and roast for 10 minutes.",
+    "Remove the seeds from the oven and let them cool.",
+    "Grind the roasted seeds into a coarse powder using a spice grinder or mortar and pestle.",
+    "Heat the olive oil in a large terracotta dish over medium heat.",
+    "Add the chopped onion to the dish and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the dish and cook for an additional 1 minute.",
+    "Stir in the ground cumin, coriander, salt, and black pepper, and cook for 1 minute.",
+    "Add the shio-cure and pumpkin seed powder to the dish and stir to combine.",
+    "Reduce heat to low and simmer the tagine for 10 minutes, stirring occasionally."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "yellow-kenyan-pumpkin-seeds-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-kenyan-pumpkin-seeds-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:42:03Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "shio-cure",
+    "primaryIngredient": "seeds",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "pumpkin seeds",
+    "descriptor": "Yellow earthy",
+    "dishForm": "Tagine"
+  }
+}

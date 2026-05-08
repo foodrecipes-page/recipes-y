@@ -2216,6 +2216,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-kenyan-pumpkin-seeds-tagine",
+    "title": "Yellow Kenyan Pumpkin Seeds Tagine",
+    "tags": [
+      "african-cuisine",
+      "flexitarian",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-lacquered-korean-tofu-sujebi",
     "title": "Yellow Lacquered Korean Tofu Sujebi",
     "tags": [
@@ -3443,6 +3458,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-springy-greek-vegetable-pilaf",
+    "title": "Yellow Springy Greek Vegetable Pilaf",
+    "tags": [
+      "gluten-free",
+      "greek",
+      "healthy",
+      "post-workout",
+      "springy",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

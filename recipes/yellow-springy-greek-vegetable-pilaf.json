@@ -1,0 +1,107 @@
+{
+  "title": "Yellow Springy Greek Vegetable Pilaf",
+  "description": "A resinous and springy post-workout Greek dish featuring katsuramuki-cut vegetables and ayurvedic-sattvic-friendly ingredients, made with self-raising flour. It is a healthy and flavorful meal option.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "self-raising flour",
+      "amount": "1 cup",
+      "notes": "used as a thickening agent"
+    },
+    {
+      "name": "katsuramuki-cut zucchini",
+      "amount": "2 medium",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "katsuramuki-cut carrots",
+      "amount": "2 medium",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the self-raising flour, salt, and black pepper.",
+    "Add the chopped onion and minced garlic to the bowl and stir to combine.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the katsuramuki-cut zucchini and carrots to the skillet and cook until they are tender, about 5 minutes.",
+    "Add the diced yellow bell pepper to the skillet and cook for an additional 2 minutes.",
+    "Stir the cooked vegetables into the bowl with the flour mixture.",
+    "Squeeze the lemon juice over the top of the vegetable mixture and stir to combine.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes.",
+    "Remove the pilaf from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek",
+    "healthy",
+    "post-workout",
+    "springy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "yellow-springy-greek-vegetable-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-springy-greek-vegetable-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:41:29Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "self-raising flour",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "vegetables",
+    "descriptor": "Yellow Springy",
+    "dishForm": "Pilaf"
+  }
+}

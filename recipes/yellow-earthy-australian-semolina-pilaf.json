@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Earthy Australian Semolina Pilaf",
+  "description": "A solo dinner dish featuring semolina, with earthy and Mediterranean-friendly flavors, cooked in a donabe vessel and finished with a tempering chocolate touch.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the donabe over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the semolina and cook for 2 minutes, stirring constantly.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover the donabe, and simmer for 15 minutes.",
+    "Melt the tempering chocolate in a double boiler.",
+    "Stir the melted chocolate into the semolina mixture.",
+    "Season with thyme, lemon juice, and salt.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "earth-tones",
+    "mediterranean-inspired",
+    "one-pot",
+    "semolina-based",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-earthy-australian-semolina-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-earthy-australian-semolina-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:07:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "semolina",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "semolina",
+    "descriptor": "Yellow earthy",
+    "dishForm": "Pilaf"
+  }
+}

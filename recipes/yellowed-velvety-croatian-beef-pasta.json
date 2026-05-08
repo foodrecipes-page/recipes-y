@@ -1,0 +1,103 @@
+{
+  "title": "Yellowed Velvety Croatian Beef Pasta",
+  "description": "A roasted Croatian dish featuring lean minced beef and a velvety pasta water emulsion, served in a bento box.",
+  "cuisine": "Croatian",
+  "diet": [
+    "raw friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the pasta according to the package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the minced beef and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the grated carrots, beef broth, tomato paste, salt, and black pepper to the skillet and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the cooked pasta and continue to simmer for an additional 2 minutes.",
+    "Transfer the mixture to a bento box and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "one-pot",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "yellowed-velvety-croatian-beef-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-velvety-croatian-beef-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:02:06Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "lean minced beef",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "beef",
+    "descriptor": "Yellowed Velvety",
+    "dishForm": "Pasta"
+  }
+}

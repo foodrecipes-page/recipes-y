@@ -1,0 +1,87 @@
+{
+  "title": "Yellowed Croatian Hazelnut Salad",
+  "description": "A light and refreshing Croatian dish featuring shelled hazelnuts and candy, served on a bamboo tray.",
+  "cuisine": "Croatian",
+  "diet": [
+    "raw",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shelled hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "candy",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lemon juice, olive oil, salt, and black pepper.",
+    "Add the chopped hazelnuts, diced candy, and chopped parsley to the bowl and toss to combine.",
+    "Spoon the salad onto a bamboo tray.",
+    "Garnish with additional parsley if desired.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "healthy-snack",
+    "quick-recipe",
+    "raw-friendly",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellowed-croatian-hazelnut-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-croatian-hazelnut-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:21:10Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "candy",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Yellowed Bouncy",
+    "dishForm": "Salad"
+  }
+}

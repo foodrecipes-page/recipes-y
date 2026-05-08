@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Spicy Egyptian Lamb Tagine",
+  "description": "A rich and spicy Egyptian dish featuring lamb, cayenne pepper, and coconut cream, perfect for a midnight craving. This sugar-free-friendly recipe is cooked to perfection in a terracotta dish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large terracotta dish, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the cayenne pepper, salt, black pepper, turmeric, and paprika, and stir to combine.",
+    "Pour in the coconut cream and bring the mixture to a simmer.",
+    "Cover the dish with a lid and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and the sauce is thick and jammy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "north-african",
+    "one-pot",
+    "slow-cooked",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "yellow-spicy-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:20:16Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Tagine"
+  }
+}

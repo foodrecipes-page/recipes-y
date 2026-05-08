@@ -1,0 +1,100 @@
+{
+  "title": "Yummy Buttery American Chicken Casserole",
+  "description": "A buttery and juicy American dish featuring chicken, tarragon, and French flavors, perfect for a comforting meal.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried tarragon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "French fried onions",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the chicken with flour to coat.",
+    "In a large skillet, melt 1/4 cup of butter over medium heat and cook the chicken until browned.",
+    "In a separate saucepan, combine the chicken broth, heavy cream, tarragon, salt, and pepper, and bring to a simmer.",
+    "Stir the cooked chicken into the saucepan and cook until the sauce thickens.",
+    "In a greased 9x13 inch baking dish, arrange a layer of the chicken mixture.",
+    "Top the chicken with a layer of frozen peas and carrots.",
+    "Sprinkle the crushed French fried onions over the top of the casserole.",
+    "Drizzle the remaining 1/4 cup of melted butter over the onions.",
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "chicken-casserole",
+    "comfort-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "yummy-buttery-american-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-buttery-american-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:20:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "tarragon-french",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "yummy buttery",
+    "dishForm": "Casserole"
+  }
+}

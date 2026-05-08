@@ -3492,6 +3492,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-egyptian-lamb-tagine",
+    "title": "Yellow Spicy Egyptian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb-based",
+      "north-african",
+      "one-pot",
+      "slow-cooked",
+      "spicy"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 180,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-egyptian-lentil-tagine",
     "title": "Yellow Spicy Egyptian Lentil Tagine",
     "tags": [
@@ -4670,6 +4685,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-croatian-hazelnut-salad",
+    "title": "Yellowed Croatian Hazelnut Salad",
+    "tags": [
+      "croatian-cuisine",
+      "healthy-snack",
+      "quick-recipe",
+      "raw-friendly",
+      "vegetarian-option"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -6998,6 +7027,20 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 65,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-buttery-american-chicken-casserole",
+    "title": "Yummy Buttery American Chicken Casserole",
+    "tags": [
+      "american-classics",
+      "chicken-casserole",
+      "comfort-food",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

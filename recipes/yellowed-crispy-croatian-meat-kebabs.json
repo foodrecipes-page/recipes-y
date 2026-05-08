@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Crispy Croatian Meat Kebabs",
+  "description": "A quick-fix Croatian dish featuring minced garlic and air-fried meat, this recipe is low-carb-friendly and perfect for a weeknight dinner. The combination of grassy and glassy-jelly textures adds a unique twist to traditional meat kebabs.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "bruised"
+    },
+    {
+      "name": "gelatin",
+      "amount": "1 tablespoon",
+      "notes": "dissolved in 2 tablespoons water"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, combine ground beef, minced garlic, paprika, salt, and black pepper, and mix well with your hands until just combined.",
+    "Thread the meat mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and place them in the air fryer basket.",
+    "Cook the kebabs in the air fryer for 12 minutes, shaking the basket halfway through.",
+    "While the kebabs are cooking, combine the bruised lemongrass and dissolved gelatin in a small bowl.",
+    "After the kebabs have finished cooking, brush them with the lemongrass and gelatin mixture.",
+    "Serve the kebabs hot, garnished with additional lemongrass if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "croatian-food",
+    "garlic-lovers",
+    "low-carb",
+    "quick-dinner",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "yellowed-crispy-croatian-meat-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-croatian-meat-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:12:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "minced garlic",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Kebabs"
+  }
+}

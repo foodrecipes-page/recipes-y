@@ -1,0 +1,107 @@
+{
+  "title": "Yellow Smoky Mexican Chicken Stew",
+  "description": "A smoky and silky Mexican stew featuring raisins and tempering chocolate, inspired by Yucatecan cuisine, made in a claypot and halal friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "2 ounces",
+      "notes": "tempering chocolate"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a claypot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the smoked paprika, cumin, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth, raisins, and dark chocolate, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "claypot",
+    "halal",
+    "mexican",
+    "silky",
+    "smoky",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "yellow-smoky-mexican-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-mexican-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:13:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "raisins",
+    "diet": "halal",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Stew"
+  }
+}

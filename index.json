@@ -2942,6 +2942,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-smoky-mexican-chicken-stew",
+    "title": "Yellow Smoky Mexican Chicken Stew",
+    "tags": [
+      "chicken",
+      "claypot",
+      "halal",
+      "mexican",
+      "silky",
+      "smoky",
+      "stew"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-smoky-mexican-mung-bean-sprouts-pozole",
     "title": "Yellow Smoky Mexican Mung Bean Sprouts Pozole",
     "tags": [
@@ -4179,6 +4195,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crispy-croatian-meat-kebabs",
+    "title": "Yellowed Crispy Croatian Meat Kebabs",
+    "tags": [
+      "air-fryer",
+      "croatian-food",
+      "garlic-lovers",
+      "low-carb",
+      "quick-dinner",
+      "weeknight-meal"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 32,
     "shard": "y"
   },
   {

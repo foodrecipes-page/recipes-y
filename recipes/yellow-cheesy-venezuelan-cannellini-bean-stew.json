@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Cheesy Venezuelan Cannellini Bean Stew",
+  "description": "A festive and flavorful Venezuelan dish featuring cannellini beans and a blend of cheeses, cooked to perfection in a kazan cauldron. This low-fat friendly stew is perfect for a weeknight dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yellow cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "white cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth in the kazan cauldron over medium heat.",
+    "Add the katsuramuki-cut onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the tomato paste, cumin, and paprika, and cook for 1 minute.",
+    "Add the cannellini beans and cook for 10 minutes, or until they are tender.",
+    "Stir in the shredded yellow cheese and crumbly white cheese until they are melted and well combined.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "latin-american",
+    "low-fat",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellow-cheesy-venezuelan-cannellini-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-cheesy-venezuelan-cannellini-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:15:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "cannellini beans",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Yellow cheesy",
+    "dishForm": "Stew"
+  }
+}

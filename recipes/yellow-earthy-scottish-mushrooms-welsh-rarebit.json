@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Earthy Scottish Mushrooms Welsh Rarebit",
+  "description": "A savory and earthy Scottish dish featuring mushrooms and a crunchy coco sugar crust, served en-croute in a satvik-friendly Welsh rarebit form, perfect for a date night.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "Scottish wild mushrooms"
+    },
+    {
+      "name": "coco sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a pan, saute the chopped onion and minced garlic until softened.",
+    "Add the Scottish wild mushrooms to the pan and cook until they release their moisture and start to brown.",
+    "In a separate bowl, mix the coco sugar, nutritional yeast, and lemon juice to create the rarebit sauce.",
+    "Butter the whole wheat bread slices with vegan butter.",
+    "Spoon the mushroom mixture onto the bread slices, followed by a spoonful of the rarebit sauce.",
+    "Place the bread slices in a baking dish and sprinkle with additional coco sugar.",
+    "Bake in the preheated oven for 15 minutes, or until the top is golden brown and the bread is toasted.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-food",
+    "date-night",
+    "easy-dinner",
+    "mushroom-recipes",
+    "scottish-cuisine",
+    "vegetarian-dishes",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-earthy-scottish-mushrooms-welsh-rarebit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-earthy-scottish-mushrooms-welsh-rarebit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:11:52Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "en-croute",
+    "primaryIngredient": "coco sugar",
+    "diet": "satvik",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Yellow Earthy",
+    "dishForm": "Welsh Rarebit"
+  }
+}

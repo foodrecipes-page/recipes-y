@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Molten Polish Pork Dumplings",
+  "description": "Salty, molten, lazy-sunday polish dish featuring unflavored gelatin and halal-friendly ingredients, perfect for a cozy dinner",
+  "cuisine": "Polish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, unflavored gelatin, yellow onion, garlic, salt, and black pepper, and mix well until just combined.",
+    "Gradually add the all-purpose flour to the pork mixture, stirring with a wooden spoon until a dough forms.",
+    "Add the egg and water to the dough, and mix until the dough is smooth and elastic.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces, and shape each piece into a ball.",
+    "Flatten each ball into a disk shape, and place a tablespoon of vegetable oil in the center of each disk.",
+    "Fold the dough over the oil to form a half-moon shape, and press the edges together to seal the dumpling.",
+    "Heat a large skillet over medium heat, and add the dumplings to the skillet, seam-side down.",
+    "Cook the dumplings for 5 minutes on each side, until they are golden brown and crispy.",
+    "Flambe the dumplings with a small amount of oil, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "homemade-dumplings",
+    "lazy-sunday",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellow-molten-polish-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-molten-polish-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:43:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "flambe",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Yellow Molten",
+    "dishForm": "Dumplings"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Yummy Nutty Peruvian Quinoa Bowl",
+  "description": "A nutty and fluffy Peruvian dish featuring sake cooking and pickles, perfect for a date night, and macrobiotic friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "sake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa in a fine mesh strainer and drain well.",
+    "In a medium saucepan, bring the sake and water to a boil.",
+    "Add the quinoa to the saucepan, cover, reduce the heat to low, and simmer for 15 minutes.",
+    "While the quinoa cooks, heat the sesame oil in a small skillet over medium heat.",
+    "Add the chopped peanuts to the skillet and cook, stirring frequently, until lightly toasted.",
+    "Stir in the soy sauce, salt, and black pepper, and cook for 1 minute.",
+    "Fluff the cooked quinoa with a fork and stir in the toasted peanut mixture.",
+    "Top the quinoa with pickled ginger, scallions, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "macrobiotic-friendly",
+    "peruvian-cuisine",
+    "quinoa-bowl",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yummy-nutty-peruvian-quinoa-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-nutty-peruvian-quinoa-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:13:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "sake-cooking",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "quinoa",
+    "descriptor": "yummy nutty",
+    "dishForm": "Bowl"
+  }
+}

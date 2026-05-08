@@ -717,6 +717,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-silky-dutch-endive-wrap",
+    "title": "Yeasty Silky Dutch Endive Wrap",
+    "tags": [
+      "dutch-cuisine",
+      "harissa-spice",
+      "ramekin",
+      "silky",
+      "vegetarian",
+      "yeasty"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-silky-ethiopian-chicken-tagine",
     "title": "Ethiopian Yeasty Silky Chicken Tagine",
     "tags": [
@@ -7036,6 +7051,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-nutty-peruvian-quinoa-bowl",
+    "title": "Yummy Nutty Peruvian Quinoa Bowl",
+    "tags": [
+      "date-night",
+      "macrobiotic-friendly",
+      "peruvian-cuisine",
+      "quinoa-bowl",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

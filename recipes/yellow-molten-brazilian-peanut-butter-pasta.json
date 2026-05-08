@@ -1,0 +1,97 @@
+{
+  "title": "Yellow Molten Brazilian Peanut Butter Pasta",
+  "description": "A tangy and comforting Brazilian dish featuring peanut butter in a rich and creamy sauce, served with al-dente pasta in a copper pot.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "nut-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup",
+      "notes": " creamy natural peanut butter"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yellow curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large copper pot of salted water to a boil and cook the pasta according to package instructions until al-dente.",
+    "In a blender or food processor, combine peanut butter, butter, garlic, onion, coconut milk, curry powder, salt, and pepper, and blend until smooth.",
+    "In the same copper pot, add the blended peanut butter sauce and stir over low heat until the sauce is warm and molten.",
+    "Add the cooked pasta to the copper pot and toss to combine with the peanut butter sauce.",
+    "Serve the pasta hot, garnished with chopped fresh cilantro or scallions if desired.",
+    "Let the pasta rest for a few minutes before serving to allow the sauce to set.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "copper-pot",
+    "one-pot",
+    "peanut-butter",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "yellow-molten-brazilian-peanut-butter-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-molten-brazilian-peanut-butter-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:45:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "peanut butter",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "peanut butter",
+    "descriptor": "Yellow Molten",
+    "dishForm": "Pasta"
+  }
+}

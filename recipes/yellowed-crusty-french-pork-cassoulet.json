@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Crusty French Pork Cassoulet",
+  "description": "A tangy and tender French dish from Provence, featuring pork and white beans in a rich bouillon, perfect for a midnight craving. This sugar-free-friendly recipe is cooked to perfection in a kazan cauldron.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "white beans",
+      "amount": "1 cup",
+      "notes": "dried and soaked overnight"
+    },
+    {
+      "name": "bouillon cubes",
+      "amount": "4 cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in the kazan cauldron over medium heat.",
+    "Add the pork cubes and cook until browned on all sides.",
+    "Add the garlic, tomato paste, thyme, and bay leaves, and cook for 1 minute.",
+    "Add the soaked white beans, bouillon cubes, and 4 cups of water to the cauldron.",
+    "Bring the mixture to a boil, then cover the cauldron and transfer it to the preheated oven.",
+    "Bake for 2.5 hours, or until the pork is tender and the beans are cooked.",
+    "Remove the cauldron from the oven and let it cool slightly.",
+    "Deglaze the fond by scraping the bottom of the cauldron with a wooden spoon.",
+    "Serve the cassoulet hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pot",
+    "pork-recipe",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellowed-crusty-french-pork-cassoulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crusty-french-pork-cassoulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:15:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "sugar-free",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "pork",
+    "descriptor": "Yellowed Crusty",
+    "dishForm": "Cassoulet"
+  }
+}

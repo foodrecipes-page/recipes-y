@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Chewy Thai Dates Curry",
+  "description": "Sweet and chewy Thai curry featuring stoned dates, perfect for a weeknight dinner, this egg-free friendly dish is a Bangkok street food inspired delight",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stoned dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat",
+    "Add onion and cook until softened",
+    "Add garlic and ginger and cook for 1 minute",
+    "Add curry powder and cook for 1 minute",
+    "Add stoned dates and cook for 2 minutes",
+    "Pour in coconut milk and bring to a simmer",
+    "Reduce heat to low and cook for 10 minutes",
+    "Season with salt to taste",
+    "Serve hot over rice or noodles"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pan",
+    "sweet-and-savory",
+    "thai-curry",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-chewy-thai-dates-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-chewy-thai-dates-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:30:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "stoned dates",
+    "diet": "egg-free",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "dates",
+    "descriptor": "Yellowed Chewy",
+    "dishForm": "Curry"
+  }
+}

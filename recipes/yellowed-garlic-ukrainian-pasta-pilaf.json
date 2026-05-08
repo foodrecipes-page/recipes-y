@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Garlic Ukrainian Pasta Pilaf",
+  "description": "A garlicky and nostalgic Ukrainian dish featuring dried cherries and a pasta water emulsion, served on a cedar plank. This dairy free friendly pilaf is perfect for a weeknight dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "bouncy qq pasta"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "yellowed garlic"
+    },
+    {
+      "name": "dried cherries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pasta water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the pasta according to the package instructions and set aside.",
+    "Mix the pasta water with olive oil, salt, and black pepper to create an emulsion.",
+    "Add the yellowed garlic to the emulsion and stir well.",
+    "Combine the cooked pasta, emulsion, and dried cherries in a large bowl.",
+    "Stir in the chopped fresh parsley and lemon juice.",
+    "Spoon the pilaf onto a cedar plank.",
+    "Bake the pilaf in the preheated oven for 15 minutes.",
+    "Remove the pilaf from the oven and let it cool for a few minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "yellowed-garlic-ukrainian-pasta-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-garlic-ukrainian-pasta-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:48:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "dried cherries",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pasta",
+    "descriptor": "Yellowed Garlic",
+    "dishForm": "Pilaf"
+  }
+}

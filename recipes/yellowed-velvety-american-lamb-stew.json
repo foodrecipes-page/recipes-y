@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Velvety American Lamb Stew",
+  "description": "A winey and velvety American lamb stew featuring ras el hanout, perfect for a weeknight dinner, this dish is onion and garlic free.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the ras el hanout, thyme, salt, and pepper, and cook for 1 minute.",
+    "Add the red wine, beef broth, and tomato paste, and stir to combine.",
+    "Add the carrots and potatoes, and bring the mixture to a boil.",
+    "Cover the Dutch oven and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the stew from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "one-pot",
+    "slow-cooked",
+    "weeknight",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellowed-velvety-american-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-velvety-american-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:45:29Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "slow-cook",
+    "primaryIngredient": "ras el hanout",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Velvety",
+    "dishForm": "Stew"
+  }
+}

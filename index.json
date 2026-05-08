@@ -4303,6 +4303,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-velvety-american-lamb-stew",
+    "title": "Yellowed Velvety American Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "lamb-based",
+      "one-pot",
+      "slow-cooked",
+      "weeknight",
+      "wine-based"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 180,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-velvety-croatian-beef-pasta",
     "title": "Yellowed Velvety Croatian Beef Pasta",
     "tags": [

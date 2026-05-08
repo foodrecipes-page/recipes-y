@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Zesty Middle Eastern Tuna Labneh Bowl",
+  "description": "A funky and tender Middle Eastern dish featuring tuna, ferment-kimchi, and labneh, perfect for a midnight craving. This gluten-free friendly bowl is a unique twist on traditional Middle Eastern cuisine.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "canned tuna",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "labneh",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together lemon juice, olive oil, garlic, sumac, salt, and black pepper.",
+    "Add the flaked tuna to the bowl and toss to coat with the dressing.",
+    "In a separate bowl, mix together the labneh and chopped ferment-kimchi.",
+    "To assemble the bowls, divide the labneh mixture between two bowls.",
+    "Top the labneh with the tuna mixture.",
+    "Garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy.",
+    "Refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-zesty-middle-eastern-tuna-labneh-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-zesty-middle-eastern-tuna-labneh-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:37:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "tuna",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "tuna",
+    "descriptor": "Yellow Zesty",
+    "dishForm": "Labneh Bowl"
+  }
+}

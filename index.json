@@ -1701,6 +1701,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-mustardy-vietnamese-lamb-kidney-noodles",
+    "title": "Yellow Mustardy Vietnamese Lamb Kidney Noodles",
+    "tags": [
+      "kidney",
+      "lamb",
+      "mustard",
+      "noodles",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-peppered-croatian-fish-stew",
     "title": "Yellow Peppered Croatian Fish Stew",
     "tags": [
@@ -1829,6 +1844,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-silky-syrian-lamb-kebabs",
+    "title": "Yellow Silky Syrian Lamb Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "special-occasion",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

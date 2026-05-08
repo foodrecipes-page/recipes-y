@@ -1,0 +1,102 @@
+{
+  "title": "Yellow Mustardy Vietnamese Lamb Kidney Noodles",
+  "description": "A weeknight Vietnamese dish featuring lamb kidney and mustardy flavors, this recipe is a flexitarian-friendly option for a quick dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Press the saute button on the pressure cooker and heat 1 tablespoon of vegetable oil until shimmering.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the sliced lamb kidney and cook until it is browned on all sides.",
+    "Add the yellow mustard, fish sauce, and lime juice, and stir to combine.",
+    "Add 2 cups of water to the pressure cooker and close the lid, making sure the valve is set to sealing.",
+    "Pressure cook the mixture for 10 minutes, then let the pressure release naturally for 5 minutes.",
+    "Cook the rice noodles according to the package instructions and drain.",
+    "Stir in the cooked noodles, salt, and black pepper, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kidney",
+    "lamb",
+    "mustard",
+    "noodles",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "yellow-mustardy-vietnamese-lamb-kidney-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-mustardy-vietnamese-lamb-kidney-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:02:10Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "lamb kidney",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "lamb kidney",
+    "descriptor": "Yellow Mustardy",
+    "dishForm": "Noodles"
+  }
+}

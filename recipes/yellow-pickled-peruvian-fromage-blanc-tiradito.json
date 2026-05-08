@@ -1,0 +1,106 @@
+{
+  "title": "Yellow Pickled Peruvian Fromage Blanc Tiradito",
+  "description": "A light and refreshing Peruvian dish featuring roasted fromage blanc, pickled vegetables, and a touch of yellow pepper sauce, perfect for a flexitarian meal prep",
+  "cuisine": "Peruvian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fromage blanc",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "2",
+      "notes": "roasted"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickling vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit to roast the yellow peppers",
+    "Place the yellow peppers on a baking sheet and roast for 30 minutes",
+    "Let the peppers cool down and then peel off the skin and slice them into strips",
+    "In a large bowl, whisk together the pickling vinegar, olive oil, salt, and black pepper",
+    "Add the sliced cucumber, carrot, and red onion to the bowl and toss to coat with the pickling mixture",
+    "Let the vegetables pickle for at least 30 minutes",
+    "In a separate bowl, mix together the softened fromage blanc and chopped cilantro",
+    "To assemble the tiradito, place a scoop of the fromage blanc mixture on a plate, top with a few strips of roasted yellow pepper and some pickled vegetables",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-recipes",
+    "flexitarian",
+    "healthy-eating",
+    "lunch-ideas",
+    "meal-prep",
+    "peruvian-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "yellow-pickled-peruvian-fromage-blanc-tiradito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-pickled-peruvian-fromage-blanc-tiradito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:26:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "Yellow Pickled",
+    "dishForm": "Tiradito"
+  }
+}

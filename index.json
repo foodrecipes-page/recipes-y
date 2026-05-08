@@ -864,6 +864,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-tender-greek-pork-souvlaki",
+    "title": "Yeasty Tender Greek Pork Souvlaki",
+    "tags": [
+      "greek-food",
+      "grilled-meat",
+      "souvlaki-recipe",
+      "tender-pork",
+      "weeknight",
+      "yeast-based"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-tender-vietnamese-pork-bun-thit-nuong",
     "title": "Yeasty Tender Vietnamese Pork Bun Thit Nuong",
     "tags": [
@@ -1053,6 +1068,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-buttery-middle-eastern-chickpeas-hummus",
+    "title": "Yellow Buttery Middle Eastern Chickpeas Hummus",
+    "tags": [
+      "date-night",
+      "healthy-snack",
+      "high-protein",
+      "middle-eastern",
+      "raw-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 10,
     "shard": "y"
   },
   {
@@ -4418,6 +4448,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 32,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crispy-earthy-korean-saskatoon-berries-bake",
+    "title": "Jeju Yellowed Crispy Saskatoon Berries Bake",
+    "tags": [
+      "korean-dish",
+      "low-calorie",
+      "one-pan",
+      "saskatoon-berries",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Buttery Middle Eastern Chickpeas Hummus",
+  "description": "A rich and creamy hummus dish featuring pecorino and dashi extract, perfect for a date night, this recipe is raw friendly and made with buttery and fluffy chickpeas.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "raw",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine the chickpeas, pecorino cheese, dashi extract, lemon juice, garlic, and a pinch of salt and pepper.",
+    "Blend the mixture on high speed for about 2 minutes, or until smooth and creamy.",
+    "With the blender or food processor running, slowly pour in the olive oil and melted butter.",
+    "Continue blending for another minute, or until the hummus is light and fluffy.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the hummus to a serving bowl and garnish with a sprinkle of paprika.",
+    "Serve immediately, garnished with additional pecorino cheese if desired.",
+    "Cover and refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "healthy-snack",
+    "high-protein",
+    "middle-eastern",
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "yellow-buttery-middle-eastern-chickpeas-hummus",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-buttery-middle-eastern-chickpeas-hummus",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:07:01Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "pecorino",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Yellow Buttery",
+    "dishForm": "Hummus"
+  }
+}

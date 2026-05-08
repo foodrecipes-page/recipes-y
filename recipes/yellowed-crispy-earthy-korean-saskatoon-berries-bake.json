@@ -1,0 +1,97 @@
+{
+  "title": "Jeju Yellowed Crispy Saskatoon Berries Bake",
+  "description": "A warm, earthy bake featuring saskatoon berries from Jeju Island, perfect for a low-calorie dessert or snack.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saskatoon Berries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a 9x9-inch baking dish with parchment paper.",
+    "In a medium bowl, whisk together almond flour, coconut sugar, baking soda, salt, and ground cinnamon.",
+    "In a large bowl, whisk together coconut oil, eggs, vanilla extract, and Korean chili flakes.",
+    "Add the dry ingredients to the wet ingredients and mix until well combined.",
+    "Gently fold in the saskatoon berries.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 35 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool for 10 minutes before slicing into squares.",
+    "Serve warm, garnished with additional saskatoon berries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "korean-dish",
+    "low-calorie",
+    "one-pan",
+    "saskatoon-berries",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "yellowed-crispy-earthy-korean-saskatoon-berries-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-earthy-korean-saskatoon-berries-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T22:06:32Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "low-calorie",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Saskatoon berries",
+    "descriptor": "Yellowed crispy earthy",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Yellow Gooey Middle Eastern Frankfurter Hummus",
+  "description": "A unique and delicious midnight craving dish featuring frankfurter and a mother-sauce-base, this hummus is floral and gooey, perfect for satisfying your snack cravings, it is also onion and garlic free.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal",
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "frankfurter",
+      "amount": "4 slices",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/2 cup",
+      "notes": " creamy"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "or as needed"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine the chickpeas, lemon juice, tahini, olive oil, paprika, and salt.",
+    "Blend the mixture on high speed for about 2 minutes, or until smooth and creamy.",
+    "Add the cooked and diced frankfurter to the blender and blend until well combined.",
+    "With the blender running, slowly add the water and continue blending for another minute.",
+    "Taste and adjust the seasoning as needed, adding more lemon juice, salt, or paprika to taste.",
+    "If desired, add the yellow food coloring and blend until the color is evenly distributed.",
+    "Transfer the hummus to a serving bowl and garnish with chopped fresh parsley.",
+    "Serve the Yellow Gooey Middle Eastern Frankfurter Hummus immediately, or cover and refrigerate for up to 24 hours.",
+    "Just before serving, give the hummus a good stir and adjust the consistency as needed by adding a little more water."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "frankfurter",
+    "gooey",
+    "hummus",
+    "middle-eastern",
+    "no-onion-no-garlic",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellow-gooey-middle-eastern-frankfurter-hummus",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-gooey-middle-eastern-frankfurter-hummus",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:03:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "frankfurter",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "frankfurter",
+    "descriptor": "Yellow Gooey",
+    "dishForm": "Hummus"
+  }
+}

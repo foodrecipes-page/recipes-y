@@ -1,0 +1,106 @@
+{
+  "title": "Yellow Citrusy Australian Shiitake Mushroom Bowl",
+  "description": "A citrusy and crunchy Australian dish featuring shiitake mushrooms, perfect for a hangover cure, and is dairy-free friendly. This bowl is packed with nutritious ingredients to help you recover.",
+  "cuisine": "Australian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, whisk together lemon juice, olive oil, garlic, and ginger.",
+    "Add the sliced shiitake mushrooms to the bowl and toss to coat with the marinade.",
+    "Spread the mushrooms on a baking sheet and roast in the oven for 15 minutes.",
+    "In a pan, heat the kimchi over medium heat for 2 minutes.",
+    "Add the turmeric to the pan and stir for 1 minute.",
+    "Fluff the cooked quinoa with a fork and add it to the pan, stirring to combine with the kimchi and turmeric.",
+    "Season the quinoa mixture with salt and pepper to taste.",
+    "To assemble the bowls, divide the quinoa mixture among four bowls, then top with the roasted mushrooms."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "crunchy",
+    "hangover-cure",
+    "high-protein",
+    "mushroom-lovers",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-citrusy-australian-shiitake-mushroom-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-citrusy-australian-shiitake-mushroom-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:07:47Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Bowl"
+  }
+}

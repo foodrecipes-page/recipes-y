@@ -1,0 +1,87 @@
+{
+  "title": "Yellowed Crunchy Canadian Rye Bread Toast",
+  "description": "A charred and crunchy Canadian dish featuring rye bread and render-fat, perfect for a solo dinner, this flexitarian-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Canadian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rye bread",
+      "amount": "4 slices",
+      "notes": "dark or light rye"
+    },
+    {
+      "name": "render-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the rye bread into 1-inch thick slices and place on a baking sheet.",
+    "Drizzle the render-fat over the bread slices, making sure each slice is coated.",
+    "Sprinkle the salt, black pepper, garlic powder, onion powder, and paprika evenly over the bread slices.",
+    "Place the baking sheet in the oven and bake for 10 minutes.",
+    "Remove the baking sheet from the oven and broil the bread slices for 2 minutes, or until they are charred and crunchy.",
+    "Remove the bread slices from the oven and let cool for 1 minute.",
+    "Serve the yellowed crunchy Canadian rye bread toast hot and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "easy-dinner",
+    "flexitarian",
+    "quick-meal",
+    "render-fat",
+    "rye-bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "yellowed-crunchy-canadian-rye-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crunchy-canadian-rye-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:12:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "render-fat",
+    "primaryIngredient": "rye bread",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "rye bread",
+    "descriptor": "Yellowed Crunchy",
+    "dishForm": "Toast"
+  }
+}

@@ -2169,6 +2169,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-mediterranean-chickpeas-salad",
+    "title": "Yellow Mediterranean Chickpeas Salad",
+    "tags": [
+      "chickpea-recipes",
+      "gluten-free-recipes",
+      "healthy-snacks",
+      "mediterranean-diet",
+      "sugar-free-recipes",
+      "vegetarian-recipes"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-mellow-ethiopian-lamb-stew",
     "title": "Yellow Mellow Ethiopian Lamb Stew",
     "tags": [

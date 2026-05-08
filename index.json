@@ -1133,6 +1133,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-citrusy-jamaican-tofu-stir-fry",
+    "title": "Yellow Citrusy Jamaican Tofu Stir fry",
+    "tags": [
+      "jamaican-cuisine",
+      "macrobiotic",
+      "one-pan",
+      "stir-fry",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-citrusy-korean-tortillas-wrap",
     "title": "Yellow Citrusy Korean Tortillas Wrap",
     "tags": [

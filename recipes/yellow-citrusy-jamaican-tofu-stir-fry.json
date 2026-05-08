@@ -1,0 +1,110 @@
+{
+  "title": "Yellow Citrusy Jamaican Tofu Stir fry",
+  "description": "A briny and pillowy Jamaican dish featuring yuzu-kosho, perfect for a lazy Sunday, this macrobiotic-friendly stir-fry is a twist on traditional Jamaican cuisine.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "yuzu kosho",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the tofu and cook until golden brown on all sides, about 5 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add the scallions, garlic, and ginger to the skillet and cook until the scallions are softened, about 3 minutes.",
+    "Add the yuzu kosho, jamaican jerk seasoning, salt, and black pepper to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the yellow bell pepper to the skillet and cook until tender, about 3 minutes.",
+    "Return the tofu to the skillet and stir to combine with the vegetables and seasonings.",
+    "Cook for an additional 2 minutes, stirring constantly, until the tofu is well coated with the seasonings.",
+    "Stir in the chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-cuisine",
+    "macrobiotic",
+    "one-pan",
+    "stir-fry",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellow-citrusy-jamaican-tofu-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-citrusy-jamaican-tofu-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:47:14Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tofu",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Stir-fry"
+  }
+}

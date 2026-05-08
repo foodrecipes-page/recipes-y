@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Dense Japanese Saskatoon Berries Yakitori",
+  "description": "A bitter and dense one-pot Japanese dish featuring Saskatoon berries, double-fry KFC method, and vegan-friendly ingredients, formed into yakitori style.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Vegan KFC seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yellow food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix together the flour, cornstarch, and KFC seasoning.",
+    "Dip each Saskatoon berry into the flour mixture, then into the hot oil for 2-3 minutes, until lightly browned.",
+    "Remove the berries from the oil and let cool for 5 minutes.",
+    "Double-fry the berries by dipping them into the flour mixture again and then into the hot oil for an additional 2 minutes, until crispy.",
+    "In a small bowl, whisk together the rice vinegar and sesame oil.",
+    "Add the yellow food coloring to the vinegar mixture and stir well.",
+    "Brush the vinegar mixture onto the double-fried berries.",
+    "Thread 2-3 berries onto each bamboo skewer.",
+    "Serve the yakitori hot, garnished with additional sesame oil and rice vinegar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "japanese-cuisine",
+    "kfc-inspired",
+    "one-pot",
+    "vegan-friendly",
+    "yakitori-style"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellow-dense-japanese-saskatoon-berries-yakitori",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-dense-japanese-saskatoon-berries-yakitori",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:02:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "vegan",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "Yellow Dense",
+    "dishForm": "Yakitori"
+  }
+}

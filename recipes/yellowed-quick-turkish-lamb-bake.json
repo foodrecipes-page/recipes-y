@@ -1,0 +1,104 @@
+{
+  "title": "Yellowed Quick Turkish Lamb Bake",
+  "description": "A malty and shaggy Turkish dish featuring tarragon and French influences, this kosher-friendly bake is a quick fix for a weeknight dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and cut into 1 inch cubes"
+    },
+    {
+      "name": "tarragon",
+      "amount": "2 tablespoons",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "french bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, tarragon, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium high heat and sear the lamb until browned on all sides.",
+    "In the same skillet, add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Transfer the skillet contents to a 9x13 inch baking dish and top with the lamb and french bread crumbs.",
+    "Bake for 25 minutes or until the lamb is cooked through and the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-influence",
+    "kosher-friendly",
+    "lamb-recipes",
+    "one-pan",
+    "turkish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-quick-turkish-lamb-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-quick-turkish-lamb-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:53:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "bake",
+    "primaryIngredient": "tarragon-french",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Quick",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Greek Napa Cabbage Kleftiko",
+  "description": "A comforting Greek dish featuring napa cabbage, this kleftiko is a pungent and shattering flexitarian-friendly meal, cooked to perfection in a bain-marie. The combination of napa cabbage, aromatic spices, and tangy feta cheese creates a truly unique flavor experience.",
+  "cuisine": "Greek",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "1 large head",
+      "notes": "core removed and leaves separated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the napa cabbage leaves, olive oil, chopped onion, minced garlic, dried oregano, salt, and black pepper, and mix well.",
+    "Transfer the cabbage mixture to a heatproof dish and top with crumbly feta cheese.",
+    "Place the dish in a large bain-marie and add enough boiling water to come halfway up the side of the dish.",
+    "Cover the bain-marie with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes, or until the cabbage is tender and lightly browned.",
+    "Remove the dish from the bain-marie and stir in the lemon juice.",
+    "Let the kleftiko rest for 10 minutes before serving.",
+    "Serve the kleftiko hot, garnished with additional feta cheese and a sprinkle of dried oregano if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "cabbage-recipes",
+    "comfort-food",
+    "feta-cheese",
+    "flexitarian",
+    "greek-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "yellowed-greek-napa-cabbage-kleftiko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-greek-napa-cabbage-kleftiko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:01:23Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "bain-marie",
+    "primaryIngredient": "napa cabbage",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "napa cabbage",
+    "descriptor": "Yellowed",
+    "dishForm": "Kleftiko"
+  }
+}

@@ -2306,6 +2306,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-molten-ethiopian-beef-kitfo",
+    "title": "Yellow Molten Ethiopian Beef Kitfo",
+    "tags": [
+      "ethiopian-cuisine",
+      "grilled",
+      "high-protein",
+      "indulgent",
+      "paleo-friendly",
+      "special-occasion"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-molten-ethiopian-lamb-berbere-stew",
     "title": "Yellow Molten Ethiopian Lamb Berbere Stew",
     "tags": [

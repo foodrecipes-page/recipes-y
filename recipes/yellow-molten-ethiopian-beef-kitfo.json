@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Molten Ethiopian Beef Kitfo",
+  "description": "A traditional Ethiopian dish featuring grilled beef, dried cherries, and a spicy mustard sauce, served in a molten and indulgent form, kitfo style.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass Fed Beef",
+      "amount": "1 pound",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Dried Cherries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Mitmita Spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat.",
+    "In a large bowl, mix together the chopped beef, dried cherries, mustard, garlic, ginger, mitmita spice, lemon juice, salt, and black pepper.",
+    "Divide the mixture into 4 equal parts and shape each part into a ball.",
+    "Flatten each ball into a patty.",
+    "Grill the patties for 4 minutes per side, or until they reach an internal temperature of 130 degrees.",
+    "Remove the patties from the grill and let them rest for 5 minutes.",
+    "Serve the kitfo immediately, while still molten and juicy.",
+    "Traditionally, kitfo is served with a side of injera bread or vegetables.",
+    "Garnish with additional dried cherries and mitmita spice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "grilled",
+    "high-protein",
+    "indulgent",
+    "paleo-friendly",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-molten-ethiopian-beef-kitfo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-molten-ethiopian-beef-kitfo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:54:21Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "dried cherries",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Yellow Molten",
+    "dishForm": "Kitfo"
+  }
+}

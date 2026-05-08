@@ -1118,6 +1118,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-citrusy-korean-tortillas-wrap",
+    "title": "Yellow Citrusy Korean Tortillas Wrap",
+    "tags": [
+      "citrusy",
+      "easy-to-make",
+      "korean-inspired",
+      "lunch-ideas",
+      "snack-ideas",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-citrusy-mexican-corn-pozole",
     "title": "Yellow Citrusy Mexican Corn Pozole",
     "tags": [
@@ -3788,6 +3803,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 70,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-dense-tunisian-lamb-tagine",
+    "title": "Yellowed Dense Tunisian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb-based",
+      "north-african",
+      "one-pot",
+      "slow-cooked"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 180,
     "shard": "y"
   },
   {

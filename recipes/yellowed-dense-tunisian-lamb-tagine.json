@@ -1,0 +1,102 @@
+{
+  "title": "Yellowed Dense Tunisian Lamb Tagine",
+  "description": "A peppery and dense Tunisian dish featuring tahini, this tagine is a cozy and sugar-free-friendly option for a cold evening, cooked to perfection in a traditional clay tajine vessel.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with salt, black pepper, ground cumin, and ground coriander.",
+    "Heat the olive oil in the clay tajine vessel over medium heat.",
+    "Add the chopped onion to the vessel and saute until it is translucent.",
+    "Add the minced garlic to the vessel and saute for an additional minute.",
+    "Add the seasoned lamb pieces to the vessel and brown them on all sides.",
+    "Add the chicken broth and tahini to the vessel, stirring to combine.",
+    "Cover the vessel with a lid and transfer it to the preheated oven.",
+    "Cook the tagine for 2.5 hours, or until the lamb is tender and the sauce has thickened."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "north-african",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "yellowed-dense-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-dense-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:13:36Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "tahini",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Dense",
+    "dishForm": "Tagine"
+  }
+}

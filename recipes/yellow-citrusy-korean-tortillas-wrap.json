@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Citrusy Korean Tortillas Wrap",
+  "description": "A vegetarian-friendly Korean-inspired dish featuring citrusy and creamy flavors wrapped in tortillas, perfect for a light lunch or snack. This dish combines the freshness of citrus with the comfort of creamy sauce and crunchy vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "8 pieces",
+      "notes": "large flour tortillas"
+    },
+    {
+      "name": "yellow citrus sauce",
+      "amount": "1 cup",
+      "notes": "made with lemon juice, garlic, and ginger"
+    },
+    {
+      "name": "creamy slaw",
+      "amount": "2 cups",
+      "notes": "made with shredded cabbage, mayonnaise, and rice vinegar"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "sliced carrots pickled in vinegar and sugar"
+    },
+    {
+      "name": "cucumber kimchi",
+      "amount": "1 cup",
+      "notes": "made with sliced cucumbers, Korean chili flakes, and fish-free sauce"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the yellow citrus sauce ingredients and set aside.",
+    "In a separate bowl, mix together the creamy slaw ingredients and refrigerate until ready to use.",
+    "Slice the pickled carrots and cucumber kimchi into thin strips.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spreading a layer of creamy slaw on each tortilla, followed by a few strips of pickled carrots and cucumber kimchi.",
+    "Drizzle the yellow citrus sauce over the top of each wrap.",
+    "Sprinkle toasted sesame seeds and chopped green onions over the top of each wrap.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "easy-to-make",
+    "korean-inspired",
+    "lunch-ideas",
+    "snack-ideas",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "yellow-citrusy-korean-tortillas-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-citrusy-korean-tortillas-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:13:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "tortillas",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tortillas",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Wrap"
+  }
+}

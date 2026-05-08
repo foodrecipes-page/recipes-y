@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Molten Chinese Chicken Ma La Tang",
+  "description": "A festive and umami Chinese dish featuring sweet chilli sauce and robata-grilled chicken, served in a low-calorie ma la tang style.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "sweet chilli sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sweet chilli sauce, soy sauce, rice vinegar, sesame oil, ginger, and garlic.",
+    "Add the chicken to the bowl and toss to coat with the sauce mixture.",
+    "Thread the chicken onto skewers, leaving a small space between each piece.",
+    "Grill the chicken for 10-12 minutes, or until cooked through.",
+    "Meanwhile, prepare the ma la tang by heating the sweet chilli sauce in a small saucepan over low heat.",
+    "To assemble the dish, place the grilled chicken in a bowl and spoon the molten sweet chilli sauce over the top.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "gluten-free",
+    "grilled-chicken",
+    "low-calorie",
+    "ma-la-tang",
+    "sweet-chilli-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "yellow-molten-chinese-chicken-ma-la-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-molten-chinese-chicken-ma-la-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:11:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Molten",
+    "dishForm": "Ma La Tang"
+  }
+}

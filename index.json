@@ -1927,6 +1927,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-molten-chinese-chicken-ma-la-tang",
+    "title": "Yellow Molten Chinese Chicken Ma La Tang",
+    "tags": [
+      "chinese-food",
+      "gluten-free",
+      "grilled-chicken",
+      "low-calorie",
+      "ma-la-tang",
+      "sweet-chilli-sauce"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-molten-italian-pasta-paccheri",
     "title": "Yellow Molten Italian Pasta Paccheri",
     "tags": [

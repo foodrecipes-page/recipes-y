@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Garlicky Peruvian Fish Picarones",
+  "description": "A traditional Peruvian dish featuring crispy picarones filled with a garlicky fish seasoning, perfect for a snack or dessert. This egg-free friendly recipe is a show-off dish that is sure to impress.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mashed sweet potato, anise seeds, garlic, and fish seasoning, mixing well.",
+    "In a separate bowl, whisk together the sugar, yeast, and warm water, letting it sit for 5 minutes.",
+    "Add the yeast mixture to the sweet potato mixture, stirring until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Cover the dough and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oil in a deep frying pan to 375 degrees.",
+    "Once the oil is hot, use a spoon to drop small balls of the dough into the oil, frying until they are golden brown and crispy.",
+    "Remove the picarones from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Drizzle the melted score-fat over the picarones and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-frying",
+    "egg-free",
+    "fish-seasoning",
+    "gluten-free",
+    "peruvian-cuisine",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "yellow-garlicky-peruvian-fish-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-garlicky-peruvian-fish-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:17:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "score-fat",
+    "primaryIngredient": "fish seasoning",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Yellow Garlicky",
+    "dishForm": "Picarones"
+  }
+}

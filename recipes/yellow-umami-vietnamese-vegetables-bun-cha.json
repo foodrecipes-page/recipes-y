@@ -1,0 +1,109 @@
+{
+  "title": "Yellow Umami Vietnamese Vegetables Bun Cha",
+  "description": "A vegan-friendly and umami-rich Vietnamese dish featuring stir-fry vegetables and served with bun cha, perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "yellow curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the sliced onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the sliced mushrooms to the skillet and cook until they are tender and lightly browned.",
+    "Add the grated carrots to the skillet and cook for an additional 2 minutes.",
+    "In a small bowl, mix together the yellow curry powder, soy sauce, and turmeric.",
+    "Pour the curry mixture over the vegetables in the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the vegetables are well coated with the curry mixture.",
+    "Stir in the chopped scallions and sesame seeds.",
+    "Serve the vegetable mixture over the cooked rice noodles and drizzle with lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "umami-rich",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "yellow-umami-vietnamese-vegetables-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-umami-vietnamese-vegetables-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:49:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "vegetables",
+    "descriptor": "Yellow Umami",
+    "dishForm": "Bun Cha"
+  }
+}

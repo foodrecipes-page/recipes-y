@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Pillowy Korean Gelatin Anju",
+  "description": "A funky and crowd-pleasing Korean dish featuring unflavored gelatin, this anju is a smoke-hot and buddhist-temple-friendly treat, served in a lacquerware bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 cup",
+      "notes": "dissolved in 1 cup of water"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, dissolve the gelatin in 1 cup of water and let it sit for 5 minutes.",
+    "In a medium saucepan, combine the gochugaru, soy sauce, rice vinegar, and sugar, and whisk until the sugar is dissolved.",
+    "Add the water to the saucepan and bring the mixture to a boil over high heat.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the dissolved gelatin to the saucepan and stir until it is fully incorporated.",
+    "Pour the mixture into a 9x13 inch baking dish and refrigerate for at least 3 hours.",
+    "Just before serving, sprinkle the toasted sesame seeds and scallions over the top of the gelatin.",
+    "Serve the gelatin in lacquerware bowls and enjoy.",
+    "Garnish with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anju",
+    "gelatin",
+    "gluten-free",
+    "korean",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "yellow-pillowy-korean-gelatin-anju",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-pillowy-korean-gelatin-anju",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:23:44Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "smoke-hot",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "gelatin",
+    "descriptor": "Yellow Pillowy",
+    "dishForm": "Anju"
+  }
+}

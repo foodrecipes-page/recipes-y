@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Citrusy Syrian Myeongnan Roe Skewers",
+  "description": "A refreshing Syrian dish featuring myeongnan-roe, perfect for a brunch mood, with a citrusy and shattering texture, char-grilled to perfection, jain-friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "myeongnan-roe",
+      "amount": "1 cup",
+      "notes": "pollock roe"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "yellow citrus zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the char-grill to 400 degrees Fahrenheit.",
+    "Soak the bamboo skewers in water for 30 minutes.",
+    "Mix the myeongnan-roe, lemon juice, olive oil, garlic, ginger, yellow citrus zest, salt, and black pepper in a bowl.",
+    "Thread the myeongnan-roe mixture onto the bamboo skewers.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Char-grill the skewers for 10 minutes, flipping occasionally.",
+    "Serve the skewers hot, garnished with lemon wedges and yellow citrus zest.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "char-grilled",
+    "citrusy",
+    "jain-friendly",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "yellow-citrusy-syrian-myeongnan-roe-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-citrusy-syrian-myeongnan-roe-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:30:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "myeongnan roe",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Skewers"
+  }
+}

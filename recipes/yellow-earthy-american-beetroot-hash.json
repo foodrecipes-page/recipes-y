@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Earthy American Beetroot Hash",
+  "description": "A rich and shaggy American dish featuring beetroot, perfect for a quick fix, and flexitarian-friendly. This recipe combines the earthy sweetness of beetroot with the comfort of a hash.",
+  "cuisine": "American",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced beetroot, bell pepper, and potato, and cook for 10 minutes, stirring occasionally.",
+    "Use a spatula to press the mixture down and form a flat layer.",
+    "Cook for an additional 5 minutes, or until the bottom is crispy and golden brown.",
+    "Stir in the salt and black pepper.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-hash",
+    "flexitarian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "yellow-earthy-american-beetroot-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-earthy-american-beetroot-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:25:15Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "beetroot",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beetroot",
+    "descriptor": "Yellow earthy",
+    "dishForm": "Hash"
+  }
+}

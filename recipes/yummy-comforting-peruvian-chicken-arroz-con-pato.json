@@ -1,0 +1,117 @@
+{
+  "title": "Yummy Comforting Peruvian Chicken Arroz Con Pato",
+  "description": "A classic Peruvian dish that combines the flavors of barbecue sauce, caramelize onions, and tender chicken. This comforting meal is a great option for weeknights and holidays alike.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian",
+    "shojin",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "barbecue sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chicken breast to the skillet and cook until browned on both sides, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion to the skillet and cook until caramelized, about 8 minutes.",
+    "Add the cumin, paprika, salt, and pepper to the skillet and stir to combine.",
+    "Add the barbecue sauce to the skillet and stir to combine.",
+    "Add the rice to the skillet and stir to combine.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 18 minutes.",
+    "Add the chicken back to the skillet and stir to combine.",
+    "Serve hot, garnished with ginger if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "yummy-comforting-peruvian-chicken-arroz-con-pato",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-comforting-peruvian-chicken-arroz-con-pato",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:12:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "yummy comforting",
+    "dishForm": "Arroz Con Pato"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Citrusy Venezuelan Chicken Skewers",
+  "description": "A light and citrusy Venezuelan dish featuring chicken skewers with a chilli and lardon flavor, perfect for a weeknight dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced and rendered"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lime juice, olive oil, chilli flakes, garlic, salt, and black pepper.",
+    "Add the chicken to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken, yellow bell pepper, and onion onto skewers.",
+    "Render the lardons in a pan over medium heat until crispy.",
+    "Brush the skewers with the rendered lardon fat.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve the skewers hot, garnished with additional lime juice and chilli flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "healthy",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yellow-citrusy-venezuelan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-citrusy-venezuelan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:48:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "lardons-render",
+    "primaryIngredient": "chilli",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Skewers"
+  }
+}

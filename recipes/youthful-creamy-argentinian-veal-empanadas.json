@@ -1,0 +1,95 @@
+{
+  "title": "Youthful Creamy Argentinian Veal Empanadas",
+  "description": "A sour and creamy Argentinian dish featuring veal, ferment jang, and paleo friendly ingredients, perfect for a festive occasion. This recipe combines the tenderness of veal with the bold flavors of ferment jang and creamy sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "paleo friendly cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the diced veal over medium high heat until browned.",
+    "Add the ferment jang, onion, and garlic to the skillet and cook until the onion is translucent.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a spoonful of the veal mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the eggs.",
+    "Place the empanadas on a baking sheet and bake for 20 minutes.",
+    "While the empanadas are baking, mix the sour cream and paleo friendly cheese in a bowl.",
+    "Serve the empanadas hot with the sour cream and cheese sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "ferment-jang",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "veal-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "youthful-creamy-argentinian-veal-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-creamy-argentinian-veal-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:01:45Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "veal",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "veal",
+    "descriptor": "youthful creamy",
+    "dishForm": "Empanadas"
+  }
+}

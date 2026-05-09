@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Pecan Syrian Lamb Kebabs",
+  "description": "A romantic Syrian dish featuring tender lamb, crunchy pecans, and a hint of cedar, reduced to be low-fat-friendly. This recipe is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "pecans",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, black pepper, and paprika.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Sprinkle the chopped pecans over the lamb cubes.",
+    "Place the skewers on a cedar plank and grill for 10-12 minutes, or until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with additional pecans and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "lamb-recipes",
+    "low-fat",
+    "middle-eastern",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yellowed-pecan-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-pecan-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:40:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "pecan nuts",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Pecan",
+    "dishForm": "Kebabs"
+  }
+}

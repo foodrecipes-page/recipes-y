@@ -3337,6 +3337,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-nutty-syrian-banana-stir-fry",
+    "title": "Yellow Nutty Syrian Banana Stir Fry",
+    "tags": [
+      "banana-recipe",
+      "nutty",
+      "plant-based",
+      "quick-meal",
+      "stir-fry",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 22,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-peppered-british-corn-skillet",
     "title": "Yellow Peppered British Corn Skillet",
     "tags": [

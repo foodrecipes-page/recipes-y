@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Nutty Syrian Banana Stir Fry",
+  "description": "A plant-based Syrian dish featuring bananas, stir-fry, and a blend of spices, perfect for a quick and nutritious meal. This recipe combines the natural sweetness of bananas with the crunch of nuts and the warmth of Syrian spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced almonds and cook for 2 minutes, stirring frequently, until lightly toasted.",
+    "Add the chopped onion and cook for 3 minutes, stirring occasionally, until softened.",
+    "Add the cumin, coriander, paprika, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the bananas and cook for 2 minutes, stirring gently, until they start to soften.",
+    "Increase the heat to medium-high and cook for an additional 2 minutes, stirring frequently, until the bananas are caramelized and the onions are golden brown.",
+    "Remove the skillet from the heat and let it cool for a minute.",
+    "Serve the banana stir-fry hot, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "banana-recipe",
+    "nutty",
+    "plant-based",
+    "quick-meal",
+    "stir-fry",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "yellow-nutty-syrian-banana-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-nutty-syrian-banana-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:50:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "bananas",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "bananas",
+    "descriptor": "Yellow Nutty",
+    "dishForm": "Stir-fry"
+  }
+}

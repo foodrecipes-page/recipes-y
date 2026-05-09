@@ -1,0 +1,100 @@
+{
+  "title": "Youthful Yellow Vietnamese Beef Pho Bo",
+  "description": "A spicy and energizing Vietnamese dish featuring chili powder and ferment-jang, this flexitarian-friendly pho bo is perfect for a nourishing meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "beef strips",
+      "amount": "1 lb"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 slices"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "star anise",
+      "amount": "2"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine beef broth, chili powder, ferment-jang, ginger, onion, and star anise, and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add beef strips to the pot and cook for 5 minutes, or until cooked through.",
+    "Cook rice noodles according to package instructions and set aside.",
+    "Strain the broth and discard solids.",
+    "Add fish sauce to the broth and stir to combine.",
+    "Assemble the pho bo by placing noodles in a bowl, adding sliced beef, and ladling hot broth over the top.",
+    "Serve with lime wedges on the side.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "nourishing",
+    "one-pot",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "youthful-yellow-vietnamese-beef-pho-bo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-yellow-vietnamese-beef-pho-bo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:42:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "ferment-jang",
+    "primaryIngredient": "chili powder",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "youthful yellow",
+    "dishForm": "Pho Bo"
+  }
+}

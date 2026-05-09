@@ -1,0 +1,86 @@
+{
+  "title": "Yellowed Crusty Irish Bread Flatbread",
+  "description": "A funky and festive Irish dish featuring strong white bread flour, perfect for a flexitarian-friendly meal or snack. This dehydrated flatbread is light and crusty, with a unique yellowed color.",
+  "cuisine": "Irish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "strong white bread flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, sugar, and yeast.",
+    "Gradually add the warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and shape it into a flat round.",
+    "Place the flatbread on a baking sheet lined with parchment paper, brush with olive oil, and bake for 20 minutes.",
+    "Remove the flatbread from the oven and let it cool on a wire rack.",
+    "Once the flatbread is cool, place it in a low temperature oven (150 degrees Fahrenheit) for 2 hours to dehydrate.",
+    "Remove the flatbread from the oven and let it cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 22,
+  "totalTimeMin": 42,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crusty-bread",
+    "dehydrated",
+    "flatbread",
+    "flexitarian",
+    "irish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "yellowed-crusty-irish-bread-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crusty-irish-bread-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:53:30Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "dehydrate",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "bread",
+    "descriptor": "Yellowed Crusty",
+    "dishForm": "Flatbread"
+  }
+}

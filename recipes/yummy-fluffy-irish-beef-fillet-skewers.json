@@ -1,0 +1,96 @@
+{
+  "title": "Yummy Fluffy Irish Beef Fillet Skewers",
+  "description": "Tender beef fillet skewers with a nutty and fluffy texture, perfect for a crowd-pleasing dinner",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat",
+    "In a large bowl, whisk together olive oil, lemon juice, honey, Dijon mustard, thyme, garlic powder, salt, and black pepper",
+    "Add the beef fillet cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef reaches an internal temperature of 130 degrees",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve hot and enjoy",
+    "Garnish with fresh thyme and lemon wedges, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "crowd-pleasers",
+    "grilled-meats",
+    "irish-food",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yummy-fluffy-irish-beef-fillet-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-fluffy-irish-beef-fillet-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:42:42Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "beef fillet",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef fillet",
+    "descriptor": "yummy fluffy",
+    "dishForm": "Skewers"
+  }
+}

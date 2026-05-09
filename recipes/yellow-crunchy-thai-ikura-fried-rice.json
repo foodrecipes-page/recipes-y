@@ -1,0 +1,102 @@
+{
+  "title": "Yellow Crunchy Thai Ikura Fried Rice",
+  "description": "A sweet and crunchy Thai dish featuring ikura and lamination-puff, made in one pot and halal-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "ikura",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lamination-puff",
+      "amount": "1 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the crushed lamination-puff and cook until it is lightly toasted.",
+    "Add the cooked rice to the skillet or wok and stir-fry for about 5 minutes.",
+    "Add the ikura, fish sauce, soy sauce, sugar, and salt to the rice mixture and stir-fry for another 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the fried rice to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "halal-friendly",
+    "lunch-idea",
+    "one-pot",
+    "seafood",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "yellow-crunchy-thai-ikura-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crunchy-thai-ikura-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:51:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "ikura",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "ikura",
+    "descriptor": "Yellow Crunchy",
+    "dishForm": "Fried-Rice"
+  }
+}

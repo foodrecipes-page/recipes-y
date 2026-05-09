@@ -1,0 +1,103 @@
+{
+  "title": "Yellowed Tunisian Monkfish Skewers",
+  "description": "A traditional Tunisian dish featuring monkfish, with a blend of herbal flavors and a unique presentation, this recipe is sure to impress, it is also ayurvedic rajasic friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the monkfish pieces to the bowl and toss to coat with the marinade.",
+    "Thread the monkfish pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through.",
+    "Serve the skewers hot, garnished with fresh herbs if desired.",
+    "To achieve the yellowed effect, brush the skewers with a little bit of olive oil and grill for an additional 2 minutes.",
+    "To shape the monkfish like nigiri, press the cooked fish into small oval shapes using your hands or a small mold."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "herbal",
+    "pescatarian",
+    "seafood",
+    "show-off",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "yellowed-tunisian-monkfish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-tunisian-monkfish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:48:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "monkfish",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "monkfish",
+    "descriptor": "Yellowed",
+    "dishForm": "Skewers"
+  }
+}

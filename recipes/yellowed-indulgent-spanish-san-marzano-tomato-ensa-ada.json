@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Indulgent Spanish San Marzano Tomato Ensaимada",
+  "description": "A bitter and springy Valencian dish featuring San Marzano tomatoes, this ensaimada is perfect for a special occasion, it is a sugar free friendly option",
+  "cuisine": "Spanish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "12",
+      "notes": "canned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ensaimada dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Roll out the ensaimada dough to a large rectangle.",
+    "In a small bowl, mix together the olive oil, garlic, smoked paprika, salt, and black pepper.",
+    "Brush the mixture onto the dough, leaving a 1 inch border around the edges.",
+    "Top the dough with the San Marzano tomatoes and manchego cheese.",
+    "Fold the edges of the dough up over the filling to form a crust.",
+    "Place the ensaimada on the grill and cook for 20 minutes.",
+    "Rotate the ensaimada and cook for an additional 15 minutes.",
+    "Remove the ensaimada from the grill and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "grilled",
+    "indulgent",
+    "spanish",
+    "sugar-free",
+    "tomato-based",
+    "valencian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellowed-indulgent-spanish-san-marzano-tomato-ensa-ada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-indulgent-spanish-san-marzano-tomato-ensa-ada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:29:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "sugar-free",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "san marzano tomato",
+    "descriptor": "Yellowed Indulgent",
+    "dishForm": "Ensaимada"
+  }
+}

@@ -5198,6 +5198,23 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-turmeric-british-mushroom-cornish-pasty",
+    "title": "Yellow Turmeric British Mushroom Cornish Pasty",
+    "tags": [
+      "british-cuisine",
+      "flexitarian",
+      "mushroom-recipes",
+      "one-pan",
+      "scallop-shell",
+      "turmeric",
+      "unsweetened-cocoa",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-turmeric-greek-feta-saganaki",
     "title": "Yellow Turmeric Greek Feta Saganaki",
     "tags": [

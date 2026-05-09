@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Turmeric British Mushroom Cornish Pasty",
+  "description": "A funky and juicy solo dinner dish featuring British mushrooms and unsweetened cocoa, wrapped in a flaky Cornish pasty crust, served in a scallop shell. This flexitarian-friendly dish combines the earthy flavors of mushrooms and turmeric with a hint of cocoa and nuka-pickle.",
+  "cuisine": "British",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "British variety such as Shiitake or Button"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, sauté the mushrooms in a little bit of oil until they are tender and fragrant.",
+    "Add the turmeric powder, unsweetened cocoa powder, and nuka-pickle to the pan and stir to combine.",
+    "In a separate bowl, whisk together the flour and cold unsalted butter to make the pastry dough.",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Spoon the mushroom and cocoa mixture onto one half of the pastry dough, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry dough with the beaten egg for a golden glaze.",
+    "Fold the other half of the pastry dough over the filling and press the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the Cornish pasty in the scallop shell and bake for 25-30 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "flexitarian",
+    "mushroom-recipes",
+    "one-pan",
+    "scallop-shell",
+    "turmeric",
+    "unsweetened-cocoa",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "yellow-turmeric-british-mushroom-cornish-pasty",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-turmeric-british-mushroom-cornish-pasty",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:59:16Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "flexitarian",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Yellow Turmeric",
+    "dishForm": "Cornish Pasty"
+  }
+}

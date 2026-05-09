@@ -6435,6 +6435,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-herb-brazilian-yam-puff",
+    "title": "Yellowed Herb Brazilian Yam Puff",
+    "tags": [
+      "brazilian-food",
+      "herbal",
+      "lacto-vegetarian",
+      "puff-pastry",
+      "speculaas",
+      "yam-based"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-herb-mediterranean-lamb-skewers",
     "title": "Yellowed Herb Mediterranean Lamb Skewers",
     "tags": [

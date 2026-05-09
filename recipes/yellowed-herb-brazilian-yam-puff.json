@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Herb Brazilian Yam Puff",
+  "description": "A solo dinner Brazilian dish featuring speculaas spice mix and lacto-vegetarian-friendly ingredients, with a shaggy and herbal flavor profile.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yam",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "herbs",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley and dill"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the grated yam, speculaas spice mix, flour, and salt.",
+    "In a separate bowl, whisk together the melted butter, egg, and water.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the chopped herbs.",
+    "Roll out the dough on a floured surface to a thickness of about 1/4 inch.",
+    "Use a pastry cutter or a knife to cut the dough into long, thin strips.",
+    "Roll each strip into a puff and place on a baking sheet lined with parchment paper.",
+    "Bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "herbal",
+    "lacto-vegetarian",
+    "puff-pastry",
+    "speculaas",
+    "yam-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-herb-brazilian-yam-puff",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-herb-brazilian-yam-puff",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:44:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "yams",
+    "descriptor": "Yellowed Herb",
+    "dishForm": "Puff"
+  }
+}

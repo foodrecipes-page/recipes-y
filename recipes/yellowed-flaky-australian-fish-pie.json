@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Flaky Australian Fish Pie",
+  "description": "A kid-friendly Australian dish featuring charred, flaky fish in a cider vinegar infused beurre-monte sauce, this pie is a delicious and nut-free friendly meal option.",
+  "cuisine": "Australian",
+  "diet": [
+    "nut-free",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "frozen mixed vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the cider vinegar, beurre-monte, and flour, whisking continuously over medium heat until the mixture thickens.",
+    "Add the butter, milk, egg, salt, and pepper to the saucepan, stirring until the butter has melted and the mixture is smooth.",
+    "Arrange the cod fillets in a baking dish and pour the beurre-monte sauce over the top.",
+    "Sprinkle the frozen mixed vegetables over the sauce.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the fish is cooked through and the top is lightly charred.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the fish pie hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "fish-pie",
+    "kid-friendly",
+    "one-dish-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-flaky-australian-fish-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-australian-fish-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:05:16Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "cider vinegar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "Yellowed flaky",
+    "dishForm": "Pie"
+  }
+}

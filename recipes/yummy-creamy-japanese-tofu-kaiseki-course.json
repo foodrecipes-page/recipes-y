@@ -1,0 +1,94 @@
+{
+  "title": "Yummy Creamy Japanese Tofu Kaiseki Course",
+  "description": "A fatty and creamy Japanese dish from Okinawa, featuring enchilada sauce and katsuramuki-cut vegetables, served as a romantic kaiseki course.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "daikon",
+      "amount": "1 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "lotus root",
+      "amount": "1 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes and pan-fry until golden brown.",
+    "Prepare the katsuramuki-cut daikon, carrots, and lotus root by slicing them into thin strips.",
+    "In a large saucepan, combine the enchilada sauce, sesame oil, soy sauce, and mirin, and bring to a simmer over medium heat.",
+    "Add the pan-fried tofu and katsuramuki-cut vegetables to the saucepan and stir to coat with the sauce.",
+    "Reduce the heat to low and let the mixture simmer for 10 minutes, stirring occasionally.",
+    "Serve the tofu and vegetables hot, garnished with sesame seeds and chopped scallions.",
+    "Prepare a small side of steamed rice and pickled ginger to accompany the dish.",
+    "Arrange the dish on a large platter or individual plates, in a visually appealing manner."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "kaiseki-course",
+    "okinawan-dish",
+    "romantic-dinner",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "yummy-creamy-japanese-tofu-kaiseki-course",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-creamy-japanese-tofu-kaiseki-course",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:21:01Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "shojin",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "yummy creamy",
+    "dishForm": "Kaiseki Course"
+  }
+}

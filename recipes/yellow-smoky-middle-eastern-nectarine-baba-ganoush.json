@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Smoky Middle Eastern Nectarine Baba Ganoush",
+  "description": "A smoky and comforting Middle Eastern dish featuring nectarines, served as a baba ganoush with a glassy-jelly texture, perfect for a snack or dessert. This low-carb friendly recipe is best served with ssam-wrap on a slate tile.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "4 large",
+      "notes": "ripe"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the nectarines in half and remove the pits.",
+    "Place the nectarines on a baking sheet lined with parchment paper and roast for 30 minutes.",
+    "Remove the nectarines from the oven and let them cool.",
+    "Scoop the flesh of the nectarines into a blender or food processor.",
+    "Add the smoked paprika, lemon juice, garlic, tahini, olive oil, salt, and black pepper to the blender.",
+    "Blend the mixture until smooth and creamy.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the baba ganoush on a slate tile with ssam-wrap on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "healthy-snack",
+    "low-carb",
+    "middle-eastern",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yellow-smoky-middle-eastern-nectarine-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-middle-eastern-nectarine-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:38:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "nectarines",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "nectarines",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Baba Ganoush"
+  }
+}

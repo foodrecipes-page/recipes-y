@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Fluffy Chinese Pork Char Siu Bao",
+  "description": "A malty and fluffy Chinese dish featuring ground cinnamon and dashi extract, this sugar-free-friendly char siu bao is a delicious meal prep option. It is a traditional Shandong dish with a unique flavor profile.",
+  "cuisine": "Chinese",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean ground pork"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, ground cinnamon, dashi extract, and salt, and mix until just combined.",
+    "In a separate bowl, combine the wheat flour, instant yeast, and sesame oil, and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk and place a tablespoon of the pork mixture in the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal the bun.",
+    "Place the buns on a baking sheet lined with parchment paper and let them rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees and bake the buns for 18 minutes, or until they are golden brown.",
+    "Brush the tops of the buns with sesame oil and sprinkle with chopped scallions.",
+    "Serve the buns warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 18,
+  "totalTimeMin": 48,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "fluffy-buns",
+    "low-carb",
+    "meal-prep",
+    "pork-recipes",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "yellowed-fluffy-chinese-pork-char-siu-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-fluffy-chinese-pork-char-siu-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:45:20Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "dashi-extract",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "sugar-free",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Yellowed Fluffy",
+    "dishForm": "Char Siu Bao"
+  }
+}

@@ -1597,6 +1597,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-creamy-malaysian-coconut-curry",
+    "title": "Yellow Creamy Malaysian Coconut Curry",
+    "tags": [
+      "coconut-based",
+      "comfort-food",
+      "flexitarian",
+      "malaysian-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-creamy-middle-eastern-tomato-bowl",
     "title": "Yellow Creamy Middle Eastern Tomato Bowl",
     "tags": [

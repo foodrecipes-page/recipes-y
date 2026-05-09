@@ -1,0 +1,97 @@
+{
+  "title": "Yellow Spiced Saudi Arabian Lamb Kebabs",
+  "description": "Salty, juicy, and light, these Saudi Arabian lamb kebabs feature ground cardamom and wok-hei for a unique flavor profile, making them a low-calorie-friendly option for a quick dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, ground cardamom, paprika, garlic powder, salt, and black pepper, mixing well with your hands or a wooden spoon until just combined.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and grill for 8-10 minutes, turning occasionally, until the lamb is cooked through.",
+    "While the kebabs are cooking, mix the lemon juice and chopped parsley in a small bowl.",
+    "Once the kebabs are done, brush them with the lemon juice mixture and serve immediately.",
+    "Garnish with additional parsley if desired.",
+    "Serve with your choice of sides, such as roasted vegetables or quinoa.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "lamb",
+    "low-calorie",
+    "middle-eastern",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "yellow-spiced-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spiced-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:24:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "wok-hei",
+    "primaryIngredient": "ground cardomom",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Spiced",
+    "dishForm": "Kebabs"
+  }
+}

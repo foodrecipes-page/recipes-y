@@ -4571,6 +4571,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spiced-saudi-arabian-lamb-kebabs",
+    "title": "Yellow Spiced Saudi Arabian Lamb Kebabs",
+    "tags": [
+      "gluten-free",
+      "grilled",
+      "lamb",
+      "low-calorie",
+      "middle-eastern",
+      "quick-dinner"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-algerian-chorizo-tagine",
     "title": "Yellow Spicy Algerian Chorizo Tagine",
     "tags": [
@@ -6512,6 +6527,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 17,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crunchy-french-hazelnut-gratin",
+    "title": "Yellowed Crunchy French Hazelnut Gratin",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "gratin-recipes",
+      "hazelnut-recipes",
+      "kimchi-recipes",
+      "low-carb"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Crunchy French Hazelnut Gratin",
+  "description": "A rich and chewy French dish from Normandy featuring hazelnuts and ferment-kimchi, perfect for a low-carb friendly dinner",
+  "cuisine": "French",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large skillet, melt the butter over medium heat",
+    "Add the chopped hazelnuts and cook until lightly toasted",
+    "Add the chopped ferment-kimchi and cook for an additional 2 minutes",
+    "In a large bowl, whisk together the heavy cream, eggs, salt, and black pepper",
+    "Stir in the shredded gruyere cheese",
+    "Add the toasted hazelnut and kimchi mixture to the bowl and stir until well combined",
+    "Transfer the mixture to a terracotta dish and bake for 25 minutes",
+    "Remove from the oven and let cool for 5 minutes before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "gratin-recipes",
+    "hazelnut-recipes",
+    "kimchi-recipes",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "yellowed-crunchy-french-hazelnut-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crunchy-french-hazelnut-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:24:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "hazlenuts",
+    "diet": "low-carb",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Yellowed Crunchy",
+    "dishForm": "Gratin"
+  }
+}

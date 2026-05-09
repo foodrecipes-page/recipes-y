@@ -1,0 +1,108 @@
+{
+  "title": "Yellowing Chewy Uruguayan Meat Empanadas",
+  "description": "A traditional Uruguayan dish featuring palm sugar and a unique cooking method.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "50g",
+      "notes": "dissolve in beef broth for marinade"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "250ml",
+      "notes": "use low-sodium broth"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "100ml",
+      "notes": "optional, for added depth"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Puff Pastry Dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Beef Tallow or Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C) and place a bain-marie setup on the middle rack.",
+    "Combine ground beef, dissolved palm sugar, beef broth, and red wine (if using) in a large bowl.",
+    "Mix the ingredients with a fork until just combined, being careful not to overmix.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "On a lightly floured surface, roll out the puff pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the egg wash and fold the dough over the filling to form a half-moon shape.",
+    "Press the edges to seal and use a fork to crimp the seam.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with beef tallow or oil.",
+    "Place the baking sheet in the preheated oven and cook for 25-30 minutes, or until golden brown.",
+    "Remove the empanadas from the oven and let them cool on a wire rack for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "empanadas",
+    "high-protein",
+    "meat",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "yellowing-chewy-uruguayan-meat-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowing-chewy-uruguayan-meat-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T05:44:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "bain-marie",
+    "primaryIngredient": "palm sugar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "meat",
+    "descriptor": "Yellowing Chewy",
+    "dishForm": "Empanadas"
+  }
+}

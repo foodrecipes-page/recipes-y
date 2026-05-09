@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Dense Peruvian Beef Rocoto Relleno",
+  "description": "A cultured and dense Peruvian dish featuring caramel and beef, perfect for a post-workout meal. This ayurvedic-tamasic-friendly recipe is made in the form of rocoto relleno.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "rocoto peppers",
+      "amount": "4",
+      "notes": "roasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade"
+    },
+    {
+      "name": "manteca",
+      "amount": "2 tablespoons",
+      "notes": "emulsified"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the rocoto peppers in the oven for 30 minutes.",
+    "In a pan, cook the ground beef over medium heat until browned.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "In a bowl, mix the cooked beef, caramel sauce, emulsified manteca, turmeric, and salt.",
+    "Stuff each roasted rocoto pepper with the beef mixture.",
+    "Place the stuffed peppers in a baking dish and bake for 20 minutes.",
+    "Serve the yellow dense Peruvian beef rocoto relleno hot.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "beef-recipes",
+    "dairy-free",
+    "gluten-free",
+    "peruvian-cuisine",
+    "post-workout-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-dense-peruvian-beef-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-dense-peruvian-beef-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:08:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "caramel",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Yellow Dense",
+    "dishForm": "Rocoto Relleno"
+  }
+}

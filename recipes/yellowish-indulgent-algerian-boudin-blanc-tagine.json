@@ -1,0 +1,105 @@
+{
+  "title": "Yellowish Indulgent Algerian Boudin Blanc Tagine",
+  "description": "A mustardy and indulgent Algerian dish featuring boudin-blanc, this tagine is a high-protein friendly meal option, The combination of ingredients creates a rich and savory flavor profile.",
+  "cuisine": "Algerian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin-blanc",
+      "amount": "1 pound",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole-grain"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon",
+      "notes": "freshly dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the boudin-blanc into 1-inch thick rounds and set aside.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional 1-2 minutes until fragrant.",
+    "Add the whole-grain mustard and stir to combine with the onion and garlic mixture.",
+    "Add the chicken broth, dried parsley, salt, and black pepper, and stir to combine.",
+    "Add the sliced boudin-blanc to the Dutch oven and fold the ingredients together gently.",
+    "Cover the Dutch oven and transfer it to the preheated oven.",
+    "Bake for 25-30 minutes, or until the boudin-blanc is cooked through and the sauce has thickened.",
+    "Remove the Dutch oven from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "high-protein",
+    "indulgent",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowish-indulgent-algerian-boudin-blanc-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-indulgent-algerian-boudin-blanc-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:05:12Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "fold",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "boudin blanc",
+    "descriptor": "Yellowish Indulgent",
+    "dishForm": "Tagine"
+  }
+}

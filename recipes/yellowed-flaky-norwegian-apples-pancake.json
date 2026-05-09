@@ -1,0 +1,121 @@
+{
+  "title": "Yellowed, Flaky Norwegian Apples Pancake",
+  "description": "A salty, flaky, energizing Norwegian dish featuring apples and a dairy-free twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups all-purpose flour",
+      "amount": "1 1/2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon baking powder",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup unsalted butter, melted",
+      "amount": "1/2",
+      "notes": "use dairy-free alternative"
+    },
+    {
+      "name": "1 cup milk, or dairy-free alternative",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons all-purpose flour",
+      "amount": "2",
+      "notes": "for dusting"
+    },
+    {
+      "name": "2-3 Granny Smith apples, peeled and sliced",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons canola oil",
+      "amount": "2",
+      "notes": "for frying"
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar, for dusting",
+      "amount": "1",
+      "notes": "use dairy-free alternative"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together the flour, sugar, salt, and baking powder.",
+    "In a large bowl, whisk together the melted butter, milk, eggs, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Dust the skillet or griddle with 2 tablespoons of flour.",
+    "Pour 1/4 cup of the pancake batter onto the skillet or griddle.",
+    "Cook the pancake for 2-3 minutes, until the edges start to dry.",
+    "Flip the pancake and cook for an additional 1-2 minutes, until golden brown.",
+    "Repeat with the remaining batter, until all the pancakes are cooked.",
+    "Melt the canola oil in a small saucepan over low heat.",
+    "Add the sliced apples to the melted oil and cook for 2-3 minutes, until tender.",
+    "Serve the pancakes with the apple mixture and dust with confectioners' sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "apples",
+    "breakfast",
+    "dairy-free",
+    "norwegian",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-flaky-norwegian-apples-pancake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-norwegian-apples-pancake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T01:53:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "infuse-oil",
+    "primaryIngredient": "apples",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "apples",
+    "descriptor": "yellowed, flaky",
+    "dishForm": "Pancake"
+  }
+}

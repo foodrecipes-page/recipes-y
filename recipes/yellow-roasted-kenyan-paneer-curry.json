@@ -1,0 +1,108 @@
+{
+  "title": "Yellow Roasted Kenyan Paneer Curry",
+  "description": "A rich and creamy Kenyan-inspired curry featuring roasted paneer, perfect for a date night dinner, made with a mortar and pestle for a velvety texture and served on a lazy Susan spinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "1 block",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the paneer into small cubes and roast in the oven for 20 minutes, or until lightly browned.",
+    "Using a mortar and pestle, pound the onions, garlic, and ginger into a smooth paste.",
+    "Heat the oil in a large pan over medium heat and add the curry powder, turmeric, and cumin, stirring constantly for 1 minute.",
+    "Add the pounded onion mixture to the pan and cook for 2 minutes, stirring constantly.",
+    "Add the roasted paneer, coconut milk, salt, and black pepper to the pan, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with fresh cilantro, on a lazy Susan spinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "indian-influence",
+    "kenyan-cuisine",
+    "lazy-susan",
+    "roasted-paneer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellow-roasted-kenyan-paneer-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-roasted-kenyan-paneer-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:50:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "paneer",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "paneer",
+    "descriptor": "Yellow roasted",
+    "dishForm": "Curry"
+  }
+}

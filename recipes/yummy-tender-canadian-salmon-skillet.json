@@ -1,0 +1,102 @@
+{
+  "title": "Canadian Salmon Skillet",
+  "description": "A tender and flavorful Canadian salmon dish featuring makrut lime leaves and binchotan-charcoal, perfect for a brunch mood, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 pieces",
+      "notes": "wild-caught Canadian salmon"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "6 leaves"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium heat with binchotan charcoal for a smoky flavor.",
+    "Add coconut oil to the skillet and swirl it around to coat the bottom.",
+    "Add garlic and ginger to the skillet and saute until fragrant.",
+    "Add makrut lime leaves to the skillet and cook for 1 minute.",
+    "Add salmon fillets to the skillet, skin side up, and cook for 4 minutes.",
+    "Flip the salmon fillets over and cook for an additional 4 minutes.",
+    "Add lemon juice, turmeric, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce heat to low and simmer the skillet for 2 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "yummy-tender-canadian-salmon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-tender-canadian-salmon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:32:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "yummy tender",
+    "dishForm": "Skillet"
+  }
+}

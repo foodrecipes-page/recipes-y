@@ -1,0 +1,96 @@
+{
+  "title": "Yellowfin Peruvian Bulgur Wheat Ceviche Clasico",
+  "description": "A refreshing and protein rich Peruvian dish featuring yellowfin tuna, bulgur wheat, and a zesty citrus marinade, served in a copper mug.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellowfin tuna",
+      "amount": "1 pound",
+      "notes": "sashimi grade"
+    },
+    {
+      "name": "bulgur wheat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mixed citrus segments",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur wheat and soak it in water for 30 minutes.",
+    "Drain and rinse the bulgur wheat, then set it aside to dry.",
+    "Cut the yellowfin tuna into small cubes and place it in a large bowl.",
+    "In a separate bowl, whisk together the lime juice, lemon juice, and a pinch of salt.",
+    "Pour the citrus marinade over the tuna and mix well to coat.",
+    "Stir in the mixed citrus segments, red onion, and cilantro.",
+    "To assemble the dish, place a scoop of the bulgur wheat in the bottom of a copper mug.",
+    "Add a portion of the tuna mixture on top of the bulgur wheat.",
+    "Serve the ceviche clasico with toasted bread on the side.",
+    "Garnish with additional cilantro and citrus segments if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "peruvian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "yellowfin-peruvian-bulgur-wheat-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowfin-peruvian-bulgur-wheat-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:15:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "bulgur wheat",
+    "descriptor": "Yellowfin",
+    "dishForm": "Ceviche Clasico"
+  }
+}

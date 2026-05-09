@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Creamy Mexican Kabanos Churros",
+  "description": "A creamy and romantic Mexican dish featuring Polish kabanos sausage, spherified and formed into churros, with a low-calorie twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kabanos sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cinnamon sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the heavy cream, sodium alginate, and yellow food coloring, and heat over low heat, whisking constantly, until the mixture thickens.",
+    "Remove the cream mixture from the heat and let it cool to room temperature.",
+    "In a large bowl, whisk together the water and sliced kabanos sausage.",
+    "Add the cooled cream mixture to the bowl and whisk until well combined.",
+    "Using a syringe or piping bag, drop the mixture into the vegetable oil, heated to 375 degrees Fahrenheit, to form the churros.",
+    "Fry the churros for 2-3 minutes on each side, until golden brown.",
+    "Using a slotted spoon, remove the churros from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, whisk together the cinnamon sugar and egg.",
+    "Toss the fried churros in the cinnamon sugar mixture to coat.",
+    "Serve the churros warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "churros",
+    "creamy",
+    "low-calorie",
+    "mexican-inspired",
+    "polish-mexican-fusion",
+    "romantic",
+    "spherified"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "yellow-creamy-mexican-kabanos-churros",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-creamy-mexican-kabanos-churros",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:29:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "spherify",
+    "primaryIngredient": "polish kabanos",
+    "diet": "low-calorie",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Kabanos",
+    "descriptor": "Yellow Creamy",
+    "dishForm": "Churros"
+  }
+}

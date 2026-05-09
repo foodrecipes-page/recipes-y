@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Dense Slovakian Sweet Red Peppers Casserole",
+  "description": "A dense and resinous Slovakian dish featuring sweet red peppers, perfect for a date night, and is vegetarian friendly. This casserole is a hearty and flavorful option for a special occasion.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet red peppers",
+      "amount": "4 large",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sweet red peppers and cook until they start to soften.",
+    "In a separate bowl, whisk together the tomato paste and vegetable broth.",
+    "Add the paprika, salt, and black pepper to the bowl and stir to combine.",
+    "In a greased 9x13 inch baking dish, create a layer of the cooked peppers and onions.",
+    "Pour the tomato paste mixture over the peppers and onions.",
+    "Top with the shredded cheddar cheese.",
+    "Bake for 35 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "date-night",
+    "european",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "yellow-dense-slovakian-sweet-red-peppers-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-dense-slovakian-sweet-red-peppers-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:04:07Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "rest",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sweet red peppers",
+    "descriptor": "Yellow Dense",
+    "dishForm": "Casserole"
+  }
+}

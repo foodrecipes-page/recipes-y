@@ -1,0 +1,104 @@
+{
+  "title": "Yellowed Crunchy British Lamb Shepherds Pie",
+  "description": "A hearty, dairy-free British dish featuring lamb, dark chocolate, and crunchy fried toppings, perfect for a cozy evening meal.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "100g",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "100ml",
+      "notes": "for frying"
+    },
+    {
+      "name": "tofu",
+      "amount": "100g",
+      "notes": "crushed"
+    },
+    {
+      "name": "soy milk",
+      "amount": "200ml",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a large pan, heat the vegetable oil and fry the chopped onion and carrots until they are softened.",
+    "Add the lamb mince to the pan and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Stir in the dark chocolate chips and cook for a further 2 minutes.",
+    "In a separate pot, boil the chopped potatoes until they are tender, then drain and mash with the soy milk and a pinch of salt and pepper.",
+    "In a deep frying pan, heat a further 50ml of vegetable oil and fry the crushed tofu until it is crispy and golden brown.",
+    "In a large oven-proof dish, create a layer of the lamb mixture, followed by a layer of mashed potatoes, and finally a layer of the fried tofu on top.",
+    "Bake the shepherd's pie in the preheated oven for 25 minutes, or until the top is golden brown and the filling is hot and bubbly.",
+    "Remove the pie from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "dairy-free",
+    "hearty-meals",
+    "lamb-recipes",
+    "one-pot-meals"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "yellowed-crunchy-british-lamb-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crunchy-british-lamb-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:11:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "dark chocolate",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Crunchy",
+    "dishForm": "Shepherds Pie"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Turkish Bulgur Kisir",
+  "description": "A traditional Turkish dish featuring bulgur, vegetables, and a tangy dressing, served in a cast-iron skillet.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur in a fine mesh sieve and drain well.",
+    "In a medium saucepan, bring the water to a boil, then add the bulgur, cover, and remove from heat.",
+    "Let the bulgur sit for 10 minutes, then fluff with a fork.",
+    "In a large cast-iron skillet, heat the olive oil over medium heat.",
+    "Add the chopped red onion and cook until softened, about 5 minutes.",
+    "Stir in the tomato paste, lemon juice, salt, black pepper, and paprika, and cook for 1 minute.",
+    "Add the cooked bulgur to the skillet and stir to combine with the onion mixture.",
+    "Reduce heat to low and simmer, covered, for 10 minutes, stirring occasionally.",
+    "Serve the kisir hot, garnished with chopped fresh parsley or mint, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy-meals",
+    "lunch-ideas",
+    "one-pan",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-turkish-bulgur-kisir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-turkish-bulgur-kisir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:53:49Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "sous-vide",
+    "primaryIngredient": "strong white flour",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bulgur",
+    "descriptor": "Yellow Gooey",
+    "dishForm": "Kisir"
+  }
+}

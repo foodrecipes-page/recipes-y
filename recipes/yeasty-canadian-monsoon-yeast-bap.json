@@ -1,0 +1,109 @@
+{
+  "title": "Yeasty Canadian Monsoon Yeast Bap",
+  "description": "A pillowy, yeast-forward bread with the essence of Canadian monsoon rains, complemented by the subtle nuttiness of dry sherry and the crunch of katsuramuki-cut vegetables, all in a plant-based-friendly version.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dry sherry",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "canadian all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "katsuramuki-cut carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "katsuramuki-cut zucchini",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "granulated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine warm water and yeast in a large mixing bowl and let sit for 5 minutes, allowing yeast to activate.",
+    "In a separate bowl, whisk together flour, sugar, and salt.",
+    "Add dry sherry and almond milk to the flour mixture and mix until a shaggy dough forms.",
+    "Add the yeast mixture to the dough and mix until a sticky ball forms.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat oven to 375F (190C).",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf on a baking sheet lined with parchment paper, and make a few slashes on the top.",
+    "Bake for 35 minutes, or until the bread is golden brown and sounds hollow when tapped on the bottom.",
+    "Let the bread cool on a wire rack for at least 10 minutes before slicing.",
+    "Serve warm, sliced into thick wedges, and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "canadian",
+    "gluten-free",
+    "plant-based",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "yeasty-canadian-monsoon-yeast-bap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-canadian-monsoon-yeast-bap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:37Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "dry sherry",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "monsoon yeast",
+    "descriptor": "yeasty",
+    "dishForm": "bap"
+  }
+}

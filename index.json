@@ -168,6 +168,22 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-canadian-monsoon-yeast-bap",
+    "title": "Yeasty Canadian Monsoon Yeast Bap",
+    "tags": [
+      "bread",
+      "breakfast",
+      "canadian",
+      "gluten-free",
+      "plant-based",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 65,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-canadian-peas-stew",
     "title": "Yeasty Canadian Peas Stew",
     "tags": [
@@ -643,6 +659,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-light-ethiopian-tamarind-paste-makham-injera",
+    "title": "Tamarind-Paste-Makham Injera",
+    "tags": [
+      "breakfast",
+      "ethiopian",
+      "injera",
+      "makham",
+      "paleo-friendly",
+      "tamarind"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

@@ -1,0 +1,91 @@
+{
+  "title": "Tamarind-Paste-Makham Injera",
+  "description": "A traditional Ethiopian injera dish featuring the flavors of tamarind paste and makham, served as a breakfast option.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "makham",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine teff flour, sugar, and salt in a large bowl.",
+    "Add yeast and mix until well combined.",
+    "Gradually add water and mix until a smooth batter forms.",
+    "Cover the bowl with a cloth and let it ferment for 24 hours.",
+    "Preheat a non-stick skillet or injera pan over medium heat.",
+    "Pour a small amount of batter into the pan and spread it evenly.",
+    "Cook for 1-2 minutes, until the edges start to curl.",
+    "Flip the injera and cook for another 30 seconds.",
+    "Repeat with the remaining batter.",
+    "Serve the injera warm, topped with your favorite toppings.",
+    "Beurre-monte can be served on the side for added flavor.",
+    "To make beurre-monte, whip heavy cream until it forms stiff peaks and mix with a small amount of sugar and vanilla extract.",
+    "Serve beurre-monte chilled, garnished with a sprinkle of sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ethiopian",
+    "injera",
+    "makham",
+    "paleo-friendly",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 1
+  },
+  "slug": "yeasty-light-ethiopian-tamarind-paste-makham-injera",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-light-ethiopian-tamarind-paste-makham-injera",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "beurre-monte",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "tamarind-paste-makham",
+    "descriptor": "yeasty light",
+    "dishForm": "Injera"
+  }
+}

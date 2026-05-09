@@ -1,0 +1,109 @@
+{
+  "title": "yummy charred malaysian cheese tagine",
+  "description": "an indulgent malaysian-inspired dish featuring charred cheese-pull and flavors from hail air-fryer tagine.",
+  "cuisine": "malaysian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halloumi cheese",
+      "amount": "250g",
+      "notes": "low-sodium option"
+    },
+    {
+      "name": "hail air fryer basket",
+      "amount": "",
+      "notes": "for charring"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp",
+      "notes": "low-sodium option"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the hail air fryer to 375f (190c).",
+    "Slice the halloumi cheese into 1-inch thick pieces and coat lightly with olive oil.",
+    "Place the cheese in the hail air fryer basket and cook for 5 minutes or until golden brown.",
+    "Meanwhile, heat the olive oil in the tagine pot over medium heat.",
+    "Add the minced garlic and grated ginger and sauté for 1 minute.",
+    "Add the chili flakes, ground cumin, ground coriander, and salt-free seasoning blend. Stir to combine.",
+    "Add the cooked cheese to the tagine pot and toss with the spice mixture.",
+    "Cook for an additional 2-3 minutes or until the cheese is melted and the flavors are combined.",
+    "Stir in fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "high-protein",
+    "low-sodium",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 28
+  },
+  "slug": "yummy-charred-malaysian-cheese-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-charred-malaysian-cheese-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T17:59:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "hail",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "cheese",
+    "descriptor": "Yummy charred",
+    "dishForm": "Tagine"
+  }
+}

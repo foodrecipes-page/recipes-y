@@ -3105,6 +3105,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-gooey-canadian-macaroni-casserole",
+    "title": "Yellow Gooey Canadian Macaroni Casserole",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "gooey-cheese",
+      "macaroni-casserole",
+      "one-pot",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-gooey-dutch-oat-stew",
     "title": "Yellow Gooey Dutch Oat Stew",
     "tags": [

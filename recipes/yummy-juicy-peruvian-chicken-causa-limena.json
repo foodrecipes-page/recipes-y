@@ -1,0 +1,103 @@
+{
+  "title": "Peruvian Chicken Causa Limena",
+  "description": "A traditional Peruvian dish featuring juicy chicken, full fat sour cream, and a blend of spices, all on a bed of crispy potatoes, perfect for a comforting dinner",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit",
+    "Wash and peel the potatoes, then cut them into 1 inch cubes",
+    "Place the potatoes on a baking sheet lined with parchment paper, drizzle with olive oil, and sprinkle with salt and pepper",
+    "Roast the potatoes in the oven for 20 minutes, or until they are crispy and golden brown",
+    "While the potatoes are cooking, season the chicken breast with salt, pepper, and paprika",
+    "Heat a large skillet over medium high heat, add the chicken breast, and cook for 5 minutes on each side, or until it is cooked through",
+    "Let the chicken rest for 5 minutes before slicing it thinly",
+    "In a blender or food processor, combine the sour cream, onion, garlic, and aji amarillo pepper, and blend until smooth",
+    "To assemble the Causa Limena, place a layer of potatoes on a plate, followed by a layer of sliced chicken, and then a spoonful of the sour cream mixture",
+    "Repeat the layers one more time, ending with a layer of potatoes on top",
+    "Place the plate under the broiler for 2 minutes, or until the top layer of potatoes is crispy and golden brown"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiled-chicken",
+    "comfort-food",
+    "paleo-friendly",
+    "peruvian-cuisine",
+    "potato-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "yummy-juicy-peruvian-chicken-causa-limena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-juicy-peruvian-chicken-causa-limena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:31:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "yummy juicy",
+    "dishForm": "Causa Limena"
+  }
+}

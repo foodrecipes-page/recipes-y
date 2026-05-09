@@ -1,0 +1,94 @@
+{
+  "title": "German Silky Pasta with Fennel Cream",
+  "description": "A silky, herbal German dish featuring sashimi-cut vermicelli pasta and pan-seared trout, perfect for a crowd-pleaser dinner.",
+  "cuisine": "German",
+  "diet": [
+    "pescatarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Furikake seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Trout fillets",
+      "amount": "2, skin removed"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the vermicelli pasta until al dente.",
+    "Meanwhile, heat 2 tbsp of butter in a large skillet over medium heat and sauté the sliced fennel until softened.",
+    "Add the remaining 2 tbsp of butter, heavy cream, lemon juice, and furikake seasoning to the skillet and stir to combine.",
+    "Season the fennel cream with salt and black pepper to taste.",
+    "Pat the trout fillets dry with paper towels and season with salt and black pepper.",
+    "Add the trout fillets to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Drain the cooked vermicelli pasta and add it to the skillet with the fennel cream and trout.",
+    "Toss the pasta to combine with the fennel cream and trout, then serve immediately.",
+    "Garnish with additional sliced fennel and furikake seasoning, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-dinner",
+    "german-cuisine",
+    "high-protein",
+    "pasta",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "yummy-silky-german-pasta-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-silky-german-pasta-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T16:43:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pasta",
+    "descriptor": "yummy silky",
+    "dishForm": "Pasta"
+  }
+}

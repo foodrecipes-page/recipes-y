@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Crunchy American Long Bean Skillet",
+  "description": "A weeknight American dish featuring long-bean, shio-koji-cure, and a flexitarian-friendly approach, this skillet combines umami flavors with a crumbly texture.",
+  "cuisine": "American",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yellow cornmeal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the trimmed long beans, shio-koji, salt, and black pepper to the skillet, stirring to combine.",
+    "Cook the long beans for 5 minutes, or until they are tender but still crisp.",
+    "In a small bowl, mix together the yellow cornmeal and grated cheddar cheese.",
+    "Sprinkle the cornmeal mixture evenly over the top of the long beans in the skillet.",
+    "Reduce the heat to medium-low and cook, covered, for an additional 5 minutes, or until the top is lightly browned and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-cuisine",
+    "crunchy-texture",
+    "flexitarian",
+    "one-pan",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "yellow-crunchy-american-long-bean-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crunchy-american-long-bean-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:29:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "long-bean",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "long bean",
+    "descriptor": "Yellow Crunchy",
+    "dishForm": "Skillet"
+  }
+}

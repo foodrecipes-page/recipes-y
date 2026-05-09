@@ -1761,6 +1761,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crunchy-american-long-bean-skillet",
+    "title": "Yellow Crunchy American Long Bean Skillet",
+    "tags": [
+      "american-cuisine",
+      "crunchy-texture",
+      "flexitarian",
+      "one-pan",
+      "umami-rich",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crunchy-chinese-chinese-leaf-stir-fry",
     "title": "Yellow Crunchy Chinese Chinese Leaf Stir Fry",
     "tags": [
@@ -2295,6 +2310,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 180,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-glazed-canadian-duck-biryani",
+    "title": "Yellow Glazed Canadian Duck Biryani",
+    "tags": [
+      "canadian-cuisine",
+      "complex-recipe",
+      "gluten-free",
+      "one-pot",
+      "rich-and-flavorful",
+      "special-occasion"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 65,
     "shard": "y"
   },
   {

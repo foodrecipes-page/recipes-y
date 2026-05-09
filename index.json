@@ -448,6 +448,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-fluffy-thai-shrimp-tom-yum",
+    "title": "Yeasty Fluffy Thai Shrimp Tom Yum",
+    "tags": [
+      "coconut-milk",
+      "one-pot",
+      "seafood",
+      "thai-cuisine",
+      "yeast-based"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-gelatine-polish-gelatin-bake",
     "title": "Yeasty Gelatine Polish Gelatin Bake",
     "tags": [

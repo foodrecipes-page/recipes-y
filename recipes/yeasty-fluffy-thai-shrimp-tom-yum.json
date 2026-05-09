@@ -1,0 +1,101 @@
+{
+  "title": "Yeasty Fluffy Thai Shrimp Tom Yum",
+  "description": "A Buddhist-temple-friendly, monsoon-inspired Thai dish featuring shrimp in a yeasty and fluffy Tom Yum soup, made with fish sauce and dashi extract.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tom yum paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the lemongrass and lime leaves and cook until fragrant.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the tom yum paste and cook for 1 minute.",
+    "Add the dashi extract, fish sauce, and yeast, and stir to combine.",
+    "Add the shrimp and cook until they turn pink.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook for 5 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "one-pot",
+    "seafood",
+    "thai-cuisine",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yeasty-fluffy-thai-shrimp-tom-yum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-fluffy-thai-shrimp-tom-yum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:59:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "dashi-extract",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "Yeasty Fluffy",
+    "dishForm": "Tom Yum"
+  }
+}

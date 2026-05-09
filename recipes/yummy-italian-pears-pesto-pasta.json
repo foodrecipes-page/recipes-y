@@ -1,0 +1,112 @@
+{
+  "title": "yummy italian pears pesto pasta",
+  "description": "A festive Italian pasta dish featuring the unique flavor of Korean-pear and the creaminess of pesto. This Whole30-friendly recipe is perfect for a quick dinner or special occasion.",
+  "cuisine": "italian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pear",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "pesto",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "linguine",
+      "amount": "1 pound",
+      "notes": "whole30 compliant pasta"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese substitute",
+      "amount": "1/4 cup",
+      "notes": "dairy-free alternative"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the linguine according to the package instructions until al dente. ",
+    "In a blender or food processor, blend the pesto, garlic, and pine nuts until smooth. ",
+    "In a large skillet, heat the olive oil over medium heat. ",
+    "Add the pear to the skillet and saut\u00025 the until tender. ",
+    "Add the cooked linguine to the skillet, tossing with the pear and pesto sauce. ",
+    "Season with salt and pepper to taste. ",
+    "Serve immediately, garnished with chopped parsley.",
+    "Garnish with a sprinkle of parmesan cheese substitute, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "italian",
+    "pasta",
+    "pesto",
+    "quick-dinner",
+    "special-occasion",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "yummy-italian-pears-pesto-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-italian-pears-pesto-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:17:46Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "candy",
+    "primaryIngredient": "korean-pear",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pears",
+    "descriptor": "yummy",
+    "dishForm": "Pesto Pasta"
+  }
+}

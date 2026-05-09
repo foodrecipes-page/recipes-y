@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Syrian Herb Pilaf",
+  "description": "A flavorful and aromatic Syrian dish featuring a blend of herbs and fast action yeast, perfect for a crowd, this pilaf is a shojin-friendly option that is both herbal and pillowy in texture.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mixed herbs",
+      "amount": "1 cup",
+      "notes": "such as parsley, dill, and mint"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the mixed herbs, salt, and black pepper, and cook for 1 minute.",
+    "Add the basmati rice and stir to combine with the herb mixture.",
+    "Add the water and lemon juice, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Remove from heat and stir in the fast action yeast.",
+    "Let the pilaf rest, covered, for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "middle-eastern",
+    "one-pot",
+    "shojin-friendly",
+    "syrian",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "yellow-syrian-herb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-syrian-herb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:59:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "reduce",
+    "primaryIngredient": "fast action yeast",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "herbs",
+    "descriptor": "yellow pillowy",
+    "dishForm": "Pilaf"
+  }
+}

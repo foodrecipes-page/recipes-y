@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Yogurt Middle Eastern Chickpeas Hummus",
+  "description": "A garlicky and bouncy Middle Eastern dish featuring yellow masarepa and confit tomato, perfect for a lazy Sunday, this hummus is nut-free friendly and made with chickpeas and yogurt.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "yellow masarepa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine chickpeas, yellow masarepa, confit tomato, yogurt, garlic, lemon juice, and salt.",
+    "Blend the mixture on high speed for about 2 minutes, or until it is smooth and creamy.",
+    "With the blender or food processor running, slowly pour in the water and olive oil.",
+    "Continue blending for another minute, or until the desired consistency is reached.",
+    "Taste the hummus and adjust the seasoning if necessary.",
+    "Transfer the hummus to a serving bowl and garnish with a sprinkle of paprika or parsley, if desired.",
+    "Serve the hummus with pita bread, vegetables, or crackers.",
+    "Cover and refrigerate any leftover hummus for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "gluten-free",
+    "hummus",
+    "lazy-sunday",
+    "middle-eastern",
+    "nut-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "yellow-yogurt-middle-eastern-chickpeas-hummus",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yogurt-middle-eastern-chickpeas-hummus",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:42:04Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "confit-tomato",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Yellow Yogurt",
+    "dishForm": "Hummus"
+  }
+}

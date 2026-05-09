@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Spicy Thai Sausages Khanom Krok",
+  "description": "A funky and snappy Thai dish featuring sausages, infuse-oil, and ayurvedic-sattvic-friendly ingredients, formed into khanom krok, this recipe is a nostalgic treat from Isaan cuisine.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Thai sausages",
+      "amount": "12",
+      "notes": "preferably homemade or store-bought with no added preservatives"
+    },
+    {
+      "name": "Infuse oil",
+      "amount": "1/4 cup",
+      "notes": "with lemongrass and galangal"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the khanom krok pan over medium heat and brush with infuse oil.",
+    "In a large bowl, mix together rice flour, water, salt, sugar, and coconut milk to form a smooth batter.",
+    "Add sliced Thai chili peppers and chopped cilantro to the batter and stir well.",
+    "Pour about 1 tablespoon of the batter into each khanom krok mold.",
+    "Place a Thai sausage in the center of each mold.",
+    "Cover the sausage with another tablespoon of the batter.",
+    "Cook for 4-5 minutes or until the edges start to brown.",
+    "Flip the khanom krok and cook for another 4 minutes or until golden brown.",
+    "Serve warm with a squeeze of lime juice and a side of sweet chili sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "khanom-krok",
+    "spicy-snacks",
+    "thai-street-food",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "yellow-spicy-thai-sausages-khanom-krok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-thai-sausages-khanom-krok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:33:36Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "sausages",
+    "diet": "ayurvedic-sattvic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "sausages",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Khanom Krok"
+  }
+}

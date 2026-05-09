@@ -1,0 +1,97 @@
+{
+  "title": "Yellow Springy Brazilian Shungiku Skewers",
+  "description": "A crowd-pleasing Brazilian dish featuring shungiku, with a jammy and springy texture, perfect for any occasion. This kosher-friendly recipe is sure to delight your guests.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "1 bunch",
+      "notes": "also known as chrysanthemum greens"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "1",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Soak the wooden skewers in water for at least 30 minutes to prevent burning.",
+    "Thread the shungiku, yellow pepper, and garlic onto the skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt, black pepper, and ginger.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the shungiku is tender and slightly charred.",
+    "Deglaze the grill with lime juice, scraping up any browned bits from the bottom.",
+    "Serve the skewers hot, garnished with additional lime juice and salt if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "grilled-vegetables",
+    "kosher-recipes",
+    "spring-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "yellow-springy-brazilian-shungiku-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-springy-brazilian-shungiku-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:07:34Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "shungiku",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "shungiku",
+    "descriptor": "yellow springy",
+    "dishForm": "Skewers"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Zesty Peruvian Avocado Ceviche",
+  "description": "A refreshing and light Peruvian dish featuring avocado and a zesty mirepoix base, served in a scallop shell. This peppery and snappy ceviche is a quick fix for any meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "3",
+      "notes": "ripe"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallops",
+      "amount": "12",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Cut the avocado into small pieces and place them in a large bowl.",
+    "Add the thinly sliced red onion and diced yellow pepper to the bowl.",
+    "Squeeze the lime juice over the mixture and toss to coat.",
+    "Season with salt and black pepper to taste.",
+    "Stir in the chopped cilantro.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Just before serving, spoon the ceviche into scallop shells.",
+    "Garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-calorie",
+    "peruvian-cuisine",
+    "quick-fix",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "yellow-zesty-peruvian-avocado-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-zesty-peruvian-avocado-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:21:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "avocado",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "avocado",
+    "descriptor": "Yellow Zesty",
+    "dishForm": "Ceviche"
+  }
+}

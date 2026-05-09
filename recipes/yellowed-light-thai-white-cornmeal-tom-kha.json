@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Light Thai White Cornmeal Tom Kha",
+  "description": "A rich and light Thai dish featuring white cornmeal and shio-koji-cure, served in an agave leaf vessel, this tom kha is a festive and diabetic-friendly option.",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 root",
+      "notes": "sliced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 leaves",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Start by curing the chicken breast with shio-koji for at least 30 minutes.",
+    "In a large pot, combine the coconut milk, lemon grass, galangal, and lime leaves, and bring to a boil.",
+    "Reduce the heat to a simmer and add the cured chicken breast, cooking until it reaches an internal temperature of 165 degrees.",
+    "In a small bowl, whisk together the fish sauce and a splash of the coconut milk, then stir the mixture back into the pot.",
+    "Stir in the white cornmeal and cook for an additional 5 minutes, or until the mixture has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "To serve, spoon the tom kha into agave leaves and garnish with additional lime leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "festive",
+    "gluten-free",
+    "one-pot",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellowed-light-thai-white-cornmeal-tom-kha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-light-thai-white-cornmeal-tom-kha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:29:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "white cornmeal",
+    "diet": "diabetic-friendly",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "white cornmeal",
+    "descriptor": "Yellowed Light",
+    "dishForm": "Tom Kha"
+  }
+}

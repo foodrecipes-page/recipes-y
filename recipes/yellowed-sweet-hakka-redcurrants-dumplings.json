@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Sweet Hakka Redcurrants Dumplings",
+  "description": "A funky and comforting Hakka dish featuring redcurrants and lamination-puff, perfect for a light snack. This raw-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lamination puff",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Roll out the lamination puff to a thickness of about 1/8 inch.",
+    "In a bowl, mix together the redcurrants, sugar, water, and cornstarch.",
+    "Add the vegetable oil, salt, and ginger to the bowl and mix well.",
+    "Spoon the redcurrant mixture onto one half of the lamination puff, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the lamination puff over the filling and press the edges to seal.",
+    "Use a knife to cut the dumplings into desired shapes.",
+    "Place the dumplings on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Serve the dumplings warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "delicious",
+    "easy-to-make",
+    "hakka",
+    "snack",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "yellowed-sweet-hakka-redcurrants-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-sweet-hakka-redcurrants-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:34:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "lamination-puff",
+    "primaryIngredient": "redcurrants",
+    "diet": "raw",
+    "region": "hakka",
+    "cuisineAdjective": "Hakka",
+    "mainIngredient": "redcurrants",
+    "descriptor": "Yellowed Sweet",
+    "dishForm": "Dumplings"
+  }
+}

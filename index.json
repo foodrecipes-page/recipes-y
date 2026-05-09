@@ -3030,6 +3030,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-peppery-malaysian-cheese-sandwich",
+    "title": "Yellow Peppery Malaysian Cheese Sandwich",
+    "tags": [
+      "adventurous-eating",
+      "cheese-sandwich",
+      "lacto-vegetarian",
+      "malaysian-cuisine",
+      "peppery-food",
+      "steam-cooked"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 17,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-peppery-mexican-turkey-ham-burrito",
     "title": "Yellow Peppery Mexican Turkey Ham Burrito",
     "tags": [

@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Peppery Malaysian Cheese Sandwich",
+  "description": "A lacto-vegetarian friendly Malaysian dish featuring rye bread, steam, and a blend of cheeses, this sandwich is perfect for adventurous eaters, with a peppery flavor and cheese-pull texture. It is a unique twist on traditional sandwiches.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rye bread",
+      "amount": "4 slices",
+      "notes": "dark or light rye"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malaysian pepper cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1/2 cup shredded"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "1/2 cup sliced"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Butter one side of each slice of rye bread.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Place two slices of bread, buttered side down, in the skillet.",
+    "Top each bread slice with a slice of yellow pepper, a sprinkle of salt, and a sprinkle of black pepper.",
+    "Divide the malaysian pepper cheese and monterey jack cheese evenly between the two bread slices.",
+    "Place the other two slices of bread, buttered side up, on top of the cheese.",
+    "Pour in the water and cover the skillet with a lid.",
+    "Steam the sandwich for 5 minutes or until the cheese is melted and the bread is toasted.",
+    "Flip the sandwich over and steam for an additional 2 minutes.",
+    "Remove the sandwich from the skillet and let it cool for 1 minute before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "cheese-sandwich",
+    "lacto-vegetarian",
+    "malaysian-cuisine",
+    "peppery-food",
+    "steam-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "yellow-peppery-malaysian-cheese-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-peppery-malaysian-cheese-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:50:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "rye bread",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cheese",
+    "descriptor": "Yellow Peppery",
+    "dishForm": "Sandwich"
+  }
+}

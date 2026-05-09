@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Malaysian Mitsuba Noodles",
+  "description": "A fresh and festive Malaysian dish featuring mitsuba, served on a talavera plate. This kosher-friendly recipe uses a bain-marie to cook the noodles to perfection.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mitsuba",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Add the rice noodles and cook for 3 minutes.",
+    "Prepare a bain-marie by filling a large bowl with hot water.",
+    "Place a talavera plate over the bowl to warm it.",
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the chopped mitsuba and cook until wilted.",
+    "Add the turmeric and salt and stir to combine.",
+    "Drain the noodles and add them to the pan.",
+    "Toss the noodles with the mitsuba mixture and serve on the warmed talavera plate."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kosher-friendly",
+    "malaysian-cuisine",
+    "noodle-dish",
+    "talavera-plate",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "yellow-malaysian-mitsuba-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-malaysian-mitsuba-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:24:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "mitsuba",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "mitsuba",
+    "descriptor": "Yellow Festive",
+    "dishForm": "Noodles"
+  }
+}

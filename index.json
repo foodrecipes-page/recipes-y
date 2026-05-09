@@ -3352,6 +3352,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-malaysian-mitsuba-noodles",
+    "title": "Yellow Malaysian Mitsuba Noodles",
+    "tags": [
+      "kosher-friendly",
+      "malaysian-cuisine",
+      "noodle-dish",
+      "talavera-plate",
+      "vegetarian"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-malt-russian-soya-pilaf",
     "title": "Yellow Malt Russian Soya Pilaf",
     "tags": [

@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Crisp Korean Bun Jjigae",
+  "description": "A vegetarian-friendly Korean dish featuring crispy bun and a variety of vegetables in a savory jjigae sauce, perfect for meal prep.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean bun",
+      "amount": "4 pieces",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium-high heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the sliced zucchini and mushrooms and cook until they are tender.",
+    "In a small bowl, whisk together the gochujang, soy sauce, and minced garlic.",
+    "Pour the sauce over the vegetables and stir to combine.",
+    "Add the Korean bun to the pan and cook until it is crispy and golden brown.",
+    "Stir in the chopped green onions and cook for an additional minute.",
+    "Serve the bun jjigae hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "korean-food",
+    "meal-prep",
+    "one-pan",
+    "savory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "yellow-crisp-korean-bun-jjigae",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crisp-korean-bun-jjigae",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:09:03Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "bun",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "bun",
+    "descriptor": "Yellow Crisp",
+    "dishForm": "Jjigae"
+  }
+}

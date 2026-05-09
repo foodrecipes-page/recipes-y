@@ -1995,6 +1995,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-crisp-korean-bun-jjigae",
+    "title": "Yellow Crisp Korean Bun Jjigae",
+    "tags": [
+      "crispy",
+      "korean-food",
+      "meal-prep",
+      "one-pan",
+      "savory",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-crisp-thai-apricot-khanom-thai",
     "title": "Yellow Crisp Thai Apricot Khanom Thai",
     "tags": [
@@ -9395,6 +9410,22 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "youthful-juicy-saudi-arabian-date-tagine",
+    "title": "Youthful Juicy Saudi Arabian Date Tagine",
+    "tags": [
+      "chocolate-infused",
+      "creamy",
+      "date-based",
+      "floral",
+      "low-sodium",
+      "post-workout",
+      "saudi-arabian"
+    ],
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

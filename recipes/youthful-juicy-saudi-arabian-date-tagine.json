@@ -1,0 +1,102 @@
+{
+  "title": "Youthful Juicy Saudi Arabian Date Tagine",
+  "description": "A floral and juicy post-workout dish from Saudi Arabia, made with clotted cream and tempering chocolate in a traditional tagine pot, perfect for a low-sodium diet.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "low sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "1 cup",
+      "notes": "medjool or similar variety"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "almond oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine pot over medium heat, adding the almond oil to the bottom.",
+    "Add the toasted pine nuts and cook, stirring frequently, until fragrant and lightly browned.",
+    "Add the pitted dates, rose water, orange blossom water, and honey to the tagine pot, stirring to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 10 minutes.",
+    "Stir in the clotted cream and tempering chocolate until the chocolate is melted and the mixture is smooth.",
+    "Add the cardamom powder and salt, stirring to combine.",
+    "Continue to cook, covered, for an additional 5 minutes, or until the dates are tender and the sauce has thickened.",
+    "Serve the tagine hot, garnished with additional toasted pine nuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-infused",
+    "creamy",
+    "date-based",
+    "floral",
+    "low-sodium",
+    "post-workout",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "youthful-juicy-saudi-arabian-date-tagine",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-juicy-saudi-arabian-date-tagine",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:09:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "clotted cream",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "dates",
+    "descriptor": "youthful juicy",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Jamaican Rhubarb Curry",
+  "description": "A garlicky and comforting Jamaican dish featuring forced rhubarb, this curry is a perfect blend of flavors and textures, made with ayurvedic sattvic friendly ingredients and cooked to perfection in a wok.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "forced rhubarb",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a wok over medium heat.",
+    "Add the minced garlic and grated ginger and saute for 1 minute.",
+    "Add the chopped onion and saute until it is translucent.",
+    "Add the curry powder and turmeric and stir for 1 minute.",
+    "Add the cut rhubarb and stir to combine with the spice mixture.",
+    "Add the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Season the curry with salt and black pepper to taste.",
+    "Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "garlicky",
+    "jamaican-cuisine",
+    "one-pan",
+    "spicy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellow-jamaican-rhubarb-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-jamaican-rhubarb-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:17:04Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Yellow steamed",
+    "dishForm": "Curry"
+  }
+}

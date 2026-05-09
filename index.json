@@ -6981,6 +6981,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-golden-dutch-cheese-casserole",
+    "title": "Yellowed Golden Dutch Cheese Casserole",
+    "tags": [
+      "casserole",
+      "cheesy",
+      "comfort-food",
+      "dutch-cuisine",
+      "garlicky",
+      "lacto-vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-golden-filipino-eggs-frittata",
     "title": "Yellowed Golden Filipino Eggs Frittata",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "Yellowed Golden Dutch Cheese Casserole",
+  "description": "A garlicky, cheese-pull, nostalgic Dutch dish featuring gherkin relish, braise, and lacto-vegetarian-friendly ingredients, served in a molcajete vessel.",
+  "cuisine": "Dutch",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup shredded",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onion and minced garlic in butter until softened.",
+    "In a separate saucepan, whisk together the flour, milk, salt, and pepper, and cook over medium heat until the mixture thickens.",
+    "Remove the sauce from the heat and stir in the shredded Gouda cheese until melted and smooth.",
+    "Add the gherkin relish to the cheese sauce and stir to combine.",
+    "Transfer the cheese sauce to the skillet with the onion and garlic mixture, and stir to combine.",
+    "Transfer the mixture to a molcajete vessel and top with additional shredded Gouda cheese.",
+    "Bake the casserole in the preheated oven for 20-25 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "cheesy",
+    "comfort-food",
+    "dutch-cuisine",
+    "garlicky",
+    "lacto-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "yellowed-golden-dutch-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-golden-dutch-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:28:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "gherkin relish",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "Yellowed Golden",
+    "dishForm": "Casserole"
+  }
+}

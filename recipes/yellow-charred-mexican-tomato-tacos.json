@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Charred Mexican Tomato Tacos",
+  "description": "A lazy Sunday Mexican dish featuring char-grilled tomatoes and a hint of grassy flavor, made with ayurvedic-sattvic-friendly ingredients. This recipe is perfect for a relaxing afternoon meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4 large",
+      "notes": "preferably heirloom or yellow variety"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn",
+      "notes": "look for gluten-free options"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "Brush the tomatoes with olive oil and season with salt and pepper.",
+    "Grill the tomatoes for about 3-4 minutes per side, until they have a nice char.",
+    "While the tomatoes are grilling, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once the tomatoes are done, let them cool for a minute or two before chopping them into small pieces.",
+    "In a large bowl, combine the chopped tomatoes, sliced onion, and chopped cilantro.",
+    "Squeeze the lime juice over the top of the tomato mixture and toss to combine.",
+    "Season the mixture with salt and pepper to taste.",
+    "Assemble the tacos by spooning the tomato mixture onto a warmed tortilla and serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meals",
+    "gluten-free",
+    "grilled-vegetables",
+    "lazy-sunday",
+    "mexican-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellow-charred-mexican-tomato-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-charred-mexican-tomato-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:30:49Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "tomato juice",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Yellow Charred",
+    "dishForm": "Tacos"
+  }
+}

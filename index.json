@@ -1482,6 +1482,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-charred-mexican-tomato-tacos",
+    "title": "Yellow Charred Mexican Tomato Tacos",
+    "tags": [
+      "easy-meals",
+      "gluten-free",
+      "grilled-vegetables",
+      "lazy-sunday",
+      "mexican-food",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-cheesy-brazilian-seafood-fried-rice",
     "title": "Yellow Cheesy Brazilian Seafood Fried Rice",
     "tags": [

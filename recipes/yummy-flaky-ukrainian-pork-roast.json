@@ -1,0 +1,86 @@
+{
+  "title": "Yummy Flaky Ukrainian Pork Roast",
+  "description": "This Ukrainian pork roast is a crowd-pleaser, featuring a delicious blend of cranberry juice and wine, and is low in sodium, making it a great option for those with dietary restrictions. The result is a tender, flaky, and flavorful roast that is sure to impress.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "In a small bowl, whisk together the cranberry juice, red wine, and olive oil.",
+    "Rub the garlic powder, salt-free seasoning blend, and black pepper all over the pork roast.",
+    "Place the pork roast in a large roasting pan and pour the cranberry juice mixture over it.",
+    "Roast the pork in the preheated oven for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the pork rest for 10 minutes before slicing and serving.",
+    "Strain the pan juices and serve them alongside the pork."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 80,
+  "totalTimeMin": 100,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cranberry-juice",
+    "crowd-pleaser",
+    "low-sodium",
+    "pork-roast",
+    "ukrainian-cuisine",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yummy-flaky-ukrainian-pork-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-flaky-ukrainian-pork-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:04:57Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "cranberry juice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "yummy flaky",
+    "dishForm": "Roast"
+  }
+}

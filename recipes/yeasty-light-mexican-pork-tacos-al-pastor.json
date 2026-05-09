@@ -1,0 +1,100 @@
+{
+  "title": "Yeasty Light Mexican Pork Tacos Al Pastor",
+  "description": "A light and flavorful Mexican dish featuring sazon and grilled pork, served in individual mini cocottes.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "sazon seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pineapple",
+      "amount": "1 cup",
+      "notes": "chunks"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together sazon seasoning, orange juice, lime juice, and yeast.",
+    "Add the pork shoulder to the bowl and marinate for at least 30 minutes.",
+    "Remove the pork from the marinade and grill for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, grill the onion and pineapple for 2-3 minutes per side, or until lightly charred.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the grilled pork into thin strips and serving with onion, pineapple, and cilantro in individual mini cocottes.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilled",
+    "individual-servings",
+    "low-fat",
+    "mexican",
+    "tacos-al-pastor"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "yeasty-light-mexican-pork-tacos-al-pastor",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-light-mexican-pork-tacos-al-pastor",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:47:21Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "sazon",
+    "diet": "low-fat",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Yeasty Light",
+    "dishForm": "Tacos Al Pastor"
+  }
+}

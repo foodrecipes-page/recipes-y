@@ -10145,6 +10145,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-juicy-argentinian-beef-skewers",
+    "title": "Yummy Juicy Argentinian Beef Skewers",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "latin-american",
+      "one-pan",
+      "weeknight",
+      "wine-based"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-juicy-japanese-fish-fillet-okonomiyaki",
     "title": "Yummy Juicy Japanese Fish Fillet Okonomiyaki",
     "tags": [

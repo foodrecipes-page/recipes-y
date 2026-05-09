@@ -1,0 +1,95 @@
+{
+  "title": "Yummy Juicy Argentinian Beef Skewers",
+  "description": "A winey, juicy solo dinner dish featuring lemongrass and a mother sauce base with Mediterranean friendly flavors.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat.",
+    "In a large bowl, whisk together red wine, olive oil, garlic, salt, and black pepper.",
+    "Add the beef cubes to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each piece.",
+    "Brush the bruised lemongrass with olive oil and grill alongside the skewers for 2 minutes.",
+    "Grill the skewers for 8 minutes, turning occasionally, until the beef reaches 135 degrees.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Meanwhile, mix the tomato paste with 2 tablespoons of water to make a mother sauce base.",
+    "Serve the skewers with the mother sauce base spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "weeknight",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "yummy-juicy-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-juicy-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:54:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "yummy juicy",
+    "dishForm": "Skewers"
+  }
+}

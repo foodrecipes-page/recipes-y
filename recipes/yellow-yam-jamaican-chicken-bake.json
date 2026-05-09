@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Yam Jamaican Chicken Bake",
+  "description": "A spicy and dense Jamaican dish featuring raw vegetables and chicken, perfect for a high-protein brunch, baked to perfection in a wood-fired oven and served in a bento box.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yellow yam",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the chicken with the jerk seasoning, salt, and black pepper until the chicken is evenly coated.",
+    "In a separate bowl, toss the yellow yam, scotch bonnet pepper, red bell pepper, and onion with the olive oil, salt, and black pepper until the vegetables are evenly coated.",
+    "In a bento box, create a layer of the vegetable mixture, followed by a layer of the chicken mixture, and repeat this process until all ingredients have been used, ending with a layer of vegetables on top.",
+    "Cover the bento box with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Remove the bento box from the oven and sprinkle the chopped cilantro over the top.",
+    "Let the dish rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "brunch-ideas",
+    "gluten-free",
+    "high-protein",
+    "jamaican-cuisine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellow-yam-jamaican-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yam-jamaican-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:42:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "raw vegetables",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Yam",
+    "dishForm": "Bake"
+  }
+}

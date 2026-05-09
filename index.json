@@ -3401,6 +3401,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-sauteed-mexican-beans-tacos",
+    "title": "Yellow Sauteed Mexican Beans Tacos",
+    "tags": [
+      "mexican",
+      "one-pan",
+      "quick-dinner",
+      "shojin-friendly",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-savory-filipino-fish-stew",
     "title": "Yellow Savory Filipino Fish Stew",
     "tags": [

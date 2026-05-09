@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Sauteed Mexican Beans Tacos",
+  "description": "A sour and shaggy weeknight Mexican dish featuring cinnamon stick, perfect for a quick dinner, this recipe is also shojin-friendly and uses a bamboo steamer as the vessel.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 small"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8 small"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the cooked pinto beans, taco seasoning, and cinnamon stick to the skillet.",
+    "Stir well to combine and cook for 5 minutes.",
+    "Squeeze the lime juice over the bean mixture and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spooning the bean mixture onto a tortilla and serving immediately.",
+    "Steam the tacos in a bamboo steamer for 2 minutes to warm the tortillas and infuse the flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "one-pan",
+    "quick-dinner",
+    "shojin-friendly",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-sauteed-mexican-beans-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-sauteed-mexican-beans-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:43:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beans",
+    "descriptor": "Yellow Sauteed",
+    "dishForm": "Tacos"
+  }
+}

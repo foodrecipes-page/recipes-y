@@ -1,0 +1,106 @@
+{
+  "title": "Yellowish Chinese Fenugreek Curry",
+  "description": "A mustardy and glassy-jelly Chinese dish featuring fenugreek, perfect for a post-workout meal, with a rich coconut cream crack and dash-friendly seasoning",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fenugreek leaves",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat",
+    "Add the mustard seeds and let them crackle for a few seconds",
+    "Add the chopped onion and cook until it is translucent",
+    "Add the minced garlic and grated ginger and cook for another minute",
+    "Add the curry powder and cook for 1 minute, stirring constantly",
+    "Add the fenugreek leaves and cook until they are wilted",
+    "Add the coconut cream and stir well to combine",
+    "Bring the mixture to a simmer and let it cook for 10 minutes",
+    "Season with salt and black pepper to taste",
+    "Serve hot over rice or noodles"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellowish-chinese-fenugreek-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-chinese-fenugreek-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:00:52Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "fenugreek",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "fenugreek",
+    "descriptor": "Yellowish",
+    "dishForm": "Curry"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Yellow Caramelized Turkish Parsley Dolma",
+  "description": "A savory and cozy Turkish dish featuring caramelized parsley and molten flavors, perfect for a vegetarian-friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "curly or flat leaf"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked white or brown"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced onions and cook until they are caramelized and golden brown.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the tomato paste and cook for 2 minutes.",
+    "Add the chopped parsley and cook until it is wilted.",
+    "In a large bowl, combine the cooked rice, parsley mixture, salt, and black pepper.",
+    "Mix well and adjust the seasoning as needed.",
+    "Stuff the rice mixture into bell peppers or zucchini boats.",
+    "Place the stuffed vegetables in a baking dish and drizzle with lemon juice.",
+    "Cover the dish with aluminum foil and bake at 375 degrees Fahrenheit for 25 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-onions",
+    "comfort-food",
+    "middle-eastern",
+    "stuffed-vegetables",
+    "turkish-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "yellow-caramelized-turkish-parsley-dolma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-caramelized-turkish-parsley-dolma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:05:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "parsley",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "parsley",
+    "descriptor": "Yellow Caramelized",
+    "dishForm": "Dolma"
+  }
+}

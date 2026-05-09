@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Umami Korean Tofu Noodles",
+  "description": "A plant-based friendly Korean dish featuring umami flavors from doenjang and ferment-kimchi, perfect for a post-workout meal",
+  "cuisine": "Korean",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doenjang",
+      "amount": "2 tablespoons",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside",
+    "In a large pan, heat the vegetable oil over medium heat",
+    "Add the minced garlic and cook for 1 minute until fragrant",
+    "Add the doenjang and cook for 1 minute, stirring constantly",
+    "Add the chopped ferment-kimchi and cook for 2 minutes, stirring occasionally",
+    "Add the cubed tofu and cook for 3 minutes, stirring occasionally",
+    "Add the cooked noodles to the pan and stir to combine with the doenjang and kimchi mixture",
+    "Transfer the noodles to a serving dish and garnish with chopped green onions and sesame seeds"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "noodle-dish",
+    "plant-based",
+    "post-workout",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-umami-korean-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-umami-korean-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:52:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "doenjang",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Yellow Umami",
+    "dishForm": "Noodles"
+  }
+}

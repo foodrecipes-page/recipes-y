@@ -1,0 +1,99 @@
+{
+  "title": "Yellowed Flaky Turkish Pastry Pide",
+  "description": "A traditional Turkish pastry featuring vanilla bean paste and a sweet glaze, perfect for a midnight craving. This egg-free friendly dish is a must try for anyone looking for a unique dessert experience.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "glaze",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Combine flour, yeast, and salt in a large mixing bowl.",
+    "Add melted butter, whole milk, and vanilla bean paste to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and shape it into a pide form.",
+    "Place the pide on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Remove the pide from the oven and let it cool for 10 minutes.",
+    "Drizzle the glaze over the pide and sprinkle with confectioners sugar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free-friendly",
+    "flaky-pastry",
+    "midnight-craving",
+    "sweet-treat",
+    "turkish-delicacy",
+    "vanilla-bean-paste"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "yellowed-flaky-turkish-pastry-pide",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-turkish-pastry-pide",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:46:09Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "glaze",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pastry",
+    "descriptor": "Yellowed Flaky",
+    "dishForm": "Pide"
+  }
+}

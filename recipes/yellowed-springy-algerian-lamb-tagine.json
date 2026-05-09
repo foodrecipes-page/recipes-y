@@ -1,0 +1,107 @@
+{
+  "title": "Yellowed Springy Algerian Lamb Tagine",
+  "description": "A traditional Algerian dish featuring lamb shanks, score-fat, and a blend of spices, cooked in a comal to create a tender and flavorful meal, perfect for special occasions.",
+  "cuisine": "Algerian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4 pieces",
+      "notes": "preferably with score-fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large comal over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the lamb shanks and cook until they are browned on all sides.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper, and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the comal from the heat and let it cool slightly.",
+    "Serve the lamb shanks with the rich and flavorful sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "lamb-based",
+    "north-african",
+    "one-pot",
+    "slow-cooked",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "yellowed-springy-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-springy-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:15:41Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "score-fat",
+    "primaryIngredient": "lamb shanks",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Springy",
+    "dishForm": "Tagine"
+  }
+}

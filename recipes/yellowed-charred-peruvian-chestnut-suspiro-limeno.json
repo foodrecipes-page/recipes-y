@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Charred Peruvian Chestnut Suspiro Limeno",
+  "description": "A pescatarian-friendly Peruvian dish featuring charred chestnuts and a fermented twist, perfect for a post-workout snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 1/2 cups",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the chopped chestnuts with a little bit of oil and roast in the oven for 20 minutes, or until slightly charred.",
+    "In a blender, puree the roasted chestnuts, lime juice, fish sauce, and dulce de leche until smooth.",
+    "In a separate bowl, mix the yogurt, vanilla extract, and cinnamon powder.",
+    "Fold the yogurt mixture into the chestnut puree until well combined.",
+    "Transfer the mixture to individual serving cups.",
+    "Top each serving with toasted sesame seeds.",
+    "Chill in the refrigerator for at least 30 minutes before serving.",
+    "Serve cold and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "peruvian-cuisine",
+    "pescatarian-friendly",
+    "post-workout",
+    "quick-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "yellowed-charred-peruvian-chestnut-suspiro-limeno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-charred-peruvian-chestnut-suspiro-limeno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:08:31Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "ferment",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chestnut",
+    "descriptor": "Yellowed Charred",
+    "dishForm": "Suspiro Limeno"
+  }
+}

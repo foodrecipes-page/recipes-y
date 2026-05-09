@@ -1,0 +1,92 @@
+{
+  "title": "Portuguese Yeast Chocolate Cake",
+  "description": "A moist, dark chocolate cake from Portugal made with yeast, perfect for dessert.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Dark cocoa powder",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "3"
+    },
+    {
+      "name": "Melted coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast, warm water, and a pinch of sugar to activate the yeast.",
+    "In a medium bowl, whisk together almond flour, cocoa powder, coconut sugar, and salt.",
+    "Add eggs one at a time, whisking well after each addition.",
+    "Add melted coconut oil, vanilla extract, and yeast mixture to the dry ingredients.",
+    "Mix until a sticky dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with plastic wrap, and let rise in a bain-marie at 100°F (38°C) for 1 hour.",
+    "Preheat oven to 350°F (180°C).",
+    "Punch down the dough and shape into a round cake.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let cool in the pan for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "chocolate-cake",
+    "dessert",
+    "portuguese-food",
+    "special-occasion",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 36,
+    "fat": 18
+  },
+  "slug": "yeasty-portuguese-chocolate-cake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-portuguese-chocolate-cake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T14:55:05Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "bain-marie",
+    "primaryIngredient": "dark chocolate",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chocolate",
+    "descriptor": "yeasty",
+    "dishForm": "Cake"
+  }
+}

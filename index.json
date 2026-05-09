@@ -835,6 +835,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-portuguese-chocolate-cake",
+    "title": "Portuguese Yeast Chocolate Cake",
+    "tags": [
+      "chocolate-cake",
+      "dessert",
+      "portuguese-food",
+      "special-occasion",
+      "yeast-bread"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-russian-buckwheat-blini",
     "title": "Yeasty Russian Buckwheat Blini",
     "tags": [

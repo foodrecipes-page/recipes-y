@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Rich Moroccan Cheese Pastilla",
+  "description": "A savory Moroccan dish featuring dark brown soft sugar and cheese, perfect for a sick day. This Jain-friendly pastilla is made with a mortar-pestle-pound filling and has a delicious cheese-pull.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Dark brown soft sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green chili peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a mortar, pound the green chili peppers and dark brown soft sugar until well combined.",
+    "Add the chopped parsley and cilantro to the mortar and pound until well combined.",
+    "In a large bowl, combine the shredded mozzarella cheese and crumbled feta cheese.",
+    "Add the pounded mixture to the cheese and mix until well combined.",
+    "Layer the phyllo dough in a large baking dish, brushing each layer with olive oil.",
+    "Add the cheese mixture to the phyllo dough and fold the dough over the filling to form a pastilla.",
+    "Brush the top of the pastilla with olive oil and bake for 35 minutes.",
+    "Remove the pastilla from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "jain-friendly",
+    "moroccan-cuisine",
+    "sick-day",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellowed-rich-moroccan-cheese-pastilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-rich-moroccan-cheese-pastilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:18:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cheese",
+    "descriptor": "Yellowed Rich",
+    "dishForm": "Pastilla"
+  }
+}

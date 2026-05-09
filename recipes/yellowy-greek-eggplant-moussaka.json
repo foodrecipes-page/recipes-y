@@ -1,0 +1,98 @@
+{
+  "title": "Yellowy Greek Eggplant Moussaka",
+  "description": "A classic Greek dish with a twist, featuring kinako and deep fried eggplant, this moussaka is a hearty and comforting meal. It is kosher friendly and perfect for a cold winter night.",
+  "cuisine": "Greek",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "kinako",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Deep fry the eggplant slices in hot oil until they are golden brown and crispy.",
+    "In a large pan, cook the ground beef over medium heat until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the kinako to the pan with the ground beef and stir to combine.",
+    "In a separate saucepan, heat the tomato sauce over low heat.",
+    "In another saucepan, heat the bechamel sauce over low heat.",
+    "In a large baking dish, create a layer of eggplant slices.",
+    "Spread half of the tomato sauce over the eggplant, followed by half of the bechamel sauce.",
+    "Repeat the layers, starting with the eggplant, then the remaining tomato sauce, and finally the remaining bechamel sauce.",
+    "Sprinkle the parmesan cheese over the top of the moussaka and drizzle with olive oil.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-food",
+    "hearty-dishes",
+    "kosher-friendly",
+    "winter-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellowy-greek-eggplant-moussaka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowy-greek-eggplant-moussaka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:32:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "kinako",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "eggplant",
+    "descriptor": "Yellowy Pillowy",
+    "dishForm": "Moussaka"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Syrian Hazelnut Pilaf",
+  "description": "A fatty and fluffy Syrian dish featuring hazelnuts and a hint of chocolate, perfect for curing hangovers. This shojin-friendly pilaf is made with sashimi-cut ingredients and served on a slate-tile vessel.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "nutella",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped hazelnuts and cook until fragrant, about 2 minutes.",
+    "Add the basmati rice and cook for 1 minute, stirring constantly.",
+    "Add the water, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Fluff the pilaf with a fork and stir in the nutella.",
+    "Transfer the pilaf to a slate-tile vessel and garnish with chopped green onions.",
+    "Serve hot and enjoy.",
+    "Let the pilaf cool to room temperature before refrigerating or freezing.",
+    "Reheat the pilaf in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-calorie",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-syrian-hazelnut-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-syrian-hazelnut-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:45:02Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "nutella",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "hazelnut",
+    "descriptor": "Yellowed Crunchy",
+    "dishForm": "Pilaf"
+  }
+}

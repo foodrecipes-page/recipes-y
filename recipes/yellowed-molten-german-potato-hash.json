@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Molten German Potato Hash",
+  "description": "A salty, molten German dish featuring lime juice and fried potatoes, perfect for a sick day, made low-glycemic-friendly and served in an agave leaf vessel.",
+  "cuisine": "German",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced potatoes with olive oil, salt, black pepper, and paprika until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast for 20 minutes, or until they are golden brown.",
+    "While the potatoes are roasting, heat a large skillet over medium-high heat and add the diced onion, cooking until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for an additional 1-2 minutes, until fragrant.",
+    "Once the potatoes are done roasting, add them to the skillet with the onion and garlic, and stir to combine.",
+    "Squeeze the freshly squeezed lime juice over the top of the potato mixture and stir to combine.",
+    "Reduce heat to low and simmer the mixture for an additional 5-7 minutes, stirring occasionally, until the potatoes are crispy and golden brown.",
+    "To serve, scoop the potato mixture into the center of an agave leaf, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-food",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "yellowed-molten-german-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-molten-german-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:41:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "fry",
+    "primaryIngredient": "lime juice",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "Yellowed Molten",
+    "dishForm": "Hash"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Yellow Spicy Mexican Ground Beef Tacos",
+  "description": "A salty and springy Mexican dish featuring ground beef, served in a mason jar, perfect for a crowd, this low-glycemic-friendly recipe is a twist on traditional tacos, utilizing a tandoor for added flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 or 70/30 lean to fat ratio works best"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "yellow tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "mason jars",
+      "amount": "6-8",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the tandoor spice blend, cumin, paprika, salt, and pepper, and cook for 1 minute.",
+    "Add the diced yellow tomato to the skillet and cook for an additional 2 minutes.",
+    "Reduce heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "While the mixture is simmering, prepare the mason jars by adding a layer of shredded lettuce to the bottom of each jar.",
+    "Once the mixture has finished simmering, spoon it over the lettuce in the mason jars.",
+    "Serve the tacos hot, garnished with additional shredded lettuce and diced yellow tomato if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "ground-beef",
+    "low-glycemic",
+    "mexican",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-spicy-mexican-ground-beef-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-mexican-ground-beef-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:40:52Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "tandoor",
+    "primaryIngredient": "ground beef",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "ground beef",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Tacos"
+  }
+}

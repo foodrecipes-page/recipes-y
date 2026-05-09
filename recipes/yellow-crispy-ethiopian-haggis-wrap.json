@@ -1,0 +1,107 @@
+{
+  "title": "Yellow Crispy Ethiopian Haggis Wrap",
+  "description": "A pungent and crispy Ethiopian dish featuring haggis, steamed and wrapped in a corn husk, perfect for a lacto-vegetarian friendly meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "traditional Scottish dish made from sheep heart, liver, and lungs, mixed with onions, oatmeal, and spices"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "dried corn husks for wrapping"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, lacto-vegetarian friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Soak the corn husks in water for at least 30 minutes to make them pliable.",
+    "In a pan, heat the vegetable oil over medium heat and sauté the chopped onions until they are translucent.",
+    "Add the minced garlic and grated ginger to the pan and cook for another minute.",
+    "Add the haggis to the pan, breaking it up with a spoon as it cooks, until it is lightly browned.",
+    "Stir in the berbere spice, salt, and black pepper.",
+    "To assemble the wraps, lay a corn husk flat and spoon some of the haggis mixture onto the center of the husk.",
+    "Top the haggis with a dollop of yogurt and fold the corn husk over the filling to form a tight bundle.",
+    "Place the wraps on a baking sheet lined with parchment paper and bake for 20 minutes, or until crispy and golden brown.",
+    "Serve the wraps hot, garnished with additional yogurt and berbere spice if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "international",
+    "lacto-vegetarian",
+    "main-dish",
+    "one-pan",
+    "spicy",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellow-crispy-ethiopian-haggis-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crispy-ethiopian-haggis-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:32:24Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "haggis",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "haggis",
+    "descriptor": "Yellow crispy",
+    "dishForm": "Wrap"
+  }
+}

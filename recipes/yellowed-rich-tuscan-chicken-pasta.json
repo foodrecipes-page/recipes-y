@@ -1,0 +1,106 @@
+{
+  "title": "Yellowed Rich Tuscan Chicken Pasta",
+  "description": "A comforting and rich Italian dish featuring chicken, pasta, and a creamy sauce, perfect for a sick day, and can be easily made vegan-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "canned coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and cook the onion until translucent.",
+    "Add the garlic to the skillet and cook for an additional minute, until fragrant.",
+    "Add the chicken breast to the skillet and cook until browned on all sides and cooked through.",
+    "In a blender or food processor, combine the vegetable broth, coconut milk, nutritional yeast, dried basil, salt, and black pepper, and blend until smooth.",
+    "Add the blended sauce to the skillet with the chicken and onion, and stir to combine.",
+    "Reduce heat to low and simmer the sauce for 5 minutes, stirring occasionally, until it has thickened and emulsified.",
+    "Add the cooked pasta to the skillet and toss to combine with the sauce and chicken.",
+    "Serve the pasta hot, in a Korean brass bowl if desired, and enjoy.",
+    "Garnish with additional basil or nutritional yeast if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian",
+    "one-pot",
+    "pasta-lover",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-rich-tuscan-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-rich-tuscan-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:08:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "chicken",
+    "diet": "vegan",
+    "region": "tuscan",
+    "cuisineAdjective": "Tuscan",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellowed Rich",
+    "dishForm": "Pasta"
+  }
+}

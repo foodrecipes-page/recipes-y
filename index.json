@@ -2581,6 +2581,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-glazed-egyptian-steak-tagine",
+    "title": "Yellow Glazed Egyptian Steak Tagine",
+    "tags": [
+      "claypot-cooking",
+      "egyptian-cuisine",
+      "shojin-friendly",
+      "steak-recipes",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-glazed-italian-horseradish-bigoli",
     "title": "Yellow Glazed Italian Horseradish Bigoli",
     "tags": [
@@ -6653,6 +6667,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-rich-tuscan-chicken-pasta",
+    "title": "Yellowed Rich Tuscan Chicken Pasta",
+    "tags": [
+      "comfort-food",
+      "italian",
+      "one-pot",
+      "pasta-lover",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

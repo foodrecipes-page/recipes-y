@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Glazed Egyptian Steak Tagine",
+  "description": "A funky and snappy Egyptian dish featuring fillet of steak, glaze, and cooked in a claypot, perfect for a weeknight dinner",
+  "cuisine": "Egyptian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fillet steak",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "yellow glaze",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a small bowl, mix together the cumin, coriander, salt, and black pepper",
+    "In a large claypot, heat the olive oil over medium heat",
+    "Add the chopped onion to the claypot and cook until softened, about 5 minutes",
+    "Add the minced garlic and grated ginger to the claypot and cook for an additional 1 minute",
+    "Add the cubed steak to the claypot and cook until browned on all sides, about 5 minutes",
+    "Add the cumin mixture to the claypot and stir to combine",
+    "Pour the yellow glaze over the steak and onions in the claypot",
+    "Cover the claypot with a lid and transfer to the preheated oven",
+    "Bake for 20 minutes, or until the steak is cooked to desired doneness"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "egyptian-cuisine",
+    "shojin-friendly",
+    "steak-recipes",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "yellow-glazed-egyptian-steak-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-glazed-egyptian-steak-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:10:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "glaze",
+    "primaryIngredient": "fillet of steak",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "steak",
+    "descriptor": "Yellow Glazed",
+    "dishForm": "Tagine"
+  }
+}

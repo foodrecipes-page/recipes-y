@@ -1,0 +1,104 @@
+{
+  "title": "Yellowed Crisp Australian Tofu Frittata",
+  "description": "A rich and crisp Australian dish featuring chives and tofu, perfect for a brunch mood, this plant-based friendly frittata is made in a mason jar with a lamination puff crust, this is a great option for those looking for a satisfying and filling meal",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lamination puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mushroom broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy milk",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the lamination puff pastry and cut it into a circle to fit the top of a mason jar.",
+    "In a bowl, whisk together the soy milk, mushroom broth, turmeric, salt, black pepper, and nutritional yeast.",
+    "Add the crumbled tofu to the bowl and stir until well combined.",
+    "Add the chopped chives to the bowl and stir until well combined.",
+    "Pour the tofu mixture into a mason jar.",
+    "Place the puff pastry circle on top of the mason jar and brush with olive oil.",
+    "Bake the frittata for 35 minutes or until the pastry is golden brown and the filling is set.",
+    "Remove the frittata from the oven and let it cool for a few minutes.",
+    "Serve the frittata warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "brunch-ideas",
+    "mason-jar-recipes",
+    "plant-based",
+    "tofu-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "yellowed-crisp-australian-tofu-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-australian-tofu-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:33:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "lamination-puff",
+    "primaryIngredient": "chives",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "tofu",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Frittata"
+  }
+}

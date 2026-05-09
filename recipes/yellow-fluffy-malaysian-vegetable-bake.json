@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Fluffy Malaysian Vegetable Bake",
+  "description": "A peppery and fluffy Malaysian dish featuring mustard powder, perfect for a hangover cure, this plant-based friendly bake is a delicious and comforting meal. It combines the flavors of Malaysia with the simplicity of a vegetable bake.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mustard powder",
+      "amount": "2 tablespoons",
+      "notes": "use a high quality powder for best flavor"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm, drained and cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the mustard powder, turmeric, salt, and black pepper.",
+    "Add the chopped onion and minced garlic to the bowl and stir to combine.",
+    "Add the mixed vegetables and cubed tofu to the bowl and stir to combine.",
+    "Pour in the coconut milk and stir until the mixture is well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake for 35 minutes, or until the top is lightly browned and the vegetables are tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "bake",
+    "comfort-food",
+    "malaysian",
+    "one-pan",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "yellow-fluffy-malaysian-vegetable-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-fluffy-malaysian-vegetable-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:44:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "mustard powder",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Yellow fluffy",
+    "dishForm": "Bake"
+  }
+}

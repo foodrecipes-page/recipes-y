@@ -1,0 +1,117 @@
+{
+  "title": "Mexican Broccoli Grilled Corn",
+  "description": "A yeasty, crunchy, indulgent dish combining the flavors of Mexico with the nutrition of Chinese broccoli. This vegan-friendly twist on elote features a crispy corn crust topped with a tangy beurre-monte.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup Chinese broccoli",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 corn on the cob",
+      "amount": "2 ears",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup all-purpose corn masa flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup oat flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup nutritional yeast",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup vegan butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup Beurre-Monte (see note)",
+      "amount": "1/4 cup",
+      "notes": "Recipe below"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill corn on the cob for 10 minutes, turning occasionally.",
+    "In a bowl, mix together corn masa flour, oat flour, nutritional yeast, salt, and black pepper.",
+    "Add water to the bowl and mix until a dough forms.",
+    "Divide the dough into 2 equal pieces and shape each into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a grilled corn on the cob in the center of each dough circle and fold the dough over the corn to form a half-moon shape.",
+    "Press the edges of the dough together to seal the corn inside.",
+    "Brush the tops of the corn with vegan butter and sprinkle with Beurre-Monte.",
+    "Grill the corn for an additional 5 minutes, or until the dough is crispy and golden brown.",
+    "Allow the corn to cool for a few minutes before serving.",
+    "Beurre-Monte: In a small bowl, whisk together 1/4 cup vegan mayonnaise, 2 tablespoons lemon juice, and 1 tablespoon apple cider vinegar until smooth."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mexican",
+    "side-dish",
+    "summer",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yeasty-crunchy-indulgent-mexican-broccoli-grilled-corn",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-crunchy-indulgent-mexican-broccoli-grilled-corn",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:44:43Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "beurre-monte",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "broccoli",
+    "descriptor": "yeasty, crunchy, indulgent",
+    "dishForm": "Grilled Corn"
+  }
+}

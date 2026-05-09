@@ -331,6 +331,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-crunchy-indulgent-mexican-broccoli-grilled-corn",
+    "title": "Mexican Broccoli Grilled Corn",
+    "tags": [
+      "gluten-free",
+      "mexican",
+      "side-dish",
+      "summer",
+      "vegan"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-crunchy-peruvian-ham-solo-dinner",
     "title": "Yeasty Crunchy Peruvian Ham Solo-Dinner",
     "tags": [

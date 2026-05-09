@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Spring Italian Leek Pasta",
+  "description": "A savory and comforting Italian dish featuring leek, robata-grill, and raw-friendly ingredients, perfect for spring. This dish combines the sweetness of leeks with the heartiness of pasta.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "4 medium",
+      "notes": "white and light green parts only"
+    },
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "gluten-free spaghetti"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "Meanwhile, preheat the robata grill to medium-high heat and brush the leeks with olive oil, seasoning with salt and pepper.",
+    "Grill the leeks for 5 minutes on each side, or until slightly charred and tender.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the grilled leeks to the skillet and stir to combine with the garlic and olive oil.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the leek mixture.",
+    "Stir in the grana padano cheese until melted and well combined.",
+    "Season with salt, black pepper, and lemon juice to taste.",
+    "Serve the pasta hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian-food",
+    "leek-recipes",
+    "robata-grill",
+    "spring-recipes",
+    "vegetarian-pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellowed-spring-italian-leek-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-spring-italian-leek-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:08:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "robata-grill",
+    "primaryIngredient": "leek",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "leek",
+    "descriptor": "Yellowed Spring",
+    "dishForm": "Pasta"
+  }
+}

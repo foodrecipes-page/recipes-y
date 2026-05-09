@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Gooey Dutch Uni Bake",
+  "description": "A briny and gooey Dutch dish featuring uni, perfect for a hangover cure, made with low sodium ingredients and wood-fired baking",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Uni",
+      "amount": "12 ounces",
+      "notes": "fresh"
+    },
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the shredded Gouda cheese to the bowl and stir until well combined.",
+    "Add the uni to the bowl and stir gently until the uni is fully coated with the egg mixture.",
+    "Pour the melted butter into a 9x13 inch baking dish.",
+    "Add the uni and egg mixture to the baking dish and smooth the top.",
+    "Sprinkle the toasted Panko breadcrumbs over the top of the uni mixture.",
+    "Bake the dish in the preheated oven for 25 minutes or until the top is golden brown.",
+    "Remove the dish from the oven and sprinkle the chopped parsley over the top.",
+    "Drizzle the freshly squeezed lemon juice over the top of the dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "dutch-cuisine",
+    "low-sodium",
+    "seafood-lovers",
+    "uni-recipes",
+    "wood-fired-oven"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-gooey-dutch-uni-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-gooey-dutch-uni-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:06:35Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "uni",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "uni",
+    "descriptor": "Yellow gooey",
+    "dishForm": "Bake"
+  }
+}

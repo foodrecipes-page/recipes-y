@@ -1,0 +1,116 @@
+{
+  "title": "Earthy Australian Narutomaki Gyoza",
+  "description": "A unique, aerated, and earthy twist on a traditional Australian dish featuring narutomaki. This vegetarian-friendly recipe is perfect for a weeknight dinner or special occasion.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wonton wrappers",
+      "amount": "24",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "narutomaki",
+      "amount": "12",
+      "notes": "sliced"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Australian bush tomato jam",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat. Add the onion and cook until translucent, about 3-4 minutes.",
+    "Add the cabbage, carrots, and garlic to the skillet and cook for an additional 4-5 minutes, or until the vegetables are tender.",
+    "In a large bowl, combine the cooked vegetables, tofu, bush tomato jam, soy sauce (if using), salt, and black pepper. Mix well to combine.",
+    "Lay a wonton wrapper on a flat surface and place a tablespoon of the vegetable mixture in the center.",
+    "Place a slice of narutomaki on top of the filling, then fold the wrapper into a triangle and press the edges together to seal.",
+    "Place the gyoza on a baking sheet lined with parchment paper, leaving about 1 inch of space between each gyoza.",
+    "Brush the tops of the gyoza with a little water, then sprinkle with salt to taste.",
+    "Bake the gyoza in the preheated oven for 12-15 minutes, or until golden brown.",
+    "Serve the gyoza hot with a side of your choice, such as steamed vegetables or a simple salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "earth-toned",
+    "flavorful",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "yummy-earthy-australian-narutomaki-gyoza",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-earthy-australian-narutomaki-gyoza",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:29:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "salt-bake",
+    "primaryIngredient": "narutomaki",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "narutomaki",
+    "descriptor": "Yummy Earthy",
+    "dishForm": "Gyoza"
+  }
+}

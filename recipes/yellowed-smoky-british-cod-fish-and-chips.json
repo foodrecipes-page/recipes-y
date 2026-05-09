@@ -1,0 +1,96 @@
+{
+  "title": "Yellowed Smoky British Cod Fish And Chips",
+  "description": "A smoky and comforting British dish featuring cod fish, medjool dates, and crispy chips, suitable for a sugar-free diet.",
+  "cuisine": "British",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "medjool dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cut into chips"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper and set aside.",
+    "In a bowl, mix together smoked paprika, salt, black pepper, and garlic powder.",
+    "Add the cod fish fillets to the bowl and coat with the spice mixture.",
+    "Place the cod fish fillets on the prepared baking sheet and drizzle with olive oil.",
+    "Bake the cod fish fillets in the preheated oven for 12 minutes or until cooked through.",
+    "While the fish is cooking, heat olive oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Add the potato chips to the hot oil and fry until crispy and golden brown.",
+    "Remove the potato chips from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the cod fish fillets with the crispy potato chips and a side of medjool dates."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "fish-and-chips",
+    "low-carb",
+    "smoky-flavors",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-smoky-british-cod-fish-and-chips",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-british-cod-fish-and-chips",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:07:52Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "medjool dates",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Cod",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Fish And Chips"
+  }
+}

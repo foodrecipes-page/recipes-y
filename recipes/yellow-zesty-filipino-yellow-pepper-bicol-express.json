@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Zesty Filipino Yellow Pepper Bicol Express",
+  "description": "A cultured and springy Filipino dish featuring yellow pepper, kombu-cold-extract, and ayurvedic-sattvic-friendly ingredients, served in a Bicol Express style.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow pepper",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "cold extract"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium heat.",
+    "Add the chopped onion and saute until translucent.",
+    "Add the minced garlic and grated ginger and saute for another minute.",
+    "Add the diced yellow pepper and saute until tender.",
+    "Add the kombu cold extract, coconut milk, turmeric, salt, and black pepper, and stir well.",
+    "Bring the mixture to a simmer and let cook for 10 minutes.",
+    "Reduce the heat to low and let cook for another 5 minutes.",
+    "Serve the Bicol Express hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "one-pot-meals",
+    "spicy-dishes",
+    "vegan-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellow-zesty-filipino-yellow-pepper-bicol-express",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-zesty-filipino-yellow-pepper-bicol-express",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:39:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "yellow pepper",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "yellow pepper",
+    "descriptor": "Yellow Zesty",
+    "dishForm": "Bicol Express"
+  }
+}

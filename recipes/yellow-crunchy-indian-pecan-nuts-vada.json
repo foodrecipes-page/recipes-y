@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Crunchy Indian Pecan Nuts Vada",
+  "description": "A crunchy and flavorful Indian dish featuring pecan nuts, perfect for a date night, with a mustardy taste and a tandoor twist, this low-fat-friendly vada is a delicious and healthy option.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pecan nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the chickpea flour, mustard seeds, cumin seeds, turmeric powder, red chili powder, and salt.",
+    "Add the chopped pecan nuts, lemon juice, and water to the bowl and mix until a thick batter forms.",
+    "Using your hands, shape the batter into small vada shapes.",
+    "Place the vada on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Flip the vada over and bake for an additional 10 minutes, or until crispy and golden brown.",
+    "Remove the vada from the oven and let cool for a few minutes.",
+    "Serve the Yellow Crunchy Indian Pecan Nuts Vada hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snacks",
+    "date-night",
+    "indian-cuisine",
+    "low-fat",
+    "tandoor-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "yellow-crunchy-indian-pecan-nuts-vada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crunchy-indian-pecan-nuts-vada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:03:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "tandoor",
+    "primaryIngredient": "pecan nuts",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "pecan nuts",
+    "descriptor": "Yellow Crunchy",
+    "dishForm": "Vada"
+  }
+}

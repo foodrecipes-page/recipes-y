@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Roasted Vietnamese Nectarine Skewers",
+  "description": "A sweet and savory Vietnamese dish featuring roasted nectarines, perfect for a flexitarian snack or dessert. The combination of juicy nectarines and crispy fried shallots is a nostalgic treat.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "4 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "Shallots",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10-12"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, lime juice, honey, salt, and black pepper.",
+    "Add the sliced shallots to the bowl and toss to coat with the sauce.",
+    "Heat the vegetable oil in a large skillet over medium-high heat and fry the shallots until crispy.",
+    "Thread a nectarine chunk, a few fried shallots, and a sprinkle of chopped mint leaves onto each bamboo skewer.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast in the oven for 15 minutes.",
+    "Brush the nectarines with the remaining sauce from the bowl and continue roasting for an additional 5 minutes.",
+    "Remove the skewers from the oven and let cool for a few minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "flexitarian",
+    "roasted-fruit",
+    "snack-ideas",
+    "sweet-and-savory",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "yellow-roasted-vietnamese-nectarine-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-roasted-vietnamese-nectarine-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:05:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "nectarines",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "nectarines",
+    "descriptor": "Yellow Roasted",
+    "dishForm": "Skewers"
+  }
+}

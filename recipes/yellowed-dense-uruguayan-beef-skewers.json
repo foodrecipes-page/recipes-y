@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Dense Uruguayan Beef Skewers",
+  "description": "A salty and dense Uruguayan dish featuring mustard seeds, this crowd-pleaser is perfect for any occasion, made without onion or garlic for a unique flavor profile.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a tava griddle over medium-high heat to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, salt, black pepper, and paprika.",
+    "Add the beef strips to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated beef strips onto skewers, leaving a small space between each piece.",
+    "Brush the preheated tava griddle with a small amount of olive oil to prevent sticking.",
+    "Place the skewers on the tava griddle and cook for 5 minutes per side, or until the beef reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the beef is cooking, mix the mustard seeds with red wine vinegar and beef broth in a small bowl.",
+    "After flipping the skewers, brush the mustard seed mixture onto the cooked side of the beef.",
+    "Once the beef is cooked, remove the skewers from the tava griddle and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellowed-dense-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-dense-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:39:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "mustard seeds",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Yellowed Dense",
+    "dishForm": "Skewers"
+  }
+}

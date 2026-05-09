@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Spiced Indian Manchego Curry",
+  "description": "A rich and comforting Indian curry featuring Manchego cheese, perfect for a sick day. This flexitarian-friendly dish is made with sauteed vegetables and a blend of warming spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup grated",
+      "notes": "or other firm cheese"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and cook until it is softened and lightly browned.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Stir in the curry powder, turmeric, and cumin and cook for 1 minute.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes.",
+    "Stir in the grated cheese until it is melted and the curry is smooth.",
+    "Season the curry with salt and pepper to taste.",
+    "Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "flexitarian",
+    "indian-cuisine",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "yellow-spiced-indian-manchego-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spiced-indian-manchego-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:57:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "saute",
+    "primaryIngredient": "manchego",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "manchego",
+    "descriptor": "Yellow Spiced",
+    "dishForm": "Curry"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Yellowed Dense Syrian Eggplant Pilaf",
+  "description": "A dense and savory Syrian dish featuring eggplant and chopped chives, perfect for midnight cravings. This ovo-vegetarian friendly pilaf is packed with umami flavor.",
+  "cuisine": "Syrian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "chopped into 1 inch cubes"
+    },
+    {
+      "name": "chopped chives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped eggplant and cook until it starts to brown, about 5 minutes.",
+    "Add the vegetable broth, salt, and black pepper, and bring to a boil.",
+    "Add the uncooked white rice, stir to combine, and reduce heat to low.",
+    "Cover the saucepan and simmer for 20 minutes, or until the rice is cooked and the liquid is absorbed.",
+    "Stir in the beaten eggs and cook until the eggs are set, about 2 minutes.",
+    "Stir in the chopped chives and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant-recipes",
+    "midnight-cravings",
+    "ovo-vegetarian",
+    "syrian-cuisine",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "yellowed-dense-syrian-eggplant-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-dense-syrian-eggplant-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:23:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "chopped chive",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Yellowed Dense",
+    "dishForm": "Pilaf"
+  }
+}

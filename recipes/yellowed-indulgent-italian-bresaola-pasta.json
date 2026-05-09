@@ -1,0 +1,92 @@
+{
+  "title": "Yellowed Indulgent Italian Bresaola Pasta",
+  "description": "A floral and gooey Italian dish featuring bresaola, tandoor spices, and a halal-friendly approach, this pasta is perfect for a special occasion. The combination of tender bresaola and creamy sauce makes for an indulgent treat.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bresaola",
+      "amount": "8 oz",
+      "notes": "air-dried, thinly sliced"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and add the tandoor spice mix, cooking for 1 minute.",
+    "Add the sliced bresaola to the skillet and cook for 2-3 minutes per side, or until lightly browned.",
+    "In a large bowl, whisk together the heavy cream and grated grana padano cheese until smooth.",
+    "Add the cooked pasta to the bowl and toss with the cream sauce until well coated.",
+    "Add the cooked bresaola to the pasta and toss to combine.",
+    "Season with salt and pepper to taste, then sprinkle with chopped parsley and lemon zest.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "italian-food",
+    "pasta-lovers",
+    "rich-and-creamy",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 37,
+    "carbs": 63,
+    "fat": 51
+  },
+  "slug": "yellowed-indulgent-italian-bresaola-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-indulgent-italian-bresaola-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:23:02Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "bresaola",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "bresaola",
+    "descriptor": "Yellowed Indulgent",
+    "dishForm": "Pasta"
+  }
+}

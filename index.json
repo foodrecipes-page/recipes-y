@@ -6392,6 +6392,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-dense-syrian-eggplant-pilaf",
+    "title": "Yellowed Dense Syrian Eggplant Pilaf",
+    "tags": [
+      "eggplant-recipes",
+      "midnight-cravings",
+      "ovo-vegetarian",
+      "syrian-cuisine",
+      "umami-flavors"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-dense-tunisian-lamb-tagine",
     "title": "Yellowed Dense Tunisian Lamb Tagine",
     "tags": [
@@ -6848,6 +6862,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-indulgent-italian-bresaola-pasta",
+    "title": "Yellowed Indulgent Italian Bresaola Pasta",
+    "tags": [
+      "halal-friendly",
+      "italian-food",
+      "pasta-lovers",
+      "rich-and-creamy",
+      "special-occasion"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Crispy Japanese Pork Kushikatsu",
+  "description": "A funky, flaky, and cozy Japanese dish from Shikoku featuring green cardamom pods, long-fermentation-dough, and whole30-friendly ingredients, formed into kushikatsu",
+  "cuisine": "Japanese",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "6 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "pork fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Prepare the long-fermentation-dough according to the recipe note.",
+    "Mix the crushed green cardamom pods, coconut flour, egg, melted pork fat, salt, and black pepper in a bowl.",
+    "Add the pork pieces to the bowl and mix until they are well coated with the mixture.",
+    "Wrap each pork piece in a small piece of long-fermentation-dough.",
+    "Deep fry the kushikatsu in the preheated oil until they are golden brown and crispy.",
+    "Drain the kushikatsu on paper towels.",
+    "Serve the Yellowed Crispy Japanese Pork Kushikatsu hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "gluten-free",
+    "japanese-food",
+    "pork-recipes",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "yellowed-crispy-japanese-pork-kushikatsu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-japanese-pork-kushikatsu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:53:41Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "whole30",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Kushikatsu"
+  }
+}

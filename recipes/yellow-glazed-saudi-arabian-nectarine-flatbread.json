@@ -1,0 +1,89 @@
+{
+  "title": "Yellow Glazed Saudi Arabian Nectarine Flatbread",
+  "description": "A sweet and savory flatbread featuring nectarines and a hint of Saudi Arabian spice, perfect for a light and refreshing snack or dessert. This dish is whole30-friendly and made with double-rise bread.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the double-rise bread into 1-inch thick rounds.",
+    "In a small bowl, mix together the honey, lemon juice, and cardamom.",
+    "Brush the mixture onto the bread rounds, leaving a 1/2 inch border around the edges.",
+    "Top each bread round with diced nectarines.",
+    "Drizzle the ghee over the nectarines.",
+    "Sprinkle the salt over the top of each flatbread.",
+    "Bake the flatbreads in the preheated oven for 15 minutes, or until the bread is lightly toasted and the nectarines are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "glazed",
+    "nectarine",
+    "paleo",
+    "saudi-arabian",
+    "snack",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellow-glazed-saudi-arabian-nectarine-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-glazed-saudi-arabian-nectarine-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:36:19Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "nectarines",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "nectarines",
+    "descriptor": "Yellow Glazed",
+    "dishForm": "Flatbread"
+  }
+}

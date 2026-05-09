@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Herb Mediterranean Lamb Skewers",
+  "description": "Earthy and aerated, these crowd-pleasing Mediterranean lamb skewers feature dill pickles and are perfect for a Buddhist temple gathering, served on a raclette grill.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the lamb skewers for 8-10 minutes, turning occasionally, until cooked through.",
+    "Meanwhile, mix the chopped dill pickles, parsley, and dill in a small bowl.",
+    "Serve the grilled lamb skewers with the pickle-herb mixture spooned over the top.",
+    "Garnish with additional parsley and dill, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "grilled",
+    "lamb",
+    "mediterranean",
+    "skewers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellowed-herb-mediterranean-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-herb-mediterranean-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:22:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "dill pickles",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Herb",
+    "dishForm": "Skewers"
+  }
+}

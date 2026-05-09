@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Rich Polish Mushroom Pasta",
+  "description": "A rich and comforting Polish dish featuring mushrooms, sherry vinegar, and a mother-sauce base, perfect for curing hangovers. This flexitarian-friendly recipe is a hearty and satisfying meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "2 cups",
+      "notes": "button, cremini, shiitake"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat and add the mixed mushrooms, cooking until they release their liquid and start to brown.",
+    "Add the sherry vinegar to the skillet and cook for 1 minute, stirring constantly.",
+    "Sprinkle the flour over the mushrooms and cook for 1 minute, stirring constantly.",
+    "Gradually add the vegetable broth to the skillet, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook until it thickens, stirring occasionally.",
+    "Stir in the grated cheddar cheese until melted and smooth.",
+    "Add the cooked pappardelle pasta to the skillet, tossing to combine with the mushroom sauce.",
+    "Season with salt and pepper to taste, then serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mushroom-lovers",
+    "pasta-dishes",
+    "polish-cuisine",
+    "rich-sauces",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "yellow-rich-polish-mushroom-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-rich-polish-mushroom-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:27:02Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Yellow Rich",
+    "dishForm": "Pasta"
+  }
+}

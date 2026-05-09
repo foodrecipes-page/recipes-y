@@ -1459,6 +1459,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-citrusy-vietnamese-bryndza-cheese-noodles",
+    "title": "Yellow Citrusy Vietnamese Bryndza Cheese Noodles",
+    "tags": [
+      "cheesy",
+      "noodle-dish",
+      "one-pan",
+      "vegetarian",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 27,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-coconut-jamaican-chicken-curry",
     "title": "Yellow Coconut Jamaican Chicken Curry",
     "tags": [

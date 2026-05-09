@@ -1,0 +1,102 @@
+{
+  "title": "Yellow Citrusy Vietnamese Bryndza Cheese Noodles",
+  "description": "This Vietnamese dish features bryndza cheese and a pasta water emulsion, making for a floral and chewy weeknight meal that is ayurvedic-rajasic-friendly.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "12 oz"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rice noodles according to the package instructions.",
+    " Reserve 1 cup of pasta water before draining the noodles.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic and grated ginger until fragrant.",
+    "Add the lemon and grapefruit juices to the skillet and stir to combine.",
+    "Add the crumbly bryndza cheese to the skillet and stir until melted and smooth.",
+    "Add the reserved pasta water to the skillet and stir to combine, creating a creamy emulsion.",
+    "Add the cooked noodles to the skillet and toss to coat with the cheese sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve the noodles hot, garnished with additional grated ginger if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "noodle-dish",
+    "one-pan",
+    "vegetarian",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellow-citrusy-vietnamese-bryndza-cheese-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-citrusy-vietnamese-bryndza-cheese-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:08:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Noodles"
+  }
+}

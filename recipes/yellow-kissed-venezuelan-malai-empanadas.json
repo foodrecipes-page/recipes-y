@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Kissed Venezuelan Malai Empanadas",
+  "description": "A sour and bouncy Venezuelan dish featuring malai, perfect for a cozy snack, this keto-friendly empanada is a delicious treat. The combination of malai and Venezuelan spices creates a unique flavor profile.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "malai",
+      "amount": "1 cup",
+      "notes": "chilled overnight"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together almond flour, coconut oil, and salt.",
+    "Add the chilled malai, lime juice, eggs, shredded cheese, and paprika to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Place a tablespoon of malai in the center of each disk.",
+    "Fold the dough over the malai and press the edges together to seal the empanada.",
+    "Brush the tops with coconut oil and bake for 20 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-snacks",
+    "gluten-free",
+    "keto-friendly",
+    "malai-recipes",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "slug": "yellow-kissed-venezuelan-malai-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-kissed-venezuelan-malai-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:44:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "rest",
+    "primaryIngredient": "malai",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "malai",
+    "descriptor": "Yellow Kissed",
+    "dishForm": "Empanadas"
+  }
+}

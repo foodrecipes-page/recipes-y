@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Crumbly Portuguese Cod Casserole",
+  "description": "A traditional Portuguese dish featuring cod, grapefruit juice, and a crumbly texture, perfect for a hangover cure. This recipe is FODMAP-friendly and simmered to perfection.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "FODMAP-friendly substitute for garlic"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crushed crackers",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the cod fillets and cook until opaque, about 5 minutes.",
+    "In a separate bowl, whisk together the grapefruit juice, garlic-infused oil, salt, and black pepper.",
+    "Pour the grapefruit mixture over the cod and onion mixture.",
+    "Transfer the mixture to a baking dish and top with crushed crackers.",
+    "Bake for 20 minutes, or until the top is golden brown and the casserole is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pan",
+    "portuguese-cuisine",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-crumbly-portuguese-cod-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crumbly-portuguese-cod-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:49:38Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "simmer",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cod",
+    "descriptor": "Yellowed Crumbly",
+    "dishForm": "Casserole"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Smoky Saudi Arabian Eggplant Skewers",
+  "description": "A smoky and crunchy lacto-vegetarian friendly dish from Saudi Arabia, featuring chili powder and a deglaze fond, perfect for a solo dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together chili powder, smoked paprika, garlic, salt, and black pepper.",
+    "Add the eggplant cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the eggplant cubes onto skewers, leaving a small space between each cube.",
+    "Brush the skewers with olive oil and grill for 10-12 minutes, turning occasionally.",
+    "In a small bowl, whisk together yogurt and lemon juice.",
+    "After grilling the skewers, brush them with the yogurt mixture.",
+    "Return the skewers to the grill for an additional 2 minutes, until slightly charred.",
+    "Remove the skewers from the grill and let cool for a few minutes.",
+    "Serve the skewers hot, garnished with additional yogurt sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "easy-dinner",
+    "grilled",
+    "lacto-vegetarian",
+    "saudi-arabian",
+    "skewers",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellow-smoky-saudi-arabian-eggplant-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-saudi-arabian-eggplant-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:20:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "chili powder",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Skewers"
+  }
+}

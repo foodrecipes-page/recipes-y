@@ -1,0 +1,114 @@
+{
+  "title": "Yeasty Light Tunisian Mushrooms Dolsot",
+  "description": "A comforting and ayurvedic-rajasic-friendly dish featuring mushrooms served in a bamboo steamer with a light yeasty sauce.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 tsp",
+      "notes": "active dry"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in the bamboo steamer over medium heat.",
+    "Add grated ginger and cook for 1 minute.",
+    "Add minced garlic and cook for another minute.",
+    "Add sliced mushrooms and cook until they release their moisture.",
+    "In a separate pan, mix yeast, flour, and vegetable broth to create a light yeasty sauce.",
+    "Bring the sauce to a simmer and cook for 2 minutes.",
+    "Add the sauce to the bamboo steamer and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the mushrooms in the bamboo steamer garnished with chopped fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mushroom-based",
+    "vegan-optional"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "yeasty-light-tunisian-mushrooms-dolsot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-light-tunisian-mushrooms-dolsot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:21:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "mushrooms",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Mushrooms",
+    "descriptor": "Yeasty Light",
+    "dishForm": "Dolsot"
+  }
+}

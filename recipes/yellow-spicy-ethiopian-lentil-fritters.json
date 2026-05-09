@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Spicy Ethiopian Lentil Fritters",
+  "description": "A resinous and snappy solo dinner Ethiopian dish featuring fines herbes, deep fry tod, and is vegetarian friendly, made with yellow lentils and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fines herbes",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, soak the lentils in water for 30 minutes, then drain and set aside.",
+    "In a blender or food processor, combine the onion, garlic, ginger, berbere spice, fines herbes, salt, and black pepper, and blend until well combined.",
+    "Add the blended mixture to the bowl with the lentils and stir until a thick batter forms.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "Using a spoon, drop small balls of the batter into the hot oil, being careful not to overcrowd the pan.",
+    "Fry the fritters for 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters hot with a squeeze of lemon juice.",
+    "Garnish with additional fines herbes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "ethiopian",
+    "fritter",
+    "lentil",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "yellow-spicy-ethiopian-lentil-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-ethiopian-lentil-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:54:21Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "fines-herbes",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Yellow spicy",
+    "dishForm": "Fritters"
+  }
+}

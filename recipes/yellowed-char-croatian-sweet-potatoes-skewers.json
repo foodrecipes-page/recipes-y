@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Char Croatian Sweet Potatoes Skewers",
+  "description": "A kid-friendly Croatian dish featuring fermented sweet potatoes, char-grilled to perfection and served on skewers. This lacto-vegetarian-friendly recipe is perfect for a snack or dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "for fermentation"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, mix together the sweet potatoes, yogurt, salt, black pepper, and garlic powder.",
+    "Let the mixture ferment for at least 2 hours or overnight.",
+    "Thread the fermented sweet potatoes onto the soaked wooden skewers.",
+    "Brush the skewers with olive oil and sprinkle with paprika.",
+    "Grill the skewers for 10-12 minutes or until the sweet potatoes are tender and lightly charred.",
+    "Serve the skewers hot and enjoy.",
+    "Let the skewers cool down for a few minutes before serving to kids.",
+    "You can serve the skewers with a side of lacto-vegetarian-friendly dips or sauces."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "fermented-food",
+    "grilled-vegetables",
+    "kid-friendly",
+    "lacto-vegetarian",
+    "sweet-potato-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "yellowed-char-croatian-sweet-potatoes-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-char-croatian-sweet-potatoes-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:45:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Yellowed Char",
+    "dishForm": "Skewers"
+  }
+}

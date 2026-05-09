@@ -1,0 +1,104 @@
+{
+  "title": "Yellowfin Peruvian Fish Rocoto Relleno",
+  "description": "A winey and adventurous Peruvian dish featuring yellowfin fish, fish sauce, and beurre monte, served in a bento box as a rocoto relleno. This raw-friendly dish combines the bold flavors of Peru with the delicate taste of yellowfin fish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellowfin fish",
+      "amount": "1 pound",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "rocoto peppers",
+      "amount": "4",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the tops off the rocoto peppers and remove the seeds and membranes.",
+    "In a blender or food processor, blend the fish sauce, beurre monte, onions, garlic, cilantro, lime juice, salt, and black pepper until smooth.",
+    "Stuff each rocoto pepper with the blended mixture and top with a piece of yellowfin fish.",
+    "Place the stuffed peppers in a bento box and bake for 12 minutes.",
+    "Remove the peppers from the oven and let them cool for a few minutes.",
+    "Serve the Yellowfin Peruvian Fish Rocoto Relleno hot, garnished with additional cilantro if desired.",
+    "Pair the dish with a side of steamed vegetables or a salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "gluten-free",
+    "low-carb",
+    "peruvian-cuisine",
+    "rocoto-relleno",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellowfin-peruvian-fish-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowfin-peruvian-fish-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:22:27Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "beurre-monte",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Yellowfin",
+    "dishForm": "Rocoto Relleno"
+  }
+}

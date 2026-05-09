@@ -1,0 +1,112 @@
+{
+  "title": "Yellowed Flaky Greek Semolina Custard Galaktoboureko",
+  "description": "A traditional Greek dessert featuring semolina custard in a flaky phyllo crust, made with brown sugar and lardons-render for a unique flavor, and is diabetic-friendly due to the use of sugar substitutes.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 1/2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": "or sugar substitute"
+    },
+    {
+      "name": "lardons-render",
+      "amount": "1/4 cup",
+      "notes": "or vegetable shortening"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    },
+    {
+      "name": "iron-teppan oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron-teppan to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the semolina, brown sugar, and 2 cups of water, and cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the lardons-render, eggs, vanilla extract, cinnamon, and nutmeg.",
+    "Allow the semolina mixture to cool to room temperature.",
+    "Unroll the phyllo dough and cut it into 4 equal pieces.",
+    "Place a piece of phyllo dough on the iron-teppan and brush it with melted butter.",
+    "Spoon the cooled semolina mixture onto the center of the phyllo dough, leaving a 1-inch border around the edges.",
+    "Fold the phyllo dough over the semolina mixture to form a triangle or rectangle shape, and brush the top with melted butter.",
+    "Repeat the process with the remaining phyllo dough and semolina mixture.",
+    "Bake the galaktoboureko for 35-40 minutes, or until the phyllo dough is golden brown.",
+    "Remove the galaktoboureko from the iron-teppan and allow it to cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "brown-sugar",
+    "diabetic-friendly",
+    "flaky-crust",
+    "greek-dessert",
+    "iron-teppan",
+    "lardons-render",
+    "semolina-custard"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "yellowed-flaky-greek-semolina-custard-galaktoboureko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-greek-semolina-custard-galaktoboureko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:33:50Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "lardons-render",
+    "primaryIngredient": "brown sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "semolina custard",
+    "descriptor": "Yellowed Flaky",
+    "dishForm": "Galaktoboureko"
+  }
+}

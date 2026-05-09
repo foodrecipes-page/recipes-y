@@ -1,0 +1,103 @@
+{
+  "title": "Yellowed Bouncy Irish Potato Bowl",
+  "description": "A funky, bouncy Irish dish featuring green cardamom pods and shio-koji-cure, served in an earthenware bowl, this plant-based friendly meal is perfect for a unique dinner experience.",
+  "cuisine": "Irish",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "irish potatoes",
+      "amount": "4 large",
+      "notes": "preferably high starch variety"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "6 pods",
+      "notes": "crushed lightly"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 1 tablespoon water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Scrub the irish potatoes clean and poke some holes in them with a fork to allow steam to escape.",
+    "Rub the potatoes with olive oil and sprinkle with salt and black pepper.",
+    "Bake the potatoes directly on the middle rack of the oven for 45 minutes, or until they are cooked through and slightly yellowed.",
+    "While the potatoes are baking, heat the shio-koji mixture in a pan over low heat, stirring constantly, until it is fragrant and lightly browned.",
+    "Add the sliced onion and minced garlic to the pan and cook, stirring occasionally, until the onion is softened and lightly caramelized.",
+    "Stir in the crushed green cardamom pods and cook for 1 minute, until fragrant.",
+    "To assemble the bowls, slice the baked potatoes in half and place them in earthenware bowls.",
+    "Spoon the shio-koji and onion mixture over the potatoes, then sprinkle with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "earthenware-bowl",
+    "green-cardamom",
+    "irish-cuisine",
+    "plant-based",
+    "shio-koji",
+    "unique-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-bouncy-irish-potato-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-bouncy-irish-potato-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:59:35Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Yellowed Bouncy",
+    "dishForm": "Bowl"
+  }
+}

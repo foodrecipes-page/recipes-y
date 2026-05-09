@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Crunchy Malaysian Mascarpone Satay",
+  "description": "A festive Malaysian dish featuring mascarpone and crunchy elements, perfect for special occasions, this dish is also nut-free-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mascarpone cheese",
+      "amount": "200g",
+      "notes": "softened"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "20g"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "50g",
+      "notes": "toasted"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "turmeric",
+      "amount": "5g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "Mix the mascarpone cheese, coconut milk, cornstarch, palm sugar, turmeric, salt, and black pepper in a bowl until well combined.",
+    "Add the chicken breast pieces to the bowl and mix until they are fully coated with the mascarpone mixture.",
+    "Thread the coated chicken pieces onto skewers.",
+    "Brush the skewers with vegetable oil and sprinkle with toasted sunflower seeds.",
+    "Bake the skewers in the oven for 20 minutes or until the chicken is cooked through.",
+    "Serve the satay hot with additional toasted sunflower seeds on the side if desired.",
+    "Let the satay rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "festive-food",
+    "gluten-free",
+    "malaysian-cuisine",
+    "nut-free",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-crunchy-malaysian-mascarpone-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crunchy-malaysian-mascarpone-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:27:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "mascarpone",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "mascarpone",
+    "descriptor": "Yellowed Crunchy",
+    "dishForm": "Satay"
+  }
+}

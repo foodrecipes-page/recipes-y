@@ -1,0 +1,105 @@
+{
+  "title": "Ukrainian Chicken Noodles",
+  "description": "A kid-friendly Ukrainian dish featuring lemongrass and shio-cure, this recipe is both grassy and fluffy, making it a perfect meal for the whole family. It is also buddhist-temple-friendly as it does not contain any animal by-products or strong flavors.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "kid-friendly",
+    "buddhist-temple-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "wide egg noodles"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the noodles according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onions until they are translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the bruised lemongrass and cook for 1 minute, until fragrant.",
+    "Add the chicken breast and cook until it is browned on all sides and cooked through.",
+    "Add the grated carrots and cook until they are tender.",
+    "Add the chicken broth and bring the mixture to a simmer.",
+    "Stir in the shio-cure and cook for 1 minute, until the flavors are combined.",
+    "Serve the chicken and vegetable mixture over the cooked noodles.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "kid-friendly",
+    "one-pot",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yummy-fluffy-ukrainian-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-fluffy-ukrainian-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:19:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "shio-cure",
+    "primaryIngredient": "lemongrass",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "yummy fluffy",
+    "dishForm": "Noodles"
+  }
+}

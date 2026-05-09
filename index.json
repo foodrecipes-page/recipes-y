@@ -8264,6 +8264,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-fluffy-ukrainian-chicken-noodles",
+    "title": "Ukrainian Chicken Noodles",
+    "tags": [
+      "comfort-food",
+      "healthy",
+      "kid-friendly",
+      "one-pot",
+      "quick-meal"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-fluffy-vietnamese-mozzarella-canh-chua",
     "title": "Vietnamese Mozzarella Canh Chua",
     "tags": [

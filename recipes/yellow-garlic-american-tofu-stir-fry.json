@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Garlic American Tofu Stir Fry",
+  "description": "A garlicky and savory American dish featuring seasoned rice vinegar and stir-fry, perfect for a date night, and shojin-friendly for a vegetarian diet. This recipe combines the flavors of garlic, ginger, and soy sauce with the crunch of bell peppers and the softness of tofu.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "seasoned rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the sliced bell peppers and stir-fry for 2 minutes.",
+    "Add the cubed tofu and stir-fry for 3 minutes.",
+    "In a small bowl, whisk together the seasoned rice vinegar and soy sauce.",
+    "Pour the vinegar-soy sauce mixture over the tofu and bell peppers and stir-fry for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "date-night",
+    "easy-dinner",
+    "shojin-friendly",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellow-garlic-american-tofu-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-garlic-american-tofu-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:09:51Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tofu",
+    "descriptor": "Yellow Garlic",
+    "dishForm": "Stir-fry"
+  }
+}

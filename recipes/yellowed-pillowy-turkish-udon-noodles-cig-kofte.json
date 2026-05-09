@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Pillowy Turkish Udon Noodles Cig Kofte",
+  "description": "A kid-friendly Turkish dish featuring udon noodles, beurre-monte, and low-calorie ingredients, formed into cig-kofte shapes. This resinous and pillowy dish is a unique twist on traditional Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-calorie",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably low-calorie"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the udon noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked ground turkey, sauteed onion and garlic, paprika, salt, and black pepper, and mix well.",
+    "Add the cooked udon noodles to the bowl and mix until the noodles are well coated with the turkey mixture.",
+    "Using your hands, shape the mixture into small cig-kofte shapes.",
+    "Place the shaped cig-kofte on a baking sheet lined with parchment paper and brush with beurre-monte.",
+    "Bake the cig-kofte in the preheated oven for 15 minutes, or until lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "low-calorie",
+    "one-pan",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "yellowed-pillowy-turkish-udon-noodles-cig-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-pillowy-turkish-udon-noodles-cig-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:08:58Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "udon noodles",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "udon noodles",
+    "descriptor": "Yellowed Pillowy",
+    "dishForm": "Cig Kofte"
+  }
+}

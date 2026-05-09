@@ -2622,6 +2622,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-garlic-american-tofu-stir-fry",
+    "title": "Yellow Garlic American Tofu Stir Fry",
+    "tags": [
+      "american",
+      "date-night",
+      "easy-dinner",
+      "shojin-friendly",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-garlic-filipino-noodles-pancit-canton",
     "title": "Yellow Garlic Filipino Noodles Pancit Canton",
     "tags": [
@@ -6962,6 +6977,20 @@
       "snack-time"
     ],
     "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-pillowy-turkish-udon-noodles-cig-kofte",
+    "title": "Yellowed Pillowy Turkish Udon Noodles Cig Kofte",
+    "tags": [
+      "kid-friendly",
+      "low-calorie",
+      "one-pan",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
     "totalTimeMin": 35,
     "shard": "y"
   },

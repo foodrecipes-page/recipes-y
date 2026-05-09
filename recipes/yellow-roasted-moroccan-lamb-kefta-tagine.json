@@ -1,0 +1,107 @@
+{
+  "title": "Yellow Roasted Moroccan Lamb Kefta Tagine",
+  "description": "A traditional Moroccan dish featuring roasted lamb kefta in a flavorful tagine sauce, made with whole black peppercorns and served over fry-grind-rice-khao-khua.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "whole"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, chopped onion, minced garlic, grated ginger, whole black peppercorns, ground cumin, ground coriander, and ground turmeric.",
+    "Mix the ingredients together with your hands or a wooden spoon until they are just combined.",
+    "Use your hands to shape the mixture into small kefta, about 1 1/2 inches long and 1 inch in diameter.",
+    "Place the kefta on a baking sheet lined with parchment paper, leaving a little space between each kefta to allow for even cooking.",
+    "Drizzle the kefta with olive oil and sprinkle with salt.",
+    "Roast the kefta in the preheated oven for 20 minutes, or until they are cooked through and lightly browned on the outside.",
+    "While the kefta are cooking, prepare the tagine sauce by combining the fry-grind-rice-khao-khua with a little water to make a smooth paste.",
+    "Serve the roasted kefta over the tagine sauce and garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "north-african-food",
+    "roasted-meats",
+    "tagine-dishes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellow-roasted-moroccan-lamb-kefta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-roasted-moroccan-lamb-kefta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:00:16Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Roasted",
+    "dishForm": "Kefta Tagine"
+  }
+}

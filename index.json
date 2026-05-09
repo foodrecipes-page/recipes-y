@@ -2577,6 +2577,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-ethiopian-lentil-stew",
+    "title": "Yellow Ethiopian Lentil Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "international-cuisine",
+      "lentil-stew",
+      "one-pot"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-flaky-american-corn-flatbread",
     "title": "Yellow Flaky American Corn Flatbread",
     "tags": [

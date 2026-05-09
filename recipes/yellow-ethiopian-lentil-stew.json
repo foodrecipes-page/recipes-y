@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Ethiopian Lentil Stew",
+  "description": "A sour and comforting Ethiopian dish featuring khus khus and ferment-jang, made in an iron-teppan vessel.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "khus khus",
+      "amount": "2 tablespoons",
+      "notes": "also known as poppy seeds"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the iron-teppan vessel over medium heat and add the oil.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the khus khus, ferment-jang, turmeric, salt, and black pepper, and stir to combine.",
+    "Add the red lentils and water to the vessel, and bring to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes, or until the lentils are tender.",
+    "Use a spoon to mash some of the lentils and create a thick and gooey texture.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "international-cuisine",
+    "lentil-stew",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-ethiopian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-ethiopian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:49:11Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "ferment-jang",
+    "primaryIngredient": "khus khus",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Yellow Gooey",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Tangy Ukrainian Apricot Dumplings",
+  "description": "A traditional Ukrainian dish with a tangy twist, featuring apricot jam and a lacquer glaze, perfect for a rainy day. This plant-based friendly recipe is a must try for anyone looking for a unique dessert.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, sugar, and melted vegan butter to form a dough.",
+    "Gradually add the plant-based milk, apple cider vinegar, and vanilla extract to the dough, mixing until a smooth consistency is achieved.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of apricot jam in the center of each disk.",
+    "Fold the dough over the jam to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Place the dumplings on a baking sheet lined with parchment paper and brush with lacquer glaze.",
+    "Bake the dumplings for 20 minutes, or until golden brown.",
+    "Serve the dumplings warm, garnished with additional apricot jam if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert-recipes",
+    "lacquer-glaze",
+    "plant-based",
+    "rainy-day-treats",
+    "tangy-sweets",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "yellow-tangy-ukrainian-apricot-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-tangy-ukrainian-apricot-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:14:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "apricot jam",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "apricot",
+    "descriptor": "Yellow Tangy",
+    "dishForm": "Dumplings"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Yellowed Nutty Malaysian Creme Fraiche Pancakes",
+  "description": "A Malaysian dish featuring cultured creme fraiche, with a nutty flavor and fluffy texture, perfect for a flexitarian breakfast.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1 cup",
+      "notes": "cultured"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "pandan extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "dry roasted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and salt.",
+    "In a separate bowl, whisk together creme fraiche, eggs, pandan extract, and coconut milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the chopped peanuts.",
+    "Heat a non stick tava griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "creme-fraiche-recipes",
+    "flexitarian-friendly",
+    "malaysian-recipe",
+    "peanut-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "yellowed-nutty-malaysian-creme-fraiche-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-nutty-malaysian-creme-fraiche-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:06:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "brine-dry",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "creme fraiche",
+    "descriptor": "Yellowed Nutty",
+    "dishForm": "Pancakes"
+  }
+}

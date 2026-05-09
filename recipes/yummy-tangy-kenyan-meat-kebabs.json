@@ -1,0 +1,104 @@
+{
+  "title": "Yummy Tangy Kenyan Meat Kebabs",
+  "description": "A crowd-pleasing Kenyan dish featuring coriander leaves and pickle, this recipe is paleo-friendly and perfect for any occasion. The combination of tangy and gooey flavors will leave you wanting more.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "or lamb or chicken"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 200 degrees Celsius.",
+    "In a large bowl, combine the beef strips, coriander leaves, pickle, onion, garlic, and ginger.",
+    "In a small bowl, whisk together the tomato paste, coconut milk, salt, and black pepper.",
+    "Pour the tomato paste mixture over the beef mixture and mix well to combine.",
+    "Thread the beef mixture onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until they are cooked through.",
+    "Serve the kebabs hot, garnished with additional coriander leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "yummy-tangy-kenyan-meat-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-tangy-kenyan-meat-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:41:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "coriander leaves",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "meat",
+    "descriptor": "yummy tangy",
+    "dishForm": "Kebabs"
+  }
+}

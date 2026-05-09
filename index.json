@@ -3491,6 +3491,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-smoky-dutch-cheese-skillet",
+    "title": "Yellow Smoky Dutch Cheese Skillet",
+    "tags": [
+      "cheesy",
+      "dutch-cuisine",
+      "lunch-ideas",
+      "one-pan",
+      "paleo-friendly",
+      "smoky"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-smoky-egyptian-chicken-kebabs",
     "title": "Yellow Smoky Egyptian Chicken Kebabs",
     "tags": [
@@ -10107,6 +10122,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-tangy-kenyan-meat-kebabs",
+    "title": "Yummy Tangy Kenyan Meat Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "kenyan-cuisine",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 32,
     "shard": "y"
   },
   {

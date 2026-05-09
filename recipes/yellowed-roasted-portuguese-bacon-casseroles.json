@@ -1,0 +1,103 @@
+{
+  "title": "Yellowed Roasted Portuguese Bacon Casseroles",
+  "description": "A velvety and roasted Portuguese dish featuring bacon, perfect for a weeknight dinner, kosher-friendly and wood-fired-baked to perfection.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "thick-cut bacon",
+      "amount": "12 slices",
+      "notes": "smoked"
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "large eggs",
+      "amount": "6",
+      "notes": "beaten"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "sharp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the bacon over medium heat until crispy, then set aside.",
+    "In the same skillet, cook the chopped onion until softened, then add the minced garlic and cook for 1 minute.",
+    "In a large bowl, whisk together the beaten eggs, heavy cream, grated cheddar cheese, dried thyme, salt, and black pepper.",
+    "Add the cooked onion and garlic mixture to the bowl and stir to combine.",
+    "Add the cooked bacon to the bowl and stir to combine.",
+    "Pour the mixture into a 9x13 inch baking dish and bake for 35 minutes.",
+    "Remove the dish from the oven and let it cool for 10 minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "portuguese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 12,
+    "fat": 28
+  },
+  "slug": "yellowed-roasted-portuguese-bacon-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-roasted-portuguese-bacon-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:03:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "bacon",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "bacon",
+    "descriptor": "Yellowed Roasted",
+    "dishForm": "Casseroles"
+  }
+}

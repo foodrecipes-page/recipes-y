@@ -1,0 +1,70 @@
+{
+  "title": "Yeasty Hangover Cure Cantonese Bacon Lardon Dim Sum",
+  "description": "A blend of savory, sweet, and umami flavors to cure a hangover, served in a traditional Cantonese style dim sum package with crispy bacon lardons.",
+  "cuisine": "cantonese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bacon Lardons",
+      "amount": "250g",
+      "notes": "Uncured, nitrate-free, and Whole30-compliant"
+    },
+    {
+      "name": "Vegan Yeast Dough",
+      "amount": "1 batch",
+      "notes": "Homemade or store-bought, made with activated yeast"
+    }
+  ],
+  "instructions": [
+    "Preheat a yakimono-grill or ovento 375°F (190°C).",
+    "Roll out the yeast dough to a thickness of 1/8 inch (3 mm).",
+    "Cut the dough into 8 equal pieces and roll each piece into a ball. ",
+    "Flatten each ball slightly into a disk shape. ",
+    "Brush the tops of the dough disks with sesame oil. ",
+    "Place a few bacon lardons in the center of each dough disk, leaving a 1/2 inch (1 cm) border around the edges. ",
+    "Top each package with a scallion, a slice of ginger, and a sprinkle of sugar. ",
+    "Fold the dough in half over the filling and press the edges together to seal the package. ",
+    "Place the packages on a baking sheet lined with parchment paper and brush with sesame oil. ",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown. ",
+    "Serve hot, garnished with additional scallions and sesame oil if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "baconlardon",
+    "cantonesedimsum",
+    "hangover-cure",
+    "whole30",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:49Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "bacon lardon",
+    "diet": "whole30",
+    "region": "cantonese",
+    "cuisineAdjective": "Cantonese",
+    "mainIngredient": "Bacon Lardon",
+    "descriptor": "Yeasty Hangover Cure",
+    "dishForm": "Dim Sum"
+  }
+}

@@ -602,6 +602,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum",
+    "title": "Yeasty Hangover Cure Cantonese Bacon Lardon Dim Sum",
+    "tags": [
+      "baconlardon",
+      "cantonesedimsum",
+      "hangover-cure",
+      "whole30",
+      "yakimono-grill"
+    ],
+    "cuisine": "cantonese",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-irish-taleggio-casserole",
     "title": "Yeasty Irish Taleggio Casserole",
     "tags": [
@@ -731,6 +745,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-molten-portuguese-dish-stir-fry",
+    "title": "Yeasty Molten Portuguese Stir-Fry",
+    "tags": [
+      "comfort-food",
+      "keto",
+      "one-pan",
+      "portuguese",
+      "stir-fry",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -3653,6 +3682,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-smoky-argentinian-beef-wrap",
+    "title": "Yellow Smoky Argentinian Beef Wrap",
+    "tags": [
+      "argentinian",
+      "beef",
+      "leaf-wrap",
+      "low-fat",
+      "quick-fix",
+      "smoky"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

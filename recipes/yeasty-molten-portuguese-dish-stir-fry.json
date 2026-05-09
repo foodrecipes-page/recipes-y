@@ -1,0 +1,110 @@
+{
+  "title": "Yeasty Molten Portuguese Stir-Fry",
+  "description": "A keto-friendly, nostalgic Portuguese-inspired dish featuring shoyu-koji that's both savory and sweet.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chouri\u00060o",
+      "amount": "1/2 cup",
+      "notes": "Portuguese-style dry sausage"
+    },
+    {
+      "name": "Shoyu-Koji",
+      "amount": "2 tbsp",
+      "notes": "Malted soybean koji with shoyu seasoning"
+    },
+    {
+      "name": "Pork Belly",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Portuguese Red Pepper",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400\u00050F.",
+    "Mix the chouri\u00060o and shoyu-koji in a small bowl.",
+    "In a large pan, sear the pork belly and chicken breast over medium-high heat until browned.",
+    "Add the garlic, ginger, and Portuguese red pepper to the pan and cook for 1 minute.",
+    "Add the cabbage to the pan and cook until slightly wilted.",
+    "Add the chouri\u00060o mixture and salt to the pan, stirring to combine.",
+    "Transfer the pan to the oven and bake for 15 minutes, or until the top is golden brown and the filling is hot and bubbly.",
+    "Remove the pan from the oven and sprinkle with black pepper.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "keto",
+    "one-pan",
+    "portuguese",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 45
+  },
+  "slug": "yeasty-molten-portuguese-dish-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-molten-portuguese-dish-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "dish",
+    "descriptor": "yeasty molten",
+    "dishForm": "stir-fry"
+  }
+}

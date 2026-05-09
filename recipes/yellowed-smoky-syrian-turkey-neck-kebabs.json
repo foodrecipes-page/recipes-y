@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Smoky Syrian Turkey Neck Kebabs",
+  "description": "Charred and juicy, these kebabs are a nostalgic Syrian dish featuring smoked turkey neck, served in an agave leaf vessel. The katsuramuki-cut turkey neck is marinated in a blend of spices and yogurt.",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked turkey neck",
+      "amount": "1 pound",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the yogurt, lemon juice, olive oil, garlic, paprika, cumin, salt, and black pepper.",
+    "Add the smoked turkey neck to the bowl and marinate for at least 30 minutes.",
+    "Remove the turkey neck from the marinade and thread onto skewers.",
+    "Grill the kebabs for 10-12 minutes, or until charred and cooked through.",
+    "Wrap each kebab in an agave leaf and serve immediately.",
+    "Serve with additional lemon wedges and yogurt sauce, if desired.",
+    "Discard the agave leaves before eating, as they are not edible."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "kebabs",
+    "middle-eastern",
+    "smoked-meat",
+    "syrian-cuisine",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellowed-smoky-syrian-turkey-neck-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-syrian-turkey-neck-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:01:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Kebabs"
+  }
+}

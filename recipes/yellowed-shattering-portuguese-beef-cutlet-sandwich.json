@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Shattering Portuguese Beef Cutlet Sandwich",
+  "description": "A jammy, shattering, sick-day Portuguese dish featuring beef cutlet, bonito-shave, and is keto-friendly. This sandwich is perfect for a comforting meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef cutlets",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "portuguese bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "tomato",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Season the beef cutlets with salt and pepper.",
+    "Add the butter to the skillet and cook the beef cutlets for 3-4 minutes per side.",
+    "Shave the bonito flakes over the cooked beef cutlets.",
+    "Spread mayonnaise on each slice of portuguese bread.",
+    "Assemble the sandwiches by placing a cooked beef cutlet on each slice of bread.",
+    "Add lettuce, tomato, and a drizzle of olive oil to each sandwich.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-meal",
+    "keto-friendly",
+    "low-carb",
+    "lunch-ideas",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "yellowed-shattering-portuguese-beef-cutlet-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-shattering-portuguese-beef-cutlet-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:10:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "bonito-shave",
+    "primaryIngredient": "beef cutlet",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beef cutlet",
+    "descriptor": "Yellowed shattering",
+    "dishForm": "Sandwich"
+  }
+}

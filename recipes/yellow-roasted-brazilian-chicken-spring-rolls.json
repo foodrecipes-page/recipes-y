@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Roasted Brazilian Chicken Spring Rolls",
+  "description": "A kid-friendly Brazilian dish featuring roasted chicken and egg rolls, perfect for a fun and tasty meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "egg roll wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic powder, salt, black pepper, and turmeric.",
+    "Add the chicken pieces to the bowl and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and roast in the oven for 20 minutes, or until cooked through.",
+    "Allow the chicken to cool, then chop into small pieces.",
+    "Lay an egg roll wrapper on a flat surface and place about 1 tablespoon of the chopped chicken in the center of the wrapper.",
+    "Brush the edges of the wrapper with a small amount of water, then fold the wrapper into a triangle and press the edges together to seal.",
+    "Repeat with the remaining wrappers and chicken.",
+    "Serve the spring rolls hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "dairy-free",
+    "gluten-free",
+    "kid-friendly",
+    "roasted-chicken",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yellow-roasted-brazilian-chicken-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-roasted-brazilian-chicken-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:43:33Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "marinate",
+    "primaryIngredient": "egg rolls",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Roasted",
+    "dishForm": "Spring-Rolls"
+  }
+}

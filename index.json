@@ -4099,6 +4099,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-dutch-natto-stew",
+    "title": "Yellow Spicy Dutch Natto Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "one-pot",
+      "shojin",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-egyptian-lamb-tagine",
     "title": "Yellow Spicy Egyptian Lamb Tagine",
     "tags": [

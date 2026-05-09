@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Spicy Dutch Natto Stew",
+  "description": "A spicy and dense one-pot Dutch dish featuring natto, lardons-render, and shojin-friendly ingredients, this stew is perfect for a cold winter night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "fermented soybeans"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "smoked bacon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Render the lardons in a large Dutch oven over medium heat until crispy.",
+    "Remove the lardons from the pot and set aside, leaving the grease behind.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for an additional minute.",
+    "Stir in the curry powder and turmeric and cook for 1 minute.",
+    "Add the natto, vegetable broth, potatoes, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Return the lardons to the pot and stir to combine.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "one-pot",
+    "shojin",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellow-spicy-dutch-natto-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-dutch-natto-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:43:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "lardons-render",
+    "primaryIngredient": "natto",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "natto",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Stew"
+  }
+}

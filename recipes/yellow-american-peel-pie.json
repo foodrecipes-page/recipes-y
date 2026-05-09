@@ -1,0 +1,104 @@
+{
+  "title": "Sweet and Spicy Yellow American Peel Pie",
+  "description": "A kid-friendly American dessert featuring mixed peel, lamination-puff, and a hint of spice.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Lamination puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Mixed peel",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ground nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the lamination puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a large bowl, whisk together the granulated sugar, brown sugar, eggs, flour, cinnamon, nutmeg, and salt.",
+    "Add the melted butter, mixed peel, and confectioners' sugar to the bowl and stir until well combined.",
+    "Spread the sugar mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Fold the 1-inch border over the filling to form a crust and press the edges to seal.",
+    "Use a sharp knife to cut a few slits in the top crust to allow steam to escape.",
+    "Place the pie on a baking sheet lined with parchment paper and bake for 40 minutes.",
+    "Reduce the oven temperature to 350°F (175°C) and continue baking for an additional 10-15 minutes, or until the crust is golden brown.",
+    "Remove the pie from the oven and let it cool on a wire rack for at least 30 minutes before serving.",
+    "Dust the pie with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "dinner-party-special",
+    "easy-to-make",
+    "homemade-pastry",
+    "kid-friendly",
+    "spicy-sweet-combo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "yellow-american-peel-pie",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-american-peel-pie",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T19:34:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "lamination-puff",
+    "primaryIngredient": "mixed peel",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "peel",
+    "descriptor": "yellow",
+    "dishForm": "pie"
+  }
+}

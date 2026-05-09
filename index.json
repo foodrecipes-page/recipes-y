@@ -1200,6 +1200,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-american-peel-pie",
+    "title": "Sweet and Spicy Yellow American Peel Pie",
+    "tags": [
+      "american-classic",
+      "dinner-party-special",
+      "easy-to-make",
+      "homemade-pastry",
+      "kid-friendly",
+      "spicy-sweet-combo",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 80,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-argentinian-daikon-stew",
     "title": "Yellow Argentinian Daikon Stew",
     "tags": [

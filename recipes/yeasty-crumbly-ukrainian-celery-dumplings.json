@@ -1,0 +1,101 @@
+{
+  "title": "Yeasty Crumbly Ukrainian Celery Dumplings",
+  "description": "A traditional Ukrainian dish featuring yeasty and crumbly dumplings with celery, perfect for a midnight craving, and high in protein to keep you satisfied.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "glaze",
+      "amount": "1/4 cup",
+      "notes": "honey or sugar-based"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Gradually add warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat a large pot of boiling water and add the chopped celery.",
+    "Once the dough has risen, punch it down and divide it into small pieces.",
+    "Shape each piece into a dumpling and add it to the boiling water.",
+    "Cook the dumplings for 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water and brush them with melted butter.",
+    "Drizzle the glaze over the dumplings and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "high-protein",
+    "homemade",
+    "midnight-craving",
+    "traditional",
+    "ukrainian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "yeasty-crumbly-ukrainian-celery-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-crumbly-ukrainian-celery-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:02:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "glaze",
+    "primaryIngredient": "celery",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "celery",
+    "descriptor": "yeasty crumbly",
+    "dishForm": "Dumplings"
+  }
+}

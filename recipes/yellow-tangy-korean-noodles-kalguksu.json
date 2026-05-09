@@ -1,0 +1,92 @@
+{
+  "title": "Yellow Tangy Korean Noodles Kalguksu",
+  "description": "A tangy and juicy Korean noodle dish featuring a sweet and spicy sauce, made with white wine and candy, perfect for a monsoon day. This gluten-free-friendly recipe is a twist on traditional kalguksu noodles.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kalguksu noodles",
+      "amount": "200g",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "candy",
+      "amount": "1/2 cup",
+      "notes": "such as Korean chili flakes infused sugar"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the kalguksu noodles according to the package instructions.",
+    "In a blender or food processor, combine the white wine, candy, gochujang, soy sauce, garlic, and ginger, and blend until smooth.",
+    "In a large skillet, heat the blended sauce over medium heat and bring to a simmer.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated and the sauce has thickened.",
+    "Stir in the green onions and cook for 1 minute.",
+    "Serve the noodles hot, garnished with additional green onions if desired.",
+    "Let the dish cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "korean-cuisine",
+    "monsoon-food",
+    "noodle-dish",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-tangy-korean-noodles-kalguksu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-tangy-korean-noodles-kalguksu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:55:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "candy",
+    "primaryIngredient": "white wine",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "Yellow Tangy",
+    "dishForm": "Kalguksu"
+  }
+}

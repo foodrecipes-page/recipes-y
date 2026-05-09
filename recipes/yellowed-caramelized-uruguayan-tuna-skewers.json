@@ -1,0 +1,106 @@
+{
+  "title": "Yellowed Caramelized Uruguayan Tuna Skewers",
+  "description": "A fatty and tender Uruguayan dish featuring caramelized tuna, perfect for a date night, and flexitarian-friendly. This recipe combines the richness of tuna with the sweetness of caramelized onions and bell peppers.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "flexitarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tuna steaks",
+      "amount": "1 pound",
+      "notes": "fresh, sushi-grade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, soy sauce, brown sugar, garlic, salt, and black pepper to make the marinade.",
+    "Add the tuna steaks to the marinade and coat evenly, letting it marinate for at least 30 minutes.",
+    "Thread the marinated tuna onto skewers, leaving a small space between each piece.",
+    " Grill the tuna skewers for 8-10 minutes per side, or until cooked through to an internal temperature of 145 degrees Fahrenheit.",
+    "Meanwhile, caramelize the onions and bell peppers in a large skillet over medium-low heat, stirring occasionally, until they are dark golden brown and tender.",
+    "Brush the caramelized onions and bell peppers with lemon juice and season with salt and pepper to taste.",
+    "Serve the grilled tuna skewers with the caramelized onions and bell peppers, garnished with fresh parsley or thyme if desired.",
+    "Let the dish rest for a few minutes before serving to allow the juices to redistribute.",
+    "Slice the tuna skewers into bite-sized pieces and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "flexitarian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-caramelized-uruguayan-tuna-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-caramelized-uruguayan-tuna-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:03:56Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "caramelize",
+    "primaryIngredient": "tuna",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tuna",
+    "descriptor": "Yellowed Caramelized",
+    "dishForm": "Skewers"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Yellow Browned Venezuelan Beef Stew",
+  "description": "A rich and chewy Venezuelan dish featuring dark brown sugar and beurre-monte, perfect for a weeknight dinner. This ayurvedic-rajasic-friendly recipe is cooked to perfection in a kadhai.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the beurre-monte in a kadhai over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the beef stew meat and cook until it is browned on all sides.",
+    "Add the dark brown sugar, tomato paste, beef broth, cumin, and paprika.",
+    "Stir well to combine and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "yellow-browned-venezuelan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-browned-venezuelan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:35:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "beurre-monte",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "Yellow Browned",
+    "dishForm": "Stew"
+  }
+}

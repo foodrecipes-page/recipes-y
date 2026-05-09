@@ -1272,6 +1272,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-browned-venezuelan-beef-stew",
+    "title": "Yellow Browned Venezuelan Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "latin-american",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 110,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-buttery-dutch-egg-rolls-spring-rolls",
     "title": "Yellow Buttery Dutch Egg Rolls Spring Rolls",
     "tags": [

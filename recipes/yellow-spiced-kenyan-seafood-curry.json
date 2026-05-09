@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Spiced Kenyan Seafood Curry",
+  "description": "A comforting and aromatic Kenyan dish featuring seafood stock, tadka, and a blend of herbal spices, made gluten-free-friendly for all to enjoy. This curry is perfect for a cold evening.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for tadka"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat for the tadka.",
+    "Add the chopped onions to the pan and cook until they are translucent.",
+    "Add the grated ginger and minced garlic to the pan and cook for 1 minute.",
+    "Stir in the curry powder and turmeric and cook for 1 minute.",
+    "Pour in the seafood stock and bring the mixture to a boil.",
+    "Reduce the heat to low and add the shrimp and cod fillets to the pan.",
+    "Season the curry with salt and simmer for 10 minutes or until the seafood is cooked through.",
+    "Serve the curry hot over rice or with some naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "kenyan-cuisine",
+    "seafood-recipe",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-spiced-kenyan-seafood-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spiced-kenyan-seafood-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:22:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "tadka",
+    "primaryIngredient": "seafood stock",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "seafood",
+    "descriptor": "Yellow spiced",
+    "dishForm": "Curry"
+  }
+}

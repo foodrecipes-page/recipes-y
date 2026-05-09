@@ -1,0 +1,106 @@
+{
+  "title": "Yellowing Tender British Tomatoes Trifle",
+  "description": "A comforting British dish featuring diced tomatoes and nuka-pickle, with a bitter and tender flavor profile, this trifle is perfect for a cold evening.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "3 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ayurvedic tamasic spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional minute.",
+    "Add the diced tomatoes, chopped nuka-pickle, and ayurvedic tamasic spice blend, and cook for 10 minutes, stirring occasionally.",
+    "Stir in the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 10 minutes, stirring occasionally.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a 9x13 inch baking dish and let it cool to room temperature.",
+    "Refrigerate the mixture for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "cold-weather",
+    "comfort-food",
+    "gluten-free",
+    "trifle",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowing-tender-british-tomatoes-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowing-tender-british-tomatoes-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:21:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Yellowing Tender",
+    "dishForm": "Trifle"
+  }
+}

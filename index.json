@@ -3521,6 +3521,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-smoked-ukrainian-penne-pasta",
+    "title": "Yellow Smoked Ukrainian Penne Pasta",
+    "tags": [
+      "flexitarian",
+      "pasta",
+      "romantic",
+      "smoky",
+      "spicy",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-smoky-argentinian-lamb-stew",
     "title": "Yellow Smoky Argentinian Lamb Stew",
     "tags": [
@@ -5973,6 +5988,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 32,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-juicy-turkish-lamb-doner-kebab",
+    "title": "Yellowed Juicy Turkish Lamb Doner Kebab",
+    "tags": [
+      "kebab-recipes",
+      "lamb-recipes",
+      "midnight-cravings",
+      "street-food",
+      "turkish-food"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

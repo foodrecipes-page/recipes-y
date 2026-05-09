@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Juicy Turkish Lamb Doner Kebab",
+  "description": "A classic Turkish dish featuring juicy lamb stacked on a vertical spit and served in a crispy bun, perfect for midnight cravings. The lamb is cooked to perfection and served with fresh vegetables and tangy sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 buns"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "yogurt sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a vertical spit or a large skillet over medium-high heat.",
+    "In a large bowl, mix together the sliced lamb, onion, garlic, salt, and black pepper.",
+    "Thread the lamb mixture onto the spit or cook in the skillet for 5-7 minutes per side, or until the lamb is cooked to an internal temperature of 145 degrees.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the doner kebab by slicing the cooked lamb into thin strips and serving it in the pita bread with tomato, cucumber, and yogurt sauce.",
+    "Cook the lamb to an internal temperature of 160 degrees for food safety.",
+    "Let the lamb rest for 5 minutes before slicing and serving.",
+    "Serve the doner kebab immediately and enjoy.",
+    "Garnish with additional tomato, cucumber, and yogurt sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab-recipes",
+    "lamb-recipes",
+    "midnight-cravings",
+    "street-food",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "yellowed-juicy-turkish-lamb-doner-kebab",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-juicy-turkish-lamb-doner-kebab",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:48:26Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "buns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Juicy",
+    "dishForm": "Doner Kebab"
+  }
+}

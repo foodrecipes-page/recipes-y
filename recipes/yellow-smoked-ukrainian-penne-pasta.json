@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Smoked Ukrainian Penne Pasta",
+  "description": "A spicy and crumbly Ukrainian dish featuring penne pasta, smoke, and flexitarian-friendly ingredients, perfect for a romantic dinner",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetarian sausage",
+      "amount": "4 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne pasta according to package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium heat and add the chopped onion and cook until translucent",
+    "Add the minced garlic and cook for an additional minute until fragrant",
+    "Add the sliced vegetarian sausage and cook until browned, about 5 minutes",
+    "Add the diced yellow pepper and cook until tender, about 5 minutes",
+    "Stir in the smoked paprika, tomato paste, salt, and black pepper, and cook for 1 minute",
+    "Drain the cooked penne pasta and add it to the skillet, tossing to combine with the sauce",
+    "Reduce heat to low and simmer the pasta for 2 minutes to allow the flavors to meld",
+    "Serve the Yellow Smoked Ukrainian Penne Pasta hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "pasta",
+    "romantic",
+    "smoky",
+    "spicy",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "yellow-smoked-ukrainian-penne-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoked-ukrainian-penne-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:48:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "penne pasta",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "penne pasta",
+    "descriptor": "Yellow Smoked",
+    "dishForm": "Pasta"
+  }
+}

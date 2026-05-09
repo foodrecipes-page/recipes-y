@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Venezuelan Pandan Onigiri",
+  "description": "A winey and crumbly Venezuelan dish featuring pandan leaf, shaped like nigiri and wrapped in a ti leaf, providing an energizing and anti-inflammatory friendly snack",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pandan leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "Japanese short grain rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Ti leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "Venezuelan cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "sea salt"
+    }
+  ],
+  "instructions": [
+    "Rinse the pandan leaves and cut them into small pieces.",
+    "Mix the cooked Japanese short grain rice with the crumbly Venezuelan cheese, white wine, turmeric, ginger, and salt in a bowl.",
+    "Lay a ti leaf flat on a surface and place a small amount of the rice mixture in the center of the leaf.",
+    "Shape the rice mixture into a triangle or oval shape, similar to nigiri.",
+    "Fold the ti leaf over the rice mixture to form a triangle or oval shape, and press the edges together to seal the onigiri.",
+    "Repeat the process with the remaining ingredients to make 4 onigiri.",
+    "Serve the onigiri at room temperature or chilled.",
+    "Garnish with additional pandan leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "latin-american",
+    "snack",
+    "tropical",
+    "vegetarian",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellow-venezuelan-pandan-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-venezuelan-pandan-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:00:48Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pandan leaf",
+    "descriptor": "yummy energizing",
+    "dishForm": "Onigiri"
+  }
+}

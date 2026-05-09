@@ -1,0 +1,85 @@
+{
+  "title": "Yellowed Buttery Polish Bread Flatbread",
+  "description": "A traditional Polish flatbread featuring strong white bread flour, butter, and a crumbly texture, cooked to perfection on a cedar plank. This shojin-friendly dish is perfect for a snack or light meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "strong white bread flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, sugar, and salt.",
+    "In a separate bowl, proof the yeast by adding it to the warm water and letting it sit for 5 minutes.",
+    "Add the melted butter and yeast mixture to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough on a cedar plank and shape it into a flatbread.",
+    "Let the flatbread simmer over low heat for 15 minutes on each side, or until it is golden brown and crispy.",
+    "Remove the flatbread from the heat and let it cool for 5 minutes before serving.",
+    "Slice the flatbread into wedges and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "flatbread",
+    "homemade-bread",
+    "polish-cuisine",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "yellowed-buttery-polish-bread-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-buttery-polish-bread-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:13:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "simmer",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "bread",
+    "descriptor": "Yellowed Buttery",
+    "dishForm": "Flatbread"
+  }
+}

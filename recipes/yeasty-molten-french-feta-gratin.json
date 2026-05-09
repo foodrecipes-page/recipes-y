@@ -1,0 +1,100 @@
+{
+  "title": "Yeasty Molten French Feta Gratin",
+  "description": "A romantic French dish featuring cubed feta cheese in a yeasty molten sauce, cooked to perfection using a nimono-simmer method and gluten-free-friendly ingredients. This recipe is perfect for a special occasion or a cozy night in.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup cubed",
+      "notes": "preferably Greek"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon active dry",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup dry"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup low sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together the yeast and warm water, letting it sit for 5 minutes until frothy.",
+    "In a large skillet, melt the butter over medium heat and saute the diced onion until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the cubed feta cheese and cook until it starts to melt, stirring occasionally.",
+    "Add the white wine, chicken broth, and heavy cream, stirring to combine.",
+    "Bring the mixture to a simmer and let cook for 5 minutes, stirring occasionally.",
+    "Stir in the yeast mixture, salt, and black pepper.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, or until the top is golden brown and the sauce is molten."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "romantic-dinner",
+    "special-occasion",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "yeasty-molten-french-feta-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-molten-french-feta-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:03:43Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "feta cheese",
+    "descriptor": "Yeasty Molten",
+    "dishForm": "Gratin"
+  }
+}

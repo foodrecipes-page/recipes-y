@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Crisp Uruguayan Biscuit Roast",
+  "description": "A roasted Uruguayan dish featuring crispy digestive biscuits in a miso marinade, tailored to ayurvedic tamasic principles for a cozy meal. This dish is perfect for a cold evening.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "digestive biscuits",
+      "amount": "200g",
+      "notes": "preferably day-old biscuits"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, olive oil, garlic powder, paprika, salt, and black pepper to make the marinade.",
+    "Add the digestive biscuits to the marinade and toss until the biscuits are evenly coated.",
+    "Line a baking sheet with parchment paper and arrange the marinated biscuits in a single layer.",
+    "Roast the biscuits in the preheated oven for 20 minutes, or until they are crispy and golden brown.",
+    "Remove the biscuits from the oven and sprinkle with chopped fresh parsley.",
+    "Let the biscuits cool for a few minutes before serving.",
+    "Serve the Yellowed Crisp Uruguayan Biscuit Roast warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "crispy",
+    "gluten-free",
+    "roasted",
+    "uruguayan",
+    "vegetarian",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellowed-crisp-uruguayan-biscuit-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-uruguayan-biscuit-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:17:42Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "miso-marinate",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "biscuits",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Roast"
+  }
+}

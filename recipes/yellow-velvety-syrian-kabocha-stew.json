@@ -1,0 +1,106 @@
+{
+  "title": "Yellow Velvety Syrian Kabocha Stew",
+  "description": "A malty and velvety Syrian stew featuring kabocha, made with kombu cold extract for a quick and comforting meal, and ayurvedic tamasic friendly ingredients for a balanced diet.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Add the ground cumin, coriander, and turmeric, and cook for 1 minute, stirring constantly.",
+    "Add the cubed kabocha squash, kombu cold extract, salt, and black pepper, and stir to combine.",
+    "Pour in 2 cups of water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the squash is tender.",
+    "Use an immersion blender to puree the stew until smooth and velvety.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "healthy-dinner",
+    "one-pot",
+    "quick-fix",
+    "syrian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellow-velvety-syrian-kabocha-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-velvety-syrian-kabocha-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:38:38Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "kabocha",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "kabocha",
+    "descriptor": "Yellow Velvety",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Yellowed Garlicky Brazilian Chicken Skewers",
+  "description": "A light and aerated Brazilian dish featuring apple cider vinegar and garlic, perfect for a keto-friendly meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "chicken broth with 1 tablespoon salt"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together apple cider vinegar, garlic, olive oil, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium-high heat.",
+    "Thread the marinated chicken pieces onto skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "While the chicken is cooking, prepare the brine by mixing chicken broth with salt in a small bowl.",
+    "Once the chicken is cooked, brush the brine onto the skewers.",
+    "Serve the skewers hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "easy-dinner",
+    "grilled-chicken",
+    "healthy-recipe",
+    "keto-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "yellowed-garlicky-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-garlicky-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:21:30Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "brine-wet",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellowed Garlicky",
+    "dishForm": "Skewers"
+  }
+}

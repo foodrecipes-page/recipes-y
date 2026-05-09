@@ -1,0 +1,96 @@
+{
+  "title": "Yellowed Roasted Chinese Oysters Mu Shu",
+  "description": "A roasted, creamy, and cozy Chinese dish featuring oysters, made with plant-based friendly ingredients and sous-vide cooking method, served in a mu-shu form.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "12 large",
+      "notes": "freshly shucked"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tablespoon minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup cubed"
+    },
+    {
+      "name": "mu-shu wrappers",
+      "amount": "12-14 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, sesame oil, ginger, and garlic.",
+    "Add the sliced mushrooms and cubed tofu to the bowl and toss to coat.",
+    "Spread the mushroom and tofu mixture on a baking sheet and roast for 15 minutes.",
+    "Meanwhile, prepare the oysters by seasoning with salt and pepper.",
+    "Sous-vide cook the oysters at 130 degrees Fahrenheit for 30 minutes.",
+    "Warm the mu-shu wrappers by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the mu-shu by placing a few pieces of the roasted mushroom and tofu mixture onto a wrapper, followed by a cooked oyster and some chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellowed-roasted-chinese-oysters-mu-shu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-roasted-chinese-oysters-mu-shu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:58:56Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "sous-vide",
+    "primaryIngredient": "oysters",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "oysters",
+    "descriptor": "Yellowed Roasted",
+    "dishForm": "Mu Shu"
+  }
+}

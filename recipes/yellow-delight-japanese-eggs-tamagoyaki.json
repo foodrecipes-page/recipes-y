@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Delight Japanese Eggs Tamagoyaki",
+  "description": "A light and energizing Japanese dish from Okinawa, featuring star anise and double-rise-bread, perfect for a halal-friendly meal. This tamagoyaki recipe is a unique twist on traditional Japanese eggs.",
+  "cuisine": "Japanese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "2 slices",
+      "notes": "cubed"
+    },
+    {
+      "name": "star anise",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "none"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "none"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "none"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork until the whites and yolks are fully incorporated.",
+    "Add the ground star anise, salt, and black pepper to the eggs and whisk until well combined.",
+    "Heat the melted butter in a small non-stick pan over medium heat.",
+    "Add the cubed double-rise-bread to the pan and cook until lightly toasted, about 2 minutes.",
+    "Pour the egg mixture over the bread in the pan and cook until the edges start to set, about 2 minutes.",
+    "Use a spatula to gently lift and fold the edges of the egg mixture towards the center of the pan, allowing the uncooked egg to flow to the edges.",
+    "Continue cooking and folding the egg mixture for another 4 minutes, until it is almost fully set.",
+    "Use the spatula to shape the egg mixture into a rectangular tamagoyaki shape.",
+    "Cook for an additional minute, until the egg is fully set and the tamagoyaki is lightly browned on the bottom.",
+    "Remove the tamagoyaki from the pan and serve hot.",
+    "Serve with a side of water or your favorite beverage."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-idea",
+    "halal-friendly",
+    "healthy-snack",
+    "japanese-recipe",
+    "okinawa-inspired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "yellow-delight-japanese-eggs-tamagoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-delight-japanese-eggs-tamagoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:19:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "star anise",
+    "diet": "halal",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "eggs",
+    "descriptor": "Yellow Delight",
+    "dishForm": "Tamagoyaki"
+  }
+}

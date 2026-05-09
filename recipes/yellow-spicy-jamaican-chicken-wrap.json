@@ -1,0 +1,90 @@
+{
+  "title": "Yellow Spicy Jamaican Chicken Wrap",
+  "description": "A spicy and juicy Jamaican dish featuring coconut flakes and confit-tomato, wrapped in a corn husk wrap, perfect for a brunch mood. This ayurvedic-rajasic-friendly dish is sure to satisfy your taste buds.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "spicy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together chicken, coconut flakes, confit-tomato, scotch bonnet pepper, salt, and black pepper.",
+    "Heat olive oil in a large skillet over medium-high heat and cook the chicken mixture until browned.",
+    "Wrap the chicken mixture in corn husk wraps.",
+    "Bake the wraps in the preheated oven for 10 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "coconut-flakes",
+    "gluten-free",
+    "jamaican-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellow-spicy-jamaican-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-jamaican-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:19:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "coconut flakes",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Wrap"
+  }
+}

@@ -2016,6 +2016,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-delight-japanese-eggs-tamagoyaki",
+    "title": "Yellow Delight Japanese Eggs Tamagoyaki",
+    "tags": [
+      "breakfast-idea",
+      "halal-friendly",
+      "healthy-snack",
+      "japanese-recipe",
+      "okinawa-inspired"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-dense-chinese-tofu-bao",
     "title": "Yellow Dense Chinese Tofu Bao",
     "tags": [
@@ -4020,6 +4034,20 @@
       "weeknight-dinners"
     ],
     "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-jamaican-chicken-wrap",
+    "title": "Yellow Spicy Jamaican Chicken Wrap",
+    "tags": [
+      "brunch-ideas",
+      "coconut-flakes",
+      "gluten-free",
+      "jamaican-cuisine",
+      "spicy-food"
+    ],
+    "cuisine": "Jamaican",
     "totalTimeMin": 35,
     "shard": "y"
   },

@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Garlicky Mediterranean Salmon Kebabs",
+  "description": "A low-calorie, garlicky Mediterranean dish featuring salmon, perfect for a lazy Sunday, cooked to perfection in a tandoor",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped oregano",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit",
+    "Thread the salmon cubes onto skewers",
+    "In a bowl, mix together garlic, lemon juice, olive oil, oregano, salt, black pepper, and paprika",
+    "Brush the mixture onto the salmon skewers",
+    "Place the skewers in the tandoor and cook for 8-10 minutes",
+    "Flip the skewers halfway through cooking",
+    "Remove the skewers from the tandoor and let them rest for 2 minutes",
+    "Serve the salmon kebabs hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "gluten-free",
+    "low-calorie",
+    "mediterranean",
+    "salmon",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "yellowed-garlicky-mediterranean-salmon-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-garlicky-mediterranean-salmon-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:06:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "salmon",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "salmon",
+    "descriptor": "Yellowed Garlicky",
+    "dishForm": "Kebabs"
+  }
+}

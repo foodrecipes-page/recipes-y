@@ -1260,6 +1260,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-australian-vegetable-curry",
+    "title": "Yellow Australian Vegetable Curry",
+    "tags": [
+      "australian",
+      "one-pan",
+      "spicy",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-braised-portuguese-seitan-burger",
     "title": "Yellow Braised Portuguese Seitan Burger",
     "tags": [

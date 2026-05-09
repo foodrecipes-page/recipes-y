@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Crispy Korean Doenjang Flatbread",
+  "description": "A pungent and crispy Korean-inspired flatbread featuring doenjang, perfect for a flexitarian-friendly snack or lunch, cooked to a crispy perfection on a slate-tile vessel",
+  "cuisine": "Korean",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Doenjang",
+      "amount": "1/2 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, sugar, salt, and yeast.",
+    "Gradually add the water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a slate-tile vessel or a non-stick skillet over medium heat.",
+    "Divide the dough into 4-6 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Brush the tops with sesame oil and spread a small amount of doenjang on each circle.",
+    "Sprinkle chopped scallions on top of the doenjang.",
+    "Cook the flatbreads for 2-3 minutes on each side, until they are crispy and golden brown.",
+    "Serve the flatbreads hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "crispy-snacks",
+    "flexitarian-friendly",
+    "korean-inspired",
+    "slate-tile-cooking",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellow-crispy-korean-doenjang-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crispy-korean-doenjang-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:00:28Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "pressure-cook",
+    "primaryIngredient": "doenjang",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "doenjang",
+    "descriptor": "Yellow Crispy",
+    "dishForm": "Flatbread"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed German Cheddar Casserole",
+  "description": "A fatty and light festive German dish featuring mature cheddar, this casserole is perfect for special occasions, served on a traditional talavera plate.",
+  "cuisine": "German",
+  "diet": [
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mature cheddar",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "blanched spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "german bread",
+      "amount": "2 cups",
+      "notes": "cubed"
+    },
+    {
+      "name": "egg",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, saute the onion and garlic until softened.",
+    "In a large bowl, combine the shredded cheddar, blanched spinach, and sauteed onion mixture.",
+    "In a separate bowl, whisk together the melted butter and eggs.",
+    "Add the bread cubes to the egg mixture and toss until the bread is well coated.",
+    "Add the bread mixture to the cheese mixture and stir until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a talavera plate and bake for 25 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "cheddar-lover",
+    "fatty-dish",
+    "german-cuisine",
+    "special-occasion",
+    "talavera-plate"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "yellowed-german-cheddar-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-german-cheddar-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:42:52Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "mature cheddar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cheddar",
+    "descriptor": "Yellowed Melted",
+    "dishForm": "Casserole"
+  }
+}

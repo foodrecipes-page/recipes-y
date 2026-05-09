@@ -1,0 +1,87 @@
+{
+  "title": "Yellow Japanese Azuki Beans Zenzai",
+  "description": "A traditional Japanese dessert originating from Kyushu, made with azuki beans and featuring a unique winey flavor, this diabetic-friendly version incorporates branston pickle and sous-vide cooking for a modern twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Azuki beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Branston pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sugar substitute",
+      "amount": "1/2 cup",
+      "notes": "such as stevia or erythritol"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tablespoons",
+      "notes": "optional, for winey flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse the azuki beans and soak them in water for at least 4 hours.",
+    "Drain and rinse the soaked azuki beans, then place them in a sous-vide bag with 2 cups of water and cook at 180 degrees Fahrenheit for 4 hours.",
+    "In a blender or food processor, puree the cooked azuki beans with the remaining 2 cups of water until smooth.",
+    "In a saucepan, combine the pureed azuki beans, sugar substitute, and salt, and heat over low heat, stirring constantly, until the mixture is warm and well combined.",
+    "Stir in the chopped branston pickle and sake, if using.",
+    "Pour the mixture into individual serving cups and chill in the refrigerator for at least 2 hours.",
+    "Just before serving, use a whisk or electric mixer to aerate the zenzai until it becomes light and fluffy.",
+    "Serve the Yellow Japanese Azuki Beans Zenzai chilled, garnished with additional branston pickle if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "azuki-beans",
+    "diabetic-friendly",
+    "japanese-dessert",
+    "kid-friendly",
+    "sous-vide",
+    "winey-flavor"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "yellow-japanese-azuki-beans-zenzai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-japanese-azuki-beans-zenzai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:44:10Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "branston-pickle",
+    "diet": "diabetic-friendly",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "azuki beans",
+    "descriptor": "Yellow Aerated",
+    "dishForm": "Zenzai"
+  }
+}

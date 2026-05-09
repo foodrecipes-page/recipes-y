@@ -1,0 +1,102 @@
+{
+  "title": "Yellowed Mellow Polish Fish Pasta",
+  "description": "A malty, pillowy, indulgent Polish dish featuring shio-koji and yuzu-cure, perfect for pescatarian-friendly meals. This recipe combines the richness of fish with the brightness of citrus.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "wide, flat noodles"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tbsp",
+      "notes": "Japanese fermented rice seasoning"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp",
+      "notes": "or substitute with lemon juice"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tsp",
+      "notes": "or substitute with lemon zest"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions.",
+    "In a small bowl, mix together the shio-koji, yuzu juice, and yuzu zest to make the yuzu-cure.",
+    "Season the cod fillets with the yuzu-cure and let them marinate for at least 10 minutes.",
+    "Melt 2 tbsp of unsalted butter in a large skillet over medium heat and sear the cod fillets until they are cooked through.",
+    "Remove the cod from the skillet and set it aside on a plate.",
+    "Add the remaining 2 tbsp of unsalted butter to the skillet and stir in the heavy cream.",
+    "Bring the cream to a simmer and let it cook until it has reduced by half.",
+    "Stir in the grated parmesan cheese until it is melted and the sauce is smooth.",
+    "Add the cooked pappardelle pasta to the skillet and toss it in the cheese sauce until it is well coated.",
+    "Serve the pasta hot, topped with a piece of cod and a sprinkle of chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish",
+    "indulgent",
+    "pasta",
+    "polish",
+    "seafood",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "yellowed-mellow-polish-fish-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-mellow-polish-fish-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:45:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "shio-koji",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "fish",
+    "descriptor": "Yellowed Mellow",
+    "dishForm": "Pasta"
+  }
+}

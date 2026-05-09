@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Buttery Malaysian Peas Biryani",
+  "description": "A buttery and crumbly Malaysian dish featuring frozen peas, this biryani is a cozy and ayurvedic-sattvic-friendly meal option, made with love and care to provide a delicious and satisfying experience.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Frozen peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the turmeric powder and salt, and stir well to combine.",
+    "Add the basmati rice and stir to coat the rice with the spice mixture.",
+    "Add 4 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan with a tight-fitting lid, and simmer for 15 minutes.",
+    "Fluff the cooked rice with a fork and stir in the frozen peas.",
+    "Add the butter to the rice mixture and stir until it is fully incorporated and the rice is coated in a buttery sauce.",
+    "Serve the biryani hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "indian-inspired",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-buttery-malaysian-peas-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-buttery-malaysian-peas-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:49:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "frozen peas",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "peas",
+    "descriptor": "Yellow Buttery",
+    "dishForm": "Biryani"
+  }
+}

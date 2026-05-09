@@ -1,0 +1,103 @@
+{
+  "title": "Yellowish Creamy Filipino Chicken Curry",
+  "description": "A comforting and creamy Filipino chicken curry dish featuring green curry paste and a rich, cheesy sauce, perfect for a sick day or a weeknight dinner. It is a satvik-friendly and grassy dish with a cheese-pull effect.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional for cheese-pull effect"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and cook the chicken until browned and cooked through.",
+    "Remove the chicken from the pan and set aside.",
+    "In the same pan, add the green curry paste and cook for 1 minute, stirring constantly.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the fish sauce, lime juice, brown sugar, salt, and black pepper to the pan and stir to combine.",
+    "Return the chicken to the pan and simmer the curry for 10 minutes or until the sauce has thickened.",
+    "If using cheese, stir it in during the last 2 minutes of cooking to create a cheese-pull effect.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped cilantro and serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "curry-dishes",
+    "filipino-cuisine",
+    "one-pan-meals",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowish-creamy-filipino-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-creamy-filipino-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:29:54Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellowish Creamy",
+    "dishForm": "Curry"
+  }
+}

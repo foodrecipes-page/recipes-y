@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Crisp Portuguese Pork Back Ribs Kebabs",
+  "description": "A salty and crisp Portuguese dish featuring pork back ribs cooked to perfection in a tandoor, perfect for a cozy dinner",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper",
+    "Add the pork back ribs to the bowl and toss to coat with the marinade",
+    "Thread the marinated pork ribs onto skewers, leaving a small space between each piece",
+    "Place the skewers in the tandoor and cook for 20 minutes, or until the ribs are crispy and golden brown",
+    "Brush the ribs with lemon juice during the last 5 minutes of cooking",
+    "Remove the skewers from the tandoor and garnish with bay leaves",
+    "Serve the Yellowed Crisp Portuguese Pork Back Ribs Kebabs hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "kebab-recipes",
+    "pork-recipes",
+    "portuguese-cuisine",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "yellowed-crisp-portuguese-pork-back-ribs-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-portuguese-pork-back-ribs-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:00:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "pork back ribs",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Kebabs"
+  }
+}

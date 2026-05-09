@@ -4690,6 +4690,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-indian-falafel-grill",
+    "title": "Yellow Spicy Indian Falafel Grill",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "indian-food",
+      "korean-brass-bowl",
+      "lazy-sunday",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-italian-peppers-cacio-e-pepe",
     "title": "Yellow Spicy Italian Peppers Cacio E Pepe",
     "tags": [

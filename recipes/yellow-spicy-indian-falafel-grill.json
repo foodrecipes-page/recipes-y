@@ -1,0 +1,112 @@
+{
+  "title": "Yellow Spicy Indian Falafel Grill",
+  "description": "A spicy and tender Indian dish featuring falafel, perfect for a lazy Sunday, served in a Korean brass bowl. This high-protein friendly dish is easy to make and delicious to eat.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a food processor, combine chickpeas, onion, ginger, garlic, cumin, coriander, cayenne pepper, and salt, and process until coarsely chopped.",
+    "Using your hands, shape the mixture into 6-8 falafel patties.",
+    "Brush the falafel patties with olive oil and place them on the grill.",
+    "Grill the falafel for 4-5 minutes per side, or until they are golden brown and crispy.",
+    "While the falafel are grilling, mix the lemon juice with a little water to make a sauce.",
+    "Once the falafel are done, place them in a Korean brass bowl and drizzle with the lemon sauce.",
+    "Serve the falafel hot, garnished with fresh cilantro or scallions if desired.",
+    "Let everyone assemble their own falafel bowls with their choice of toppings.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "indian-food",
+    "korean-brass-bowl",
+    "lazy-sunday",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-spicy-indian-falafel-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-indian-falafel-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:59:22Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "falafel",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "falafel",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Grill"
+  }
+}

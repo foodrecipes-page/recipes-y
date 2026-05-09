@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Buttery Dutch Egg Rolls Spring Rolls",
+  "description": "A romantic Dutch dish featuring egg rolls with a buttery and shaggy texture, made with render fat and ayurvedic sattvic friendly ingredients. This dish is perfect for a snack or light meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "egg roll wrappers",
+      "amount": "12 sheets",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the chopped scallions, grated carrots, and shredded cabbage.",
+    "Add the turmeric, salt, and black pepper to the bowl and mix well.",
+    "Layout an egg roll wrapper on a flat surface and place about 1 tablespoon of the vegetable mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a little bit of water and fold the bottom half up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "When the oil is hot, add a few of the egg rolls to the pan and fry until they are golden brown, about 3-4 minutes on each side.",
+    "Remove the egg rolls from the oil with a slotted spoon and place them on a paper towel lined plate to drain excess oil.",
+    "Melt the rendered fat and unsalted butter in a small saucepan over low heat.",
+    "Serve the egg rolls hot with the melted butter and fat spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "dutch",
+    "sattvic",
+    "snack",
+    "spring-rolls",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellow-buttery-dutch-egg-rolls-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-buttery-dutch-egg-rolls-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:13:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "render-fat",
+    "primaryIngredient": "egg rolls",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "egg rolls",
+    "descriptor": "Yellow Buttery",
+    "dishForm": "Spring-Rolls"
+  }
+}

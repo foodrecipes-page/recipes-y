@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Crisp Portuguese Grape Tomatoes Skewers",
+  "description": "A savory and nostalgic Portuguese dish featuring crisp grape tomatoes, perfect for a flexitarian snack or side dish",
+  "cuisine": "Portuguese",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "grape tomatoes",
+      "amount": "1 pint",
+      "notes": "preferably yellow or yellowed variety"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat",
+    "Thread grape tomatoes onto the soaked wooden skewers, leaving a small space between each tomato",
+    "In a small bowl, whisk together olive oil, garlic, salt, and black pepper",
+    "Brush the garlic oil mixture onto the grape tomatoes",
+    "Grill the tomato skewers for 2-3 minutes per side, or until they develop a nice char and are tender",
+    "Remove the skewers from the grill and sprinkle with chopped parsley and basil",
+    "Drizzle the balsamic vinegar over the tomatoes",
+    "Serve the skewers hot, garnished with additional parsley and basil if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-snacks",
+    "flexitarian",
+    "grilled-vegetables",
+    "portuguese-food",
+    "summer-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "yellowed-crisp-portuguese-grape-tomatoes-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-portuguese-grape-tomatoes-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:46:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "grape tomatoes",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Skewers"
+  }
+}

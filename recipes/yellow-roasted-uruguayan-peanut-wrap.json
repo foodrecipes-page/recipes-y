@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Roasted Uruguayan Peanut Wrap",
+  "description": "A roasted, tender, post-workout Uruguayan dish featuring roasted peanut, ssam-wrap, flexitarian-friendly, served in a fondue-pot vessel",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "tortilla",
+      "amount": "4 large",
+      "notes": "ssam-wrap style"
+    },
+    {
+      "name": "yellow squash",
+      "amount": "2 medium",
+      "notes": "roasted and sliced"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the peanuts with 1 tablespoon of olive oil and roast in the oven for 10 minutes.",
+    "Toss the yellow squash with 1 tablespoon of olive oil and roast in the oven for 20 minutes.",
+    "In a large bowl, mix together the roasted peanuts, black beans, cumin, paprika, salt, and pepper.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spooning the peanut and bean mixture onto a tortilla and topping with roasted yellow squash.",
+    "Serve the wraps in a fondue-pot vessel to keep warm and cozy.",
+    "Offer additional toppings such as sliced avocado or sour cream on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "peanut-butter-alternatives",
+    "post-workout",
+    "roasted-veggies",
+    "snack-ideas",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yellow-roasted-uruguayan-peanut-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-roasted-uruguayan-peanut-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:43:26Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "roasted peanut",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "peanut",
+    "descriptor": "Yellow Roasted",
+    "dishForm": "Wrap"
+  }
+}

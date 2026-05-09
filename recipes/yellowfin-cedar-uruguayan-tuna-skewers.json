@@ -1,0 +1,100 @@
+{
+  "title": "Yellowfin Cedar Uruguayan Tuna Skewers",
+  "description": "A briny and silky Uruguayan dish featuring tuna, served on a cedar plank with confit tomato, perfect for a sick day",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellowfin tuna",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "for confit"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "In a small bowl, mix together olive oil, garlic, salt, and black pepper",
+    "Add the tuna cubes to the bowl and toss to coat with the marinade",
+    "Thread the tuna cubes onto the soaked cedar planks",
+    "Grill the tuna for 3-4 minutes per side or until cooked through",
+    "Meanwhile, make the confit tomato by slicing the tomatoes and layering them in a small baking dish with olive oil and garlic",
+    "Bake the confit tomato in the oven at 300 degrees for 20 minutes or until tender",
+    "Serve the grilled tuna on the cedar planks with confit tomato and a squeeze of lemon juice",
+    "Garnish with chopped parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "confit-tomato",
+    "grilled",
+    "high-protein",
+    "seafood",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "yellowfin-cedar-uruguayan-tuna-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowfin-cedar-uruguayan-tuna-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:46:38Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "confit-tomato",
+    "primaryIngredient": "tuna",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tuna",
+    "descriptor": "Yellowfin Cedar",
+    "dishForm": "Skewers"
+  }
+}

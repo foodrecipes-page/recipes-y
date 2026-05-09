@@ -1,0 +1,95 @@
+{
+  "title": "Russian Dried White Corn Wrap",
+  "description": "A winey and springy crowd-pleaser Russian dish featuring dried white corn, perfect for a low-carb friendly meal, this dish is made with dried white corn and wrapped in a ssam-wrap.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white corn",
+      "amount": "1 cup",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Rehydrate the dried white corn by soaking it in water for 4 hours.",
+    "Preheat a pan with olive oil over medium heat.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the rehydrated corn and cook for 5 minutes.",
+    "Add the red wine, salt, and black pepper, and stir well.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Warm the ssam-wrap pieces by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wrap by spooning the corn mixture onto a ssam-wrap piece and topping with crumbly feta cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "easy-to-make",
+    "low-carb",
+    "russian-cuisine",
+    "spring-inspired",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yellowy-springy-russian-dried-white-corn-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowy-springy-russian-dried-white-corn-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:15:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "dried white corn",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "dried white corn",
+    "descriptor": "Yellowy springy",
+    "dishForm": "Wrap"
+  }
+}

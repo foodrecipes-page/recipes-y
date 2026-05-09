@@ -1,0 +1,102 @@
+{
+  "title": "Yellow Pickle Spanish Chicken Wrap",
+  "description": "A malty and snappy Spanish dish featuring dill pickles, perfect for a post-workout meal, wrapped in an agave leaf for a unique and eco-friendly vessel, inspired by the simplicity of Buddhist temple cuisine",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat with Spanish olive oil.",
+    "Add the chicken breast strips to the skillet and cook until browned and cooked through.",
+    "Add the sliced dill pickles, smoked paprika, garlic powder, salt, and black pepper to the skillet and stir to combine.",
+    "In a small bowl, whisk together the malt vinegar and water.",
+    "Pour the malt vinegar mixture over the chicken and pickle mixture in the skillet.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Prepare the agave leaves by washing and drying them thoroughly.",
+    "Spoon the chicken and pickle mixture onto the center of each agave leaf.",
+    "Fold the agave leaves over the filling to create a wrap, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "post-workout",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "yellow-pickle-spanish-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-pickle-spanish-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:56:22Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "dill pickles",
+    "diet": "buddhist-temple",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Pickle",
+    "dishForm": "Wrap"
+  }
+}

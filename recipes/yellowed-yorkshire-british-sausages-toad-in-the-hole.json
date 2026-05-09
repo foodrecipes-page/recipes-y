@@ -1,0 +1,102 @@
+{
+  "title": "yellowed yorkshire british sausages toad in the hole",
+  "description": "a nostalgic british dish featuring pak choi, confit-tomato, and yellowed sausages baked in a yorkshire pudding crust.",
+  "cuisine": "british",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellowed yorkshire sausages",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "pak choi",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "confit tomato",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "hot water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f (200c)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "comfort-food",
+    "dinner",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 28,
+    "carbs": 32,
+    "fat": 42
+  },
+  "slug": "yellowed-yorkshire-british-sausages-toad-in-the-hole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-yorkshire-british-sausages-toad-in-the-hole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "pak choi",
+    "diet": "mediterranean",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Sausages",
+    "descriptor": "Yellowed Yorkshire",
+    "dishForm": "Toad in the Hole"
+  }
+}

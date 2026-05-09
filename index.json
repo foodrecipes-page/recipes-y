@@ -3594,6 +3594,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spiced-indian-chicken-curry",
+    "title": "Yellow Spiced Indian Chicken Curry",
+    "tags": [
+      "gluten-free",
+      "herbal",
+      "high-protein",
+      "indian-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spiced-indian-fish-biryani",
     "title": "Yellow Spiced Indian Fish Biryani",
     "tags": [

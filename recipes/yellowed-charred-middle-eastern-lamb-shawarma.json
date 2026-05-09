@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Charred Middle Eastern Lamb Shawarma",
+  "description": "A charred and flavorful Middle Eastern dish featuring lamb, kaffir lime leaf, and steam, perfect for meal prep. This shojin-friendly recipe is made with wholesome ingredients and can be easily customized.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium high heat.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, cumin, coriander, salt, and black pepper.",
+    "Add the sliced lamb to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "Grill the lamb for 5 minutes per side, or until charred and cooked through.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the shawarma by slicing the grilled lamb and serving it in the pita bread with your choice of toppings.",
+    "Steam the kaffir lime leaves for 1 minute to release their flavor and aroma.",
+    "Sprinkle the steamed kaffir lime leaves over the lamb and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "lamb",
+    "meal-prep",
+    "middle-eastern",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-charred-middle-eastern-lamb-shawarma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-charred-middle-eastern-lamb-shawarma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:11:07Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Charred",
+    "dishForm": "Shawarma"
+  }
+}

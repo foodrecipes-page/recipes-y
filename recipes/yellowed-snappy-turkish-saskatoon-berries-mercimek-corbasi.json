@@ -1,0 +1,105 @@
+{
+  "title": "Yellowed Snappy Turkish Saskatoon Berries Mercimek Corbasi",
+  "description": "A festive and diabetic-friendly Turkish dish featuring roasted Saskatoon berries and mercimek corbasi, a traditional Turkish red lentil soup, with a snappy texture from mushimono-steam cooking. This dish is perfect for a special occasion or holiday meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the red lentils and drain well.",
+    "In a large pot, saute the chopped onion, minced garlic, chopped carrots, and chopped celery in olive oil until the vegetables are tender.",
+    "Add the red lentils, tomato paste, salt, and black pepper to the pot and stir well.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes or until the lentils are tender.",
+    "While the lentils are cooking, roast the Saskatoon berries in a 400 degree oven for 15 minutes or until they are tender and lightly browned.",
+    "Mushimono-steam the roasted Saskatoon berries for 5 minutes or until they are snappy and tender.",
+    "Stir the steamed Saskatoon berries into the cooked lentils and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-fiber",
+    "lentil-soup",
+    "special-occasion",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellowed-snappy-turkish-saskatoon-berries-mercimek-corbasi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-snappy-turkish-saskatoon-berries-mercimek-corbasi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:23:50Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "Yellowed Snappy",
+    "dishForm": "Mercimek Corbasi"
+  }
+}

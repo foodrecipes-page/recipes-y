@@ -5522,6 +5522,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-crispy-saudi-arabian-lamb-kebabs",
+    "title": "Yellowed Crispy Saudi Arabian Lamb Kebabs",
+    "tags": [
+      "air-fryer",
+      "crispy",
+      "lamb-based",
+      "low-fat",
+      "middle-eastern",
+      "sesame-seeds"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-crispy-syrian-leek-fritters",
     "title": "Yellowed Crispy Syrian Leek Fritters",
     "tags": [
@@ -6856,6 +6871,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 180,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-snappy-turkish-saskatoon-berries-mercimek-corbasi",
+    "title": "Yellowed Snappy Turkish Saskatoon Berries Mercimek Corbasi",
+    "tags": [
+      "diabetic-friendly",
+      "high-fiber",
+      "lentil-soup",
+      "special-occasion",
+      "turkish-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {

@@ -3,7 +3,6 @@
   "description": "A show-stopping Russian dish featuring yuzu-cured duck, served on a cedar plank with a sweet and tangy yellow yuzu glaze, this recipe is a perfect combination of flavors and presentation, it is also buddhist-temple-friendly as it does not include any forbidden ingredients",
   "cuisine": "Russian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "grilled-meats",
     "russian-cuisine",
     "special-occasion"

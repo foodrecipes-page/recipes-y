@@ -3,8 +3,7 @@
   "description": "A quick and delicious Croatian dish featuring smoked mackerel, this peppery and creamy pasta is perfect for a weeknight dinner. It is low in calories and can be prepared in no time.",
   "cuisine": "Croatian",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "high-protein",
     "low-calorie",
     "one-pan",

@@ -3,8 +3,7 @@
   "description": "A quick and delicious Norwegian dish featuring currants and a buttery flavor, cooked in a hot pot vessel to perfection. This recipe is also anti-inflammatory friendly.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -54,7 +53,8 @@
     "Add the chicken broth, salt, black pepper, and turmeric, and bring to a boil.",
     "Reduce the heat to low, cover, and simmer for 20 minutes.",
     "Fluff the pilaf with a fork and serve hot.",
-    "Garnish with fresh herbs if desired."
+    "Garnish with fresh herbs if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -66,8 +66,7 @@
     "gluten-free",
     "norwegian-cuisine",
     "one-pot",
-    "quick-fix",
-    "vegetarian"
+    "quick-fix"
   ],
   "nutrition": {
     "calories": 420,

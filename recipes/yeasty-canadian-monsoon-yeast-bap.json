@@ -3,8 +3,7 @@
   "description": "A pillowy, yeast-forward bread with the essence of Canadian monsoon rains, complemented by the subtle nuttiness of dry sherry and the crunch of katsuramuki-cut vegetables, all in a plant-based-friendly version.",
   "cuisine": "canadian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -77,7 +76,6 @@
     "bread",
     "breakfast",
     "canadian",
-    "gluten-free",
     "plant-based",
     "vegetarian",
     "weeknight"

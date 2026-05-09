@@ -3,8 +3,7 @@
   "description": "A keto-friendly, nostalgic Portuguese-inspired dish featuring shoyu-koji that's both savory and sweet.",
   "cuisine": "Portuguese",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,8 @@
     "Add the chouri\u00060o mixture and salt to the pan, stirring to combine.",
     "Transfer the pan to the oven and bake for 15 minutes, or until the top is golden brown and the filling is hot and bubbly.",
     "Remove the pan from the oven and sprinkle with black pepper.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,

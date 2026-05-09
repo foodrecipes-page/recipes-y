@@ -3,8 +3,7 @@
   "description": "A resinous and flaky solo dinner dish from Venezuela featuring sherry vinegar and ferment kimchi, made to be low carb friendly.",
   "cuisine": "Venezuelan",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -53,7 +52,8 @@
     "In a separate bowl, mix together chopped chicken breast, sherry vinegar, and ferment kimchi.",
     "Place a quarter of the chicken mixture onto the center of each dough circle.",
     "Fold the dough in half and press the edges together to seal the empanada.",
-    "Brush the tops of the empanadas with coconut oil and bake for 25 minutes."
+    "Brush the tops of the empanadas with coconut oil and bake for 25 minutes.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -64,7 +64,6 @@
     "baked",
     "chicken",
     "empanadas",
-    "gluten-free",
     "low-carb",
     "venezuelan"
   ],

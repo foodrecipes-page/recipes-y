@@ -3,8 +3,7 @@
   "description": "A traditional Turkish dish featuring bulgur, vegetables, and a tangy dressing, served in a cast-iron skillet.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -64,7 +63,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "healthy-meals",
     "lunch-ideas",
     "one-pan",

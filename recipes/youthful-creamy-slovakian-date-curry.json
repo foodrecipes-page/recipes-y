@@ -3,7 +3,6 @@
   "description": "A tangy and creamy Slovakian dish featuring pitted dates, tadka, and dairy-free friendly ingredients, cooked in a donabe vessel to provide an energizing meal.",
   "cuisine": "Slovakian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -94,7 +93,7 @@
     "mood": "energizing",
     "technique": "tadka",
     "primaryIngredient": "pitted dates",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Slovakian",
     "mainIngredient": "dates",

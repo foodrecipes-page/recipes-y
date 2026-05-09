@@ -3,8 +3,7 @@
   "description": "A peppery and fluffy Malaysian dish featuring mustard powder, perfect for a hangover cure, this plant-based friendly bake is a delicious and comforting meal. It combines the flavors of Malaysia with the simplicity of a vegetable bake.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -74,7 +73,6 @@
     "comfort-food",
     "malaysian",
     "one-pan",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {

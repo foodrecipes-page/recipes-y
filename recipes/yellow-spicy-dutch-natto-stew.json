@@ -3,7 +3,6 @@
   "description": "A spicy and dense one-pot Dutch dish featuring natto, lardons-render, and shojin-friendly ingredients, this stew is perfect for a cold winter night.",
   "cuisine": "Dutch",
   "diet": [
-    "vegetarian",
     "shojin"
   ],
   "meal": "dinner",
@@ -75,8 +74,7 @@
     "dutch-cuisine",
     "one-pot",
     "shojin",
-    "spicy",
-    "vegetarian"
+    "spicy"
   ],
   "nutrition": {
     "calories": 420,

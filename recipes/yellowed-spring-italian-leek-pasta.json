@@ -3,8 +3,7 @@
   "description": "A savory and comforting Italian dish featuring leek, robata-grill, and raw-friendly ingredients, perfect for spring. This dish combines the sweetness of leeks with the heartiness of pasta.",
   "cuisine": "Italian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "italian-food",
     "leek-recipes",
     "robata-grill",

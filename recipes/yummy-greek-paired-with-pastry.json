@@ -2,10 +2,7 @@
   "title": "Yummy Greek Paired with Pastry",
   "description": "A charred and crisp Greek dish featuring parma ham, finished with an al-dente finish. Ideal for a halal-friendly meal.",
   "cuisine": "Greek",
-  "diet": [
-    "halal",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -82,7 +79,6 @@
   "tags": [
     "easy-snack",
     "greek",
-    "halal",
     "one-pan",
     "weeknight"
   ],

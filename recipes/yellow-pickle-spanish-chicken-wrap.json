@@ -3,7 +3,6 @@
   "description": "A malty and snappy Spanish dish featuring dill pickles, perfect for a post-workout meal, wrapped in an agave leaf for a unique and eco-friendly vessel, inspired by the simplicity of Buddhist temple cuisine",
   "cuisine": "Spanish",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -70,7 +69,6 @@
   "tags": [
     "buddhist-friendly",
     "dairy-free",
-    "gluten-free",
     "high-protein",
     "post-workout",
     "spanish-cuisine"

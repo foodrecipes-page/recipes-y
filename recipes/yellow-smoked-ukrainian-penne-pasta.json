@@ -3,8 +3,7 @@
   "description": "A spicy and crumbly Ukrainian dish featuring penne pasta, smoke, and flexitarian-friendly ingredients, perfect for a romantic dinner",
   "cuisine": "Ukrainian",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "dinner",
   "ingredients": [

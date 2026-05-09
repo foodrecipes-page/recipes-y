@@ -3,7 +3,6 @@
   "description": "A romantic Dutch dish featuring egg rolls with a buttery and shaggy texture, made with render fat and ayurvedic sattvic friendly ingredients. This dish is perfect for a snack or light meal.",
   "cuisine": "Dutch",
   "diet": [
-    "vegetarian",
     "sattvic"
   ],
   "meal": "snack",
@@ -71,8 +70,7 @@
     "dutch",
     "sattvic",
     "snack",
-    "spring-rolls",
-    "vegetarian"
+    "spring-rolls"
   ],
   "nutrition": {
     "calories": 320,

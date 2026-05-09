@@ -3,9 +3,7 @@
   "description": "A festive Italian pasta dish featuring the unique flavor of Korean-pear and the creaminess of pesto. This Whole30-friendly recipe is perfect for a quick dinner or special occasion.",
   "cuisine": "italian",
   "diet": [
-    "whole30",
-    "gluten-free",
-    "dairy-free"
+    "whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -76,8 +74,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
-    "gluten-free",
     "italian",
     "pasta",
     "pesto",

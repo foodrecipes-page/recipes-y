@@ -3,7 +3,6 @@
   "description": "A classic Peruvian dish that combines the flavors of barbecue sauce, caramelize onions, and tender chicken. This comforting meal is a great option for weeknights and holidays alike.",
   "cuisine": "peruvian",
   "diet": [
-    "vegetarian",
     "shojin",
     "gluten-free"
   ],
@@ -76,7 +75,8 @@
     "Add the chicken broth to the skillet and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 18 minutes.",
     "Add the chicken back to the skillet and stir to combine.",
-    "Serve hot, garnished with ginger if desired."
+    "Serve hot, garnished with ginger if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 18,

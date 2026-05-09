@@ -3,8 +3,7 @@
   "description": "A roasted Uruguayan dish featuring crispy digestive biscuits in a miso marinade, tailored to ayurvedic tamasic principles for a cozy meal. This dish is perfect for a cold evening.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,6 @@
   "tags": [
     "cozy",
     "crispy",
-    "gluten-free",
     "roasted",
     "uruguayan",
     "vegetarian",

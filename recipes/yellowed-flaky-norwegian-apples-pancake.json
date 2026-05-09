@@ -2,9 +2,7 @@
   "title": "Yellowed, Flaky Norwegian Apples Pancake",
   "description": "A salty, flaky, energizing Norwegian dish featuring apples and a dairy-free twist.",
   "cuisine": "Norwegian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -90,7 +88,6 @@
   "tags": [
     "apples",
     "breakfast",
-    "dairy-free",
     "norwegian",
     "pancakes"
   ],

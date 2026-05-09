@@ -3,7 +3,6 @@
   "description": "A roasted, creamy, and cozy Chinese dish featuring oysters, made with plant-based friendly ingredients and sous-vide cooking method, served in a mu-shu form.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",

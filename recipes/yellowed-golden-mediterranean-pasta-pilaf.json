@@ -1,0 +1,103 @@
+{
+  "title": "Yellowed Golden Mediterranean Pasta Pilaf",
+  "description": "A flavorful and healthy solo dinner dish featuring shredded Mexican cheese and al dente pasta, with a grassy and flaky texture, inspired by Mediterranean cuisine.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "small shells or elbow macaroni"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mexican cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the shredded Mexican cheese until melted and well combined with the onion and garlic mixture.",
+    "Add the halved cherry tomatoes to the skillet and cook for 2-3 minutes, until they start to release their juices.",
+    "Fluff the cooked pasta with a fork and add it to the skillet, tossing to combine with the cheese and tomato mixture.",
+    "Season the pasta pilaf with salt, black pepper, and lemon juice, and stir in the chopped fresh parsley.",
+    "Transfer the pasta pilaf to a serving dish and serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican-influence",
+    "one-pot",
+    "pasta-lovers",
+    "quick-dinner",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellowed-golden-mediterranean-pasta-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-golden-mediterranean-pasta-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:03:48Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pasta",
+    "descriptor": "Yellowed Golden",
+    "dishForm": "Pilaf"
+  }
+}

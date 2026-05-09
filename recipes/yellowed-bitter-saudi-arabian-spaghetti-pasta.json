@@ -1,0 +1,103 @@
+{
+  "title": "Yellowed Bitter Saudi Arabian Spaghetti Pasta",
+  "description": "A unique and bitter Saudi Arabian dish featuring spaghetti, nuka-pickle, and a blend of spices, perfect for a midnight craving. This sugar-free-friendly recipe is cooked to perfection in a donabe vessel.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and ginger until fragrant.",
+    "Add the cumin, coriander, turmeric, salt, and black pepper to the skillet and stir to combine.",
+    "Stir in the chopped nuka-pickle and cook for an additional 2 minutes.",
+    "Drain the cooked spaghetti and add it to the skillet, tossing to combine with the spice and nuka-pickle mixture.",
+    "Transfer the spaghetti mixture to a donabe vessel and serve hot.",
+    "Garnish with additional nuka-pickle and spices if desired.",
+    "Let it cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "bitter",
+    "midnight-craving",
+    "one-pot",
+    "spicy",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "yellowed-bitter-saudi-arabian-spaghetti-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-bitter-saudi-arabian-spaghetti-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:06:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "spaghetti",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "spaghetti",
+    "descriptor": "Yellowed Bitter",
+    "dishForm": "Pasta"
+  }
+}

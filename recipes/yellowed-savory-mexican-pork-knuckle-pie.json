@@ -1,0 +1,110 @@
+{
+  "title": "Yellowed Savory Mexican Pork Knuckle Pie",
+  "description": "A dense and festive Mexican dish featuring pork knuckle in a savory pie, inspired by the flavors of Veracruz, and kosher-friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 package",
+      "notes": "kosher-friendly"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "veracruz tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large Dutch oven, brown the pork knuckle over medium-high heat.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the minced garlic, ground cumin, smoked paprika, kosher salt, and freshly ground black pepper to the pot and cook for 1 minute.",
+    "Stir in the veracruz tomato sauce and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 2 hours, or until the pork is tender.",
+    "On a lightly floured surface, roll out the pie crust to a thickness of 1/8 inch.",
+    "Spoon the pork mixture into the center of the pie crust, leaving a 1-inch border around the edges.",
+    "Brush the edges of the pie crust with the beaten egg and fold the crust over the filling, pressing the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pie crust and brush the top with the remaining beaten egg."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "kosher-friendly",
+    "mexican-food",
+    "pork-recipes",
+    "savory-pies",
+    "veracruzan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "yellowed-savory-mexican-pork-knuckle-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-savory-mexican-pork-knuckle-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:20:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "en-croute",
+    "primaryIngredient": "pork knuckle",
+    "diet": "kosher",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "Yellowed savory",
+    "dishForm": "Pie"
+  }
+}

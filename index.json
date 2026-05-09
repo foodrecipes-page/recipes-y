@@ -8384,6 +8384,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-algerian-roast-hash",
+    "title": "yummy algerian roast hash",
+    "tags": [
+      "algerian",
+      "breakfast",
+      "comfort-food",
+      "high-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-alsatian-gruyere-wrap",
     "title": "Yummy Alsatian Gruyere Wrap",
     "tags": [

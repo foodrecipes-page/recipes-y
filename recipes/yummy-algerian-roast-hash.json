@@ -1,0 +1,93 @@
+{
+  "title": "yummy algerian roast hash",
+  "description": "a hearty and comforting dish featuring crispy bacon and tender vegetables",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "parsnips",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425°f (220°c).",
+    "line a baking sheet with parchment paper.",
+    "arrange the chopped vegetables in a single layer on the prepared baking sheet.",
+    "drizzle the vegetables with a tablespoon of olive oil and sprinkle with salt and pepper.",
+    "roast the vegetables in the preheated oven for 25 minutes, or until tender and lightly browned.",
+    "cook the bacon in a large skillet over medium heat until crispy.",
+    "remove the bacon from the skillet and set aside.",
+    "add the chopped vegetables to the same skillet and cook until lightly browned, about 5 minutes.",
+    "serve the roasted vegetables with the crispy bacon on top.",
+    "garnish with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "breakfast",
+    "comfort-food",
+    "high-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 56,
+    "fat": 34
+  },
+  "slug": "yummy-algerian-roast-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-algerian-roast-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:12:39Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "bacon",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "bacon",
+    "descriptor": "yummy",
+    "dishForm": null
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Yellow Creamy Mediterranean Kidney Beans Stew",
+  "description": "A comforting and flavorful stew featuring kidney beans, papillote, and a blend of Mediterranean spices, perfect for a sick day. This macrobiotic-friendly dish is pungent, creamy, and sure to satisfy.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup dried",
+      "notes": "canned can be used as substitute"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried kidney beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked kidney beans, then transfer them to a large pot with enough water to cover them.",
+    "Bring the water to a boil, then reduce the heat to a simmer and cook the kidney beans for 45 minutes or until they are tender.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional 1-2 minutes, until fragrant.",
+    "Stir in the paprika, cumin, coriander, salt, and black pepper, and cook for 1 minute.",
+    "Add the cooked kidney beans, coconut cream, and lemon juice to the skillet, and stir to combine.",
+    "Reduce the heat to low and simmer the stew for 10-15 minutes, until the flavors have melded together and the stew has thickened slightly.",
+    "Taste and adjust the seasoning as needed, then serve the stew hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "macrobiotic",
+    "mediterranean",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellow-creamy-mediterranean-kidney-beans-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-creamy-mediterranean-kidney-beans-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:12:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "papillote",
+    "primaryIngredient": "kidney beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "kidney beans",
+    "descriptor": "Yellow creamy",
+    "dishForm": "Stew"
+  }
+}

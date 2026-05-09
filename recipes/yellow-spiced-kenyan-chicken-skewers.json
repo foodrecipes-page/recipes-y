@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Spiced Kenyan Chicken Skewers",
+  "description": "A flavorful and aromatic Kenyan dish featuring chicken skewers marinated in a blend of spices and grilled to perfection, served solo for a satisfying dinner",
+  "cuisine": "Kenyan",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "birds-eye chillies",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat",
+    "In a large bowl, whisk together yogurt, lemon juice, ghee, turmeric powder, cumin powder, coriander powder, salt, and black pepper",
+    "Add the chopped birds-eye chillies to the bowl and stir to combine",
+    "Add the chicken pieces to the bowl and mix until they are well coated with the marinade",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through",
+    "Serve the skewers hot, garnished with fresh cilantro and a side of steamed vegetables if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "yellow-spiced-kenyan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spiced-kenyan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:41:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "robata-grill",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellow Spiced",
+    "dishForm": "Skewers"
+  }
+}

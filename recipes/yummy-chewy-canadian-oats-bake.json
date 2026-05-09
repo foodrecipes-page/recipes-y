@@ -1,0 +1,93 @@
+{
+  "title": "Yummy Chewy Canadian Oats Bake",
+  "description": "A flexitarian-friendly, fermented, and chewy Canadian dish featuring oats, perfect for midnight cravings. This recipe combines the richness of deglaze-fond with the comfort of oats.",
+  "cuisine": "Canadian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "old-fashioned or quick-cooking"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "deglaze-fond",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine oats and water, then let it sit at room temperature for 8 hours or overnight to ferment.",
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a small bowl, whisk together honey, yeast, and salt.",
+    "Add the honey mixture to the oat mixture and stir until combined.",
+    "Add unsalted butter, apple cider vinegar, and deglaze-fond to the oat mixture and stir until a sticky dough forms.",
+    "Transfer the dough to a 9x9 inch baking dish and bake for 25 minutes.",
+    "Remove from the oven and let it cool for 10 minutes.",
+    "Cut into squares and serve warm.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-dish",
+    "comfort-food",
+    "fermented-food",
+    "flexitarian-friendly",
+    "midnight-craving",
+    "oat-based"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "yummy-chewy-canadian-oats-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-chewy-canadian-oats-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:06:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "oats",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "oats",
+    "descriptor": "yummy chewy",
+    "dishForm": "Bake"
+  }
+}

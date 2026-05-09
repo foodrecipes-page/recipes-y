@@ -8679,6 +8679,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-chewy-canadian-oats-bake",
+    "title": "Yummy Chewy Canadian Oats Bake",
+    "tags": [
+      "canadian-dish",
+      "comfort-food",
+      "fermented-food",
+      "flexitarian-friendly",
+      "midnight-craving",
+      "oat-based"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-chewy-canadian-yam-hash",
     "title": "yummy chewy Canadian yam hash",
     "tags": [

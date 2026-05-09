@@ -1,0 +1,107 @@
+{
+  "title": "Yellowed Crisp Korean Hake Bibimbap",
+  "description": "A roasted, crisp, and comforting Korean dish featuring hake, served in a hot stone plate, low in glycemic index and rich in nutrients.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fried egg",
+      "amount": "1 egg",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the hake fillets with korean chili flakes and let them sit for 10 minutes.",
+    "Heat the sesame oil in a large skillet over medium high heat and sear the hake fillets until crispy and golden brown.",
+    "Transfer the hake fillets to a baking sheet and roast in the oven for 8 minutes or until cooked through.",
+    "In a small bowl, whisk together soy sauce and rice vinegar.",
+    "In a separate pan, stir fry the zucchini and carrots over medium heat until they are tender.",
+    "To assemble the bibimbap, place a scoop of cooked brown rice in the bottom of a hot stone plate.",
+    "Add a piece of the roasted hake on top of the rice, followed by a spoonful of the stir fried vegetables.",
+    "Drizzle the soy sauce and rice vinegar mixture over the top and garnish with chopped green onions and a fried egg if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "korean-cuisine",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-crisp-korean-hake-bibimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-korean-hake-bibimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:21:00Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "hake",
+    "diet": "low-glycemic",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "hake",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Bibimbap"
+  }
+}

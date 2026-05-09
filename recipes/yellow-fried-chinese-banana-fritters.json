@@ -1,0 +1,101 @@
+{
+  "title": "Yellow Fried Chinese Banana Fritters",
+  "description": "A spicy and cozy Chinese dish featuring fried ripe bananas, this recipe is halal-friendly and served in a mason jar.",
+  "cuisine": "Chinese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "preferably yellow cavendish bananas"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tablespoon",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, sugar, salt, and cinnamon.",
+    "In a separate bowl, whisk together eggs and a pinch of salt.",
+    "Add the egg mixture to the dry ingredients and mix until a smooth batter forms.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Dip each banana into the batter, coating completely, then carefully place into the hot oil.",
+    "Fry the bananas for 2-3 minutes on each side, or until golden brown.",
+    "Remove the bananas from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle the fried bananas with sesame seeds and scallions.",
+    "Serve the banana fritters in a mason jar and enjoy immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-recipe",
+    "chinese-dessert",
+    "deep-fried",
+    "halal-friendly",
+    "mason-jar-recipe",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "yellow-fried-chinese-banana-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-fried-chinese-banana-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:58:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "halal",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "bananas",
+    "descriptor": "Yellow Fried",
+    "dishForm": "Fritters"
+  }
+}

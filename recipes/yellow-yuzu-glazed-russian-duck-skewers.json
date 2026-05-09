@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Yuzu Glazed Russian Duck Skewers",
+  "description": "A show-stopping Russian dish featuring yuzu-cured duck, served on a cedar plank with a sweet and tangy yellow yuzu glaze, this recipe is a perfect combination of flavors and presentation, it is also buddhist-temple-friendly as it does not include any forbidden ingredients",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4-6",
+      "notes": "depending on size"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "1",
+      "notes": "cut into wedges"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yuzu juice, honey, soy sauce, garlic, and ginger to make the glaze.",
+    "Add the duck pieces to the bowl and toss to coat with the glaze.",
+    "Thread the duck pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the cedar planks and brush with the remaining glaze.",
+    "Grill the skewers for 10-12 minutes, or until the duck is cooked through.",
+    "Serve the skewers hot, garnished with unwaxed lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled-meats",
+    "russian-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yellow-yuzu-glazed-russian-duck-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yuzu-glazed-russian-duck-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:44:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "duck",
+    "descriptor": "yuzu glazed",
+    "dishForm": "Skewers"
+  }
+}

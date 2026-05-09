@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Smoked Slovakian Chicken Stew",
+  "description": "A rich and hearty Slovakian stew featuring chicken breast, smoked to perfection, served in a fondue pot, perfect for a lazy Sunday. This dish is nut-free and friendly for all to enjoy.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In the fondue pot, heat the chicken broth over medium heat until it starts to simmer.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the minced garlic to the pot and cook for an additional minute.",
+    "Add the chopped carrots and potatoes to the pot and cook for 10 minutes or until they start to tenderize.",
+    "Add the chicken breast to the pot and cook until it reaches an internal temperature of 165 degrees.",
+    "Stir in the smoked paprika, salt, and black pepper.",
+    "Reduce heat to low and let the stew simmer for 20 minutes or until the chicken is fully cooked and the vegetables are tender.",
+    "Stir in the sour cream and let it heat through.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "lazy-sunday",
+    "one-pot",
+    "slovakian-cuisine",
+    "smoked-chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "yellow-smoked-slovakian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoked-slovakian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:22:10Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "smoke",
+    "primaryIngredient": "chicken breast",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken breast",
+    "descriptor": "Yellow Smoked",
+    "dishForm": "Stew"
+  }
+}

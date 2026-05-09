@@ -3565,6 +3565,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-smoked-slovakian-chicken-stew",
+    "title": "Yellow Smoked Slovakian Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "lazy-sunday",
+      "one-pot",
+      "slovakian-cuisine",
+      "smoked-chicken"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-smoked-ukrainian-penne-pasta",
     "title": "Yellow Smoked Ukrainian Penne Pasta",
     "tags": [

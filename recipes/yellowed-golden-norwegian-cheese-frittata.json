@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Golden Norwegian Cheese Frittata",
+  "description": "A Norwegian-inspired brunch dish featuring a golden cheese frittata with herbal notes and a crunchy toffee popcorn topping, perfect for a shojin-friendly meal. This recipe is kneaded to perfection and offers a delightful cheese-pull experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "toffee popcorn",
+      "amount": "1/2 cup crushed"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, salt, black pepper, and garlic powder until well combined.",
+    "Add the shredded norwegian cheese to the bowl and stir until the cheese is fully incorporated.",
+    "Heat the olive oil in a 10-inch oven-safe skillet over medium heat.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "Sprinkle the crushed toffee popcorn and chopped parsley over the top of the frittata.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes or until the eggs are almost set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the edges of the frittata from the skillet.",
+    "Slide the frittata onto a plate and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "cheese-frittata",
+    "herbal-notes",
+    "norwegian-cuisine",
+    "shojin-friendly",
+    "toffee-popcorn"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "yellowed-golden-norwegian-cheese-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-golden-norwegian-cheese-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:03:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "knead",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "Yellowed golden",
+    "dishForm": "Frittata"
+  }
+}

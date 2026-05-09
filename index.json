@@ -7059,6 +7059,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-golden-norwegian-cheese-frittata",
+    "title": "Yellowed Golden Norwegian Cheese Frittata",
+    "tags": [
+      "brunch-recipe",
+      "cheese-frittata",
+      "herbal-notes",
+      "norwegian-cuisine",
+      "shojin-friendly",
+      "toffee-popcorn"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-grassy-british-millet-wrap",
     "title": "Yellowed Grassy British Millet Wrap",
     "tags": [
@@ -10635,6 +10650,20 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-garlicky-uruguayan-bean-empanadas",
+    "title": "Uruguayan Bean Empanadas",
+    "tags": [
+      "baked-goods",
+      "kid-friendly",
+      "snack-time",
+      "south-american",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 140,
     "shard": "y"
   },
   {

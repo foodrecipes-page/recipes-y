@@ -1,0 +1,94 @@
+{
+  "title": "Uruguayan Bean Empanadas",
+  "description": "Garlicky Uruguayan empanadas filled with chilli bean paste, made with long fermentation dough, perfect for kids and adults alike, without onion or garlic for a friendly twist",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "chilli bean paste",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl combine flour, salt, sugar, and yeast to make the dough.",
+    "Add olive oil and warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough ferment in a warm place for 2 hours or until it has doubled in size.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place 1 tablespoon of chilli bean paste in the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with egg wash.",
+    "Bake the empanadas in the preheated oven for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 20,
+  "totalTimeMin": 140,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "kid-friendly",
+    "snack-time",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yummy-garlicky-uruguayan-bean-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-garlicky-uruguayan-bean-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:03:21Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beans",
+    "descriptor": "yummy garlicky",
+    "dishForm": "Empanadas"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "title": "yummy Korean noodles Naengmyeon",
+  "description": "Floral, dense, brunch-mood Korean (Jeju) dish featuring flat rice noodles. Serve chilled for a refreshing meal.",
+  "cuisine": "korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "candied ginger",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "green chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "pearl sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ice-cold water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "korean chili paste gochujang",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped pear",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the flat rice noodles in boiling water for 3-5 minutes, then drain and set aside.",
+    "Chop the candied ginger and set aside.",
+    "In a small bowl, whisk together soy sauce, sesame oil, black pepper, and korean chili paste gochujang.",
+    "In a large bowl, combine the cooked noodles, whisked sauce, chopped scallions, cucumber, and pear.",
+    "Stir in the chopped candied ginger and pearl sugar until well combined.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld together.",
+    "Just before serving, stir in ice-cold water to thin out the noodles and create a refreshing broth.",
+    "Taste and adjust seasoning as needed.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-noodles",
+    "easy-dessert",
+    "korean",
+    "naengmyeon",
+    "summer-dish"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "yummy-korean-noodles-naengmyeon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-korean-noodles-naengmyeon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "candy",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "dash",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "yummy",
+    "dishForm": "Naengmyeon"
+  }
+}

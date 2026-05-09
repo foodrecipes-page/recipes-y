@@ -11792,6 +11792,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-korean-noodles-naengmyeon",
+    "title": "yummy Korean noodles Naengmyeon",
+    "tags": [
+      "cold-noodles",
+      "easy-dessert",
+      "korean",
+      "naengmyeon",
+      "summer-dish"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-kyushu-tomatoes-inari-sushi",
     "title": "Yummy Kyushu Tomatoes Inari Sushi",
     "tags": [
@@ -12596,6 +12610,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-spicy-japanese-pork-noodle-dish",
+    "title": "Yummy Spicy Japanese Pork Noodle Dish",
+    "tags": [
+      "high-protein",
+      "japanese",
+      "one-pan",
+      "ramen",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

@@ -1,0 +1,138 @@
+{
+  "title": "Yummy Spicy Japanese Pork Noodle Dish",
+  "description": "A spicy, creamy, quick-fix Japanese dish featuring light brown soft sugar, grill, and ramen-tonkotsu noodles. Perfect for a weeknight meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "ramen-tonkotsu noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "grapeseed oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2cm",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "light brown soft sugar",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "kombu",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100ml",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat grapeseed oil in a wok over medium-high heat.",
+    "Add onion and ginger and stir-fry until onion is translucent.",
+    "Add pork belly and cook until browned on all sides.",
+    "Add chili flakes and cook for 1 minute.",
+    "Add noodles, kombu, soy sauce, salt, and pepper. Cook for 2-3 minutes or until noodles are cooked through.",
+    "Add water and bring to a boil. Reduce heat to low and simmer for 2 minutes.",
+    "Stir in heavy cream, if using.",
+    "Taste and adjust seasoning with light brown soft sugar.",
+    "Sprinkle with green onions and sesame seeds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "ramen",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "yummy-spicy-japanese-pork-noodle-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-spicy-japanese-pork-noodle-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "grill",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Yummy Spicy",
+    "dishForm": "Noodle Dish"
+  }
+}

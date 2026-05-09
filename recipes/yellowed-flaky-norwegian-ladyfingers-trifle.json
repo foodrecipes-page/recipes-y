@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Flaky Norwegian Ladyfingers Trifle",
+  "description": "A tangy and flaky Norwegian dessert featuring savoiardi ladyfingers, perfect for those looking for a lacto-vegetarian friendly treat. This nostalgic dish is sure to satisfy any sweet tooth.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Savoiardi ladyfingers",
+      "amount": "12-16 pieces",
+      "notes": "dried"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg custard",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh raspberries",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Confectioners sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whip the heavy cream until stiff peaks form.",
+    "In a separate bowl, mix the granulated sugar and egg custard until well combined.",
+    "Add the sugar and custard mixture to the whipped cream and mix until smooth.",
+    "Dip each ladyfinger into the mixture for about 3-5 seconds on each side.",
+    "In a large serving dish, create a layer of ladyfingers.",
+    "Spread a layer of raspberry jam over the ladyfingers.",
+    "Repeat the layers two more times, ending with a layer of whipped cream on top.",
+    "Garnish with fresh raspberries and a sprinkle of confectioners sugar.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle with lemon zest."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "lacto-vegetarian",
+    "ladyfinger-recipes",
+    "norwegian-desserts",
+    "raspberry-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "yellowed-flaky-norwegian-ladyfingers-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-norwegian-ladyfingers-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:51:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "ladyfingers",
+    "descriptor": "Yellowed Flaky",
+    "dishForm": "Trifle"
+  }
+}

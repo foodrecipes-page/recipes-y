@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Grassy British Millet Wrap",
+  "description": "A keto-friendly Welsh dish featuring millet and wrapped in a ssam-style wrap, with a grassy and velvety texture from the combination of millet, spinach, and feta cheese.",
+  "cuisine": "British",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the millet in a fine mesh sieve and drain well.",
+    "In a medium saucepan, bring the water to a boil and add the millet.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "While the millet is cooking, heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the spinach to the skillet and cook until wilted, about 3 minutes.",
+    "Stir in the feta cheese and cook for an additional 2 minutes.",
+    "To assemble the wraps, lay a ssam wrap flat and spoon about 1/2 cup of the cooked millet onto the center of the wrap.",
+    "Top the millet with the spinach and feta mixture, and season with salt to taste.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "easy-meal",
+    "gluten-free",
+    "healthy",
+    "keto-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "yellowed-grassy-british-millet-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-grassy-british-millet-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:27:42Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "millet",
+    "diet": "keto",
+    "region": "welsh",
+    "cuisineAdjective": "British",
+    "mainIngredient": "millet",
+    "descriptor": "Yellowed Grassy",
+    "dishForm": "Wrap"
+  }
+}

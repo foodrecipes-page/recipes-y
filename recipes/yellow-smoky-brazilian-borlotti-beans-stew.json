@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Smoky Brazilian Borlotti Beans Stew",
+  "description": "A salty, tender, and smoky Brazilian dish featuring borlotti beans, perfect for a date night, with a raw-friendly twist",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried borlotti beans and soak them in water for at least 8 hours or overnight",
+    "Drain and rinse the beans, then transfer them to a large pot with enough water to cover them",
+    "Bring the water to a boil, then reduce the heat to a simmer and cook the beans for 45 minutes or until tender",
+    "In a large skillet, heat the coconut oil over medium heat and saute the onion and garlic until softened",
+    "Add the smoked paprika, salt, and black pepper to the skillet and stir to combine",
+    "Add the red bell pepper to the skillet and cook for an additional 2 minutes",
+    "Stir in the cooked borlotti beans and cook for 1 minute",
+    "Taste and adjust the seasoning as needed",
+    "Serve the stew hot, garnished with chopped fresh cilantro"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-smoky-brazilian-borlotti-beans-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoky-brazilian-borlotti-beans-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:38:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "borlotti beans",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "Yellow Smoky",
+    "dishForm": "Stew"
+  }
+}

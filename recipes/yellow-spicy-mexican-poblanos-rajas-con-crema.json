@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Spicy Mexican Poblanos Rajas Con Crema",
+  "description": "A jammy, chewy Mexican dish featuring roasted poblanos, horseradish, and a creamy emulsion sauce, all without onions or garlic.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "prepared horseradish",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or similar"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Roast the poblano peppers in a 400 degree oven for 30 minutes, or until the skin is blistered and charred.",
+    "Remove the peppers from the oven and let them cool, then peel off the skin and remove the seeds and stems.",
+    "Cut the roasted peppers into long, thin strips and set them aside.",
+    "In a blender or food processor, combine the heavy cream, mayonnaise, horseradish, salt, and black pepper, and blend until smooth.",
+    "With the blender or food processor running, slowly add the pasta water and continue blending until the sauce is emulsified and thick.",
+    "In a large skillet, combine the roasted pepper strips and the creamy emulsion sauce, and stir to combine.",
+    "Bring the mixture to a simmer over medium heat and let cook for 5 minutes, or until the sauce has thickened and the peppers are well coated.",
+    "Stir in the grated cheese until it is melted and well combined with the sauce and peppers.",
+    "Taste and adjust the seasoning as needed, then transfer the mixture to a serving dish and top with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-sauce",
+    "gluten-free",
+    "mexican-food",
+    "roasted-vegetables",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "yellow-spicy-mexican-poblanos-rajas-con-crema",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-mexican-poblanos-rajas-con-crema",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:35:36Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "horseradish",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Rajas Con Crema"
+  }
+}

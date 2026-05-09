@@ -1,0 +1,89 @@
+{
+  "title": "Yellowed Dense Jamaican Bread Toast",
+  "description": "A winey, dense, nostalgic Jamaican dish featuring wholegrain bread, yuzu-cure, and low-sodium-friendly ingredients, perfect for a snack or light meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wholegrain bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dark rum",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a small bowl, whisk together yuzu juice, olive oil, salt-free seasoning blend, and grated ginger.",
+    "Place the wholegrain bread slices on a baking sheet lined with parchment paper.",
+    "Brush the yuzu juice mixture evenly onto each bread slice.",
+    "Drizzle honey over the bread slices.",
+    "If using dark rum, brush it onto the bread slices.",
+    "Bake the bread slices in the preheated oven for 10 minutes, or until lightly toasted.",
+    "Remove the bread slices from the oven and let them cool for a few minutes.",
+    "Serve the Yellowed Dense Jamaican Bread Toast warm, garnished with additional grated ginger if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "jamaican-inspired",
+    "low-sodium",
+    "snack-time",
+    "wholegrain",
+    "winey-flavors"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "yellowed-dense-jamaican-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-dense-jamaican-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:46:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "bread",
+    "descriptor": "Yellowed Dense",
+    "dishForm": "Toast"
+  }
+}

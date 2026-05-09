@@ -1,0 +1,84 @@
+{
+  "title": "Yummy Crumbly Ukrainian Taleggio Blini",
+  "description": "A malty, crumbly, one-pot Ukrainian dish featuring taleggio cheese served with sashimi-cut vegetables, perfect for a gluten-free-friendly breakfast or snack. This tandoor clay pot recipe is quick and easy to prepare.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gluten-free oat flour",
+      "amount": "2 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Taleggio cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sashimi-cut carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sashimi-cut beets",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine gluten-free oat flour, taleggio cheese, and a pinch of salt in a large mixing bowl.",
+    "Gradually add 1 cup of water to the mixture to form a crumbly dough.",
+    "Knead the dough for 2 minutes until it comes together in a ball.",
+    "Place the dough in a lightly oiled tandoor clay pot and let it rest for 10 minutes.",
+    "Preheat the oven to 375°F (190°C).",
+    "Bake the dough in the preheated oven for 25 minutes or until it's golden brown and crispy on the outside.",
+    "While the dough is baking, prepare the sashimi-cut vegetables by peeling and cutting them into thin strips.",
+    "Once the dough is done, remove it from the oven and let it cool for 2 minutes.",
+    "Cut the cooled dough into pieces and serve with the prepared sashimi-cut vegetables.",
+    "Garnish with fresh dill for a pop of color and flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "gluten-free",
+    "one-pot",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "yummy-crumbly-ukrainian-taleggio-blini",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crumbly-ukrainian-taleggio-blini",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:06Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "taleggio",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Taleggio",
+    "descriptor": "Yummy Crumbly",
+    "dishForm": "Blini"
+  }
+}

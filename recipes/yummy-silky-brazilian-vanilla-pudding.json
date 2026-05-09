@@ -1,0 +1,84 @@
+{
+  "title": "Yummy Silky Brazilian Vanilla Pudding",
+  "description": "A cultured and silky dessert featuring vanilla pod, this kid-friendly Brazilian dish is perfect for any occasion. It is also macrobiotic-friendly and dehydrated to perfection.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla pods",
+      "amount": "2",
+      "notes": "dried and split lengthwise"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tapioca starch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the coconut milk, maple syrup, and sea salt, and whisk until the salt is dissolved.",
+    "Add the tapioca starch and whisk until it is well combined.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the pudding has thickened.",
+    "Remove the pudding from the heat and stir in the dried vanilla pod.",
+    "Let the pudding cool to room temperature, then cover and refrigerate for at least 2 hours.",
+    "Just before serving, scrape out the vanilla seeds from the pod and stir them into the pudding.",
+    "Serve the pudding chilled, garnished with additional vanilla seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "coconut-based",
+    "dessert",
+    "kid-friendly",
+    "macrobiotic",
+    "vanilla"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "yummy-silky-brazilian-vanilla-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-silky-brazilian-vanilla-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:49:49Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "dehydrate",
+    "primaryIngredient": "vanilla pod",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "vanilla",
+    "descriptor": "yummy silky",
+    "dishForm": "Pudding"
+  }
+}

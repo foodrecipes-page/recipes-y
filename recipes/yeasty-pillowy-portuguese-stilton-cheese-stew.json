@@ -1,0 +1,118 @@
+{
+  "title": "yeasty pillowy portuguese stilton cheese stew",
+  "description": "Hangover-cure portuguese dish featuring stilton cheese, combining yeast fermentation and pillowy texture. Perfect for a post-party breakfast or brunch.",
+  "cuisine": "Portuguese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for gluten-free-friendly option"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Stilton cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a small bowl, let sit for 5 minutes until frothy.",
+    "In a large mixing bowl, whisk together gluten-free flour, all-purpose flour, and salt.",
+    "Melt butter in a small saucepan over low heat, then add to dry ingredients, stirring to combine.",
+    "Gradually add yeast mixture to dry ingredients, stirring until dough comes together.",
+    "Knead dough for 10 minutes until smooth and elastic.",
+    "Transfer dough to a well-oiled bowl, cover with plastic wrap, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat oven to 375°F (190°C).",
+    "Punch down dough and shape into a round, place in a greased 6-quart hot pot or Dutch oven.",
+    "Bake for 35-40 minutes, or until golden brown.",
+    "While bread is baking, melt butter in a small saucepan over medium heat.",
+    "Add milk and bring to a simmer.",
+    "Stir in Stilton cheese until melted and smooth.",
+    "Remove bread from oven and let cool for 5 minutes.",
+    "Dust with parsley if desired, then slice and serve with cheese sauce.",
+    "Divide into 6-8 servings, depending on size of slices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "hangover-cure",
+    "portuguese",
+    "stilton-cheese",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 44,
+    "fat": 20
+  },
+  "slug": "yeasty-pillowy-portuguese-stilton-cheese-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-pillowy-portuguese-stilton-cheese-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:48Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "knead",
+    "primaryIngredient": "stilton cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "stilton cheese",
+    "descriptor": "yeasty pillowy",
+    "dishForm": "stew"
+  }
+}

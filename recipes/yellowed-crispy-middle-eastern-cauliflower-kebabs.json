@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Crispy Middle Eastern Cauliflower Kebabs",
+  "description": "A resinous and crispy Middle Eastern dish featuring coriander seeds and nuka-pickle, perfect for a festive occasion. This ayurvedic-sattvic-friendly recipe is cooked to perfection on a raclette-grill.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coriander seeds, nuka-pickle, olive oil, lemon juice, garlic powder, salt, and black pepper.",
+    "Add the cauliflower florets to the bowl and toss to coat with the marinade.",
+    "Thread the marinated cauliflower onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the raclette-grill and cook for 15-20 minutes, or until the cauliflower is tender and lightly browned.",
+    "Increase the heat to 425 degrees Fahrenheit and cook for an additional 5 minutes, or until the cauliflower is crispy and golden brown.",
+    "Remove the skewers from the grill and serve hot.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower",
+    "crispy",
+    "festive",
+    "gluten-free",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "yellowed-crispy-middle-eastern-cauliflower-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-middle-eastern-cauliflower-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:51:07Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "coriander seeds",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Kebabs"
+  }
+}

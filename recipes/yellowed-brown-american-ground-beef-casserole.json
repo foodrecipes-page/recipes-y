@@ -1,0 +1,108 @@
+{
+  "title": "Yellowed Brown American Ground Beef Casserole",
+  "description": "A classic American casserole featuring ground beef, shio-koji, and beurre-monte, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 or 70/30 lean to fat ratio works well"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the shio-koji and beurre-monte, cooking for 1 minute.",
+    "Add the frozen peas and carrots to the skillet and cook until thawed.",
+    "In a separate saucepan, whisk together the milk and flour, cooking over medium heat until the mixture thickens.",
+    "Remove the sauce from the heat and stir in the shredded cheddar cheese until melted and smooth.",
+    "In a large mixing bowl, combine the cooked ground beef mixture, the cheese sauce, and the salt and pepper, stirring until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "american-classic",
+    "casserole",
+    "comfort-food",
+    "ground-beef",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-brown-american-ground-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-brown-american-ground-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:01:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "beurre-monte",
+    "primaryIngredient": "shio-koji",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "ground beef",
+    "descriptor": "Yellowed Brown",
+    "dishForm": "Casserole"
+  }
+}

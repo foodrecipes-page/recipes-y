@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Herb Dutch Fish Gratin",
+  "description": "A briny and indulgent Dutch dish featuring tarragon leaves, en-croute, and fish, cooked to perfection in a tandoor clay pot. This nut-free-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "4 fillets",
+      "notes": "fresh and skinless"
+    },
+    {
+      "name": "tarragon leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 375 degrees Fahrenheit.",
+    "Season the cod fish fillets with salt, black pepper, and lemon juice.",
+    "In a large skillet, melt the butter over medium heat and saute the garlic until fragrant.",
+    "Add the chopped tarragon leaves to the skillet and cook for 1 minute.",
+    "Place the cod fish fillets in the skillet and cook for 2 minutes on each side.",
+    "Transfer the fish to the tandoor clay pot and top with the cream and shredded gruyere cheese.",
+    "Cover the pot with a lid and bake for 15 minutes.",
+    "Remove the lid and continue baking for an additional 5 minutes, or until the cheese is golden brown.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "fish-recipes",
+    "gratin",
+    "special-occasion",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "yellow-herb-dutch-fish-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-herb-dutch-fish-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:46:55Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "en-croute",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "Yellow Herb",
+    "dishForm": "Gratin"
+  }
+}

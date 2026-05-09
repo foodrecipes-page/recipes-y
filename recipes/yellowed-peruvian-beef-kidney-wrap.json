@@ -1,0 +1,106 @@
+{
+  "title": "Yellowed Peruvian Beef Kidney Wrap",
+  "description": "A sour and indulgent Peruvian dish featuring beef kidney and rest-meat, wrapped in a corn husk, this satvik-friendly meal is a unique blend of flavors and textures. The glassy-jelly like texture comes from the use of aji amarillo pepper sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1/2 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "4 peppers",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "corn husks",
+      "amount": "8 husks",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, puree the aji amarillo peppers, onion, garlic, and lime juice to make the sauce.",
+    "In a large skillet, heat the olive oil over medium-high heat and sear the beef kidney and rest-meat until browned.",
+    "Add the pepper sauce to the skillet and stir to coat the meat.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "Assemble the wraps by spooning the meat mixture onto a corn husk and folding the husk to enclose.",
+    "Place the wraps on a baking sheet and bake for 15 minutes.",
+    "Serve the wraps hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-kidney",
+    "corn-husk-wrap",
+    "glassy-jelly",
+    "indulgent",
+    "peruvian-cuisine",
+    "satvik-friendly",
+    "sour-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-peruvian-beef-kidney-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-peruvian-beef-kidney-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:34:43Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "beef kidney",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Yellowed Indulgent",
+    "dishForm": "Wrap"
+  }
+}

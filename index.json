@@ -4807,6 +4807,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spiced-egyptian-chicken-leg-tagine",
+    "title": "Yellow Spiced Egyptian Chicken Leg Tagine",
+    "tags": [
+      "comfort-food",
+      "middle-eastern",
+      "one-pot",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 65,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spiced-egyptian-lamb-kebabs",
     "title": "Yellow Spiced Egyptian Lamb Kebabs",
     "tags": [

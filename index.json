@@ -9120,6 +9120,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-greek-paired-with-pastry",
+    "title": "Yummy Greek Paired with Pastry",
+    "tags": [
+      "easy-snack",
+      "greek",
+      "halal",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-grilled-argentinian-chicken-grill",
     "title": "yummy grilled argentinian chicken grill",
     "tags": [

@@ -1,0 +1,113 @@
+{
+  "title": "Yummy Greek Paired with Pastry",
+  "description": "A charred and crisp Greek dish featuring parma ham, finished with an al-dente finish. Ideal for a halal-friendly meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "parma ham",
+      "amount": "6 slices"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 block, crumbled"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint, halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "eggs, beaten",
+      "amount": "4",
+      "notes": "for pastry"
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": "for pastry"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the dough to a thickness of 1/4 inch (6 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of feta cheese in the center of each dough circle.",
+    "Add a few cherry tomato halves and a sprinkle of parsley on top of the cheese.",
+    "Fold the dough over the filling and press the edges together with a fork.",
+    "Brush the tops of the pastry with a little water and sprinkle with salt.",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown.",
+    "While the pastry is baking, heat a large skillet over medium-high heat.",
+    "Add the sliced parma ham and cook for 2-3 minutes on each side, or until crispy.",
+    "Remove the pastry from the oven and let cool for a few minutes.",
+    "Serve the charred parma ham on top of the pastry, with a dollop of feta cheese on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "greek",
+    "halal",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yummy-greek-paired-with-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-greek-paired-with-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T05:16:22Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "parma ham",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Parma Ham",
+    "descriptor": "Crisp Charred",
+    "dishForm": "Pita"
+  }
+}

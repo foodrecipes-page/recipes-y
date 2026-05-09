@@ -1,0 +1,92 @@
+{
+  "title": "Yellowed Saudi Arabian Cheese Flatbread",
+  "description": "A nostalgic Saudi Arabian dish featuring cardamom and a long fermentation dough, perfect for a snack or light meal. This egg-free friendly flatbread is filled with melted cheese and has a delicious cheese pull.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Saudi Arabian cheese",
+      "amount": "1 cup",
+      "notes": "or similar cheese like akkawi or halloumi"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "Gradually add warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 2 hours.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Punch down the dough and divide it into 4-6 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a quarter cup of Saudi Arabian cheese in the center of each circle.",
+    "Sprinkle a pinch of cardamom powder over the cheese.",
+    "Fold the dough over the cheese to form a half-moon shape and press the edges to seal.",
+    "Cook the flatbread for 2-3 minutes on each side, until it is golden brown and the cheese is melted."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cardamom",
+    "cheese-pull",
+    "flatbread",
+    "long-fermentation",
+    "middle-eastern",
+    "saudi-arabian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "yellowed-saudi-arabian-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-saudi-arabian-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:10:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cardamom",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "cheese",
+    "descriptor": "Yellowed",
+    "dishForm": "Flatbread"
+  }
+}

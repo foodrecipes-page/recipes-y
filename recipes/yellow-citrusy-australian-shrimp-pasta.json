@@ -1,0 +1,103 @@
+{
+  "title": "Yellow Citrusy Australian Shrimp Pasta",
+  "description": "A floral and springy Australian dish featuring shrimp, citrus, and shredded coconut, perfect for a romantic dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions",
+    "In a large skillet, heat the coconut oil over medium heat and add the garlic and cook for 1 minute",
+    "Add the shrimp to the skillet and cook for 2-3 minutes per side, until pink and cooked through",
+    "Remove the shrimp from the skillet and set aside, leaving the garlic and oil in the skillet",
+    "Add the lemon zest and juice to the skillet and stir to combine",
+    "Add the shredded coconut to the skillet and stir to combine",
+    "Add the cooked pasta to the skillet and toss to combine with the lemon and coconut mixture",
+    "Return the shrimp to the skillet and toss to combine with the pasta and sauce",
+    "Season with salt and pepper to taste",
+    "Garnish with chopped fresh parsley and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "coconut-based",
+    "paleo-friendly",
+    "romantic-dinner",
+    "seafood",
+    "spring-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-citrusy-australian-shrimp-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-citrusy-australian-shrimp-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:49:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "shredded coconut",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Pasta"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Yummy Creamy Egyptian Green Pepper Tagine",
+  "description": "A tangy and creamy Egyptian dish featuring green peppers and candy, perfect for a romantic dinner, and is Jain-friendly as it does not contain any animal products or by-products.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Candy",
+      "amount": "1 cup",
+      "notes": "dates or apricots work well"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the green peppers and cook until they start to soften.",
+    "Add the ground ginger, ground cumin, salt, and black pepper, and stir well.",
+    "Add the candy and stir well.",
+    "Pour in the coconut cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the tagine cook for 20 minutes.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "jain-friendly",
+    "north-african",
+    "one-pot",
+    "romantic-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yummy-creamy-egyptian-green-pepper-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-creamy-egyptian-green-pepper-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:11:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "candy",
+    "primaryIngredient": "green pepper",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "green pepper",
+    "descriptor": "yummy creamy",
+    "dishForm": "Tagine"
+  }
+}

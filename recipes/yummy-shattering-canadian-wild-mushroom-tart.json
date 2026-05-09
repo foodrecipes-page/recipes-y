@@ -1,0 +1,128 @@
+{
+  "title": "Yummy Shattering Canadian Wild Mushroom Tart",
+  "description": "A lacto-vegetarian tart featuring Canadian wild mushrooms, topped with a shattering meringue and encased in a flaky pastry crust.",
+  "cuisine": "Canadian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian wild mushrooms (such as chanterelle or matsutake)",
+      "amount": "400g",
+      "notes": "Roughly chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For pastry crust"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "Chilled and cubed"
+    },
+    {
+      "name": "Sherry",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": "For glaze"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 cup",
+      "notes": "For meringue"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For meringue"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For pastry crust"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For filling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Make the pastry crust by combining flour, salt, and cubed butter in a bowl. Use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add cold water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Form the dough into a flat disc and wrap it in plastic wrap. Refrigerate for at least 30 minutes.",
+    "On a lightly floured surface, roll out the chilled pastry dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom. Trim the edges and press the dough into the corners of the pan.",
+    "Prick the bottom of the crust with a fork to prevent it from bubbling during baking.",
+    "Line the crust with parchment paper and fill with pie weights or dried beans.",
+    "Bake the crust for 15 minutes, then remove the parchment paper and pie weights or beans.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat. Add the sliced onion and cook, stirring occasionally, until it is softened and lightly browned.",
+    "Add the chopped mushrooms to the skillet and cook, stirring occasionally, until they release their liquid and start to brown.",
+    "Add the minced garlic, sherry (if using), and salt to the skillet. Cook, stirring constantly, for 1 minute.",
+    "In a small bowl, whisk together the miso paste and a splash of water until smooth. Brush the mixture over the filling.",
+    "Make the meringue by whipping the egg whites and confectioners' sugar in a clean bowl until stiff peaks form.",
+    "Spoon the meringue over the filling, spreading it evenly to cover the entire surface.",
+    "Bake the tart for an additional 20-25 minutes, or until the meringue is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 45,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "fancy",
+    "high-protein",
+    "one-pan",
+    "tart",
+    "weeknight",
+    "wild-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 24
+  },
+  "slug": "yummy-shattering-canadian-wild-mushroom-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-shattering-canadian-wild-mushroom-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T11:14:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "meringue nests",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "wild mushroom",
+    "descriptor": "yummy shattering",
+    "dishForm": "Tart"
+  }
+}

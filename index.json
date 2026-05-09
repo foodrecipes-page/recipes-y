@@ -2897,6 +2897,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-gooey-moroccan-oysters-tagine",
+    "title": "Yellow Gooey Moroccan Oysters Tagine",
+    "tags": [
+      "mediterranean",
+      "moroccan",
+      "one-pot",
+      "seafood",
+      "spicy"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-grassy-korean-duck-bokkeum",
     "title": "Yellow Grassy Korean Duck Bokkeum",
     "tags": [
@@ -10772,6 +10786,22 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-shattering-canadian-wild-mushroom-tart",
+    "title": "Yummy Shattering Canadian Wild Mushroom Tart",
+    "tags": [
+      "canadian",
+      "fancy",
+      "high-protein",
+      "one-pan",
+      "tart",
+      "weeknight",
+      "wild-mushrooms"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 90,
     "shard": "y"
   },
   {

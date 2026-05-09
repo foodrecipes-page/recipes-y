@@ -4348,6 +4348,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-smoked-korean-cod-skewers",
+    "title": "Yellow Smoked Korean Cod Skewers",
+    "tags": [
+      "canadian-fusion",
+      "copper-cooked",
+      "grilled",
+      "healthy",
+      "korean-inspired",
+      "seafood"
+    ],
+    "cuisine": "Canadian-Korean",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-smoked-moroccan-turkey-tagine",
     "title": "Yellow Smoked Moroccan Turkey Tagine",
     "tags": [

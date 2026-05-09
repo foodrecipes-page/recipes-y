@@ -1,0 +1,105 @@
+{
+  "title": "Yellow Smoked Korean Cod Skewers",
+  "description": "A light and flaky Canadian dish featuring smoked cod, ssamjang, and ayurvedic-rajasic-friendly ingredients, served in a copper mug.",
+  "cuisine": "Canadian-Korean",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together ssamjang, soy sauce, brown sugar, garlic, ginger, smoked paprika, lemon juice, and olive oil.",
+    "Add the cod pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated cod onto skewers, leaving a small space between each piece.",
+    "Season the cod with salt and black pepper.",
+    "Grill the skewers for 8-10 minutes, or until the cod is cooked through and flakes easily with a fork.",
+    "Serve the skewers in a copper mug, garnished with chopped green onions and a side of steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-fusion",
+    "copper-cooked",
+    "grilled",
+    "healthy",
+    "korean-inspired",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "yellow-smoked-korean-cod-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-smoked-korean-cod-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:54:45Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "ssamjang",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cod",
+    "descriptor": "Yellow Smoked",
+    "dishForm": "Skewers"
+  }
+}

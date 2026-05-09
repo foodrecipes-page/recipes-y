@@ -2431,6 +2431,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-dense-dutch-nduja-stew",
+    "title": "Yellow Dense Dutch Nduja Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "low-fat",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-dense-japanese-gobo-burdock-wagashi",
     "title": "Yellow Dense Japanese Gobo Burdock Wagashi",
     "tags": [

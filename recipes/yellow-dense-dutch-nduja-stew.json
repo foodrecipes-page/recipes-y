@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Dense Dutch Nduja Stew",
+  "description": "A pungent and dense Dutch dish featuring nduja, perfect for midnight cravings, made with a mirepoix base and low-fat-friendly ingredients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "200g",
+      "notes": "spicy fermented sausage"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add the chopped onion, carrot, and celery, cooking until the vegetables are tender.",
+    "Add the nduja to the pot, breaking it up with a spoon as it cooks, until it is no longer raw.",
+    "Pour in the chicken broth, scraping up any browned bits from the bottom of the pot.",
+    "Add the diced potato, turmeric, salt, and black pepper to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, until the potatoes are tender.",
+    "Use an immersion blender to puree the stew until it is mostly smooth, or allow it to cool and puree it in a blender.",
+    "Stir in the chopped parsley and serve the stew hot.",
+    "Garnish with additional parsley, if desired.",
+    "Serve with crusty bread or over rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "low-fat",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "yellow-dense-dutch-nduja-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-dense-dutch-nduja-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:28:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "nduja",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "nduja",
+    "descriptor": "Yellow Dense",
+    "dishForm": "Stew"
+  }
+}

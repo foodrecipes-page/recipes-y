@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Spicy Saudi Arabian Lamb Wrap",
+  "description": "A pungent and springy Saudi Arabian dish featuring peach juice and ssam wrap, perfect for a date night, this keto friendly recipe is sure to impress",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "yellow curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a blender, combine peach juice, yellow curry powder, ghee, garlic, ginger, cayenne pepper, and salt, and blend until smooth",
+    "Place the lamb shoulder in a large bowl and brush the curry mixture all over it",
+    "Wrap the lamb in foil and roast in the oven for 20 minutes per pound",
+    "Remove the lamb from the oven and let it rest for 10 minutes",
+    "Slice the lamb into thin strips",
+    "Warm the ssam wrap pieces by wrapping them in a damp paper towel and microwaving for 20 seconds",
+    "Assemble the wrap by placing a few slices of lamb onto a piece of ssam wrap and serving immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "keto-friendly",
+    "lamb-recipes",
+    "low-carb",
+    "saudi-arabian",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "yellow-spicy-saudi-arabian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-saudi-arabian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:39:23Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "peach juice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Wrap"
+  }
+}

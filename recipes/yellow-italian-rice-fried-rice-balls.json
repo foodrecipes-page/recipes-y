@@ -1,0 +1,114 @@
+{
+  "title": "Yellow Italian Rice Fried-Rice Balls",
+  "description": "A creative twist on traditional arancini, these crispy fried rice balls are filled with a rich creme patissiere, then glazed with a sweet and sticky sauce.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked yellow rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "creme patissiere",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "a few drops"
+    },
+    {
+      "name": "glaze (see below)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Combine cooked rice, butter, and parmesan cheese in a large mixing bowl.",
+    "In a separate bowl, whisk together flour and egg.",
+    "Add the flour mixture to the rice mixture and stir until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Spoon a small amount of creme patissiere into the center of each disk.",
+    "Fold the dough over the filling and shape into a ball, making sure the seams are sealed.",
+    "Heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat.",
+    "When the oil is hot, add the rice balls, a few at a time, and fry until golden brown, about 3-4 minutes per side.",
+    "Drain the fried rice balls on paper towels and let cool for a few minutes.",
+    "Glaze the rice balls with the glaze (see below) and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "arancini",
+    "creme-patissiere",
+    "fried-rice",
+    "glaze",
+    "italian",
+    "yellow-food-coloring"
+  ],
+  "nutrition": {
+    "calories": 322,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "glaze": {
+    "description": "A sweet and sticky glaze made with honey, lemon juice, and powdered sugar.",
+    "ingredients": [
+      {
+        "name": "honey",
+        "amount": "1 cup"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "2 tablespoons"
+      },
+      {
+        "name": "powdered sugar",
+        "amount": "2 tablespoons"
+      }
+    ],
+    "instructions": [
+      "Combine honey, lemon juice, and powdered sugar in a small saucepan.",
+      "Heat the mixture over medium heat, stirring constantly, until the sugar has dissolved.",
+      "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for about 5 minutes, or until the glaze has thickened slightly."
+    ]
+  },
+  "slug": "yellow-italian-rice-fried-rice-balls",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-italian-rice-fried-rice-balls",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T02:49:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Rice",
+    "descriptor": "Yellow",
+    "dishForm": "Fried-Rice Balls"
+  }
+}

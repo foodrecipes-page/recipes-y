@@ -2674,6 +2674,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-italian-rice-fried-rice-balls",
+    "title": "Yellow Italian Rice Fried-Rice Balls",
+    "tags": [
+      "arancini",
+      "creme-patissiere",
+      "fried-rice",
+      "glaze",
+      "italian",
+      "yellow-food-coloring"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-kenyan-pumpkin-seeds-tagine",
     "title": "Yellow Kenyan Pumpkin Seeds Tagine",
     "tags": [

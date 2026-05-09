@@ -1,0 +1,88 @@
+{
+  "title": "Yellow Fluffy Jamaican Yam Flatbread",
+  "description": "A rich and fluffy flatbread featuring Jamaican yam, olive oil, and a long-fermentation dough, perfect for a comforting snack or side dish. This egg-free-friendly recipe is great for those with dietary restrictions.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jamaican yam",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated yam, olive oil, yeast, and warm water, and let it sit for 24 hours to allow for long fermentation.",
+    "After the fermentation period, add the flour, salt, and sugar to the bowl and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 2 hours.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 4-6 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a flat disc using a rolling pin or your hands.",
+    "Cook the flatbreads for 2-3 minutes on each side, until they are golden brown and fluffy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flatbread",
+    "jamaican-cuisine",
+    "long-fermentation",
+    "vegetarian-friendly",
+    "yam-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "yellow-fluffy-jamaican-yam-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-fluffy-jamaican-yam-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:29:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "olive oil",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "yams",
+    "descriptor": "Yellow Fluffy",
+    "dishForm": "Flatbread"
+  }
+}

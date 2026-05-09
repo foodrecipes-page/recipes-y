@@ -2209,6 +2209,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-fluffy-jamaican-yam-flatbread",
+    "title": "Yellow Fluffy Jamaican Yam Flatbread",
+    "tags": [
+      "comfort-food",
+      "flatbread",
+      "jamaican-cuisine",
+      "long-fermentation",
+      "vegetarian-friendly",
+      "yam-based"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-fluffy-moroccan-avocado-chebakia",
     "title": "Yellow Fluffy Moroccan Avocado Chebakia",
     "tags": [

@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Velvety British Lamb Sunday Roast",
+  "description": "A savory and velvety British dish featuring lamb, kinako, and tandoor spices, perfect for a special Sunday roast, with anti-inflammatory friendly ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "boneless"
+    },
+    {
+      "name": "kinako",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "60 ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220 degrees Celsius.",
+    "In a small bowl, mix together kinako, tandoor spice mix, turmeric, and ginger.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe pot over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, then remove it from the pot.",
+    "Add the chopped onion to the pot and cook until it is softened and lightly browned.",
+    "Add the minced garlic to the pot and cook for an additional minute.",
+    "Return the lamb shoulder to the pot and add enough water to cover the bottom of the pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the lamb for 2.5 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let the lamb rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "british-cuisine",
+    "dairy-free",
+    "gluten-free",
+    "lamb-recipes",
+    "special-occasion",
+    "sunday-roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "yellowed-velvety-british-lamb-sunday-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-velvety-british-lamb-sunday-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:16:55Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "kinako",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Velvety",
+    "dishForm": "Sunday Roast"
+  }
+}

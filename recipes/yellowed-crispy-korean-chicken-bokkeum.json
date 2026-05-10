@@ -1,0 +1,101 @@
+{
+  "title": "Yellowed Crispy Korean Chicken Bokkeum",
+  "description": "A high-protein Korean dish featuring crispy chicken, peppercorns, and umami flavors, served in a terracotta dish.",
+  "cuisine": "Korean",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, rice vinegar, sesame oil, crushed peppercorns, garlic, and ginger to make the marinade.",
+    "Add the chicken to the marinade and mix well to coat, then cover and refrigerate for 30 minutes.",
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Remove the chicken from the marinade and coat with cornstarch, shaking off excess.",
+    "Air fry the chicken for 10 minutes, or until crispy and golden brown.",
+    "In a small bowl, whisk together 1 tablespoon of water and 1 tablespoon of cornstarch to make a slurry.",
+    "Add the slurry to the air fryer and stir to coat the chicken evenly.",
+    "Air fry for an additional 2 minutes, or until the sauce is bubbly and slightly caramelized.",
+    "Transfer the chicken to a terracotta dish and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "high-protein",
+    "korean",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "yellowed-crispy-korean-chicken-bokkeum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-korean-chicken-bokkeum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:11:51Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "air-fry",
+    "primaryIngredient": "peppercorns",
+    "diet": "high-protein",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Bokkeum"
+  }
+}

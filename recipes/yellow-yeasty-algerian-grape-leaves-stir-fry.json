@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Yeasty Algerian Grape Leaves Stir Fry",
+  "description": "A Jain-friendly, solo-dinner Algerian dish featuring grape leaves and a stir-fry, served on a talavera plate, with a yeasty and crunchy texture.",
+  "cuisine": "Algerian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grape leaves",
+      "amount": "12 large leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Start by rinsing the grape leaves and cutting off the stems.",
+    "In a large bowl, mix together the yeast, olive oil, chopped onion, minced garlic, salt, and black pepper.",
+    "Add the grape leaves to the bowl and mix well to coat with the yeast mixture.",
+    "Heat a large skillet over medium heat and add the grape leaves, cooking for 5 minutes on each side.",
+    "In a small bowl, mix together the lemon juice and water, and pour the mixture over the grape leaves.",
+    "Continue cooking for an additional 5 minutes, stirring frequently, until the grape leaves are tender and slightly caramelized.",
+    "Remove the skillet from the heat and let the grape leaves cool for a few minutes.",
+    "Serve the grape leaves hot on a talavera plate, garnished with additional lemon juice if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "crunchy",
+    "jain-friendly",
+    "stir-fry",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "yellow-yeasty-algerian-grape-leaves-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-yeasty-algerian-grape-leaves-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:06:37Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "grape leaves",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "grape leaves",
+    "descriptor": "yeasty crunchy",
+    "dishForm": "Stir-fry"
+  }
+}

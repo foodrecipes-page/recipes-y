@@ -1527,6 +1527,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-canadian-lentil-grill",
+    "title": "Yellow Canadian Lentil Grill",
+    "tags": [
+      "canadian-cuisine",
+      "fodmap-friendly",
+      "grilled-vegetables",
+      "healthy-dinner",
+      "lentil-recipes",
+      "summer-recipes"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-caramelized-moroccan-reblochon-tagine",
     "title": "Yellow Caramelized Moroccan Reblochon Tagine",
     "tags": [

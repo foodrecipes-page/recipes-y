@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Creamy Southern Thai Lardons Kanom Jeen",
+  "description": "A winey and creamy Southern Thai dish featuring khus khus and lardons, perfect for a date night, this ayurvedic-tamasic-friendly kanom jeen is a unique blend of flavors and textures. The combination of ingredients creates a rich and satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "khus khus",
+      "amount": "1/2 cup",
+      "notes": "also known as poppy seeds"
+    },
+    {
+      "name": "lardons",
+      "amount": "1 cup",
+      "notes": "rendered pork fat"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "kanom jeen style"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium heat.",
+    "Add the sliced galangal and cook until fragrant.",
+    "Add the lardons and cook until crispy.",
+    "Add the khus khus and cook for 1 minute.",
+    "Add the coconut milk, fish sauce, palm sugar, and turmeric, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Cook the rice noodles according to package instructions.",
+    "Combine the cooked noodles and the creamy sauce, and season with salt to taste.",
+    "Serve the kanom jeen hot, garnished with additional khus khus and galangal if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-sauce",
+    "date-night",
+    "kanom-jeen",
+    "lardons",
+    "southern-thai",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "yellow-creamy-southern-thai-lardons-kanom-jeen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-creamy-southern-thai-lardons-kanom-jeen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:44:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "lardons-render",
+    "primaryIngredient": "khus khus",
+    "diet": "ayurvedic-tamasic",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "lardons",
+    "descriptor": "Yellow Creamy",
+    "dishForm": "Kanom Jeen"
+  }
+}

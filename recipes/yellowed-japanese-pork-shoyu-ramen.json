@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Japanese Pork Shoyu Ramen",
+  "description": "A bitter and crumbly Japanese dish featuring ground cumin and miso-marinate, served in a paella pan as a ramen-shoyu style meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat content"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "shoyu sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the paella pan over medium-high heat and cook the ground pork until browned, breaking it up into small pieces as it cooks.",
+    "In a small bowl, whisk together the miso paste, ground cumin, and shoyu sauce, then add the mixture to the pan and stir to combine.",
+    "Add the chicken broth to the pan and bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Cook the ramen noodles according to the package instructions and set aside.",
+    "Add the cooked noodles to the pan and stir to combine with the pork and broth mixture.",
+    "Season with soy sauce to taste, then garnish with green onions and serve.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together.",
+    "Serve hot and enjoy.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "nut-free",
+    "one-pan",
+    "pork-recipes",
+    "ramen-recipes",
+    "shoyu-sauce"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "yellowed-japanese-pork-shoyu-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-japanese-pork-shoyu-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:24:09Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "miso-marinate",
+    "primaryIngredient": "ground cumin",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Yellowed Crumbly",
+    "dishForm": "Shoyu Ramen"
+  }
+}

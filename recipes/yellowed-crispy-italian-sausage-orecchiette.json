@@ -1,0 +1,105 @@
+{
+  "title": "Yellowed Crispy Italian Sausage Orecchiette",
+  "description": "A high-protein Italian dish featuring crispy Italian sausage and orecchiette pasta, perfect for a weeknight dinner. This recipe incorporates vegetable shortening and a robata-grill for a unique flavor and texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "orecchiette pasta",
+      "amount": "12 oz",
+      "notes": "dry"
+    },
+    {
+      "name": "Italian sausage",
+      "amount": "1 lb",
+      "notes": "sweet or hot"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "Cook the orecchiette pasta according to package instructions until al dente.",
+    "In a large skillet, heat the vegetable shortening over medium-high heat.",
+    "Add the Italian sausage to the skillet and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the olive oil, cherry tomatoes, salt, black pepper, and garlic powder to the skillet and cook for 3 minutes.",
+    "Add the cooked orecchiette pasta to the skillet and toss to combine with the tomato mixture.",
+    "Add the cooked Italian sausage back to the skillet and toss to combine with the pasta and tomato mixture.",
+    "Transfer the pasta mixture to the preheated robata-grill and cook for 2 minutes, or until the top is lightly browned and crispy.",
+    "Remove the pasta from the grill and top with shredded grana padano cheese.",
+    "Return the pasta to the grill and cook for an additional 1-2 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-food",
+    "one-pan",
+    "pasta-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "yellowed-crispy-italian-sausage-orecchiette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-italian-sausage-orecchiette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:46:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "robata-grill",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sausage",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Orecchiette"
+  }
+}

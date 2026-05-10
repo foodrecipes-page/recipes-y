@@ -1,0 +1,93 @@
+{
+  "title": "Yellow Crunchy American Apple Casserole",
+  "description": "A sweet and crunchy American dish featuring apple juice, perfect for a date-night dessert, with a Mediterranean-friendly twist using score-fat.",
+  "cuisine": "American",
+  "diet": [
+    "mediterranean",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apple juice",
+      "amount": "2 cups",
+      "notes": "fresh or bottled"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and score-fat until well combined.",
+    "Add the cold unsalted butter and use a pastry blender to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "In a separate bowl, whisk together the apple juice, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Fold in the chopped walnuts.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake for 40 minutes, or until the casserole is golden brown and set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "comfort-food",
+    "crunchy-topped",
+    "date-night",
+    "fruit-based",
+    "mediterranean-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "yellow-crunchy-american-apple-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crunchy-american-apple-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:02:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "apple juice",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "apples",
+    "descriptor": "Yellow Crunchy",
+    "dishForm": "Casserole"
+  }
+}

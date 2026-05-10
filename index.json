@@ -2769,6 +2769,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-fermented-japanese-fish-ramen",
+    "title": "Yellow Fermented Japanese Fish Ramen",
+    "tags": [
+      "comfort-food",
+      "fermented-foods",
+      "fish-based",
+      "flexitarian-friendly",
+      "japanese-cuisine"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-flaky-american-corn-flatbread",
     "title": "Yellow Flaky American Corn Flatbread",
     "tags": [

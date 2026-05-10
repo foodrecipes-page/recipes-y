@@ -1,0 +1,104 @@
+{
+  "title": "Yellow Fermented Japanese Fish Ramen",
+  "description": "A creamy and bitter Japanese fish ramen dish featuring fish sauce and fermented ingredients, perfect for a hangover cure. This flexitarian-friendly meal is a unique twist on traditional ramen.",
+  "cuisine": "Japanese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Aekjeot",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fermented soybean paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Soft boiled egg",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Grilled cod fish",
+      "amount": "120g",
+      "notes": "flaked"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the ramen noodles according to the package instructions.",
+    "In a small bowl, whisk together the fish sauce, aekjeot, and fermented soybean paste.",
+    "Heat the sesame oil in a large skillet over medium heat and add the green onions and bok choy.",
+    "Cook the green onions and bok choy until they are softened, about 3 minutes.",
+    "Add the pickled ginger to the skillet and cook for an additional minute.",
+    "To assemble the ramen, place the cooked noodles in a bowl and add the flaked cod fish, soft boiled egg, and cooked green onions and bok choy.",
+    "Pour the fish sauce mixture over the top of the ramen and serve immediately.",
+    "Garnish with additional green onions and pickled ginger if desired.",
+    "Serve the ramen hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fermented-foods",
+    "fish-based",
+    "flexitarian-friendly",
+    "japanese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yellow-fermented-japanese-fish-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-fermented-japanese-fish-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:23:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fish",
+    "descriptor": "Yellow Fermented",
+    "dishForm": "Ramen"
+  }
+}

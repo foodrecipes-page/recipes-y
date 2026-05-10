@@ -2639,6 +2639,22 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-dense-vietnamese-semolina-banh-mi",
+    "title": "Yellow Dense Vietnamese Semolina Banh Mi",
+    "tags": [
+      "banh-mi",
+      "fried-tofu",
+      "one-pan",
+      "plant-based",
+      "semolina",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-earthy-american-beetroot-hash",
     "title": "Yellow Earthy American Beetroot Hash",
     "tags": [
@@ -6641,6 +6657,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-chinese-tomatoes-toast",
+    "title": "Yellowed Chinese Tomatoes Toast",
+    "tags": [
+      "brunch",
+      "chinese",
+      "lacto-vegetarian",
+      "quick",
+      "simple",
+      "toasty"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

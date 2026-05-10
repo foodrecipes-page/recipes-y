@@ -1,0 +1,95 @@
+{
+  "title": "Yellowed Chinese Tomatoes Toast",
+  "description": "A salty, aerated, lacto-vegetarian-friendly Chinese dish featuring chopped tomatoes and toast, perfect for a brunch mood.",
+  "cuisine": "Chinese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "white"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "Butter the bread slices on both sides.",
+    "Place the bread slices on a baking sheet and bake for 5 minutes.",
+    "While the bread is baking, heat the soy sauce and garlic in a pan over medium heat.",
+    "Add the chopped tomatoes to the pan and stir to combine.",
+    "Season the tomato mixture with salt and pepper to taste.",
+    "Remove the bread from the oven and top each slice with the tomato mixture.",
+    "Sprinkle the chopped green onions over the top of each slice.",
+    "Serve the Yellowed Chinese Tomatoes Toast hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "chinese",
+    "lacto-vegetarian",
+    "quick",
+    "simple",
+    "toasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "yellowed-chinese-tomatoes-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-chinese-tomatoes-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:47:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Yellowed",
+    "dishForm": "Toast"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Light Ukrainian Ciabatta Toast",
+  "description": "A light and cozy Ukrainian dish featuring ciabatta toast with a jammy twist, perfect for a snack or breakfast, this dish is also low fat friendly and features sashimi cut ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ciabatta bread",
+      "amount": "1 loaf",
+      "notes": "day old bread"
+    },
+    {
+      "name": "strawberry jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sashimi cut cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sashimi cut carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low fat cream cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "Slice the ciabatta bread into 1 inch thick slices.",
+    "Place the slices on a baking sheet and toast in the oven for 5 minutes.",
+    "Remove the toast from the oven and let it cool for 2 minutes.",
+    "Spread 1 tablespoon of low fat cream cheese on each slice of toast.",
+    "Top the cream cheese with 1 tablespoon of strawberry jam.",
+    "Arrange the sashimi cut cucumber and carrots on top of the jam.",
+    "Drizzle 1 tablespoon of honey over the top of each slice.",
+    "Sprinkle the chopped fresh dill, salt, and black pepper over the top of each slice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy-option",
+    "low-fat",
+    "quick-snack",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "yellowed-light-ukrainian-ciabatta-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-light-ukrainian-ciabatta-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:19:56Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "ciabatta",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "ciabatta",
+    "descriptor": "Yellowed Light",
+    "dishForm": "Toast"
+  }
+}

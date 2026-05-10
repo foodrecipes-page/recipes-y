@@ -1,0 +1,96 @@
+{
+  "title": "Yellow Dense Mexican Bean Tacos",
+  "description": "A fermented, dense, and quick-fix Mexican dish featuring wholegrain mustard and dehydrated ingredients, friendly to anti-inflammatory diets. This recipe combines the flavors of Mexico with the convenience of a weeknight meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "cooked and fermented"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dehydrated onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dehydrated bell peppers",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat to cook the fermented pinto beans.",
+    "Add the wholegrain mustard, dehydrated onions, and dehydrated bell peppers to the skillet and stir to combine.",
+    "Add the taco seasoning to the skillet and cook for 1-2 minutes, until fragrant.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the bean mixture onto a tortilla and topping with shredded cheese, chopped cilantro, and a squeeze of lime juice.",
+    "Serve the tacos immediately and enjoy.",
+    "Store any leftover bean mixture in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat the bean mixture in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dehydrated-ingredients",
+    "fermented-food",
+    "gluten-free",
+    "mexican-food",
+    "vegetarian",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yellow-dense-mexican-bean-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-dense-mexican-bean-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:44:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "dehydrate",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beans",
+    "descriptor": "Yellow Dense",
+    "dishForm": "Tacos"
+  }
+}

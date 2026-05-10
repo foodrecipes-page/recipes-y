@@ -2609,6 +2609,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-dense-mexican-bean-tacos",
+    "title": "Yellow Dense Mexican Bean Tacos",
+    "tags": [
+      "dehydrated-ingredients",
+      "fermented-food",
+      "gluten-free",
+      "mexican-food",
+      "vegetarian",
+      "weeknight-meal"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-dense-peruvian-beef-rocoto-relleno",
     "title": "Yellow Dense Peruvian Beef Rocoto Relleno",
     "tags": [

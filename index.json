@@ -12594,6 +12594,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-lazy-argentinian-cheese-empanadas",
+    "title": "Yummy Lazy Argentinian Cheese Empanadas",
+    "tags": [
+      "argentinian-cuisine",
+      "cheesy",
+      "lazy-sunday",
+      "ovo-vegetarian",
+      "sweet-surprise"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-leaf-wrapped-turkish-dates-wrap",
     "title": "Yummy Leaf-Wrapped Turkish Dates Wrap",
     "tags": [

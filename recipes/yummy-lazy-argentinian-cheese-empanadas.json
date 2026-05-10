@@ -1,0 +1,99 @@
+{
+  "title": "Yummy Lazy Argentinian Cheese Empanadas",
+  "description": "Fresh and pillowy Argentinian empanadas filled with cheese and a hint of oyster sauce, perfect for a lazy Sunday, featuring a sweet surprise with candy, and suitable for ovo-vegetarian diets. This dish is a unique twist on traditional empanadas.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1/4 cup",
+      "notes": "vegetarian alternative"
+    },
+    {
+      "name": "candy",
+      "amount": "1/2 cup",
+      "notes": "chopped peanut butter cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "to balance flavors"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour, melted butter, and a pinch of salt to make the empanada dough.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "In a separate bowl, mix together shredded cheese, oyster sauce, and chopped candy.",
+    "Place a tablespoon of the cheese mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with an egg wash and sprinkle with sugar.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the empanadas from the oven and let them cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-cuisine",
+    "cheesy",
+    "lazy-sunday",
+    "ovo-vegetarian",
+    "sweet-surprise"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "yummy-lazy-argentinian-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-lazy-argentinian-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:15:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "candy",
+    "primaryIngredient": "oyster sauce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese",
+    "descriptor": "yummy lazy",
+    "dishForm": "Empanadas"
+  }
+}

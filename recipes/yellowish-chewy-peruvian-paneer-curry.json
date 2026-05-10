@@ -1,0 +1,103 @@
+{
+  "title": "Yellowish Chewy Peruvian Paneer Curry",
+  "description": "A resinous and chewy Peruvian dish featuring paneer, nimono-simmer, and shojin-friendly ingredients, this curry is a comforting and flavorful meal option. It combines the richness of paneer with the warmth of Peruvian spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "1 block",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "peruvian chili paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "Add the peruvian chili paste to the pan and cook for 1 minute, stirring constantly.",
+    "Add the cubed paneer to the pan and cook until it is lightly browned.",
+    "Add the coconut milk, turmeric, cumin, salt, and black pepper to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the sauce has thickened and the paneer is fully coated.",
+    "Reduce the heat to low and cook for an additional 5 minutes, stirring occasionally.",
+    "Serve the curry hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellowish-chewy-peruvian-paneer-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-chewy-peruvian-paneer-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:38:56Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "paneer",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "paneer",
+    "descriptor": "Yellowish Chewy",
+    "dishForm": "Curry"
+  }
+}

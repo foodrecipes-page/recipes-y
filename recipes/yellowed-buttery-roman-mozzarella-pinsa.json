@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Buttery Roman Mozzarella Pinsa",
+  "description": "A buttery, pillowy, romantic Italian dish featuring mozzarella, salt-bake, and vegetarian-friendly ingredients in a pinsa form, served on a tagliere vessel.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian flour",
+      "amount": "2 cups",
+      "notes": "preferably caputo or all purpose"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine flour, water, salt, sugar, and yeast in a large mixing bowl to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 425 degrees Fahrenheit with a baking stone inside.",
+    "Punch down the dough and shape it into a pinsa form, about 1/2 inch thick.",
+    "Place the pinsa on the preheated baking stone and bake for 15 minutes, or until it is lightly yellowed.",
+    "Remove the pinsa from the oven and brush it with melted butter.",
+    "Top the pinsa with sliced mozzarella cheese and return it to the oven for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove the pinsa from the oven and drizzle it with extra virgin olive oil.",
+    "Sprinkle chopped fresh basil leaves over the pinsa and serve immediately on a tagliere vessel."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "one-pan",
+    "romantic-dinner",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "yellowed-buttery-roman-mozzarella-pinsa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-buttery-roman-mozzarella-pinsa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:09:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "salt-bake",
+    "primaryIngredient": "mozzarella",
+    "diet": "vegetarian",
+    "region": "roman",
+    "cuisineAdjective": "Roman",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Yellowed Buttery",
+    "dishForm": "Pinsa"
+  }
+}

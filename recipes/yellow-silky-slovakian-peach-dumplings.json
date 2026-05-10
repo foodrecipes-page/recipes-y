@@ -1,0 +1,94 @@
+{
+  "title": "Yellow Silky Slovakian Peach Dumplings",
+  "description": "A traditional Slovakian dish featuring fermented peaches and a silky mother sauce, perfect for a nostalgic treat. This flexitarian-friendly recipe is a unique and delicious dessert option.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peach juice",
+      "amount": "2 cups",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "semolina flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the peach juice, sugar, and yeast, and let it ferment for 2 hours.",
+    "In a separate bowl, whisk together the all-purpose flour, semolina flour, and eggs.",
+    "Add the milk and melted butter to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and shiny.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of the fermented peach mixture in the center.",
+    "Fold the dough over the filling and seal the edges by pressing with a fork.",
+    "Place the dumplings in a large pot of boiling water and cook for 10 minutes.",
+    "Remove the dumplings from the water and serve with the remaining fermented peach sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "dumplings",
+    "flexitarian",
+    "peach",
+    "slovakian",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "yellow-silky-slovakian-peach-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-silky-slovakian-peach-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T06:01:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "peach juice",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "peaches",
+    "descriptor": "yellow silky",
+    "dishForm": "Dumplings"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Yellowish Filipino Noodles Pancit Canton",
+  "description": "A garlicky, crunchy, and indulgent Filipino dish featuring Worcestershire sauce, made with mortar-pestle-pound method and ayurvedic-sattvic-friendly ingredients, in the form of pancit canton.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice flour noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "patola",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large wok or frying pan over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced patola and grated carrots, and cook for 2 minutes, until they start to soften.",
+    "Add the rice flour noodles, Worcestershire sauce, soy sauce, salt, and black pepper, and stir-fry for 2 minutes, until the noodles are well coated.",
+    "Use a mortar and pestle to pound the cooked noodles for 30 seconds, to give them a slightly crushed texture.",
+    "Add the chopped green onions and stir-fry for 1 minute, until well combined.",
+    "Transfer the pancit canton to a serving platter and serve immediately.",
+    "Garnish with additional green onions and serve with a side of steamed vegetables, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "noodle-dishes",
+    "one-pan-meals",
+    "vegetarian-options",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "yellowish-filipino-noodles-pancit-canton",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-filipino-noodles-pancit-canton",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:35:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "noodles",
+    "descriptor": "Yellowish Crunchy",
+    "dishForm": "Pancit Canton"
+  }
+}

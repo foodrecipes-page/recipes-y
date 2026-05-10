@@ -1,0 +1,106 @@
+{
+  "title": "Yellowed Smoky Portuguese Buns Bake",
+  "description": "A smoky and velvety Portuguese dish featuring buns in a high-protein bake, perfect for a weeknight dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portuguese buns",
+      "amount": "6",
+      "notes": "day old buns work best"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cut the portuguese buns into 1 inch pieces and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast pieces and cook until browned, about 5 minutes.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth and bring to a simmer.",
+    "Add the portuguese buns to the skillet and stir to combine with the chicken and sauce.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with shredded cheese.",
+    "Bake in the preheated oven for 25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buns",
+    "cheesy",
+    "high-protein",
+    "one-pan",
+    "portuguese",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellowed-smoky-portuguese-buns-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-portuguese-buns-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:11:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "buns",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "buns",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Bake"
+  }
+}

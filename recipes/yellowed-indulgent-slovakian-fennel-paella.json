@@ -1,0 +1,94 @@
+{
+  "title": "Yellowed Indulgent Slovakian Fennel Paella",
+  "description": "This paleo-friendly dish is a twist on traditional paella, featuring fennel bulb and a rich, cheesy flavor, with a bitter note and a satisfying cheese pull, all cooked to perfection in a paella pan using steam.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "slovakian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sliced fennel bulb and cook until it starts to soften, about 5 minutes.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the smoked paprika, sea salt, and black pepper, and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes.",
+    "Stir in the shredded Slovakian cheese until melted and well combined.",
+    "Continue to cook, covered, for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "high-protein",
+    "indulgent",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "yellowed-indulgent-slovakian-fennel-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-indulgent-slovakian-fennel-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:48:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "fennel bulb",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "fennel",
+    "descriptor": "Yellowed Indulgent",
+    "dishForm": "Paella"
+  }
+}

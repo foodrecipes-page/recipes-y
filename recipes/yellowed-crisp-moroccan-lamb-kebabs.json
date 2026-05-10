@@ -1,0 +1,109 @@
+{
+  "title": "Yellowed Crisp Moroccan Lamb Kebabs",
+  "description": "A briny and crisp Moroccan dish featuring lamb mince and pickle, perfect for a crowd, and plant-based friendly with substitutions.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": "or plant-based substitute like seitan or mushrooms"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Mix the lamb mince, pickle, onion, garlic, cumin, paprika, salt, and black pepper in a large bowl.",
+    "Use your hands to mix the ingredients until they are just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and place them on a baking sheet lined with parchment paper.",
+    "Bake the skewers for 20 minutes, or until they are cooked through and lightly browned.",
+    "Remove the skewers from the oven and brush them with lemon juice.",
+    "Serve the kebabs hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dinner-party",
+    "kebabs",
+    "lamb",
+    "moroccan",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellowed-crisp-moroccan-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-moroccan-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:51:47Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "lamb mince",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Kebabs"
+  }
+}

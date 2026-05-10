@@ -1,0 +1,113 @@
+{
+  "title": "Yeasty French Bean Sprouts Ratatouille",
+  "description": "A sugar-free, post-workout French dish featuring yeasty, bouncy bean sprouts in a ratatouille form, served in a ti-leaf wrap. This dish is perfect for a healthy and flavorful lunch.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "crushed, sugar-free"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, toss the bean sprouts with yeast extract until they are evenly coated.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped eggplant and zucchini and cook until they are tender.",
+    "Stir in the crushed tomato and cook for 5 minutes.",
+    "Add the coated bean sprouts to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Spoon the ratatouille onto the center of each ti leaf and fold the leaves to form a wrap.",
+    "Bake the wraps in the preheated oven for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "healthy-lunch",
+    "low-carb",
+    "post-workout",
+    "sugar-free",
+    "ti-leaf-wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yeasty-french-bean-sprouts-ratatouille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-french-bean-sprouts-ratatouille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:44:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "bean sprouts",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Yeasty Bouncy",
+    "dishForm": "Ratatouille"
+  }
+}

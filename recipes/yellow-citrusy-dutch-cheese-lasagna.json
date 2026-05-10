@@ -1,0 +1,98 @@
+{
+  "title": "Yellow Citrusy Dutch Cheese Lasagna",
+  "description": "A post-workout Dutch dish featuring a citrusy twist and a cheesy pull, made with desiccated coconut and low-glycemic ingredients. This dish is perfect for a satisfying dinner after a long day.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-glycemic",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 oz",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dutch cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions.",
+    "In a large bowl, combine the desiccated coconut, Dutch cheese, lemon juice, orange zest, eggs, cottage cheese, salt, and black pepper.",
+    "In a large baking dish, create a thin layer of the cheese mixture.",
+    "Arrange 4 lasagna noodles on top of the cheese layer.",
+    "Fold the noodles over the cheese mixture to create a tight layer.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Bake the lasagna in the preheated oven for 35 minutes.",
+    "Let the lasagna rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "coconut-based",
+    "dutch-cuisine",
+    "high-protein",
+    "low-glycemic",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-citrusy-dutch-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-citrusy-dutch-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:15:47Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "Yellow Citrusy",
+    "dishForm": "Lasagna"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Yellow Roasted Venezuelan Sevaiiya Noodles",
+  "description": "A light and flavorful Venezuelan dish featuring roasted sevaiiya noodles, perfect for a date night, and is onion and garlic free. This recipe is a unique blend of Venezuelan cuisine with Indian sevaiiya noodles.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sevaiiya noodles",
+      "amount": "8 oz",
+      "notes": "Indian style noodles"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the sevaiiya noodles according to package instructions and set aside.",
+    "In a large bowl, whisk together olive oil, lemon juice, paprika, salt, and black pepper.",
+    "Add the cooked noodles to the bowl and toss to coat with the oil and spice mixture.",
+    "Spread the noodles on a baking sheet and roast in the oven for 10 minutes.",
+    "In a separate pan, saute the grated carrots and diced yellow bell pepper until tender.",
+    "Combine the roasted noodles, sauteed carrots and bell pepper, and chopped cilantro in a large serving dish.",
+    "Toss to combine and serve hot.",
+    "Garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-fusion",
+    "latin-american",
+    "one-pan",
+    "roasted",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "yellow-roasted-venezuelan-sevaiiya-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-roasted-venezuelan-sevaiiya-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:54:01Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "sevaiiya",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Yellow Roasted",
+    "dishForm": "Noodles"
+  }
+}

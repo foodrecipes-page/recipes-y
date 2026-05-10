@@ -1,0 +1,106 @@
+{
+  "title": "Yellowed Smoky Japanese Squid Noodles",
+  "description": "A smoky and creamy Japanese dish featuring squid, perfect for a lazy Sunday, with a paleo-friendly twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Shirataki noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the squid and cook for 2 minutes, or until browned.",
+    "Add the coconut milk and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until the squid is cooked through.",
+    "While the squid is cooking, cook the shirataki noodles according to the package instructions.",
+    "Drain the noodles and add them to the skillet with the squid mixture.",
+    "Stir to combine and cook for an additional 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped green onions and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "one-pan",
+    "paleo-friendly",
+    "seafood",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellowed-smoky-japanese-squid-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-smoky-japanese-squid-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:31:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "emulsify",
+    "primaryIngredient": "squid",
+    "diet": "paleo",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "squid",
+    "descriptor": "Yellowed Smoky",
+    "dishForm": "Noodles"
+  }
+}

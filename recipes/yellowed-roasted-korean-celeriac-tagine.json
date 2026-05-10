@@ -1,0 +1,104 @@
+{
+  "title": "Yellowed Roasted Korean Celeriac Tagine",
+  "description": "A kid-friendly Korean dish featuring roasted celeriac in a flavorful tagine, infused with dashi extract and melted cheese. This raw-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together dashi extract, gochujang, soy sauce, and brown sugar.",
+    "Add the cubed celeriac to the bowl and toss to coat with the sauce.",
+    "Transfer the celeriac to a clay tagine vessel and roast in the oven for 30 minutes.",
+    "Remove the tagine from the oven and top the celeriac with shredded mozzarella cheese.",
+    "Return the tagine to the oven and continue roasting for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "While the tagine is roasting, heat a small skillet over medium heat and cook the minced garlic and grated ginger until fragrant.",
+    "Remove the tagine from the oven and sprinkle the cooked garlic and ginger over the top.",
+    "Garnish with chopped green onions and sesame seeds before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean-cuisine",
+    "one-pot",
+    "roasted-vegetables",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "yellowed-roasted-korean-celeriac-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-roasted-korean-celeriac-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:59:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "dashi-extract",
+    "primaryIngredient": "celeriac",
+    "diet": "raw",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "celeriac",
+    "descriptor": "Yellowed Roasted",
+    "dishForm": "Tagine"
+  }
+}

@@ -6600,6 +6600,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-chewy-portuguese-peanut-bake",
+    "title": "Yellowed Chewy Portuguese Peanut Bake",
+    "tags": [
+      "dairy-free",
+      "high-protein",
+      "one-pan",
+      "peanut-butter",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-chewy-thai-dates-curry",
     "title": "Yellowed Chewy Thai Dates Curry",
     "tags": [
@@ -6849,6 +6864,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crispy-german-pork-casseroles",
+    "title": "Yellowed Crispy German Pork Casseroles",
+    "tags": [
+      "comfort-food",
+      "crispy-pastry",
+      "german-cuisine",
+      "low-calorie",
+      "midnight-snack",
+      "pork-recipe"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

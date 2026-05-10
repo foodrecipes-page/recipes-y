@@ -3693,6 +3693,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-molten-german-cheese-quesadilla",
+    "title": "Yellow Molten German Cheese Quesadilla",
+    "tags": [
+      "dairy-free",
+      "festive",
+      "fusion-food",
+      "german-mexican",
+      "molten-cheese",
+      "vegetarian"
+    ],
+    "cuisine": "German-Mexican fusion",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-molten-italian-pasta-paccheri",
     "title": "Yellow Molten Italian Pasta Paccheri",
     "tags": [

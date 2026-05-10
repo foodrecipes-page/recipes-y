@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Molten German Cheese Quesadilla",
+  "description": "A sour, molten, festive German dish featuring shredded Mexican cheese, served on a talavera plate and made using a bain-marie for a dairy-free-friendly option.",
+  "cuisine": "German-Mexican fusion",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shredded Mexican cheese",
+      "amount": "1 cup",
+      "notes": "such as Oaxaca or Monterey Jack"
+    },
+    {
+      "name": "German mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "or dairy-free alternative"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "or dairy-free alternative"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "In a bowl, mix together the shredded cheese, German mustard, sour cream, and yellow food coloring until well combined.",
+    "Place a tortilla in the skillet and sprinkle a quarter of the cheese mixture onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the cheese mixture.",
+    "Cook for 2-3 minutes or until the tortilla is lightly browned and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also lightly browned.",
+    "Repeat with the remaining tortillas and cheese mixture.",
+    "Serve the quesadillas on a talavera plate and top with chopped fresh cilantro and a squeeze of lemon juice.",
+    "Place the plate over a bain-marie to keep the cheese molten and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "festive",
+    "fusion-food",
+    "german-mexican",
+    "molten-cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "yellow-molten-german-cheese-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-molten-german-cheese-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:24:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cheese",
+    "descriptor": "Yellow Molten",
+    "dishForm": "Quesadilla"
+  }
+}

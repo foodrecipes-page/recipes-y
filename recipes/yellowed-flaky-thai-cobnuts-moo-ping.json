@@ -1,0 +1,102 @@
+{
+  "title": "Yellowed Flaky Thai Cobnuts Moo Ping",
+  "description": "A traditional Thai dish featuring cobnuts, this recipe is an earthy and flaky hangover cure, made with anti-inflammatory friendly ingredients and cooked to perfection on a robata grill in the form of moo ping.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "1 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a blender or food processor, combine coconut milk, fish sauce, lime juice, brown sugar, turmeric, ginger, garlic, salt, and black pepper, and blend until smooth.",
+    "Add the cobnuts to the blender and blend until well combined and the mixture forms a thick paste.",
+    "Using your hands, shape the paste into small cylindrical shapes, about 1 inch in length and 1/2 inch in diameter.",
+    "Thread the shaped paste onto skewers, leaving a small space between each piece.",
+    "Brush the robata grill with oil to prevent sticking.",
+    "Grill the moo ping for 5-7 minutes on each side, or until they are lightly charred and cooked through.",
+    "Serve the yellowed flaky Thai cobnuts moo ping hot, garnished with fresh herbs and a side of spicy sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "gluten-free",
+    "street-food",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "yellowed-flaky-thai-cobnuts-moo-ping",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-thai-cobnuts-moo-ping",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:14:33Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "cobnuts",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Yellowed Flaky",
+    "dishForm": "Moo Ping"
+  }
+}

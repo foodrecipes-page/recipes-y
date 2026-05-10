@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Wood Fired Portuguese Chicken Bake",
+  "description": "A nutty and snappy weeknight Portuguese dish featuring freshly chopped parsley, this wood-fired bake is a delicious and easy meal option, egg-free friendly and made in a fondue pot.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Transfer the chicken mixture to the fondue pot and bake for 20 minutes.",
+    "Stir in lemon juice and chicken broth, then continue baking for an additional 15 minutes.",
+    "Sprinkle parsley over the top of the chicken and bake for 5 more minutes.",
+    "Remove the fondue pot from the oven and let it cool for a few minutes.",
+    "Serve the chicken hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "gluten-free",
+    "one-pot",
+    "portuguese-cuisine",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "yellowed-wood-fired-portuguese-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-wood-fired-portuguese-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:54:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellowed Wood Fired",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Yellowed Crispy Argentinian Oats Empanadas",
+  "description": "A low-carb friendly Argentinian dish featuring porridge oats and a briny glassy-jelly filling, deep-fried to a crispy golden brown. This show-off empanada is perfect for a snack or dessert.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "porridge oats",
+      "amount": "2 cups",
+      "notes": "rolled oats work too"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together oats, eggs, salt, and pepper to form a thick dough.",
+    "Gradually add olive oil to the dough and mix until a ball forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a thin circle.",
+    "In a pan, heat a couple of tablespoons of oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the beef broth to the pan and bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Place a tablespoon of the onion and garlic mixture onto the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Deep-fry the empanadas in hot oil until golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "deep-fried",
+    "empanadas",
+    "gluten-free",
+    "low-carb",
+    "oats",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "yellowed-crispy-argentinian-oats-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-argentinian-oats-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:52:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "porridge oats",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "oats",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Empanadas"
+  }
+}

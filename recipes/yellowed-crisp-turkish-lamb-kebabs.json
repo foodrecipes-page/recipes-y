@@ -1,0 +1,93 @@
+{
+  "title": "Yellowed Crisp Turkish Lamb Kebabs",
+  "description": "Charred and crispy lamb kebabs cooked to perfection on a cedar plank, featuring rapeseed oil and render fat for a rich flavor, sugar free friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "render fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat, around 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together rapeseed oil, render fat, garlic, paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the soaked cedar planks, leaving a small space between each skewer.",
+    "Place the cedar planks on the grill and cook for 10-12 minutes, or until the lamb is charred and crispy.",
+    "Flip the skewers halfway through cooking to ensure even cooking.",
+    "Once cooked, remove the skewers from the grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank-cooking",
+    "grilled-meats",
+    "lamb-recipes",
+    "sugar-free-recipes",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "yellowed-crisp-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crisp-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:32:38Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "render-fat",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellowed Crisp",
+    "dishForm": "Kebabs"
+  }
+}

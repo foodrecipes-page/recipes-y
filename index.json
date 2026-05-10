@@ -5415,6 +5415,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-spicy-syrian-salmon-pilaf",
+    "title": "Yellow Spicy Syrian Salmon Pilaf",
+    "tags": [
+      "gluten-free",
+      "one-pot",
+      "pescatarian",
+      "seafood",
+      "spicy",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-spicy-thai-chicken-skewers",
     "title": "Yellow Spicy Thai Chicken Skewers",
     "tags": [
@@ -7053,6 +7068,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crunchy-algerian-tofu-skillet",
+    "title": "Yellowed Crunchy Algerian Tofu Skillet",
+    "tags": [
+      "algerian-cuisine",
+      "one-pan",
+      "plant-based",
+      "quick-dinner",
+      "tofu-recipes",
+      "wine-based-sauce"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

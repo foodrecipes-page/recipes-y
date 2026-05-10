@@ -1,0 +1,98 @@
+{
+  "title": "Yellowed Crunchy Algerian Tofu Skillet",
+  "description": "A winey and crunchy solo dinner dish featuring hoisin sauce and served with toast, this Algerian skillet is a plant-based friendly option for a quick and flavorful meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "2 slices",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast iron skillet over medium high heat.",
+    "Add the tofu to the skillet and cook until golden brown on all sides, about 5 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add the white wine to the skillet and cook until reduced by half, about 2 minutes.",
+    "Add the hoisin sauce, paprika, garlic powder, salt, and black pepper to the skillet and stir to combine.",
+    "Return the tofu to the skillet and toss to coat with the sauce.",
+    "Reduce heat to medium low and simmer for 5 minutes.",
+    "Serve the tofu and sauce over toasted whole wheat bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "one-pan",
+    "plant-based",
+    "quick-dinner",
+    "tofu-recipes",
+    "wine-based-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yellowed-crunchy-algerian-tofu-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crunchy-algerian-tofu-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:00:42Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "tofu",
+    "descriptor": "Yellowed Crunchy",
+    "dishForm": "Skillet"
+  }
+}

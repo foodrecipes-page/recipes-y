@@ -1,0 +1,100 @@
+{
+  "title": "Yellowed Yogic Indian Squid Gulab Jamun",
+  "description": "A unique and flavorful Indian-inspired dish featuring squid, grilled to perfection and served in a sweet and spicy gulab jamun sauce, made with ayurvedic-sattvic friendly ingredients and cooked in a traditional tajine clay vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid tubes",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "gulab jamun mix",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "yakimono grill sauce",
+      "amount": "1/4 cup",
+      "notes": "or substitute with a mixture of soy sauce and honey"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with vegetable oil"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon",
+      "notes": "ground from whole cardamom pods"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat, or approximately 400 degrees Fahrenheit.",
+    "Thread the squid pieces onto skewers, leaving a small space between each piece to allow for even cooking.",
+    "Brush the squid with yakimono grill sauce and season with sea salt and turmeric powder.",
+    "Grill the squid for 2-3 minutes per side, or until cooked through and slightly charred.",
+    "In a large bowl, mix together the gulab jamun mix, rose water, and cardamom powder.",
+    "Add the grilled squid to the bowl and toss to coat with the gulab jamun mixture.",
+    "Heat the ghee in a small saucepan over medium heat, or approximately 300 degrees Fahrenheit.",
+    "Add the squid and gulab jamun mixture to the saucepan and simmer for 5 minutes, or until the sauce has thickened and the squid is fully coated.",
+    "Serve the Yellowed Yogic Indian Squid Gulab Jamun in a traditional tajine clay vessel, garnished with fresh cilantro and a sprinkle of cardamom powder."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "grilled",
+    "gulab-jamun",
+    "indian-inspired",
+    "seafood",
+    "tajine-clay"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yellowed-yogic-indian-squid-gulab-jamun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-yogic-indian-squid-gulab-jamun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:27:33Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "squid",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "squid",
+    "descriptor": "Yellowed Yogic",
+    "dishForm": "Gulab Jamun"
+  }
+}

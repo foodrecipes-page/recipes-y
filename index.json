@@ -10575,6 +10575,21 @@
     "shard": "y"
   },
   {
+    "slug": "youthful-tender-brazilian-chicken-skewers",
+    "title": "Youthful Tender Brazilian Chicken Skewers",
+    "tags": [
+      "brazilian-cuisine",
+      "easy-dinner",
+      "family-friendly",
+      "gluten-free",
+      "grilled-chicken",
+      "kid-friendly"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 42,
+    "shard": "y"
+  },
+  {
     "slug": "youthful-tunisian-beef-shin-wrap",
     "title": "Youthful Tunisian Beef Shin Wrap",
     "tags": [
@@ -10615,6 +10630,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 32,
+    "shard": "y"
+  },
+  {
+    "slug": "youthful-yellow-chinese-pork-noodles",
+    "title": "Youthful Yellow Chinese Pork Noodles",
+    "tags": [
+      "diabetic-friendly",
+      "low-sodium",
+      "noodle-dishes",
+      "pork-recipes",
+      "quick-meals",
+      "stir-fry"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

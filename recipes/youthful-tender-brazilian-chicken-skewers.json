@@ -1,0 +1,94 @@
+{
+  "title": "Youthful Tender Brazilian Chicken Skewers",
+  "description": "A kid-friendly Brazilian dish featuring sherry and long-fermentation-dough, served on a lazy-susan-spinner, this recipe is floral, tender, and gluten-free-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "crushed into crumbs"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sherry, olive oil, garlic, ginger, salt, and black pepper.",
+    "Add the chicken to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers.",
+    "Sprinkle the long-fermentation-dough crumbs over the chicken.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve the skewers on a lazy-susan-spinner.",
+    "Garnish with fresh flowers, such as orchids or hibiscus."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "easy-dinner",
+    "family-friendly",
+    "gluten-free",
+    "grilled-chicken",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "youthful-tender-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-tender-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:56:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "sherry",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "youthful tender",
+    "dishForm": "Skewers"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Youthful Yellow Chinese Pork Noodles",
+  "description": "A savory and shattering Cantonese dish featuring palm sugar and a pasta water emulsion, suitable for diabetic-friendly diets",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 1 tablespoon hot water"
+    },
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "yellow noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the yellow noodles according to package instructions",
+    "In a small bowl, whisk together the dissolved palm sugar, soy sauce, oyster sauce, and sesame oil",
+    "In a large skillet or wok, heat the sesame oil over medium-high heat and cook the pork loin until browned",
+    "Add the grated ginger and minced garlic to the skillet and cook for 1 minute",
+    "Add the cooked noodles to the skillet and stir to combine with the pork and sauce",
+    "Add the pasta water to the skillet and stir to create a creamy emulsion",
+    "Season with salt and pepper to taste",
+    "Garnish with chopped scallions and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "low-sodium",
+    "noodle-dishes",
+    "pork-recipes",
+    "quick-meals",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "youthful-yellow-chinese-pork-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-yellow-chinese-pork-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:57:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "palm sugar",
+    "diet": "diabetic-friendly",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "youthful yellow",
+    "dishForm": "Noodles"
+  }
+}

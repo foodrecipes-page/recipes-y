@@ -1,0 +1,95 @@
+{
+  "title": "Yellow Turmeric Australian Lamb Skewers",
+  "description": "Charred and juicy lamb skewers featuring turmeric and a mirepoix base, perfect for a low-sodium Australian dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together turmeric powder, olive oil, lemon juice, and garlic",
+    "Add the lamb cubes to the bowl and toss to coat",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until charred and cooked through",
+    "Meanwhile, heat a tablespoon of olive oil in a large skillet over medium heat",
+    "Add the chopped onion, carrot, and celery to the skillet and cook until tender",
+    "Serve the lamb skewers with the mirepoix base",
+    "Garnish with fresh parsley and lemon wedges, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "grilled-meats",
+    "lamb-recipes",
+    "low-sodium",
+    "skewer-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-turmeric-australian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-turmeric-australian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:21:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "turmeric",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Yellow Turmeric",
+    "dishForm": "Skewers"
+  }
+}

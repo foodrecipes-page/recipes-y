@@ -10723,6 +10723,20 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-bouncy-cornish-cheese-curds-cheesy-sausage-mash",
+    "title": "Yummy Bouncy Cornish Cheese Curds Cheesy Sausage Mash",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-bouncy-tunisian-steak-tagine",
     "title": "Yummy Bouncy Tunisian Steak Tagine",
     "tags": [

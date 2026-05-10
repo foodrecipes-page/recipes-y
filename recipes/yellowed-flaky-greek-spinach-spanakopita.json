@@ -1,0 +1,99 @@
+{
+  "title": "Yellowed Flaky Greek Spinach Spanakopita",
+  "description": "A fermented, flaky, light Greek dish featuring cocoa and spinach, made with render-fat for a lacto-vegetarian friendly meal. This spanakopita is perfect for a snack or light lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "render-fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "filo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Chop the onion and mince the garlic.",
+    "Sauté the onion and garlic in render-fat until softened.",
+    "Add the spinach and cook until wilted.",
+    "In a separate bowl, mix the cocoa powder, feta cheese, salt, and black pepper.",
+    "Combine the spinach mixture and cocoa mixture.",
+    "Layer the filo dough in a baking dish, brushing with render-fat.",
+    "Fill the filo dough with the spinach and cocoa mixture.",
+    "Bake for 35 minutes or until golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cocoa-powder",
+    "flaky-pastry",
+    "greek-food",
+    "lacto-vegetarian",
+    "render-fat",
+    "spinach-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "yellowed-flaky-greek-spinach-spanakopita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-flaky-greek-spinach-spanakopita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:55:53Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "render-fat",
+    "primaryIngredient": "cocoa",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "spinach",
+    "descriptor": "Yellowed Flaky",
+    "dishForm": "Spanakopita"
+  }
+}

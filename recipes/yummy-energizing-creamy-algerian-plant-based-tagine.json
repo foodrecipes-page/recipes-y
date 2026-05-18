@@ -1,0 +1,115 @@
+{
+  "title": "algerian plant-based tagine with lime and preserved lemon",
+  "description": "energizing tagine recipe with smoky flavors, featuring unwaxed lime and preserved lemon, perfect for a plant-based breakfast or brunch.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "preserved lemon, finely chopped",
+      "amount": "6 ounces",
+      "notes": "see recipe notes"
+    },
+    {
+      "name": "unwaxed lime, peeled and chopped",
+      "amount": "2 medium",
+      "notes": "use fresh, not bottled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality, cold-pressed oil"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium",
+      "notes": "use a sweet onion"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "4 cloves",
+      "notes": "use fresh garlic"
+    },
+    {
+      "name": "carrots, peeled and chopped",
+      "amount": "2 medium",
+      "notes": "use a mix of colors"
+    },
+    {
+      "name": "red bell pepper, chopped",
+      "amount": "1 medium",
+      "notes": "use any color bell pepper"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "1 teaspoon",
+      "notes": "use a store-bought blend or make your own"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "use a high-quality, fresh cumin"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use a flaky sea salt or kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "use a freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the chopped carrots and red bell pepper, cook for 3-4 minutes.",
+    "add the chopped preserved lemon, algerian spice blend, ground cumin, salt, and black pepper.",
+    "stir to combine and cook for 1 minute.",
+    "add the chopped unwaxed lime and stir to combine.",
+    "reduce heat to low and simmer, covered, for 15-20 minutes, or until the vegetables are tender.",
+    "taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-breakfast",
+    "gluten-free",
+    "moroccan",
+    "one-pan",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "yummy-energizing-creamy-algerian-plant-based-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-energizing-creamy-algerian-plant-based-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:04:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "smoke-hot",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "plant-based",
+    "descriptor": "yummy, energizing, creamy",
+    "dishForm": "Tagine"
+  }
+}

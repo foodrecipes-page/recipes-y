@@ -1,0 +1,123 @@
+{
+  "title": "yieldingly roasted polish duck braised",
+  "description": "a show-off polish dish featuring green cardamom pods and a rich, velvety sauce.",
+  "cuisine": "polish",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole duck (3-4 lbs)",
+      "amount": "1",
+      "notes": "preferably with the giblets removed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "mushrooms (button or cremini)",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh green cardamom pods",
+      "amount": "4-6",
+      "notes": "crushed, but not ground"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2-3",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the duck and pat it dry with paper towels.",
+    "Season the duck with salt, black pepper, and crushed cardamom pods.",
+    "In a large Dutch oven or oven-safe pot, melt 2 tablespoons of butter over medium-high heat.",
+    "Sear the duck until browned on all sides, about 5 minutes per side.",
+    "Add the sliced mushrooms to the pot and cook until they release their moisture and start to brown.",
+    "Add the white wine to the pot, scraping up any browned bits from the bottom with a wooden spoon.",
+    "Add the chicken broth, heavy cream, dried parsley, and thyme to the pot.",
+    "Bring the liquid to a simmer and then cover the pot with a lid.",
+    "Transfer the pot to the preheated oven and roast for 20 minutes.",
+    "Reduce the oven temperature to 375°F (190°C) and continue to roast for another 30-40 minutes, or until the duck is cooked through and the internal temperature reaches 165°F (74°C).",
+    "Remove the pot from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "duck",
+    "main-course",
+    "polish",
+    "poultry",
+    "rich",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "yieldingly-roasted-polish-duck-braised",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yieldingly-roasted-polish-duck-braised",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:00:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Duck",
+    "descriptor": "Yieldingly Roasted",
+    "dishForm": "Braised"
+  }
+}

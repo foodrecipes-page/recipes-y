@@ -1,0 +1,111 @@
+{
+  "title": "Yellow Peruvian Sausages Grill",
+  "description": "Spicy, light, post-workout Peruvian dish featuring sausages, confit-tomato, and satvik-friendly ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellow Peruvian Sausages (4)",
+      "amount": "",
+      "notes": "Choose a satvik-friendly brand"
+    },
+    {
+      "name": "Tomatoes (2)",
+      "amount": "",
+      "notes": "Any color, but yellow or orange for traditional color"
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic (2 cloves)",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin (1 tsp)",
+      "amount": "",
+      "notes": "Ground"
+    },
+    {
+      "name": "Smoked Paprika (1 tsp)",
+      "amount": "",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": "Kosher or Himalayan"
+    },
+    {
+      "name": "Black Pepper (to taste)",
+      "amount": "",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Olive Oil (2 tbsp)",
+      "amount": "",
+      "notes": "For brushing sausages and pan"
+    },
+    {
+      "name": "Fresh Cilantro (1/4 cup)",
+      "amount": "",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F, 190°C).",
+    "Brush the grates with olive oil to prevent sticking.",
+    "Grill the sausages for 5 minutes per side, or until nicely charred.",
+    "Meanwhile, heat olive oil in a pan over medium heat.",
+    "Add the chopped onion and cook for 3-4 minutes, or until translucent.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the cumin and smoked paprika, and cook for 1 minute.",
+    "Add the chopped tomatoes and cook for 2-3 minutes, stirring occasionally.",
+    "Season the confit with salt and black pepper to taste.",
+    "Once the sausages are cooked, let them rest for 2 minutes before slicing.",
+    "Serve the sliced sausages with the confit tomato and a sprinkle of chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "yellow-peruvian-sausages-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-peruvian-sausages-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T13:22:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "confit-tomato",
+    "primaryIngredient": "sausages",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sausages",
+    "descriptor": "Yellow",
+    "dishForm": "Grill"
+  }
+}

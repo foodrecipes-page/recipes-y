@@ -4095,6 +4095,20 @@
     "shard": "y"
   },
   {
+    "slug": "yellow-peruvian-sausages-grill",
+    "title": "Yellow Peruvian Sausages Grill",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yellow-peruvian-seafood-ceviche-clasico",
     "title": "Yellow Peruvian Seafood Ceviche Clasico",
     "tags": [

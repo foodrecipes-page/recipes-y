@@ -1,0 +1,106 @@
+{
+  "title": "jamaican egg frittata",
+  "description": "a pillowy, umami-filled frittata featuring jamaican flavors, a shio-koji cure, and low-sodium options.",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large egg",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji-cured bacon",
+      "amount": "6 slices",
+      "notes": "low-sodium alternative to traditional bacon"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese (low-sodium)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375  f (190 c)",
+    "whisk eggs in a large bowl and set aside",
+    "cook shio-koji-cured bacon in a large skillet over medium heat, until crispy",
+    "add diced tomatoes, scotch bonnet peppers, and low-sodium chicken broth to the skillet",
+    "bring mixture to a simmer and cook for 5 minutes",
+    "stir in shredded cheese and salt-free seasoning blend",
+    "add cooked bacon to the egg mixture and stir to combine",
+    "pour egg mixture over the skillet contents and cook until the eggs are almost set",
+    "transfer the skillet to the preheated oven and bake for 12 - 15 minutes, or until the eggs are fully set",
+    "remove the skillet from the oven and sprinkle chopped cilantro over the top",
+    "serve warm, garnished with additional cilantro if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-dinner",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "yummy-pillowy-jamaican-egg-frittata",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-pillowy-jamaican-egg-frittata",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:26:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "egg",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "egg",
+    "descriptor": "yummy pillowy",
+    "dishForm": "Frittata"
+  }
+}

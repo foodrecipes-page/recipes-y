@@ -1,0 +1,92 @@
+{
+  "title": "yummy molten mexican chilies tamales",
+  "description": "A twist on traditional tamales, these feature a molten, char-grilled chili filling within a crunchy pretzel-based corn husk.",
+  "cuisine": "mexican",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "instructions": [
+    "Combine 2 cups of masa harina and 1/2 cup of lard in a large bowl and mix until crumbly.",
+    "Gradually add 1/2 cup of chicken broth to the masa mixture until a dough forms.",
+    "Knead the dough for 5 minutes until pliable.",
+    "Cut the dough into 12 equal pieces and shape each piece into a ball.",
+    "Stretch a corn husk to fit over each dough ball and fold the top over the tamale.",
+    "Wrap a piece of aluminum foil around each tamale to prevent steam from escaping during cooking.",
+    "Char-grill the tamales over medium heat for 5 minutes on each side.",
+    "While tamales are cooking, melt 2 tablespoons of lard in a skillet over medium heat.",
+    "Add 2 minced garlic cloves to the skillet and sauté for 1 minute.",
+    "Add 1 cup of diced, char-grilled chili to the skillet and stir to combine.",
+    "Remove the tamales from the foil and place them on a serving plate.",
+    "Spoon the chili mixture onto each tamale and top with a sprinkle of crumbled pretzels."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "ingredients": [
+    {
+      "name": "masa harina",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lard",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12"
+    },
+    {
+      "name": "pretzels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "char-grilled chili",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "tags": [
+    "char-grilled",
+    "low-carb",
+    "mexican",
+    "one-pan",
+    "sugar-free",
+    "tamales",
+    "weeknight"
+  ],
+  "slug": "yummy-molten-mexican-chilies-tamales",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-molten-mexican-chilies-tamales",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T11:54:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "pretzels",
+    "diet": "sugar-free",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chilies",
+    "descriptor": "yummy molten",
+    "dishForm": "Tamales"
+  }
+}

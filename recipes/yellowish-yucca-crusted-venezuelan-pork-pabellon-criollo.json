@@ -1,0 +1,115 @@
+{
+  "title": "Yellowish Yucca Crusted Venezuelan Pork Pabellón Criollo",
+  "description": "A flavorful, comforting dish originating from Venezuela, blending the crispiest yucca crust with tender sous-vide pork and the richness of Pabellón Criollo.",
+  "cuisine": "vz",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yucca flour",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "lean pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "fat trimmed, cut into 1-inch cubes"
+    },
+    {
+      "name": "cooking wine",
+      "amount": "1/2 cup",
+      "notes": "dry red or white"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing salt block"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons",
+      "notes": "coarse, on the salt block"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "for extra flavor"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "pork broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "green plantains",
+      "amount": "2",
+      "notes": "preferably ripe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) for later use, if desired.",
+    "Season the pork cubes with salt, black pepper, garlic powder, onion powder, and cumin. Let it sit at room temperature for 30 minutes.",
+    "Sous-vide the pork cubes at 130°F (54°C) for 2 hours or until tender.",
+    "Meanwhile, mix yucca flour, cooking wine, and a pinch of salt in a bowl until smooth. Adjust the seasoning as needed.",
+    "Using a spatula, carefully place the yucca mixture on the salt block and shape it into a flat, even layer.",
+    "Once the pork is cooked, remove it from the sous-vide and carefully place it on top of the yucca crust.",
+    "Brush olive oil over the yucca crust and place the entire assembly under the broiler for 5 minutes or until golden brown.",
+    "While the yucca crust is cooking, heat pork broth in a saucepan over medium heat.",
+    "Once the yucca crust is done, carefully transfer the entire assembly to the saucepan with the pork broth.",
+    "Simmer for 2-3 minutes, allowing the pork to absorb the flavors.",
+    "Serve with sliced green plantains, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 230,
+  "totalTimeMin": 275,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "one-pan",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "yellowish-yucca-crusted-venezuelan-pork-pabellon-criollo",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-yucca-crusted-venezuelan-pork-pabellon-criollo",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:58:52Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "cooking wine",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pork",
+    "descriptor": "Yellowish Yucca Crusted",
+    "dishForm": "Pabellón Criollo"
+  }
+}

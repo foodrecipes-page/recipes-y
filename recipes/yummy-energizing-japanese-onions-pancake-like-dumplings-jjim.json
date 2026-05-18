@@ -1,0 +1,102 @@
+{
+  "title": "japanese onions dorayaki dumplings jjim",
+  "description": "nutty, velvety, energizing japanese-style pancakes filled with savory onions, perfect for a quick breakfast or snack.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "mung bean paste",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine mung bean paste, onion, turmeric, soy sauce, sesame oil, salt, and black pepper in a bowl, mixing until well combined.",
+    "Heat cornstarch and water in a saucepan over low heat, stirring constantly until smooth.",
+    "Add cornstarch mixture to the mung bean paste mixture and stir until a thick batter forms.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Using a ladle, pour a small amount of batter onto the pan and tilt to spread evenly.",
+    "Cook for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Flip the pancake and cook for another 1-2 minutes, until golden brown and crispy.",
+    "Repeat with remaining batter, adjusting heat as needed to prevent burning.",
+    "Serve warm with chopped scallions and a side of soy sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dairy-free",
+    "one-pan",
+    "snack",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "yummy-energizing-japanese-onions-pancake-like-dumplings-jjim",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-energizing-japanese-onions-pancake-like-dumplings-jjim",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:53:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "emulsify",
+    "primaryIngredient": "onions",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "onions",
+    "descriptor": "yummy energizing",
+    "dishForm": "Pancake-like Dumplings Jjim"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Yellowish Golden Mediterranean Chicken Skillet",
+  "description": "Buttery, juicy, low-fat-friendly Mediterranean dish featuring bryndza cheese and flambe.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "bryndza cheese",
+      "amount": "8 ounces",
+      "notes": "crumbly, white cheese"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "zest of 1 lemon",
+      "amount": "null",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the sliced onion to the skillet and cook until it starts to brown, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through, about 6-8 minutes.",
+    "Add the sliced red bell pepper to the skillet and cook for 2 minutes.",
+    "Sprinkle the bryndza cheese and chopped parsley over the top of the chicken and pepper.",
+    "Season the chicken and pepper with salt and black pepper to taste.",
+    "Flambé the dish by adding a small amount of rum or brandy to the skillet and igniting it.",
+    "Cook for 1-2 minutes, or until the flambé has reduced slightly.",
+    "Serve the chicken and pepper hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "homestyle",
+    "low-fat",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yellowish-golden-mediterranean-chicken-skillet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowish-golden-mediterranean-chicken-skillet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T12:25:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "flambe",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Yellowish Golden",
+    "dishForm": "Skillet"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Syrian Pumpkin Bulgur Kibbeh",
+  "description": "A comforting and dense Syrian dish featuring pumpkin and bulgur. It is an anti-inflammatory-friendly and healthy meal option.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "pumpkin puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine the bulgur and flour in a large bowl.",
+    "Add in the yeast, salt, and black pepper, and mix well.",
+    "Gradually add in the pumpkin puree, onion, and garlic, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat a hot stone plate to 375°F (190°C).",
+    "Punch down the dough and divide it into 4-6 equal pieces, depending on desired size.",
+    "Shape each piece into a ball and flatten slightly into a disk.",
+    "Place the disks on the hot stone plate and cook for 15-20 minutes, or until golden brown and crispy.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "bulgur-dish",
+    "comfort-food",
+    "healthy-meal",
+    "kibbeh",
+    "pumpkin-recipe",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yeasty-dense-syrian-pumpkin-and-bulgur-kibbeh",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-dense-syrian-pumpkin-and-bulgur-kibbeh",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:30:50Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "pumpkin",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pumpkin and bulgur",
+    "descriptor": "yeasty dense",
+    "dishForm": "Kibbeh"
+  }
+}

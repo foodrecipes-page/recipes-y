@@ -1,0 +1,105 @@
+{
+  "title": "yellow-crusted, fluffy dutch pecan galette",
+  "description": "A cozy dutch dish featuring pecan nuts, deglazed with a hint of bourbon and topped with a crispy yellow crust. Perfect for a snacking breakfast or brunch.",
+  "cuisine": "dutch",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "120g"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "120g",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "pecan nuts, toasted",
+      "amount": "120g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "60g"
+    },
+    {
+      "name": "bourbon",
+      "amount": "15g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "egg yolk",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "5g"
+    },
+    {
+      "name": "confectioner's sugar",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat your tava-griddle to 180°C.",
+    "In a medium bowl, whisk together the flour, granulated sugar, and salt. Add the softened butter and use a pastry blender or your fingertips to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "In a separate bowl, whisk together the eggs, heavy cream, and bourbon. Add the melted butter, toasted pecan nuts, and confectioner's sugar. Stir until well combined.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms. Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "On a lightly floured surface, roll out the chilled dough to a thickness of about 1/4 inch. Transfer the dough to the preheated tava-griddle and spread the pecan mixture evenly over the center, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough over the filling, pressing the dough gently to seal. Brush the egg wash over the crust and sprinkle with yellow food coloring.",
+    "Bake the galette for 25-30 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "Remove the galette from the tava-griddle and let cool for 10 minutes before serving. Dust with confectioner's sugar before slicing.",
+    "Serve warm, sliced into wedges.",
+    "Optional: Top with whipped cream or a scoop of vanilla ice cream for an extra-special treat."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "comfort-food",
+    "fodmap-friendly",
+    "high-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "yellow-crusted-fluffy-dutch-pecan-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crusted-fluffy-dutch-pecan-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T17:37:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "deglaze",
+    "primaryIngredient": "pecan nuts",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Pecan",
+    "descriptor": "Yellow-crusted, Fluffy",
+    "dishForm": "Galette"
+  }
+}

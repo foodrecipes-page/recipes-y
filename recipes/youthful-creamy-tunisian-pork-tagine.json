@@ -1,0 +1,106 @@
+{
+  "title": "youthful creamy tunisian pork tagine",
+  "description": "A pungent, creamy and adventurous Tunisian dish featuring ground pork, slow-cooked to perfection.",
+  "cuisine": "tunisian",
+  "diet": [
+    "pescatarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add onion and cook until browned, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, coriander, smoked paprika and cayenne pepper and cook for 1 minute.",
+    "Add ground pork and cook, breaking up with a spoon, until browned, about 5 minutes.",
+    "Add chicken broth, salt and black pepper and bring to a boil.",
+    "Transfer to a slow cooker and cook on low for 2 hours or high for 1 hour.",
+    "Stir in heavy cream and cook for an additional 10-15 minutes.",
+    "Garnish with parsley and serve over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 15,
+    "fat": 38
+  },
+  "slug": "youthful-creamy-tunisian-pork-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-creamy-tunisian-pork-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:43:25Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "ground pork",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "pork",
+    "descriptor": "youthful creamy",
+    "dishForm": "tagine"
+  }
+}

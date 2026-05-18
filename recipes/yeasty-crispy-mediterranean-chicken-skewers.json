@@ -1,0 +1,117 @@
+{
+  "title": "Yeasty, Crispy Mediterranean Chicken Skewers",
+  "description": "A delicious and crispy Mediterranean dish perfect for a date night. Features frozen peas and is diabetic-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound (450g)",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup (115g)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup (15g)",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon (5g)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon (2g)",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon (1g)",
+      "notes": ""
+    },
+    {
+      "name": "Frozen peas",
+      "amount": "1 cup (125g)",
+      "notes": ""
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 loaf (450g)",
+      "notes": "for serving"
+    },
+    {
+      "name": "Balsamic glaze",
+      "amount": "2 tablespoons (30g)",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a medium bowl, whisk together yogurt, olive oil, garlic, parsley, oregano, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a little space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 20 minutes.",
+    "While the skewers are baking, heat the balsamic glaze in a small saucepan over medium heat.",
+    "After 10 minutes of baking, remove the skewers from the oven and brush with the balsamic glaze.",
+    "Return the skewers to the oven and bake for an additional 5-7 minutes.",
+    "During the last 2 minutes of baking, add the frozen peas to the baking sheet with the skewers.",
+    "Remove the skewers and peas from the oven and let them rest for a few minutes.",
+    "Serve the skewers with crusty bread and additional balsamic glaze, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "easy-to-make",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "yeasty-crispy-mediterranean-chicken-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-crispy-mediterranean-chicken-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:21:38Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "frozen peas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Yeasty, Crispy",
+    "dishForm": "Skewers"
+  }
+}

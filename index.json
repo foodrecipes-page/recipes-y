@@ -288,6 +288,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-crispy-mediterranean-chicken-skewers",
+    "title": "Yeasty, Crispy Mediterranean Chicken Skewers",
+    "tags": [
+      "date-night",
+      "easy-to-make",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-crumbly-ukrainian-celery-dumplings",
     "title": "Yeasty Crumbly Ukrainian Celery Dumplings",
     "tags": [
@@ -12924,6 +12939,21 @@
     ],
     "cuisine": "saudi-arabian",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-molten-russian-chicken-tartare",
+    "title": "yummy molten russian chicken tartare",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "one-pan",
+      "russian",
+      "sushi-grade",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

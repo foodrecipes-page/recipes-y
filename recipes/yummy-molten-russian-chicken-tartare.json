@@ -1,0 +1,97 @@
+{
+  "title": "yummy molten russian chicken tartare",
+  "description": "fermented, molten, date-night russian dish featuring chicken breast, sashimi-cut, kosher-friendly",
+  "cuisine": "russian",
+  "diet": [
+    "kosher",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "250",
+      "notes": "fresh, sashimi-grade"
+    },
+    {
+      "name": "pickling spice blend",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": "coarse grind"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1/4 tsp",
+      "notes": "kosher-friendly"
+    },
+    {
+      "name": "lacto-fermented mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "molten cheese",
+      "amount": "50g",
+      "notes": "melted, gooey"
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "cut chicken breast into very fine, sashimi-grade pieces",
+    "mix pickling spice blend, kosher salt, black peppercorns, and dried dill weed in a small bowl",
+    "combine chicken pieces and spice blend mixture in a separate bowl, and mix well",
+    "cover bowl with plastic wrap and refrigerate for at least 30 minutes to allow flavors to meld",
+    "just before serving, stir in lacto-fermented mayonnaise and molten cheese",
+    "garnish with chopped fresh chives and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "russian",
+    "sushi-grade",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 60,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "yummy-molten-russian-chicken-tartare",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-molten-russian-chicken-tartare",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:21:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "chicken breast",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken",
+    "descriptor": "yummy molten",
+    "dishForm": "Tartare"
+  }
+}

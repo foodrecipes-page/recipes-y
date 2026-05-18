@@ -1,0 +1,104 @@
+{
+  "title": "Yogurt-Infused Greek Cottage Cheese Galaktoboureko Pie",
+  "description": "A pungent, creamy, crowd-pleaser Greek dish featuring ground ginger, robata-grill, gluten-free-friendly, form=galaktoboureko, vessel=wok.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups cottage cheese",
+      "amount": "220g",
+      "notes": "low-fat"
+    },
+    {
+      "name": "1/2 cup plain Greek yogurt",
+      "amount": "115g",
+      "notes": "full-fat"
+    },
+    {
+      "name": "1 tsp ground ginger",
+      "amount": "5g"
+    },
+    {
+      "name": "1 tsp lemon zest",
+      "amount": "2g"
+    },
+    {
+      "name": "2 tbsp honey",
+      "amount": "30g"
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "1/4 cup unsalted butter, melted",
+      "amount": "55g"
+    },
+    {
+      "name": "1 egg, beaten",
+      "amount": "50g"
+    },
+    {
+      "name": "1 sheet phyllo dough, thawed",
+      "amount": "1"
+    },
+    {
+      "name": "Confectioners' sugar, for dusting",
+      "amount": "25g"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400°F (200°C).",
+    "In a blender or food processor, blend the cottage cheese, Greek yogurt, ground ginger, lemon zest, honey, and granulated sugar until smooth.",
+    "Transfer the mixture to a bowl and stir in the melted butter and beaten egg until well combined.",
+    "Cut the phyllo dough into 4 equal pieces and stack them on top of each other.",
+    "Place a piece of phyllo dough into the wok and brush with some of the melted butter.",
+    "Spoon about 1/4 of the cottage cheese mixture onto the phyllo dough, leaving a 1-inch border around the edges.",
+    "Fold the phyllo dough over the filling to form a triangle, pressing the edges to seal.",
+    "Repeat with the remaining phyllo dough and filling.",
+    "Place the galaktoboureko pies on the robata grill and cook for 12-15 minutes, or until golden brown.",
+    "Dust with confectioners' sugar and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "dairy",
+    "gluten-free",
+    "greeksnacks",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "yogurt-infused-greek-cottage-cheese-galaktoboureko-pie",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-infused-greek-cottage-cheese-galaktoboureko-pie",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:15:42Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "robata-grill",
+    "primaryIngredient": "ground ginger",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "yogurt-infused",
+    "dishForm": "Galaktoboureko Pie"
+  }
+}

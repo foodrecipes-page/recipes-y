@@ -1,0 +1,106 @@
+{
+  "title": "youhtful, pillowy croatian pierogi pierogi bake",
+  "description": "a satvik friendly, wood-fired-baked croatian pierogi dish perfect for a date-night with miniature marshmallows and a grassy, pillowy texture.",
+  "cuisine": "croatian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "use high-protein flour for better texture"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "not too cold, not too hot"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use flaky sea salt for better flavor"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp",
+      "notes": "use mild oil like canola or grapeseed"
+    },
+    {
+      "name": "sweetened ground chestnut",
+      "amount": "1 cup",
+      "notes": "use store-bought or homemade"
+    },
+    {
+      "name": "miniature marshmallows",
+      "amount": "1 cup",
+      "notes": "use non-hydrogenated marshmallows for better texture"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tbsp",
+      "notes": "use full-fat sour cream for better flavor"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "use curly parsley for better texture"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine flour, salt, and warm water; mix until dough forms, about 5 minutes.",
+    "add egg and mix until well combined, about 2 minutes.",
+    "knead the dough for 5 minutes until smooth and elastic.",
+    "cover the dough with plastic wrap and let rest for 30 minutes.",
+    "divide the dough into 4 equal pieces and roll out each piece into a thin sheet.",
+    "cut out small squares of dough, about 3-inch per side.",
+    "place a small spoonful of sweetened ground chestnut in the center of each square.",
+    "brush the edges with water and fold the dough over to form a triangle or circle shape, sealing the edges with your fingers.",
+    "place the pierogi on a baking sheet lined with parchment paper, leaving 1-inch space between each pierogi.",
+    "dot the top of each pierogi with a small amount of vegetable oil and a pinch of salt.",
+    "bake the pierogi in a preheated wood-fired oven at 425°F (220°C) for 10-12 minutes, or until lightly golden brown.",
+    "while the pierogi are baking, heat the sour cream in a small saucepan over low heat, stirring occasionally, until warmed through.",
+    "to serve, place a few pierogi on each plate and drizzle with warmed sour cream; sprinkle with chopped parsley and miniature marshmallows."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "croatian",
+    "date-night",
+    "dessert",
+    "pierogi",
+    "satvik-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "youthful-pillowy-croatian-pierogi-pierogi-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-pillowy-croatian-pierogi-pierogi-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T15:44:20Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Pierogi ",
+    "descriptor": "Youthful, pillowy ",
+    "dishForm": "Pierogi Bake"
+  }
+}

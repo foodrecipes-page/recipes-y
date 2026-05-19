@@ -1,0 +1,107 @@
+{
+  "title": "Yeasty German Oat Crumble",
+  "description": "A hearty, vegetarian German breakfast dish featuring oats, stir-fry, and a hint of vanilla.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the oats, flour, sugar, and yeast.",
+    "In a separate bowl, whisk together the milk, egg, and melted vegetable oil.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Add the chopped onion, bell pepper, and carrots to the mixture and stir to combine.",
+    "Transfer the mixture to a greased 9x13-inch baking dish.",
+    "Bake for 35 minutes, or until the top is golden brown and the crumble is set.",
+    "Remove from the oven and stir in the vanilla extract.",
+    "Serve warm, topped with a dollop of whipped cream or a sprinkle of powdered sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "crumble",
+    "german",
+    "oat",
+    "one-dish",
+    "vegetarian",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "yeasty-german-oat-crumble",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-german-oat-crumble",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T16:04:46Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "stir-fry",
+    "primaryIngredient": "vanilla",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "oats",
+    "descriptor": "Yeasty",
+    "dishForm": null
+  }
+}

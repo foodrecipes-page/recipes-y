@@ -599,6 +599,22 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-german-oat-crumble",
+    "title": "Yeasty German Oat Crumble",
+    "tags": [
+      "breakfast",
+      "crumble",
+      "german",
+      "oat",
+      "one-dish",
+      "vegetarian",
+      "yeast"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-german-turkish-delight-bake",
     "title": "Yeasty German Turkish Delight Bake",
     "tags": [

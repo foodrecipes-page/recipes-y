@@ -1,0 +1,111 @@
+{
+  "title": "Yellow Saffron Argentinian Celeriac Empanadas",
+  "description": "Resinous, silky celeriac empanadas with a yellow saffron twist, perfect for meal prep and low in calories. These empanadas are a flavorful twist on traditional Argentinian empanadas.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "2 large",
+      "notes": "Peel and grate the celeriac"
+    },
+    {
+      "name": "Lardons",
+      "amount": "4 oz",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 tsp",
+      "notes": "Soak the saffron threads in 1 tsp hot water"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "Mix with salt and lard"
+    },
+    {
+      "name": "Lard",
+      "amount": "1 cup",
+      "notes": "Melt the lard"
+    },
+    {
+      "name": "Chicken egg",
+      "amount": "1 large",
+      "notes": "Beat the egg for the egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Use freshly ground black pepper"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 tsp",
+      "notes": "Optional, use to taste"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the lard over medium heat. Add the chopped onion and cook until softened.",
+    "Add the lardons to the skillet and cook until browned.",
+    "Add the grated celeriac to the skillet and cook until softened.",
+    "Mix the soaked saffron threads with the hot water and add to the skillet.",
+    "In a large bowl, combine the flour, salt, lard, and garlic powder (if using). Mix until a dough forms.",
+    "Knead the dough for 5 minutes until pliable.",
+    "Divide the dough into 12 equal pieces.",
+    "Roll out each piece of dough into a thin circle.",
+    "Place a spoonful of the celeriac mixture in the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "celeriac",
+    "empanadas",
+    "low-calorie",
+    "meal-prep",
+    "resinous",
+    "silk",
+    "yellow-saffron"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "yellow-saffron-argentinian-celeriac-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-saffron-argentinian-celeriac-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T08:57:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "celeriac",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Celeriac",
+    "descriptor": "Yellow-Saffron",
+    "dishForm": "Empanadas"
+  }
+}

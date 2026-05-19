@@ -12939,6 +12939,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-light-argentinian-tofu-parrillada",
+    "title": "Yummy Light Argentinian Tofu Parrillada",
+    "tags": [
+      "argentinian-cuisine",
+      "flexitarian-friendly",
+      "high-protein",
+      "one-pan",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-light-british-chicken-casserole",
     "title": "Light British Chicken Casserole",
     "tags": [

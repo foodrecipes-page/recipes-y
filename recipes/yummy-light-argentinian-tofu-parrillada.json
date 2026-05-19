@@ -1,0 +1,109 @@
+{
+  "title": "Yummy Light Argentinian Tofu Parrillada",
+  "description": "A light, earthy, and snappy Argentinian-style dish featuring tofu, ferment-kimchi, and traditional Argentinean flavors. Serve with crusty bread or as a main course.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Press and drain tofu before use"
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "For brushing tofu"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Brush tofu with olive oil and season with salt and black pepper.",
+    "Grill tofu for 3-4 minutes per side, or until lightly charred.",
+    "Meanwhile, heat 1 tablespoon of olive oil in a pan over medium heat.",
+    "Add sliced red onion and red bell pepper, cook for 5 minutes, or until slightly softened.",
+    "Add minced garlic and cook for an additional minute.",
+    "Stir in ferment-kimchi, chopped cilantro, and lemon juice.",
+    "Simmer mixture for 2-3 minutes, or until heated through.",
+    "Serve tofu on top of kimchi mixture and garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "flexitarian-friendly",
+    "high-protein",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yummy-light-argentinian-tofu-parrillada",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-light-argentinian-tofu-parrillada",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T10:40:39Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "tofu",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tofu",
+    "descriptor": "Yummy Light",
+    "dishForm": "Parrillada"
+  }
+}

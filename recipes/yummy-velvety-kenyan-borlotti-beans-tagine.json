@@ -1,0 +1,100 @@
+{
+  "title": "yummy velvety kenyan borlotti beans tagine",
+  "description": "a rich and buttery borlotti bean tagine with a hint of miso from kenya, perfect for a romantic dinner",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "50g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat the butter in a large saucepan over medium heat",
+    "add the chopped onion and cook until softened, about 5 minutes",
+    "add the grated ginger and minced garlic and cook for another minute",
+    "add the borlotti beans, date syrup, miso paste, salt, and black pepper, stir to combine",
+    "add 200ml of water to the saucepan and bring to a simmer",
+    "reduce the heat to low and cook, covered, for 20 minutes or until the beans are tender",
+    "stir in the lemon juice and cook for another minute",
+    "serve the tagine hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-ideas",
+    "one-pan",
+    "tagine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 30
+  },
+  "slug": "yummy-velvety-kenyan-borlotti-beans-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-velvety-kenyan-borlotti-beans-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T10:20:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "miso-marinate",
+    "primaryIngredient": "borlotti beans",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "yummy velvety",
+    "dishForm": "Tagine"
+  }
+}

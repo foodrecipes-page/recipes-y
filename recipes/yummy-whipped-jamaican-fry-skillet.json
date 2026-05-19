@@ -1,0 +1,97 @@
+{
+  "title": "Yummy Whipped Jamaican Fry Skillet",
+  "description": "A rich and creamy skillet dish with a twist of Jamaican flavors, featuring whipping cream and low-glycemic-friendly ingredients. Perfect for a lazy Sunday breakfast.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cajun seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Low-glycemic sweet potato",
+      "amount": "1 large"
+    },
+    {
+      "name": "Whipping cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fried plantains",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large cast-iron skillet over medium-high heat.",
+    "Add the Cajun seasoning and Jamaican allspice, and let it cook for 1 minute.",
+    "Add the sliced sweet potato and cook for 3-4 minutes, or until it starts to brown.",
+    "Add the fried plantains to the skillet and stir to combine with the sweet potato.",
+    "Pour in the whipping cream and stir to combine with the plantains and sweet potato.",
+    "Reduce heat to medium-low and let it simmer for 2-3 minutes, or until the sauce thickens slightly.",
+    "Stir in the chopped cilantro and season with salt and black pepper to taste.",
+    "Serve the skillet hot, garnished with additional cilantro if desired.",
+    "Let the skillet rest for 2-3 minutes before serving to allow the cream to thicken."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "high-protein",
+    "lactose-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "yummy-whipped-jamaican-fry-skillet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-whipped-jamaican-fry-skillet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T10:53:48Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "whipping cream",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fry",
+    "descriptor": "Yummy Whipped",
+    "dishForm": "Skillet"
+  }
+}

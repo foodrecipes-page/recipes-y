@@ -11884,6 +11884,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-deep-fried-british-fish-battered-fish",
+    "title": "Delicious Deep-Fried British Fish",
+    "tags": [
+      "british",
+      "deep-fried",
+      "fish",
+      "lunch",
+      "main-course",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 27,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-dense-canadian-peanut-wrap",
     "title": "yummy dense canadian peanut wrap",
     "tags": [

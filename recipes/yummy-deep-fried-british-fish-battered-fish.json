@@ -1,0 +1,105 @@
+{
+  "title": "Delicious Deep-Fried British Fish",
+  "description": "Crispy on the outside, tender on the inside, this dish is a delight to the senses. Enjoy with a side of mushy peas for a quintessential British experience.",
+  "cuisine": "British",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": "Cod or Haddock work well for this dish"
+    },
+    {
+      "name": "Self-Raising Flour",
+      "amount": "1 cup",
+      "notes": "Make sure to use gluten-free flour for a gluten-friendly version"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "Cracked into the batter for added moisture"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup",
+      "notes": "Makes the batter light and airy"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 cup",
+      "notes": "For deep-frying the fish"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "For frying the batter"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, baking powder, salt, and sugar.",
+    "In a separate bowl, whisk together the egg and buttermilk.",
+    "Add the wet ingredients to the dry ingredients and whisk until smooth.",
+    "Add the fish fillets to the batter and coat evenly.",
+    "Heat the olive oil in a deep frying pan to 350°F (175°C).",
+    "Deep-fry the battered fish for 3-4 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fried fish from the oil and place on a paper towel-lined plate.",
+    "Strain the used oil into a separate container and discard.",
+    "Heat the vegetable oil in the same pan to 350°F (175°C).",
+    "Add the remaining batter to the pan and fry for 2-3 minutes, or until golden brown.",
+    "Using a slotted spoon, remove the fried batter from the oil and place on top of the fried fish.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "deep-fried",
+    "fish",
+    "lunch",
+    "main-course",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "yummy-deep-fried-british-fish-battered-fish",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-deep-fried-british-fish-battered-fish",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T07:22:17Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "olive oil",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "fish",
+    "descriptor": "yummy deep-fried",
+    "dishForm": "Battered Fish"
+  }
+}

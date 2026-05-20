@@ -1,0 +1,92 @@
+{
+  "title": "Yeasty Croatian Bun Gibanica",
+  "description": "A traditional Croatian dish featuring layers of bun, a snappy dough that is perfect for a sick day, and can be made plant-based friendly by substituting the cheese with a vegan alternative.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount ": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bake the bun for 35 minutes until it is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bun",
+    "croatian",
+    "gibanica",
+    "gluten-free",
+    "snappy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yeasty-croatian-bun-gibanica",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-croatian-bun-gibanica",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:59:08Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "bun",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "bun",
+    "descriptor": "yeasty",
+    "dishForm": "gibanica"
+  }
+}

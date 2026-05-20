@@ -12124,6 +12124,23 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-fermented-malaysian-beef-broth",
+    "title": "Yummy Fermented Malaysian Beef Broth",
+    "tags": [
+      "beef",
+      "broth",
+      "comfort-food",
+      "fermented",
+      "gluten-free",
+      "low-sodium",
+      "malaysian",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 150,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-filipino-tofu-stew",
     "title": "Yummy Filipino Tofu Stew",
     "tags": [

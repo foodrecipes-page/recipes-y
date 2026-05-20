@@ -1,0 +1,125 @@
+{
+  "title": "Yummy Fermented Malaysian Beef Broth",
+  "description": "A tangy and crisp Malaysian dish featuring unsalted beef stock, perfect for a low-sodium diet.",
+  "cuisine": "malaysian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 pounds",
+      "notes": "preferably oxtail or beef neck bones"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "fermentation starter",
+      "amount": "1 packet",
+      "notes": "optional for fermentation"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the beef bones in the oven for 30 minutes.",
+    "In a large pot, sauté the chopped onion and sliced ginger in a little water until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the roasted beef bones, fish sauce, soy sauce, brown sugar, and black pepper to the pot.",
+    "Pour in the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 2 hours.",
+    "Strain the broth through a fine-mesh sieve into a clean pot.",
+    "Add the rice vinegar and optional salt to the broth.",
+    "If desired, add a fermentation starter and let the broth ferment at room temperature for 1-3 days.",
+    "Strain the broth again before serving.",
+    "Serve hot with noodles or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "broth",
+    "comfort-food",
+    "fermented",
+    "gluten-free",
+    "low-sodium",
+    "malaysian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 5
+  },
+  "slug": "yummy-fermented-malaysian-beef-broth",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-fermented-malaysian-beef-broth",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T00:19:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "Yummy Fermented",
+    "dishForm": "Broth"
+  }
+}

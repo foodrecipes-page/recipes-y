@@ -1,0 +1,119 @@
+{
+  "title": "yummy show-off portuguese meat braise",
+  "description": "a rich and flavorful portuguese dish featuring tender beef short ribs and a sweet caramel sauce, cooked to perfection in a cataplana. this recipe makes a great show-off dish for special occasions.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "season the short ribs with salt and black pepper. heat the oil in the cataplana over medium heat. add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute, until fragrant.",
+    "add the red wine and beef broth to the cataplana, scraping up any browned bits from the bottom. bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
+    "add the tomato paste, cumin, and paprika to the cataplana. stir to combine, then add the short ribs back to the pot.",
+    "cover the cataplana and transfer it to the oven. cook for an additional 30 minutes, until the meat is tender and the sauce is rich and flavorful.",
+    "remove the cataplana from the oven and stir in the caramel sauce. serve the short ribs hot, garnished with chopped parsley.",
+    "let the short ribs rest for 10 minutes before serving, to allow the juices to redistribute.",
+    "serve the short ribs with the rich and flavorful sauce spooned over the top.",
+    " Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "braise",
+    "caramel",
+    "dinner",
+    "meat",
+    "one-pan",
+    "portuguese",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 25,
+    "fat": 45
+  },
+  "slug": "yummy-show-off-portuguese-meat-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-show-off-portuguese-meat-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:59:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "caramel sauce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "meat",
+    "descriptor": "yummy show-off",
+    "dishForm": "Braise"
+  }
+}

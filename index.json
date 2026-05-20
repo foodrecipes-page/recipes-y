@@ -344,6 +344,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-crumbly-northern-thai-yogurt-wrap",
+    "title": "Yeasty Crumbly Northern Thai Yogurt Wrap",
+    "tags": [
+      "breakfast",
+      "halal",
+      "northern-thai",
+      "ssam-wrap",
+      "street-food",
+      "yogurt"
+    ],
+    "cuisine": "Northern Thai",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-crumbly-ukrainian-celery-dumplings",
     "title": "Yeasty Crumbly Ukrainian Celery Dumplings",
     "tags": [
@@ -13929,6 +13944,23 @@
     ],
     "cuisine": "algerian",
     "totalTimeMin": 95,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-show-off-portuguese-meat-braise",
+    "title": "yummy show-off portuguese meat braise",
+    "tags": [
+      "beef",
+      "braise",
+      "caramel",
+      "dinner",
+      "meat",
+      "one-pan",
+      "portuguese",
+      "special-occasion"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 270,
     "shard": "y"
   },
   {

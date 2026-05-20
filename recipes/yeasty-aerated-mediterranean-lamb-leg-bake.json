@@ -1,0 +1,112 @@
+{
+  "title": "Yeasty Aerated Mediterranean Lamb Leg Bake",
+  "description": "A unique and flavorful dish featuring a lamb leg, yeast, and Mediterranean herbs, perfect for a date-night dinner. This recipe is suitable for vegetarians as long as the yeast is vegan.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb leg",
+      "amount": "1",
+      "notes": "bone-in, 1.5-2 pounds"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh, 2 inches long"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "fresh, 1 inch long"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 loaf",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C) with a rack in the middle position.",
+    "Rinse the lamb leg and pat it dry with paper towels.",
+    "In a small bowl, mix together the yeast, olive oil, garlic, rosemary, thyme, salt, and black pepper.",
+    "Rub the mixture all over the lamb leg, making sure to coat it evenly.",
+    "Place the lamb leg on a rimmed baking sheet or a cast-iron skillet, bone-side down.",
+    "Bake the lamb leg for 20 minutes, then reduce the oven temperature to 375°F (190°C) and continue baking for another 20-25 minutes, or until the internal temperature reaches 145°F (63°C) for medium-rare.",
+    "Remove the lamb leg from the oven and let it rest for 10 minutes before slicing.",
+    "Meanwhile, mix the chopped parsley with a squeeze of lemon juice and a pinch of salt.",
+    "To serve, slice the lamb leg and serve it with the parsley salad and a side of crusty bread.",
+    "Sprinkle a little bit of yeast on top of the lamb leg before baking for an extra-flavorful crust.",
+    "Use a meat thermometer to ensure the lamb leg is cooked to a safe internal temperature.",
+    "If using a cast-iron skillet, make sure it is preheated in the oven for at least 10 minutes before adding the lamb leg.",
+    "For a more golden-brown crust, rub the lamb leg with a little bit of olive oil before baking."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "lamb",
+    "mediterranean",
+    "one-pan",
+    "weeknight",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 63,
+    "carbs": 4,
+    "fat": 26
+  },
+  "slug": "yeasty-aerated-mediterranean-lamb-leg-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-aerated-mediterranean-lamb-leg-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:03:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "salt-bake",
+    "primaryIngredient": "lamb leg",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb leg",
+    "descriptor": "yeasty aerated",
+    "dishForm": "bake"
+  }
+}

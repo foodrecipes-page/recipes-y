@@ -1,0 +1,97 @@
+{
+  "title": "Yellow Crunchy Italian Hazelnut Fritters",
+  "description": "Crispy Italian fritters filled with hazelnuts and fermented to perfection, dairy-free friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "shelled"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, cornstarch, salt, sugar, and yeast.",
+    "Add lemon zest, olive oil, and non-dairy milk to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a warm place to ferment for 1 hour, or until it has doubled in size.",
+    "Preheat the agemono-deep-fryer to 375 degrees Fahrenheit.",
+    "Once the oil is hot, drop the fermented dough by tablespoonfuls into the oil, making sure not to overcrowd the fryer.",
+    "Fry the fritters for 3-4 minutes on each side, or until they are golden brown and crispy.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle the fritters with hazelnuts and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crunchy-snacks",
+    "dairy-free-snacks",
+    "fried-foods",
+    "hazelnut-recipes",
+    "italian-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "yellow-crunchy-italian-hazelnut-fritters",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-crunchy-italian-hazelnut-fritters",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T14:56:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Yellow Crunchy",
+    "dishForm": "Fritters"
+  }
+}

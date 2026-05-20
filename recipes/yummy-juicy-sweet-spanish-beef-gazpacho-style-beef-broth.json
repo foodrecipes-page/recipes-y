@@ -1,0 +1,112 @@
+{
+  "title": "yummy, juicy, sweet spanish beef gazpacho-style beef broth",
+  "description": "a rich and flavorful beef broth made with mixed beef cuts, perfect for a cozy spanish-inspired meal.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "beef chuck roast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "beef shank",
+      "amount": "1 pound"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "4 stalks"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large Dutch oven over medium heat.",
+    "add the diced onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the beef bones, beef chuck roast, and beef shank, and cook until browned on all sides, about 5-7 minutes.",
+    "add the carrots, celery, red wine, beef broth, tomato paste, and smoked paprika to the pot.",
+    "bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "bake for 2 1/2 to 3 hours, or until the meat is tender and the broth is rich and flavorful.",
+    "remove the pot from the oven and let it cool slightly.",
+    "strain the broth through a fine-mesh sieve into a large bowl, discarding the solids.",
+    "skim off any excess fat that rises to the surface.",
+    "taste and adjust the seasoning as needed.",
+    "serve the broth hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "rich-broth",
+    "soup",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yummy-juicy-sweet-spanish-beef-gazpacho-style-beef-broth",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-juicy-sweet-spanish-beef-gazpacho-style-beef-broth",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:53:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "glaze",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beef",
+    "descriptor": "Yummy, Juicy, Sweet",
+    "dishForm": "Gazpacho-Style Beef Broth"
+  }
+}

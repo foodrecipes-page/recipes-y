@@ -12270,6 +12270,22 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-dutch-cheese-stir-fry",
+    "title": "yummy dutch cheese stir-fry",
+    "tags": [
+      "cheesy",
+      "dutch",
+      "egg-free",
+      "high-calorie",
+      "one-pan",
+      "stir-fry",
+      "weeknight"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-earthy-australian-narutomaki-gyoza",
     "title": "Earthy Australian Narutomaki Gyoza",
     "tags": [
@@ -13116,6 +13132,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 70,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-juicy-sweet-spanish-beef-gazpacho-style-beef-broth",
+    "title": "yummy, juicy, sweet spanish beef gazpacho-style beef broth",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "rich-broth",
+      "soup",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 180,
     "shard": "y"
   },
   {

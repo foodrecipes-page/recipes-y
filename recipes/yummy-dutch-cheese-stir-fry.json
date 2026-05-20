@@ -1,0 +1,119 @@
+{
+  "title": "yummy dutch cheese stir-fry",
+  "description": "salty, cheese-pull, weeknight dutch dish featuring mustard seeds, stir-fry, egg-free-friendly. Serve hot with bread or crackers.",
+  "cuisine": "dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked gouda cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "chopped ham",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 tsp olive oil in a large pan over medium-high heat. Add chopped onion and cook until softened, about 5 minutes.",
+    "add chopped bell pepper and cook until tender, about 4 minutes.",
+    "add chopped ham, smoked gouda cheese, sour cream, mustard seeds, salt, black pepper, and chopped parsley. Stir-fry until cheese is melted and bubbly.",
+    "add chopped fresh thyme and stir-fry for another minute.",
+    "add all-purpose flour and stir-fry for another minute, until mixture is thick and creamy.",
+    "serve hot, garnished with additional parsley or thyme if desired.",
+    "remove from heat and let cool slightly before serving.",
+    "adjust seasoning if necessary.",
+    "serve immediately and enjoy!",
+    "let cool completely and refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "dutch",
+    "egg-free",
+    "high-calorie",
+    "one-pan",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 60
+  },
+  "slug": "yummy-dutch-cheese-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-dutch-cheese-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:54:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "stir-fry",
+    "primaryIngredient": "mustard seeds",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "yummy",
+    "dishForm": "stir-fry"
+  }
+}

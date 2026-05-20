@@ -1,0 +1,109 @@
+{
+  "title": "Tunisian Weeknight Wrap",
+  "description": "A delicious and easy-to-make wrap using pandan leaves, perfect for a weeknight dinner. Featuring Chinese sesame sauce and satvik-friendly ingredients.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pandan leaves",
+      "amount": "2 large leaves",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chinese sesame sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Green chilies",
+      "amount": "1-2",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix rice flour, water, yeast, and salt in a bowl to form a smooth dough.",
+    "Knead the dough for 5 minutes until it becomes elastic.",
+    "Place the dough in a greased bowl, cover it with a cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick pan over medium heat.",
+    "Divide the dough into 2-3 equal portions and shape each portion into a ball.",
+    "Flatten each ball into a disk using a rolling pin.",
+    "Place a pandan leaf on a flat surface and place a disk on it.",
+    "Brush the edges of the disk with water and fold the leaf over the disk to form a wrap.",
+    "Heat the sesame sauce in a small pan over low heat.",
+    "Add grated ginger and green chilies to the sesame sauce and stir well.",
+    "Place a wrap in the pan and cook for 2-3 minutes or until it becomes golden brown.",
+    "Flip the wrap over and cook for another 2 minutes.",
+    "Repeat with the remaining dough and sesame sauce.",
+    "Serve the wraps hot with chopped cilantro sprinkled on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yeasty-gooey-tunisian-weeknight-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-gooey-tunisian-weeknight-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:36:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "weeknight dish",
+    "descriptor": "yeasty gooey",
+    "dishForm": "Wrap"
+  }
+}

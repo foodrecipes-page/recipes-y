@@ -1,0 +1,109 @@
+{
+  "title": "Yummy Korean Rice Bowl",
+  "description": "Delicious and umami Korean-inspired rice bowl dish featuring stracciatella cheese and score-fat, perfect for a brunch or a snack.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Korean chorizo sausage",
+      "amount": "4 pieces",
+      "notes": "about 1/2 inch in length"
+    },
+    {
+      "name": "Cooked Korean rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Stracciatella cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Score-fat (beef or pork fat)",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat score-fat in a large skillet over medium-high heat. Add the Korean chorizo sausage and cook until browned, about 2 minutes.",
+    "Remove the sausage from the skillet and set aside. Add the gochujang, soy sauce, brown sugar, and Korean chili flakes to the skillet and stir to combine.",
+    "Add the cooked Korean rice to the skillet and stir-fry for about 2 minutes, until the rice is well coated with the sauce.",
+    "Add the browned sausage back into the skillet and stir to combine.",
+    "Transfer the rice mixture to a bowl and top with stracciatella cheese, green onions, peanuts, and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "korean",
+    "one-pan",
+    "snappy",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 44,
+    "fat": 36
+  },
+  "slug": "yummy-korean-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-korean-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:45:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "score-fat",
+    "primaryIngredient": "stracciatella-cheese",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Yummy",
+    "dishForm": "Bowl"
+  }
+}

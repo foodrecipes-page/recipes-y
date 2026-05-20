@@ -1,0 +1,108 @@
+{
+  "title": "yummy solo dinner mix jamaican ground nut oil pastry",
+  "description": "A citrusy, crumbly, solo-dinner Jamaican dish featuring ground nut oil, nimono-simmer, shojin-friendly, vessel=ramekin. Perfect for a weeknight dinner",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "30ml",
+      "notes": "use high-quality ground nut oil for best flavor"
+    },
+    {
+      "name": "warm water",
+      "amount": "80ml",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "zest of 1 orange",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "zest of 1 lime",
+      "amount": "7.5g",
+      "notes": ""
+    },
+    {
+      "name": "nimono powder",
+      "amount": "10g",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "In a small mixing bowl, combine warm water and sugar. Let it sit for 5 minutes until sugar dissolves.",
+    "Mix in yeast and let it sit for another 5 minutes until yeast is activated.",
+    "Add all-purpose flour, salt, thyme, orange zest, lime zest, and nimono powder to the mixing bowl. Mix until a sticky dough forms.",
+    "Gradually add ground nut oil and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes elastic.",
+    "Place the dough in a greased ramekin and let it rise in a warm place for 30 minutes.",
+    "Preheat oven to 375\u00070\u00192f (190c).",
+    "Bake the pastry for 20-25 minutes until it is golden brown.",
+    "Let the pastry cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "ground-nut-oil",
+    "jamaican",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "yummy-solo-dinner-mix-jamaican-ground-nut-oil-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-solo-dinner-mix-jamaican-ground-nut-oil-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:30:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "ground nut oil",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "ground nut oil",
+    "descriptor": "yummy solo dinner mix",
+    "dishForm": "pastry"
+  }
+}

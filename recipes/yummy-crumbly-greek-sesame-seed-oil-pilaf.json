@@ -1,0 +1,105 @@
+{
+  "title": "yummy crumbly greek sesame seed oil pilaf",
+  "description": "a flavorful and energizing pilaf featuring sesame seed oil, perfect for a quick breakfast or lunch.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "preferably coarse bulgur"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "minced fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "minced fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a mortar, pound the parsley, dill, and mint together with a pestle until well combined.",
+    "in a large saucepan, heat the sesame seed oil over medium heat.",
+    "add the bulgur to the saucepan and toast, stirring constantly, for 2-3 minutes, or until lightly browned.",
+    "add the salt, black pepper, and lemon juice to the saucepan, stirring to combine.",
+    "add the water to the saucepan and bring to a boil.",
+    "reduce the heat to low, cover, and simmer for 10 minutes, or until the bulgur is tender and the liquid has been absorbed.",
+    "fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "greek",
+    "low-carb",
+    "lunch",
+    "oil-based",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "yummy-crumbly-greek-sesame-seed-oil-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crumbly-greek-sesame-seed-oil-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:50:18Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "sesame seed oil",
+    "descriptor": "yummy, crumbly",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "title": "yeasty crispy Moroccan Emmentaler cheese Khlea",
+  "description": "A classic Moroccan dish featuring crispy Emmentaler cheese served with toasted bread, perfect for a comforting snack or breakfast.",
+  "cuisine": "Moroccan",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 package active dry yeast",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup warm water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 cups all-purpose flour",
+      "amount": "",
+      "notes": "bread flour can be used for a more traditional taste"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup unsalted butter melted",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups Emmentaler cheese shredded",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 loaf crusty bread",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter for brushing",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Optional: 1 tsp Za'atar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Optional: 1 tsp ground cinnamon",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a large bowl, let it sit for 5-10 minutes until frothy.",
+    "Add sugar to the bowl and stir to dissolve.",
+    "Add flour, salt, and melted butter to the bowl and mix until a dough forms.",
+    "Knead the dough on a floured surface for 5-7 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with plastic wrap and let it rise in a warm place for 1-2 hours until doubled in size.",
+    "Preheat oven to 375°F (190°C).",
+    "Punch down the dough and divide it into 2 equal pieces.",
+    "Roll out each piece into a long rope and braid into 2 long braids.",
+    "Place the braids on a baking sheet lined with parchment paper, brush with butter and sprinkle with parsley.",
+    "Bake for 15-20 minutes until golden brown.",
+    "Meanwhile toast the bread by grilling or baking at 350°F (180°C) for 5-7 minutes until crispy.",
+    "Brush the toasted bread with butter, sprinkle with Emmentaler cheese, garlic and Za'atar (if using).",
+    "Place the bread under the broiler for 1-2 minutes until cheese is melted and bubbly.",
+    "Serve warm with cheese bread and a side of braided bread.",
+    "Optional: sprinkle with cinnamon (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "cheese",
+    "comfort-food",
+    "easy-to-make",
+    "moroccan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "yeasty-crispy-moroccan-emmentaler-cheese-khhlea",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-crispy-moroccan-emmentaler-cheese-khhlea",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:42:27Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Emmentaler cheese",
+    "descriptor": "yeasty crispy",
+    "dishForm": "Khhlea"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Yummy Fluffy Neapolitan Dried-Shrimp-Goong-Haeng Orecchiette",
+  "description": "A citrusy, fluffy Neapolitan dish featuring dried-shrimp-goong-haeng, slow-cooked to perfection and served with orecchiette pasta. This energizing dish is perfect for a quick lunch or dinner.",
+  "cuisine": "neapolitan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried shrimp-goong-haeng",
+      "amount": "120g",
+      "notes": "rehydrated in 150ml of hot water for 30 minutes"
+    },
+    {
+      "name": "orecchiette pasta",
+      "amount": "250g",
+      "notes": "cooking time 8 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml",
+      "notes": "for saut\u00109ing the garlic and dried shrimp-goong-haeng"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "butter",
+      "amount": "20g",
+      "notes": "unsalted and softened"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "50g",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "20g",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "zest of 1 lemon",
+      "amount": "1 piece",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rehydrate the dried shrimp-goong-haeng in 150ml of hot water for 30 minutes, then drain and set aside.",
+    "Cook the orecchiette pasta according to the package instructions until al dente, then drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saut\u00036 the minced garlic until fragrant.",
+    "Add the rehydrated dried shrimp-goong-haeng to the skillet and cook for 2-3 minutes, until fragrant.",
+    "Add the lemon juice and butter to the skillet and cook for 1-2 minutes, until the butter has melted and the mixture is well combined.",
+    "Add the cooked pasta to the skillet and toss with the garlic and dried shrimp-goong-haeng mixture until well coated.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and top with grated parmesan cheese and chopped parsley.",
+    "Garnish with the zest of 1 lemon and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "neapolitan",
+    "one-pan",
+    "orecchiette",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "yummy-fluffy-neapolitan-dried-shrimp-goong-haeng-orecchiette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-fluffy-neapolitan-dried-shrimp-goong-haeng-orecchiette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:50:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "ovo-vegetarian",
+    "region": "neapolitan",
+    "cuisineAdjective": "Neapolitan",
+    "mainIngredient": "Dried-Shrimp-Goong-Haeng",
+    "descriptor": "Yummy Fluffy",
+    "dishForm": "Orecchiette"
+  }
+}

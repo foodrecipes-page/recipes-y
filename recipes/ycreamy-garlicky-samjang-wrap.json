@@ -1,0 +1,86 @@
+{
+  "title": "YCreamy Garlicky Samjang Wrap",
+  "description": "A creamy and garlicky samjang wrap perfect for post-workout recovery, inspired by a British dish. This buddhist-temple-friendly meal is cooked on a binchotan grill.",
+  "cuisine": "British-Inspired Asian Fusion",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": 1
+    },
+    {
+      "name": "Samjang Sauce (20g)",
+      "amount": ""
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "3tsp"
+    },
+    {
+      "name": "Garlic Puree",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Yogurt (150ml)",
+      "amount": ""
+    },
+    {
+      "name": "Kale Leaves (small handful for wraps)",
+      "amount": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Tofu or Tempeh (optional, if vegan)",
+      "amount": "1 slice"
+    }
+  ],
+  "instructions": [
+    "Preheat binchotan grill to medium-high.",
+    "Mix samjang sauce with ginger paste and garlic puree in a bowl. Add yogurt to bind the mixture into a spreadable consistency.",
+    "Toast bread slices until lightly golden, then brush with sesame oil.",
+    "Place toast on grill for 1-2 minutes per side or until crispy, turning carefully.",
+    "Spread samjang mixture over each toasted slice of bread, followed by kale leaves and optional tofu/tempeh if using.",
+    "Fold wraps in half to enclose ingredients. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-dish",
+    "buddhist-temple-friendly",
+    "creamy",
+    "garlicky",
+    "post-workout",
+    "vessel-binchotan-grill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "ycreamy-garlicky-samjang-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ycreamy-garlicky-samjang-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T16:24:11Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "bain-marie",
+    "primaryIngredient": "ssamjang",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Garlicky",
+    "mainIngredient": "Ssamjang",
+    "descriptor": "Creamy",
+    "dishForm": "Wrap"
+  }
+}

@@ -10710,6 +10710,20 @@
     "shard": "y"
   },
   {
+    "slug": "young-sweet-jelly-portuguese-kid-friendly-dessert-cake",
+    "title": "young sweet jelly portuguese kid-friendly dessert cake",
+    "tags": [
+      "dessert",
+      "easy-to-make",
+      "kid-friendly",
+      "portuguese",
+      "sattvic"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "youthful-american-fruit-mix-bowl",
     "title": "Youthful American Fruit Mix Bowl",
     "tags": [
@@ -11738,6 +11752,22 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-clay-pot-filipino-beef-bistek",
+    "title": "Yummy Clay Pot Filipino Beef Bistek",
+    "tags": [
+      "beef",
+      "easy-meal",
+      "filipino",
+      "grill",
+      "one-pan",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

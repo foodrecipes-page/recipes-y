@@ -1,0 +1,87 @@
+{
+  "title": "young sweet jelly portuguese kid-friendly dessert cake",
+  "description": "A traditional portuguese dessert featuring a sweet and tangy jelly topping, perfect for kids.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Mix together the almond flour, coconut sugar, date syrup, apple cider vinegar, red wine vinegar, baking powder, and salt in a large bowl.",
+    "Knead the mixture for 10 minutes until it forms a smooth dough.",
+    "Roll out the dough to a thickness of 1/4 inch and place it in a 9x13 inch baking dish.",
+    "Bake the cake for 25 minutes or until it is lightly golden brown.",
+    "While the cake is baking, prepare the jelly topping by mixing together the apple cider vinegar, red wine vinegar, and 1 cup of water in a saucepan.",
+    "Bring the mixture to a boil over medium heat and then reduce the heat to low and simmer for 10 minutes.",
+    "Remove the cake from the oven and let it cool for a few minutes.",
+    "Spread the jelly topping over the warm cake."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "kid-friendly",
+    "portuguese",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "young-sweet-jelly-portuguese-kid-friendly-dessert-cake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/young-sweet-jelly-portuguese-kid-friendly-dessert-cake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:37:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "kid-friendly dessert",
+    "descriptor": "Young sweet jelly",
+    "dishForm": "Cake"
+  }
+}

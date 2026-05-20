@@ -1,0 +1,122 @@
+{
+  "title": "Yummy Clay Pot Filipino Beef Bistek",
+  "description": "A classic Filipino dish featuring tender beef, a sweet and savory sauce, and a hint of smokiness from the robata grill. Serve with steamed rice and a side of steamed vegetables for a complete meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 pounds beef (such as flank steak or skirt steak)",
+      "amount": "1.5",
+      "notes": "Slice the beef into thin strips before cooking."
+    },
+    {
+      "name": "1/4 cup soy sauce",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup vinegar",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "Mince the garlic before adding it to the sauce."
+    },
+    {
+      "name": "1 tablespoon black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 avocado",
+      "amount": "1",
+      "notes": "Slice the avocado into wedges and serve on the side."
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons brown sugar",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 clay pot or robata grill",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1",
+      "notes": "Thinly slice the onion and add it to the pot with the beef."
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the clay pot or robata grill to medium-high heat.",
+    "Add the oil to the pot and swirl it around to coat the bottom.",
+    "Add the sliced onion and cook until it is translucent, about 3 minutes.",
+    "Add the beef to the pot and cook until it is browned on both sides, about 5 minutes.",
+    "Add the garlic, soy sauce, vinegar, black pepper, brown sugar, and salt to the pot and stir to combine.",
+    "Add the beef broth to the pot and bring the mixture to a boil.",
+    "Cover the pot with a lid and transfer it to the robata grill or a preheated oven.",
+    "Cook the beef for 20-25 minutes, or until it is tender and the sauce has thickened.",
+    "Slice the avocado into wedges and serve it on the side with the beef and sauce.",
+    "Serve the beef with steamed rice and a side of steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "easy-meal",
+    "filipino",
+    "grill",
+    "one-pan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 546,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "yummy-clay-pot-filipino-beef-bistek",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-clay-pot-filipino-beef-bistek",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:38:05Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "avocado",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef",
+    "descriptor": "Yummy Clay Pot",
+    "dishForm": "Bistek"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "yummy adventurous french blackberries savory tarte tatin galette",
+  "description": "a lyon-style tarte tatin galette that combines sweet and savory flavors, featuring blackberries and a robata-grilled twist",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "blackberries",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "preheat the robata grill to 400°f (200°c).",
+    "brush the dough with egg wash and place on a baking sheet.",
+    "roasta-grill the dough for 10 minutes on each side, or until golden brown.",
+    "place the blackberries on the dough, leaving a 1-inch border around the edges.",
+    "fold the edges of the dough up over the blackberries, pressing gently to seal.",
+    "brush the top of the galette with the cream and sprinkle with sugar.",
+    "roasta-grill the galette for an additional 10 minutes, or until the cream is golden brown.",
+    "allow the galette to cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "blackberries",
+    "french",
+    "galette",
+    "lyon",
+    "one-pan",
+    "robata-grill",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "yummy-adventurous-french-blackberries-savory-tarte-tatin-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-adventurous-french-blackberries-savory-tarte-tatin-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:26:28Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "robata-grill",
+    "primaryIngredient": "blackberries",
+    "diet": "low-calorie",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "blackberries",
+    "descriptor": "yummy adventurous",
+    "dishForm": "savory Tarte Tatin Galette"
+  }
+}

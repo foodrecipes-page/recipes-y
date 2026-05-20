@@ -1,0 +1,98 @@
+{
+  "title": "Yeasty Crispy Slovakian Yoghurt Bowl",
+  "description": "Traditional Slovakian breakfast dish featuring sautéed ingredients in a crunchy Korean brass bowl served over natural yoghurt. Perfect for a quick and nutritious morning meal. ",
+  "cuisine": "Slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Natural Yoghurt",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tablespoons",
+      "notes": "Optional for crunchy topping"
+    },
+    {
+      "name": "Coarse Ground Rye Flour",
+      "amount": "1 cup",
+      "notes": "For crunchy base of the Korean brass bowl"
+    },
+    {
+      "name": "Mashed Carrots",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Sautéed Onions",
+      "amount": "1 medium",
+      "notes": "Sautéed in 1 tablespoon of Olive Oil at 150°C for 8 minutes until caramelized"
+    },
+    {
+      "name": "Sautéed Mushrooms",
+      "amount": "50g",
+      "notes": "Sautéed in 1 tablespoon of Olive Oil at 150°C for 6 minutes until golden brown"
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "2 tablespoons",
+      "notes": "Optional for garnish"
+    },
+    {
+      "name": "Slovakian Rye Bread",
+      "amount": "1 slice",
+      "notes": "Optional for crunchy topping"
+    }
+  ],
+  "instructions": [
+    "Spread a thin layer of the coarse ground rye flour onto the bottom of a Korean brass bowl",
+    "Sauté the onions in olive oil until caramelized then set aside",
+    "Sauté the mushrooms in olive oil until golden brown then set aside",
+    "Spread the mashed carrots over the rye flour base of the bowl",
+    "Top the carrots with the sautéed onions and mushrooms",
+    "Add a dollop of natural yoghurt on top of the onions and mushrooms",
+    "Garnish with chopped fresh dill if desired and/or top with a slice of Slovakian rye bread or sesame seeds for added crunch",
+    "Serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 14,
+  "totalTimeMin": 29,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "nutritious",
+    "one-pan",
+    "quick",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "yeasty-crunchy-slovakian-yoghurt-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-crunchy-slovakian-yoghurt-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:17:15Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "saute",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "yoghurt",
+    "descriptor": "yeasty crunchy",
+    "dishForm": "Bowl"
+  }
+}

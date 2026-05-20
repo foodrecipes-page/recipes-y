@@ -1,0 +1,114 @@
+{
+  "title": "Yogurt-Marinated-Smoky Mediterranean Fish Tagine",
+  "description": "A smoky, aerated Mediterranean dish featuring low-fat yogurt marinated sashimi-cut fish, cooked in a clay tajine vessel with beurre-noisette.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mediterranean fish (Bass or Snapper)",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Yogurt marinate",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beurre-noisette",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your clay tajine to 400°F (200°C).",
+    "In a large bowl, whisk together yogurt, olive oil, beurre-noisette, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the fish to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the fish from the marinade and place it in the preheated tajine.",
+    "Pour the lemon juice over the fish and cover the tajine with a lid.",
+    "Cook for 12 minutes or until the fish is cooked through and flakes easily with a fork.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "yogurt-marinated-smoky-mediterranean-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-marinated-smoky-mediterranean-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T01:15:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish",
+    "descriptor": "yogurt-marinated-smoky",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Y Crispy Winey Spanish Wrap",
+  "description": "This energizing dish features crispy English muffins with a mediterranean twist and infused with wine for added flavor.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "English muffins",
+      "amount": 2,
+      "notes": ""
+    },
+    {
+      "name": "Mushy peas (mushimono)",
+      "amount": 150,
+      "notes": "Steamed and drained"
+    },
+    {
+      "name": "Wine (red or white)",
+      "amount": "1/4 cup",
+      "notes": "Any type of wine can be used, such as Pinot Noir for a slight sweetness or Cabernet Sauvignon for a more robust taste."
+    },
+    {
+      "name": "Olive oil",
+      "amount": 10,
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "notes": "Sliced and minced"
+    },
+    {
+      "name": "Chopped tomatoes",
+      "amount": 50,
+      "notes": "Diced fresh for added freshness."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": 10,
+      "notes": "Chopped finely for garnish."
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": 2,
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Place the English muffins on a baking sheet and toast them until golden brown.",
+    "In a small saucepan, heat the olive oil over medium heat. Add garlic and cook for about 2 minutes or until fragrant.",
+    "Add chopped tomatoes, wine, and balsamic vinegar to the saucepan with garlic. Cook gently for about 5-7 minutes until slightly thickened.",
+    "Spread the tomato-wine mixture evenly on each toasted English muffin.",
+    "Sprinkle with fresh parsley before serving.",
+    "Serve immediately as a light lunch option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean-diet",
+    "mushy-peas-ingredient",
+    "spanish-wrap",
+    "winey-flavor"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 14,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "y-crispy-winey-spanish-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/y-crispy-winey-spanish-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T15:48:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "english muffins",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Wine",
+    "descriptor": "Crispy",
+    "dishForm": "Wrap"
+  }
+}

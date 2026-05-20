@@ -1,0 +1,112 @@
+{
+  "title": "Ye-beg-alicha",
+  "description": "A buttery, springy Ethiopian dish featuring almonds, perfect for a sattvic-friendly breakfast or snack.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "cardamom",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "icing sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "powdered milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the all-purpose flour, almonds, and cardamom powder. ",
+    "Beat in the egg, vanilla extract, and melted butter until well combined.",
+    "Add the powdered milk and mix until a dough forms.",
+    "Turn the dough onto a floured surface and knead for 10 minutes, until smooth and elastic.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 6-8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and cook for 2-3 minutes on each side, until golden brown.",
+    "Transfer the cooked disks to a plate and let cool slightly.",
+    "To make the icing, mix the powdered milk and icing sugar in a small bowl until smooth.",
+    "Dip each cooked disk into the icing and then immediately submerge into an ice bath to shock.",
+    "Once the disks have cooled, they are ready to serve.",
+    "Serve warm or at room temperature, garnished with additional almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "breakfast",
+    "ethiopian",
+    "high-fiber",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "ye-beg-alicha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ye-beg-alicha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:43:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "almonds",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "almonds",
+    "descriptor": "dried-to-perfection",
+    "dishForm": "Ye-beg-alicha"
+  }
+}

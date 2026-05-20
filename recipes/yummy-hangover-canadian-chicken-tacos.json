@@ -1,0 +1,102 @@
+{
+  "title": "yummy hangover canadian chicken tacos",
+  "description": "a peppery, cheese-pull hangover cure featuring chicken and ice-bath-shock, served in a molcajete.",
+  "cuisine": "canadian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup shredded"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "molcajete",
+      "amount": null
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "season chicken breast with smoked paprika and black pepper",
+    "dredge chicken in flour",
+    "heat cooking oil in a pan over medium-high heat",
+    "add chicken to the pan and cook until browned on both sides",
+    "transfer chicken to a plate and set aside",
+    "crack eggs into the pan and scramble them",
+    "add canned tomatoes to the pan and stir",
+    "place chicken back in the pan and stir to coat with egg and tomato mixture",
+    "transfer mixture to molcajete and top with shredded cheese",
+    "place molcajete under the broiler until cheese is melted and bubbly",
+    "remove molcajete from the oven and let it cool for a minute",
+    "shock the molcajete in an ice bath for 30 seconds",
+    "remove molcajete from the ice bath and serve"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "flexitarian",
+    "hangover-cure",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "yummy-hangover-canadian-chicken-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-hangover-canadian-chicken-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:43:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "chicken",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yummy Hangover",
+    "dishForm": "tacos"
+  }
+}

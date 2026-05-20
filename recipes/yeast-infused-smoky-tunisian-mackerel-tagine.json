@@ -1,0 +1,105 @@
+{
+  "title": "Yeast-infused Smoky Tunisian Mackerel Tagine",
+  "description": "A deeply aromatic, smoky fish tagine featuring crisp mackerel fillets simmered with bhuna spices, unwaxed lime, and a savory pinch of nutritional yeast for an earthy depth of flavor.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "skin-on, scaled and pin-boned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "bhuna spice paste",
+      "amount": "3 tbsp",
+      "notes": "concentrated ginger, garlic, cumin, and cardamom blend"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "sweet Spanish variety"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1.5 tbsp",
+      "notes": "for savory, earthy umami depth"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "14 oz",
+      "notes": "fire-roasted preferred"
+    },
+    {
+      "name": "unwaxed lime",
+      "amount": "1",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "0.25 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Pat the mackerel fillets dry with paper towels and season the skin side with salt and half of the smoked paprika.",
+    "Heat one tablespoon of olive oil in a heavy tagine or deep cast-iron skillet over medium-high heat.",
+    "Sear the mackerel fillets skin-side down for three minutes until the skin is golden and very crisp, then transfer them to a plate.",
+    "Reduce the heat to medium, add the remaining olive oil, and saute the chopped onion until soft and translucent.",
+    "Stir in the bhuna spice paste, the remaining smoked paprika, and the nutritional yeast, cooking for two minutes until highly fragrant.",
+    "Pour in the crushed tomatoes and bring the mixture to a gentle simmer for five minutes to reduce and thicken the sauce.",
+    "Nestle the seared mackerel fillets back into the sauce skin-side up, then scatter the unwaxed lime slices around them.",
+    "Cover the tagine and cook on low heat for six minutes until the fish is just cooked through and flakey.",
+    "Garnish with chopped fresh cilantro and serve hot directly from the pot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pot",
+    "pescatarian",
+    "seafood",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 26,
+    "carbs": 11,
+    "fat": 25
+  },
+  "slug": "yeast-infused-smoky-tunisian-mackerel-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeast-infused-smoky-tunisian-mackerel-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T23:04:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Mackerel",
+    "descriptor": "Yeast-infused Smoky",
+    "dishForm": "Tagine"
+  }
+}

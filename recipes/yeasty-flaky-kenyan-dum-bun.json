@@ -1,0 +1,113 @@
+{
+  "title": "Yeasty Flaky Kenyan Dum Bun",
+  "description": "A festive Kenyan dish featuring vanilla bean paste and flaky pastry, perfect for breakfast or brunch. This recipe is diabetic-friendly and makes 4-6 servings.",
+  "cuisine": "kenyan",
+  "diet": [
+    "diabetic",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "warm milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm milk and yeast. Let it sit for 5 minutes until frothy.",
+    "Add sugar, salt, and 1 cup of flour to the bowl. Mix until a smooth batter forms.",
+    "Add cold butter and use a pastry blender or your fingers to work it into the dough until it resembles coarse crumbs.",
+    "Gradually add the remaining flour, 1/2 cup at a time, until the dough comes together in a ball.",
+    "Roll out the dough on a lightly floured surface to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of filling in the center of each dough circle. Fold the dough over the filling to form a bun, and press the edges together to seal.",
+    "Place the buns on a baking sheet lined with parchment paper, leaving about 1 inch of space between each bun.",
+    "Brush the tops of the buns with melted butter.",
+    "Bake the buns in a preheated oven at 375°F for 18-20 minutes, or until golden brown.",
+    "Let the buns cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 20,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "diabetic-friendly",
+    "flaky",
+    "holiday",
+    "kenyan",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "yeasty-flaky-kenyan-dum-bun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-flaky-kenyan-dum-bun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:15:53Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "dum",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "dum",
+    "descriptor": "yeasty flaky",
+    "dishForm": "bun"
+  }
+}

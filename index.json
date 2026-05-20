@@ -316,6 +316,19 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-crisp-tunisian-rice-pastry",
+    "title": "Yeasty, Crisp Tunisian Rice Pastry (Ghriba)",
+    "tags": [
+      "breakfast",
+      "high-carb",
+      "tunisian",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-crispy-mediterranean-chicken-skewers",
     "title": "Yeasty, Crispy Mediterranean Chicken Skewers",
     "tags": [
@@ -720,6 +733,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-gooey-kenyan-marzipan-tart",
+    "title": "Yeasty Gooey Kenyan Marzipan Tart",
+    "tags": [
+      "bain-marie",
+      "date-night",
+      "dessert",
+      "kenyan",
+      "macrobiotic"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

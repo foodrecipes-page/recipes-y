@@ -1,0 +1,85 @@
+{
+  "title": "Yeasty, Crisp Tunisian Rice Pastry (Ghriba)",
+  "description": "A traditional Tunisian dish featuring crispy rice flour pancakes infused with yeast and sesame seeds, perfect for a hangover cure.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 tablespoon"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine 2 cups of rice flour and 1 teaspoon of yeast.",
+    "Gradually add 1 cup of water and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic.",
+    "Let the dough rest for 1 hour in a warm place.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and brush the tops with olive oil.",
+    "Heat a non-stick skillet over medium heat and cook the pancakes for 2 minutes on each side.",
+    "Repeat the cooking process for each pancake until they are all cooked.",
+    "Serve the Ghriba warm, garnished with sesame seeds and anise seeds.",
+    "To make the spherification garnish, mix 1 tablespoon of sesame seeds with 1 tablespoon of water to form a paste, then shape the paste into small balls.",
+    "Place the spherified sesame seeds on top of the Ghriba before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-carb",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 7
+  },
+  "slug": "yeasty-crisp-tunisian-rice-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-crisp-tunisian-rice-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:51:55Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "spherify",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "rice",
+    "descriptor": "yeasty, crisp",
+    "dishForm": "pastry"
+  }
+}

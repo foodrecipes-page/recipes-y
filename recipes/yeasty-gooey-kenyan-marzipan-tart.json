@@ -1,0 +1,76 @@
+{
+  "title": "Yeasty Gooey Kenyan Marzipan Tart",
+  "description": "A unique date-night dessert featuring Kenyan flavors and a gooey marzipan center, prepared using a bain-marie for a macrobiotic-friendly twist.",
+  "cuisine": "kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "macrobiotic sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine yeast and 1 tablespoon sugar in a bowl, add 1/2 cup lukewarm water, and let sit for 5 minutes until frothy.",
+    "In a separate bowl, cream together coconut oil and marzipan until smooth.",
+    "Add almond flour, egg, and vanilla extract to the marzipan mixture; mix until a dough forms.",
+    "Roll out the dough and transfer it to a pie dish, trimming edges to fit, and baking at 375°F for 15 minutes.",
+    "Place pie dish in a larger baking dish and fill with water to create a bain-marie; bake for an additional 10 minutes until the crust is golden brown.",
+    "Let the tart cool for 5 minutes before slicing and serving warm, topped with a scoop of vanilla ice cream.",
+    "Note: If using a bain-marie, the tart should be baked at 375°F for 25 minutes instead of 10 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bain-marie",
+    "date-night",
+    "dessert",
+    "kenyan",
+    "macrobiotic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yeasty-gooey-kenyan-marzipan-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-gooey-kenyan-marzipan-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:53:00Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "bain-marie",
+    "primaryIngredient": "marzipan",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "marzipan",
+    "descriptor": "yeasty gooey",
+    "dishForm": "Tart"
+  }
+}

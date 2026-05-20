@@ -1,0 +1,101 @@
+{
+  "title": "yummy lazy turkish chuck roast belly",
+  "description": "Fermented, crumbly Turkish dish featuring chuck roast and low-fat-friendly ingredients. Perfect for a lazy Sunday.",
+  "cuisine": "turkish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "150 ml"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "double-fry KFC chicken seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150°C.",
+    "Season the chuck roast with salt, black pepper, paprika, cumin, and garlic powder.",
+    "Heat 1 tbsp of vegetable oil in a large Dutch oven over medium-high heat.",
+    "Sear the chuck roast until browned on all sides, then remove from heat.",
+    "Add the remaining 1 tbsp of vegetable oil, then sprinkle the flour and cook for 1 minute.",
+    "Add the plain yogurt and stir to combine.",
+    "Return the chuck roast to the pot and add the double-fry KFC chicken seasoning.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise for 2.5 hours, or until the meat is tender and falls apart easily.",
+    "Remove from the oven and let rest for 10 minutes before slicing.",
+    "Serve warm with the juices spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lazy-sunday",
+    "low-fat",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 63,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "yummy-lazy-turkish-chuck-roast-belly",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-lazy-turkish-chuck-roast-belly",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:12:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "chuck roast",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chuck roast",
+    "descriptor": "yummy lazy",
+    "dishForm": "Belly"
+  }
+}

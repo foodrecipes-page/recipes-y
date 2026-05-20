@@ -1,0 +1,109 @@
+{
+  "title": "Yeasty Zesty Irish Fish Fried-Rice",
+  "description": "Crispy, yeasty fried-rice dish with Irish flair, paleo-friendly ingredients, and a tangy beurre-monte sauce. Features dashi broth for added depth.",
+  "cuisine": "irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dashi broth (4 cups)",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cooked Irish salmon (1 cup)",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh dill (chopped)",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Paleo-friendly brown rice (1 cup)",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "Beurre-monte sauce (see below)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 teaspoon",
+      "notes": "for added depth"
+    }
+  ],
+  "instructions": [
+    "Heat dashi broth in a saucepan over medium heat. ",
+    "Add cooked Irish salmon and stir to combine. ",
+    "Add chopped fresh dill, salt, and pepper; stir to combine. ",
+    "In a large skillet or wok, melt 1 tablespoon of unsalted butter over medium-high heat. ",
+    "Add paleo-friendly brown rice and stir-fry for 2-3 minutes. ",
+    "Push rice to one side of the skillet; add remaining 1 tablespoon of unsalted butter to the other side. ",
+    "Once butter is melted, pour beurre-monte sauce over the rice and stir-fry for another 2 minutes. ",
+    "Stir in cooked salmon mixture and cook for an additional 1-2 minutes. ",
+    "Taste and adjust seasoning as needed. ",
+    "Transfer fried-rice to a serving platter and garnish with additional chopped fresh dill if desired. ",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish-based",
+    "irish-cuisine",
+    "one-pan",
+    "paleo-friendly",
+    "yeast-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "yeasty-zesty-irish-fish-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-zesty-irish-fish-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:40:12Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "beurre-monte",
+    "primaryIngredient": "dashi",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Fish",
+    "descriptor": "Yeasty Zesty",
+    "dishForm": "Fried-Rice"
+  }
+}

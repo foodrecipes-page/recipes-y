@@ -1,0 +1,112 @@
+{
+  "title": "yummy midnight chewy ukrainian foie-gras skillet",
+  "description": "Satisfy your midnight cravings with this salty, chewy Ukrainian dish featuring foie-gras and a hint of fermentation. Keto-friendly and ready in under an hour!",
+  "cuisine": "ukrainian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "4",
+      "notes": "keto-friendly choice, avoid store-bought options for better quality"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "1 bunch",
+      "notes": "chopped fresh for garnish"
+    },
+    {
+      "name": "fennel",
+      "amount": "2 bulbs",
+      "notes": "coarsely chopped for added flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed for best flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground for best flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "himalayan pink salt for added depth"
+    },
+    {
+      "name": "black caviar",
+      "amount": "1 tsp",
+      "notes": "optional, for added luxury"
+    },
+    {
+      "name": "rye bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "gluten-free, for added crunch"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted, for added richness"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp",
+      "notes": "toasted for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the tava-griddle over medium heat for 5 minutes prior to cooking.",
+    "Add a tablespoon of butter to the tava-griddle and let it melt.",
+    "Add the chopped fennel and cook for 3 minutes, or until it starts to soften.",
+    "Add the foie gras and cook for 2 minutes on each side, or until it reaches an internal temperature of 130°F.",
+    "Add the chopped coriander, lemon juice, black pepper, and salt to the tava-griddle and stir to combine.",
+    "Add the toasted fennel seeds and stir to combine.",
+    "Top with black caviar, if using.",
+    "Transfer the skillet to a plate and garnish with chopped fresh coriander.",
+    "Serve immediately and enjoy!",
+    "Let the skillet cool for 5 minutes prior to refrigerating or freezing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-skillet",
+    "foie-gras",
+    "high-protein",
+    "keto-friendly",
+    "midnight-craving",
+    "one-pan",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 45
+  },
+  "slug": "yummy-midnight-chewy-ukrainian-foie-gras-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-midnight-chewy-ukrainian-foie-gras-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:46:30Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "foie-gras",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "foie-gras",
+    "descriptor": "yummy midnight chewy",
+    "dishForm": "skillet"
+  }
+}

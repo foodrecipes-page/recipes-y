@@ -1,0 +1,87 @@
+{
+  "title": "Yeasty Japanese Sausages Mochi",
+  "description": "Delicious Japanese-inspired sausages wrapped in soft, chewy mochi, perfect for a lazy Sunday morning. A vegetarian-friendly twist on traditional Japanese cuisine.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kabanos Sausages",
+      "amount": "4",
+      "notes": "Any vegetarian Japanese-style sausage alternatives can be used."
+    },
+    {
+      "name": "Sushi-grade Mochi Rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "For mixing the mochi dough."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup",
+      "notes": "For sweetening the mochi."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "For seasoning the dough."
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "Optional for added warmth."
+    },
+    {
+      "name": "Copper Pot",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine 1 1/2 cups of sushi-grade mochi rice with 1/2 cup of water and stir gently until the dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Wrap each kabanos sausage in a piece of the mochi dough, shaping it into a cylindrical shape.",
+    "Place the wrapped sausages in a copper pot with a small amount of water and cook over low heat for 10 minutes, or until the mochi is heated through.",
+    "Serve warm, garnished with a sprinkle of cinnamon if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "lazy-sunday",
+    "one-pan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "yeasty-japanese-sausages-mochi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-japanese-sausages-mochi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:45:46Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "fold",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "sausages",
+    "descriptor": "yeasty",
+    "dishForm": "Mochi"
+  }
+}

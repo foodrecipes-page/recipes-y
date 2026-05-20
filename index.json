@@ -12223,6 +12223,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-crispy-thai-chicken-bao",
+    "title": "Yummy Crispy Thai Chicken Bao",
+    "tags": [
+      "comfortfood",
+      "easydinner",
+      "high-protein",
+      "one-pan",
+      "thaifood",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-crispy-ukrainian-cabbage-casserole",
     "title": "Yummy Crispy Ukrainian Cabbage Casserole",
     "tags": [

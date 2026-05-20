@@ -1,0 +1,116 @@
+{
+  "title": "Yummy Crispy Thai Chicken Bao",
+  "description": "Fatty, crispy, cozy Thai dish featuring cinnamon and Ayurvedic-friendly ingredients, inspired by Bangkok street food.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "2 pieces",
+      "notes": "2 inches long, crushed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 cup",
+      "notes": "infused with cinnamon and star anise"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat, low-sodium"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Ayurvedic-friendly, tamasic-friendly alternative: coconut aminos"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 cup",
+      "notes": "thinly sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together flour and cinnamon stick pieces.",
+    "Add chicken breast to the bowl and toss to coat evenly with the flour mixture.",
+    "Heat 1/2 cup of infused olive oil in a large skillet over medium-high heat.",
+    "Add chicken breast to the skillet and cook for 5 minutes on each side, or until browned and cooked through.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until cooked through.",
+    "While the chicken is baking, combine coconut milk, fish sauce, and red chili flakes in a small saucepan over medium heat.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until thickened slightly.",
+    "Once the chicken is done, remove it from the oven and let it rest for 5 minutes.",
+    "Slice the chicken into thin strips and serve in a crispy Bao bun with the coconut milk sauce and garnish with scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfortfood",
+    "easydinner",
+    "high-protein",
+    "one-pan",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 41,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "yummy-crispy-thai-chicken-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-crispy-thai-chicken-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:16:38Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "infuse-oil",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "ayurvedic-tamasic",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "yummy crispy",
+    "dishForm": "Bao"
+  }
+}

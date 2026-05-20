@@ -1,0 +1,98 @@
+{
+  "title": "Yeasty Molten German Flour Bread",
+  "description": "A lazy Sunday dish featuring a strong white flour mixture, a mother-sauce-base, and a ooey-gooey molten center. This ovo-vegetarian-friendly German bread is perfect for a comforting brunch or snack.",
+  "cuisine": "German",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Strong White Flour",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Yeast",
+      "amount": "7g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "Mother Dough (from previous bread-making batch, or store-bought)",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine Strong White Flour, Fresh Yeast, Salt, Sugar in a large mixing bowl.",
+    "Add melted Butter, Eggs, and Milk to the dry ingredients. Mix until a shaggy dough forms.",
+    "Gradually add Mother Dough and knead for 5 minutes.",
+    "Place the dough in a greased bowl, cover with plastic wrap and let rise in a warm place for 1 hour.",
+    "Preheat oven to 220°C. ",
+    "Transfer dough to a greased 8x4 inch loaf pan.",
+    "Bake for 25 minutes. ",
+    "Reduce oven temperature to 200°C. ",
+    "Bake for an additional 20 minutes, or until the internal temperature reaches 95°C.",
+    "Remove from oven, let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread-baking",
+    "comfort-food",
+    "german-bread",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 220,
+    "fat": 40
+  },
+  "slug": "yeasty-molten-german-flour-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-molten-german-flour-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:33:11Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "strong white flour",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "flour",
+    "descriptor": "yeasty molten",
+    "dishForm": "Bread"
+  }
+}

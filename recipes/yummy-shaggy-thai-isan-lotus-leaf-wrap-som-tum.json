@@ -1,0 +1,86 @@
+{
+  "title": "Yummy Shaggy Thai (Isan) Lotus-Leaf-Wrap Som-Tum",
+  "description": "A herbal, shaggy, post-workout Thai (Isan) dish featuring morcilla, deglaze-fond, low-glycemic-friendly, form=som-tum, vessel=lotus-leaf-wrap.",
+  "cuisine": "Thai (Isan)",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Morcilla",
+      "amount": "150g"
+    },
+    {
+      "name": "Deglaze-fond",
+      "amount": "100ml"
+    },
+    {
+      "name": "Lotus leaves",
+      "amount": "4"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon grass",
+      "amount": "3 stalks"
+    },
+    {
+      "name": "Peeled garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "5"
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Trim lotus leaves and place on a baking sheet. Drizzle with oil.",
+    "Toast morcilla in the preheated oven until crispy.",
+    "Deglaze fond in a pan, add garlic, lime leaves, and chili peppers. Simmer for 5 minutes.",
+    "Add morcilla to the deglaze-fond mix and toss well.",
+    "Stuff mixture into lotus leaf wrappers and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "isaan",
+    "low-glycemic",
+    "post-workout",
+    "shaggy",
+    "som-tum"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 75,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "yummy-shaggy-thai-isan-lotus-leaf-wrap-som-tum",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-shaggy-thai-isan-lotus-leaf-wrap-som-tum",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T22:33:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "morcilla",
+    "diet": "low-glycemic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai (Isan)",
+    "mainIngredient": "morcilla",
+    "descriptor": "Shaggy",
+    "dishForm": "Lotus-Leaf-Wrapped Yum Cha Som-Tum"
+  }
+}

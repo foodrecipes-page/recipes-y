@@ -1,0 +1,117 @@
+{
+  "title": "yummy quick italian calabrian tagliatelle",
+  "description": "quick-fix italian dish that combines the flavors of calabria with the convenience of tagliatelle. perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated basil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the chicken breast and cook until browned and cooked through, about 5 minutes.",
+    "remove the chicken from the skillet and set aside.",
+    "add the garlic powder, basil, chicken broth, and heavy cream to the skillet and stir to combine.",
+    "bring the mixture to a simmer and let cook for 2-3 minutes, or until slightly thickened.",
+    "add the cooked tagliatelle to the skillet and toss with the sauce until well coated.",
+    "season with salt, black pepper, and red pepper flakes to taste.",
+    "return the chicken to the skillet and toss with the tagliatelle and sauce until well combined.",
+    "serve hot, topped with parmesan cheese and chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "calabrian",
+    "easy-dinner",
+    "italian",
+    "pasta",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 44,
+    "fat": 24
+  },
+  "slug": "yummy-quick-italian-calabrian-tagliatelle",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-quick-italian-calabrian-tagliatelle",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:09:15Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "fry",
+    "primaryIngredient": "garlic powder",
+    "diet": "no-onion-no-garlic",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "calabrian",
+    "descriptor": "yummy quick",
+    "dishForm": "Tagliatelle"
+  }
+}

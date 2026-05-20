@@ -13932,6 +13932,21 @@
     "shard": "y"
   },
   {
+    "slug": "yummy-quick-italian-calabrian-tagliatelle",
+    "title": "yummy quick italian calabrian tagliatelle",
+    "tags": [
+      "calabrian",
+      "easy-dinner",
+      "italian",
+      "pasta",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yummy-rich-indian-chicken-biryani",
     "title": "Yummy Rich Indian Chicken Biryani",
     "tags": [

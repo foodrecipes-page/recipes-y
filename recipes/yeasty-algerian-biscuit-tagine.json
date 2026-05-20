@@ -1,0 +1,81 @@
+{
+  "title": "Yeasty Algerian Biscuit Tagine",
+  "description": "A springy, energizing Algerian dish featuring bicarbonate of soda and bhuna, perfect for a quick breakfast or snack.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "150ml",
+      "notes": "warm water"
+    }
+  ],
+  "instructions": [
+    "Combine flour, bicarbonate of soda, and sugar in a large mixing bowl.",
+    "Add warm water and mix until a sticky dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough on a greased surface and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 180°C.",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf on a baking sheet and bake for 25 minutes.",
+    "Remove the loaf from the oven and let it cool on a wire rack for 10 minutes before slicing.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-specialty",
+    "high-energy",
+    "morning-snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 2
+  },
+  "slug": "yeasty-algerian-biscuit-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-algerian-biscuit-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:22:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "biscuit",
+    "descriptor": "yeasty",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Argentinian Fettuccine Pasta",
+  "description": "A comforting and tangy fettuccine dish inspired by Argentinian cuisine, made with bonito flakes and a hint of lemon.",
+  "cuisine": "Argentinian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fettuccine",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the fettuccine according to the package instructions until al dente.",
+    "In a separate pan, heat the olive oil over medium heat.",
+    "Add the bonito flakes and cook for 1-2 minutes, stirring constantly, until fragrant.",
+    "Add the lemon juice and cook for an additional minute.",
+    "Stir in the chimichurri sauce and cook for 30 seconds.",
+    "Toss the cooked fettuccine with the bonito mixture and top with Parmesan cheese.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "high-protein",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "yummy-comforting-argentinian-fettuccine-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-comforting-argentinian-fettuccine-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:31:26Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "fettuccine",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "fettuccine",
+    "descriptor": "yummy comforting",
+    "dishForm": "Pasta"
+  }
+}

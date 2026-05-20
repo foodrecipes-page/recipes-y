@@ -1072,6 +1072,24 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-oozy-algerian-dish-tagine",
+    "title": "yeasty-oozy algerian tagine",
+    "tags": [
+      "algerian",
+      "breakfast",
+      "brunch",
+      "flambe",
+      "special-occasion",
+      "spicy",
+      "sweet",
+      "weekend",
+      "yeast-risen"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 65,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-peruvian-sweetened-condensed-milk-pudding",
     "title": "Yeasty Peruvian Sweetened Condensed Milk Pudding",
     "tags": [

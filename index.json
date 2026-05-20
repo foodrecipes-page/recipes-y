@@ -1425,6 +1425,20 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-uruguayan-molasses-cake",
+    "title": "Uruguayan Molasses Cake",
+    "tags": [
+      "cake",
+      "dessert",
+      "molasses",
+      "uruguayan",
+      "yeast"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-velvety-irish-comte-pudding",
     "title": "yeasty velvety irish comte pudding",
     "tags": [
@@ -3684,6 +3698,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-gold-shattering-norwegian-fish-bake",
+    "title": "yellow-gold shattering norwegian fish bake",
+    "tags": [
+      "easy-to-make",
+      "fish",
+      "high-protein",
+      "norwegian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 33,
     "shard": "y"
   },
   {

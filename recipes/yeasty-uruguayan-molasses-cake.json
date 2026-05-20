@@ -1,0 +1,102 @@
+{
+  "title": "Uruguayan Molasses Cake",
+  "description": "A traditional Uruguayan dessert, characterized by its rich, sweet flavor and springy texture. This recipe makes one large cake that serves 8-10 people.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "2 tsp",
+      "notes": "use 1 tsp if you don't like strong ginger flavor"
+    },
+    {
+      "name": "molasses",
+      "amount": "1 cup",
+      "notes": "dark or light, whichever you prefer"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup (2 sticks)",
+      "notes": "softened"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "warm, around 105-115°F"
+    },
+    {
+      "name": "large egg yolk",
+      "amount": "1",
+      "notes": "used to enrich the batter"
+    }
+  ],
+  "instructions": [
+    "Combine flour, ginger, and yeast in a medium bowl. Whisk until well combined.",
+    "In a separate bowl, whisk together molasses, butter, sugar, eggs, and egg yolk until smooth.",
+    "Add the dry mixture to the wet mixture and stir until just combined.",
+    "Add the warm milk and mix until the batter is smooth and elastic.",
+    "Knead the dough for 10-12 minutes until it becomes shiny and slightly sticky.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1-2 hours, or until doubled in size.",
+    "Preheat oven to 350°F (175°C).",
+    "Punch down the dough and shape it into a round or oblong cake. Place it on a parchment-lined baking sheet.",
+    "Bake for 35-40 minutes, or until a toothpick inserted in the center comes out clean.",
+    "Let the cake cool in the pan for 10 minutes before transferring it to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "dessert",
+    "molasses",
+    "uruguayan",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 4000,
+    "protein": 80,
+    "carbs": 40,
+    "fat": 250
+  },
+  "slug": "yeasty-uruguayan-molasses-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-uruguayan-molasses-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:19:04Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "molasses",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "molasses",
+    "descriptor": "yeasty",
+    "dishForm": "Cake"
+  }
+}

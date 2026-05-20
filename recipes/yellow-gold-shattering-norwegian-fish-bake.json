@@ -1,0 +1,121 @@
+{
+  "title": "yellow-gold shattering norwegian fish bake",
+  "description": "a pungent, shattering, weeknight norwegian dish featuring lemon and binchotan-charcoal, satvik-friendly. ideal for a quick weeknight dinner.",
+  "cuisine": "norwegian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh cod fillets",
+      "amount": "4",
+      "notes": "sustainably sourced from norwegian waters."
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed from organic lemons."
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 teaspoon",
+      "notes": "adds a distinct smoky flavor."
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted and infused with lemon zest."
+    },
+    {
+      "name": "flaked sea salt",
+      "amount": "1 teaspoon",
+      "notes": "harvested from natural salt pans."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground from whole peppercorns."
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon",
+      "notes": "cured with lemon and sugar."
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon",
+      "notes": "homemade or store-bought."
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "adds a bright, fresh flavor."
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free and lightly toasted."
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": "used for a creamy sauce."
+    },
+    {
+      "name": "grated norwegian cheese",
+      "amount": "1/4 cup",
+      "notes": "high-quality and rich in flavor."
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400 degrees fahrenheit.",
+    "season cod fillets with flaked sea salt, black pepper, and binchotan charcoal powder.",
+    "in a large skillet, melt the unsalted butter over medium heat.",
+    "add the chopped fresh dill and cook for 1-2 minutes, or until fragrant.",
+    "add the grated norwegian cheese and cook until melted and smooth.",
+    "transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "meanwhile, mix the unsweetened almond milk with the lemon juice and ginger paste in a small bowl.",
+    "remove the skillet from the oven and top the cod fillets with the sauce.",
+    "sprinkle the panko breadcrumbs over the top and return to the oven for an additional 2-3 minutes, or until golden brown.",
+    "remove from the oven and let rest for 2-3 minutes before serving.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "yellow-gold-shattering-norwegian-fish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-gold-shattering-norwegian-fish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:19:11Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "lemon",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Fish",
+    "descriptor": "Yellow-Gold Shattering",
+    "dishForm": "Bake"
+  }
+}

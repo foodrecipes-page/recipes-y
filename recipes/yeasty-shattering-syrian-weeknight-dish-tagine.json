@@ -1,0 +1,114 @@
+{
+  "title": "yeasty shattering syrian weeknight tagine",
+  "description": "Deliciously flavorful and easy to make, this yeasty tagine is perfect for a quick weeknight dinner. Featuring lardons and blackberries, it's a tasty twist on traditional Syrian cuisine.",
+  "cuisine": "syrian",
+  "diet": [
+    "low-glycemic",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "blackberries",
+      "amount": "1 cup fresh",
+      "notes": ""
+    },
+    {
+      "name": "beef lardons",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "optional: mint leaves",
+      "amount": "1/4 cup fresh",
+      "notes": ""
+    },
+    {
+      "name": "optional: crumbled feta",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "copper-mug",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, yeast, salt, and pepper.",
+    "Add the lardons and mix until just combined.",
+    "Add the blackberries and mix until just combined.",
+    "Gradually add the water while mixing until a sticky dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Place the dough in the copper-mug and let it rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat the oven to 375°F (190°C).",
+    "Bake the tagine for 20-25 minutes, or until golden brown.",
+    "Cool the tagine for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-fiber",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "yeasty-shattering-syrian-weeknight-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-shattering-syrian-weeknight-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:03:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "lardons-render",
+    "primaryIngredient": "blackberries",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "weeknight dish",
+    "descriptor": "Yeasty Shattering",
+    "dishForm": "Tagine"
+  }
+}

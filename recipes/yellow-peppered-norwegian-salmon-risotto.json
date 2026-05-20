@@ -1,0 +1,108 @@
+{
+  "title": "Yellow Peppered Norwegian Salmon Risotto",
+  "description": "A creamy and peppery risotto recipe featuring Norwegian salmon, coriander leaves, and a twist of lemon zest.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Yellow peppers",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Coriander leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Double-rise bread",
+      "amount": "1/2 cup",
+      "notes": "croutons"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the garlic and sauté for 1 minute until fragrant.",
+    "Add the Arborio rice and cook for 1-2 minutes until lightly toasted.",
+    "Add the white wine and cook until the liquid is almost completely absorbed.",
+    "Add 1 cup of vegetable broth and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process, adding the broth in 1-cup increments, until the rice is cooked and creamy.",
+    "While the risotto cooks, prepare the salmon by seasoning with salt and pepper.",
+    "Heat a skillet over medium-high heat and add the salmon fillets.",
+    "Cook the salmon for 4-6 minutes per side, or until cooked through.",
+    "Flake the cooked salmon into large pieces and set aside.",
+    "Stir in the lemon zest and cook for 1 minute.",
+    "Remove the risotto from the heat and stir in the flaked salmon and chopped coriander leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "coriander",
+    "gluten-free",
+    "low-calorie",
+    "norwegian-cuisine",
+    "risotto",
+    "salmon",
+    "yellow-peppers"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "yellow-peppered-norwegian-salmon-risotto",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-peppered-norwegian-salmon-risotto",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:23:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "coriander leaves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Yellow Peppered",
+    "dishForm": "Risotto"
+  }
+}

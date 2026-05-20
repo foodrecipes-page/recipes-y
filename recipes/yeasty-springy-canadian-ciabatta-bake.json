@@ -1,0 +1,118 @@
+{
+  "title": "Yeasty Springy Canadian Ciabatta Bake",
+  "description": "A classic ciabatta baked to perfection with a rich, yeasty flavor, perfect for a delicious Canadian brunch. This halal-friendly recipe is easy to make and yields a beautifully springy and tender crumb.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Active Dry Yeast",
+      "amount": "2 teaspoons",
+      "notes": "Instant yeast may be used as a substitute."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1 1/2 cups",
+      "notes": "",
+      "temperature": 105
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "",
+      "safetyTemperature": 190,
+      "dangerTemperature": 200
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "",
+      "safetyTemperature": 190,
+      "dangerTemperature": 200
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 1/4 cups",
+      "notes": "Use a high-protein flour for a more authentic Italian bread."
+    },
+    {
+      "name": "Extra-Virgin Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Eggs",
+      "amount": "1 large",
+      "notes": "Optional."
+    },
+    {
+      "name": "Chopped Fresh Rosemary",
+      "amount": "1 tablespoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Coarse Salt",
+      "amount": "1 teaspoon",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Combine yeast, sugar, and warm water in a large mixing bowl. Mix until the yeast dissolves and let it sit for 5 minutes, or until the mixture becomes frothy.",
+    "Add the salt, butter, olive oil, eggs, rosemary, and coarse salt to the bowl. Mix until a shaggy dough forms.",
+    "Gradually add the flour to the bowl, mixing until a smooth, elastic dough forms.",
+    "Turn the dough out onto a lightly floured surface and knead for 10 minutes, or until the dough becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 425°F (220°C).",
+    "Punch down the dough and shape it into a long, thin rectangle.",
+    "Place the ciabatta on a baking sheet lined with parchment paper. ",
+    "Bake the ciabatta for 12-15 minutes, or until it is golden brown and sounds hollow when tapped on the bottom.",
+    "Remove the ciabatta from the oven and let it cool on a wire rack for 5-10 minutes before slicing.",
+    "To serve, slice the ciabatta into thick rounds and serve warm, or let it cool completely and store it in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "canadian",
+    "easy",
+    "halal",
+    "one-pot",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "yeasty-springy-canadian-ciabatta-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-springy-canadian-ciabatta-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:50:57Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "salt-bake",
+    "primaryIngredient": "ciabatta",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "ciabatta",
+    "descriptor": "yeasty springy",
+    "dishForm": "bake"
+  }
+}

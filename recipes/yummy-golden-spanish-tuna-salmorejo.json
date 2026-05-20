@@ -1,0 +1,99 @@
+{
+  "title": "Yummy Golden Spanish Tuna Salmorejo",
+  "description": "A pescatarian-friendly Spanish dish featuring pistachio paste, lacquer-glaze, and flaky tuna. Salmorejo is a traditional Spanish cold soup.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canned tuna",
+      "amount": "200g"
+    },
+    {
+      "name": "Pistachio paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sherry vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lacquer glaze (soy sauce and honey mix)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat. Fry the garlic and red onion until softened.",
+    "Add the canned tuna, breaking it up with a spoon. Cook for 2 minutes.",
+    "Stir in the pistachio paste, capers, sherry vinegar, salt, and black pepper. Cook for another minute.",
+    "Remove the pan from the heat and let it cool slightly.",
+    "Stir in the lacquer glaze and adjust seasoning if needed.",
+    "Transfer the mixture to a bowl and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-soup",
+    "easy-to-make",
+    "one-pan",
+    "pescatarian",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yummy-golden-spanish-tuna-salmorejo",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-golden-spanish-tuna-salmorejo",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:51:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "pistachio paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Tuna",
+    "descriptor": "Yummy Golden",
+    "dishForm": "Salmorejo"
+  }
+}

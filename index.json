@@ -552,6 +552,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-fluffy-canadian-vegetables-poutine",
+    "title": "Yeasty Fluffy Canadian Vegetables Poutine",
+    "tags": [
+      "canadian",
+      "gluten-free",
+      "jain",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 32,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-fluffy-portuguese-yautia-pilaf",
     "title": "yeasty fluffy portuguese yautia pilaf",
     "tags": [
@@ -1187,6 +1202,23 @@
     ],
     "cuisine": "tuscan",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-springy-canadian-ciabatta-bake",
+    "title": "Yeasty Springy Canadian Ciabatta Bake",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "canadian",
+      "easy",
+      "halal",
+      "one-pot",
+      "spring",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 32,
     "shard": "y"
   },
   {
@@ -12672,6 +12704,21 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 23,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-golden-spanish-tuna-salmorejo",
+    "title": "Yummy Golden Spanish Tuna Salmorejo",
+    "tags": [
+      "cold-soup",
+      "easy-to-make",
+      "one-pan",
+      "pescatarian",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {

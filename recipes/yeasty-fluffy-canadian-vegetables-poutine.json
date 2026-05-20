@@ -1,0 +1,120 @@
+{
+  "title": "Yeasty Fluffy Canadian Vegetables Poutine",
+  "description": "A midnight-craving Canadian dish featuring raw vegetables, score-fat, and jain-friendly ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "jain",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Pita Bread",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Raw Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Raw Bell Peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Raw Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Raw Tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Score Fat (such as Vegan Sour Cream)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chopped Parsley",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the pita bread into fries and bake in the oven for 10 minutes.",
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Add the raw carrots, bell peppers, and zucchini to the pan and sauté for 5 minutes.",
+    "Add the raw tomatoes to the pan and sauté for another 2 minutes.",
+    "Remove the pita bread fries from the oven and add the score fat, nutritional yeast, salt, and black pepper to taste.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve the fried vegetables on top of the yeasty pita bread fries."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "jain",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "yeasty-fluffy-canadian-vegetables-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-fluffy-canadian-vegetables-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:51:08Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "score-fat",
+    "primaryIngredient": "raw vegetables",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "vegetables",
+    "descriptor": "yeasty fluffy",
+    "dishForm": "poutine"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "yummy tender german sesame bowl",
+  "description": "fresh, tender, brunch-mood german dish featuring sesame butter, steam, diabetic-friendly. served in a vibrant lacquerware bowl.",
+  "cuisine": "german",
+  "diet": [
+    "diabetic",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pan-seared salmon fillets",
+      "amount": "4",
+      "notes": "4 oz each"
+    }
+  ],
+  "instructions": [
+    "heat sesame oil in a large skillet over medium heat.",
+    "add minced garlic and sauté for 1 minute.",
+    "add diced onions and cook until translucent.",
+    "add 2 tbsp sesame butter and stir until melted.",
+    "add steamed broccoli florets and toss to combine.",
+    "warm lacquerware bowls in the oven.",
+    "place salmon fillets on a plate and spoon the sesame-broccoli mixture over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-idea",
+    "diabetic-friendly",
+    "german-food",
+    "healthy-recipe",
+    "low-carb",
+    "lunch-idea",
+    "sesame-butter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "yummy-tender-german-sesame-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-tender-german-sesame-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:29:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "steam",
+    "primaryIngredient": "sesame butter",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "sesame",
+    "descriptor": "yummy tender",
+    "dishForm": "bowl"
+  }
+}

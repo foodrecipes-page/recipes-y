@@ -1,0 +1,67 @@
+{
+  "title": "Yeasty Indian Chicken Biryani",
+  "description": "A crispy and flavorful Indian dish made with palm sugar, nam tan pip, and yeast, fitting for a Buddhist temple. This recipe is a Tamil twist on the classic butter chicken form.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "2 teaspoons",
+      "notes": "active dry yeast, 1 packet"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine 1 cup of lukewarm water, 1 teaspoon of sugar, and 2 teaspoons of yeast. Stir and let it sit for 5 minutes until foamy.",
+    "Add 1 cup of basmati rice to the mixture and mix well.",
+    "Heat oil in a large pan over medium heat and saut\u00134n onions until caramelized.",
+    "Add 1 cup of chicken breast, 1 cup of nam tan pip, 2 tablespoons of palm sugar, and 1 teaspoon of cumin powder to the pan and stir well."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "crispy",
+    "indian",
+    "one-pan",
+    "tamil",
+    "weeknight",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "yeasty-indian-chicken-chicken-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-indian-chicken-chicken-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:26:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "buddhist-temple",
+    "region": "tamil",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Yeasty",
+    "dishForm": "Chicken Biryani"
+  }
+}

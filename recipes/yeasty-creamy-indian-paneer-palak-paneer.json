@@ -1,0 +1,121 @@
+{
+  "title": "Yeasty Creamy Indian Paneer Palak Paneer",
+  "description": "A rich and creamy Indian dish, perfect for a date night. Made with paneer, spinach, and a blend of spices, it's a treat for the taste buds.",
+  "cuisine": "andhra",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "1 block (250g)"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3-4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "half a teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a hot pot vessel over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion, grated ginger, and minced garlic and saut\u00131 until the onion is translucent.",
+    "Add chopped green chilies and cook for another minute.",
+    "Add coriander powder, garam masala powder, and salt. Stir well.",
+    "Add the spinach and cook until it's wilted.",
+    "Add the paneer, cranberry juice, and milk. Stir well to combine.",
+    "Add the flour and stir to thicken the mixture.",
+    "Reduce heat to low and let it simmer for 10 minutes, stirring occasionally.",
+    "Stir in some extra butter if the mixture becomes too thick.",
+    "Serve hot, garnished with fresh cilantro.",
+    "Serve with naan or rice for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "indian",
+    "pank-paneer",
+    "rich-and-creamy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "yeasty-creamy-indian-paneer-palak-paneer",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-creamy-indian-paneer-palak-paneer",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:58:30Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "cranberry juice",
+    "diet": "plant-based",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Paneer",
+    "descriptor": "Yeasty Creamy",
+    "dishForm": "Palak Paneer"
+  }
+}

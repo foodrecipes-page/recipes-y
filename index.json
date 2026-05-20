@@ -10750,6 +10750,19 @@
     "shard": "y"
   },
   {
+    "slug": "yogurt-based-russian-fish-stew",
+    "title": "Russian Fish Stew",
+    "tags": [
+      "fish-stew",
+      "pescatarian",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
     "slug": "yogurt-caprese",
     "title": "Yogurt Caprese",
     "tags": [

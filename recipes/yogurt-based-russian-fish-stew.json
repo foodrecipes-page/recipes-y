@@ -1,0 +1,117 @@
+{
+  "title": "Russian Fish Stew",
+  "description": "A hearty and comforting fish stew from Russia, made with yogurt and speculaas spice mix.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haddock",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Speculaas Spice Mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large cazuela, heat 1 tablespoon of oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the grated carrot and cook for another 2 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the haddock, speculaas spice mix, salt, and black pepper, and cook for 2 minutes.",
+    "Pour in the yogurt and water, and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 8-10 minutes, or until the fish is cooked through.",
+    "Stir in the chopped parsley and dill, and serve hot, garnished with lemon wedges.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-stew",
+    "pescatarian",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yogurt-based-russian-fish-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yogurt-based-russian-fish-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:28:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fish",
+    "descriptor": "yogurt-based",
+    "dishForm": "stew"
+  }
+}

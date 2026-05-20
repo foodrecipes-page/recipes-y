@@ -1,0 +1,117 @@
+{
+  "title": "yummy energizing mediterranean beef skewers",
+  "description": "tender beef cubes marinated in a zesty mustard glaze, then grilled to perfection on a bed of lemon slices.",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "ribeye steak",
+      "amount": "3/4 pound",
+      "notes": ""
+    },
+    {
+      "name": "beef sirloin",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat grill to 400degrees.",
+    "thread beef cubes onto skewers, leaving a little space between each piece.",
+    "in a large bowl, whisk together lemon juice, olive oil, mustard, garlic, oregano, salt, and pepper.",
+    "add the beef skewers to the marinade and mix to coat, then cover with plastic wrap.",
+    "refrigerate for at least 30 minutes or up to 2 hours.",
+    "thread lemon slices onto the skewers, then place the skewers on the grill.",
+    "close the grill lid and cook for 8-10 minutes, turning occasionally.",
+    "move the skewers to a plate and let them rest for 5 minutes before serving.",
+    "garnish with bay leaves and scallions.",
+    "serve immediately, with additional lemon wedges on the side if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 8
+  },
+  "slug": "yummy-energizing-mediterranean-beef-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-energizing-mediterranean-beef-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:34:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "glaze",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beef",
+    "descriptor": "yummy energizing",
+    "dishForm": "skewers"
+  }
+}

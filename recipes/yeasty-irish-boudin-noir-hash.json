@@ -1,0 +1,138 @@
+{
+  "title": "Yeasty Irish Boudin-noir Hash",
+  "description": "Gooey, yeasty brunch dish featuring boudin-noir, paired with a mirepoix-based base for increased flavor",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Boudin-noir",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar",
+      "amount": "1 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "6 large",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast, warm milk, and 1 tsp sugar. Let it sit for 5 min to activate.",
+    "In a separate bowl, mix together flour, salt, and pepper.",
+    "Melt butter in a large skillet over medium heat. Add onion, carrot, and celery, and cook until the vegetables are soft.",
+    "Add garlic and cook for 1 min more.",
+    "Add boudin-noir and cook, breaking it apart with a spoon, until lightly browned.",
+    "Add flour mixture and cook for 1 min, stirring constantly.",
+    "Stir in cheddar, eggs, parsley, and yeast mixture. Cook, stirring constantly, until mixture thickens.",
+    "Transfer the mixture to a greased plate or tray and refrigerate for 30 min to set.",
+    "Cut the mixture into 1-inch pieces and place them on a greased lazy Susan spinner.",
+    "Cook in a preheated oven at 375°F for 18-20 min, or until golden brown on top and crispy on the bottom.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "easter",
+    "irish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 46,
+    "fat": 35
+  },
+  "slug": "yeasty-irish-boudin-noir-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-irish-boudin-noir-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:54:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "boudin-noir",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Boudin-noir",
+    "descriptor": "Yeasty",
+    "dishForm": "Hash"
+  }
+}

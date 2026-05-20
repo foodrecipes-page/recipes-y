@@ -1,0 +1,106 @@
+{
+  "title": "Yellow Umami French Shrimp Bourguignon",
+  "description": "A paleo-friendly, umami-rich twist on the classic French dish, featuring shrimp stock and yuzu-cure, with a flaky texture and vibrant yellow color.",
+  "cuisine": "French",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shrimp stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the chopped yellow bell pepper and cook for an additional 2 minutes.",
+    "Add the shrimp stock, yuzu juice, and tomato paste, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the large shrimp to the pot and cook until they are pink and fully cooked, about 2-3 minutes per side.",
+    "Stir in the dried thyme and season with salt and pepper to taste.",
+    "Serve the shrimp and sauce over cauliflower rice or zucchini noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "one-pot",
+    "paleo-friendly",
+    "seafood",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "yellow-umami-french-shrimp-bourguignon",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-umami-french-shrimp-bourguignon",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T14:55:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "shrimp stock",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "shrimp",
+    "descriptor": "Yellow Umami",
+    "dishForm": "Bourguignon"
+  }
+}

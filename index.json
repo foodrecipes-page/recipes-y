@@ -738,6 +738,21 @@
     "shard": "y"
   },
   {
+    "slug": "yeasty-irish-boudin-noir-hash",
+    "title": "Yeasty Irish Boudin-noir Hash",
+    "tags": [
+      "brunch",
+      "comfort-food",
+      "easter",
+      "irish",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
     "slug": "yeasty-irish-taleggio-casserole",
     "title": "Yeasty Irish Taleggio Casserole",
     "tags": [
@@ -6042,6 +6057,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 32,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-umami-french-shrimp-bourguignon",
+    "title": "Yellow Umami French Shrimp Bourguignon",
+    "tags": [
+      "french-cuisine",
+      "gluten-free",
+      "one-pot",
+      "paleo-friendly",
+      "seafood",
+      "umami-rich"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

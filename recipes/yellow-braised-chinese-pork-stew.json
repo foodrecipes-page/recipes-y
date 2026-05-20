@@ -1,0 +1,114 @@
+{
+  "title": "Yellow Braised Chinese Pork Stew",
+  "description": "A hearty, comforting stew made with pork belly, scallions, and fermented soybean paste, served in a portable bento box.\nThis ayurvedic-rajasic-friendly dish is the perfect remedy for a sick day.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "2 lbs",
+      "notes": "score the fat in a diamond pattern for even browning"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh or 2 tsp ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fermented soybean paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "star anise",
+      "amount": "1 whole",
+      "notes": ""
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork belly on all sides, about 5 minutes per side. Remove from pot and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil, then saut\u00067 the ginger and garlic until fragrant, about 1 minute.",
+    "Add the fermented soybean paste and cook, stirring constantly, for 1 minute.",
+    "Add the cider vinegar, soy sauce, and 1 cup of water to the pot, scraping up any browned bits from the bottom.",
+    "Return the pork belly to the pot and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 2 hours, or until the pork is tender.",
+    "Add the star anise and Chinese five-spice powder to the pot and continue to simmer for 10 minutes.",
+    "Stir in the chopped scallions and cook for an additional 1-2 minutes.",
+    "Serve the stew in individual bento boxes, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic",
+    "chinese-cuisine",
+    "comfort-food",
+    "easy-leftovers",
+    "high-calorie",
+    "one-pan",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 60
+  },
+  "slug": "yellow-braised-chinese-pork-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-braised-chinese-pork-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:00:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "cider vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Yellow Braised",
+    "dishForm": "stew"
+  }
+}

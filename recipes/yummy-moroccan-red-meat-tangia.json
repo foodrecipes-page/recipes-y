@@ -1,0 +1,119 @@
+{
+  "title": "Yummy Moroccan Red Meat Tangia",
+  "description": "Savory, light, and easy to prepare, this Moroccan dish is perfect for a weeknight dinner. It's dairy-free-friendly and packed with flavor!",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef neck or short ribs",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef with salt, black pepper, cumin, and paprika. ",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the red wine vinegar, bonito flakes, and cilantro to the pot. Stir to combine.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the meat and sauce hot, garnished with additional cilantro if desired.",
+    "Note: Traditionally, tangia is cooked in a clay pot over a wood fire. This recipe adapts the dish for a conventional oven."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "moroccan",
+    "one-pan",
+    "tangia",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "yummy-moroccan-red-meat-tangia",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-moroccan-red-meat-tangia",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:13:25Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "bonito-shave",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "red meat",
+    "descriptor": "Yummy",
+    "dishForm": "Tangia"
+  }
+}

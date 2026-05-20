@@ -1,0 +1,105 @@
+{
+  "title": "Yeasty Quick British Challots Spotted Dick",
+  "description": "A quick-fix British dish featuring crumbly, yeast-based challots, braised in a sweet and savory braise, served in a biodegradable agave leaf wrapper.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "challots",
+      "amount": "2 1/2 cups",
+      "notes": "preferably day-old challots"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 1/2 teaspoons"
+    },
+    {
+      "name": "soda water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "melted coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "buddha's hand",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Knead the challot mixture for 10 minutes until it forms a sticky dough.",
+    "Place the dough in a greased bowl and let it rise in a warm, draft-free place for 1 hour, or until doubled in size.",
+    "Preheat the oven to 400°F (200°C).",
+    "Divide the dough into 12 equal pieces. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place the disks into the preheated oven and bake for 20-25 minutes, or until golden brown.",
+    "While the disks are baking, mix together the braise ingredients and cook over medium heat until the liquid has reduced by half.",
+    "Once the disks are done, let them cool slightly before serving them in agave leaf wrappers with the warm braise spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "easy",
+    "homemade",
+    "one-pan",
+    "plant-based",
+    "vegan-option",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "yeasty-quick-british-challots-spotted-dick",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yeasty-quick-british-challots-spotted-dick",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:58:56Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "braise",
+    "primaryIngredient": "challots",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "british",
+    "mainIngredient": "challots",
+    "descriptor": "yeasty quick",
+    "dishForm": "spotted dick"
+  }
+}

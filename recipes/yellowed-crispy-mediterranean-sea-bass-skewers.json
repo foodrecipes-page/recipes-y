@@ -1,0 +1,99 @@
+{
+  "title": "Yellowed Crispy Mediterranean Sea Bass Skewers",
+  "description": "A cultured and crispy Mediterranean dish featuring sea bass, pickle, and sugar-free-friendly ingredients, perfect for a date night dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, and dried oregano",
+    "Add the sea bass pieces to the bowl and marinate for at least 15 minutes",
+    "Thread the marinated sea bass pieces onto skewers, leaving a little space between each piece",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Sprinkle the pickle slices over the sea bass pieces",
+    "Season with salt and pepper to taste",
+    "Bake the skewers in the preheated oven for 12-15 minutes or until cooked through",
+    "Garnish with chopped fresh parsley and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night-ideas",
+    "gluten-free-recipes",
+    "mediterranean-dinner",
+    "seafood-recipes",
+    "sugar-free-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "yellowed-crispy-mediterranean-sea-bass-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-crispy-mediterranean-sea-bass-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:11:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "sea bass",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "sea bass",
+    "descriptor": "Yellowed Crispy",
+    "dishForm": "Skewers"
+  }
+}

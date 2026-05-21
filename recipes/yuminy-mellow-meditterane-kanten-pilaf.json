@@ -1,0 +1,84 @@
+{
+  "title": "Yuminy Mellow Meditterane Kanten-Pilaf",
+  "description": "A light and show-off Mediterranean dish featuring kanten-agar, prepared with a leaf-wrap steam method for an egg-free-friendly option.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup kanten agar",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup chopped fresh mint",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of cayenne pepper (optional for heat)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Mix kanten agar, lemon juice, and salt in a bowl.",
+    "Fold in minced garlic, chopped parsley, mint, and olive oil. Stir well until all ingredients are combined evenly.",
+    "Sprinkle cayenne pepper over the mixture if desired for an extra kick of heat.",
+    "Wrap the mixture in cheesecloth or a clean kitchen towel to steam.",
+    "Steam wrapped mixture for 20 minutes at medium-low heat.",
+    "Unwrap the cooked kanten and allow it to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free-friendly",
+    "leaf-wrap-steam",
+    "mediterranean",
+    "smoky-mellow"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 22,
+    "fat": 3
+  },
+  "slug": "yuminy-mellow-meditterane-kanten-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/yuminy-mellow-meditterane-kanten-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T10:39:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "kanten-agar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Kanten-agar",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}

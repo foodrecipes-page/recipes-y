@@ -1,0 +1,109 @@
+{
+  "title": "Yellow Spicy Ukrainian Mackerel Stew",
+  "description": "A spicy and chewy weeknight Ukrainian dish featuring mackerel, tempered with chocolate for a unique flavor, served in a copper mug.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "canned in water, drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 ounce",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14.5 ounces"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the paprika and cayenne pepper and cook for 1 minute.",
+    "Add the mackerel fillets and cook until browned, about 3 minutes.",
+    "Melt the dark chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Add the canned diced tomatoes, vegetable broth, salt, and black pepper to the saucepan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Stir in the melted chocolate and cook for an additional 2 minutes.",
+    "Serve the stew hot in copper mugs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-infused",
+    "copper-mug",
+    "fish-stew",
+    "one-pot",
+    "spicy",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "yellow-spicy-ukrainian-mackerel-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-spicy-ukrainian-mackerel-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:17:22Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "mackerel",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "mackerel",
+    "descriptor": "Yellow Spicy",
+    "dishForm": "Stew"
+  }
+}

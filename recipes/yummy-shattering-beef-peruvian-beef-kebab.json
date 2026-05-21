@@ -1,0 +1,59 @@
+{
+  "title": "Yummy Shattering Beef Peruvian Beef Kebabs",
+  "description": "These tender, flavorful kebabs are a crowd-pleaser with a buttery, shattering texture. Serve them in a cazuela for an authentic Peruvian experience.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flank beef",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef cubes onto skewers, leaving a small space between each piece.",
+    "Season with herbes-de-provence, salt, and pepper.",
+    " Grill kebabs for 8-10 minutes per side, or until cooked to desired level of doneness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 69,
+    "carbs": 5,
+    "fat": 23
+  },
+  "slug": "yummy-shattering-beef-peruvian-beef-kebab",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-shattering-beef-peruvian-beef-kebab",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:40:37Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Yummy Shattering Beef",
+    "dishForm": "Kebab"
+  }
+}

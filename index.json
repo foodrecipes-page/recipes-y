@@ -9078,6 +9078,21 @@
     "shard": "y"
   },
   {
+    "slug": "yellowed-mexican-cod-churros",
+    "title": "Yellowed Mexican Cod Churros",
+    "tags": [
+      "buddhist-friendly",
+      "comfort-food",
+      "cozy-meals",
+      "fish-based",
+      "mexican-cuisine",
+      "steamed-dishes"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
     "slug": "yellowed-molten-german-potato-hash",
     "title": "Yellowed Molten German Potato Hash",
     "tags": [
@@ -11365,6 +11380,21 @@
       "spanish-cuisine"
     ],
     "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "youthful-springy-canadian-beef-burger",
+    "title": "Youthful Springy Canadian Beef Burger",
+    "tags": [
+      "beef-burgers",
+      "canadian-cuisine",
+      "gluten-free",
+      "romantic-dinner",
+      "spring-inspired",
+      "wine-pairing"
+    ],
+    "cuisine": "Canadian",
     "totalTimeMin": 35,
     "shard": "y"
   },

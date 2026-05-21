@@ -1,0 +1,109 @@
+{
+  "title": "Youthful Springy Canadian Beef Burger",
+  "description": "A winey and romantic Canadian dish featuring sesame seed burger buns and rest-meat, served in a dolsot-stone-bowl. This gluten-free-friendly burger is perfect for a spring evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "sesame seed burger buns",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "reduced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "4 slices",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tbsp",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the ground beef, reduced red wine, and a pinch of salt and pepper until just combined.",
+    "Form the beef mixture into 4 patties and place them on a baking sheet lined with parchment paper.",
+    "Bake the patties in the preheated oven for 12 minutes, or until they reach an internal temperature of 130 degrees Fahrenheit.",
+    "While the patties are cooking, toast the sesame seed burger buns by placing them on the oven rack for 2 minutes.",
+    "Assemble the burgers by spreading mayonnaise on the bottom bun, followed by a cooked patty, a slice of cheese, a few slices of onion, a few slices of mushroom, a lettuce leaf, and a tomato slice.",
+    "Drizzle the top of each burger with dijon mustard and place the top bun on each burger.",
+    "Serve the burgers in a dolsot-stone-bowl and enjoy immediately.",
+    "Garnish with fresh herbs, such as parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-burgers",
+    "canadian-cuisine",
+    "gluten-free",
+    "romantic-dinner",
+    "spring-inspired",
+    "wine-pairing"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "youthful-springy-canadian-beef-burger",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/youthful-springy-canadian-beef-burger",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:56:43Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "rest-meat",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "youthful springy",
+    "dishForm": "Burger"
+  }
+}

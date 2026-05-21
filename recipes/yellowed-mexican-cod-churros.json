@@ -1,0 +1,102 @@
+{
+  "title": "Yellowed Mexican Cod Churros",
+  "description": "A briny and molten Mexican dish featuring cod in a cozy churro form, inspired by the flavors of Chiapan cuisine, suitable for a Buddhist temple gathering.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, cornstarch, and spices to make the churro dough.",
+    "In a separate bowl, whisk together the eggs, milk, and vegetable oil to make the wet ingredients.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth dough forms.",
+    "Cut the cod fillets into small pieces and add them to the dough, mixing until they are evenly distributed.",
+    "Heat the oil in a deep frying pan to 375 degrees Fahrenheit.",
+    "Using a piping bag or a plastic bag with a corner cut off, pipe the dough into long, thin strips.",
+    "Fry the churros in batches until they are golden brown and cooked through, about 3-4 minutes per side.",
+    "Drain the churros on paper towels and serve hot with your favorite dipping sauce.",
+    "Steam the churros for an additional 2-3 minutes to add moisture and coziness to the dish.",
+    "Serve the Yellowed Mexican Cod Churros immediately, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "comfort-food",
+    "cozy-meals",
+    "fish-based",
+    "mexican-cuisine",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "yellowed-mexican-cod-churros",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/yellowed-mexican-cod-churros",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:56:54Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "cod",
+    "diet": "buddhist-temple",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cod",
+    "descriptor": "Yellowed",
+    "dishForm": "Churros"
+  }
+}

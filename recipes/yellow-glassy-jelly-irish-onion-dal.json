@@ -1,0 +1,116 @@
+{
+  "title": "Glassy-Jelly Irish Onion Dal",
+  "description": "A nostalgic, briny Irish dish made with yellow onion, reminiscent of traditional wok-hei cooking. Can be served in a copper mug.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice the onion"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Thinly slice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Canned coconut milk",
+      "amount": "14 oz",
+      "notes": "Full-fat coconut milk"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium broth"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large, shallow pan over medium-high heat.",
+    "Add the mustard seeds and cumin seeds; cook until fragrant.",
+    "Add the sliced onion and cook for 3 minutes.",
+    "Add the chopped carrots and cook for 4 minutes.",
+    "Add the sliced ginger and minced garlic; cook for an additional 2 minutes.",
+    "Add the diced potatoes, coconut milk, vegetable broth, salt, and black pepper.",
+    "Stir to combine, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot in copper mugs, garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "comfort-food",
+    "easy-to-make",
+    "high-fiber",
+    "one-pan",
+    "vegetarian-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "yellow-glassy-jelly-irish-onion-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yellow-glassy-jelly-irish-onion-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T12:34:30Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "wok-hei",
+    "primaryIngredient": "yellow onion",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "onion",
+    "descriptor": "Yellow, Glassy-Jelly",
+    "dishForm": "Dal"
+  }
+}

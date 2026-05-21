@@ -1,0 +1,106 @@
+{
+  "title": "yummy golden ukrainian chicken bite",
+  "description": "flaky roasted chicken bites made with double-fried kfc and chilled butter, perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kfc-style double-fried chicken",
+      "amount": "2 cups",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "chilled butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together gluten-free flour, baking powder, salt, and black pepper.",
+    "Add chicken breasts to the bowl and toss to coat with the flour mixture.",
+    "Heat 1/2 cup of vegetable oil in a large skillet over medium-high heat.",
+    "Add the coated chicken breasts to the skillet and fry until golden brown, about 5 minutes per side.",
+    "Transfer the fried chicken to a baking sheet lined with parchment paper.",
+    "Bake the chicken in the preheated oven for 15-20 minutes, or until cooked through.",
+    "While the chicken is baking, prepare the double-fried KFC-style chicken according to package instructions.",
+    "Once the chicken is done, let it cool for a few minutes before shredding it into bite-sized pieces.",
+    "In a small saucepan, melt the chilled butter over low heat.",
+    "Add the shredded chicken to the saucepan and toss with the melted butter until well coated.",
+    "Serve the chicken bites hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "gluten-free",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 32
+  },
+  "slug": "yummy-golden-ukrainian-chicken-bite",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-golden-ukrainian-chicken-bite",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T00:23:56Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "chilled butter",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Yummy Golden",
+    "dishForm": "Bite"
+  }
+}

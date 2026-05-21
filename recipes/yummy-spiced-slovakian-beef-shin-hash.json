@@ -1,0 +1,118 @@
+{
+  "title": "yummy spiced slovakian beef shin hash",
+  "description": "A spicy, snappy, kid-friendly Slovakian dish featuring beef shin, air-fried to perfection. Great for a weeknight dinner.",
+  "cuisine": "slovakian",
+  "diet": [
+    "halal",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "750g",
+      "notes": "",
+      "},{": true
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "",
+      "},{": true
+    },
+    {
+      "name": "carrot",
+      "amount": "2 ",
+      "notes": "",
+      "},{": true
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "",
+      "},{": true
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "",
+      "},{": true
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "",
+      "},{": true
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "",
+      "},{": true
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste",
+      "},{": true
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "",
+      "},{": true
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "",
+      "},{": true
+    }
+  ],
+  "instructions": [
+    "Cut the beef shin into 2-inch pieces and season with salt, black pepper, and paprika.",
+    "Heat the air fryer to 400°F (200°C).",
+    "In a large bowl, toss together the beef, onion, carrot, and sweet potato with the apple cider vinegar, brown sugar, and cayenne pepper until the vegetables are evenly coated.",
+    "Transfer the mixture to the air fryer basket and cook for 20 minutes, shaking the basket halfway through.",
+    "After 20 minutes, increase the air fryer temperature to 420°F (220°C) and cook for an additional 10 minutes, or until the beef is tender and the vegetables are caramelized.",
+    "Serve the Slovakian beef shin hash hot on a hot stone plate, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "beef",
+    "halal",
+    "kid-friendly",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 54,
+    "carbs": 32,
+    "fat": 16
+  },
+  "slug": "yummy-spiced-slovakian-beef-shin-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/yummy-spiced-slovakian-beef-shin-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:38:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "beef shin",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "beef shin",
+    "descriptor": "yummy spiced",
+    "dishForm": "hash"
+  }
+}

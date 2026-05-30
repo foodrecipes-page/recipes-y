@@ -1,0 +1,72 @@
+{
+  "slug": "yellowed-crispy-middle-eastern-cauliflower-kebabs",
+  "title": "Crispy Cauliflower Kebabs",
+  "description": "A flavorful and healthy vegetarian dish inspired by Middle Eastern cuisine, featuring crispy cauliflower kebabs with a hint of spice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Cut the cauliflower into florets.",
+    "In a large bowl, mix together olive oil, lemon juice, garlic powder, paprika, salt, and black pepper.",
+    "Add the cauliflower to the bowl and toss to coat with the spice mixture.",
+    "Thread the cauliflower onto skewers, leaving a small space between each piece.",
+    "Place the kebabs on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the cauliflower is tender and lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower",
+    "vegetarian",
+    "kebabs",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-middle-eastern-cauliflower-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:43:34.233Z"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "yummy-smoky-greek-tofu-skewers",
+  "title": "Smoky Tofu Skewers",
+  "description": "A tasty and easy-to-make recipe featuring smoky tofu on skewers, perfect for a quick dinner or lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra Firm Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Greek Vinaigrette",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Greek Skewers",
+      "amount": "10-12",
+      "notes": "Wooden or metal"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": "Halved"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat (375°F).",
+    "2. Cut the tofu into 1-inch cubes and place in a shallow dish.",
+    "3. In a small bowl, whisk together the Greek vinaigrette, smoky paprika, garlic powder, salt, and black pepper.",
+    "4. Pour the marinade over the tofu and coat evenly.",
+    "5. Thread the tofu, cherry tomatoes, and a few sprigs of rosemary (if using) onto the skewers.",
+    "6. Brush the grill with oil to prevent sticking.",
+    "7. Grill the skewers for 8-10 minutes, turning occasionally, until the tofu is golden brown and the vegetables are tender.",
+    "8. Serve hot, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilling",
+    "greek",
+    "vegan",
+    "tofu",
+    "skewers",
+    "summer",
+    "outdoor"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-smoky-greek-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:39:37.852Z"
+}

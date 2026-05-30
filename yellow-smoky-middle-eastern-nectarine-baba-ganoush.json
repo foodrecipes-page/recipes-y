@@ -1,0 +1,83 @@
+{
+  "slug": "yellow-smoky-middle-eastern-nectarine-baba-ganoush",
+  "title": "Nectarine Baba Ghanoush",
+  "description": "A twist on the classic Middle Eastern eggplant dip, incorporating sweet nectarines for added flavor and texture.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoky eggplant",
+      "amount": "1 large",
+      "notes": "Roast at 400°F (200°C) for 30 minutes"
+    },
+    {
+      "name": "Yellow nectarine",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Middle eastern tahini",
+      "amount": "2 tablespoons",
+      "notes": "Creamy"
+    },
+    {
+      "name": "Baba ganoush spice blend",
+      "amount": "1 teaspoon",
+      "notes": "Custom blend with paprika, cumin, and coriander"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "Extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast the eggplant for 30 minutes, or until the skin is charred and collapsed.",
+    "Let the eggplant cool, then peel and transfer it to a blender or food processor.",
+    "Add the diced nectarine, tahini, spice blend, lemon juice, garlic, and salt to the blender.",
+    "Blend until smooth, stopping to scrape down the sides of the blender as needed.",
+    "With the blender running, slowly pour in the olive oil.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the baba ganoush to a serving bowl and garnish with additional nectarine slices, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "snack",
+    "eggplant",
+    "nectarine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-middle-eastern-nectarine-baba-ganoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:56:00.053Z"
+}

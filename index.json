@@ -15576,5 +15576,18 @@
     "cuisine": "Australian",
     "totalTimeMin": 60,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-smoky-croatian-lamb-stew--german",
+    "title": "Smoky German Lamb Stew",
+    "tags": [
+      "german",
+      "lamb",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 180,
+    "shard": "y"
   }
 ]

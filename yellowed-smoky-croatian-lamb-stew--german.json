@@ -1,0 +1,92 @@
+{
+  "slug": "yellowed-smoky-croatian-lamb-stew--german",
+  "title": "Smoky German Lamb Stew",
+  "description": "Hearty German-inspired stew made with tender lamb and smoky flavors.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "croatian laska",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Brown lamb shoulder in pot, about 5 minutes.",
+    "Remove lamb, set aside.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Add smoked paprika, laska, and tomato paste, cook 1 minute.",
+    "Add beef broth, wine, lamb back in pot, bring to a boil.",
+    "Cover, transfer to oven, cook at 300°F (150°C) for 2.5 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lamb",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-smoky-croatian-lamb-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:01:10.333Z"
+}

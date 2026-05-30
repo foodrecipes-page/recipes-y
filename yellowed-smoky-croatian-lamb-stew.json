@@ -1,0 +1,88 @@
+{
+  "slug": "yellowed-smoky-croatian-lamb-stew",
+  "title": "Smoky Lamb Stew",
+  "description": "A hearty, comforting stew made with tender lamb and a depth of smoky flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Yellowed onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Croatian red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides.",
+    "Add the onions and cook until softened.",
+    "Add the smoky paprika and cook for 1 minute.",
+    "Add the red wine and beef broth, scraping up any browned bits.",
+    "Add the tomatoes, potatoes, salt, and pepper.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2.5 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-smoky-croatian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:36:51.111Z"
+}

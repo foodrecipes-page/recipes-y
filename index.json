@@ -9683,17 +9683,14 @@
   },
   {
     "slug": "yellowed-smoky-croatian-lamb-stew",
-    "title": "Yellowed Smoky Croatian Lamb Stew",
+    "title": "Smoky Lamb Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty",
-      "lamb-based",
-      "one-pot",
-      "smoky"
+      "lamb",
+      "stew",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 120,
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {
@@ -14643,18 +14640,18 @@
   },
   {
     "slug": "yummy-smoky-greek-tofu-skewers",
-    "title": "Yummy Smoky Greek tofu Skewers",
+    "title": "Smoky Tofu Skewers",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
+      "grilling",
       "greek",
-      "quick",
-      "smoky",
+      "vegan",
       "tofu",
-      "vegetarian"
+      "skewers",
+      "summer",
+      "outdoor"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

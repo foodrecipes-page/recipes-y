@@ -1,0 +1,62 @@
+{
+  "slug": "yummy-smoky-greek-tofu-skewers--vegan",
+  "title": "Smoky Vegan Skewers",
+  "description": "Grilled skewers with a smoky flavor, perfect for a summer evening. This dish is free from animal products and can be enjoyed by vegans.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra-firm"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 cup",
+      "notes": "your favorite vegetables, such as bell peppers, onions, and mushrooms"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tbsp",
+      "notes": "smoked paprika"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the tofu into cubes and place them in a bowl.",
+    "Add the yummy vegetables and the smoky seasoning to the bowl and mix well.",
+    "Thread the tofu and vegetable mixture onto the skewers.",
+    "Brush the skewers with a little oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until they are golden brown and cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "grilled",
+    "skewers",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-smoky-greek-tofu-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:05:25.776Z"
+}

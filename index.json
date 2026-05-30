@@ -3370,17 +3370,14 @@
   },
   {
     "slug": "yellow-energizing-filipino-freekeh-halo-halo",
-    "title": "Yellow Energizing Filipino Freekeh Halo Halo",
+    "title": "Halo Halo Filipino Dessert",
     "tags": [
-      "dessert",
       "filipino-food",
-      "freekeh-recipe",
-      "gluten-free",
-      "summer-treats",
-      "vegetarian"
+      "dessert",
+      "summer-dessert"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 10,
     "shard": "y"
   },
   {
@@ -11389,17 +11386,15 @@
   },
   {
     "slug": "youthful-tender-brazilian-chicken-skewers",
-    "title": "Youthful Tender Brazilian Chicken Skewers",
+    "title": "Brazilian Chicken Skewers",
     "tags": [
-      "brazilian-cuisine",
-      "easy-dinner",
-      "family-friendly",
-      "gluten-free",
-      "grilled-chicken",
-      "kid-friendly"
+      "grilled",
+      "chicken",
+      "skewers",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 42,
+    "totalTimeMin": 38,
     "shard": "y"
   },
   {
@@ -15588,6 +15583,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 180,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-smoky-greek-tofu-skewers--vegan",
+    "title": "Smoky Vegan Skewers",
+    "tags": [
+      "vegan",
+      "grilled",
+      "skewers",
+      "tofu"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

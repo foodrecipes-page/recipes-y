@@ -1,0 +1,64 @@
+{
+  "slug": "yolk-revive-roasted-egg-miso-soup",
+  "title": "Japanese Miso Egg Custard",
+  "description": "A rich and creamy egg custard infused with the savory flavor of miso, perfect for a light dinner or snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "miso",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "roasted",
+      "amount": null,
+      "notes": "for garnish"
+    },
+    {
+      "name": "revive",
+      "amount": null,
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the egg and miso until well combined.",
+    "Pour the egg mixture into 2 small ramekins or custard cups.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 12-15 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the baking dish and let cool for a few minutes.",
+    "Garnish with roasted miso powder and a sprinkle of revive powder, if desired.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "custard",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 6,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yolk-revive-roasted-egg-miso-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:53:24.567Z"
+}

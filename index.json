@@ -10384,17 +10384,15 @@
   },
   {
     "slug": "yellowish-brown-argentinian-beef-stew",
-    "title": "Yellowish Brown Argentinian Beef Stew",
+    "title": "Argentinian Beef Stew",
     "tags": [
-      "argentinian-cuisine",
-      "beef-stew",
-      "gluten-free",
-      "one-pot",
-      "pressure-cooker",
-      "sugar-free"
+      "beef",
+      "stew",
+      "south-american",
+      "argentinian"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 60,
+    "cuisine": "South American",
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {

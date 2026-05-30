@@ -1,0 +1,65 @@
+{
+  "slug": "yummy-turkish-pear-pide",
+  "title": "Turkish Pear Pide",
+  "description": "A traditional Turkish flatbread topped with sweet pear and a hint of spice. Perfect as a dessert or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yummy Turkish Pide Dough",
+      "amount": "1 package (14.1 oz)"
+    },
+    {
+      "name": "Pear",
+      "amount": "1 ripe pear, sliced"
+    },
+    {
+      "name": "Turkish Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsalted Butter, softened",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the pide dough to a thickness of about 1/4 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Spread the softened butter evenly over the dough, leaving a 1-inch border around the edges.",
+    "Top the butter with sliced pear, leaving a small border around the edges.",
+    "Sprinkle the Turkish spice blend over the pear.",
+    "Drizzle honey over the pear and spice blend.",
+    "Bake for 20-25 minutes, or until the crust is golden brown and the pear is tender.",
+    "Remove from the oven and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "dessert",
+    "pear",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-turkish-pear-pide",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:51:43.027Z"
+}

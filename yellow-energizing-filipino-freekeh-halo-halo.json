@@ -1,0 +1,85 @@
+{
+  "slug": "yellow-energizing-filipino-freekeh-halo-halo",
+  "title": "Halo Halo Filipino Dessert",
+  "description": "A refreshing Filipino dessert made with shaved ice and various sweet ingredients, perfect for hot summer days.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yellow Beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Energizing Red Beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Filipino Halo Halo Toppings",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Freekeh",
+      "amount": "1/2 cup",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Halo",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shaved Ice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Evaporated Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the yellow beans, energizing red beans, filipino halo halo toppings, freekeh, and halo.",
+    "In a separate bowl, whisk together the evaporated milk, sugar, and vanilla extract.",
+    "Pour the milk mixture over the bean mixture and stir well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Just before serving, top with shaved ice and serve immediately.",
+    "Serve in tall glasses or bowls and garnish with additional toppings if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-food",
+    "dessert",
+    "summer-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-energizing-filipino-freekeh-halo-halo",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:06:30.598Z"
+}

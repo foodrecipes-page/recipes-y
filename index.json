@@ -5413,17 +5413,15 @@
   },
   {
     "slug": "yellow-smoky-middle-eastern-nectarine-baba-ganoush",
-    "title": "Yellow Smoky Middle Eastern Nectarine Baba Ganoush",
+    "title": "Nectarine Baba Ghanoush",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "healthy-snack",
-      "low-carb",
       "middle-eastern",
-      "smoky"
+      "snack",
+      "eggplant",
+      "nectarine"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -9240,17 +9238,15 @@
   },
   {
     "slug": "yellowed-peruvian-boudin-noir-picarones",
-    "title": "Yellowed Peruvian Boudin Noir Picarones",
+    "title": "Peruvian Picarones with Yellowed Boudin Filling",
     "tags": [
-      "boudin-noir",
-      "ceramic-tagine",
-      "jain-friendly",
-      "lardons-render",
-      "peruvian-cuisine",
-      "picarones"
+      "peruvian",
+      "dessert",
+      "donuts",
+      "sweet-potato"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -11111,15 +11107,15 @@
   },
   {
     "slug": "yolk-revive-roasted-egg-miso-soup",
-    "title": "Yolk Revive Roasted Egg Miso Soup",
+    "title": "Japanese Miso Egg Custard",
     "tags": [
-      "hangover",
       "japanese",
-      "vegan",
-      "low-fat"
+      "dessert",
+      "custard",
+      "egg"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 65,
+    "totalTimeMin": 17,
     "shard": "y"
   },
   {
@@ -15078,18 +15074,15 @@
   },
   {
     "slug": "yummy-turkish-pear-pide",
-    "title": "Yummy Turkish Pear Pide",
+    "title": "Turkish Pear Pide",
     "tags": [
-      "bamboo-steamer",
+      "turkish",
       "dessert",
-      "fluffy",
-      "fodmap-friendly",
-      "korean-pear",
-      "slow-cook",
-      "turkish"
+      "pear",
+      "flatbread"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

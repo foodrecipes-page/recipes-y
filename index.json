@@ -7931,17 +7931,15 @@
   },
   {
     "slug": "yellowed-crispy-middle-eastern-cauliflower-kebabs",
-    "title": "Yellowed Crispy Middle Eastern Cauliflower Kebabs",
+    "title": "Crispy Cauliflower Kebabs",
     "tags": [
       "cauliflower",
-      "crispy",
-      "festive",
-      "gluten-free",
-      "middle-eastern",
-      "vegetarian"
+      "vegetarian",
+      "kebabs",
+      "middle-eastern"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -15309,13 +15307,16 @@
   },
   {
     "slug": "yummy-vietnamese-beef-pho",
-    "title": "Yummy Vietnamese Beef Pho",
+    "title": "Vietnamese Beef Pho",
     "tags": [
+      "pho",
       "vietnamese",
-      "dinner"
+      "beef",
+      "soup",
+      "noodle"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 150,
     "shard": "y"
   },
   {

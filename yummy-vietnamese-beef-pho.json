@@ -1,0 +1,97 @@
+{
+  "slug": "yummy-vietnamese-beef-pho",
+  "title": "Vietnamese Beef Pho",
+  "description": "A flavorful and comforting Vietnamese noodle soup made with tender beef and a rich broth.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef bones",
+      "amount": "4-6",
+      "notes": "preferably oxtail or beef neck bones"
+    },
+    {
+      "name": "Beef brisket or chuck",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Star anise",
+      "amount": "2",
+      "notes": "whole"
+    },
+    {
+      "name": "Cinnamon sticks",
+      "amount": "2",
+      "notes": "whole"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": "preferably homemade or low-sodium store-bought"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    }
+  ],
+  "instructions": [
+    "Simmer the beef bones in a large stockpot over medium heat for 10 minutes.",
+    "Add the sliced ginger and onion to the pot and continue simmering for another 10 minutes.",
+    "Add the star anise, cinnamon sticks, fish sauce, and soy sauce (if using) to the pot.",
+    "Pour in the beef broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 1-2 hours, or until the broth is rich and flavorful.",
+    "While the broth is cooking, slice the beef brisket or chuck into thin strips.",
+    "Cook the rice noodles according to the package instructions.",
+    "To assemble the pho, place a portion of noodles into a bowl, then add slices of beef and a ladle of hot broth.",
+    "Garnish with herbs, lime wedges, and chili sauce (if desired).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pho",
+    "vietnamese",
+    "beef",
+    "soup",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-vietnamese-beef-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:44:17.376Z"
+}

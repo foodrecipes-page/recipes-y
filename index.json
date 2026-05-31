@@ -11659,17 +11659,15 @@
   },
   {
     "slug": "yummy-algerian-bouillon-wrap",
-    "title": "Yummy Algerian Bouillon Wrap",
+    "title": "Algerian Wrap Filling",
     "tags": [
-      "cheese",
-      "cozy-dinner",
-      "glassy-sauce",
-      "lacto-vegetarian",
-      "quick",
-      "wrap"
+      "algerian",
+      "beef",
+      "wrap",
+      "lunch"
     ],
-    "cuisine": "Algerian-inspired",
-    "totalTimeMin": 10,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

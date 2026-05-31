@@ -1,0 +1,94 @@
+{
+  "slug": "yummy-vietnamese-beef-pho--indian",
+  "title": "Beef Pho with Indian Twist",
+  "description": "A fusion dish that combines the flavors of Indian spices with the comforting broth of Vietnamese pho.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Pho noodles",
+      "amount": "200g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add cumin seeds and sauté until fragrant.",
+    "Add ginger, garlic, and onion, and sauté until the onion is translucent.",
+    "Add beef and cook until browned.",
+    "Add beef broth, coriander powder, red chili powder, and salt. Bring to a boil.",
+    "Reduce heat to low and simmer for 1 hour.",
+    "Cook pho noodles according to package instructions.",
+    "Serve beef and noodles in bowls, garnished with chopped herbs and a sprinkle of cumin seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pho",
+    "indian",
+    "fussion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-vietnamese-beef-pho--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:11:52.962Z"
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "yeasty-tender-filipino-olive-dumplings",
+  "title": "Filipino-Style Beef Dumplings",
+  "description": "A twist on traditional Chinese dumplings, this Filipino version features a flavorful beef and vegetable filling wrapped in a tender dough and served with a side of olive oil.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Pancit noodles",
+      "amount": "1 package",
+      "notes": " Filipino-style noodles"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 1 tablespoon of olive oil over medium-high heat.",
+    "2. Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "3. Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "4. Stir in the pancit noodles and cook for 2-3 minutes.",
+    "5. Season the mixture with salt and black pepper to taste.",
+    "6. Lay a dumpling wrapper on a flat surface and place a tablespoon of the beef mixture in the center of the wrapper.",
+    "7. Dip your finger in water and run it along the edge of the wrapper.",
+    "8. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "9. Press the edges together to seal the dumpling.",
+    "10. Repeat with the remaining wrappers and filling.",
+    "11. In a large pot or steamer, bring 2-3 inches of water to a boil.",
+    "12. Place the dumplings in the steamer basket and cover the pot with a lid.",
+    "13. Steam the dumplings for 10-12 minutes, or until they are cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "filipino",
+    "dumplings",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-tender-filipino-olive-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:36:33.594Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "yellow-fried-chinese-banana-fritters",
+  "title": "Crispy Banana Fritters",
+  "description": "A sweet Chinese dessert made with sliced bananas, deep-fried to perfection.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Yellow food coloring",
+      "amount": "a few drops",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and baking powder.",
+    "In a separate bowl, whisk together eggs and vanilla extract.",
+    "Add the yellow food coloring to the egg mixture and stir well.",
+    "Add the dry ingredients to the egg mixture and stir until just combined.",
+    "Peel the bananas and slice them into 1-inch pieces.",
+    "Dip each banana piece into the batter, coating it completely.",
+    "Heat the vegetable oil in a deep frying pan over medium heat.",
+    "When the oil is hot, add a few banana fritters to the pan (do not overcrowd).",
+    "Fry the banana fritters for 2-3 minutes on each side, or until golden brown.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the banana fritters warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana",
+    "chinese",
+    "dessert",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-fried-chinese-banana-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:50:36.642Z"
+}

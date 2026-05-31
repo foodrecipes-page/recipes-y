@@ -1,0 +1,75 @@
+{
+  "slug": "yellowed-nutty-vietnamese-tofu-bun-thit-nuong",
+  "title": "Grilled Pork Bun",
+  "description": "A classic Vietnamese street food, this grilled pork sandwich is served on a crispy baguette.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thit Nuong",
+      "amount": "8 oz",
+      "notes": "Vietnamese-style marinated pork"
+    },
+    {
+      "name": "Bun",
+      "amount": "4-6",
+      "notes": "Vietnamese-style baguette"
+    },
+    {
+      "name": "Tofu",
+      "amount": "4 oz",
+      "notes": "marinated and grilled"
+    },
+    {
+      "name": "Yellowed",
+      "amount": "1/2 cup",
+      "notes": "pickled carrots and daikon"
+    },
+    {
+      "name": "Nuong",
+      "amount": "2 tbsp",
+      "notes": "Vietnamese-style fish sauce"
+    },
+    {
+      "name": "Vietnamese",
+      "amount": "2 tbsp",
+      "notes": "chili sauce"
+    },
+    {
+      "name": "Nutty",
+      "amount": "1/4 cup",
+      "notes": "peanuts, chopped"
+    }
+  ],
+  "instructions": [
+    "Grill the Thit Nuong and tofu until cooked through.",
+    "Slice the baguette into 4-6 pieces.",
+    "Assemble the sandwich by spreading Nuong sauce on the baguette, followed by grilled pork, tofu, and yellowed.",
+    "Top with chopped peanuts and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-nutty-vietnamese-tofu-bun-thit-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:58:16.337Z"
+}

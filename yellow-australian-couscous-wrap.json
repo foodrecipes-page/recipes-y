@@ -1,0 +1,87 @@
+{
+  "slug": "yellow-australian-couscous-wrap",
+  "title": "Australian Couscous Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with couscous, chicken, and vegetables, inspired by Australian cuisine.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Chicken Breast",
+      "amount": "1",
+      "notes": "boneless, skinless, 120g each"
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Bell Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Australian Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Season the chicken breast with salt and black pepper.",
+    "Grill or bake the chicken for 15-20 minutes or until cooked through.",
+    "Cook the couscous according to package instructions.",
+    "Heat olive oil in a pan over medium heat.",
+    "Add the diced onion and bell pepper, cook until softened.",
+    "Add the cooked chicken to the pan and stir to combine.",
+    "Fluff the cooked couscous with a fork.",
+    "Assemble the wrap by placing a portion of couscous on the wrap, followed by the chicken and vegetable mixture.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "chicken",
+    "couscous",
+    "wrap",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-australian-couscous-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:53:29.785Z"
+}

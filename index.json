@@ -1754,16 +1754,16 @@
   },
   {
     "slug": "yellow-australian-couscous-wrap",
-    "title": "Yellow Australian Couscous Wrap",
+    "title": "Australian Couscous Wrap",
     "tags": [
       "australian",
-      "low-fat",
-      "quick-fix",
-      "snack",
-      "vegetarian"
+      "chicken",
+      "couscous",
+      "wrap",
+      "grilled"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -9184,17 +9184,15 @@
   },
   {
     "slug": "yellowed-nutty-vietnamese-tofu-bun-thit-nuong",
-    "title": "Yellowed Nutty Vietnamese Tofu Bun Thit Nuong",
+    "title": "Grilled Pork Bun",
     "tags": [
-      "midnight-cravings",
-      "papillote-recipes",
-      "snack-ideas",
-      "tofu-recipes",
-      "vegan-friendly",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "grilled",
+      "pork",
+      "sandwich"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

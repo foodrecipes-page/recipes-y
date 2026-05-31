@@ -1,0 +1,71 @@
+{
+  "slug": "yellowed-springy-algerian-lamb-tagine",
+  "title": "Algerian Lamb Tagine",
+  "description": "A classic Algerian dish made with tender lamb and aromatic spices, slow-cooked in a flavorful tagine.",
+  "cuisine": "North African",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Yellowed onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Springy green olives",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Algerian spices",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tagine",
+      "amount": "1",
+      "notes": "Traditional clay pot"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat the tagine over medium heat and add the lamb shoulder.",
+    "Sear the lamb for 2-3 minutes on each side, then remove it from the tagine.",
+    "Add the sliced onions to the tagine and cook until they're softened and lightly browned, about 5-7 minutes.",
+    "Add the green olives, Algerian spices, and browned onions back into the tagine.",
+    "Return the lamb shoulder to the tagine, cover it, and transfer it to the preheated oven.",
+    "Braise the lamb and vegetables for 2-3 hours, or until the lamb is tender and falls apart easily.",
+    "Serve the lamb and tagine over couscous or rice.",
+    "Garnish with fresh herbs, such as parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "north-african",
+    "lamb",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-springy-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:10:14.950Z"
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "yellowed-crispy-german-pork-knuckle-roast",
+  "title": "Crispy Pork Knuckle Roast",
+  "description": "A traditional German-style roasted pork knuckle with a crispy, golden-brown crust. This dish is perfect for a hearty dinner.",
+  "cuisine": "german",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1",
+      "notes": "about 1.5 kg"
+    },
+    {
+      "name": "yellowed onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup",
+      "notes": "any German lager works well"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lard or oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C.",
+    "Season the pork knuckle with salt, black pepper, and caraway seeds.",
+    "Heat the lard or oil in a large Dutch oven over medium heat.",
+    "Sear the pork knuckle until browned on all sides, about 5 minutes per side.",
+    "Transfer the pork knuckle to a plate and set aside.",
+    "Add the chopped onion to the Dutch oven and cook until caramelized, about 20 minutes.",
+    "Add the beer and water to the Dutch oven, scraping up any browned bits from the bottom.",
+    "Return the pork knuckle to the Dutch oven and bring the liquid to a simmer.",
+    "Transfer the Dutch oven to the preheated oven and roast the pork knuckle for 20 minutes.",
+    "Increase the oven temperature to 250°C and continue roasting for an additional 20-25 minutes, or until the skin is crispy and golden brown.",
+    "Remove the pork knuckle from the oven and let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 4,
+    "fat": 55
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-german-pork-knuckle-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:47:14.078Z"
+}

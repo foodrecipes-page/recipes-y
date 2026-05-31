@@ -1,0 +1,98 @@
+{
+  "slug": "yellow-australian-vegetable-curry",
+  "title": "Australian Yellow Curry",
+  "description": "A flavorful and aromatic curry dish inspired by Australian cuisine, featuring yellow curry paste, tender chicken, and a blend of vegetables.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Yellow curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Seed and sliced"
+    },
+    {
+      "name": "Yellow potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "Full-fat coconut milk for richness"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "To balance the heat"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "In the same pan, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the onion, carrots, and red bell pepper, and cook until the vegetables are tender-crisp, about 5 minutes.",
+    "Add the yellow curry paste and cook for 1 minute, stirring constantly.",
+    "Add the potatoes, coconut milk, fish sauce, and sugar. Stir to combine.",
+    "Return the chicken to the pan and simmer for 10-15 minutes, or until the chicken is cooked through.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro or scallions if desired.",
+    "Serve with steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "curry",
+    "yellow curry",
+    "chicken",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-australian-vegetable-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:17:30.238Z"
+}

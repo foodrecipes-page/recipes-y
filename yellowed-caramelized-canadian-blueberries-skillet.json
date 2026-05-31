@@ -1,0 +1,54 @@
+{
+  "slug": "yellowed-caramelized-canadian-blueberries-skillet",
+  "title": "Blueberry Caramelized Canadian Skillet",
+  "description": "A sweet and savory breakfast dish made with caramelized Canadian bacon, blueberries, and a hint of yellowed butter. Perfect for a weekend brunch.",
+  "cuisine": "North American",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "2 slices"
+    },
+    {
+      "name": "blueberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yellowed butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Cook Canadian bacon in a skillet over medium heat until caramelized, flipping halfway through.",
+    "Add blueberries to the skillet and cook for 2-3 minutes, until they start to release their juice.",
+    "Add yellowed butter to the skillet and stir until melted.",
+    "Serve the Canadian bacon and blueberries in the skillet, garnished with additional blueberries if desired.",
+    "Cook to an internal temperature of 145°F (63°C) for Canadian bacon."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "blueberries",
+    "breakfast",
+    "brunch",
+    "caramelized",
+    "canadian-bacon",
+    "skillet"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-caramelized-canadian-blueberries-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:38:44.638Z"
+}

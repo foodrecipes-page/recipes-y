@@ -1768,16 +1768,16 @@
   },
   {
     "slug": "yellow-australian-vegetable-curry",
-    "title": "Yellow Australian Vegetable Curry",
+    "title": "Australian Yellow Curry",
     "tags": [
       "australian",
-      "one-pan",
-      "spicy",
-      "vegetarian",
-      "weeknight"
+      "curry",
+      "yellow curry",
+      "chicken",
+      "vegetables"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -10391,17 +10391,15 @@
   },
   {
     "slug": "yellowish-chinese-fenugreek-curry",
-    "title": "Yellowish Chinese Fenugreek Curry",
+    "title": "Yellow Curry with Fenugreek",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "vegetarian",
-      "weeknight"
+      "yellow-curry",
+      "fenugreek",
+      "indian-cuisine",
+      "curry"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -11936,17 +11934,14 @@
   },
   {
     "slug": "yummy-british-pork-bake",
-    "title": "Yummy British Pork Bake",
+    "title": "Classic Pork Pie",
     "tags": [
+      "pork",
       "british",
-      "flexitarian",
-      "lazy-sunday",
-      "northern-irish",
-      "one-pan",
-      "weeknight"
+      "bake"
     ],
     "cuisine": "British",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

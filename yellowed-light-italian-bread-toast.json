@@ -1,0 +1,73 @@
+{
+  "slug": "yellowed-light-italian-bread-toast",
+  "title": "Italian Bruschetta",
+  "description": "A simple yet flavorful appetizer or snack made by topping toasted Italian bread with fresh tomatoes and basil.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Italian bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "light tomatoes",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "yellowed garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the Italian bread into 1-inch thick slices.",
+    "3. Drizzle olive oil over the bread slices and toast in the oven for 5-7 minutes, or until lightly browned.",
+    "4. In a small bowl, mix together the diced tomatoes, minced garlic, salt, and pepper.",
+    "5. Once the bread is toasted, let it cool for a minute or two.",
+    "6. Rub the garlic cloves over the toasted bread.",
+    "7. Spoon the tomato mixture over the bread.",
+    "8. Top with chopped fresh basil.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "bruschetta",
+    "appetizer",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-light-italian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:09:05.654Z"
+}

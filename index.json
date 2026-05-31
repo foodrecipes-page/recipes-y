@@ -1519,16 +1519,15 @@
   },
   {
     "slug": "yeasty-tender-filipino-olive-dumplings",
-    "title": "Yeasty Tender Filipino Olive Dumplings",
+    "title": "Filipino-Style Beef Dumplings",
     "tags": [
-      "filipino-food",
-      "lacto-vegetarian",
-      "meal-prep",
-      "olive-based",
-      "yeasty-dough"
+      "beef",
+      "filipino",
+      "dumplings",
+      "noodles"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -1576,17 +1575,15 @@
   },
   {
     "slug": "yeasty-tunisian-bun-toast",
-    "title": "Yeasty Tunisian Bun Toast",
+    "title": "Tunisian Bun Toast",
     "tags": [
       "breakfast",
-      "easy-breakfast",
-      "romantic",
-      "snappy",
-      "whole30",
-      "yeasty"
+      "brunch",
+      "tunisian",
+      "north-african"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -15580,6 +15577,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-vietnamese-beef-pho--indian",
+    "title": "Beef Pho with Indian Twist",
+    "tags": [
+      "beef",
+      "pho",
+      "indian",
+      "fussion"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 80,
     "shard": "y"
   }
 ]

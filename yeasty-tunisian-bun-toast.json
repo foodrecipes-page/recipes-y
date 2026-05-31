@@ -1,0 +1,82 @@
+{
+  "slug": "yeasty-tunisian-bun-toast",
+  "title": "Tunisian Bun Toast",
+  "description": "A sweet and savory breakfast or brunch dish that combines the flavors of Tunisia with the comfort of toasted buns.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yeasty bun",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "tunisian",
+      "amount": "1 tsp",
+      "notes": "North African spice blend"
+    },
+    {
+      "name": "bun",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "toast",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (175°C).",
+    "2. Cut the yeasty bun in half and toast until lightly browned.",
+    "3. In a small bowl, mix together the tunisian spice blend and butter.",
+    "4. Spread the tunisian butter mixture on the toasted bun.",
+    "5. Drizzle the honey over the butter.",
+    "6. Sprinkle the parsley and cilantro over the honey.",
+    "7. Serve the Tunisian bun toast warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "tunisian",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-tunisian-bun-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:38:00.518Z"
+}

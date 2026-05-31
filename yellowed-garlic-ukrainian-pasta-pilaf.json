@@ -1,0 +1,69 @@
+{
+  "slug": "yellowed-garlic-ukrainian-pasta-pilaf",
+  "title": "Ukrainian Pilaf Pasta Bake",
+  "description": "A hearty, comforting dish that combines the flavors of pilaf and pasta. Perfect for a cozy evening meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "yellowed",
+      "amount": "2 cups",
+      "notes": "such as yellow bell pepper or onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ukrainian pilaf",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large skillet, sauté yellowed and garlic in a little oil until softened.",
+    "Add cooked pilaf to the skillet and stir to combine.",
+    "If using chicken broth, stir it in to create a creamy sauce.",
+    "In a large bowl, combine cooked pasta, pilaf mixture, and chicken broth (if using).",
+    "Transfer the mixture to a baking dish and top with additional yellowed and garlic if desired.",
+    "Bake for 20-25 minutes, or until golden brown and heated through.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "pilaf",
+    "ukrainian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-garlic-ukrainian-pasta-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:32:02.826Z"
+}

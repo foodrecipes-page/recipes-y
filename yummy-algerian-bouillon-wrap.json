@@ -1,0 +1,63 @@
+{
+  "slug": "yummy-algerian-bouillon-wrap",
+  "title": "Algerian Wrap Filling",
+  "description": "A flavorful filling made with Algerian spices, perfect for wraps or sandwiches. This recipe combines tender meat with aromatic spices, served in a crispy wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yummy beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "bouillon",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "algerian spices",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "wrap",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the bouillon over medium-high heat.",
+    "Add the yummy beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the Algerian spices and stir to combine.",
+    "Continue to cook until the meat is fully cooked and the liquid has evaporated.",
+    "Warm the wraps according to package instructions.",
+    "Spoon the meat mixture onto the center of each wrap, leaving a small border around the edges.",
+    "Serve immediately and enjoy!",
+    "Optional: Top with your favorite toppings, such as chopped veggies or pickled onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "beef",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-algerian-bouillon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:24:29.840Z"
+}

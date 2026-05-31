@@ -5696,17 +5696,15 @@
   },
   {
     "slug": "yellow-spiced-indian-white-beans-rogan-josh",
-    "title": "Yellow Spiced Indian White Beans Rogan Josh",
+    "title": "Yellow Chicken Rogan Josh",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "indian-cuisine",
-      "one-pot",
-      "spicy",
-      "vegetarian"
+      "chicken",
+      "indian",
+      "curry",
+      "rogon josh"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 90,
+    "cuisine": "indian",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -7238,17 +7236,17 @@
   },
   {
     "slug": "yellowed-caramelized-canadian-blueberries-skillet",
-    "title": "Yellowed Caramelized Canadian Blueberries Skillet",
+    "title": "Blueberry Caramelized Canadian Skillet",
     "tags": [
-      "anti-inflammatory",
-      "canadian-cuisine",
-      "date-night",
-      "gluten-free",
-      "one-pan",
-      "vegetarian"
+      "blueberries",
+      "breakfast",
+      "brunch",
+      "caramelized",
+      "canadian-bacon",
+      "skillet"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "North American",
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {

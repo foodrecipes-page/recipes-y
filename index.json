@@ -8980,16 +8980,16 @@
   },
   {
     "slug": "yellowed-light-italian-bread-toast",
-    "title": "Yellowed Light Italian Bread Toast",
+    "title": "Italian Bruschetta",
     "tags": [
-      "comfort-food",
-      "easy-snack",
-      "italian-food",
-      "smoky-flavor",
-      "vegan-friendly"
+      "italian",
+      "bruschetta",
+      "appetizer",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -9888,17 +9888,16 @@
   },
   {
     "slug": "yellowed-springy-algerian-lamb-tagine",
-    "title": "Yellowed Springy Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "dairy-free",
-      "lamb-based",
+      "algerian",
       "north-african",
-      "one-pot",
-      "slow-cooked",
-      "special-occasion"
+      "lamb",
+      "tagine",
+      "slow-cooked"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 135,
     "shard": "y"
   },
   {

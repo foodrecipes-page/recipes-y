@@ -3544,17 +3544,15 @@
   },
   {
     "slug": "yellow-fried-chinese-banana-fritters",
-    "title": "Yellow Fried Chinese Banana Fritters",
+    "title": "Crispy Banana Fritters",
     "tags": [
-      "banana-recipe",
-      "chinese-dessert",
-      "deep-fried",
-      "halal-friendly",
-      "mason-jar-recipe",
-      "sweet-treats"
+      "banana",
+      "chinese",
+      "dessert",
+      "fritters"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -7765,17 +7763,14 @@
   },
   {
     "slug": "yellowed-crispy-german-pork-knuckle-roast",
-    "title": "Yellowed Crispy German Pork Knuckle Roast",
+    "title": "Crispy Pork Knuckle Roast",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "macrobiotic-friendly",
-      "one-pot-meals",
-      "pork-recipes",
-      "roasted-meats"
+      "german",
+      "pork",
+      "roast"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 150,
+    "cuisine": "german",
+    "totalTimeMin": 75,
     "shard": "y"
   },
   {

@@ -1868,16 +1868,15 @@
   },
   {
     "slug": "yellow-browned-venezuelan-beef-stew",
-    "title": "Yellow Browned Venezuelan Beef Stew",
+    "title": "Venezuelan Beef Stew",
     "tags": [
-      "beef-stew",
-      "comfort-food",
-      "latin-american",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "stew",
+      "venezuelan",
+      "comfort food"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 110,
+    "totalTimeMin": 105,
     "shard": "y"
   },
   {
@@ -10987,17 +10986,16 @@
   },
   {
     "slug": "yogurt-marinated-smoky-mediterranean-fish-tagine",
-    "title": "Yogurt-Marinated-Smoky Mediterranean Fish Tagine",
+    "title": "Smoky Fish Tagine",
     "tags": [
-      "easy-dinner",
+      "fish",
+      "north-african",
+      "tagine",
       "gluten-free",
-      "high-protein",
-      "low-fat",
-      "one-pan",
-      "weeknight"
+      "easy-dinner"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 27,
     "shard": "y"
   },
   {

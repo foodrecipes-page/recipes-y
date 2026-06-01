@@ -6601,17 +6601,15 @@
   },
   {
     "slug": "yellow-velvety-ukrainian-passion-fruit-curry",
-    "title": "Yellow Velvety Ukrainian Passion Fruit Curry",
+    "title": "Yellow Passion Fruit Curry",
     "tags": [
-      "fruity",
-      "macrobiotic",
-      "one-pan",
-      "spicy",
-      "vegetarian",
-      "weeknight"
+      "ukrainian",
+      "curry",
+      "passionfruit",
+      "yellow"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -7339,17 +7337,14 @@
   },
   {
     "slug": "yellowed-cheesy-vietnamese-chicken-noodles",
-    "title": "Yellowed Cheesy Vietnamese Chicken Noodles",
+    "title": "Cheesy Chicken Noodle Soup",
     "tags": [
-      "cheesy",
-      "chicken",
-      "noodles",
-      "one-pan",
-      "vietnamese",
-      "weeknight"
+      "comfort-food",
+      "soup",
+      "noodles"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

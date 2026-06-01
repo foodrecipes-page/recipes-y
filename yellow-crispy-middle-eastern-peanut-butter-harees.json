@@ -1,0 +1,75 @@
+{
+  "slug": "yellow-crispy-middle-eastern-peanut-butter-harees",
+  "title": "Middle Eastern Harees with Peanut Butter Sauce",
+  "description": "A traditional Middle Eastern dish made with slow-cooked wheat and meat, served with a creamy peanut butter sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "harees",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "crispy bread",
+      "amount": "4 slices",
+      "notes": "crumbs"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak the harees in water for at least 4 hours or overnight.",
+    "Drain and rinse the harees, then place it in a saucepan with 2 cups of water.",
+    "Add the chopped onion and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes or until the harees is tender.",
+    "Meanwhile, blend the peanut butter with a little water until smooth.",
+    "Add the peanut butter sauce to the harees and stir well.",
+    "Serve hot, garnished with crispy bread crumbs.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "breakfast",
+    "harees",
+    "peanut butter",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crispy-middle-eastern-peanut-butter-harees",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:28:48.199Z"
+}

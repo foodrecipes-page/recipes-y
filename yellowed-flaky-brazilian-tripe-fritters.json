@@ -1,0 +1,68 @@
+{
+  "slug": "yellowed-flaky-brazilian-tripe-fritters",
+  "title": "Tripe Fritters with Brazilian Twist",
+  "description": "A crispy Brazilian-inspired fritter recipe that features tender tripe as the main protein. This recipe adds a unique twist to traditional fritter recipes.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound, cleaned and cut into small pieces"
+    },
+    {
+      "name": "Flaky Brazilian Cheese (Queijo Minas)",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Yellowed Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Fritters",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large, beaten"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup, gluten-free"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine tripe, cheese, onion, and egg. Mix well.",
+    "2. Add crushed fritters and breadcrumbs to the bowl. Mix until a thick batter forms.",
+    "3. Heat a large skillet over medium-high heat.",
+    "4. Using a spoon, drop small amounts of the batter into the skillet.",
+    "5. Flatten the batter slightly with a spatula.",
+    "6. Cook for 3-4 minutes or until the bottom is golden brown.",
+    "7. Flip the fritters and cook for another 3-4 minutes or until golden brown.",
+    "8. Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "Brazilian",
+    "snack",
+    "fritters",
+    "tripecuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-brazilian-tripe-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:45:16.274Z"
+}

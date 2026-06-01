@@ -2709,18 +2709,16 @@
   },
   {
     "slug": "yellow-crispy-middle-eastern-peanut-butter-harees",
-    "title": "Yellow Crispy Middle Eastern Peanut Butter Harees",
+    "title": "Middle Eastern Harees with Peanut Butter Sauce",
     "tags": [
-      "crispy",
-      "low-glycemic",
-      "lunch",
-      "middle-eastern",
-      "peanut-butter",
-      "snack",
-      "vegetarian"
+      "middle eastern",
+      "breakfast",
+      "harees",
+      "peanut butter",
+      "comfort food"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -8346,16 +8344,15 @@
   },
   {
     "slug": "yellowed-flaky-brazilian-tripe-fritters",
-    "title": "Yellowed Flaky Brazilian Tripe Fritters",
+    "title": "Tripe Fritters with Brazilian Twist",
     "tags": [
-      "brazilian-cuisine",
-      "deep-fried",
-      "sugar-free",
-      "tripe-recipe",
-      "weeknight-meal"
+      "Brazilian",
+      "snack",
+      "fritters",
+      "tripecuisine"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 35,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {

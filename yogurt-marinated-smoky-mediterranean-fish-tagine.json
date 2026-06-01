@@ -1,0 +1,79 @@
+{
+  "slug": "yogurt-marinated-smoky-mediterranean-fish-tagine",
+  "title": "Smoky Fish Tagine",
+  "description": "A flavorful and aromatic North African-inspired fish dish, slow-cooked in a smoky tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoky tagine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish",
+      "amount": "4 fillets",
+      "notes": "any firm white fish, such as cod or snapper"
+    },
+    {
+      "name": "marinated",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish with salt and pepper.",
+    "In a large tagine or Dutch oven, heat the olive oil over medium heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the smoky tagine and marinated, stirring to combine.",
+    "Add the fish to the tagine, skin side up.",
+    "Cover the tagine with a lid and transfer to the preheated oven.",
+    "Bake for 12-15 minutes or until the fish is cooked through.",
+    "Stir in the yogurt and lemon juice.",
+    "Serve the fish hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "north-african",
+    "tagine",
+    "gluten-free",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-marinated-smoky-mediterranean-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:58:05.942Z"
+}

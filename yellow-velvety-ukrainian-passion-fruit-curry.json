@@ -1,0 +1,80 @@
+{
+  "slug": "yellow-velvety-ukrainian-passion-fruit-curry",
+  "title": "Yellow Passion Fruit Curry",
+  "description": "A unique and flavorful curry dish made with yellow passion fruit, perfect for a warm and exotic dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow passion fruit",
+      "amount": "2"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add curry paste, cook for 1-2 minutes.",
+    "Add yellow passion fruit, curry powder, salt, and pepper. Cook for 5 minutes.",
+    "Serve with yogurt.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "curry",
+    "passionfruit",
+    "yellow"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-velvety-ukrainian-passion-fruit-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:07:31.219Z"
+}

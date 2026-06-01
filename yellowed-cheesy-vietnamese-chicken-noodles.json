@@ -1,0 +1,84 @@
+{
+  "slug": "yellowed-cheesy-vietnamese-chicken-noodles",
+  "title": "Cheesy Chicken Noodle Soup",
+  "description": "A comforting, creamy soup made with chicken, noodles, and a hint of cheesy goodness.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellowed noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a pot over medium heat.",
+    "Add diced onion and cook until translucent.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add chicken breast and cook until browned.",
+    "Pour in coconut milk and fish sauce.",
+    "Add yellowed noodles and cook until heated through.",
+    "Stir in shredded cheddar cheese until melted.",
+    "Season with sugar to taste.",
+    "Simmer for an additional 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-cheesy-vietnamese-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:40:53.307Z"
+}

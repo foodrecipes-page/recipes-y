@@ -1,0 +1,74 @@
+{
+  "slug": "yellow-browned-venezuelan-beef-stew",
+  "title": "Venezuelan Beef Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, made with tender beef and a rich mixture of spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown beef, cut into bite-sized pieces",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Venezuelan stew",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot or Dutch oven over medium-high heat.",
+    "Add the browned beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the chopped onions to the pot and cook until they start to brown, about 5 minutes.",
+    "Add the Venezuelan stew, beef broth, and water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Return the beef to the pot and continue to simmer for another 30 minutes, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "venezuelan",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-browned-venezuelan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:45:31.888Z"
+}

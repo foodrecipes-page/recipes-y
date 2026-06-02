@@ -6326,16 +6326,16 @@
   },
   {
     "slug": "yellow-sweet-brazilian-yams-skillet",
-    "title": "Yellow Sweet Brazilian Yams Skillet",
+    "title": "Sweet Yellow Yam Skillet",
     "tags": [
-      "brazilian-cuisine",
+      "sweet-potatoes",
+      "yams",
+      "vegetarian",
       "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "dinner"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -13074,17 +13074,16 @@
   },
   {
     "slug": "yummy-garlicky-ethiopian-pistachio-stew",
-    "title": "Yummy Garlicky Ethiopian Pistachio Stew",
+    "title": "Ethiopian Stew with Pistachio Crunch",
     "tags": [
-      "african",
-      "date-night",
-      "garlic",
-      "low-calorie",
-      "one-pot",
-      "pistachio"
+      "ethiopian",
+      "stew",
+      "pistachio",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -15592,6 +15591,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 7,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-flaky-brazilian-tripe-fritters--chinese",
+    "title": "Crispy Tripe Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "tripecuisine",
+      "crispyfritters"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

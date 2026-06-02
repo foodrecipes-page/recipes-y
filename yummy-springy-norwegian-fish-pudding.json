@@ -1,0 +1,67 @@
+{
+  "slug": "yummy-springy-norwegian-fish-pudding",
+  "title": "Norwegian Fish Cakes",
+  "description": "A simple and delicious Norwegian dish made with cod, onions, and flour. Serve with a side of tartar sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "springy",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 tablespoon",
+      "notes": "mayo or sour cream"
+    },
+    {
+      "name": "puff",
+      "amount": "1 cup",
+      "notes": "puff pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the cod and cut it into small pieces.",
+    "In a bowl, mix together the cod, onion, flour, springy, yummy, and a pinch of salt.",
+    "Shape the mixture into small patties.",
+    "Wrap each patty in puff pastry and seal the edges.",
+    "Place the fish cakes on a baking sheet and brush with a little water.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve hot with a side of tartar sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fishcakes",
+    "norwegianfood",
+    "easyrecipe",
+    "homemade"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-springy-norwegian-fish-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:07:31.049Z"
+}

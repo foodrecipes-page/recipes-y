@@ -1,0 +1,70 @@
+{
+  "slug": "yeasty-tunisian-bun-toast--italian",
+  "title": "Italian-Style Bun Toast",
+  "description": "A simple Italian-inspired snack made with toasted buns and a hint of yeast.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeasty bun",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "tunisian",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bun",
+      "amount": "1 piece"
+    },
+    {
+      "name": "bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut the bun in half lengthwise.",
+    "Spread a layer of tunisian on the bottom half of the bun.",
+    "Place the top half of the bun on the bottom half.",
+    "Drizzle with olive oil and sprinkle with salt and basil leaves, if desired.",
+    "Bake in the oven for 2-3 minutes, or until toasted to your liking.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-tunisian-bun-toast--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:53:25.688Z"
+}

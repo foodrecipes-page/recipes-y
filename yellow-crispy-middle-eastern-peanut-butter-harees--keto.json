@@ -1,0 +1,64 @@
+{
+  "slug": "yellow-crispy-middle-eastern-peanut-butter-harees--keto",
+  "title": "Keto Harees with Peanut Butter Sauce",
+  "description": "A keto twist on a traditional Middle Eastern harees recipe, served with a creamy peanut butter sauce.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "harees",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yellow",
+      "amount": "1 large"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eastern spices",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the harees according to package instructions.",
+    "Melt the peanut butter in a saucepan over low heat.",
+    "Add 1 tsp of eastern spices to the peanut butter and stir well.",
+    "Slice the yellow into thin rounds.",
+    "Pan-fry the crispy until crispy.",
+    "Serve the harees with the peanut butter sauce and top with yellow and crispy.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "middle eastern",
+    "lunch",
+    "harees",
+    "peanut butter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crispy-middle-eastern-peanut-butter-harees--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:13:09.618Z"
+}

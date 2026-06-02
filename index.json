@@ -3494,18 +3494,14 @@
   },
   {
     "slug": "yellow-fluffy-uruguayan-gelatin-pudding",
-    "title": "Yellow Fluffy Uruguayan Gelatin Pudding",
+    "title": "Uruguayan Fluffy Pudding Dessert",
     "tags": [
-      "brunch",
+      "uruguayan",
       "dessert",
-      "flexitarian",
-      "gelatin",
-      "south-american",
-      "sweet",
-      "uruguayan"
+      "pudding"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 210,
     "shard": "y"
   },
   {
@@ -14022,14 +14018,12 @@
   },
   {
     "slug": "yummy-nutty-norwegian-walnut-lasagna",
-    "title": "Yummy Nutty Norwegian Walnut Lasagna",
+    "title": "Walnut Norwegian Lasagna",
     "tags": [
+      "norwegian",
       "lasagna",
-      "midnight-craving",
-      "no-boil",
-      "overnight",
-      "vegetarian",
-      "walnut"
+      "walnuts",
+      "pesto"
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 60,
@@ -15576,6 +15570,19 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 80,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-tender-filipino-olive-dumplings--keto",
+    "title": "Filipino Yeast Keto Dumplings",
+    "tags": [
+      "keto",
+      "filipino",
+      "yeast",
+      "dumplings"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

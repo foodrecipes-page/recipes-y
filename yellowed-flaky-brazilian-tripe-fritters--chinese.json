@@ -1,0 +1,90 @@
+{
+  "slug": "yellowed-flaky-brazilian-tripe-fritters--chinese",
+  "title": "Crispy Tripe Stir Fry",
+  "description": "A Chinese-inspired dish featuring tripe, stir-fried with vegetables and served with a side of crispy fritters.",
+  "cuisine": "chinese",
+  "diet": [
+    "pork",
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Yellow onions",
+      "amount": "1 medium, sliced",
+      "notes": null
+    },
+    {
+      "name": "Brazilian fritters",
+      "amount": "4-6 pieces",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, sliced",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced onions and cook until they start to brown, about 3-4 minutes.",
+    "Add the sliced ginger and cook for another minute.",
+    "Add the tripe and cook until it starts to brown, about 5 minutes.",
+    "Add the soy sauce, sesame oil, and garlic, and stir to combine.",
+    "Cook for another 2-3 minutes, until the tripe is cooked through.",
+    "Stir in the crushed fritters and chopped green onions.",
+    "Cook for another minute, until everything is well combined.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "tripecuisine",
+    "crispyfritters"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-brazilian-tripe-fritters--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:31:50.352Z"
+}

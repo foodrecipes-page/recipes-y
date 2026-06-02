@@ -1,0 +1,69 @@
+{
+  "slug": "yeasty-fluffy-portuguese-yautia-pilaf",
+  "title": "Traditional Portuguese Yeast Bread",
+  "description": "A crispy crust and fluffy interior make this Portuguese yeast bread perfect for sandwiches or toast.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yautia",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Fluffy flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "warm"
+    }
+  ],
+  "instructions": [
+    "Combine yautia, yeast, and warm water in a large mixing bowl.",
+    "Let the mixture sit for 5 minutes until frothy.",
+    "Add flour and salt to the bowl, mixing until a sticky dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375°F (190°C).",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf on a baking sheet and bake for 35-40 minutes, or until golden brown.",
+    "Let the bread cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "portuguese",
+    "yeast",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-fluffy-portuguese-yautia-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:04:37.506Z"
+}

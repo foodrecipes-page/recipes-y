@@ -1,0 +1,88 @@
+{
+  "slug": "yummy-garlicky-ethiopian-pistachio-stew",
+  "title": "Ethiopian Stew with Pistachio Crunch",
+  "description": "A flavorful and spicy stew from Ethiopia, topped with crunchy pistachios.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yummy tomatoes",
+      "amount": "2 large",
+      "notes": "any variety"
+    },
+    {
+      "name": "garlicky onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "pistachio",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "stew peppers",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Ethiopian spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most spice shops"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the stew peppers and cook for 5 minutes.",
+    "Add the tomatoes, Ethiopian spice blend, salt, and black pepper. Stir well.",
+    "Reduce heat to low and simmer for 20 minutes, stirring occasionally.",
+    "Stir in the chopped pistachios.",
+    "Serve hot, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "pistachio",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-garlicky-ethiopian-pistachio-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:34:24.553Z"
+}

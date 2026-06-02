@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-fluffy-uruguayan-gelatin-pudding",
+  "title": "Uruguayan Fluffy Pudding Dessert",
+  "description": "A unique Uruguayan-inspired dessert made with fluffy, yellow pudding, perfect for a sweet treat.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fluffy Pudding Mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Food Coloring",
+      "amount": "a few drops",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Gelatin",
+      "amount": "1 envelope (0.25 oz)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the Fluffy Pudding Mix, yellow food coloring, granulated sugar, and unsalted butter. Mix until smooth and creamy.",
+    "In a separate bowl, whisk together the large eggs and vanilla extract.",
+    "Add the egg mixture to the pudding mixture and mix until well combined.",
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it soften for 5 minutes.",
+    "Add the softened gelatin to the pudding mixture and mix until dissolved.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 3 hours or until set.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "dessert",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-fluffy-uruguayan-gelatin-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:24:43.454Z"
+}

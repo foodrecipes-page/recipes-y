@@ -1,0 +1,68 @@
+{
+  "slug": "yellow-spicy-croatian-shrimp-skewers",
+  "title": "Shrimp Skewers with Spicy Croatian Salsa",
+  "description": "A flavorful and spicy twist on traditional shrimp skewers, inspired by Croatian cuisine. Serve with a side of tangy salsa for added kick.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "wooden or bamboo"
+    },
+    {
+      "name": "spicy Croatian salsa",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, bell pepper, and onion onto skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Meanwhile, heat spicy Croatian salsa in a small saucepan over low heat.",
+    "Serve skewers hot with salsa spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "seafood",
+    "spicy",
+    "croatian",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-croatian-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:00:45.117Z"
+}

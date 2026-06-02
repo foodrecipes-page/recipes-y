@@ -1,0 +1,90 @@
+{
+  "slug": "yummy-nutty-norwegian-walnut-lasagna",
+  "title": "Walnut Norwegian Lasagna",
+  "description": "A traditional Norwegian twist on the classic Italian dish, featuring the nutty flavor of walnuts and the sweetness of lasagna.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": null
+    },
+    {
+      "name": "Norwegian walnut pesto",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup, grated",
+      "notes": null
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a blender or food processor, combine Norwegian walnut pesto, chopped walnuts, mozzarella cheese, Parmesan cheese, and fresh basil. Blend until smooth.",
+    "In a large skillet, heat olive oil over medium heat. Add pesto mixture and cook for 2-3 minutes, stirring constantly.",
+    "In a 9x13 inch baking dish, create a thin layer of pesto mixture. Arrange 4 lasagna noodles on top.",
+    "Repeat the layers, starting with noodles, then pesto mixture, and ending with a layer of mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until cheese is melted and bubbly.",
+    "Remove from oven and let cool for 10-15 minutes before serving.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "lasagna",
+    "walnuts",
+    "pesto"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-nutty-norwegian-walnut-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:05:21.672Z"
+}

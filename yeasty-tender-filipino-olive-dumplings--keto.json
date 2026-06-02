@@ -1,0 +1,87 @@
+{
+  "slug": "yeasty-tender-filipino-olive-dumplings--keto",
+  "title": "Filipino Yeast Keto Dumplings",
+  "description": "A unique twist on traditional dumplings, these Filipino-inspired yeast keto dumplings are the perfect low-carb snack.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tender Pork Shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Filipino Yeast",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine tender pork shoulder, Filipino yeast, olive oil, almond flour, Parmesan cheese, egg, garlic powder, and salt. Mix well until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Place the dumplings on a baking sheet lined with parchment paper. Brush with olive oil and dot with butter.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "filipino",
+    "yeast",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 23,
+    "carbs": 5,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-tender-filipino-olive-dumplings--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:35:27.489Z"
+}

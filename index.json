@@ -15605,5 +15605,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-crispy-middle-eastern-peanut-butter-harees--keto",
+    "title": "Keto Harees with Peanut Butter Sauce",
+    "tags": [
+      "keto",
+      "middle eastern",
+      "lunch",
+      "harees",
+      "peanut butter"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 30,
+    "shard": "y"
   }
 ]

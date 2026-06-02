@@ -1,0 +1,83 @@
+{
+  "slug": "yummy-fluffy-ukrainian-chicken-noodles",
+  "title": "Chicken and Noodle Ukrainian Dish",
+  "description": "A hearty and comforting Ukrainian-inspired dish made with chicken, noodles, and a hint of fluffy goodness.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "wide egg noodles"
+    },
+    {
+      "name": "fluffy butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "yummy carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "ukrainian seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil.",
+    "2. Cook the noodles according to the package instructions until al dente.",
+    "3. In a large skillet, melt 2 tablespoons of fluffy butter over medium-high heat.",
+    "4. Add the chicken breast and cook until browned on both sides and cooked through.",
+    "5. Remove the chicken from the skillet and set aside.",
+    "6. Add the remaining 2 tablespoons of fluffy butter to the skillet.",
+    "7. Add the sliced carrots and cook until tender.",
+    "8. Stir in the Ukrainian seasoning blend and cook for 1 minute.",
+    "9. Add the cooked noodles back into the skillet and toss with the carrot mixture.",
+    "10. Slice the cooked chicken and add it back into the skillet.",
+    "11. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "comfort-food",
+    "chicken",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 65,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-fluffy-ukrainian-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:38:48.769Z"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "yellow-crunchy-indian-pecan-nuts-vada",
+  "title": "Crispy Indian Pecan Vada",
+  "description": "A unique twist on the traditional Indian vada, this recipe adds the crunch of pecans and a hint of sweetness.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yellow split chickpeas",
+      "amount": "1 cup",
+      "notes": "make sure they are dried"
+    },
+    {
+      "name": "crunchy pecans",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "indian spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "vada batter",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "as needed"
+    },
+    {
+      "name": "oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "Soak the yellow split chickpeas in water for at least 4 hours or overnight.",
+    "Drain and rinse the chickpeas, then mash them in a bowl using a fork or a potato masher.",
+    "Add the crushed pecans, indian spices, and vada batter to the bowl. Mix well.",
+    "Add salt to taste and mix again.",
+    "Gradually add water to the bowl to achieve the right consistency for forming vadas.",
+    "Heat oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small amounts of the vada mixture into the hot oil.",
+    "Fry the vadas until they are golden brown and crispy, about 3-4 minutes on each side.",
+    "Remove the vadas from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the crispy Indian pecan vadas hot with your favorite chutney or sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "vegan",
+    "gluten-free",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crunchy-indian-pecan-nuts-vada",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:20:49.815Z"
+}

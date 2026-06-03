@@ -1,0 +1,96 @@
+{
+  "slug": "yeasty-syrian-deodeok-root-flatbread",
+  "title": "Deodeok and Syrian Flatbread Pizza",
+  "description": "A unique fusion of Korean and Middle Eastern flavors in a crispy flatbread crust.",
+  "cuisine": "Korean-Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Syrian flatbread",
+      "amount": "1 package (6-8 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Deodeok",
+      "amount": "2 medium roots, peeled and thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Yeasty cheese alternative",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Cut the Syrian flatbread into individual pieces, about 2-3 inches in diameter.",
+    "In a large bowl, mix together the sliced deodeok, yeasty cheese alternative, olive oil, salt, black pepper, sesame seeds, chopped cilantro, soy sauce, and garlic powder.",
+    "Brush the flatbread pieces with a little water and sprinkle with a pinch of salt.",
+    "Place a few slices of deodeok mixture on each flatbread piece, leaving a small border around the edges.",
+    "Fold the flatbread in half to enclose the filling.",
+    "Place the flatbread pizzas on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until the flatbread is crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "middle-eastern",
+    "pizza",
+    "snack",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-syrian-deodeok-root-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:21:17.391Z"
+}

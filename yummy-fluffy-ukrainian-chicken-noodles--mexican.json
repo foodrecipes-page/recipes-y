@@ -1,0 +1,86 @@
+{
+  "slug": "yummy-fluffy-ukrainian-chicken-noodles--mexican",
+  "title": "Chicken Fajita Noodles",
+  "description": "A Mexican-inspired dish featuring chicken, noodles, and a blend of spices. This recipe is a twist on traditional fajitas, with the addition of noodles for a satisfying and filling meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "fluffy noodles",
+      "amount": "8 ounces",
+      "notes": "such as egg noodles"
+    },
+    {
+      "name": "yummy",
+      "amount": "2 tablespoons",
+      "notes": "Mexican seasoning blend, or to taste"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 tablespoon",
+      "notes": "dried oregano, or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Add the cooked chicken back into the skillet and stir in the Mexican seasoning blend and dried oregano.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Add the fluffy noodles to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the noodles are heated through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "noodles",
+    "mexican",
+    "fajitas",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-fluffy-ukrainian-chicken-noodles--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:27:33.694Z"
+}

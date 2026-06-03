@@ -1,0 +1,91 @@
+{
+  "slug": "yummy-juicy-peruvian-chicken-causa-limena",
+  "title": "Causa Limeña",
+  "description": "A classic Peruvian dish that combines chicken salad with avocado and olives, served on a bed of potato. This recipe is light, refreshing, and perfect for a summer meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yummy juicy chicken breasts",
+      "amount": "2",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "peruvian causa dough",
+      "amount": "4",
+      "notes": "available in most Latin American markets"
+    },
+    {
+      "name": "limena lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "yummy red onion",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "juicy avocado",
+      "amount": "1",
+      "notes": "mashed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Bake the causa dough for 15-20 minutes, or until lightly browned.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the diced chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Let the chicken rest for 5 minutes before slicing it thinly.",
+    "In a large bowl, combine the sliced chicken, diced red onion, mashed avocado, lime juice, salt, and black pepper. Mix well to combine.",
+    "To assemble the causa, place a baked causa dough cylinder on a serving plate.",
+    "Spoon the chicken salad onto the dough, leaving a small border around the edges.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "causa",
+    "lunch",
+    "dinner",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-juicy-peruvian-chicken-causa-limena",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:28:52.119Z"
+}

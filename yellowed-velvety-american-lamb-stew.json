@@ -1,0 +1,86 @@
+{
+  "slug": "yellowed-velvety-american-lamb-stew",
+  "title": "American Lamb Stew",
+  "description": "A hearty, comforting stew made with tender lamb and a rich, flavorful broth.",
+  "cuisine": null,
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "American lamb",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably boneless"
+    },
+    {
+      "name": "yellowed onions",
+      "amount": "2 large",
+      "notes": "about 2 cups chopped"
+    },
+    {
+      "name": "velvety potatoes",
+      "amount": "3 large",
+      "notes": "about 3 cups diced"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb on all sides, then remove from pot and set aside.",
+    "Reduce heat to medium and add onions, cooking until they start to brown.",
+    "Add potatoes, stew, salt, and black pepper.",
+    "Return lamb to pot and bring to a boil.",
+    "Cover and transfer to oven.",
+    "Bake at 300°F (150°C) for 1 1/2 hours.",
+    "Remove from oven and stir in thyme.",
+    "Serve hot, garnished with additional thyme if desired.",
+    "Let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "lamb",
+    "stew",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 44,
+    "carbs": 27,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-velvety-american-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:02:47.247Z"
+}

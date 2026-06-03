@@ -1,0 +1,89 @@
+{
+  "slug": "yellow-fermented-japanese-fish-ramen",
+  "title": "Tonkotsu Ramen",
+  "description": "A Japanese-inspired Tonkotsu Ramen recipe with a rich pork bone broth, topped with a soft-boiled egg and green onions.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Bones",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fermented Soybeans",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Ramen Noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Soft-Boiled Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large roasting pan, combine the pork bones and onion. Roast for 30 minutes.",
+    "3. In a large stockpot, combine the roasted pork bones, onion, and 4 cups of water. Bring to a boil, then reduce the heat to a simmer and cook for 2 hours.",
+    "4. Strain the broth through a fine-mesh sieve into a clean stockpot. Discard the solids.",
+    "5. In a small saucepan, combine the fermented soybeans, soy sauce, and miso paste. Whisk until smooth.",
+    "6. Add the fish sauce to the saucepan and whisk to combine.",
+    "7. Add the saucepan mixture to the strained broth and whisk to combine.",
+    "8. Cook the ramen noodles according to the package instructions. Drain and set aside.",
+    "9. Divide the noodles among four bowls. Ladle the hot broth over the noodles.",
+    "10. Top each bowl with a soft-boiled egg, green onions, and a sprinkle of sesame seeds."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tonkotsu ramen",
+    "japanese cuisine",
+    "noodles",
+    "broth",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-fermented-japanese-fish-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:18:51.682Z"
+}

@@ -10044,17 +10044,15 @@
   },
   {
     "slug": "yellowed-velvety-american-lamb-stew",
-    "title": "Yellowed Velvety American Lamb Stew",
+    "title": "American Lamb Stew",
     "tags": [
-      "comfort-food",
-      "lamb-based",
-      "one-pot",
-      "slow-cooked",
-      "weeknight",
-      "wine-based"
+      "american",
+      "lamb",
+      "stew",
+      "comforting"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 180,
+    "cuisine": null,
+    "totalTimeMin": 110,
     "shard": "y"
   },
   {
@@ -15614,6 +15612,20 @@
     ],
     "cuisine": "middle eastern",
     "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-fluffy-ukrainian-chicken-noodles--mexican",
+    "title": "Chicken Fajita Noodles",
+    "tags": [
+      "chicken",
+      "noodles",
+      "mexican",
+      "fajitas",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "y"
   }
 ]

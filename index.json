@@ -2887,17 +2887,16 @@
   },
   {
     "slug": "yellow-crunchy-indian-pecan-nuts-vada",
-    "title": "Yellow Crunchy Indian Pecan Nuts Vada",
+    "title": "Crispy Indian Pecan Vada",
     "tags": [
-      "crunchy-snacks",
-      "date-night",
-      "indian-cuisine",
-      "low-fat",
-      "tandoor-recipes",
-      "vegetarian"
+      "indian",
+      "snack",
+      "vegan",
+      "gluten-free",
+      "crunchy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -10163,17 +10162,15 @@
   },
   {
     "slug": "yellowed-wok-fried-greek-white-fish-tiropita-style-fritters",
-    "title": "Yellowed Wok-Fried Greek White Fish Tiropita-Style Fritters",
+    "title": "Greek Fish Fritters",
     "tags": [
+      "greek",
       "fish",
       "fritters",
-      "greek",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "quick-dinner"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 30,
+    "totalTimeMin": 23,
     "shard": "y"
   },
   {
@@ -13559,16 +13556,16 @@
   },
   {
     "slug": "yummy-juicy-peruvian-chicken-causa-limena",
-    "title": "Peruvian Chicken Causa Limena",
+    "title": "Causa Limeña",
     "tags": [
-      "broiled-chicken",
-      "comfort-food",
-      "paleo-friendly",
-      "peruvian-cuisine",
-      "potato-dish"
+      "peruvian",
+      "causa",
+      "lunch",
+      "dinner",
+      "summer"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

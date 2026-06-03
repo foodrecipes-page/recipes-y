@@ -1,0 +1,79 @@
+{
+  "slug": "yellowed-wok-fried-greek-white-fish-tiropita-style-fritters",
+  "title": "Greek Fish Fritters",
+  "description": "Crispy fish fritters with a Greek twist, perfect for a quick dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (cod or haddock)",
+      "amount": "1 pound",
+      "notes": "Deboned and flaked"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "White onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "White all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "White vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine fish, yogurt, onion, and egg. Mix well.",
+    "Add flour and mix until just combined. Do not overmix.",
+    "Add vinegar and mix well.",
+    "Cover bowl with plastic wrap and refrigerate for 30 minutes.",
+    "Heat about 2 inches of vegetable oil in a large skillet over medium-high heat.",
+    "Using a spoon, drop small amounts of the fish mixture into the hot oil.",
+    "Fry until golden brown and crispy, about 3-4 minutes on each side.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "fish",
+    "fritters",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-wok-fried-greek-white-fish-tiropita-style-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:45:04.523Z"
+}

@@ -3387,16 +3387,16 @@
   },
   {
     "slug": "yellow-fermented-japanese-fish-ramen",
-    "title": "Yellow Fermented Japanese Fish Ramen",
+    "title": "Tonkotsu Ramen",
     "tags": [
-      "comfort-food",
-      "fermented-foods",
-      "fish-based",
-      "flexitarian-friendly",
-      "japanese-cuisine"
+      "tonkotsu ramen",
+      "japanese cuisine",
+      "noodles",
+      "broth",
+      "soup"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 210,
     "shard": "y"
   },
   {
@@ -6338,18 +6338,15 @@
   },
   {
     "slug": "yellow-syrian-herb-pilaf",
-    "title": "Yellow Syrian Herb Pilaf",
+    "title": "Herbed Syrian Pilaf",
     "tags": [
-      "herbal",
+      "herb",
+      "pilaf",
       "middle-eastern",
-      "one-pot",
-      "shojin-friendly",
-      "syrian",
-      "vegan",
       "vegetarian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -15626,6 +15623,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-energizing-filipino-freekeh-halo-halo--german",
+    "title": "Halo Halo German Dessert",
+    "tags": [
+      "german-dessert",
+      "filipino-inspired",
+      "modern-twist",
+      "unique-dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
     "shard": "y"
   }
 ]

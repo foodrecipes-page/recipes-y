@@ -1,0 +1,71 @@
+{
+  "slug": "yellow-syrian-herb-pilaf",
+  "title": "Herbed Syrian Pilaf",
+  "description": "A flavorful and aromatic rice dish from Syria, infused with fresh herbs.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian Pilaf Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 small, chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the chopped parsley and mint, and cook for an additional 1-2 minutes.",
+    "Add the Syrian pilaf rice and stir to combine with the onion and herb mixture.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the water has been absorbed and the rice is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herb",
+    "pilaf",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-syrian-herb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:59:45.557Z"
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "yellow-energizing-filipino-freekeh-halo-halo--german",
+  "title": "Halo Halo German Dessert",
+  "description": "A modern twist on the classic Filipino dessert, incorporating traditional German flavors.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yellow Corn",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Energizing Matcha Ice Cream",
+      "amount": "1 pint",
+      "notes": "or substitute with German-style vanilla ice cream"
+    },
+    {
+      "name": "Halo Halo Toppings (Filipino-style)",
+      "amount": "1 cup",
+      "notes": "sweetened beans, fruits, and nuts"
+    },
+    {
+      "name": "Freekeh Crisps",
+      "amount": "1/2 cup",
+      "notes": "crushed freekeh cereal, fried until crispy"
+    },
+    {
+      "name": "Whipped Cream",
+      "amount": "1 cup",
+      "notes": "heavy cream whipped until stiff peaks form"
+    },
+    {
+      "name": "Halo Halo Sauce (Filipino-style)",
+      "amount": "1 cup",
+      "notes": "sweetened condensed milk, mixed with evaporated milk"
+    },
+    {
+      "name": "German Chocolate Shavings",
+      "amount": "1/4 cup",
+      "notes": "optional, for added flavor and texture"
+    }
+  ],
+  "instructions": [
+    "Combine yellow corn and halo halo toppings in a large bowl.",
+    "Scoop energizing matcha ice cream on top of the corn mixture.",
+    "Sprinkle freekeh crisps and whipped cream over the ice cream.",
+    "Drizzle halo halo sauce over the top of the dessert.",
+    "Garnish with German chocolate shavings, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-dessert",
+    "filipino-inspired",
+    "modern-twist",
+    "unique-dessert"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-energizing-filipino-freekeh-halo-halo--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:16:06.036Z"
+}

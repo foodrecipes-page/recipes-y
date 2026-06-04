@@ -1,0 +1,80 @@
+{
+  "slug": "yellow-spiced-indian-lentils-curry",
+  "title": "Spiced Yellow Lentil Curry",
+  "description": "A flavorful and nutritious Indian-inspired curry made with yellow lentils, aromatic spices, and a hint of sweetness.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Lentils",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "Yellow Curry Powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches piece, peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the ginger, garlic, and red bell pepper, and cook for another 2 minutes.",
+    "Add the curry powder and cook for 1-2 minutes, until fragrant.",
+    "Add the lentils, tomato, salt, and water, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentils",
+    "curry",
+    "yellow"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spiced-indian-lentils-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:12:18.407Z"
+}

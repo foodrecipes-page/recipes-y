@@ -1,0 +1,77 @@
+{
+  "slug": "yummy-irish-pistachio-casserole",
+  "title": "Irish Pistachio Casserole",
+  "description": "A delightful twist on traditional casseroles, infused with the nutty flavor of pistachios and the warmth of Irish spices.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pistachios",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yummy potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Boil the potatoes until they're tender. Drain and set aside.",
+    "In a large skillet, melt butter over medium heat. Add onion and garlic, cook until softened.",
+    "Add flour and cook for 1 minute.",
+    "Gradually pour in milk, whisking continuously. Bring to a simmer.",
+    "Stir in pistachios and cook for 2 minutes.",
+    "In a separate bowl, combine cooked potatoes, pistachio mixture, and cheddar cheese.",
+    "Transfer the mixture to a baking dish and top with additional cheese.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "casserole",
+    "pistachio",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-irish-pistachio-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:47:21.431Z"
+}

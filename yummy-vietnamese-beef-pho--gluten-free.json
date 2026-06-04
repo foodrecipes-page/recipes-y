@@ -1,0 +1,83 @@
+{
+  "slug": "yummy-vietnamese-beef-pho--gluten-free",
+  "title": "Gluten-Free Vietnamese Beef Pho",
+  "description": "A gluten-free version of the classic Vietnamese noodle soup, pho, made with beef broth and topped with fresh herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "beef brisket",
+      "amount": "1 lb"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 whole"
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, combine beef bones, onion, ginger, fish sauce, soy sauce, sugar, star anise, and cinnamon stick.",
+    "Pour in 4 cups of water and bring to a boil over high heat.",
+    "Reduce heat to low and simmer for 1 hour.",
+    "Add beef brisket to the stockpot and cook for an additional 30 minutes.",
+    "Remove beef from the stockpot and slice into thin strips.",
+    "Cook rice noodles according to package instructions.",
+    "Assemble pho by placing noodles in a bowl, topping with sliced beef, and serving with fresh herbs.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "noodle-soup",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-vietnamese-beef-pho--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:58:10.167Z"
+}

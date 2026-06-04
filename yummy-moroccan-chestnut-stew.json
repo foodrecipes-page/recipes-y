@@ -1,0 +1,81 @@
+{
+  "slug": "yummy-moroccan-chestnut-stew",
+  "title": "Moroccan Chestnut Stew",
+  "description": "A hearty and flavorful stew that combines the warmth of moroccan spices with the earthiness of chestnuts.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chestnut",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "yummy tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "4 cups",
+      "notes": "chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add cumin, coriander, and paprika. Cook for 1 minute.",
+    "Add sliced chestnut, diced tomatoes, and chicken broth.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "chestnut",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-moroccan-chestnut-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:59:59.899Z"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "yummy-algerian-chicken-kebabs",
+  "title": "Algerian Chicken Kebabs",
+  "description": "A flavorful and spicy Algerian-inspired dish featuring marinated chicken kebabs grilled to perfection. Serve with a side of couscous and vegetables for a complete meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yummy olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "kebab skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, Algerian spice blend, garlic, lemon juice, salt, and black pepper.",
+    "Add the chicken pieces to the marinade and mix well to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated chicken pieces onto the kebab skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Serve the kebabs hot with a side of couscous and vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "algerian",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-algerian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:16:53.797Z"
+}

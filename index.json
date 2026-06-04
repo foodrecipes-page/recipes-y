@@ -8658,17 +8658,16 @@
   },
   {
     "slug": "yellowed-golden-filipino-eggs-frittata",
-    "title": "Yellowed Golden Filipino Eggs Frittata",
+    "title": "Golden Filipino Frittata",
     "tags": [
-      "easy-brunch",
-      "filipino-food",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "brunch",
+      "filipino",
+      "frittata",
+      "eggs"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

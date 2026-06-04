@@ -3163,17 +3163,15 @@
   },
   {
     "slug": "yellow-dense-peruvian-beef-rocoto-relleno",
-    "title": "Yellow Dense Peruvian Beef Rocoto Relleno",
+    "title": "Beef Relleno with Rocoto Peppers",
     "tags": [
-      "ayurvedic-friendly",
-      "beef-recipes",
-      "dairy-free",
-      "gluten-free",
-      "peruvian-cuisine",
-      "post-workout-meal"
+      "peruvian",
+      "beef",
+      "rocoto",
+      "relleno"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -15672,6 +15670,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-crispy-kenyan-cabbage-gratin--japanese",
+    "title": "Japanese-Style Cabbage Gratin",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "cabbage",
+      "gratin"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "y"
   }
 ]

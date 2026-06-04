@@ -15647,5 +15647,18 @@
     "cuisine": "Turkish",
     "totalTimeMin": 20,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-springy-norwegian-fish-pudding--mexican",
+    "title": "Mexican Fish Tacos",
+    "tags": [
+      "mexican",
+      "fish-tacos",
+      "tacos",
+      "seafood"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "y"
   }
 ]

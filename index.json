@@ -610,17 +610,14 @@
   },
   {
     "slug": "yeasty-dense-tunisian-butter-tagine",
-    "title": "yeasty dense tunisian butter tagine",
+    "title": "Tunisian Tagine Bread",
     "tags": [
-      "breakfast",
-      "high-protein",
-      "moroccan",
+      "bread",
       "tunisian",
-      "weeknight",
       "yeast"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 55,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -4290,17 +4287,15 @@
   },
   {
     "slug": "yellow-molten-brazilian-peanut-butter-pasta",
-    "title": "Yellow Molten Brazilian Peanut Butter Pasta",
+    "title": "Creamy Peanut Pasta",
     "tags": [
-      "brazilian",
-      "comfort-food",
-      "copper-pot",
-      "one-pot",
-      "peanut-butter",
+      "italian",
+      "pasta",
+      "peanut",
       "vegetarian"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -5656,14 +5651,12 @@
   },
   {
     "slug": "yellow-spiced-indian-lentils-curry",
-    "title": "Yellow Spiced Indian Lentils Curry",
+    "title": "Spiced Yellow Lentil Curry",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "indian-cuisine",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "indian",
+      "lentils",
+      "curry",
+      "yellow"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
@@ -13355,17 +13348,15 @@
   },
   {
     "slug": "yummy-irish-pistachio-casserole",
-    "title": "Yummy Irish Pistachio Casserole",
+    "title": "Irish Pistachio Casserole",
     "tags": [
-      "crowd-pleaser",
-      "easy",
-      "irish-casserole",
-      "mustard",
-      "one-pan",
-      "pistachio"
+      "irish",
+      "casserole",
+      "pistachio",
+      "vegetarian"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -13946,16 +13937,14 @@
   },
   {
     "slug": "yummy-moroccan-chestnut-stew",
-    "title": "Yummy Moroccan Chestnut Stew",
+    "title": "Moroccan Chestnut Stew",
     "tags": [
-      "chestnut-stew",
-      "festive",
-      "mrouzia",
-      "one-pot",
-      "weeknight"
+      "stew",
+      "chestnut",
+      "moroccan"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

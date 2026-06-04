@@ -1,0 +1,55 @@
+{
+  "slug": "yummy-turkish-pear-pide--gluten-free",
+  "title": "Grilled Pide with Pear Compote",
+  "description": "A delicious and easy-to-make dessert using Turkish pide and pear, perfect for a gluten-free diet.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pear",
+      "amount": "2",
+      "notes": "any variety, firm but ripe"
+    },
+    {
+      "name": "Pide",
+      "amount": "1",
+      "notes": "Turkish bread, gluten-free"
+    },
+    {
+      "name": "Yummy",
+      "amount": "1 tsp",
+      "notes": "optional, cinnamon or other spice"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Slice the pear into wedges.",
+    "Brush the pide with a little water and grill for 2-3 minutes on each side, until lightly toasted.",
+    "In a pan, heat the yummy spice over low heat for 1 minute.",
+    "Add the pear wedges to the pan and cook for 2-3 minutes on each side, until caramelized.",
+    "Serve the grilled pide with the pear compote."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-turkish-pear-pide--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:01:29.970Z"
+}

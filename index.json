@@ -4163,16 +4163,15 @@
   },
   {
     "slug": "yellow-malaysian-mitsuba-noodles",
-    "title": "Yellow Malaysian Mitsuba Noodles",
+    "title": "Yellow Noodle Stir Fry with Mitsuba",
     "tags": [
-      "kosher-friendly",
-      "malaysian-cuisine",
-      "noodle-dish",
-      "talavera-plate",
-      "vegetarian"
+      "yellow noodle stir fry",
+      "mitsuba",
+      "malaysian soy sauce",
+      "easy dinner"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 18,
     "shard": "y"
   },
   {
@@ -11627,18 +11626,15 @@
   },
   {
     "slug": "yummy-algerian-chicken-kebabs",
-    "title": "Yummy Algerian Chicken Kebabs",
+    "title": "Algerian Chicken Kebabs",
     "tags": [
-      "algerian-cuisine",
-      "chewy-kebabs",
-      "high-protein",
-      "mustardy",
-      "post-workout",
-      "quick-meal",
-      "tandoor-cook"
+      "chicken",
+      "kebabs",
+      "algerian",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

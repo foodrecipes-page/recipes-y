@@ -1,0 +1,81 @@
+{
+  "slug": "yellow-malaysian-mitsuba-noodles",
+  "title": "Yellow Noodle Stir Fry with Mitsuba",
+  "description": "A quick and flavorful stir-fry made with yellow noodles, mitsuba, and a hint of Malaysian spices. Perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Mitsuba",
+      "amount": "1 bunch",
+      "notes": "or other Japanese parsley"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce (Malaysian)",
+      "amount": "2 tbsp",
+      "notes": "or regular soy sauce"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of water to a boil and cook the noodles according to the package instructions.",
+    "2. Drain the noodles and set aside.",
+    "3. Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "4. Add the garlic and ginger and stir-fry until fragrant.",
+    "5. Add the mitsuba and stir-fry for 1-2 minutes until wilted.",
+    "6. Add the cooked noodles and stir-fry for 1-2 minutes until combined with the vegetables.",
+    "7. In a small bowl, whisk together the soy sauce and honey until smooth.",
+    "8. Pour the soy sauce mixture over the noodles and stir-fry until everything is well coated.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve immediately and garnish with additional mitsuba if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "yellow noodle stir fry",
+    "mitsuba",
+    "malaysian soy sauce",
+    "easy dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-malaysian-mitsuba-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:09:12.815Z"
+}

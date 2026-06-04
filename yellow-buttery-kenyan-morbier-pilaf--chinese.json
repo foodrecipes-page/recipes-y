@@ -1,0 +1,64 @@
+{
+  "slug": "yellow-buttery-kenyan-morbier-pilaf--chinese",
+  "title": "Kenyan Pilaf with Morbier and Yellow Squash",
+  "description": "A unique twist on traditional pilaf, this recipe combines the flavors of Kenya with the richness of morbier cheese and the sweetness of yellow squash.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yellow squash",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Morbier cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "optional"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yellow onions",
+      "amount": "1 medium, diced"
+    }
+  ],
+  "instructions": [
+    "Heat buttery in a large skillet over medium-high heat.",
+    "Add diced onions and cook until softened, about 5 minutes.",
+    "Add diced yellow squash and cook until tender, about 5-7 minutes.",
+    "Stir in Kenyan pilaf and cook until heated through.",
+    "If using morbier cheese, sprinkle on top and serve.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "morbier",
+    "yellow-squash",
+    "vegetarian",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-buttery-kenyan-morbier-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:55:25.453Z"
+}

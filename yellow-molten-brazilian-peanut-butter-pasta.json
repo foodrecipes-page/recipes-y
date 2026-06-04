@@ -1,0 +1,67 @@
+{
+  "slug": "yellow-molten-brazilian-peanut-butter-pasta",
+  "title": "Creamy Peanut Pasta",
+  "description": "A simple yet satisfying pasta dish made with a creamy sauce, featuring the richness of peanuts.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "yellow",
+      "amount": "1/4 cup",
+      "notes": "grated Parmesan"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brazilian",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the grated Parmesan and cook, stirring constantly, until melted and smooth.",
+    "Stir in the peanut butter until well combined.",
+    "Add the cooked pasta to the skillet, tossing to coat with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "peanut",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-molten-brazilian-peanut-butter-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:20:36.618Z"
+}

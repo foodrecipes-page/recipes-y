@@ -1,0 +1,66 @@
+{
+  "slug": "yeasty-dense-tunisian-butter-tagine",
+  "title": "Tunisian Tagine Bread",
+  "description": "A dense and flavorful bread originating from Tunisia, made with yeast and a hint of butter.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yeasty yeast",
+      "amount": "1 packet (2 1/4 teaspoons)",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "dense all-purpose flour",
+      "amount": "3 cups",
+      "notes": "unbleached all-purpose flour"
+    },
+    {
+      "name": "tunisian olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the dough"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted for egg wash"
+    },
+    {
+      "name": "tagine salt",
+      "amount": "1 teaspoon",
+      "notes": "or regular salt"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the yeast, 1 cup of warm water, and 1 tablespoon of olive oil. Let it sit for 5 minutes, until the yeast is activated.",
+    "Add the flour, salt, and 2 tablespoons of olive oil to the bowl. Mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, until it doubles in size.",
+    "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Punch down the dough and shape it into a round or oblong loaf. Place the loaf on the prepared baking sheet.",
+    "Brush the loaf with the melted butter and sprinkle with water.",
+    "Bake the bread for 30-40 minutes, until it's golden brown and sounds hollow when tapped.",
+    "Remove the bread from the oven and let it cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "tunisian",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-dense-tunisian-butter-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:56:51.254Z"
+}

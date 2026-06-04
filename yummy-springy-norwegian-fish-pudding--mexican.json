@@ -1,0 +1,86 @@
+{
+  "slug": "yummy-springy-norwegian-fish-pudding--mexican",
+  "title": "Mexican Fish Tacos",
+  "description": "A flavorful and spicy Mexican dish featuring pan-seared fish, crunchy slaw, and a squeeze of lime juice. Serve with warm tortillas and your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (such as cod or tilapia)",
+      "amount": "4 fillets (6 ounces each)",
+      "notes": null
+    },
+    {
+      "name": "Yummy Norwegian springy flour tortillas",
+      "amount": "8-10 tortillas",
+      "notes": "warmed"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "juice of 2 limes",
+      "notes": null
+    },
+    {
+      "name": "Pudding (for slaw)",
+      "amount": "1 cup sour cream",
+      "notes": "mixed with 1 tablespoon lime juice"
+    },
+    {
+      "name": "Fish taco seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Diced tomato",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Season the fish with fish taco seasoning. Add the fish to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "In a large bowl, mix together the sour cream, lime juice, and chopped cilantro. Stir in the diced onion and diced tomato.",
+    "Assemble the tacos by placing a cooked fish fillet onto a warmed tortilla, followed by a spoonful of the slaw mixture.",
+    "Serve immediately and enjoy!",
+    "Note: For an added crunch, top with diced lettuce or diced radishes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish-tacos",
+    "tacos",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-springy-norwegian-fish-pudding--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:20:25.508Z"
+}

@@ -12340,16 +12340,15 @@
   },
   {
     "slug": "yummy-crispy-kenyan-cabbage-gratin",
-    "title": "Yummy Crispy Kenyan Cabbage Gratin",
+    "title": "Kenyan Cabbage Gratin",
     "tags": [
-      "comfort-food",
-      "crispy",
-      "flexitarian",
       "kenyan",
-      "one-pan"
+      "cabbage",
+      "gratin",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -15622,6 +15621,31 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 15,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-vietnamese-beef-pho--gluten-free",
+    "title": "Gluten-Free Vietnamese Beef Pho",
+    "tags": [
+      "vietnamese",
+      "beef",
+      "noodle-soup",
+      "gluten-free"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 110,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-turkish-pear-pide--gluten-free",
+    "title": "Grilled Pide with Pear Compote",
+    "tags": [
+      "dessert",
+      "gluten-free",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 20,
     "shard": "y"
   }
 ]

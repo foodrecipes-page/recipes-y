@@ -15660,5 +15660,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 18,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-buttery-kenyan-morbier-pilaf--chinese",
+    "title": "Kenyan Pilaf with Morbier and Yellow Squash",
+    "tags": [
+      "kenyan",
+      "morbier",
+      "yellow-squash",
+      "vegetarian",
+      "pilaf"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

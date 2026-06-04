@@ -1,0 +1,70 @@
+{
+  "slug": "yellowed-golden-filipino-eggs-frittata",
+  "title": "Golden Filipino Frittata",
+  "description": "A twist on the classic frittata, incorporating Filipino flavors. Perfect for a hearty breakfast or brunch.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yellowed tomatoes",
+      "amount": "2 medium, diced",
+      "notes": "Fresh or canned, your choice"
+    },
+    {
+      "name": "golden potatoes",
+      "amount": "2 medium, peeled and diced",
+      "notes": "Try to use high-starch potatoes for fluffiness"
+    },
+    {
+      "name": "filipino longganisa",
+      "amount": "1/2 pound, sliced",
+      "notes": "Replace with regular sausage for a different flavor"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "Fresh eggs for the best results"
+    },
+    {
+      "name": "frittata",
+      "amount": "1 tablespoon, chopped fresh cilantro (optional)",
+      "notes": "Garnish with fresh herbs for a pop of color"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté diced tomatoes and potatoes in a little oil until they're tender.",
+    "Add sliced longganisa and cook until browned.",
+    "In a large bowl, whisk together eggs and a pinch of salt.",
+    "Add the egg mixture to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle with chopped cilantro, if using.",
+    "Let the frittata rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "filipino",
+    "frittata",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-golden-filipino-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:19:45.045Z"
+}

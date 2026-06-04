@@ -1,0 +1,70 @@
+{
+  "slug": "yummy-crispy-kenyan-cabbage-gratin--japanese",
+  "title": "Japanese-Style Cabbage Gratin",
+  "description": "A twist on the classic French gratin, this dish combines Japanese flavors with the crunch of crispy cabbage.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "yummy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kenyan sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine cabbage and grated gratin.",
+    "In a small bowl, whisk together yummy sauce, sesame oil, salt, and pepper.",
+    "Pour the sauce mixture over the cabbage mixture and toss to coat.",
+    "Transfer the mixture to a baking dish and top with additional gratin if desired.",
+    "Bake for 20-25 minutes or until the top is golden brown and the cabbage is tender.",
+    "Serve hot, garnished with additional sesame oil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "cabbage",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-crispy-kenyan-cabbage-gratin--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:41:49.902Z"
+}

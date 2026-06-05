@@ -1,0 +1,76 @@
+{
+  "slug": "yellow-dense-peruvian-beef-rocoto-relleno--thai",
+  "title": "Thai Beef Relleno Bites",
+  "description": "A fusion Thai dish using beef relleno, with spicy rocoto sauce and crunchy yellow pepper.",
+  "cuisine": "thai",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef Relleno",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Rocoto Pepper",
+      "amount": "2, diced"
+    },
+    {
+      "name": "Yellow Pepper",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Peruvian Yellow Pepper Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "for frying"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1/2 cup vegetable oil in a deep frying pan over medium-high heat.",
+    "2. Add the diced beef relleno and cook until browned, about 3-4 minutes.",
+    "3. Add the diced rocoto pepper and yellow pepper, cook for another 2-3 minutes.",
+    "4. In a small bowl, mix the Peruvian yellow pepper sauce with a pinch of salt and black pepper.",
+    "5. Add the sauce to the beef mixture and stir to combine.",
+    "6. Using a small cookie scoop, form the beef mixture into small balls and flatten slightly.",
+    "7. Fry the beef relleno bites in the hot oil until golden brown, about 2-3 minutes per side.",
+    "8. Remove the bites from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "9. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-food",
+    "beef-recipes",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-dense-peruvian-beef-rocoto-relleno--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:43:39.134Z"
+}

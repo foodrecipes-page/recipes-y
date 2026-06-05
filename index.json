@@ -4994,17 +4994,16 @@
   },
   {
     "slug": "yellow-silky-croatian-onion-stew",
-    "title": "Yellow Silky Croatian Onion Stew",
+    "title": "Croatian Stew with Yellow Onions and Silky Texture",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "healthy",
-      "keto-friendly",
-      "low-carb",
-      "one-pot"
+      "croatian",
+      "stew",
+      "vegetarian",
+      "tofu",
+      "onions"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -15676,6 +15675,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-chewy-moroccan-lamb-tagine--keto",
+    "title": "Moroccan Lamb Tagine",
+    "tags": [
+      "moroccan",
+      "lamb",
+      "tagine",
+      "keto"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 180,
     "shard": "y"
   }
 ]

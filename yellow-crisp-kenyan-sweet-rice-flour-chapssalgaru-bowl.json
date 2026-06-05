@@ -1,0 +1,86 @@
+{
+  "slug": "yellow-crisp-kenyan-sweet-rice-flour-chapssalgaru-bowl",
+  "title": "Kenyan Chapssalgaru Fried Rice Bowl",
+  "description": "A twist on traditional fried rice, incorporating the flavors of Kenyan cuisine and the crunch of sweet chapssalgaru. This dish is a perfect blend of spicy and savory, served in a crispy bowl.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "crisp chapssalgaru",
+      "amount": "1 cup",
+      "notes": "available in most international grocery stores"
+    },
+    {
+      "name": "sweet corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "for coating the chapssalgaru"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and grated ginger and sauté until the onion is translucent.",
+    "Add the day-old rice to the skillet and stir-fry for 2-3 minutes.",
+    "Add the sweet corn kernels, soy sauce (if using), and a pinch of salt. Stir-fry for another 2 minutes.",
+    "In a separate pan, heat the remaining 1 tablespoon of vegetable oil over medium heat.",
+    "Coat the chapssalgaru in flour, shaking off excess.",
+    "Fry the coated chapssalgaru until crispy and golden brown.",
+    "To assemble the bowl, place a scoop of the fried rice mixture in the bottom of a crispy bowl.",
+    "Top with crispy chapssalgaru and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fried rice",
+    "chapssalgaru",
+    "sweet corn",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crisp-kenyan-sweet-rice-flour-chapssalgaru-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:58:57.290Z"
+}

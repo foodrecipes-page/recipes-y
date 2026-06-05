@@ -1,0 +1,85 @@
+{
+  "slug": "yellowed-golden-filipino-eggs-frittata--vegetarian",
+  "title": "Filipino-Style Yellowed Onion and Golden Egg Frittata",
+  "description": "A flavorful and colorful twist on the Italian classic, incorporating Filipino ingredients and vegetarian-friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yellowed onions",
+      "amount": "1 large",
+      "notes": "sautéed until caramelized"
+    },
+    {
+      "name": "golden eggs",
+      "amount": "4 large",
+      "notes": "beaten with salt and pepper"
+    },
+    {
+      "name": "filipino",
+      "amount": "2 tablespoons patis (fish-free) or soy sauce",
+      "notes": "adds depth of umami"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten with salt and pepper"
+    },
+    {
+      "name": "frittata",
+      "amount": "1 cup, diced",
+      "notes": "for added texture and flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "enhances flavors"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "enhances flavors"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "optional, to taste",
+      "notes": "adds spicy kick"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Sauté the yellowed onions in a pan until caramelized.",
+    "In a separate bowl, beat the eggs with salt and pepper.",
+    "Add the golden eggs to the bowl and mix well.",
+    "Add the sautéed onions, patis or soy sauce, and diced frittata to the bowl.",
+    "Pour the egg mixture into a greased baking dish.",
+    "Bake for 20-25 minutes or until the eggs are set.",
+    "Remove from the oven and sprinkle with chili flakes if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "filipino",
+    "eggs",
+    "onions"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-golden-filipino-eggs-frittata--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:38:30.122Z"
+}

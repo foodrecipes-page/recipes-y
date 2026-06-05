@@ -1,0 +1,93 @@
+{
+  "slug": "yellowed-chewy-moroccan-lamb-tagine--keto",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A classic North African dish made with lamb, preserved lemon, and spices, slow-cooked in a clay pot. Perfect for a keto diet.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt, black pepper, and Moroccan spice blend.",
+    "Heat the coconut oil in a large clay pot or Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce the heat to medium and add the chopped onion to the pot.",
+    "Cook the onion until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook for another minute.",
+    "Add the preserved lemon, green olives, and chopped parsley to the pot.",
+    "Return the lamb shoulder to the pot and bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Serve the lamb tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-chewy-moroccan-lamb-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:04:50.065Z"
+}

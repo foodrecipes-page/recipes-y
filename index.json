@@ -15710,5 +15710,18 @@
     "cuisine": "French",
     "totalTimeMin": 55,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-golden-filipino-eggs-frittata--gluten-free",
+    "title": "Filipino Frittata with Golden Eggs",
+    "tags": [
+      "breakfast",
+      "filipino",
+      "gluten-free",
+      "eggs"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "y"
   }
 ]

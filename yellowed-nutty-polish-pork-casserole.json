@@ -1,0 +1,89 @@
+{
+  "slug": "yellowed-nutty-polish-pork-casserole",
+  "title": "Polish Pork Casserole",
+  "description": "A hearty and flavorful Polish-inspired dish featuring pork and a nutty crust.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Polish rye bread",
+      "amount": "1 cup, cubed",
+      "notes": ""
+    },
+    {
+      "name": "Casserole dish",
+      "amount": "1",
+      "notes": "Not an ingredient, but required for cooking"
+    },
+    {
+      "name": "Melted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (165°C).",
+    "In a large skillet, sauté the chopped onion and minced garlic until softened.",
+    "Add the pork shoulder and cook until browned on all sides.",
+    "Transfer the pork to a casserole dish and set aside.",
+    "In the same skillet, add the cubed Polish rye bread and cook until toasted.",
+    "Sprinkle the toasted bread over the pork in the casserole dish.",
+    "Drizzle the melted butter over the bread and sprinkle with dried thyme.",
+    "Season with salt, pepper, and brown sugar to taste.",
+    "Bake in the preheated oven for 45-50 minutes or until the pork is cooked through.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "polish",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-nutty-polish-pork-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:03:22.372Z"
+}

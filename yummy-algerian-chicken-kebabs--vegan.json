@@ -1,0 +1,80 @@
+{
+  "slug": "yummy-algerian-chicken-kebabs--vegan",
+  "title": "Algerian Chickpea Kebabs",
+  "description": "A vegan twist on traditional kebabs, featuring marinated chickpeas and vegetables.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "yummy sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together yummy sauce, cumin, and paprika. Add chickpeas and toss to coat.",
+    "Thread onion, bell pepper, zucchini, and chickpeas onto skewers.",
+    "Brush olive oil onto skewers and season with salt and pepper.",
+    "Grill skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "north-african",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-algerian-chicken-kebabs--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:37:32.929Z"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "yellowed-quick-turkish-lamb-bake",
+  "title": "Turkish Lamb Koftas",
+  "description": "Delicious Turkish-style lamb koftas, flavored with traditional spices and baked to perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "quick oats",
+      "amount": "100g"
+    },
+    {
+      "name": "turkish spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yellow peppers",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "In a large bowl, combine lamb mince, onion, garlic, oats, spice mix, salt, and pepper. Mix well with hands until just combined.",
+    "Thread lamb mixture onto skewers, leaving a small gap between each kofta.",
+    "Place skewers on a baking tray lined with parchment paper, drizzle with olive oil and spread out in a single layer.",
+    "Bake for 15-20 minutes or until cooked through to an internal temperature of 63°C (145°F).",
+    "While koftas are baking, brush yellow peppers with a little olive oil and season with salt and pepper.",
+    "Bake for an additional 10-15 minutes or until the peppers are tender and slightly charred.",
+    "Serve koftas with roasted yellow peppers and your choice of sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "turkish",
+    "kofte",
+    "kebab"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-quick-turkish-lamb-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:45:34.683Z"
+}

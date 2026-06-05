@@ -1,0 +1,89 @@
+{
+  "slug": "yellowed-crusty-french-pork-cassoulet",
+  "title": "French Cassoulet",
+  "description": "Classic French dish made with pork, white beans, and sometimes meat, typically served as a main course.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, boneless",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Canned white beans (such as cannellini or navy beans)",
+      "amount": "1 (15 ounce) can"
+    },
+    {
+      "name": "Crusty bread, preferably day-old",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "Yellowed onion, thinly sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Pork sausage, such as Toulouse or Kielbasa",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the pork shoulder with salt, pepper, and thyme.",
+    "In a large Dutch oven or heavy pot, brown the pork shoulder on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the pork sausage and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the chicken broth, tomato paste, and browned pork shoulder back to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 to 3 hours, or until the pork is tender.",
+    "About 30 minutes before serving, top the cassoulet with the white beans and crusty bread.",
+    "Return the pot to the oven and bake until the bread is golden brown and the beans are heated through.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cassoulet",
+    "pork",
+    "beans",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crusty-french-pork-cassoulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:48:23.418Z"
+}

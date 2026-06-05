@@ -15256,16 +15256,13 @@
   },
   {
     "slug": "yummy-whipped-jamaican-fry-skillet",
-    "title": "Yummy Whipped Jamaican Fry Skillet",
+    "title": "Jamaican Whipped Skillet Delight",
     "tags": [
-      "breakfast",
-      "comfort-food",
-      "high-protein",
-      "lactose-free",
-      "one-pan",
-      "weeknight"
+      "dessert",
+      "sweet",
+      "fry"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "jamaican",
     "totalTimeMin": 25,
     "shard": "y"
   },
@@ -15721,6 +15718,18 @@
       "eggs"
     ],
     "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-algerian-chicken-kebabs--vegan",
+    "title": "Algerian Chickpea Kebabs",
+    "tags": [
+      "vegan",
+      "north-african",
+      "kebabs"
+    ],
+    "cuisine": "North African",
     "totalTimeMin": 30,
     "shard": "y"
   }

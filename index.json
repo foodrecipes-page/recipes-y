@@ -9111,17 +9111,14 @@
   },
   {
     "slug": "yellowed-nutty-polish-pork-casserole",
-    "title": "Yellowed Nutty Polish Pork Casserole",
+    "title": "Polish Pork Casserole",
     "tags": [
-      "anti-inflammatory",
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
-      "weeknight"
+      "pork",
+      "polish",
+      "casserole"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 65,
     "shard": "y"
   },
   {
@@ -15301,16 +15298,14 @@
   },
   {
     "slug": "yummy-yellow-glazed-indian-beans-paella",
-    "title": "yummy yellow-glazed Indian beans Paella",
+    "title": "Spicy Yellow Paella with Beans",
     "tags": [
-      "gluten-free",
-      "indian",
-      "kid-friendly",
-      "one-pan",
-      "vegan"
+      "paella",
+      "lunch",
+      "vegetarian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "cuisine": "spanish",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

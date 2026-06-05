@@ -6145,17 +6145,15 @@
   },
   {
     "slug": "yellow-spicy-thai-chicken-skewers",
-    "title": "Yellow Spicy Thai Chicken Skewers",
+    "title": "Spicy Thai Chicken Skewers",
     "tags": [
-      "crowd-pleaser",
-      "dairy-free",
-      "gluten-free",
-      "spicy-food",
-      "thai-inspired",
-      "wood-fired"
+      "grilled",
+      "chicken",
+      "thai",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 38,
     "shard": "y"
   },
   {
@@ -15683,6 +15681,34 @@
     ],
     "cuisine": "North African",
     "totalTimeMin": 180,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-golden-filipino-eggs-frittata--vegetarian",
+    "title": "Filipino-Style Yellowed Onion and Golden Egg Frittata",
+    "tags": [
+      "breakfast",
+      "vegetarian",
+      "filipino",
+      "eggs",
+      "onions"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crusty-french-pork-cassoulet--vegetarian",
+    "title": "French-Style Vegetable Cassoulet",
+    "tags": [
+      "vegetarian",
+      "french",
+      "cassoulet",
+      "bread",
+      "oven"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "y"
   }
 ]

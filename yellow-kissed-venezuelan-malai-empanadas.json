@@ -1,0 +1,82 @@
+{
+  "slug": "yellow-kissed-venezuelan-malai-empanadas",
+  "title": "Venezuelan Empanadas",
+  "description": "A classic Venezuelan dish, these empanadas are filled with a delicious blend of ingredients. They can be served as a snack or a light meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Venezuelan Cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Malai Chicken",
+      "amount": "50g"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Empanada Filling (Venezuelan Beef or Chicken)",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the flour, salt, and black pepper. Mix well.",
+    "Add the olive oil and mix until the dough comes together.",
+    "Knead the dough for 5-7 minutes until it is smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll out each piece of dough into a thin circle.",
+    "Place a tablespoon or two of the empanada filling in the center of each circle.",
+    "Brush the edges of the dough with a little water.",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with a little olive oil.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until they are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-kissed-venezuelan-malai-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:17:06.606Z"
+}

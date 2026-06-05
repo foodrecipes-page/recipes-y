@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-kenyan-muffin-wrap",
+  "title": "Kenyan Muffin Wrap",
+  "description": "A sweet and savory combination of flavors from Kenya, wrapped around a warm muffin.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kenyan muffin",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Yellowed wrap",
+      "amount": "1",
+      "notes": "preferably yellowed to perfection"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "handful",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Wrap the Kenyan muffin in a yellowed wrap.",
+    "Brush the wrap with avocado oil and sprinkle coconut sugar, cinnamon powder, and salt.",
+    "Place the muffin on a baking sheet and bake for 5 minutes.",
+    "Remove from the oven and top with fresh berries.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "breakfast",
+    "kenyan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-kenyan-muffin-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:08:01.549Z"
+}

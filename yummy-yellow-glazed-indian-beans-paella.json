@@ -1,0 +1,77 @@
+{
+  "slug": "yummy-yellow-glazed-indian-beans-paella",
+  "title": "Spicy Yellow Paella with Beans",
+  "description": "A flavorful and spicy paella dish made with yellow rice, beans, and indian spices.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "indian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "glazed yellow onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yummy tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "paella seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large paella pan over medium-high heat.",
+    "Add the glazed yellow onion and cook until translucent, about 3-4 minutes.",
+    "Add the indian spice blend and cook for 1 minute.",
+    "Add the yellow rice and cook for 2-3 minutes, stirring constantly.",
+    "Add the water, paella seasoning, and yummy tomato. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Add the cooked beans to the paella and stir to combine.",
+    "Continue to simmer, covered, for an additional 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-yellow-glazed-indian-beans-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:49:07.904Z"
+}

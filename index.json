@@ -2612,16 +2612,16 @@
   },
   {
     "slug": "yellow-crisp-kenyan-sweet-rice-flour-chapssalgaru-bowl",
-    "title": "Yellow Crisp Kenyan Sweet Rice Flour Chapssalgaru Bowl",
+    "title": "Kenyan Chapssalgaru Fried Rice Bowl",
     "tags": [
-      "dairy-free",
-      "fried-dishes",
-      "kenyan-cuisine",
-      "midnight-cravings",
-      "sweet-treats"
+      "kenyan",
+      "fried rice",
+      "chapssalgaru",
+      "sweet corn",
+      "gluten-free"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -7133,16 +7133,14 @@
   },
   {
     "slug": "yellowed-buttery-irish-potato-skillet",
-    "title": "Yellowed Buttery Irish Potato Skillet",
+    "title": "Irish Skillet Hash",
     "tags": [
-      "comfort-food",
-      "irish-cuisine",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight"
+      "potatoes",
+      "breakfast",
+      "hash"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "cuisine": "irish",
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {
@@ -8161,16 +8159,16 @@
   },
   {
     "slug": "yellowed-crusty-french-pork-cassoulet",
-    "title": "Yellowed Crusty French Pork Cassoulet",
+    "title": "French Cassoulet",
     "tags": [
-      "comfort-food",
-      "french-cuisine",
-      "one-pot",
-      "pork-recipe",
-      "slow-cooked"
+      "french",
+      "cassoulet",
+      "pork",
+      "beans",
+      "bread"
     ],
     "cuisine": "French",
-    "totalTimeMin": 180,
+    "totalTimeMin": 240,
     "shard": "y"
   },
   {

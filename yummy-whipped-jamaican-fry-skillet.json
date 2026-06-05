@@ -1,0 +1,66 @@
+{
+  "slug": "yummy-whipped-jamaican-fry-skillet",
+  "title": "Jamaican Whipped Skillet Delight",
+  "description": "A sweet and savory twist on traditional skillet cooking, this recipe combines Jamaican flavors with a fluffy whipped topping.",
+  "cuisine": "jamaican",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yummy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whipped",
+      "amount": "8 ounces",
+      "notes": "cooled"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tablespoons",
+      "notes": "spices"
+    },
+    {
+      "name": "fry",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "cooled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whip the whipped topping until stiff peaks form.",
+    "In a separate bowl, mix the yummy, jamaican, and fry ingredients.",
+    "Pour the mixture into a skillet and top with the whipped topping.",
+    "Bake for 15-20 minutes or until the edges are golden brown.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "sweet",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-whipped-jamaican-fry-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:48:35.833Z"
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "yellowed-golden-filipino-eggs-frittata--gluten-free",
+  "title": "Filipino Frittata with Golden Eggs",
+  "description": "A gluten-free Filipino-inspired frittata recipe with golden eggs.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Filipino eggs",
+      "amount": "4",
+      "notes": "Large eggs for a rich frittata"
+    },
+    {
+      "name": "Golden onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced for caramelized flavor"
+    },
+    {
+      "name": "Yellowed bell peppers",
+      "amount": "1 medium",
+      "notes": "Diced for added crunch"
+    },
+    {
+      "name": "Frittata seasoning",
+      "amount": "1 tsp",
+      "notes": "Filipino-style spices for a unique twist"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Adjust to taste for a balanced flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "3. Add sliced onions and cook until caramelized, about 8 minutes.",
+    "4. Add diced bell peppers and cook for an additional 2-3 minutes.",
+    "5. In a large bowl, whisk eggs and frittata seasoning.",
+    "6. Pour egg mixture over the skillet contents and cook until edges start to set.",
+    "7. Transfer skillet to preheated oven and bake for 15-20 minutes, or until the frittata is set.",
+    "8. Remove from oven and garnish with chopped cilantro.",
+    "9. Slice and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "filipino",
+    "gluten-free",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-golden-filipino-eggs-frittata--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:54:12.394Z"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "yellow-syrian-herb-pilaf--german",
+  "title": "Sauerbraten German Herb Pilaf",
+  "description": "A classic German recipe with a twist, featuring marinated beef and herb pilaf.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck roast",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "german mustard",
+      "amount": "2 tablespoons",
+      "notes": "stone-ground"
+    },
+    {
+      "name": "herb pilaf",
+      "amount": "2 cups",
+      "notes": "made with herbs like thyme and parsley"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 cup",
+      "notes": "high-quality"
+    }
+  ],
+  "instructions": [
+    "1. Marinate the beef in a mixture of red wine vinegar, mustard, salt, pepper, and allspice for at least 2 days.",
+    "2. Preheat the oven to 300°F (150°C).",
+    "3. In a large Dutch oven, heat a couple of tablespoons of oil over medium heat. Sear the beef until browned on all sides.",
+    "4. Add the sauerkraut, sautéed onions, and marinating liquid to the pot. Cover and transfer to the preheated oven.",
+    "5. Cook the beef for 3-4 hours or until tender.",
+    "6. While the beef is cooking, prepare the herb pilaf according to package instructions.",
+    "7. Once the beef is done, remove it from the pot and let it rest for 10 minutes.",
+    "8. Slice the beef against the grain and serve with the pilaf and sauerkraut mixture.",
+    "9. Serve hot and enjoy!",
+    "10. Discard any remaining marinating liquid and pot residue."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "sauerkraut",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-syrian-herb-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:56:32.716Z"
+}

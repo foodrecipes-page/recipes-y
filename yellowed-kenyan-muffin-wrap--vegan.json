@@ -1,0 +1,72 @@
+{
+  "slug": "yellowed-kenyan-muffin-wrap--vegan",
+  "title": "Kenyan Wrap",
+  "description": "A flavorful and crunchy wrap filled with the bold flavors of Kenya. Perfect for a quick vegan meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Muffin (crumbs)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yellowed onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat.",
+    "Add the diced onion and cook until softened.",
+    "Add the sliced mushrooms and cook until they release their moisture.",
+    "Add the chopped spinach and cook until wilted.",
+    "In a separate bowl, mix the muffin crumbs with lemon juice.",
+    "Add the muffin crumb mixture to the pan and stir to combine.",
+    "Warm the Kenyan wrap in the microwave for 10 seconds.",
+    "Fill the wrap with the spinach and mushroom mixture.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "kenyan",
+    "lunch",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-kenyan-muffin-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:03:42.714Z"
+}

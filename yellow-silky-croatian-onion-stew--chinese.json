@@ -1,0 +1,63 @@
+{
+  "slug": "yellow-silky-croatian-onion-stew--chinese",
+  "title": "Croatian Stew in Yellow Broth",
+  "description": "A hearty Chinese-inspired stew featuring tender Croatian sausage and soft onions, all swimming in a rich yellow broth.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian sausage",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "2 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Silky",
+      "amount": "2 tablespoons soy sauce",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the stew in a large pot over medium-high heat.",
+    "Add the sliced Croatian sausage and cook until browned, about 5 minutes.",
+    "Add the sliced yellow onion and cook until softened, about 5 minutes.",
+    "Stir in the silky soy sauce and bring to a simmer.",
+    "Reduce the heat to low and let the stew cook for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "sausage",
+    "onion",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-silky-croatian-onion-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:38:08.583Z"
+}

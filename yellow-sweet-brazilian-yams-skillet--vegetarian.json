@@ -1,0 +1,81 @@
+{
+  "slug": "yellow-sweet-brazilian-yams-skillet--vegetarian",
+  "title": "Sweet and Yellow Yam Skillet",
+  "description": "A flavorful and colorful vegetarian skillet dish made with yellow and sweet yams.",
+  "cuisine": "vegetarian american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow yams",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "sweet yams",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the skillet"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced yellow and sweet yams and cook for 5 minutes.",
+    "Stir in the soy sauce (if using) and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "yams",
+    "skillet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-sweet-brazilian-yams-skillet--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:02:41.977Z"
+}

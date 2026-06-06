@@ -1,0 +1,86 @@
+{
+  "slug": "yellowed-quick-turkish-lamb-bake--german",
+  "title": "German-Style Braised Lamb Shanks",
+  "description": "A hearty, comforting dish featuring tender lamb shanks in a rich, flavorful broth. Perfect for a chilly evening.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "quick-cooking carrots",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "turkish red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bake-friendly potatoes",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "german-style mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shanks with salt.",
+    "Heat a large Dutch oven over medium-high heat. Sear the lamb shanks until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots, red wine, and mustard to the pot. Stir to combine.",
+    "Return the lamb shanks to the pot and bring the liquid to a simmer.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 to 3 hours, or until the meat is tender and falls off the bone.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb shanks with the braising liquid spooned over the top. Garnish with chopped parsley, if desired.",
+    "Serve with boiled or roasted potatoes, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lamb",
+    "braised",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-quick-turkish-lamb-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:45:33.492Z"
+}

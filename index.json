@@ -15812,5 +15812,19 @@
     "cuisine": "kenyan",
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-kenyan-muffin-wrap--vegan",
+    "title": "Kenyan Wrap",
+    "tags": [
+      "vegan",
+      "kenyan",
+      "lunch",
+      "easy",
+      "quick"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 20,
+    "shard": "y"
   }
 ]

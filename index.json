@@ -1381,17 +1381,16 @@
   },
   {
     "slug": "yeasty-silky-ethiopian-chicken-tagine",
-    "title": "Ethiopian Yeasty Silky Chicken Tagine",
+    "title": "Ethiopian Chicken Tagine",
     "tags": [
-      "comfort-food",
+      "chicken",
       "ethiopian",
-      "gluten-free",
-      "one-pan",
-      "rich-and-creamy",
-      "weeknight"
+      "tagine",
+      "lunch",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -2130,17 +2129,14 @@
   },
   {
     "slug": "yellow-citrusy-algerian-lamb-tagine",
-    "title": "Yellow Citrusy Algerian Lamb Tagine",
+    "title": "Classic Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "comfort-food",
-      "dairy-free",
-      "lamb-recipes",
-      "north-african",
-      "slow-cooked"
+      "algerian",
+      "lamb",
+      "tagine"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 140,
     "shard": "y"
   },
   {
@@ -15738,6 +15734,31 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-quick-turkish-lamb-bake--german",
+    "title": "German-Style Braised Lamb Shanks",
+    "tags": [
+      "german",
+      "lamb",
+      "braised",
+      "comfort food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-velvety-american-lamb-stew--keto",
+    "title": "Braised Lamb Shanks",
+    "tags": [
+      "lamb",
+      "keto",
+      "braised"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 170,
     "shard": "y"
   }
 ]

@@ -1,0 +1,70 @@
+{
+  "slug": "yellow-sweet-brazilian-yams-skillet--gluten-free",
+  "title": "Sweet and Yellow Yam Skillet",
+  "description": "A gluten-free sweet and savory dish featuring roasted yellow and sweet yams in a skillet.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yellow yams",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "sweet yams",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "brazilian oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, toss the cubed yams with the brazilian oil, salt, and black pepper until they are evenly coated.",
+    "Transfer the yam mixture to the skillet and spread it out in an even layer.",
+    "Roast in the preheated oven for 25-30 minutes, or until the yams are tender and caramelized.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "breakfast",
+    "skillet",
+    "yams"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-sweet-brazilian-yams-skillet--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:41:26.045Z"
+}

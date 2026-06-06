@@ -1,0 +1,95 @@
+{
+  "slug": "yellowed-kenyan-muffin-wrap--vegetarian",
+  "title": "Kenyan Vegetable Wrap",
+  "description": "A flavorful vegetarian wrap filled with sautéed vegetables, perfect for a quick and easy meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "muffin",
+      "amount": "1",
+      "notes": "used for breadcrumbs"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add sliced onions and cook until softened, about 3-4 minutes.",
+    "Add grated carrots and cook for an additional 2-3 minutes.",
+    "Add sliced zucchini and cook until tender, about 3-4 minutes.",
+    "Add cumin and coriander, and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Warm the wrap in the microwave or in a dry pan for 10-15 seconds.",
+    "Spoon the vegetable mixture onto the center of the wrap.",
+    "Sprinkle with breadcrumbs (muffin crumbs) and fold the wrap to enclose.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-kenyan-muffin-wrap--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:54:20.800Z"
+}

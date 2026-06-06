@@ -1,0 +1,81 @@
+{
+  "slug": "yeasty-tender-filipino-olive-dumplings--mexican",
+  "title": "Filipino-Style Mexican Yeast Dumplings",
+  "description": "Soft, fluffy dumplings filled with tender beef and spices, inspired by Filipino flavors and Mexican heat.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeasty flour",
+      "amount": "2 cups",
+      "notes": "use a gluten-free flour blend"
+    },
+    {
+      "name": "tender beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "filipino spices",
+      "amount": "1 teaspoon",
+      "notes": "ground ginger, garlic, and onion powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water for dough"
+    }
+  ],
+  "instructions": [
+    "Combine flour, water, and a pinch of salt to form the dough.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of beef in the center of each circle.",
+    "Fold the dough over the beef to form a half-moon shape.",
+    "Seal the edges with a fork.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Fry the dumplings until they are golden brown, about 2-3 minutes per side.",
+    "Serve warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "filipino",
+    "dumplings",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-tender-filipino-olive-dumplings--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:00:54.416Z"
+}

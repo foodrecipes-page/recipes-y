@@ -15773,5 +15773,44 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-syrian-herb-pilaf--german",
+    "title": "Sauerbraten German Herb Pilaf",
+    "tags": [
+      "german",
+      "beef",
+      "sauerkraut",
+      "pilaf"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 270,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-tender-filipino-olive-dumplings--mexican",
+    "title": "Filipino-Style Mexican Yeast Dumplings",
+    "tags": [
+      "mexican",
+      "filipino",
+      "dumplings",
+      "yeast"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-kenyan-muffin-wrap--vegetarian",
+    "title": "Kenyan Vegetable Wrap",
+    "tags": [
+      "kenyan",
+      "vegetarian",
+      "lunch",
+      "wrap"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

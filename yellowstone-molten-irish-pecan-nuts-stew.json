@@ -1,0 +1,77 @@
+{
+  "slug": "yellowstone-molten-irish-pecan-nuts-stew",
+  "title": "Irish Pecan Pie",
+  "description": "A traditional Irish dessert with a twist of pecan, perfect for St. Patrick's Day.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Irish butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pecans",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large bowl, cream the Irish butter and sugars until light and fluffy.",
+    "Beat in the eggs one at a time, followed by the vanilla extract.",
+    "In a separate bowl, whisk together the flour and chopped pecans.",
+    "Add the flour and pecan mixture to the wet ingredients and stir until combined.",
+    "Pour the mixture into a pie dish and bake for 40-50 minutes, or until the filling is set.",
+    "Let the pie cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "pecan",
+    "pie",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowstone-molten-irish-pecan-nuts-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:08:41.199Z"
+}

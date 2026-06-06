@@ -15839,5 +15839,17 @@
     "cuisine": "Latin American",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-sweet-brazilian-yams-skillet--vegetarian",
+    "title": "Sweet and Yellow Yam Skillet",
+    "tags": [
+      "yams",
+      "skillet",
+      "vegetarian"
+    ],
+    "cuisine": "vegetarian american",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

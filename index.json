@@ -10532,14 +10532,14 @@
   },
   {
     "slug": "yellowstone-molten-irish-pecan-nuts-stew",
-    "title": "yellowstone molten irish pecan nuts stew",
+    "title": "Irish Pecan Pie",
     "tags": [
-      "comfort-food",
-      "dutch-oven",
-      "pescatarian",
-      "winter-recipe"
+      "irish",
+      "pecan",
+      "pie",
+      "dessert"
     ],
-    "cuisine": "irish-american",
+    "cuisine": "Irish",
     "totalTimeMin": 55,
     "shard": "y"
   },
@@ -15825,6 +15825,19 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-sweet-brazilian-yams-skillet--gluten-free",
+    "title": "Sweet and Yellow Yam Skillet",
+    "tags": [
+      "gluten-free",
+      "breakfast",
+      "skillet",
+      "yams"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

@@ -1,79 +1,66 @@
 {
   "slug": "yellow-sweet-brazilian-yams-skillet",
-  "title": "Sweet Yellow Yam Skillet",
-  "description": "A delicious and easy-to-make dish that combines the natural sweetness of sweet potatoes with the savory flavor of yams. Perfect for a weeknight dinner!",
-  "cuisine": "American",
+  "title": "Sweet and Spicy Brazilian Stuffed Yams",
+  "description": "A delicious and flavorful dish that combines the sweetness of yams with the spiciness of Brazilian peppers. Perfect for a dinner or side dish.",
+  "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Yellow Sweet Potatoes",
-      "amount": "2 large",
-      "notes": "peeled and diced"
+      "name": "yams",
+      "amount": "4-6 medium-sized",
+      "notes": "Choose firm, unblemished yams for best results"
     },
     {
-      "name": "Yams",
-      "amount": "2 large",
-      "notes": "peeled and diced"
+      "name": "yellow sweet peppers",
+      "amount": "2 medium-sized",
+      "notes": "Any color sweet pepper can be used, but yellow adds a nice pop of color"
     },
     {
-      "name": "Skillet",
+      "name": "Brazilian peppers",
+      "amount": "2-3",
+      "notes": "Also known as malagueta peppers, these add a spicy kick"
+    },
+    {
+      "name": "skillet",
       "amount": "",
-      "notes": "for cooking"
-    },
-    {
-      "name": "Olive Oil",
-      "amount": "2 tbsp",
-      "notes": "for cooking"
-    },
-    {
-      "name": "Salt",
-      "amount": "to taste",
-      "notes": "for seasoning"
-    },
-    {
-      "name": "Black Pepper",
-      "amount": "to taste",
-      "notes": "for seasoning"
-    },
-    {
-      "name": "Garlic",
-      "amount": "2 cloves",
-      "notes": "minced"
+      "notes": "A 10-inch cast-iron skillet works well for this recipe"
     }
   ],
   "instructions": [
-    "Preheat the skillet over medium heat.",
-    "Add the olive oil and swirl it around to coat the bottom of the skillet.",
-    "Add the diced sweet potatoes and yams to the skillet.",
-    "Sprinkle the minced garlic over the top of the potatoes and yams.",
-    "Season with salt and black pepper to taste.",
-    "Cook for 20-25 minutes, or until the potatoes and yams are tender and lightly browned.",
-    "Serve hot and enjoy!"
+    "Preheat oven to 400°F (200°C).",
+    "Poke the yams with a fork several times to allow steam to escape.",
+    "Bake the yams for 45-60 minutes, or until tender when pierced with a fork.",
+    "While the yams are baking, heat the skillet over medium-high heat.",
+    "Add the Brazilian peppers to the skillet and cook for 2-3 minutes, or until fragrant.",
+    "Add the sliced yellow sweet peppers to the skillet and cook for an additional 2-3 minutes.",
+    "When the yams are done, let them cool for a few minutes before slicing them in half lengthwise.",
+    "Scoop out some of the yam flesh to make room for the pepper filling.",
+    "Fill each yam with the pepper mixture and serve immediately.",
+    "Optional: top with cheese, sour cream, or chives for extra flavor"
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 20,
-  "totalTimeMin": 30,
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
-    "sweet-potatoes",
-    "yams",
+    "brazilian",
     "vegetarian",
-    "gluten-free",
-    "dinner"
+    "stuffed-yams",
+    "sweet-peppers",
+    "spicy"
   ],
   "nutrition": {
     "calories": 220,
     "protein": 2,
     "carbs": 40,
-    "fat": 9
+    "fat": 6
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/yellow-sweet-brazilian-yams-skillet",
   "providerUsed": "groq",
-  "createdAt": "2026-05-31T21:07:53.503Z"
+  "createdAt": "2026-06-02T20:05:07.211Z"
 }

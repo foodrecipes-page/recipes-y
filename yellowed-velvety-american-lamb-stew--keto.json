@@ -1,0 +1,84 @@
+{
+  "slug": "yellowed-velvety-american-lamb-stew--keto",
+  "title": "Braised Lamb Shanks",
+  "description": "A hearty American-style lamb dish with a rich velvety sauce, perfect for a keto meal.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shanks",
+      "amount": "2",
+      "notes": "2 pounds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shanks with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce heat to medium and add the yellow onion to the pot.",
+    "Cook until the onion is softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the red wine and beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the lamb shanks to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb shanks with the rich velvety sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "keto",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-velvety-american-lamb-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:00:49.863Z"
+}

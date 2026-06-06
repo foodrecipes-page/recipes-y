@@ -15760,5 +15760,18 @@
     "cuisine": "American",
     "totalTimeMin": 170,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-silky-croatian-onion-stew--chinese",
+    "title": "Croatian Stew in Yellow Broth",
+    "tags": [
+      "chinese",
+      "sausage",
+      "onion",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

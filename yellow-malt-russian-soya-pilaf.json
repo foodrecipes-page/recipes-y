@@ -1,0 +1,65 @@
+{
+  "slug": "yellow-malt-russian-soya-pilaf",
+  "title": "Soya Pilaf with Russian Twist",
+  "description": "A flavorful pilaf dish with a blend of Eastern European and Asian flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Soya Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Malt Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Russian Dill",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the Soya Pilaf and cook for 2-3 minutes, stirring constantly.",
+    "Add the Malt Vinegar, Russian Dill, and Soy Sauce. Stir to combine.",
+    "Reduce heat to low and simmer for 10-12 minutes, or until the pilaf is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional Russian Dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soya-pilaf",
+    "russian-twist",
+    "vegetarian",
+    "lunch",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-malt-russian-soya-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:01:16.782Z"
+}

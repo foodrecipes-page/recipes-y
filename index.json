@@ -4168,17 +4168,16 @@
   },
   {
     "slug": "yellow-malt-russian-soya-pilaf",
-    "title": "Yellow Malt Russian Soya Pilaf",
+    "title": "Soya Pilaf with Russian Twist",
     "tags": [
-      "ayurvedic",
-      "gluten-free",
-      "meal-prep",
-      "russian-cuisine",
-      "vegan",
-      "vegetarian"
+      "soya-pilaf",
+      "russian-twist",
+      "vegetarian",
+      "lunch",
+      "easy-dinner"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -9206,16 +9205,14 @@
   },
   {
     "slug": "yellowed-portuguese-cod-stew",
-    "title": "Yellowed Portuguese Cod Stew",
+    "title": "Portuguese Stewed Cod",
     "tags": [
-      "comfort-food",
-      "fish-stew",
-      "gluten-free",
-      "one-pot",
-      "portuguese-cuisine"
+      "portuguese",
+      "stew",
+      "fish"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {
@@ -9762,17 +9759,15 @@
   },
   {
     "slug": "yellowed-smoky-uruguayan-mackerel-bake",
-    "title": "Yellowed Smoky Uruguayan Mackerel Bake",
+    "title": "Smoky Uruguayan Mackerel Bake",
     "tags": [
-      "baked-dish",
-      "high-protein",
-      "keto-friendly",
-      "low-carb",
-      "smoked-fish",
-      "uruguayan-cuisine"
+      "mackerel",
+      "uruguayan",
+      "smoky",
+      "baked"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

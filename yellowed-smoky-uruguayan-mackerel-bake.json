@@ -1,0 +1,84 @@
+{
+  "slug": "yellowed-smoky-uruguayan-mackerel-bake",
+  "title": "Smoky Uruguayan Mackerel Bake",
+  "description": "A simple, smoky Uruguayan-inspired mackerel dish baked to perfection. This recipe combines the rich flavors of smoky Uruguayan spices with the delicate taste of mackerel.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, 6 oz each"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "Uruguayan-style smoked paprika"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Fine sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground black pepper"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the mackerel fillets with smoked paprika, salt, and black pepper.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the mackerel fillets for 2 minutes on each side, until browned.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "Meanwhile, mix the minced garlic and chopped parsley in a small bowl.",
+    "Remove the skillet from the oven and top each mackerel fillet with the garlic-parsley mixture and a drizzle of lemon juice.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mackerel",
+    "uruguayan",
+    "smoky",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-smoky-uruguayan-mackerel-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:08:43.631Z"
+}

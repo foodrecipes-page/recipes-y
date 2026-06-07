@@ -984,17 +984,15 @@
   },
   {
     "slug": "yeasty-irish-boudin-noir-hash",
-    "title": "Yeasty Irish Boudin-noir Hash",
+    "title": "Irish Yeasty Boudin Noir Hash",
     "tags": [
-      "brunch",
-      "comfort-food",
-      "easter",
       "irish",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "hash",
+      "boudin"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -14125,18 +14123,15 @@
   },
   {
     "slug": "yummy-polish-herring-curry",
-    "title": "Yummy Polish Herring Curry",
+    "title": "Polish Herring Curry",
     "tags": [
-      "curry",
-      "herring",
-      "monsoon",
-      "no-garlic",
-      "no-onion",
       "polish",
-      "shio-cure"
+      "herring",
+      "curry",
+      "fish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

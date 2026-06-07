@@ -1,0 +1,84 @@
+{
+  "slug": "yeasty-irish-boudin-noir-hash",
+  "title": "Irish Yeasty Boudin Noir Hash",
+  "description": "A hearty, savory dish that combines the rich flavors of boudin noir with the comforting warmth of hash and the crisp freshness of yeasty bread.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boudin noir",
+      "amount": "1 pound",
+      "notes": "pork blood sausage"
+    },
+    {
+      "name": "yeasty bread",
+      "amount": "2 cups",
+      "notes": "dried, cubed"
+    },
+    {
+      "name": "hash",
+      "amount": "1 cup",
+      "notes": "beef or pork, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large skillet, cook boudin noir over medium heat, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "3. Add onion, carrot, and garlic to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "4. Stir in hash and cook for an additional 2-3 minutes.",
+    "5. In a separate bowl, mix together bread and a pinch of salt and pepper.",
+    "6. Add cooked boudin noir mixture to the bowl with bread and stir until well combined.",
+    "7. Transfer the mixture to a greased 9x13-inch baking dish.",
+    "8. Bake for 20-25 minutes, or until the top is golden brown and the mixture is heated through.",
+    "9. Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "breakfast",
+    "hash",
+    "boudin"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-irish-boudin-noir-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:09:05.994Z"
+}

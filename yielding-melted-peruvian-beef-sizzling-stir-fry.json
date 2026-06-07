@@ -1,0 +1,86 @@
+{
+  "slug": "yielding-melted-peruvian-beef-sizzling-stir-fry",
+  "title": "Sizzling Beef Stir Fry",
+  "description": "A quick and flavorful stir fry made with beef and Peruvian-inspired spices. Serve hot and enjoy!",
+  "cuisine": "peruvian",
+  "diet": [
+    "beef",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin)",
+      "amount": "1 lb",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Peruvian stir fry seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes. Remove from wok and set aside.",
+    "Add onion and bell pepper to the wok and cook until tender, about 5 minutes.",
+    "Add mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Return beef to the wok and stir in Peruvian stir fry seasoning, salt, and pepper.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Serve hot over rice or noodles, garnished with cilantro if desired.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sizzling",
+    "beef",
+    "stir-fry",
+    "peruvian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yielding-melted-peruvian-beef-sizzling-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:43:59.402Z"
+}

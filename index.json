@@ -801,17 +801,14 @@
   },
   {
     "slug": "yeasty-german-oat-crumble",
-    "title": "Yeasty German Oat Crumble",
+    "title": "German Style Crumble",
     "tags": [
-      "breakfast",
-      "crumble",
       "german",
-      "oat",
-      "one-dish",
-      "vegetarian",
-      "yeast"
+      "dessert",
+      "crumble",
+      "oat"
     ],
-    "cuisine": "German",
+    "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "y"
   },
@@ -1216,18 +1213,15 @@
   },
   {
     "slug": "yeasty-peruvian-sweetened-condensed-milk-pudding",
-    "title": "Yeasty Peruvian Sweetened Condensed Milk Pudding",
+    "title": "Peruvian Pudding Dessert",
     "tags": [
       "dessert",
       "peruvian",
-      "romantic",
-      "spring",
-      "sweet",
-      "temple-friendly",
-      "yeast"
+      "pudding",
+      "sweet"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

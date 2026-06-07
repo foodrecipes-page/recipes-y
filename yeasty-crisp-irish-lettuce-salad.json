@@ -1,0 +1,61 @@
+{
+  "slug": "yeasty-crisp-irish-lettuce-salad",
+  "title": "Irish Yeast Bread",
+  "description": "A delicious, crispy crust Irish yeast bread recipe that is simple to make and perfect for sandwiches or toast.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "bread",
+  "ingredients": [
+    {
+      "name": "yeasty",
+      "amount": "1 packet (2 1/4 teaspoons) active dry yeast"
+    },
+    {
+      "name": "crisp",
+      "amount": "2 cups all-purpose flour"
+    },
+    {
+      "name": "irish",
+      "amount": "1 teaspoon salt"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 tablespoon sugar"
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup lukewarm water"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine yeast and lukewarm water.",
+    "2. Add sugar, salt, and 2 cups of flour to the bowl, mixing until a shaggy dough forms.",
+    "3. Gradually add the remaining 1/2 cup of flour, kneading the dough until it becomes smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "5. Preheat the oven to 400°F (200°C).",
+    "6. Punch down the dough and shape it into a round or oblong loaf.",
+    "7. Place the loaf on a baking sheet lined with parchment paper, and bake for 35-40 minutes.",
+    "8. Remove the bread from the oven and let it cool on a wire rack for 10-15 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-crisp-irish-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:39:07.825Z"
+}

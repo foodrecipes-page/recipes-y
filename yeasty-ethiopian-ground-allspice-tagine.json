@@ -1,0 +1,65 @@
+{
+  "slug": "yeasty-ethiopian-ground-allspice-tagine",
+  "title": "Ethiopian Yeast Bread (Injera)",
+  "description": "A traditional Ethiopian flatbread made with teff flour, water, and yeast. It's a staple food in Ethiopian culture, often served with stews and salads.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Teff flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine teff flour, water, yeast, allspice, and salt. Mix well to form a smooth batter.",
+    "Cover the bowl with a clean cloth and let it rest in a warm place for 24-48 hours, allowing the batter to ferment.",
+    "After fermentation, the batter should be slightly frothy and have a tangy smell. If not, let it rest for a few more hours.",
+    "Preheat a non-stick skillet or a cast-iron pan over medium heat.",
+    "Pour 1/4 cup of the batter onto the preheated pan and tilt the pan to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the injera with a spatula and flip it over. Cook for another minute.",
+    "Repeat with the remaining batter, until all the injera are cooked."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "yeast-bread",
+    "injera",
+    "flatbread",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-ethiopian-ground-allspice-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:47:46.044Z"
+}

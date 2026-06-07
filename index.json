@@ -10619,18 +10619,16 @@
   },
   {
     "slug": "yielding-melted-peruvian-beef-sizzling-stir-fry",
-    "title": "yielding melted peruvian beef sizzling stir-fry",
+    "title": "Sizzling Beef Stir Fry",
     "tags": [
-      "easy",
-      "high-protein",
-      "latin-american",
-      "one-pan",
+      "sizzling",
+      "beef",
+      "stir-fry",
       "peruvian",
-      "quick",
-      "weeknight"
+      "easy-dinner"
     ],
     "cuisine": "peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -13452,16 +13450,16 @@
   },
   {
     "slug": "yummy-jelly-dutch-ground-nut-oil-poffertjes",
-    "title": "Yummy Jelly Dutch Ground Nut Oil Poffertjes",
+    "title": "Dutch Poffertjes with Ground Beef and Nut Topping",
     "tags": [
-      "breakfast",
-      "brunch",
       "dutch",
-      "high-protein",
-      "vegan"
+      "beef",
+      "breakfast",
+      "poffertjes",
+      "meat"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

@@ -1,0 +1,79 @@
+{
+  "slug": "yummy-creamy-japanese-tofu-kaiseki-course",
+  "title": "Creamy Japanese Tofu Course",
+  "description": "A delicious and elegant Japanese-inspired dish featuring creamy tofu as the main ingredient. This recipe is perfect for a special occasion or a romantic dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm, drained and cubed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "Granulated"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 teaspoon",
+      "notes": "High-quality, unsweetened"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "yummy",
+      "amount": "1 tablespoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together the almond milk, cornstarch, and matcha powder until smooth.",
+    "2. In a medium saucepan, combine the almond milk mixture, sugar, and vanilla extract. Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "3. Reduce the heat to low and simmer for 2-3 minutes, or until the mixture has thickened.",
+    "4. In a separate bowl, whisk together the cubed tofu and matcha powder until the tofu is evenly coated.",
+    "5. Add the tofu to the saucepan and stir to combine.",
+    "6. Cook for an additional 2-3 minutes, or until the tofu is heated through.",
+    "7. Remove the saucepan from the heat and stir in the yummy.",
+    "8. Serve the creamy Japanese tofu course immediately, garnished with additional matcha powder if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "vegan",
+    "japanese",
+    "course"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-creamy-japanese-tofu-kaiseki-course",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:15:48.082Z"
+}

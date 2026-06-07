@@ -1320,16 +1320,15 @@
   },
   {
     "slug": "yeasty-shattering-syrian-weeknight-dish-tagine",
-    "title": "yeasty shattering syrian weeknight tagine",
+    "title": "Syrian Shattering Chicken Tagine",
     "tags": [
-      "easy-to-make",
-      "high-fiber",
-      "keto",
-      "one-pan",
+      "chicken",
+      "tagine",
+      "syrian",
       "weeknight"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Syrian",
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {
@@ -12211,16 +12210,15 @@
   },
   {
     "slug": "yummy-creamy-japanese-tofu-kaiseki-course",
-    "title": "Yummy Creamy Japanese Tofu Kaiseki Course",
+    "title": "Creamy Japanese Tofu Course",
     "tags": [
-      "japanese-cuisine",
-      "kaiseki-course",
-      "okinawan-dish",
-      "romantic-dinner",
-      "vegetarian-friendly"
+      "dessert",
+      "vegan",
+      "japanese",
+      "course"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {

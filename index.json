@@ -375,16 +375,13 @@
   },
   {
     "slug": "yeasty-crisp-irish-lettuce-salad",
-    "title": "Yeasty Crisp Irish Lettuce Salad",
+    "title": "Irish Yeast Bread",
     "tags": [
-      "irish",
-      "one-pan",
-      "romantic",
-      "salad",
-      "vegetarian"
+      "bread",
+      "irish"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

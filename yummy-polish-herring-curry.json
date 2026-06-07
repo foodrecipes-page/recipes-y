@@ -1,0 +1,74 @@
+{
+  "slug": "yummy-polish-herring-curry",
+  "title": "Polish Herring Curry",
+  "description": "A unique twist on traditional Polish cuisine, this herring curry combines the flavors of Eastern Europe with the warmth of India.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "herring (2 fillets)",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "yummy sauce",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "polish rye bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Rinse the herring fillets under cold water, pat dry with paper towels, and place on a baking sheet.",
+    "Drizzle with yummy sauce and sprinkle with curry powder.",
+    "Bake in the oven for 10-12 minutes, or until cooked through.",
+    "Meanwhile, slice the onion and sauté in a pan until softened.",
+    "Mince the garlic and add to the pan, cooking for another minute.",
+    "Serve the herring on top of a slice of polish rye bread, with the onion and garlic mixture spooned over the top.",
+    "Garnish with a sprinkle of curry powder and a dollop of yummy sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "herring",
+    "curry",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-polish-herring-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:08:53.461Z"
+}

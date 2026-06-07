@@ -1,0 +1,92 @@
+{
+  "slug": "yeasty-shattering-syrian-weeknight-dish-tagine",
+  "title": "Syrian Shattering Chicken Tagine",
+  "description": "A flavorful and aromatic chicken tagine from Syria, perfect for a weeknight dinner. The combination of chicken, vegetables, and spices will leave you wanting more.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1-2 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add carrots and potatoes and cook for another 5 minutes.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add chicken broth, cumin, coriander, and paprika. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 375°F (190°C) for 30-40 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired.",
+    "Serve over rice or with some crusty bread to mop up the juices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-shattering-syrian-weeknight-dish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:27:23.903Z"
+}

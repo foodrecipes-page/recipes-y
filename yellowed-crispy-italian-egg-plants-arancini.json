@@ -1,0 +1,63 @@
+{
+  "slug": "yellowed-crispy-italian-egg-plants-arancini",
+  "title": "Arancini Bites",
+  "description": "A Sicilian-inspired snack made with crispy arancini, egg, and plants. Perfect for a quick bite.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "arancini",
+      "amount": "1 (12 oz) package",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "plants",
+      "amount": "1 cup chopped fresh parsley",
+      "notes": "optional"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C)",
+    "2. In a bowl, beat the eggs and mix with Italian seasoning.",
+    "3. Cut the arancini into bite-sized pieces.",
+    "4. Dip each piece into the egg mixture, coating evenly.",
+    "5. Place the coated arancini on a baking sheet lined with parchment paper.",
+    "6. Bake for 12-15 minutes or until crispy and golden brown.",
+    "7. Garnish with chopped parsley, if using.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "easy",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-italian-egg-plants-arancini",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:40:38.178Z"
+}

@@ -634,17 +634,16 @@
   },
   {
     "slug": "yeasty-ethiopian-ground-allspice-tagine",
-    "title": "Yeasty Ethiopian Ground Allspice Tagine",
+    "title": "Ethiopian Yeast Bread (Injera)",
     "tags": [
       "ethiopian",
-      "ground-beef",
-      "mideastern",
-      "midnight-craving",
-      "tagine",
-      "yeasty"
+      "yeast-bread",
+      "injera",
+      "flatbread",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

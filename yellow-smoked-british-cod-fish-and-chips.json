@@ -1,0 +1,82 @@
+{
+  "slug": "yellow-smoked-british-cod-fish-and-chips",
+  "title": "British Cod Fish and Chips",
+  "description": "A classic British recipe of cod fish and chips, pan-fried to perfection. This dish is a staple of British cuisine and is easy to make at home.",
+  "cuisine": "British",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fish",
+      "amount": "4 fillets",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Yellow Curry Powder",
+      "amount": "2 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "British Chips (Fries)",
+      "amount": "2 lbs",
+      "notes": "Thinly sliced potatoes"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large frying pan to 350°F (180°C).",
+    "Cut the chips into long, thin strips and soak them in cold water for 30 minutes.",
+    "Drain the chips and pat them dry with paper towels.",
+    "Season the cod fillets with salt, pepper, and curry powder (if using).",
+    "Dredge the cod fillets in flour, shaking off excess.",
+    "Fry the cod fillets in the hot oil for 3-4 minutes on each side, or until golden brown.",
+    "Remove the cod from the oil and place it on a paper towel-lined plate to drain.",
+    "Fry the chips in the hot oil for 3-4 minutes, or until golden brown.",
+    "Remove the chips from the oil and place them on a paper towel-lined plate to drain.",
+    "Serve the cod with the chips and a sprinkle of smoked paprika (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fish-and-chips",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoked-british-cod-fish-and-chips",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:43:55.778Z"
+}

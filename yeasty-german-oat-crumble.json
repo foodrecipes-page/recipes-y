@@ -1,0 +1,62 @@
+{
+  "slug": "yeasty-german-oat-crumble",
+  "title": "German Style Crumble",
+  "description": "A classic German dessert with a crunchy oat topping and a rich, yeasty center. Perfect for a cold evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oat",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "german",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the oat, yeasty, and german.",
+    "Mix well until combined.",
+    "In a separate bowl, combine the crumble and a pinch of salt.",
+    "Add the crumble mixture to the oat mixture and mix until crumbly.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "While the mixture is baking, prepare the topping by mixing together 1/2 cup of crumble and 1/4 cup of oat.",
+    "After the 25 minutes, remove the baking dish from the oven and top with the crumble-oat mixture.",
+    "Return the dish to the oven and bake for an additional 10-15 minutes, or until the topping is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "crumble",
+    "oat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-german-oat-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:09:46.185Z"
+}

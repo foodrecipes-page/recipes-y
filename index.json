@@ -5060,17 +5060,15 @@
   },
   {
     "slug": "yellow-smoked-british-cod-fish-and-chips",
-    "title": "Yellow Smoked British Cod Fish And Chips",
+    "title": "British Cod Fish and Chips",
     "tags": [
-      "british-cuisine",
-      "date-night",
+      "british",
       "fish-and-chips",
-      "sattvic-friendly",
-      "seafood",
-      "smoked-paprika"
+      "dinner",
+      "easy"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -7739,17 +7737,15 @@
   },
   {
     "slug": "yellowed-crispy-italian-egg-plants-arancini",
-    "title": "Yellowed Crispy Italian Egg Plants Arancini",
+    "title": "Arancini Bites",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "italian-food",
-      "one-pot",
-      "vegetarian-recipes",
-      "weeknight-dinners"
+      "italian",
+      "snack",
+      "easy",
+      "kid-friendly"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 17,
     "shard": "y"
   },
   {
@@ -12133,16 +12129,15 @@
   },
   {
     "slug": "yummy-chinese-char-grill-pork-gyoza",
-    "title": "Yummy Chinese Char-Grill Pork Gyoza",
+    "title": "Pan-Seared Pork Gyoza",
     "tags": [
-      "char-grill",
-      "chinese-cuisine",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight-dinner",
-      "yum"
+      "asian",
+      "pan-seared",
+      "pork",
+      "gyoza",
+      "dinner"
     ],
-    "cuisine": "chinese",
+    "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "y"
   },

@@ -1,0 +1,68 @@
+{
+  "slug": "yeasty-peruvian-sweetened-condensed-milk-pudding",
+  "title": "Peruvian Pudding Dessert",
+  "description": "A creamy and sweet Peruvian-inspired dessert made with condensed milk and pudding.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "yeasty pudding mix",
+      "amount": "1 packet",
+      "notes": "1.5 oz"
+    },
+    {
+      "name": "peruvian milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. In a medium saucepan, combine condensed milk, pudding mix, and salt. Whisk until smooth.",
+    "3. Add milk, vanilla extract, and melted butter to the saucepan. Whisk until well combined.",
+    "4. Pour the mixture into 6 ramekins or small baking dishes.",
+    "5. Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "6. Bake for 25-30 minutes, or until set.",
+    "7. Remove the ramekins from the water bath and let cool to room temperature.",
+    "8. Cover with plastic wrap and refrigerate for at least 2 hours, or until chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "peruvian",
+    "pudding",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-peruvian-sweetened-condensed-milk-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:01:16.068Z"
+}

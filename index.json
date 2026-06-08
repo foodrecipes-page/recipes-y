@@ -7864,17 +7864,14 @@
   },
   {
     "slug": "yellowed-crispy-norwegian-guanciale-skewers",
-    "title": "Yellowed Crispy Norwegian Guanciale Skewers",
+    "title": "Pan-Seared Norwegian Skewers with Crispy Croutons",
     "tags": [
-      "adventurous-eating",
-      "guanciale-recipes",
-      "norwegian-cuisine",
-      "papillote-cooking",
-      "raw-friendly",
-      "salmon-fillets"
+      "scandinavian",
+      "fish",
+      "easy-dinner"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 32,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -7923,13 +7920,11 @@
   },
   {
     "slug": "yellowed-croatian-hazelnut-salad",
-    "title": "Yellowed Croatian Hazelnut Salad",
+    "title": "Hazelnut Salad with Croatian Twist",
     "tags": [
-      "croatian-cuisine",
-      "healthy-snack",
-      "quick-recipe",
-      "raw-friendly",
-      "vegetarian-option"
+      "salad",
+      "hazelnut",
+      "croatian"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 15,
@@ -11162,18 +11157,17 @@
   },
   {
     "slug": "youthful-juicy-saudi-arabian-date-tagine",
-    "title": "Youthful Juicy Saudi Arabian Date Tagine",
+    "title": "Saudi Arabian Date Tagine",
     "tags": [
-      "chocolate-infused",
-      "creamy",
-      "date-based",
-      "floral",
-      "low-sodium",
-      "post-workout",
-      "saudi-arabian"
+      "saudi-arabian",
+      "date",
+      "tagine",
+      "dessert",
+      "easy",
+      "vegetarian"
     ],
-    "cuisine": "saudi arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

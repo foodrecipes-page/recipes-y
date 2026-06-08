@@ -1,0 +1,78 @@
+{
+  "slug": "yellowed-crispy-norwegian-guanciale-skewers",
+  "title": "Pan-Seared Norwegian Skewers with Crispy Croutons",
+  "description": "A flavorful and easy-to-make dish featuring Norwegian skewers, crispy croutons, and a hint of smoky guanciale.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Skewers",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Guanciale",
+      "amount": "4 slices",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Yellowed Onion Croutons",
+      "amount": "1 cup",
+      "notes": "See instructions for preparation"
+    },
+    {
+      "name": "Skewers",
+      "amount": "1",
+      "notes": "For serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a bowl, whisk together olive oil, salt, and pepper.",
+    "Toss the yellowed onion croutons in the bowl to coat.",
+    "Spread the croutons on a baking sheet and toast in the oven for 10 minutes.",
+    "Meanwhile, cook the guanciale in a pan over medium heat until crispy.",
+    "Remove the guanciale from the pan and set aside.",
+    "Add the Norwegian skewers to the pan and cook for 2-3 minutes per side.",
+    "Serve the skewers with crispy croutons and guanciale on top.",
+    "Optional: Serve with a side of your choice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "scandinavian",
+    "fish",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-norwegian-guanciale-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:42:03.228Z"
+}

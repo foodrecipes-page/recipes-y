@@ -3546,16 +3546,14 @@
   },
   {
     "slug": "yellow-garlic-american-tofu-stir-fry",
-    "title": "Yellow Garlic American Tofu Stir Fry",
+    "title": "Tofu Stir Fry",
     "tags": [
-      "american",
-      "date-night",
-      "easy-dinner",
-      "shojin-friendly",
+      "tofu",
       "stir-fry",
-      "vegetarian"
+      "vegetarian",
+      "quick-dinner"
     ],
-    "cuisine": "American",
+    "cuisine": "Chinese",
     "totalTimeMin": 25,
     "shard": "y"
   },

@@ -1,0 +1,85 @@
+{
+  "slug": "yellow-dense-slovakian-sweet-red-peppers-casserole",
+  "title": "Slovakian Pepper Casserole",
+  "description": "A hearty, comforting casserole filled with sweet peppers and a hint of Slovakian spice. Perfect for a cozy dinner night.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "sweet peppers",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "red peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1",
+      "notes": "any type"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Chop the onion and sauté it in olive oil until softened.",
+    "Add the garlic and sauté for another minute.",
+    "Add the sweet and red peppers, and sauté until tender.",
+    "Add the Slovakian paprika and stir for 1 minute.",
+    "In a separate bowl, combine the chopped yellow peppers and the casserole.",
+    "Add the pepper mixture to the skillet and stir to combine.",
+    "Transfer the mixture to a baking dish and top with additional peppers if desired.",
+    "Cover and bake for 30 minutes.",
+    "Uncover and bake for an additional 15-20 minutes, or until the casserole is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peppers",
+    "casserole",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-dense-slovakian-sweet-red-peppers-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:16:44.325Z"
+}

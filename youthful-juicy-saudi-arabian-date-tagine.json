@@ -1,0 +1,63 @@
+{
+  "slug": "youthful-juicy-saudi-arabian-date-tagine",
+  "title": "Saudi Arabian Date Tagine",
+  "description": "A traditional Saudi Arabian dessert made with juicy dates and fragrant tagine spices. This easy-to-make tagine is perfect for warm weather and special occasions.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "juicy dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arabian tagine spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "youthful water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saudi honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tagine",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Rinse the dates and remove any pits.",
+    "In a large pot, combine the dates, tagine spices, and water.",
+    "Bring the mixture to a boil over medium heat.",
+    "Reduce the heat to low and simmer for 10-15 minutes.",
+    "Stir in the honey until dissolved.",
+    "Serve the tagine warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "date",
+    "tagine",
+    "dessert",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 55,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/youthful-juicy-saudi-arabian-date-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:37:54.076Z"
+}

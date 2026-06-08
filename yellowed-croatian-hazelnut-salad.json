@@ -1,0 +1,69 @@
+{
+  "slug": "yellowed-croatian-hazelnut-salad",
+  "title": "Hazelnut Salad with Croatian Twist",
+  "description": "A unique salad recipe that combines the earthy flavors of hazelnut with the tangy taste of Croatian ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yellowed onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": "soak in cold water for 30 minutes to remove bitterness"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Croatian-style salad mix",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together Croatian olive oil, red wine vinegar, salt, and black pepper.",
+    "In a large bowl, combine sliced yellowed onion and chopped hazelnuts.",
+    "Add the Croatian-style salad mix to the bowl and toss to combine.",
+    "Drizzle the dressing over the salad and toss to coat.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "hazelnut",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-croatian-hazelnut-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:40:36.410Z"
+}

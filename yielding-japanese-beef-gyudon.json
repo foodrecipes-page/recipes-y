@@ -1,0 +1,99 @@
+{
+  "slug": "yielding-japanese-beef-gyudon",
+  "title": "Japanese-Style Beef Gyudon",
+  "description": "A popular Japanese beef bowl dish made with thinly sliced beef and onions simmered in a sweet soy sauce-based broth, served over a bed of steamed rice.",
+  "cuisine": "japanese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thinly sliced beef (ribeye or sirloin)",
+      "amount": "250g",
+      "notes": "Slice beef into thin strips against the grain"
+    },
+    {
+      "name": "White onions",
+      "amount": "2",
+      "notes": "Thinly slice onions"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sake (Japanese rice wine)",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gyudon sauce",
+      "amount": "1 bottle",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Steamed Japanese rice",
+      "amount": "4 servings",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "Thinly slice for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or wok over medium-high heat.",
+    "Add 1 tablespoon of oil and cook the beef until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of oil and cook the onions until they are translucent and starting to caramelize, about 5 minutes.",
+    "Add the soy sauce, sake (if using), and sugar to the skillet and stir to combine.",
+    "Return the beef to the skillet and stir to coat with the sauce.",
+    "Simmer the beef and sauce for 2-3 minutes, until the sauce has thickened.",
+    "Season with rice vinegar and gyudon sauce.",
+    "Serve the beef and sauce over a bed of steamed Japanese rice.",
+    "Garnish with thinly sliced scallions and sesame seeds (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "beef",
+    "gyudon",
+    "rice",
+    "onions",
+    "scallions",
+    "sesame"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yielding-japanese-beef-gyudon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:27:21.256Z"
+}

@@ -10594,17 +10594,18 @@
   },
   {
     "slug": "yielding-japanese-beef-gyudon",
-    "title": "Yielding Japanese Beef Gyudon",
+    "title": "Japanese-Style Beef Gyudon",
     "tags": [
-      "brunch",
-      "cataplana",
-      "kyushu",
-      "low-carb",
-      "one-pan",
-      "whole30"
+      "japanese",
+      "beef",
+      "gyudon",
+      "rice",
+      "onions",
+      "scallions",
+      "sesame"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -14301,18 +14302,14 @@
   },
   {
     "slug": "yummy-shattering-canadian-wild-mushroom-tart",
-    "title": "Yummy Shattering Canadian Wild Mushroom Tart",
+    "title": "Tart and Mushroom Wild Rice Bowl",
     "tags": [
-      "canadian",
-      "fancy",
-      "high-protein",
-      "one-pan",
-      "tart",
-      "weeknight",
-      "wild-mushrooms"
+      "wild-rice",
+      "mushroom",
+      "vegetarian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 90,
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

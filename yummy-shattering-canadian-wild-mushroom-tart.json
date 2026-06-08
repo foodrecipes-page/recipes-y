@@ -1,0 +1,66 @@
+{
+  "slug": "yummy-shattering-canadian-wild-mushroom-tart",
+  "title": "Tart and Mushroom Wild Rice Bowl",
+  "description": "A hearty bowl filled with wild rice, savory mushrooms, and a hint of tartness. This dish is perfect for a weeknight dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup, sliced",
+      "notes": "Any variety, such as shiitake or cremini"
+    },
+    {
+      "name": "Tart",
+      "amount": "2 tbsp, apple cider vinegar",
+      "notes": ""
+    },
+    {
+      "name": "Canadian",
+      "amount": "2 tbsp, olive oil",
+      "notes": ""
+    },
+    {
+      "name": "Yummy",
+      "amount": "Salt and pepper, to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Canadian (olive oil) in a large saucepan over medium heat.",
+    "Add the mushroom slices and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the wild rice to the saucepan and cook for 1-2 minutes, stirring constantly.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 40-45 minutes, or until the rice is tender.",
+    "Stir in the tart (apple cider vinegar) and season with salt and pepper to taste.",
+    "Serve the wild rice mixture hot, garnished with additional mushrooms if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wild-rice",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-shattering-canadian-wild-mushroom-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:05:38.899Z"
+}

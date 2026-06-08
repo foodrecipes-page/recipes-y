@@ -1,0 +1,75 @@
+{
+  "slug": "yellow-garlic-american-tofu-stir-fry",
+  "title": "Tofu Stir Fry",
+  "description": "A quick and easy Chinese-inspired dish made with crispy tofu and a variety of vegetables, all cooked to perfection in a savory sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "american cheese",
+      "amount": "1/4 cup (shredded)",
+      "notes": "optional"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fry onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown on all sides, about 5-7 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add another tablespoon of oil to the skillet, then add the sliced yellow bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the stir-fry sauce and cook for 1-2 minutes, until the sauce has thickened.",
+    "Return the tofu to the skillet and stir to combine with the sauce.",
+    "Serve hot, garnished with chopped green onions and sesame seeds if desired.",
+    "Optional: sprinkle shredded american cheese on top of the tofu and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "stir-fry",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-garlic-american-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:45:23.999Z"
+}

@@ -8078,16 +8078,15 @@
   },
   {
     "slug": "yellowed-crunchy-polish-sausage-skillet",
-    "title": "Yellowed Crunchy Polish Sausage Skillet",
+    "title": "Polish Sausage Skillet",
     "tags": [
-      "low-glycemic",
-      "one-pan",
-      "polish-cuisine",
-      "sausage-recipes",
-      "weeknight-meals"
+      "breakfast",
+      "sausage",
+      "skillet",
+      "polish"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "cuisine": "European",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -9664,17 +9663,14 @@
   },
   {
     "slug": "yellowed-smoky-spanish-yellow-split-peas-paella",
-    "title": "Yellowed Smoky Spanish Yellow Split Peas Paella",
+    "title": "Smoky Spanish Paella",
     "tags": [
-      "high-fiber",
-      "one-pan",
-      "plant-based",
-      "smoky",
       "spanish",
-      "weeknight"
+      "vegetarian",
+      "paella"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

@@ -1,0 +1,90 @@
+{
+  "slug": "yellowish-golden-mediterranean-chicken-skillet",
+  "title": "Golden Mediterranean Chicken Skillet",
+  "description": "A flavorful and healthy skillet dish made with chicken, Mediterranean spices, and golden yellow vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless, skinless chicken breast",
+      "amount": "",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "2 yellow bell peppers",
+      "amount": "sliced",
+      "notes": ""
+    },
+    {
+      "name": "1 large yellow onion",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 cup golden cherry tomatoes",
+      "amount": "halved",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tbsp of olive oil to the skillet.",
+    "Add the sliced yellow bell peppers and chopped yellow onion to the skillet and cook until tender, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the halved golden cherry tomatoes, dried oregano, smoked paprika, salt, and pepper to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the vegetables and spices.",
+    "Cook for an additional 2-3 minutes, until the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "chicken",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-golden-mediterranean-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:14:00.261Z"
+}

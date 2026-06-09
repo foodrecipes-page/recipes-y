@@ -1,0 +1,68 @@
+{
+  "slug": "yellow-herb-dutch-fish-gratin",
+  "title": "Pan-Seared Fish Fillet with Herb Crust",
+  "description": "A simple and flavorful dish featuring a seared fish fillet topped with a fragrant herb crust. This recipe is a great option for a quick dinner or lunch.",
+  "cuisine": "European",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (Dutch)",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh herbs (Gratin)",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillet with salt and pepper.",
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add the sliced yellow onion to the skillet and cook until translucent.",
+    "Add the chopped fresh herbs to the skillet and cook for 1 minute.",
+    "Place the fish fillet in the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "Remove the skillet from the oven and serve the fish fillet hot with the herb crust."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "fish",
+    "herb-crusted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-herb-dutch-fish-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:21:43.987Z"
+}

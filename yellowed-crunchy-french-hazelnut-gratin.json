@@ -1,0 +1,67 @@
+{
+  "slug": "yellowed-crunchy-french-hazelnut-gratin",
+  "title": "French Hazelnut Granola",
+  "description": "A crunchy and nutty granola made with hazelnuts and a touch of French flair, perfect for snacking or as a topping for your favorite yogurt or oatmeal.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "oats",
+      "amount": "2 cups",
+      "notes": "rolled"
+    },
+    {
+      "name": "crunchy french bread",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "yellowed sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Mix together chopped hazelnuts, rolled oats, cubed French bread, and yellowed sugar in a large bowl.",
+    "Drizzle coconut oil over the mixture and stir until everything is well combined.",
+    "Spread the mixture out onto a baking sheet and bake for 25-30 minutes, stirring occasionally.",
+    "Remove from oven and let cool completely before breaking into pieces.",
+    "Serve as a snack or use as a topping for your favorite yogurt or oatmeal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "granola",
+    "snack",
+    "hazelnut",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crunchy-french-hazelnut-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:13:33.952Z"
+}

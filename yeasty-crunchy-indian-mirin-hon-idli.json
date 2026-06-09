@@ -1,0 +1,65 @@
+{
+  "slug": "yeasty-crunchy-indian-mirin-hon-idli",
+  "title": "Honey Glazed Indian Idli",
+  "description": "A sweet and spicy twist on the traditional Indian idli, topped with a sticky honey glaze.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "idli",
+      "amount": "4",
+      "notes": "steamed rice cakes"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "for glaze"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1 tsp",
+      "notes": "yeast extract for added depth"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": "chopped nuts or seeds for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small saucepan, combine honey and mirin. Heat over low heat until warm and syrupy.",
+    "Brush the idlis with the honey glaze and bake for 5-7 minutes, or until caramelized.",
+    "Garnish with crunchy toppings and serve warm.",
+    "Optional: Sprinkle a pinch of yeasty extract for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "indian",
+    "honey-glazed",
+    "idli"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-crunchy-indian-mirin-hon-idli",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:52:15.344Z"
+}

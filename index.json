@@ -3996,16 +3996,14 @@
   },
   {
     "slug": "yellow-herb-dutch-fish-gratin",
-    "title": "Yellow Herb Dutch Fish Gratin",
+    "title": "Pan-Seared Fish Fillet with Herb Crust",
     "tags": [
-      "dutch-cuisine",
-      "fish-recipes",
-      "gratin",
-      "special-occasion",
-      "tandoor-cooking"
+      "seafood",
+      "fish",
+      "herb-crusted"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": "European",
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {
@@ -8031,17 +8029,15 @@
   },
   {
     "slug": "yellowed-crunchy-french-hazelnut-gratin",
-    "title": "Yellowed Crunchy French Hazelnut Gratin",
+    "title": "French Hazelnut Granola",
     "tags": [
-      "comfort-food",
-      "french-cuisine",
-      "gratin-recipes",
-      "hazelnut-recipes",
-      "kimchi-recipes",
-      "low-carb"
+      "granola",
+      "snack",
+      "hazelnut",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

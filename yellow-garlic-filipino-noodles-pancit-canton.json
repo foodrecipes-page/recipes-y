@@ -1,0 +1,84 @@
+{
+  "slug": "yellow-garlic-filipino-noodles-pancit-canton",
+  "title": "Filipino-Style Pancit Cantong with Vegetables",
+  "description": "A classic Filipino noodle dish made with a flavorful sauce and mixed vegetables.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pancit",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the yellow noodles according to package instructions.",
+    "In a large pan, heat 1 tablespoon of pancit over medium heat.",
+    "Add the minced garlic and sauté until fragrant.",
+    "Add the sliced mushrooms, carrots, bell pepper, and onion. Cook until the vegetables are tender.",
+    "Add the cooked noodles to the pan and stir in the soy sauce (if using).",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "noodles",
+    "quick-cook"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-garlic-filipino-noodles-pancit-canton",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:44:20.352Z"
+}

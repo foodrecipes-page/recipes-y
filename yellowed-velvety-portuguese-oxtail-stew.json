@@ -1,0 +1,82 @@
+{
+  "slug": "yellowed-velvety-portuguese-oxtail-stew",
+  "title": "Braised Oxtail Stew",
+  "description": "A hearty, comforting stew that showcases the rich flavors of oxtail, slow-cooked in a rich broth.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat",
+    "comfort-food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "portuguese red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Season the oxtail with salt and black pepper.",
+    "Heat olive oil in a large Dutch oven over medium-high heat. Sear the oxtail until browned on all sides, about 5 minutes. Remove the oxtail from the pot and set aside.",
+    "Reduce the heat to medium and add the minced garlic to the pot. Cook, stirring occasionally, until the garlic is fragrant and lightly browned, about 5 minutes.",
+    "Add the yellow onion to the pot and cook, stirring occasionally, until it is softened and lightly browned, about 8 minutes.",
+    "Add the portuguese red wine to the pot and cook, stirring to scrape up any browned bits from the bottom of the pot, until the wine has reduced by half, about 5 minutes.",
+    "Add the stew to the pot and stir to combine. Bring the mixture to a simmer.",
+    "Return the oxtail to the pot and cover with a lid.",
+    "Transfer the pot to the oven and braise the oxtail for 2 1/2 to 3 hours, or until the meat is tender and falling off the bone.",
+    "Remove the pot from the oven and let it cool slightly. Serve the oxtail and sauce hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "beef",
+    "slow-cooker",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 15,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-velvety-portuguese-oxtail-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:54:26.338Z"
+}

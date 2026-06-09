@@ -1,0 +1,72 @@
+{
+  "slug": "yellow-yakimono-irish-cornmeal-grill",
+  "title": "Grilled Irish Corn Cakes",
+  "description": "A twist on traditional cornbread, these crispy cakes are perfect for a summer evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish cornmeal",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "Yellow corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": "preheated to medium heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the cornmeal, salt, and black pepper.",
+    "Add the egg and mix until the batter is smooth.",
+    "Add the corn kernels and mix until just combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 4-5 minutes, until the edges start to dry.",
+    "Flip and cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "corn",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-yakimono-irish-cornmeal-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:50:40.756Z"
+}

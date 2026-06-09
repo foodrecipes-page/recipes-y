@@ -490,15 +490,15 @@
   },
   {
     "slug": "yeasty-crunchy-indian-mirin-hon-idli",
-    "title": "Yeasty Crunchy Indian Mirin-Hon Idli",
+    "title": "Honey Glazed Indian Idli",
     "tags": [
-      "high-fiber",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "indian",
+      "honey-glazed",
+      "idli"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 332,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -10071,17 +10071,15 @@
   },
   {
     "slug": "yellowed-velvety-portuguese-oxtail-stew",
-    "title": "Yellowed Velvety Portuguese Oxtail Stew",
+    "title": "Braised Oxtail Stew",
     "tags": [
-      "comfort-food",
-      "leaf-wrap-steam",
-      "low-fat",
-      "oxtail-recipes",
-      "portuguese-cuisine",
-      "weeknight-dinners"
+      "brazilian-food",
+      "beef",
+      "slow-cooker",
+      "comfort-food"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {
@@ -12698,17 +12696,14 @@
   },
   {
     "slug": "yummy-fermented-green-saudi-arabian-lentils-dal",
-    "title": "yummy feremented green saudi-arabian lentil dal",
+    "title": "Saudi Arabian Lentil Stew",
     "tags": [
-      "comfort-food",
-      "fermented",
-      "high-fiber",
-      "one-pan",
-      "saudi-arabian",
-      "weeknight"
+      "saudi arabian",
+      "lentil stew",
+      "vegetarian"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 65,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

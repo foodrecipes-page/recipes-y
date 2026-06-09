@@ -6573,16 +6573,14 @@
   },
   {
     "slug": "yellow-yakimono-irish-cornmeal-grill",
-    "title": "Yellow Yakimono Irish Cornmeal Grill",
+    "title": "Grilled Irish Corn Cakes",
     "tags": [
-      "cornmeal-recipe",
-      "grilled-vegetarian",
-      "irish-cuisine",
-      "monsoon-dish",
-      "umami-flavor"
+      "grill",
+      "corn",
+      "summer"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 18,
     "shard": "y"
   },
   {
@@ -12934,17 +12932,15 @@
   },
   {
     "slug": "yummy-french-lettuce-casserole",
-    "title": "Yummy French Lettuce Casserole",
+    "title": "Classic French Casserole",
     "tags": [
-      "burgundy-inspired",
-      "chewy",
-      "citrusy",
-      "keto-friendly",
-      "low-carb",
-      "one-pot"
+      "comfort-food",
+      "french-cuisine",
+      "casserole",
+      "weeknight-dinner"
     ],
     "cuisine": "French",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

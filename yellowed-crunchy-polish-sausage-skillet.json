@@ -1,0 +1,73 @@
+{
+  "slug": "yellowed-crunchy-polish-sausage-skillet",
+  "title": "Polish Sausage Skillet",
+  "description": "A hearty, one-pan meal featuring Polish sausage, crispy potatoes, and crunchy onions.",
+  "cuisine": "European",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled, thinly sliced"
+    },
+    {
+      "name": "Skillet",
+      "amount": ".",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Heat the skillet over medium-high heat.",
+    "Add the sliced onion and cook until crispy, about 5 minutes.",
+    "Add the sliced potatoes and cook for 5 minutes.",
+    "Add the Polish sausage and cook until browned, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "sausage",
+    "skillet",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crunchy-polish-sausage-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:20:54.923Z"
+}

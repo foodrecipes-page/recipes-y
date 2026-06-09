@@ -1,0 +1,86 @@
+{
+  "slug": "yeasty-tender-american-cornbread-casserole",
+  "title": "Classic American Cornbread Casserole",
+  "description": "A hearty and comforting dish that combines the flavors of cornbread and casserole for a satisfying meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cornbread Mix",
+      "amount": "1 box (15.25 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Canned Creamed Corn",
+      "amount": "1 can (14.75 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "Cooked and drained"
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook ground beef in a large skillet over medium-high heat until browned, breaking into small pieces as it cooks.",
+    "Drain excess fat from the skillet and set the cooked beef aside.",
+    "In a large mixing bowl, combine the cornbread mix, sour cream, eggs, and shredded cheese.",
+    "Stir in the canned creamed corn and diced tomatoes.",
+    "Add the cooked ground beef to the bowl and stir until well combined.",
+    "Pour the mixture into a 9x13-inch baking dish.",
+    "Bake for 35-40 minutes, or until the casserole is golden brown and set.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "comfort-food",
+    "casserole",
+    "cornbread",
+    "dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 35,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-tender-american-cornbread-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:39:37.324Z"
+}

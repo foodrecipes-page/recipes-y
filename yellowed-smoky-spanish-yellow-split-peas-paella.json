@@ -1,0 +1,66 @@
+{
+  "slug": "yellowed-smoky-spanish-yellow-split-peas-paella",
+  "title": "Smoky Spanish Paella",
+  "description": "A hearty, smoky Spanish paella dish perfect for a cold evening.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yellow",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "smoky spanish",
+      "amount": "2 tablespoons",
+      "notes": "Smoked paprika"
+    },
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "paella",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large paella pan over medium-high heat.",
+    "Add the yellow peas and cook until they start to brown, about 3-4 minutes.",
+    "Add the yellow, smoky spanish, and split peas, and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the liquid has been absorbed and the peas are tender.",
+    "Add the paella and stir to combine.",
+    "Cook for an additional 2-3 minutes or until the paella is heated through.",
+    "Serve hot, garnished with lemon wedges and parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-smoky-spanish-yellow-split-peas-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:54:40.506Z"
+}

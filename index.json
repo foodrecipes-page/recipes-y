@@ -56,17 +56,15 @@
   },
   {
     "slug": "ycreamy-garlicky-samjang-wrap",
-    "title": "YCreamy Garlicky Samjang Wrap",
+    "title": "Garlicky Samjang Wrap",
     "tags": [
-      "british-dish",
-      "buddhist-temple-friendly",
-      "creamy",
-      "garlicky",
-      "post-workout",
-      "vessel-binchotan-grill"
+      "korean",
+      "wrap",
+      "snack",
+      "veggie"
     ],
-    "cuisine": "British-Inspired Asian Fusion",
-    "totalTimeMin": 20,
+    "cuisine": "Korean",
+    "totalTimeMin": 7,
     "shard": "y"
   },
   {
@@ -6422,16 +6420,15 @@
   },
   {
     "slug": "yellow-turmeric-greek-feta-saganaki",
-    "title": "Yellow Turmeric Greek Feta Saganaki",
+    "title": "Greek-Style Pan-Seared Saganaki with Feta",
     "tags": [
-      "crowd-pleaser",
-      "greek-cuisine",
-      "one-pot",
-      "umami-rich",
-      "vegetarian"
+      "greek",
+      "appetizer",
+      "cheese",
+      "saganaki"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 11,
     "shard": "y"
   },
   {
@@ -7400,17 +7397,16 @@
   },
   {
     "slug": "yellowed-crisp-australian-tofu-frittata",
-    "title": "Yellowed Crisp Australian Tofu Frittata",
+    "title": "Australian Frittata with Crisp Vegetables",
     "tags": [
-      "australian-cuisine",
-      "brunch-ideas",
-      "mason-jar-recipes",
-      "plant-based",
-      "tofu-recipes",
-      "vegan-friendly"
+      "australian",
+      "vegetarian",
+      "breakfast",
+      "frittata",
+      "tofu"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 55,
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

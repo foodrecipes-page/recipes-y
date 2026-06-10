@@ -1,0 +1,92 @@
+{
+  "slug": "yummy-crispy-polish-tofu-bowl",
+  "title": "Crispy Polish Tofu Bowl",
+  "description": "A delicious and easy-to-make dish that combines crispy tofu with polish flavors. Serve over a bowl with your favorite sides.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "yummy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crispy breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "polish spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": "for garnish"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into cubes and place on a plate.",
+    "In a shallow dish, mix together the flour, polish spices, and a pinch of salt and pepper.",
+    "Dip each tofu cube into the flour mixture, coating both sides evenly.",
+    "Dip the flour-coated tofu into the yummy sauce, making sure to coat all sides.",
+    "Roll the tofu in the crispy breadcrumbs to coat.",
+    "Heat about 1 inch of vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add the tofu to the skillet and fry until golden brown and crispy.",
+    "Remove the tofu from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the crispy tofu over a bowl with your favorite sides, garnished with carrot and onion slices.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "tofu",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-crispy-polish-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:47:41.427Z"
+}

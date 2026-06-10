@@ -4607,17 +4607,15 @@
   },
   {
     "slug": "yellow-pickled-peruvian-fromage-blanc-tiradito",
-    "title": "Yellow Pickled Peruvian Fromage Blanc Tiradito",
+    "title": "Peruvian Ceviche",
     "tags": [
-      "easy-recipes",
-      "flexitarian",
-      "healthy-eating",
-      "lunch-ideas",
-      "meal-prep",
-      "peruvian-food"
+      "peruvian",
+      "ceviche",
+      "fish",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -10991,14 +10989,14 @@
   },
   {
     "slug": "yolkless-german-egg-white-omelette-in-copper-mug",
-    "title": "Yolkless German Egg White Omelette in Copper-Mug",
+    "title": "Copper German Omelette",
     "tags": [
-      "energy-boosting",
-      "functional-cupboard",
-      "mug-cooking"
+      "breakfast",
+      "german",
+      "omelette"
     ],
     "cuisine": "German",
-    "totalTimeMin": 9,
+    "totalTimeMin": 10,
     "shard": "y"
   },
   {

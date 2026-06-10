@@ -1,0 +1,54 @@
+{
+  "slug": "yolkless-german-egg-white-omelette-in-copper-mug",
+  "title": "Copper German Omelette",
+  "description": "A German-style breakfast omelette with a touch of flair.",
+  "cuisine": "German",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "German egg",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "Copper mug",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Crack the German egg into a bowl and whisk it with a fork. Add a pinch of salt and pepper.",
+    "Heat a non-stick pan over medium heat. Add a small amount of oil to prevent the egg from sticking.",
+    "Pour the egg mixture into the pan and let it cook for 1-2 minutes, until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Continue cooking and folding the omelette until it's almost set, then use the spatula to shape it into a neat oval.",
+    "Slide the omelette onto a plate and serve immediately in the copper mug."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "german",
+    "omelette"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yolkless-german-egg-white-omelette-in-copper-mug",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:58:45.315Z"
+}

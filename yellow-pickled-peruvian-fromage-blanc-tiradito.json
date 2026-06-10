@@ -1,0 +1,78 @@
+{
+  "slug": "yellow-pickled-peruvian-fromage-blanc-tiradito",
+  "title": "Peruvian Ceviche",
+  "description": "A refreshing and zesty Peruvian ceviche dish made with fresh seafood and a tangy marinade.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "White fish fillets",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian yellow corn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pickled red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tiradito sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the fish into small pieces and place in a shallow dish.",
+    "In a separate bowl, mix together the yellow corn kernels, pickled red onion, tiradito sauce, cilantro, and lime juice.",
+    "Pour the marinade over the fish and mix well to coat.",
+    "Cover the dish with plastic wrap and refrigerate for at least 30 minutes to allow the fish to 'cook' in the marinade.",
+    "Just before serving, season with salt to taste.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-pickled-peruvian-fromage-blanc-tiradito",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:06:33.011Z"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "yellow-turmeric-greek-feta-saganaki",
+  "title": "Greek-Style Pan-Seared Saganaki with Feta",
+  "description": "A classic Greek dish featuring crispy pan-seared saganaki topped with crumbled feta cheese and a sprinkle of turmeric. Serve as a snack or appetizer.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Saganaki",
+      "amount": "1 block, about 1/2 inch thick"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon, chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a non-stick skillet over medium-high heat.",
+    "2. Add the saganaki and cook for 2-3 minutes on each side, until crispy and golden brown.",
+    "3. Remove the saganaki from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "4. Sprinkle the crumbled feta cheese over the saganaki.",
+    "5. Sprinkle the turmeric over the feta cheese.",
+    "6. Season with salt to taste.",
+    "7. Garnish with chopped parsley, if desired.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "appetizer",
+    "cheese",
+    "saganaki"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-turmeric-greek-feta-saganaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:48:42.275Z"
+}

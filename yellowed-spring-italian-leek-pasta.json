@@ -1,0 +1,70 @@
+{
+  "slug": "yellowed-spring-italian-leek-pasta",
+  "title": "Creamy Spring Pasta",
+  "description": "A light and flavorful spring pasta dish made with fresh leeks and a hint of Italian spices.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leek",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "spring",
+      "amount": "1 cup",
+      "notes": "fresh asparagus"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "italian",
+      "amount": "1 tsp",
+      "notes": "dried basil"
+    },
+    {
+      "name": "yellowed",
+      "amount": "1/4 cup",
+      "notes": "grated Parmesan cheese"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, sauté the leeks in a little olive oil until softened.",
+    "Add the asparagus to the skillet and cook for an additional 2-3 minutes.",
+    "In a small bowl, combine the Parmesan cheese and dried basil.",
+    "Add the pasta to the skillet and toss with the leek and asparagus mixture.",
+    "Stir in the Parmesan and basil mixture until well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spring",
+    "italian",
+    "pasta",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-spring-italian-leek-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:19:39.359Z"
+}

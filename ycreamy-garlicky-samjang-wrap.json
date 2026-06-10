@@ -1,0 +1,66 @@
+{
+  "slug": "ycreamy-garlicky-samjang-wrap",
+  "title": "Garlicky Samjang Wrap",
+  "description": "A spicy Korean-inspired wrap filled with garlicky sauce, samjang, and wrapped in a crispy yuba or tofu wrap.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlicky sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "samjang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "yuba or tofu wrap",
+      "amount": "1 piece",
+      "notes": "preferably crispy"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 slice",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 slice",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat garlicky sauce in a pan over medium heat.",
+    "Add samjang to the pan and stir until combined.",
+    "Warm the yuba or tofu wrap in the pan for about 30 seconds.",
+    "Assemble the wrap by spreading the garlicky samjang mixture on the wrap.",
+    "Add cucumber and carrot slices on top of the mixture.",
+    "Fold the wrap to enclose the filling.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "wrap",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ycreamy-garlicky-samjang-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:54:49.486Z"
+}

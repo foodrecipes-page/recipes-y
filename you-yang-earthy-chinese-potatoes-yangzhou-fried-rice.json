@@ -1,0 +1,72 @@
+{
+  "slug": "you-yang-earthy-chinese-potatoes-yangzhou-fried-rice",
+  "title": "Yangzhou Fried Rice",
+  "description": "A classic Chinese dish originating from Yangzhou, served with a combination of savory and sweet flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yangzhou Fried Rice",
+      "amount": "4 cups cooked",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/2 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium diced",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the diced potatoes and cook until they are tender, about 5 minutes.",
+    "Add the chopped scallions and cooked Yangzhou Fried Rice to the skillet.",
+    "Stir in the soy sauce and season with salt to taste.",
+    "Cook for an additional 2-3 minutes, until the flavors are well combined.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fried-rice",
+    "potato",
+    "yangzhou"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/you-yang-earthy-chinese-potatoes-yangzhou-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:43:22.016Z"
+}

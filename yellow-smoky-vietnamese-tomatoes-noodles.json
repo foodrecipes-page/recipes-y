@@ -1,0 +1,90 @@
+{
+  "slug": "yellow-smoky-vietnamese-tomatoes-noodles",
+  "title": "Smoky Vietnamese Noodle Soup",
+  "description": "A flavorful and spicy noodle soup inspired by Vietnamese cuisine, featuring smoky flavors and fresh tomatoes.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Tomatoes",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium heat.",
+    "Add the Vietnamese chili flakes and cook for 1 minute.",
+    "Add the vegetable broth, soy sauce, brown sugar, and rice vinegar. Bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add the yellow tomatoes and cook for an additional 5 minutes.",
+    "Cook the smoky noodles according to the package instructions. Drain and set aside.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Season with salt to taste.",
+    "Garnish with fresh basil and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "noodle-soup",
+    "vietnamese-cuisine",
+    "smoky-flavors",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-vietnamese-tomatoes-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:21:14.864Z"
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-crisp-australian-tofu-frittata",
+  "title": "Australian Frittata with Crisp Vegetables",
+  "description": "A hearty and flavorful frittata filled with crispy vegetables and savory tofu, inspired by Australian cuisine.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian tofu",
+      "amount": "1 block (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Crisp vegetables (bell peppers, onions, mushrooms)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yellowed (aged) cheddar cheese",
+      "amount": "1/2 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "6 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the crispy vegetables and cook until tender, about 5 minutes.",
+    "In a large bowl, whisk together eggs, salt, and pepper.",
+    "Add the cooked vegetables, tofu, and shredded cheese to the bowl. Stir to combine.",
+    "Pour the egg mixture into a greased 9-inch pie plate or skillet.",
+    "Bake for 25-30 minutes or until the eggs are set and the frittata is golden brown.",
+    "Sprinkle with parsley and serve hot.",
+    "Let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "breakfast",
+    "frittata",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crisp-australian-tofu-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:49:13.055Z"
+}

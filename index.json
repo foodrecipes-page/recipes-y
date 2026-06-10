@@ -11003,18 +11003,15 @@
   },
   {
     "slug": "you-yang-earthy-chinese-potatoes-yangzhou-fried-rice",
-    "title": "You-yang Earthy Chinese Potatoes Yangzhou Fried Rice",
+    "title": "Yangzhou Fried Rice",
     "tags": [
       "chinese",
-      "comfort-food",
-      "hearty",
-      "low-sodium",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "fried-rice",
+      "potato",
+      "yangzhou"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -12286,17 +12283,14 @@
   },
   {
     "slug": "yummy-crispy-polish-tofu-bowl",
-    "title": "Yummy Crispy Polish Tofu Bowl",
+    "title": "Crispy Polish Tofu Bowl",
     "tags": [
-      "crisp",
-      "gluten-free",
-      "one-pot",
-      "quick",
-      "vegan",
-      "weeknight"
+      "polish",
+      "tofu",
+      "veggie"
     ],
-    "cuisine": "Polish-inspired",
-    "totalTimeMin": 40,
+    "cuisine": "polish",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

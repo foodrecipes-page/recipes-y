@@ -685,18 +685,15 @@
   },
   {
     "slug": "yeasty-fluffy-adventurous-umami-filipino-bread-garlic-bread",
-    "title": "Garlic Bread",
+    "title": "Filipino Garlic Bread",
     "tags": [
-      "bread",
-      "breakfast",
       "filipino",
-      "garlic-lovers",
-      "one-pan",
+      "garlic bread",
       "umami",
-      "weeknight"
+      "snack"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "cuisine": "filipino",
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -2560,16 +2557,14 @@
   },
   {
     "slug": "yellow-crisp-chinese-goats-cheese-spring-rolls",
-    "title": "Yellow Crisp Chinese Goats Cheese Spring Rolls",
+    "title": "Crispy Spring Rolls with Goats Cheese",
     "tags": [
-      "asian-inspired",
-      "cheesy",
-      "comfort-food",
-      "deep-fried",
-      "snack-time"
+      "crispy",
+      "spring-rolls",
+      "goats-cheese"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 32,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -12617,17 +12612,16 @@
   },
   {
     "slug": "yummy-falafel-squash-falafel",
-    "title": "Yummy Falafel Squash Falafel",
+    "title": "Squash and Falafel Bowl",
     "tags": [
-      "crisp",
-      "crowd-pleaser",
-      "low-calorie-friendly",
-      "middle-eastern",
-      "one-pan",
-      "winey"
+      "falafel",
+      "squash",
+      "vegan",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

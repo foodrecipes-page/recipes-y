@@ -1,0 +1,71 @@
+{
+  "slug": "yellow-smoky-british-sausages-bangers-and-mash",
+  "title": "Classic British Sausage Mash",
+  "description": "A hearty, comforting dish reminiscent of traditional British cuisine, featuring juicy sausages and creamy mashed potatoes.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British Sausages",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Yellow Onions",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Mash Potatoes",
+      "amount": "3-4",
+      "notes": null
+    },
+    {
+      "name": "Smoky Pepper",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "And Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Bring a large pot of salted water to a boil and boil the mash potatoes until tender.",
+    "While the potatoes are cooking, heat a tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the British sausages and cook until browned on all sides.",
+    "Remove the sausages from the skillet and set aside.",
+    "Reduce the heat to medium and add the remaining butter to the skillet.",
+    "Add the yellow onions and cook until softened.",
+    "Add the smoky pepper, if using, and cook for an additional minute.",
+    "Return the sausages to the skillet and simmer until cooked through.",
+    "Drain the cooked mash potatoes and mash with butter until smooth.",
+    "Serve the sausages and onion mixture over the mashed potatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "sausages",
+    "mashed-potatoes",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 42,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-british-sausages-bangers-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:34:36.904Z"
+}

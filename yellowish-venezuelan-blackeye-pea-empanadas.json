@@ -1,0 +1,78 @@
+{
+  "slug": "yellowish-venezuelan-blackeye-pea-empanadas",
+  "title": "Empanada Fritters with Blackeye Pea Filling",
+  "description": "A Venezuelan twist on empanadas, filled with a flavorful blackeye pea mixture and served with a side of crispy empanada fritters.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package (homemade or store-bought)"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup, for frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1/2 cup of oil in a large skillet over medium heat.",
+    "Add the onion, bell pepper, and garlic and cook until softened, about 5 minutes.",
+    "Add the blackeye peas, cumin, and paprika. Cook for an additional 2-3 minutes.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the blackeye pea mixture onto one half of each dough circle.",
+    "Fold the dough in half to form a half-moon shape and press the edges to seal.",
+    "Heat the remaining 1/2 cup of oil in a large skillet over medium-high heat.",
+    "Fry the empanada fritters until golden brown, about 2-3 minutes per side.",
+    "Serve hot with a side of the remaining blackeye pea mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "snack",
+    "empanadas",
+    "blackeye-peas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-venezuelan-blackeye-pea-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:29:48.926Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "yearning-moroccan-chicken-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A traditional Moroccan stew made with chicken, aromatic spices, and dried fruits. This recipe is perfect for a cold winter evening.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken thighs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "yearning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 cups, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine or Dutch oven over medium-high heat.",
+    "Add the onion and cook until it's lightly browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken and cook until it's browned on all sides, about 5-7 minutes.",
+    "Add the yearning, cumin, coriander, paprika, salt, and pepper. Cook for 1 minute.",
+    "Add the tagine and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30-40 minutes, until the chicken is cooked through and the sauce has thickened.",
+    "Serve the chicken and sauce over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yearning-moroccan-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:29:16.238Z"
+}

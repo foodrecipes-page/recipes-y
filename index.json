@@ -5817,17 +5817,15 @@
   },
   {
     "slug": "yellow-spicy-egyptian-shrimp-kebabs",
-    "title": "Yellow Spicy Egyptian Shrimp Kebabs",
+    "title": "Spicy Egyptian Shrimp Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "kebabs",
+      "shrimp",
+      "egyptian-cuisine",
+      "spicy"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -11857,17 +11855,15 @@
   },
   {
     "slug": "yummy-canadian-maple-wrap",
-    "title": "Yummy Canadian Maple Wrap",
+    "title": "Maple Canadian Wrap",
     "tags": [
-      "breakfast",
-      "gluten-free",
+      "canadian",
       "maple",
-      "quick",
-      "sugar-free",
-      "wrap"
+      "wrap",
+      "snack"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 10,
     "shard": "y"
   },
   {

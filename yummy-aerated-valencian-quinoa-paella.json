@@ -1,0 +1,84 @@
+{
+  "slug": "yummy-aerated-valencian-quinoa-paella",
+  "title": "Classic Valencian Paella",
+  "description": "A traditional Spanish dish originating from the Valencia region, made with saffron-infused rice, succulent seafood, and savory chicken.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Valencian rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Aerated chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Yummy shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Paella",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the garlic and onion and sauté until softened.",
+    "Add the shrimp and cook until pink.",
+    "Add the tomato and cook for 2-3 minutes.",
+    "Add the Valencian rice and stir to coat with oil.",
+    "Add the quinoa (if using), aerated chicken broth, and paella.",
+    "Bring to a boil, then reduce heat to low and simmer for 20-25 minutes.",
+    "Stir in the saffron and cook for an additional 2-3 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "seafood",
+    "chicken",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-aerated-valencian-quinoa-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:53:40.965Z"
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "yellow-spicy-egyptian-shrimp-kebabs",
+  "title": "Spicy Egyptian Shrimp Kebabs",
+  "description": "A flavorful and spicy twist on traditional kebabs, featuring succulent shrimp and a blend of Egyptian spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Yellow onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Spicy peppers",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "2 tablespoons",
+      "notes": "a blend of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Egyptian spices, olive oil, salt, and pepper.",
+    "Add sliced onions and peppers to the bowl and toss to coat.",
+    "Thread shrimp onto skewers, leaving a small space between each piece.",
+    "Add coated onions and peppers to the skewers.",
+    "Brush kebabs with remaining spice mixture.",
+    "Grill kebabs for 8-10 minutes, flipping halfway through.",
+    "Serve hot with lemon juice squeezed over the top.",
+    "Enjoy as a light and flavorful lunch!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "shrimp",
+    "egyptian-cuisine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-egyptian-shrimp-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:58:47.288Z"
+}

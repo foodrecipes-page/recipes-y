@@ -1,0 +1,88 @@
+{
+  "slug": "yellowed-yogic-indian-squid-gulab-jamun",
+  "title": "Squid Gulab Jamun Curry",
+  "description": "A unique fusion of Indian and seafood cuisines, featuring tender squid in a sweet and spicy gulab jamun-inspired curry sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "500g",
+      "notes": " Fresh or frozen"
+    },
+    {
+      "name": "Gulab",
+      "amount": "2 tbsp",
+      "notes": "Gulab syrup"
+    },
+    {
+      "name": "Jamun",
+      "amount": "200g",
+      "notes": "Molasses-like sweetener"
+    },
+    {
+      "name": "Indian Yellow Chilies",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Yogic Yogurt",
+      "amount": "100g",
+      "notes": "Plain, full-fat"
+    },
+    {
+      "name": "Indian Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Garam masala, cumin, coriander"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add diced chilies and cook for 1 minute.",
+    "Add squid and cook until browned, 3-4 minutes.",
+    "Add spice blend and cook for 1 minute.",
+    "Add gulab syrup and jamun, stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in yogurt to create a creamy sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve squid in the curry sauce over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "seafood",
+    "curry",
+    "gulab-jamun"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-yogic-indian-squid-gulab-jamun",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:06:41.060Z"
+}

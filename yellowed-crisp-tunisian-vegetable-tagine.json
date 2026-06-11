@@ -1,0 +1,88 @@
+{
+  "slug": "yellowed-crisp-tunisian-vegetable-tagine",
+  "title": "Crisp Tunisian Vegetable Tagine",
+  "description": "A flavorful and aromatic vegetable tagine dish from Tunisia, made with crisp vegetables and a hint of spice.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellowed Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Crisp Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Red Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay tagine or large Dutch oven over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the chopped carrot and continue to sauté for another 5 minutes.",
+    "Add the vegetable broth, tagine spice blend, and crushed red pepper.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve over couscous or with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crisp-tunisian-vegetable-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:26:58.662Z"
+}

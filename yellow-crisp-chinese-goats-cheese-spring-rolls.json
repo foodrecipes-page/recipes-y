@@ -1,0 +1,88 @@
+{
+  "slug": "yellow-crisp-chinese-goats-cheese-spring-rolls",
+  "title": "Crispy Spring Rolls with Goats Cheese",
+  "description": "Delicate spring rolls filled with creamy goats cheese, served with a sweet chili sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring rolls",
+      "amount": "10 pieces",
+      "notes": null
+    },
+    {
+      "name": "goats cheese",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "yellow vegetable oil",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chinese chili sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "spring onion",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan or a deep fryer to 180°C.",
+    "Prepare the spring roll filling by mixing the goats cheese, cucumber, carrot, spring onion, soy sauce, and sesame oil in a bowl.",
+    "Place a tablespoon of the filling in the centre of a spring roll wrapper.",
+    "Brush the edges of the wrapper with a little water, then fold the bottom half over the filling, followed by the sides, and finally the top half to form a triangle.",
+    "Repeat with the remaining wrappers and filling.",
+    "When the oil is hot, add a few spring rolls to the pan (do not overcrowd).",
+    "Fry for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Remove the spring rolls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve hot with a sweet chili sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "spring-rolls",
+    "goats-cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crisp-chinese-goats-cheese-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:55:36.235Z"
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "yummy-falafel-squash-falafel",
+  "title": "Squash and Falafel Bowl",
+  "description": "A flavorful bowl filled with roasted squash and crispy falafel, perfect for a healthy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squash",
+      "amount": "1 medium-sized squash, peeled and cubed",
+      "notes": ""
+    },
+    {
+      "name": "Falafel",
+      "amount": "2 cups store-bought or homemade falafel",
+      "notes": ""
+    },
+    {
+      "name": "Yummy",
+      "amount": "2 tbsp olive oil",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the squash cubes on a baking sheet, drizzle with oil, and season with salt and pepper. Roast in the oven for 20-25 minutes, or until tender.",
+    "While the squash is roasting, cook the falafel according to package instructions.",
+    "To assemble the bowls, divide the roasted squash among four bowls, then top each bowl with falafel, chopped parsley, and a drizzle of oil.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "falafel",
+    "squash",
+    "vegan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-falafel-squash-falafel",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:42:49.529Z"
+}

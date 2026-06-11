@@ -1,0 +1,63 @@
+{
+  "slug": "yeasty-fluffy-adventurous-umami-filipino-bread-garlic-bread",
+  "title": "Filipino Garlic Bread",
+  "description": "A Filipino twist on the classic garlic bread, with a savory umami flavor and a crunchy crust.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeasty bread",
+      "amount": "1 loaf",
+      "notes": "preferably a crusty Filipino bread"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": "use a garlic press for easy mincing"
+    },
+    {
+      "name": "filipino umami seasoning",
+      "amount": "1 tsp",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "fluffy butter",
+      "amount": "2 tbsp",
+      "notes": "softened to room temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the bread into 1-inch thick slices.",
+    "In a small bowl, mix together the minced garlic and filipino umami seasoning.",
+    "Spread the garlic and seasoning mixture evenly onto each bread slice.",
+    "Dot the top of each bread slice with softened fluffy butter.",
+    "Place the bread slices on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the bread is toasted and crispy.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "garlic bread",
+    "umami",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-fluffy-adventurous-umami-filipino-bread-garlic-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:42:03.663Z"
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "yellow-smoky-italian-vegetable-pasta",
+  "title": "Smoky Vegetable Pasta",
+  "description": "A flavorful pasta dish made with smoky vegetables and a hint of Italian seasonings.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "1 pound",
+      "notes": "yellow pasta"
+    },
+    {
+      "name": "Yellow Bell Pepper",
+      "amount": "1 medium",
+      "notes": "smoky"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "Heat olive oil in a large skillet over medium heat. Add onion and garlic and cook until softened.",
+    "Add yellow bell pepper to the skillet and cook until tender.",
+    "Stir in Italian seasoning and cook for 1 minute.",
+    "Add cooked pasta to the skillet and toss to combine with the vegetable mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "vegetarian",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-italian-vegetable-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:57:38.189Z"
+}

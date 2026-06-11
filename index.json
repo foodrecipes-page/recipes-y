@@ -83,17 +83,15 @@
   },
   {
     "slug": "yearning-moroccan-chicken-tagine",
-    "title": "Yearning Moroccan Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "kosher",
       "moroccan",
-      "slate-tile",
-      "slow-cook"
+      "chicken",
+      "stew",
+      "tagine"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 65,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -111,16 +109,13 @@
   },
   {
     "slug": "yeast-infused-smoky-tunisian-mackerel-tagine",
-    "title": "Yeast-infused Smoky Tunisian Mackerel Tagine",
+    "title": "Smoky Mackerel Tagine",
     "tags": [
-      "high-protein",
-      "one-pot",
-      "pescatarian",
-      "seafood",
       "smoky",
-      "spicy"
+      "mackerel",
+      "tunisian"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "y"
   },
@@ -7561,16 +7556,14 @@
   },
   {
     "slug": "yellowed-crisp-tunisian-vegetable-tagine",
-    "title": "Yellowed Crisp Tunisian Vegetable Tagine",
+    "title": "Crisp Tunisian Vegetable Tagine",
     "tags": [
-      "flexitarian",
-      "one-pot",
-      "tunisian",
       "vegetarian",
-      "weeknight"
+      "north-african",
+      "stew"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -10122,17 +10115,15 @@
   },
   {
     "slug": "yellowed-yogic-indian-squid-gulab-jamun",
-    "title": "Yellowed Yogic Indian Squid Gulab Jamun",
+    "title": "Squid Gulab Jamun Curry",
     "tags": [
-      "ayurvedic-friendly",
-      "grilled",
-      "gulab-jamun",
-      "indian-inspired",
+      "indian-cuisine",
       "seafood",
-      "tajine-clay"
+      "curry",
+      "gulab-jamun"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

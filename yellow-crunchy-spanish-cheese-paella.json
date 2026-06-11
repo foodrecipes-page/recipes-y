@@ -1,0 +1,70 @@
+{
+  "slug": "yellow-crunchy-spanish-cheese-paella",
+  "title": "Spanish Paella",
+  "description": "A classic Spanish dish originating from the Valencia region, paella is a savory rice-based meal often made with seafood and meat.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish saffron rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy artichokes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Paella seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "Manchego or Cheddar work well"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add the onion and cook until translucent.",
+    "Add the artichokes and cook for 2-3 minutes.",
+    "Add the paella seasoning and stir for 1 minute.",
+    "Add the Spanish saffron rice and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Serve hot, topped with cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "rice",
+    "seafood-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crunchy-spanish-cheese-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:15:55.228Z"
+}

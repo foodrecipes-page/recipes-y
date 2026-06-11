@@ -1,0 +1,70 @@
+{
+  "slug": "yummy-canadian-maple-wrap",
+  "title": "Maple Canadian Wrap",
+  "description": "A sweet and savory wrap filled with the flavors of Canada. This recipe is perfect for a quick snack or light meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Canadian wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Yummy hummus",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle to medium heat.",
+    "Lay the Canadian wrap flat and spread 2 tbsp of yummy hummus down the center.",
+    "Add 1/2 cup of shredded lettuce, 1 cup of sliced tomatoes, and 1/2 cup of sliced cucumber on top of the hummus.",
+    "Drizzle 2 tbsp of maple syrup over the vegetables.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Cook the wrap in the pan for 2-3 minutes on each side, until it's crispy and golden brown.",
+    "Cut the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "maple",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-canadian-maple-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:44:35.967Z"
+}

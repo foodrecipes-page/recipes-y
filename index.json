@@ -2896,16 +2896,15 @@
   },
   {
     "slug": "yellow-crunchy-spanish-cheese-paella",
-    "title": "Yellow Crunchy Spanish Cheese Paella",
+    "title": "Spanish Paella",
     "tags": [
-      "cheese-lover",
-      "date-night",
-      "one-pan",
-      "spanish-cuisine",
-      "weeknight-dinner"
+      "spanish",
+      "paella",
+      "rice",
+      "seafood-free"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -3574,16 +3573,15 @@
   },
   {
     "slug": "yellow-garlic-spanish-chicken-paella",
-    "title": "Yellow Garlic Spanish Chicken Paella",
+    "title": "Spanish Chicken Paella",
     "tags": [
-      "garlic-lovers",
-      "jain-friendly",
-      "one-pan",
-      "romantic-dinner",
-      "spanish-cuisine"
+      "spanish",
+      "chicken",
+      "paella",
+      "rice"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -5188,16 +5186,15 @@
   },
   {
     "slug": "yellow-smoky-british-sausages-bangers-and-mash",
-    "title": "Yellow Smoky British Sausages Bangers And Mash",
+    "title": "Classic British Sausage Mash",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "grilled-meats",
-      "homemade-meringues",
-      "smoky-flavors"
+      "british",
+      "sausages",
+      "mashed-potatoes",
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

@@ -11504,16 +11504,16 @@
   },
   {
     "slug": "yummy-aerated-valencian-quinoa-paella",
-    "title": "Yummy Aerated Valencian Quinoa Paella",
+    "title": "Classic Valencian Paella",
     "tags": [
-      "aerated",
-      "low-glycemic",
-      "quinoa",
+      "spanish",
+      "paella",
       "seafood",
-      "valencia"
+      "chicken",
+      "rice"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -12350,19 +12350,15 @@
   },
   {
     "slug": "yummy-crumbly-greek-sesame-seed-oil-pilaf",
-    "title": "yummy crumbly greek sesame seed oil pilaf",
+    "title": "Greek Pilaf with Sesame Seeds",
     "tags": [
-      "breakfast",
-      "easy",
       "greek",
-      "low-carb",
-      "lunch",
-      "oil-based",
-      "one-pan",
-      "quick"
+      "pilaf",
+      "sesame-seeds",
+      "side-dish"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 20,
+    "cuisine": "Greek",
+    "totalTimeMin": 10,
     "shard": "y"
   },
   {

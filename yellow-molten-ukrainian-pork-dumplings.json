@@ -1,0 +1,88 @@
+{
+  "slug": "yellow-molten-ukrainian-pork-dumplings",
+  "title": "Ukrainian Pork Dumplings with Yellow Sauce",
+  "description": "A hearty Ukrainian dish made with pork dumplings in a tangy yellow sauce. Rich in flavor and texture, this recipe is perfect for a cozy dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "finely ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "yellow mustard seeds",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "for sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for dumpling dough"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, salt, and black pepper. Mix well.",
+    "To make the dumpling dough, combine flour, water, and eggs in a separate mixing bowl. Knead the dough until smooth.",
+    "Divide the dough into small pieces and roll out each piece into a thin circle.",
+    "Place a tablespoon of the pork mixture in the center of each dough circle and fold the dough over to form a dumpling.",
+    "In a large pot of boiling water, cook the dumplings for 10-15 minutes or until they float to the surface.",
+    "In a separate saucepan, combine yellow mustard seeds, white vinegar, and sour cream. Bring to a boil and then reduce heat to a simmer.",
+    "Serve the cooked dumplings in the tangy yellow sauce.",
+    "Garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pork",
+    "dumplings",
+    "yellow-sauce"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-molten-ukrainian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:25:22.601Z"
+}

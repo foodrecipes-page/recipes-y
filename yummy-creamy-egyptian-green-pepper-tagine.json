@@ -1,0 +1,75 @@
+{
+  "slug": "yummy-creamy-egyptian-green-pepper-tagine",
+  "title": "Egyptian Tagine Chicken",
+  "description": "A flavorful and aromatic dish from Egyptian cuisine, featuring tender chicken and a rich tagine sauce.",
+  "cuisine": "egyptian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "green pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "yummy spices (cumin, coriander, cinnamon)",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "tagine sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "egyptian yogurt",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "green olives",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add more oil if necessary, then sauté the green pepper until tender, about 3-4 minutes.",
+    "Add the yummy spices and cook for 1 minute.",
+    "Add the tagine sauce and stir to combine.",
+    "Return the chicken to the pot and simmer, covered, until the chicken is cooked through, about 20-25 minutes.",
+    "Stir in the egyptian yogurt and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green olives."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "egyptian",
+    "tagine",
+    "lamb-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-creamy-egyptian-green-pepper-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:59:43.649Z"
+}

@@ -379,15 +379,14 @@
   },
   {
     "slug": "yeasty-crisp-tunisian-rice-pastry",
-    "title": "Yeasty, Crisp Tunisian Rice Pastry (Ghriba)",
+    "title": "Tunisian Pastry Bites",
     "tags": [
-      "breakfast",
-      "high-carb",
-      "tunisian",
-      "weeknight"
+      "snack",
+      "dessert",
+      "north-african"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

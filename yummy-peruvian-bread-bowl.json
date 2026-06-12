@@ -1,0 +1,53 @@
+{
+  "slug": "yummy-peruvian-bread-bowl",
+  "title": "Peruvian-Style Bread Bowl",
+  "description": "A twist on traditional bread bowls, inspired by Peruvian flavors.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 large round bread loaf",
+      "notes": "preferably crusty"
+    },
+    {
+      "name": "yummy",
+      "amount": "to taste",
+      "notes": "optional (e.g. cheese, meat, veggies)"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1 large ceramic bowl",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Slice the bread loaf in half lengthwise and hollow out the center to create a bowl.",
+    "3. Place the bread bowl on a baking sheet and toast in the oven for 10-12 minutes, or until lightly browned.",
+    "4. Remove the bread bowl from the oven and let cool for a few minutes.",
+    "5. Fill the bread bowl with your choice of yummy ingredients.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "snack",
+    "bread-bowl"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-peruvian-bread-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:15:25.310Z"
+}

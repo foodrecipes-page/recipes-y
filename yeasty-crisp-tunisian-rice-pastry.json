@@ -1,0 +1,79 @@
+{
+  "slug": "yeasty-crisp-tunisian-rice-pastry",
+  "title": "Tunisian Pastry Bites",
+  "description": "A delicious and flaky pastry filled with a crunchy Tunisian-style filling, perfect for a snack or dessert.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pastry",
+      "amount": "1 package (8-10 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian Spice Mix",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crisp Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out pastry sheets and cut into 1-inch squares.",
+    "Mix Tunisian Spice Mix, sugar, and water in a small bowl.",
+    "Sprinkle crisp rice evenly onto one half of each pastry square.",
+    "Dollop a pinch of yeast and salt onto the rice.",
+    "Fold the other half of the pastry square over the filling and press edges to seal.",
+    "Place the pastry bites on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 24,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "dessert",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-crisp-tunisian-rice-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:35:15.017Z"
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "yellow-spicy-egyptian-lamb-tagine",
+  "title": "Egyptian Lamb Tagine",
+  "description": "A traditional North African stew made with tender lamb, aromatic spices and dried fruits, slow-cooked to perfection in a clay pot.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "pork-free",
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder or neck",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "yellow onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "egyptian spices (cumin, coriander, cinnamon, ginger)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tagine or clay pot",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "dates",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1.5 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt and black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the tagine or clay pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the lamb and cook until browned on all sides, about 5-7 minutes.",
+    "Add the spices, dates, preserved lemon, water, salt and pepper.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender and the sauce is thickened.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "egyptian-cuisine",
+    "slow-cooked",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-egyptian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:35:35.606Z"
+}

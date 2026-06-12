@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-molten-german-potato-hash",
+  "title": "German Hash Browns with Potato and German Sausage",
+  "description": "A hearty German-inspired breakfast dish featuring crispy hash browns and savory sausage.",
+  "cuisine": "European",
+  "diet": [
+    "gluten-free",
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 large potato",
+      "amount": "1 large",
+      "notes": "Peel the potato and grate it."
+    },
+    {
+      "name": "1 german sausage",
+      "amount": ".75 lbs",
+      "notes": "Slice the sausage into 1/2-inch thick pieces."
+    },
+    {
+      "name": "2 tablespoons hash",
+      "amount": "2 tbsp",
+      "notes": "Use a flavored hash like paprika or garlic."
+    },
+    {
+      "name": "2 tablespoons yellowed butter",
+      "amount": "2 tbsp",
+      "notes": "Use a flavored butter like garlic or herbs."
+    },
+    {
+      "name": "1 egg",
+      "amount": "1",
+      "notes": "Beaten eggs add moisture to the hash browns."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season the hash browns and sausage to taste."
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Peel and grate the potato, then squeeze out excess moisture.",
+    "3. In a large bowl, combine the grated potato, beaten egg, salt, and pepper. Mix well to combine.",
+    "4. Heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "5. Add the potato mixture to the skillet and press down to form a flat layer.",
+    "6. Cook for 4-5 minutes, or until the bottom is golden brown.",
+    "7. Flip the hash browns over and cook for an additional 4-5 minutes, or until the other side is golden brown.",
+    "8. Meanwhile, cook the sausage in a separate skillet over medium-high heat, until browned and cooked through.",
+    "9. Serve the hash browns with the cooked sausage on top.",
+    "10. Sprinkle with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "german",
+    "sausage",
+    "hash-browns"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-molten-german-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:03:06.000Z"
+}

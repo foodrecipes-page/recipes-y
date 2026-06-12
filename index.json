@@ -3849,17 +3849,15 @@
   },
   {
     "slug": "yellow-gooey-australian-shrimp-skewers",
-    "title": "Yellow Gooey Australian Shrimp Skewers",
+    "title": "Shrimp Skewers with Australian Glaze",
     "tags": [
       "australian",
-      "high-protein",
-      "nutty",
-      "one-pan",
-      "shrimp",
-      "weeknight"
+      "grill",
+      " seafood",
+      "quick-cooking"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 22,
+    "cuisine": "australian",
+    "totalTimeMin": 21,
     "shard": "y"
   },
   {
@@ -5779,17 +5777,15 @@
   },
   {
     "slug": "yellow-spicy-egyptian-lamb-tagine",
-    "title": "Yellow Spicy Egyptian Lamb Tagine",
+    "title": "Egyptian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-based",
-      "north-african",
-      "one-pot",
+      "lamb",
+      "egyptian-cuisine",
       "slow-cooked",
-      "spicy"
+      "stew"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 165,
     "shard": "y"
   },
   {

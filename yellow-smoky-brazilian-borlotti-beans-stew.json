@@ -1,0 +1,95 @@
+{
+  "slug": "yellow-smoky-brazilian-borlotti-beans-stew",
+  "title": "Brazilian Borlotti Bean Stew",
+  "description": "A hearty and flavorful stew inspired by the cuisine of Brazil, made with borlotti beans and smoky flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 cup, dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoky sausage",
+      "amount": "1 lb",
+      "notes": " sliced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup, cooked",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add sausage and cook until browned, breaking up with a spoon as needed.",
+    "Add onion and garlic and cook until softened.",
+    "Stir in chili powder, salt, and pepper.",
+    "Add stew, tomatoes, and beans, and bring to a boil.",
+    "Reduce heat to low and simmer for at least 30 minutes.",
+    "Taste and adjust seasoning.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-free",
+    "gluten-free",
+    "lactose-free",
+    "low-carb",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-brazilian-borlotti-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:41:34.818Z"
+}

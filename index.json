@@ -3390,17 +3390,15 @@
   },
   {
     "slug": "yellow-fluffy-jamaican-yam-flatbread",
-    "title": "Yellow Fluffy Jamaican Yam Flatbread",
+    "title": "Jamaican Yam Flatbread",
     "tags": [
-      "comfort-food",
+      "snack",
       "flatbread",
-      "jamaican-cuisine",
-      "long-fermentation",
-      "vegetarian-friendly",
-      "yam-based"
+      "jamaican",
+      "yam"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -5154,17 +5152,16 @@
   },
   {
     "slug": "yellow-smoky-brazilian-borlotti-beans-stew",
-    "title": "Yellow Smoky Brazilian Borlotti Beans Stew",
+    "title": "Brazilian Borlotti Bean Stew",
     "tags": [
+      "beef-free",
       "gluten-free",
-      "high-protein",
-      "one-pan",
-      "smoky",
-      "vegetarian",
-      "weeknight"
+      "lactose-free",
+      "low-carb",
+      "paleo"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 65,
     "shard": "y"
   },
   {

@@ -1,0 +1,67 @@
+{
+  "slug": "yellow-gooey-australian-shrimp-skewers",
+  "title": "Shrimp Skewers with Australian Glaze",
+  "description": "A delicious and easy-to-make shrimp skewers recipe with a sweet and sticky Australian glaze. Perfect for a quick dinner or outdoor BBQ.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "yellow",
+      "amount": "1/4 cup",
+      "notes": "Australian honey"
+    },
+    {
+      "name": "gooey",
+      "amount": "2 tablespoons",
+      "notes": "Australian honey"
+    },
+    {
+      "name": "australian",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp onto skewers, leaving a little space between each shrimp.",
+    "In a small bowl, whisk together Australian honey, olive oil, and salt.",
+    "Brush the glaze onto both sides of the shrimp.",
+    "Grill the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "Serve hot with additional glaze on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "grill",
+    " seafood",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-gooey-australian-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:43:49.230Z"
+}

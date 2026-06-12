@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-fluffy-jamaican-yam-flatbread",
+  "title": "Jamaican Yam Flatbread",
+  "description": "A delicious flatbread topped with a flavorful yam mixture, inspired by Jamaican cuisine. This dish is perfect for a snack or light meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellow flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Yam",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the flatbread into desired shapes.",
+    "In a pan, heat the coconut oil over medium heat.",
+    "Add the diced yam and cook for 5-7 minutes, or until tender.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the Jamaican seasoning, lime juice, and chopped cilantro.",
+    "Brush the flatbread with a little coconut oil and top with the yam mixture.",
+    "Bake in the preheated oven for 10-12 minutes, or until crispy.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "flatbread",
+    "jamaican",
+    "yam"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-fluffy-jamaican-yam-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:46:34.734Z"
+}

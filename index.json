@@ -13905,16 +13905,14 @@
   },
   {
     "slug": "yummy-peruvian-bread-bowl",
-    "title": "Yummy Peruvian Bread Bowl",
+    "title": "Peruvian-Style Bread Bowl",
     "tags": [
-      "buddhist-friendly",
-      "gluten-yes",
-      "hangover-cure",
-      "quick",
-      "vegan"
+      "peruvian",
+      "snack",
+      "bread-bowl"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

@@ -4364,17 +4364,15 @@
   },
   {
     "slug": "yellow-molten-ukrainian-pork-dumplings",
-    "title": "Yellow Molten Ukrainian Pork Dumplings",
+    "title": "Ukrainian Pork Dumplings with Yellow Sauce",
     "tags": [
-      "comfort-food",
-      "gochujang-recipes",
-      "midnight-cravings",
-      "pork-dumplings",
-      "sugar-free",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "pork",
+      "dumplings",
+      "yellow-sauce"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {
@@ -12104,17 +12102,15 @@
   },
   {
     "slug": "yummy-creamy-egyptian-green-pepper-tagine",
-    "title": "Yummy Creamy Egyptian Green Pepper Tagine",
+    "title": "Egyptian Tagine Chicken",
     "tags": [
-      "coconut-cream",
-      "jain-friendly",
-      "north-african",
-      "one-pot",
-      "romantic-dinner",
-      "vegetarian"
+      "chicken",
+      "egyptian",
+      "tagine",
+      "lamb-free"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "cuisine": "egyptian",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

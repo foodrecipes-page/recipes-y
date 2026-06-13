@@ -1,0 +1,71 @@
+{
+  "slug": "yellowed-german-cheddar-casserole",
+  "title": "German Casserole",
+  "description": "A hearty German-inspired casserole made with yellowed potatoes, cheddar cheese, and a hint of savory flavors.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellowed potatoes",
+      "amount": "3 large",
+      "notes": "Peel and thinly slice the potatoes"
+    },
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "Slice the sausage into 1-inch pieces"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Use a combination of cheddar and mozzarella for extra flavor"
+    },
+    {
+      "name": "Casserole dish",
+      "amount": "1",
+      "notes": "A 9x13 inch baking dish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted butter for greasing the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease the casserole dish with melted butter.",
+    "Thinly slice the yellowed potatoes and layer them in the dish.",
+    "Add sliced German sausage on top of the potatoes.",
+    "Sprinkle shredded cheddar cheese over the sausage.",
+    "Season with salt and pepper to taste.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-german-cheddar-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:08:22.446Z"
+}

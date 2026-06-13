@@ -1,0 +1,72 @@
+{
+  "slug": "yeasty-creamy-kenyan-trout-gratin",
+  "title": "Kenyan Trout Gratin",
+  "description": "A flavorful and aromatic trout dish inspired by Kenyan cuisine, topped with a creamy gratin.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout",
+      "amount": "4 fillets",
+      "notes": "Fresh trout fillets, skin removed"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1 packet active dry yeast",
+      "notes": "For the homemade bread"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 1/2 cups grated cheddar cheese",
+      "notes": "For the gratin topping"
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 tbsp Kenyan curry powder",
+      "notes": "For the fish seasoning"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Season the trout fillets with salt, pepper, and Kenyan curry powder.",
+    "3. In a large skillet, heat a small amount of oil over medium heat. Cook the trout fillets for 2-3 minutes per side, until cooked through. Transfer the fish to a baking dish.",
+    "4. In a small bowl, mix the grated cheddar cheese and yeast (from the homemade bread packet).",
+    "5. Sprinkle the cheese mixture evenly over the cooked trout fillets.",
+    "6. Bake the gratin in the preheated oven for 10-12 minutes, until the cheese is golden brown and bubbly.",
+    "7. Serve the Kenyan trout gratin hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fish",
+    "gratin",
+    "trout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-creamy-kenyan-trout-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:13:32.253Z"
+}

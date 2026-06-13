@@ -1,0 +1,96 @@
+{
+  "slug": "yellowed-malaysian-almond-biryani",
+  "title": "Yellowed Chicken Biryani",
+  "description": "A flavorful and aromatic Malaysian-inspired dish with tender yellowed chicken and fragrant biryani rice.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellowed Chicken Breast",
+      "amount": "500g",
+      "notes": "marinated for at least 30 minutes"
+    },
+    {
+      "name": "Long Grain Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Biryani Spices",
+      "amount": "2 tsp",
+      "notes": "a blend of cinnamon, cardamom, and cloves"
+    },
+    {
+      "name": "Almond",
+      "amount": "20g",
+      "notes": "slivered"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent.",
+    "Add marinated chicken and cook until browned.",
+    "Add biryani spices and cook for 1 minute.",
+    "Add rice and water. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Stir in slivered almonds.",
+    "Serve hot and garnish with fresh herbs, if desired.",
+    "Cook the chicken to an internal temperature of 74°C (165°F).",
+    "Check the rice for doneness and fluff with a fork before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "biryan",
+    "malaysian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-malaysian-almond-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:08:32.965Z"
+}

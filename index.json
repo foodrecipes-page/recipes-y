@@ -3428,17 +3428,16 @@
   },
   {
     "slug": "yellow-fluffy-norwegian-serrano-ham-frittata",
-    "title": "Yellow Fluffy Norwegian Serrano Ham Frittata",
+    "title": "Norwegian Ham and Serrano Frittata",
     "tags": [
-      "high-protein",
-      "norwegian-cuisine",
-      "one-pan",
-      "pescatarian-friendly",
-      "quick-fix",
-      "sous-vide"
+      "breakfast",
+      "brunch",
+      "norwegian",
+      "ham",
+      "serrano-peppers"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -7512,16 +7511,15 @@
   },
   {
     "slug": "yellowed-crisp-tunisian-fish-skewers",
-    "title": "Yellowed Crisp Tunisian Fish Skewers",
+    "title": "Crisp Tunisian Fish Skewers",
     "tags": [
-      "air-fryer-recipes",
-      "cheesy-dishes",
-      "nutty-flavors",
-      "pescatarian-friendly",
-      "tunisian-cuisine"
+      "north-african",
+      "fish",
+      "skewers",
+      "grilled"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 27,
     "shard": "y"
   },
   {
@@ -8882,16 +8880,16 @@
   },
   {
     "slug": "yellowed-malaysian-almond-biryani",
-    "title": "Yellowed Malaysian Almond Biryani",
+    "title": "Yellowed Chicken Biryani",
     "tags": [
-      "dehydrated",
-      "gluten-free",
-      "malaysian-cuisine",
-      "one-pan",
-      "vegetarian-option"
+      "chicken",
+      "rice",
+      "biryan",
+      "malaysian",
+      "easy-to-make"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -10031,17 +10029,14 @@
   },
   {
     "slug": "yellowed-wood-fired-portuguese-chicken-bake",
-    "title": "Yellowed Wood Fired Portuguese Chicken Bake",
+    "title": "Portuguese Chicken Bake",
     "tags": [
-      "egg-free",
-      "gluten-free",
-      "one-pot",
-      "portuguese-cuisine",
-      "weeknight",
-      "wood-fired"
+      "portuguese",
+      "chicken",
+      "bake"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

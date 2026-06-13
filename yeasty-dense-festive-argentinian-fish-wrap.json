@@ -1,0 +1,91 @@
+{
+  "slug": "yeasty-dense-festive-argentinian-fish-wrap",
+  "title": "Argentinian Fish Empanadas",
+  "description": "A festive twist on traditional empanadas, these Argentinian fish empanadas are perfect for a special occasion.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish (white fish, flaked)",
+      "amount": "1 pound",
+      "notes": "Cod or hake work well"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Diamond salt"
+    },
+    {
+      "name": "wrap (flour tortilla)",
+      "amount": "4-6",
+      "notes": "10-inch diameter"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "Warm water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for topping"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 teaspoon",
+      "notes": "For topping"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, salt, and warm water in a mixing bowl. Stir to dissolve yeast.",
+    "Let mixture sit for 5 minutes, or until bubbles form.",
+    "Add flour, and mix until a dough forms.",
+    "Knead dough for 5-7 minutes, until elastic.",
+    "Divide dough into 4-6 portions.",
+    "Roll out each portion into a thin circle.",
+    "Brush edges with olive oil.",
+    "Place a tablespoon of fish mixture in the center of each circle.",
+    "Fold empanada in half, pressing edges to seal.",
+    "Place empanadas on a baking sheet, leaving space between each.",
+    "Bake at 375°F (190°C) for 15-20 minutes, or until golden brown.",
+    "Top with onion and oregano."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "fish",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-dense-festive-argentinian-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:50:05.227Z"
+}

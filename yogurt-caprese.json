@@ -1,0 +1,62 @@
+{
+  "slug": "yogurt-caprese",
+  "title": "Yogurt Caprese Parfait",
+  "description": "A simple and healthy dessert or snack made with yogurt, tomatoes, mozzarella cheese, and basil.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Caprese Salad Kit",
+      "amount": "1 kit"
+    },
+    {
+      "name": "Honey (optional)",
+      "amount": "1 tsp",
+      "notes": "for added sweetness"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "4-6 leaves",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Layer 1/2 cup yogurt in a glass or parfait dish.",
+    "Arrange 1-2 slices of cherry tomatoes from the Caprese kit on top of the yogurt.",
+    "Add 1-2 slices of mozzarella cheese from the Caprese kit.",
+    "Sprinkle some chopped fresh basil leaves on top.",
+    "Repeat the layers one more time, ending with the yogurt on top.",
+    "Drizzle with honey if using.",
+    "Garnish with additional basil leaves if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "parfait",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-caprese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:03:39.402Z"
+}

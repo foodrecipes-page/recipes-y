@@ -1,0 +1,75 @@
+{
+  "slug": "yellow-spicy-syrian-salmon-pilaf",
+  "title": "Spicy Syrian Salmon Pilaf",
+  "description": "A flavorful and aromatic pilaf dish from Syria, featuring spicy salmon as the main ingredient.",
+  "cuisine": "Syrian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Spicy Syrian Pilaf Seasoning",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salmon Fillet",
+      "amount": "4 oz",
+      "notes": "skin removed, cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large skillet over medium-high heat.",
+    "Add the salmon and cook for 2-3 minutes per side, or until cooked through.",
+    "Remove the salmon from the skillet and set aside.",
+    "Add the remaining 1 tbsp of olive oil to the skillet and cook the chopped red onion until translucent.",
+    "Stir in the spicy Syrian pilaf seasoning and cook for 1 minute.",
+    "Add the yellow rice to the skillet and stir to combine with the onion and spice mixture.",
+    "Cook for 2-3 minutes, or until the rice is lightly toasted.",
+    "Fluff the rice with a fork to separate the grains.",
+    "Serve the spicy salmon on top of the pilaf, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "salmon",
+    "pilaf",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-syrian-salmon-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:48:50.991Z"
+}

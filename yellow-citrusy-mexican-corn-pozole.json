@@ -1,0 +1,84 @@
+{
+  "slug": "yellow-citrusy-mexican-corn-pozole",
+  "title": "Pozole with Mexican Corn",
+  "description": "A hearty Mexican soup made with hominy and topped with corn, cilantro, and a squeeze of lime juice.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Hominy",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "Yellow Corn",
+      "amount": "2 cups frozen",
+      "notes": "thawed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Citrusy Tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mexican Pozole Seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the hominy and soak it in water for at least 4 hours.",
+    "Drain and rinse the hominy, then place it in a large pot with the water, onion, garlic, and Mexican Pozole Seasoning.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Add the frozen corn to the pot and continue to simmer for another 30 minutes.",
+    "Stir in the chopped tomato and cook for an additional 10 minutes.",
+    "Season the pozole with salt to taste.",
+    "Serve the pozole hot, garnished with chopped cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "corn",
+    "pozole",
+    "soup",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-citrusy-mexican-corn-pozole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:27:40.477Z"
+}

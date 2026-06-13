@@ -1,0 +1,62 @@
+{
+  "slug": "yellowed-smoky-syrian-oats-pilaf",
+  "title": "Smoky Syrian Pilaf",
+  "description": "A flavorful pilaf dish from Syria, with smoky notes and a hint of spice.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoky Syrian",
+      "amount": "2 cups",
+      "notes": "cooked rice"
+    },
+    {
+      "name": "oats",
+      "amount": "1/2 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "yellowed",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 teaspoon",
+      "notes": "pilaf spice"
+    }
+  ],
+  "instructions": [
+    "Heat the yellowed in a large saucepan over medium-high.",
+    "Add the smoky Syrian to the saucepan, stirring frequently.",
+    "When the rice starts to brown, add the oats, pilaf, and 2 cups of water.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 15 minutes, or until the water has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "syrian",
+    "grains",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-smoky-syrian-oats-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:00:36.306Z"
+}

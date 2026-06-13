@@ -1,0 +1,97 @@
+{
+  "slug": "yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum",
+  "title": "Cantonese Bacon and Lardon Dim Sum",
+  "description": "A delicious and savory Cantonese-inspired dim sum dish featuring crispy bacon and lardon, wrapped in a yeasty dough.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yeasty dough",
+      "amount": "1 package (active dry yeast, 2 1/4 teaspoons)",
+      "notes": ""
+    },
+    {
+      "name": "cantonese dipping sauce",
+      "amount": "1/4 cup (store-bought or homemade)",
+      "notes": ""
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices (thick-cut)",
+      "notes": "cook until crispy"
+    },
+    {
+      "name": "lardon",
+      "amount": "6 slices (thick-cut)",
+      "notes": "cook until crispy"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup (thinly sliced)",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves (minced)",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "oyster sauce (optional)",
+      "amount": "1 tablespoon (optional)",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dim sum wrappers",
+      "amount": "1 package (round wonton wrappers)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick frying pan or wok over medium-high heat.",
+    "2. Cook the bacon and lardon until crispy. Remove from heat and set aside.",
+    "3. In a small bowl, mix together scallions, garlic, soy sauce, oyster sauce (if using), and sesame oil.",
+    "4. Lay a dim sum wrapper on a flat surface. Place a small spoonful of the scallion mixture in the center of the wrapper.",
+    "5. Add a few pieces of cooked bacon and lardon on top of the scallion mixture.",
+    "6. Brush the edges of the wrapper with a small amount of water.",
+    "7. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "8. Press the edges together to seal the dim sum.",
+    "9. Repeat with the remaining wrappers and filling ingredients.",
+    "10. Serve the Cantonese bacon and lardon dim sum hot with a side of Cantonese dipping sauce.",
+    "11. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "bacon",
+    "lardon",
+    "dim-sum",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T03:37:42.722Z"
+}

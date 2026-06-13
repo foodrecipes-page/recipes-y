@@ -6845,16 +6845,14 @@
   },
   {
     "slug": "yellowed-aerated-russian-eggs-quiche",
-    "title": "Yellowed Aerated Russian Eggs Quiche",
+    "title": "Russian Quiche",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "russian-cuisine",
-      "weeknight"
+      "quiche",
+      "russian",
+      "breakfast"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

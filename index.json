@@ -2204,17 +2204,16 @@
   },
   {
     "slug": "yellow-citrusy-mexican-corn-pozole",
-    "title": "Yellow Citrusy Mexican Corn Pozole",
+    "title": "Pozole with Mexican Corn",
     "tags": [
-      "citrusy",
-      "comfort-food",
-      "lazy-sunday",
       "mexican",
-      "one-pot",
-      "vegan"
+      "corn",
+      "pozole",
+      "soup",
+      "lunch"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 110,
     "shard": "y"
   },
   {
@@ -9255,17 +9254,14 @@
   },
   {
     "slug": "yellowed-roasted-croatian-cheese-casserole",
-    "title": "Yellowed Roasted Croatian Cheese Casserole",
+    "title": "Croatian Cheese Casserole",
     "tags": [
+      "cheese",
       "casserole",
-      "cheese-pull",
-      "comfort-food",
-      "one-pan",
-      "roasted",
-      "unique-flavors"
+      "eastern-european"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -13707,18 +13703,15 @@
   },
   {
     "slug": "yummy-midnite-craving-saudi-arabian-lamb-mince-tagine",
-    "title": "yummy midnite craving saudi-arabian lamb mince tagine",
+    "title": "Saudi Arabian Lamb Tagine",
     "tags": [
-      "fluffy",
-      "lamb-mince",
-      "midnight-craving",
-      "one-pan",
-      "peppery",
-      "saudi-arabian",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "north-african",
+      "arabic"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

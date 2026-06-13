@@ -1,0 +1,89 @@
+{
+  "slug": "yellowed-japanese-pork-shoyu-ramen",
+  "title": "Shoyu Ramen with Pork",
+  "description": "A rich and savory Japanese-inspired ramen dish featuring braised pork and a flavorful shoyu broth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Shoyu ramen noodles",
+      "amount": "1 package (200g)",
+      "notes": ""
+    },
+    {
+      "name": "Ramen broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pork fat or oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the pork shoulder into 1-inch cubes and season with salt.",
+    "2. Heat the pork fat or oil in a large Dutch oven over medium-high heat. Sear the pork until browned, about 5 minutes.",
+    "3. Remove the pork from the pot and set aside.",
+    "4. Add the yellow onion to the pot and cook until softened, about 5 minutes.",
+    "5. Add the ramen broth to the pot and bring to a boil.",
+    "6. Reduce the heat to low and simmer for 10 minutes.",
+    "7. Add the cooked pork back to the pot and simmer for an additional 5 minutes.",
+    "8. Cook the shoyu ramen noodles according to the package instructions.",
+    "9. Divide the noodles among bowls and ladle the hot pork and broth over the top.",
+    "10. Garnish with green onions, sesame seeds, and a drizzle of soy sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "pork",
+    "japanesecuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-japanese-pork-shoyu-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:15:42.329Z"
+}

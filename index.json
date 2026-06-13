@@ -7995,17 +7995,16 @@
   },
   {
     "slug": "yellowed-crunchy-malaysian-mascarpone-satay",
-    "title": "Yellowed Crunchy Malaysian Mascarpone Satay",
+    "title": "Satay with Crunchy Fried Shallots",
     "tags": [
-      "easy-to-make",
-      "festive-food",
-      "gluten-free",
-      "malaysian-cuisine",
-      "nut-free",
-      "special-occasion"
+      "appetizer",
+      "malaysian",
+      "satay",
+      "mascarpone",
+      "crunchy-fried-shallots"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -9629,17 +9628,15 @@
   },
   {
     "slug": "yellowed-smoky-syrian-oats-pilaf",
-    "title": "Yellowed Smoky Syrian Oats Pilaf",
+    "title": "Smoky Syrian Pilaf",
     "tags": [
-      "diabetic-friendly",
-      "lazy-sunday",
-      "oat-based",
-      "one-pot",
-      "smoky",
-      "syrian-cuisine"
+      "pilaf",
+      "syrian",
+      "grains",
+      "lunch"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

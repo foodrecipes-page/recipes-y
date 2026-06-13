@@ -1,0 +1,75 @@
+{
+  "slug": "yellow-sunny-turkish-corn-pilaf",
+  "title": "Sunny Corn Pilaf",
+  "description": "A flavorful and easy-to-make pilaf dish packed with the sweetness of corn and the warmth of Turkish spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkish pilaf rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yellow corn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sunny yellow bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the diced yellow bell pepper and cook for 3-4 minutes until tender.",
+    "Add the Turkish pilaf rice and cook for 1-2 minutes until lightly toasted.",
+    "Add the yellow corn kernels and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Pour in 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes until the water is absorbed.",
+    "Fluff the pilaf with a fork to separate the grains.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "pilaf",
+    "turkish",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-sunny-turkish-corn-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:36:52.001Z"
+}

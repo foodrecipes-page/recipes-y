@@ -932,16 +932,16 @@
   },
   {
     "slug": "yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum",
-    "title": "Yeasty Hangover Cure Cantonese Bacon Lardon Dim Sum",
+    "title": "Cantonese Bacon and Lardon Dim Sum",
     "tags": [
-      "baconlardon",
-      "cantonesedimsum",
-      "hangover-cure",
-      "whole30",
-      "yakimono-grill"
+      "cantonese",
+      "bacon",
+      "lardon",
+      "dim-sum",
+      "yeasty"
     ],
-    "cuisine": "cantonese",
-    "totalTimeMin": 50,
+    "cuisine": "Cantonese",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -11907,17 +11907,16 @@
   },
   {
     "slug": "yummy-charred-uruguayan-callaloo-stir-fry",
-    "title": "Yummy Charred Uruguayan callaloo Stir-fry",
+    "title": "Uruguayan Callaloo Stir Fry",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "quick-fix",
-      "stir-fry",
       "uruguayan",
-      "vegan"
+      "latin-american",
+      "stir-fry",
+      "callaloo",
+      "vegetarian"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 20,
+    "cuisine": "Latin American",
+    "totalTimeMin": 18,
     "shard": "y"
   },
   {

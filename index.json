@@ -8765,17 +8765,14 @@
   },
   {
     "slug": "yellowed-japanese-pork-shoyu-ramen",
-    "title": "Yellowed Japanese Pork Shoyu Ramen",
+    "title": "Shoyu Ramen with Pork",
     "tags": [
-      "japanese-cuisine",
-      "nut-free",
-      "one-pan",
-      "pork-recipes",
-      "ramen-recipes",
-      "shoyu-sauce"
+      "ramen",
+      "pork",
+      "japanesecuisine"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

@@ -352,15 +352,12 @@
   },
   {
     "slug": "yeasty-creamy-kenyan-trout-gratin",
-    "title": "Yeasty Creamy Kenyan Trout Gratin",
+    "title": "Kenyan Trout Gratin",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "kenyan-cuisine",
-      "one-pan",
-      "special-occasion",
-      "weeknight"
+      "kenyan",
+      "fish",
+      "gratin",
+      "trout"
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 35,
@@ -6066,17 +6063,15 @@
   },
   {
     "slug": "yellow-spicy-syrian-salmon-pilaf",
-    "title": "Yellow Spicy Syrian Salmon Pilaf",
+    "title": "Spicy Syrian Salmon Pilaf",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "pescatarian",
-      "seafood",
       "spicy",
-      "syrian-cuisine"
+      "salmon",
+      "pilaf",
+      "syrian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -8512,17 +8507,14 @@
   },
   {
     "slug": "yellowed-german-cheddar-casserole",
-    "title": "Yellowed German Cheddar Casserole",
+    "title": "German Casserole",
     "tags": [
+      "german",
       "casserole",
-      "cheddar-lover",
-      "fatty-dish",
-      "german-cuisine",
-      "special-occasion",
-      "talavera-plate"
+      "comfort-food"
     ],
     "cuisine": "German",
-    "totalTimeMin": 45,
+    "totalTimeMin": 65,
     "shard": "y"
   },
   {
@@ -14528,18 +14520,15 @@
   },
   {
     "slug": "yummy-sour-light-jamaican-duck-legs-tagine",
-    "title": "Yummy Sour Light Jamaican Duck Legs Tagine",
+    "title": "Jamaican Duck Tagine",
     "tags": [
-      "easy-to-make",
-      "fall-apart-meat",
-      "flavorful-broth",
-      "high-protein",
+      "moroccan",
+      "stew",
       "jamaican",
-      "one-pan",
-      "weeknight"
+      "duck"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {

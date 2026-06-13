@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-aerated-russian-eggs-quiche",
+  "title": "Russian Quiche",
+  "description": "A classic Russian-inspired quiche with a flaky crust and a rich, creamy filling.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russian eggs",
+      "amount": "4",
+      "notes": "Large eggs are best for this recipe."
+    },
+    {
+      "name": "quiche crust",
+      "amount": "1",
+      "notes": "Homemade or store-bought quiche crust works well."
+    },
+    {
+      "name": "aerated milk",
+      "amount": "1 cup",
+      "notes": "Heavy cream or half-and-half works well."
+    },
+    {
+      "name": "yellowed cheese",
+      "amount": "1 cup",
+      "notes": "Grated cheese, such as cheddar or mozzarella."
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted butter for brushing the crust."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the quiche crust and place it in a tart pan.",
+    "In a large bowl, whisk together the eggs, aerated milk, and a pinch of salt and pepper.",
+    "Add the grated cheese to the bowl and stir to combine.",
+    "Pour the egg mixture into the quiche crust.",
+    "Brush the edges of the crust with melted butter.",
+    "Bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool for 10 minutes.",
+    "Serve the quiche warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "quiche",
+    "russian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-aerated-russian-eggs-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:24:11.023Z"
+}

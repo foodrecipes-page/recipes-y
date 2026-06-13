@@ -1,0 +1,66 @@
+{
+  "slug": "yummy-charred-uruguayan-callaloo-stir-fry",
+  "title": "Uruguayan Callaloo Stir Fry",
+  "description": "A flavorful and spicy stir fry dish packed with nutritious callaloo and seasoned with a hint of Uruguayan flair.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "yummy vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "charred garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "stir-fry spices",
+      "amount": "1 teaspoon",
+      "notes": "Uruguayan seasoning blend"
+    },
+    {
+      "name": "fry salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the yummy vegetable oil in a large skillet over medium-high.",
+    "Add the charred garlic and cook for 1-2 minutes until fragrant.",
+    "Add the callaloo and stir-fry spices, and cook until the callaloo starts to wilt.",
+    "Season with fry salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "latin-american",
+    "stir-fry",
+    "callaloo",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-charred-uruguayan-callaloo-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:04:30.896Z"
+}

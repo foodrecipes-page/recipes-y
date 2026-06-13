@@ -1,0 +1,81 @@
+{
+  "slug": "yellowed-crispy-saudi-arabian-lamb-kebabs",
+  "title": "Crispy Lamb Kebab",
+  "description": "A Saudi Arabian-inspired dish featuring tender lamb, crispy on the outside, served with a side of fresh herbs.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Shoulder or leg cuts work well"
+    },
+    {
+      "name": "Yellowed Crispy Onions",
+      "amount": "1/2 cup",
+      "notes": "Crispy fried onions for garnish"
+    },
+    {
+      "name": "Arabian Spices",
+      "amount": "2 tsp",
+      "notes": "Mix of cumin, coriander, cinnamon, and cardamom"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for marinade"
+    },
+    {
+      "name": "Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing kebabs during cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together Arabian Spices, Lemon Juice, and Garlic.",
+    "2. Add the lamb to the marinade and mix until coated.",
+    "3. Cover and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread lamb onto skewers, leaving space between each piece.",
+    "6. Brush kebabs with oil and season with Salt.",
+    "7. Grill kebabs for 8-10 minutes per side, or until cooked through.",
+    "8. Garnish with crispy onions and serve immediately.",
+    "9. Serve with a side of fresh herbs, such as parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebab",
+    "saudi-arabian",
+    "middle-eastern",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 354,
+    "protein": 38,
+    "carbs": 0,
+    "fat": 19
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:23:09.028Z"
+}

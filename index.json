@@ -6229,17 +6229,16 @@
   },
   {
     "slug": "yellow-sunny-turkish-corn-pilaf",
-    "title": "Yellow Sunny Turkish Corn Pilaf",
+    "title": "Sunny Corn Pilaf",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "sous-vide",
-      "turkish-cuisine",
-      "vegetarian",
-      "weeknight"
+      "corn",
+      "pilaf",
+      "turkish",
+      "easy",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -9830,15 +9829,14 @@
   },
   {
     "slug": "yellowed-syrian-hazelnut-pilaf",
-    "title": "Yellowed Syrian Hazelnut Pilaf",
+    "title": "Hazelnut Pilaf",
     "tags": [
-      "comfort-food",
-      "high-calorie",
+      "hazelnut",
+      "pilaf",
       "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "sides"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 30,
     "shard": "y"
   },
@@ -13122,17 +13120,18 @@
   },
   {
     "slug": "yummy-hangover-cure-malaysian-fish-satay",
-    "title": "Yummy Hangover-Cure Malaysian Fish Satay",
+    "title": "Malaysian Fish Satay",
     "tags": [
-      "breakfast",
-      "hangover-cure",
-      "malaysian",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "fish",
+      "grilled",
+      "malian",
+      "peanut-sauce",
+      "satay",
+      "skewers",
+      "white-fish"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 23,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 28,
     "shard": "y"
   },
   {

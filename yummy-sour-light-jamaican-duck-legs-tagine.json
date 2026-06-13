@@ -1,0 +1,93 @@
+{
+  "slug": "yummy-sour-light-jamaican-duck-legs-tagine",
+  "title": "Jamaican Duck Tagine",
+  "description": "A flavorful and aromatic stew originating from Morocco, made with Jamaican duck legs, a mix of spices, and a hint of sourness.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sour orange juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Rinse the duck legs and pat them dry.",
+    "In a small bowl, mix together the allspice, cumin, coriander, and ginger.",
+    "Rub the spice mixture all over the duck legs, making sure they are evenly coated.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the duck legs until browned on all sides, about 5 minutes per side.",
+    "Remove the duck legs from the pot and set them aside.",
+    "Reduce the heat to medium and add the onion to the pot.",
+    "Cook the onion until it is softened and lightly browned, about 5 minutes.",
+    "Add the garlic to the pot and cook for 1 minute.",
+    "Add the sour orange juice to the pot and stir to combine.",
+    "Return the duck legs to the pot and bring the mixture to a simmer.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the duck legs for 2 1/2 hours, or until they are tender and falling off the bone.",
+    "Remove the pot from the oven and garnish with chopped fresh parsley.",
+    "Serve the duck legs hot, with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "jamaican",
+    "duck"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 14,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-sour-light-jamaican-duck-legs-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:56:45.071Z"
+}

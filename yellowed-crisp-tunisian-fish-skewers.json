@@ -1,0 +1,77 @@
+{
+  "slug": "yellowed-crisp-tunisian-fish-skewers",
+  "title": "Crisp Tunisian Fish Skewers",
+  "description": "A flavorful and easy-to-make dish that combines the freshness of fish with the spices of Tunisia, all on a crispy yellowed onion base.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (tilapia or cod)",
+      "amount": "4 fillets",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Yellowed onion",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tunisian harissa",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Crisp chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Skewers (bamboo or metal)",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak skewers in water for at least 30 minutes.",
+    "In a large bowl, combine fish, harissa, salt, and pepper. Mix well.",
+    "Thread fish onto skewers, leaving a small space between each piece.",
+    "Brush yellowed onion slices with olive oil and grill until crispy.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Serve immediately with grilled onions, parsley, and lemon wedges.",
+    "Let sit for 5 minutes before serving to allow juices to redistribute."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "fish",
+    "skewers",
+    "grilled"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crisp-tunisian-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:08:18.347Z"
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "yielding-australian-beef-broth",
+  "title": "Australian Beef Stew",
+  "description": "A hearty beef stew originating from Australia, cooked to perfection with tender beef, vegetables, and a rich broth.",
+  "cuisine": "australian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stewing beef",
+      "amount": "500g",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "australian beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef yield gravy powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion, carrot, and potato to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the broth, gravy powder, salt, and pepper to the pot, stirring to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 2-1/2 hours.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "australian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yielding-australian-beef-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:17:38.904Z"
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "yummy-earthy-italian-rice-noodles-frittata",
+  "title": "Italian Frittata",
+  "description": "A classic Italian dish made with eggs, vegetables, and cheese, perfect for a quick and easy breakfast or brunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "large eggs"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 cup",
+      "notes": "chopped bell peppers"
+    },
+    {
+      "name": "earthy",
+      "amount": "1 cup",
+      "notes": "chopped mushrooms"
+    },
+    {
+      "name": "italian",
+      "amount": "1/2 cup",
+      "notes": "grated parmesan cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the bell peppers and mushrooms over medium heat until tender.",
+    "In a large bowl, whisk together the eggs, parmesan cheese, and a pinch of salt and pepper.",
+    "Pour the egg mixture over the vegetables in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes or until the eggs are set.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Slice into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "brunch",
+    "egg",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-earthy-italian-rice-noodles-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:13:11.821Z"
+}

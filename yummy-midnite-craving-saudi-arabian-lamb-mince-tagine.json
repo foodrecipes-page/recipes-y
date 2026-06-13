@@ -1,0 +1,90 @@
+{
+  "slug": "yummy-midnite-craving-saudi-arabian-lamb-mince-tagine",
+  "title": "Saudi Arabian Lamb Tagine",
+  "description": "A flavorful and aromatic North African-inspired dish made with lamb mince, spices, and dried fruits.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Mince",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Yummy",
+      "amount": "2 tablespoons",
+      "notes": "Yummy spice blend (ground cumin, coriander, cinnamon, ginger)"
+    },
+    {
+      "name": "Midnite",
+      "amount": "1 tablespoon",
+      "notes": "Midnite spice blend (ground cinnamon, allspice, cardamom)"
+    },
+    {
+      "name": "Craving",
+      "amount": "1 teaspoon",
+      "notes": "Craving spice blend (ground turmeric, paprika)"
+    },
+    {
+      "name": "Saudi Arabian Spice",
+      "amount": "1 teaspoon",
+      "notes": "Saudi Arabian spice blend (ground cumin, coriander, cinnamon)"
+    },
+    {
+      "name": "Arabian",
+      "amount": "2 tablespoons",
+      "notes": "Dried mixed herbs (parsley, cilantro)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Dried Fruits",
+      "amount": "100g",
+      "notes": "Dried dates, prunes, and apricots"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add lamb mince and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add yummy, midnite, craving, saudi, and arabian spice blends and cook for 1 minute.",
+    "Add dried fruits and stir to combine.",
+    "Add 500ml of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "arabic"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-midnite-craving-saudi-arabian-lamb-mince-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:29:46.715Z"
+}

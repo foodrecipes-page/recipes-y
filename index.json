@@ -567,15 +567,14 @@
   },
   {
     "slug": "yeasty-dense-festive-argentinian-fish-wrap",
-    "title": "Argentinian Fish Wrap with Nam Pla Sauce",
+    "title": "Argentinian Fish Empanadas",
     "tags": [
       "argentinian",
-      "fish-wrap",
-      "weeknight",
-      "yeast-bread"
+      "fish",
+      "empanadas"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -7825,17 +7824,16 @@
   },
   {
     "slug": "yellowed-crispy-saudi-arabian-lamb-kebabs",
-    "title": "Yellowed Crispy Saudi Arabian Lamb Kebabs",
+    "title": "Crispy Lamb Kebab",
     "tags": [
-      "air-fryer",
-      "crispy",
-      "lamb-based",
-      "low-fat",
+      "lamb",
+      "kebab",
+      "saudi-arabian",
       "middle-eastern",
-      "sesame-seeds"
+      "gluten-free"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 36,
     "shard": "y"
   },
   {
@@ -10494,16 +10492,14 @@
   },
   {
     "slug": "yielding-australian-beef-broth",
-    "title": "Yielding Australian Beef Broth",
+    "title": "Australian Beef Stew",
     "tags": [
-      "beef-broth",
-      "comfort-food",
-      "light-soup",
-      "malt-infused",
-      "weeknight"
+      "beef",
+      "australian",
+      "stew"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 60,
+    "cuisine": "australian",
+    "totalTimeMin": 165,
     "shard": "y"
   },
   {
@@ -10701,14 +10697,15 @@
   },
   {
     "slug": "yogurt-caprese",
-    "title": "Yogurt Caprese",
+    "title": "Yogurt Caprese Parfait",
     "tags": [
-      "yogurt",
-      "caprese",
-      "diabetic-friendly"
+      "italian",
+      "parfait",
+      "dessert",
+      "snack"
     ],
-    "cuisine": "Italian (Ligurian)",
-    "totalTimeMin": 10,
+    "cuisine": "Italian",
+    "totalTimeMin": 5,
     "shard": "y"
   },
   {
@@ -12511,17 +12508,16 @@
   },
   {
     "slug": "yummy-earthy-italian-rice-noodles-frittata",
-    "title": "Yummy Earthy Italian Rice Noodles Frittata",
+    "title": "Italian Frittata",
     "tags": [
       "italian",
-      "nut-free",
-      "one-pot",
-      "quick",
-      "rice-noodles",
+      "breakfast",
+      "brunch",
+      "egg",
       "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -13439,17 +13435,14 @@
   },
   {
     "slug": "yummy-kenyan-fish-curry",
-    "title": "Yummy Kenyan Fish Curry",
+    "title": "Kenyan Fish Curry",
     "tags": [
-      "chewy",
-      "indulgent",
-      "jammy",
       "kenyan",
-      "pescatarian-friendly",
-      "tandoori"
+      "fish-curry",
+      "easy-meals"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "kenyan",
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {

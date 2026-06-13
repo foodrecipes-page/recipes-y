@@ -1,0 +1,75 @@
+{
+  "slug": "yellowed-roasted-croatian-cheese-casserole",
+  "title": "Croatian Cheese Casserole",
+  "description": "A hearty and flavorful casserole featuring Croatian cheese, perfect for a cozy evening meal.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian cheese",
+      "amount": "250g",
+      "notes": "Available at most specialty cheese shops"
+    },
+    {
+      "name": "Roasted yellow corn",
+      "amount": "200g",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1",
+      "notes": "Pre-made or homemade"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": "Salted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw frozen casserole or preheat pre-made casserole according to package instructions.",
+    "In a large skillet, melt butter over medium heat. Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Stir in roasted yellow corn and cook for 2-3 minutes, until heated through.",
+    "In a separate bowl, crumble Croatian cheese.",
+    "Combine cooked corn mixture and crumbled cheese. Season with salt and pepper to taste.",
+    "Transfer casserole to a baking dish and top with corn and cheese mixture.",
+    "Bake in preheated oven for 20-25 minutes, until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "casserole",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-roasted-croatian-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:26:48.464Z"
+}

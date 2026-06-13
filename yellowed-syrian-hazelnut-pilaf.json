@@ -1,0 +1,64 @@
+{
+  "slug": "yellowed-syrian-hazelnut-pilaf",
+  "title": "Hazelnut Pilaf",
+  "description": "A flavorful and aromatic pilaf dish infused with the rich taste of hazelnuts. It's a great side dish for any Middle Eastern-inspired meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian Pilaf Rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Yellowed Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the chopped onions and sauté until translucent.",
+    "Add the chopped hazelnuts and sauté for another minute.",
+    "Add the Syrian pilaf rice and stir to combine with the onion-hazelnut mixture.",
+    "Cook for 2-3 minutes, stirring frequently.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes or until the water has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with additional chopped hazelnuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hazelnut",
+    "pilaf",
+    "middle-eastern",
+    "sides"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-syrian-hazelnut-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:14:10.265Z"
+}

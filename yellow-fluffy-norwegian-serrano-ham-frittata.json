@@ -1,0 +1,82 @@
+{
+  "slug": "yellow-fluffy-norwegian-serrano-ham-frittata",
+  "title": "Norwegian Ham and Serrano Frittata",
+  "description": "A rich and savory frittata filled with Norwegian ham and spicy serrano peppers, perfect for a hearty breakfast or brunch.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "4 large eggs",
+      "amount": "",
+      "notes": "Fresh eggs are best for this recipe."
+    },
+    {
+      "name": "6 slices of Norwegian ham",
+      "amount": "",
+      "notes": "Look for thinly sliced, high-quality ham."
+    },
+    {
+      "name": "2 serrano peppers, diced",
+      "amount": "",
+      "notes": "Wear gloves when handling hot peppers to avoid skin irritation."
+    },
+    {
+      "name": "1 cup shredded cheddar cheese",
+      "amount": "",
+      "notes": "A mild cheese like cheddar pairs well with the ham and peppers."
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": "A sprinkle of fresh parsley adds a bright, fresh flavor."
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": "Season to taste with salt and pepper."
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "",
+      "notes": "Use high-quality butter for the best flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the diced serrano peppers and cook until softened, about 3-4 minutes.",
+    "Add the Norwegian ham and cook until heated through, about 2-3 minutes.",
+    "In a large bowl, whisk together the eggs and a pinch of salt and pepper.",
+    "Pour the egg mixture over the ham and pepper mixture in the skillet.",
+    "Sprinkle the shredded cheddar cheese over the top of the egg mixture.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley.",
+    "Serve hot and enjoy!",
+    "Note: If you prefer a more well-done frittata, cook for an additional 5-10 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "norwegian",
+    "ham",
+    "serrano-peppers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-fluffy-norwegian-serrano-ham-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:08:12.236Z"
+}

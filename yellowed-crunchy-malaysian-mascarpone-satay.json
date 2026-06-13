@@ -1,0 +1,81 @@
+{
+  "slug": "yellowed-crunchy-malaysian-mascarpone-satay",
+  "title": "Satay with Crunchy Fried Shallots",
+  "description": "A Malaysian-inspired appetizer featuring skewers of satay chicken, served with a side of crunchy fried shallots and creamy mascarpone sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Yellowed onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Crunchy peanuts",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "200g",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "Malaysian satay spice blend",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Shallots",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the chicken pieces onto skewers and brush with the satay spice blend.",
+    "Grill the satay for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, heat the vegetable oil in a pan over medium heat.",
+    "Add the sliced shallots and fry until crispy, stirring frequently.",
+    "Drain the fried shallots on paper towels and season with salt.",
+    "In a separate pan, melt the mascarpone cheese over low heat.",
+    "Stir in the chopped peanuts and cook until the sauce is smooth.",
+    "Serve the grilled satay with the crispy fried shallots and creamy mascarpone sauce.",
+    "Garnish with additional peanuts and satay spice blend, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "malaysian",
+    "satay",
+    "mascarpone",
+    "crunchy-fried-shallots"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crunchy-malaysian-mascarpone-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:56:38.994Z"
+}

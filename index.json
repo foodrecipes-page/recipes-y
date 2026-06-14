@@ -1626,17 +1626,15 @@
   },
   {
     "slug": "yeasty-yellow-spanish-peppers-crema-catalana",
-    "title": "Yeasty Yellow Spanish Peppers Crema Catalana",
+    "title": "Pa amb Tomaquet Catalana",
     "tags": [
-      "crema-catalana",
-      "grilled-vegetables",
-      "one-pan",
-      "ovo-vegetarian",
-      "spanish-food",
-      "yeasty-dishes"
+      "breakfast",
+      "catalan",
+      "vegetarian",
+      "bread"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 65,
+    "cuisine": "Catalan",
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -2263,17 +2261,14 @@
   },
   {
     "slug": "yellow-citrusy-venezuelan-chicken-skewers",
-    "title": "Yellow Citrusy Venezuelan Chicken Skewers",
+    "title": "Citrusy Chicken Skewers",
     "tags": [
-      "chicken",
       "grilled",
-      "healthy",
-      "latin-american",
-      "one-pan",
-      "weeknight"
+      "citrusy",
+      "chicken"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -2755,17 +2750,15 @@
   },
   {
     "slug": "yellow-crumbly-brazilian-tofu-skewers",
-    "title": "Yellow Crumbly Brazilian Tofu Skewers",
+    "title": "Brazilian Skewers with Yellow Cheese",
     "tags": [
-      "brazilian-food",
-      "crunchy-texture",
-      "quick-fix",
-      "tofu-recipes",
-      "umami-flavors",
-      "vegetarian-dinner"
+      "brazilian",
+      "skewers",
+      "grilled",
+      "cheese"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 35,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 27,
     "shard": "y"
   },
   {
@@ -4430,17 +4423,15 @@
   },
   {
     "slug": "yellow-peppered-croatian-fish-stew",
-    "title": "Yellow Peppered Croatian Fish Stew",
+    "title": "Pan-Seared Fish with Croatian Stew",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "fish-stew",
-      "healthy-dinner",
-      "one-pot",
-      "weeknight"
+      "fish",
+      "european",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "cuisine": "European",
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -9444,17 +9435,15 @@
   },
   {
     "slug": "yellowed-silky-russian-mushroom-pilaf",
-    "title": "Yellowed Silky Russian Mushroom Pilaf",
+    "title": "Russian Mushroom Pilaf",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "mushroom-lovers",
-      "one-pot",
-      "russian-cuisine",
+      "russian",
+      "mushroom",
+      "pilaf",
       "vegetarian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

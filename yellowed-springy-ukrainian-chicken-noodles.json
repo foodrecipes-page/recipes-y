@@ -1,0 +1,104 @@
+{
+  "slug": "yellowed-springy-ukrainian-chicken-noodles",
+  "title": "Chicken and Noodle Borscht",
+  "description": "A twist on the classic Ukrainian borscht, with the addition of chicken and noodles. This hearty soup is perfect for a cold day.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellowed spring onions",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "ukrainian noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "beets",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the onions and garlic until softened.",
+    "Add the chicken and cook until browned.",
+    "Add the beets, carrots, and onion, and cook until the vegetables are tender.",
+    "Add the tomatoes, broth, vinegar, and sugar, and bring to a boil.",
+    "Reduce the heat and simmer for 20 minutes.",
+    "Add the noodles and cook until al dente.",
+    "Stir in the sour cream and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped spring onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-springy-ukrainian-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:37:07.469Z"
+}

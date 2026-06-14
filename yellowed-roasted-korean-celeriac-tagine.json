@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-roasted-korean-celeriac-tagine",
+  "title": "Pan-Seared Celeriac with Korean Gochujang Glaze",
+  "description": "A sweet and spicy twist on traditional celeriac. Celeriac is pan-seared to perfection and topped with a rich Korean gochujang glaze.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 large (about 1 kg)",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "korean gochujang",
+      "amount": "2 tbsp",
+      "notes": "see notes"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large non-stick skillet over medium heat.",
+    "Add the celeriac cubes and cook for about 5 minutes on each side, or until they are tender and golden brown.",
+    "In a small bowl, whisk together the gochujang, brown sugar, and soy sauce (if using).",
+    "Brush the glaze over the celeriac during the last minute of cooking.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro (if using) and serve immediately.",
+    "Note: If using brown sugar and soy sauce, adjust the amount to your taste. The gochujang glaze is the main flavor component of the dish. You can also add the glaze after cooking the celeriac, then return it to the skillet and cook for an additional minute to caramelize the glaze."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "korean",
+    "gochujang",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-roasted-korean-celeriac-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:04:39.645Z"
+}

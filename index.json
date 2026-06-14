@@ -337,16 +337,14 @@
   },
   {
     "slug": "yeasty-creamy-indian-paneer-palak-paneer",
-    "title": "Yeasty Creamy Indian Paneer Palak Paneer",
+    "title": "Palak Paneer",
     "tags": [
-      "comfort-food",
-      "date-night",
       "indian",
-      "pank-paneer",
-      "rich-and-creamy",
-      "vegan-friendly"
+      "vegetarian",
+      "paneer",
+      "palak"
     ],
-    "cuisine": "andhra",
+    "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "y"
   },
@@ -5784,11 +5782,11 @@
   },
   {
     "slug": "yellow-spicy-egyptian-shrimp-kebabs",
-    "title": "Spicy Egyptian Shrimp Kebabs",
+    "title": "Egyptian Shrimp Kebabs",
     "tags": [
+      "seafood",
       "kebabs",
-      "shrimp",
-      "egyptian-cuisine",
+      "egyptian",
       "spicy"
     ],
     "cuisine": "Egyptian",
@@ -6005,18 +6003,14 @@
   },
   {
     "slug": "yellow-spicy-peruvian-vegetable-stir-fry",
-    "title": "Yellow Spicy Peruvian Vegetable Stir Fry",
+    "title": "Peruvian Stir Fry",
     "tags": [
-      "crowd-pleaser",
-      "healthy",
       "peruvian",
-      "spicy",
       "stir-fry",
-      "vegan",
-      "wok-cooked"
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

@@ -1,0 +1,73 @@
+{
+  "slug": "yummy-frozen-briny-yipper-prawns-stir-fry",
+  "title": "Prawn Stir Fry",
+  "description": "Quick and easy stir fry with prawns and frozen vegetables, perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "seafood",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound (450g)",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "yummy",
+      "amount": "2 tablespoons vegetable oil",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "frozen",
+      "amount": "1 cup mixed vegetables (e.g., peas, carrots, corn)",
+      "notes": "Thawed"
+    },
+    {
+      "name": "briny",
+      "amount": "2 cloves garlic, minced",
+      "notes": "Optional"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tablespoon soy sauce",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "fry",
+      "amount": "1 tablespoon oyster sauce (optional)",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the thawed mixed vegetables and cook for 2-3 minutes, until tender.",
+    "Add the prawns and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Stir in the soy sauce and oyster sauce (if using).",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with chopped green onions (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "seafood",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-frozen-briny-yipper-prawns-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T03:55:37.705Z"
+}

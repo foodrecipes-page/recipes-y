@@ -1,0 +1,89 @@
+{
+  "slug": "yeasty-creamy-indian-paneer-palak-paneer",
+  "title": "Palak Paneer",
+  "description": "A rich and creamy Indian dish made with spinach puree and paneer cheese. Perfect for a comforting meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Palak",
+      "amount": "2 cups fresh spinach leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Paneer",
+      "amount": "250g paneer cheese, cubed",
+      "notes": "available at Indian grocery stores"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium onion, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece ginger, minced",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon cumin seeds",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon coriander powder",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "White oil",
+      "amount": "2 tablespoons white oil",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onion, garlic, and ginger, and sauté until the onion is translucent.",
+    "Add coriander powder and cook for 1 minute.",
+    "Add palak and cook until it turns soft.",
+    "Add paneer and stir well.",
+    "Season with salt to taste.",
+    "Serve hot garnished with fresh cilantro leaves",
+    "Serve with naan or rice for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "paneer",
+    "palak"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-creamy-indian-paneer-palak-paneer",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T08:02:16.356Z"
+}

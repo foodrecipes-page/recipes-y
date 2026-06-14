@@ -1,0 +1,83 @@
+{
+  "slug": "yummy-fluffy-argentinian-beef-cutlet-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A classic Argentinian dish made with tender beef and crispy pastry. Perfect for a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Empanada Pastry",
+      "amount": "1 package (usually 12-15 empanadas)",
+      "notes": "Make sure to thaw the pastry before using"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Yummy Chimichurri Sauce (optional)",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan, heat 1 tablespoon of oil over medium-high heat. Add the onion and garlic and cook until the onion is translucent.",
+    "Add the ground beef to the pan, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the breadcrumbs, egg, salt, and pepper. Mix well.",
+    "Roll out the empanada pastry and cut out circles of dough, about 5 inches (13 cm) in diameter.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle. Fold the dough in half to form a half-moon shape and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little bit of water and use a fork to crimp the edges.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with a little bit of oil.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve the empanadas hot with a side of yummy chimichurri sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "pastry",
+    "yummy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-fluffy-argentinian-beef-cutlet-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:50:09.590Z"
+}

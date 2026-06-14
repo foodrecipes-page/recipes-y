@@ -1,0 +1,78 @@
+{
+  "slug": "yellow-turkish-bulgur-kisir",
+  "title": "Turkish-Style Bulgur Salad (Kisir)",
+  "description": "A classic Turkish salad made with bulgur, onions, tomatoes, and spices. Perfect for a light and refreshing meal or as a side dish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "preferably fine or medium grain"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur in a fine mesh sieve and drain well.",
+    "In a large bowl, combine the bulgur, chopped onion, diced tomato, and diced yellow pepper.",
+    "Add the chopped parsley, salt, and black pepper to the bowl and mix well.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "salad",
+    "bulgur",
+    "kisir",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-turkish-bulgur-kisir",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:44:24.777Z"
+}

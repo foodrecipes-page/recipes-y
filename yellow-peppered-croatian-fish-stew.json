@@ -1,0 +1,72 @@
+{
+  "slug": "yellow-peppered-croatian-fish-stew",
+  "title": "Pan-Seared Fish with Croatian Stew",
+  "description": "A flavorful fish dish served with a hearty Croatian stew. This recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "European",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (4 fillets, 6 oz each)",
+      "amount": "6 oz",
+      "notes": "You can use any white fish, such as cod or tilapia."
+    },
+    {
+      "name": "Croatian Stew Spice Mix (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "You can make your own spice mix or use store-bought."
+    },
+    {
+      "name": "Yellow Peppers (2)",
+      "amount": "2",
+      "notes": "Any color pepper will work, but yellow adds a nice sweetness."
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat.",
+    "Season the fish with salt, pepper, and Croatian Stew Spice Mix.",
+    "Add olive oil to the pan and sear the fish for 2-3 minutes on each side, or until cooked through.",
+    "Meanwhile, heat a separate pan over medium heat and add sliced yellow peppers.",
+    "Cook the peppers for 3-4 minutes, or until tender.",
+    "Serve the fish with the peppers on the side.",
+    "Serve the stew on the side, or mix it in with the peppers and fish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "european",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-peppered-croatian-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:41:50.326Z"
+}

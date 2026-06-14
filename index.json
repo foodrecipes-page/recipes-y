@@ -9132,17 +9132,15 @@
   },
   {
     "slug": "yellowed-resinous-northern-irish-aubergine-full-english-breakfast-skillet",
-    "title": "Yellowed Resinous Northern Irish Aubergine Full English Breakfast Skillet",
+    "title": "Pan-Seared Northern Irish Aubergine Skillet",
     "tags": [
-      "breakfast-skillet",
-      "high-protein",
-      "lotus-leaf",
-      "northern-irish",
-      "one-pan",
-      "resinous"
+      "northern irish",
+      "aubergine",
+      "breakfast",
+      "skillet"
     ],
     "cuisine": "Northern Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -9853,17 +9851,15 @@
   },
   {
     "slug": "yellowed-turkish-fenugreek-kunefe",
-    "title": "Yellowed Turkish Fenugreek Kunefe",
+    "title": "Turkish Kunefe with Fenugreek and Yellow Cheese",
     "tags": [
-      "easy-to-make",
-      "healthy-snack",
-      "low-calorie",
-      "quick-fix",
-      "turkish-dish",
-      "vegetarian-friendly"
+      "turkish",
+      "kunefe",
+      "dessert",
+      "sweet"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 15,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

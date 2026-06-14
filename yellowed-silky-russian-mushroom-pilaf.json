@@ -1,0 +1,74 @@
+{
+  "slug": "yellowed-silky-russian-mushroom-pilaf",
+  "title": "Russian Mushroom Pilaf",
+  "description": "A classic Russian dish made with sautéed mushrooms, pilaf, and a hint of Russian flair.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "any variety, sliced"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "yellowed onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "silky butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of silky butter in a large skillet over medium heat.",
+    "Add the chopped yellowed onion and sauté until softened, about 3-4 minutes.",
+    "Add the sliced mushroom and continue to sauté until tender, about 5-6 minutes.",
+    "Add the uncooked pilaf to the skillet and stir to combine with the mushroom and onion mixture.",
+    "Season with salt and pepper to taste.",
+    "Cover the skillet and cook for an additional 5-7 minutes, or until the pilaf is cooked and fluffy.",
+    "Stir in the remaining 1 tablespoon of silky butter.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with chopped fresh herbs, such as parsley or dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "mushroom",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-silky-russian-mushroom-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:44:20.985Z"
+}

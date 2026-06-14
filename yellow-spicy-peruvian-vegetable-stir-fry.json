@@ -1,0 +1,82 @@
+{
+  "slug": "yellow-spicy-peruvian-vegetable-stir-fry",
+  "title": "Peruvian Stir Fry",
+  "description": "A quick and spicy Peruvian-style stir fry made with vegetables and a hint of yellow peppers.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Pepper",
+      "amount": "1 medium",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/2 tsp",
+      "notes": "optional, spicy"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the yellow pepper and cook for another 3-4 minutes.",
+    "Add the zucchini and cook until tender, about 4-5 minutes.",
+    "Add the tomato and cook for 1-2 minutes.",
+    "Add the cumin and chili flakes (if using) and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-peruvian-vegetable-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:46:31.858Z"
+}

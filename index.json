@@ -9267,17 +9267,15 @@
   },
   {
     "slug": "yellowed-roasted-korean-celeriac-tagine",
-    "title": "Yellowed Roasted Korean Celeriac Tagine",
+    "title": "Pan-Seared Celeriac with Korean Gochujang Glaze",
     "tags": [
-      "comfort-food",
-      "korean-cuisine",
-      "one-pot",
-      "roasted-vegetables",
-      "vegetarian",
-      "weeknight"
+      "celeriac",
+      "korean",
+      "gochujang",
+      "glaze"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 60,
+    "totalTimeMin": 27,
     "shard": "y"
   },
   {
@@ -12811,15 +12809,13 @@
   },
   {
     "slug": "yummy-frozen-briny-yipper-prawns-stir-fry",
-    "title": "Yummy-Frozen Briny Yipper Prawns Stir-fry",
+    "title": "Prawn Stir Fry",
     "tags": [
-      "ayurvedic",
-      "quick-cook",
-      "raw-frozen-dish",
-      "sattvic",
-      "snack-friendly"
+      "asian",
+      "seafood",
+      "quick-dinner"
     ],
-    "cuisine": "French",
+    "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "y"
   },

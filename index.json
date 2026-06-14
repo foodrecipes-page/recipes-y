@@ -12656,18 +12656,16 @@
   },
   {
     "slug": "yummy-fluffy-argentinian-beef-cutlet-empanadas",
-    "title": "Argentinian Beef Cutlet Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
       "argentinian",
       "beef",
-      "comfort-food",
-      "dinner",
       "empanadas",
       "pastry",
-      "weeknight"
+      "yummy"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

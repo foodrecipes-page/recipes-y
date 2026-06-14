@@ -1,0 +1,82 @@
+{
+  "slug": "yellowed-turkish-fenugreek-kunefe",
+  "title": "Turkish Kunefe with Fenugreek and Yellow Cheese",
+  "description": "A traditional Turkish dessert made with kunefe pastry, fenugreek, and yellowed cheese, topped with a sweet syrup.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kunefe pastry",
+      "amount": "1 package",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "yellowed cheese",
+      "amount": "1 cup, crumbled",
+      "notes": "use a strong, aged cheese"
+    },
+    {
+      "name": "fenugreek",
+      "amount": "1 tablespoon, ground",
+      "notes": "optional, but adds a nice flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the kunefe pastry into 1-inch squares and place on a baking sheet.",
+    "Mix the crumbled cheese, ground fenugreek, and sugar in a bowl.",
+    "Brush the butter on the kunefe pastry.",
+    "Place a spoonful of the cheese mixture on each piece of pastry.",
+    "Fold the pastry in half to enclose the filling.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "While the pastry is baking, mix the water and lemon juice in a saucepan.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 5 minutes.",
+    "Remove the pastry from the oven and brush with the sweet syrup.",
+    "Serve warm, topped with additional syrup if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kunefe",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-turkish-fenugreek-kunefe",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:57:02.240Z"
+}

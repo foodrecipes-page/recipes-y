@@ -1,65 +1,59 @@
 {
   "slug": "yellow-spicy-egyptian-shrimp-kebabs",
-  "title": "Spicy Egyptian Shrimp Kebabs",
-  "description": "A flavorful and spicy twist on traditional kebabs, featuring succulent shrimp and a blend of Egyptian spices.",
+  "title": "Egyptian Shrimp Kebabs",
+  "description": "A flavorful and spicy twist on traditional kebabs, featuring succulent shrimp and a hint of Egyptian spices.",
   "cuisine": "Egyptian",
   "diet": [
+    "seafood",
     "gluten-free",
-    "pescatarian"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Large shrimp",
+      "name": "shrimp",
       "amount": "1 pound",
       "notes": "peeled and deveined"
     },
     {
-      "name": "Yellow onions",
+      "name": "yellow onion",
       "amount": "1 medium",
-      "notes": "thinly sliced"
+      "notes": "chopped"
     },
     {
-      "name": "Spicy peppers",
-      "amount": "2",
-      "notes": "thinly sliced"
+      "name": "spicy egyptian chili flakes",
+      "amount": "2 teaspoons"
     },
     {
-      "name": "Egyptian spices",
-      "amount": "2 tablespoons",
-      "notes": "a blend of cumin, coriander, and paprika"
+      "name": "kebab skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
     },
     {
-      "name": "Olive oil",
-      "amount": "2 tablespoons",
-      "notes": "for brushing kebabs"
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Lemon juice",
-      "amount": "2 tablespoons",
-      "notes": "for serving"
+      "name": "olive oil",
+      "amount": "1 tablespoon"
     },
     {
-      "name": "Salt",
-      "amount": "to taste",
-      "notes": ""
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
     },
     {
-      "name": "Pepper",
-      "amount": "to taste",
-      "notes": ""
+      "name": "paprika",
+      "amount": "1 teaspoon"
     }
   ],
   "instructions": [
     "Preheat grill to medium-high heat.",
-    "In a large bowl, whisk together Egyptian spices, olive oil, salt, and pepper.",
-    "Add sliced onions and peppers to the bowl and toss to coat.",
-    "Thread shrimp onto skewers, leaving a small space between each piece.",
-    "Add coated onions and peppers to the skewers.",
-    "Brush kebabs with remaining spice mixture.",
-    "Grill kebabs for 8-10 minutes, flipping halfway through.",
-    "Serve hot with lemon juice squeezed over the top.",
-    "Enjoy as a light and flavorful lunch!"
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, and spicy egyptian chili flakes.",
+    "Add the chopped onion and shrimp to the bowl, and toss to coat.",
+    "Thread the shrimp and onion mixture onto the kebab skewers.",
+    "Season with paprika and grill for 8-10 minutes, or until the shrimp are pink and cooked through.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -67,19 +61,19 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
+    "seafood",
     "kebabs",
-    "shrimp",
-    "egyptian-cuisine",
+    "egyptian",
     "spicy"
   ],
   "nutrition": {
-    "calories": 220,
-    "protein": 25,
-    "carbs": 10,
+    "calories": 250,
+    "protein": 20,
+    "carbs": 5,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-egyptian-shrimp-kebabs",
   "providerUsed": "groq",
-  "createdAt": "2026-06-08T23:58:47.288Z"
+  "createdAt": "2026-06-11T07:21:25.780Z"
 }

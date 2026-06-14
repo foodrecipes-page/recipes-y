@@ -1,0 +1,72 @@
+{
+  "slug": "yummy-fluffy-russian-grape-tomatoes-pilaf",
+  "title": "Russian Pilaf with Tomatoes",
+  "description": "A traditional Russian dish made with pilaf, tomatoes, and a hint of Russian flavors. Perfect for a weeknight dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "yummy oil",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "fluffy salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grape pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chopped tomatoes and cook for 3-4 minutes.",
+    "Add the pilaf and stir to coat with the oil and tomato mixture.",
+    "Add the salt, pepper, and water to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low.",
+    "Cover the saucepan and simmer for 20-25 minutes, or until the pilaf is tender.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "pilaf",
+    "tomatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-fluffy-russian-grape-tomatoes-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:54:06.228Z"
+}

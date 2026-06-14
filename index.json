@@ -8739,16 +8739,15 @@
   },
   {
     "slug": "yellowed-jamaican-cookies-cookies",
-    "title": "Yellowed Jamaican Cookies",
+    "title": "Jamaican Cookie Bars",
     "tags": [
-      "jamaican-cookies",
-      "raw-friendly",
-      "romantic-dishes",
-      "spring-inspired",
-      "vegetarian"
+      "cookies",
+      "bars",
+      "jamaican",
+      "coconut"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 32,
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -12356,19 +12355,15 @@
   },
   {
     "slug": "yummy-date-night-roast-duck-tagine",
-    "title": "Yummy Date Night Roast Duck Tagine",
+    "title": "North African Duck Tagine",
     "tags": [
-      "date-night",
-      "european",
-      "gluten-free",
-      "hearty",
-      "one-pan",
-      "rich",
-      "special-occasion",
-      "vegan-friendly"
+      "moroccan",
+      "duck",
+      "tagine",
+      "dates"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 80,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {

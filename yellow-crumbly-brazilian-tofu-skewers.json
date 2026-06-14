@@ -1,0 +1,68 @@
+{
+  "slug": "yellow-crumbly-brazilian-tofu-skewers",
+  "title": "Brazilian Skewers with Yellow Cheese",
+  "description": "A colorful and easy-to-make dish featuring Brazilian-style skewers served with a side of yellow cheese.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yellow cheese",
+      "amount": "1 block (250g)",
+      "notes": "crumbly"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block (250g)",
+      "notes": "marinated in Brazilian spices"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "for grilling"
+    },
+    {
+      "name": "brazilian seasoning",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread tofu and onion onto skewers.",
+    "Brush skewers with Brazilian seasoning (if using).",
+    "Grill skewers for 10-12 minutes, turning occasionally.",
+    "Meanwhile, crumble yellow cheese into a serving dish.",
+    "Serve skewers with crumbled yellow cheese on top.",
+    "Garnish with additional onion slices (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "skewers",
+    "grilled",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 12,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crumbly-brazilian-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:40:16.523Z"
+}

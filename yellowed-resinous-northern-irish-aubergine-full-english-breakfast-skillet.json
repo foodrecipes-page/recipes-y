@@ -1,0 +1,72 @@
+{
+  "slug": "yellowed-resinous-northern-irish-aubergine-full-english-breakfast-skillet",
+  "title": "Pan-Seared Northern Irish Aubergine Skillet",
+  "description": "A hearty breakfast dish featuring pan-seared aubergine, northern irish breakfast sausage, and a full english skillet.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Northern Irish Breakfast Sausage",
+      "amount": "4",
+      "notes": "Cooked and sliced"
+    },
+    {
+      "name": "Aubergine",
+      "amount": "2",
+      "notes": "Cut into 1-inch slices"
+    },
+    {
+      "name": "Full English Skillet",
+      "amount": "1",
+      "notes": "Pre-cooked"
+    },
+    {
+      "name": "Resinous English Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Irish Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the resinous english butter in a large skillet over medium-high heat.",
+    "Add the sliced aubergine and cook for 3-4 minutes on each side, or until tender.",
+    "Add the cooked northern irish breakfast sausage to the skillet and stir to combine with the aubergine.",
+    "Season with irish salt and black pepper to taste.",
+    "Serve the pan-seared aubergine and sausage mixture over the full english skillet.",
+    "Garnish with additional resinous english butter if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "northern irish",
+    "aubergine",
+    "breakfast",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-resinous-northern-irish-aubergine-full-english-breakfast-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:58:34.439Z"
+}

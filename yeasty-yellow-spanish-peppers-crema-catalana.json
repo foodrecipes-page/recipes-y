@@ -1,0 +1,72 @@
+{
+  "slug": "yeasty-yellow-spanish-peppers-crema-catalana",
+  "title": "Pa amb Tomaquet Catalana",
+  "description": "A traditional Catalan bread rubbed with garlic and tomato and drizzled with olive oil and crema.",
+  "cuisine": "Catalan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Spanish bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Yellow peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Crema",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Yeasty garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Slice the bread into 1-inch thick slices.",
+    "2. Rub the bread slices with the yeasty garlic.",
+    "3. Grill or toast the bread slices until lightly browned.",
+    "4. Rub the toasted bread slices with the yellow peppers.",
+    "5. Drizzle the crema over the bread.",
+    "6. Season with salt to taste.",
+    "7. Drizzle the olive oil over the bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "catalan",
+    "vegetarian",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-yellow-spanish-peppers-crema-catalana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:45:44.634Z"
+}

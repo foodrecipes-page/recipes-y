@@ -9716,17 +9716,14 @@
   },
   {
     "slug": "yellowed-springy-ukrainian-chicken-noodles",
-    "title": "Yellowed Springy Ukrainian Chicken Noodles",
+    "title": "Chicken and Noodle Borscht",
     "tags": [
-      "chicken-dish",
-      "gluten-free",
-      "one-pan",
-      "sous-vide",
-      "ukrainian-cuisine",
-      "weeknight"
+      "ukrainian",
+      "soup",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {

@@ -1,0 +1,89 @@
+{
+  "slug": "yummy-filipino-tofu-stew",
+  "title": "Filipino-Style Tofu Stew",
+  "description": "A hearty and flavorful stew made with tofu and a variety of Filipino-inspired spices and herbs. Serve with steamed rice for a satisfying meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "your favorite store-bought or homemade stew mix"
+    },
+    {
+      "name": "yummy",
+      "amount": "2 cups",
+      "notes": "your favorite mixed vegetables (e.g. bell peppers, carrots, potatoes)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add stew mix and cook according to package instructions.",
+    "Add tofu, yummy, soy sauce, and fish sauce (if using). Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 20-25 minutes.",
+    "Season with black pepper and salt to taste.",
+    "Serve hot over steamed rice.",
+    "Garnish with chopped green onions and a sprinkle of toasted sesame seeds (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "stew",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-filipino-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:17:21.611Z"
+}

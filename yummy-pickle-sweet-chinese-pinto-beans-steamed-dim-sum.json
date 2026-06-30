@@ -1,0 +1,83 @@
+{
+  "slug": "yummy-pickle-sweet-chinese-pinto-beans-steamed-dim-sum",
+  "title": "Dim Sum Steamed Dumplings",
+  "description": "Delicate and flavorful steamed dumplings filled with a savory mixture of beans, pinto beans, and spices, inspired by traditional Chinese cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "beans",
+      "amount": "1/2 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "sweet",
+      "amount": "2 tablespoons",
+      "notes": "honey or sugar"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 teaspoon",
+      "notes": "five-spice powder or soy sauce"
+    },
+    {
+      "name": "yummy",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped, for garnish"
+    },
+    {
+      "name": "steamed",
+      "amount": "",
+      "notes": "for steaming dumplings"
+    },
+    {
+      "name": "dim sum",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine mashed pinto beans and beans.",
+    "Add sweet, chinese, and yummy (if using) to the bowl and mix until well combined.",
+    "Wrap the mixture in a wonton wrapper, forming a half-moon shape.",
+    "Place the dumpling on a steamer basket, leaving space between each dumpling.",
+    "Steam the dumplings for 10-12 minutes, or until cooked through.",
+    "Serve immediately with a side of pickle slices for garnish.",
+    "Serve with a drizzle of soy sauce or your favorite dipping sauce.",
+    "Enjoy as a snack or appetizer, or as a side dish for a Chinese-inspired meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "snack",
+    "steamed-dumplings"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-pickle-sweet-chinese-pinto-beans-steamed-dim-sum",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:09:49.472Z"
+}

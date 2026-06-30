@@ -7748,13 +7748,11 @@
   },
   {
     "slug": "yellowed-crispy-mediterranean-sea-bass-skewers",
-    "title": "Yellowed Crispy Mediterranean Sea Bass Skewers",
+    "title": "Pan-Seared Sea Bass with Mediterranean Skewers",
     "tags": [
-      "date-night-ideas",
-      "gluten-free-recipes",
-      "mediterranean-dinner",
-      "seafood-recipes",
-      "sugar-free-recipes"
+      "seafood",
+      "mediterranean",
+      "skewers"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
@@ -14363,17 +14361,15 @@
   },
   {
     "slug": "yummy-smoky-portuguese-cheese-frittata",
-    "title": "Yummy Smoky Portuguese Cheese Frittata",
+    "title": "Smoky Portuguese Frittata",
     "tags": [
-      "cheese-heavy",
-      "frittata",
-      "low-carb",
-      "one-pan",
-      "smoky",
-      "weeknight"
+      "breakfast",
+      "brunch",
+      "portuguese",
+      "cheesy"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -14453,20 +14449,14 @@
   },
   {
     "slug": "yummy-sour-tunisian-mung-bean-sprout-sukju-tagine",
-    "title": "Yummy Sour Tunisian Mung-Bean-Sprout-Sukju Tagine",
+    "title": "Tunisian Stew",
     "tags": [
-      "breakfast",
-      "dinner",
-      "high-protein",
-      "lunch",
-      "mung-bean-sprouts",
-      "one-pan",
-      "snack",
-      "tunisian",
-      "vegan"
+      "vegan",
+      "stew",
+      "tunisian"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

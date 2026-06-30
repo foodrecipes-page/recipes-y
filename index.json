@@ -1040,17 +1040,15 @@
   },
   {
     "slug": "yeasty-light-ethiopian-tamarind-paste-makham-injera",
-    "title": "Tamarind-Paste-Makham Injera",
+    "title": "Injera with Spiced Tamarind Sauce",
     "tags": [
-      "breakfast",
       "ethiopian",
       "injera",
-      "makham",
-      "paleo-friendly",
-      "tamarind"
+      "tamarind",
+      "flatbread"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 30,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -1313,18 +1311,15 @@
   },
   {
     "slug": "yeasty-silky-canadian-oyster-mushrooms-gravy",
-    "title": "Yeasty Silky Canadian Oyster Mushrooms Gravy",
+    "title": "Canadian Yeast Gravy on Mushrooms",
     "tags": [
+      "breakfast",
       "canadian",
-      "comfort-food",
       "gravy",
-      "hangover-cure",
-      "one-pan",
-      "silky-texture",
-      "weeknight"
+      "mushrooms"
     ],
     "cuisine": "canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -13409,17 +13404,13 @@
   },
   {
     "slug": "yummy-korean-chicken-kfc-fried-chicken",
-    "title": "Yummy Korean Chicken KFC Fried Chicken",
+    "title": "Crispy Korean Fried Chicken",
     "tags": [
-      "crunchy",
-      "fried",
       "korean",
-      "low-fat",
-      "one-pan",
-      "snack",
-      "tomato-ketchup"
+      "fried-chicken",
+      "snack"
     ],
-    "cuisine": "korean",
+    "cuisine": "Korean",
     "totalTimeMin": 40,
     "shard": "y"
   },

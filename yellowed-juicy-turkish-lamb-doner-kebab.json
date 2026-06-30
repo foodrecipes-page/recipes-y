@@ -1,0 +1,94 @@
+{
+  "slug": "yellowed-juicy-turkish-lamb-doner-kebab",
+  "title": "Traditional Turkish-Style Doner Kebab",
+  "description": "A classic Turkish dish made with thinly sliced lamb, served in a crispy sesame-topped bun with fresh vegetables. This recipe serves 4-6 people and can be prepared within an hour.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "Ask your butcher to slice the lamb thinly"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice the onion"
+    },
+    {
+      "name": "Turkish bread",
+      "amount": "4-6 buns",
+      "notes": "Sesame-topped buns are best"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Chopped lettuce adds a fresh crunch"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Chopped tomatoes add a burst of flavor"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1 medium",
+      "notes": "Chopped red pepper adds a sweet crunch"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use high-quality olive oil for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a small bowl, mix together the minced garlic, salt, and black pepper.",
+    "Brush the sesame-topped buns with olive oil and grill until crispy.",
+    "In a large bowl, combine the sliced lamb, chopped onion, lettuce, tomatoes, and red pepper.",
+    "Add the garlic mixture to the lamb mixture and mix well.",
+    "Form the lamb mixture into a large cylinder and place it on the grill.",
+    "Cook the lamb for 5-7 minutes per side, or until it reaches a safe internal temperature of 63°C (145°F).",
+    "Once the lamb is cooked, slice it thinly and serve in the crispy sesame-topped buns.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "doner-kebab",
+    "turkish-food",
+    "lamb-recipe",
+    "grilled-meat"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-juicy-turkish-lamb-doner-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:51:30.085Z"
+}

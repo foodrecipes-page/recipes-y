@@ -1,0 +1,56 @@
+{
+  "slug": "yummy-smoky-portuguese-cheese-frittata",
+  "title": "Smoky Portuguese Frittata",
+  "description": "A traditional Portuguese-inspired breakfast dish, made with smoky flavors and creamy cheese, perfect for a weekend brunch.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoky cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "yummy eggs",
+      "amount": "6 large eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add the smoky cheese and cook until melted and fragrant.",
+    "In a large bowl, whisk together the eggs and portuguese cheese.",
+    "Pour the egg mixture over the smoky cheese in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the eggs are set.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving.",
+    "Garnish with fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "portuguese",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-smoky-portuguese-cheese-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:42:35.555Z"
+}

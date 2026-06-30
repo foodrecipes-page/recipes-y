@@ -879,17 +879,14 @@
   },
   {
     "slug": "yeasty-gooey-tunisian-mushroom-flatbread",
-    "title": "Yeasty Gooey Tunisian Mushroom Flatbread",
+    "title": "Tunisian Mushroom Flatbread",
     "tags": [
       "flatbread",
       "mushroom",
-      "savory",
-      "tunisian",
-      "vegetarian",
-      "yeasty"
+      "tunisian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 55,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -7641,16 +7638,15 @@
   },
   {
     "slug": "yellowed-crispy-italian-sausage-orecchiette",
-    "title": "Yellowed Crispy Italian Sausage Orecchiette",
+    "title": "Crispy Italian Sausage and Orecchiette",
     "tags": [
-      "high-protein",
-      "italian-food",
-      "one-pan",
-      "pasta-dish",
-      "weeknight"
+      "italian",
+      "sausage",
+      "pasta",
+      "weeknight-dinner"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

@@ -1,0 +1,87 @@
+{
+  "slug": "yellow-saffron-argentinian-celeriac-empanadas",
+  "title": "Argentinian Saffron Empanadas with Celeriac Salsa",
+  "description": "A twist on traditional empanadas with the addition of saffron and a tangy celeriac salsa.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Empanada filling (beef or chicken)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Grated celeriac",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine flour, salt, and pepper. Mix well.",
+    "Gradually add 1 cup of cold water and mix until dough forms. Knead for 10 minutes.",
+    "Divide dough into 8-10 equal pieces. Roll out each piece into a thin circle.",
+    "Place 1-2 tablespoons of empanada filling in the center of each circle. Add a few strands of saffron on top.",
+    "Fold dough in half and press edges together to seal.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Brush tops with egg and drizzle with vegetable oil.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Meanwhile, combine grated celeriac, red onion, and cilantro in a bowl. Squeeze lime juice and mix well.",
+    "Serve warm empanadas with celeriac salsa and a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "saffron",
+    "empanada",
+    "celeriac",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 34,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-saffron-argentinian-celeriac-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:50:02.100Z"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "yeasty-gooey-tunisian-mushroom-flatbread",
+  "title": "Tunisian Mushroom Flatbread",
+  "description": "A crispy flatbread topped with sautéed mushrooms and spices, inspired by the flavors of Tunisia.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Yeasty sauce (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gooey cheese (optional)",
+      "amount": "1/4 cup, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the mushrooms and set aside.",
+    "Brush the flatbread with olive oil and sprinkle with Tunisian spice blend.",
+    "Bake the flatbread for 5 minutes, or until crispy.",
+    "Sauté the mushrooms in a pan with garlic until softened.",
+    "Assemble the flatbread by topping with sautéed mushrooms and optional yeasty sauce and gooey cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "mushroom",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-gooey-tunisian-mushroom-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:58:38.398Z"
+}

@@ -1162,20 +1162,14 @@
   },
   {
     "slug": "yeasty-oozy-algerian-dish-tagine",
-    "title": "yeasty-oozy algerian tagine",
+    "title": "Algerian Tagine",
     "tags": [
       "algerian",
-      "breakfast",
-      "brunch",
-      "flambe",
-      "special-occasion",
-      "spicy",
-      "sweet",
-      "weekend",
-      "yeast-risen"
+      "stew",
+      "slow-cooked"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 65,
+    "cuisine": "Algerian",
+    "totalTimeMin": 140,
     "shard": "y"
   },
   {
@@ -7362,18 +7356,14 @@
   },
   {
     "slug": "yellowed-crisp-mediterranean-lamb-kebabs",
-    "title": "Yellowed Crisp Mediterranean Lamb Kebabs",
+    "title": "Crisp Lamb Kebabs",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "kebabs",
       "lamb",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "kebabs",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 37,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -11923,19 +11913,14 @@
   },
   {
     "slug": "yummy-chewy-ukrainian-peas-stew",
-    "title": "Yummy Chewy Ukrainian Peas Stew",
+    "title": "Ukrainian Stew",
     "tags": [
-      "chewy",
-      "comfort-food",
-      "hearty",
-      "hot-pot",
-      "one-pot",
-      "paleo-friendly",
+      "beef",
       "stew",
       "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 100,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

@@ -1,0 +1,95 @@
+{
+  "slug": "yellowed-crispy-mediterranean-sea-bass-skewers",
+  "title": "Pan-Seared Sea Bass with Mediterranean Skewers",
+  "description": "A flavorful and healthy dish featuring pan-seared sea bass served with a colorful Mediterranean skewer. This recipe is perfect for a quick and delicious dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "6 ounces each"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "1 package",
+      "notes": "soak in water for 30 minutes"
+    },
+    {
+      "name": "crispy olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "yellowed bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "mediterranean tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Soak the wooden skewers in water for 30 minutes.",
+    "In a large bowl, whisk together olive oil, lemon juice, salt, and pepper.",
+    "Add the sliced bell peppers, halved tomatoes, and chopped parsley to the bowl.",
+    "Toss to coat the vegetables with the marinade.",
+    "Thread the marinated vegetables onto the soaked skewers.",
+    "Season the sea bass fillets with salt and pepper.",
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tablespoon of olive oil to the skillet.",
+    "Sear the sea bass fillets for 3-4 minutes on each side, or until cooked through.",
+    "Transfer the skillet to the preheated oven and bake for an additional 5-7 minutes.",
+    "Serve the pan-seared sea bass with the Mediterranean skewers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "mediterranean",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-mediterranean-sea-bass-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:29:28.220Z"
+}

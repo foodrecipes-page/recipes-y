@@ -1,0 +1,86 @@
+{
+  "slug": "yellowed-crispy-italian-sausage-orecchiette",
+  "title": "Crispy Italian Sausage and Orecchiette",
+  "description": "A simple, satisfying pasta dish made with crispy Italian sausage and creamy sauce. Perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "orecchiette",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "yellowed onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "crispy garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "28 ounces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the orecchiette according to package instructions until al dente.",
+    "In a large skillet, cook the Italian sausage over medium-high heat, breaking it up with a spoon as it cooks, until browned and crispy.",
+    "Remove the sausage from the skillet and set it aside on a plate.",
+    "In the same skillet, add the sliced yellowed onion and cook until softened, about 5 minutes.",
+    "Add the crispy garlic to the skillet and cook for 1 minute.",
+    "Stir in the canned crushed tomatoes, chicken broth, salt, and black pepper.",
+    "Bring the sauce to a simmer and let it cook for 5-7 minutes, stirring occasionally.",
+    "Add the cooked orecchiette to the skillet and toss it with the sauce.",
+    "Return the Italian sausage to the skillet and toss it with the pasta and sauce.",
+    "Serve the pasta hot, topped with grated parmesan cheese and chopped fresh parsley.",
+    "Drizzle with extra olive oil, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "sausage",
+    "pasta",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-italian-sausage-orecchiette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:51:10.944Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "yellowed-crisp-mediterranean-lamb-kebabs",
+  "title": "Crisp Lamb Kebabs",
+  "description": "A simple and flavorful dish made with lamb, crisp vegetables, and a hint of Mediterranean spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Yellow Bell Pepper",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Crisp Lettuce",
+      "amount": "1 head",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Mediterranean Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, Mediterranean spice blend, salt, and black pepper.",
+    "Add lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread lamb, yellow bell pepper, onion, and tomato onto skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until lamb reaches a safe internal temperature of 145°F (63°C).",
+    "Serve hot with crisp lettuce on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crisp-mediterranean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:37:29.239Z"
+}

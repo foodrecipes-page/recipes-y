@@ -11850,17 +11850,15 @@
   },
   {
     "slug": "yummy-chewy-canadian-oats-bake",
-    "title": "Yummy Chewy Canadian Oats Bake",
+    "title": "Canadian Oat Bake",
     "tags": [
-      "canadian-dish",
-      "comfort-food",
-      "fermented-food",
-      "flexitarian-friendly",
-      "midnight-craving",
-      "oat-based"
+      "canadian",
+      "oat",
+      "dessert",
+      "snack"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -13805,15 +13803,15 @@
   },
   {
     "slug": "yummy-pickle-sweet-chinese-pinto-beans-steamed-dim-sum",
-    "title": "yummy pickle sweet chinese pinto beans steamed dim sum",
+    "title": "Dim Sum Steamed Dumplings",
     "tags": [
-      "easy-snack",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "chinese",
+      "vegetarian",
+      "snack",
+      "steamed-dumplings"
     ],
-    "cuisine": "chinese",
-    "totalTimeMin": 30,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

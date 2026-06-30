@@ -1,0 +1,73 @@
+{
+  "slug": "yummy-korean-chicken-kfc-fried-chicken",
+  "title": "Crispy Korean Fried Chicken",
+  "description": "A twist on traditional fried chicken, with a spicy Korean-inspired kick. Crispy on the outside, juicy on the inside.",
+  "cuisine": "Korean",
+  "diet": [
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "2 lbs",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 cup",
+      "notes": "Korean chili flakes (gochugaru)"
+    },
+    {
+      "name": "korean",
+      "amount": "1/2 cup",
+      "notes": "Gochujang sauce"
+    },
+    {
+      "name": "fried",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "chicken",
+      "amount": "1 cup",
+      "notes": "cornstarch"
+    },
+    {
+      "name": "oil",
+      "amount": "1 cup",
+      "notes": "vegetable oil for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together flour, cornstarch, and a pinch of salt.",
+    "2. Add chicken pieces to the bowl and toss to coat.",
+    "3. Dredge chicken pieces in the flour mixture, shaking off excess.",
+    "4. Dip coated chicken pieces in gochujang sauce, making sure they're fully coated.",
+    "5. Dredge chicken pieces in the flour mixture again, pressing gently to adhere.",
+    "6. Heat about 1/2-inch of vegetable oil in a large skillet over medium-high heat.",
+    "7. Fry chicken pieces in batches until golden brown and cooked through.",
+    "8. Remove fried chicken from oil with a slotted spoon and place on a paper towel-lined plate.",
+    "9. Sprinkle fried chicken with Korean chili flakes (gochugaru) and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fried-chicken",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 34,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-korean-chicken-kfc-fried-chicken",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:55:50.629Z"
+}

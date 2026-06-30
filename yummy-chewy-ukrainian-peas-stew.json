@@ -1,0 +1,65 @@
+{
+  "slug": "yummy-chewy-ukrainian-peas-stew",
+  "title": "Ukrainian Stew",
+  "description": "A hearty and comforting stew made with tender beef and a variety of vegetables. Serve with a side of crusty bread for a satisfying meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yummy carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "chewy potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup frozen"
+    },
+    {
+      "name": "ukrainian vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the carrots and potatoes and cook for an additional 5 minutes.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes or until the beef is tender.",
+    "Stir in the peas and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-chewy-ukrainian-peas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:09:36.135Z"
+}

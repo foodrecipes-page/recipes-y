@@ -1,0 +1,68 @@
+{
+  "slug": "yeasty-gooey-brazilian-corn-pao",
+  "title": "Pão de Queijo",
+  "description": "A traditional Brazilian cheese bread recipe, flaky on the outside and gooey on the inside. Pão de Queijo is a staple in Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brazilian cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Minas or similar type"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "warm, for dough"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, combine warm milk and yeast. Let it sit for 5 minutes until frothy.",
+    "2. In a large mixing bowl, combine cornstarch, salt, and 1 cup of the Brazilian cheese. Mix well.",
+    "3. Add the yeast mixture to the cheese mixture and mix until a dough forms.",
+    "4. Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "5. Divide the dough into 8-10 equal pieces.",
+    "6. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "7. Coat each disk with cornstarch, shaking off excess.",
+    "8. Heat a non-stick skillet or griddle over medium heat.",
+    "9. Cook the pão de queijo for 4-5 minutes on each side, until golden brown and crispy.",
+    "10. Serve hot with additional shredded cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "cheese",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-gooey-brazilian-corn-pao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:44:43.630Z"
+}

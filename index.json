@@ -3044,16 +3044,16 @@
   },
   {
     "slug": "yellow-dense-dutch-nduja-stew",
-    "title": "Yellow Dense Dutch Nduja Stew",
+    "title": "Dutch Stew with Spicy Nduja",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "low-fat",
-      "one-pot",
-      "spicy"
+      "beef",
+      "nduja",
+      "stew",
+      "dutch",
+      "dinner"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "totalTimeMin": 180,
     "shard": "y"
   },
   {
@@ -4863,16 +4863,13 @@
   },
   {
     "slug": "yellow-saffron-argentinian-celeriac-empanadas",
-    "title": "Yellow Saffron Argentinian Celeriac Empanadas",
+    "title": "Argentinian Saffron Empanadas with Celeriac Salsa",
     "tags": [
       "argentinian",
+      "saffron",
+      "empanada",
       "celeriac",
-      "empanadas",
-      "low-calorie",
-      "meal-prep",
-      "resinous",
-      "silk",
-      "yellow-saffron"
+      "salsa"
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 50,
@@ -5434,17 +5431,15 @@
   },
   {
     "slug": "yellow-spanish-chicken-tapas-platter",
-    "title": "Yellow Spanish Chicken Tapas Platter",
+    "title": "Spanish Tapas Platter Chicken",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "healthy-option",
-      "kid-friendly",
-      "low-carb",
-      "spanish-cuisine"
+      "chicken",
+      "spanish",
+      "tapas",
+      "platter"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -13673,18 +13668,15 @@
   },
   {
     "slug": "yummy-molten-mexican-chilies-tamales",
-    "title": "yummy molten mexican chilies tamales",
+    "title": "Spicy Mexican Chilies Tamales",
     "tags": [
-      "char-grilled",
-      "low-carb",
       "mexican",
-      "one-pan",
-      "sugar-free",
+      "chilies",
       "tamales",
-      "weeknight"
+      "cheese"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 50,
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

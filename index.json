@@ -4943,17 +4943,15 @@
   },
   {
     "slug": "yellow-silky-slovakian-peach-dumplings",
-    "title": "Yellow Silky Slovakian Peach Dumplings",
+    "title": "Slovakian Peach Dumplings",
     "tags": [
-      "dessert",
-      "dumplings",
-      "flexitarian",
       "peach",
+      "dumplings",
       "slovakian",
-      "traditional"
+      "dessert"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "cuisine": "slovak",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -8720,16 +8718,15 @@
   },
   {
     "slug": "yellowed-juicy-turkish-lamb-doner-kebab",
-    "title": "Yellowed Juicy Turkish Lamb Doner Kebab",
+    "title": "Traditional Turkish-Style Doner Kebab",
     "tags": [
-      "kebab-recipes",
-      "lamb-recipes",
-      "midnight-cravings",
-      "street-food",
-      "turkish-food"
+      "doner-kebab",
+      "turkish-food",
+      "lamb-recipe",
+      "grilled-meat"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

@@ -1,0 +1,85 @@
+{
+  "slug": "yellow-dense-dutch-nduja-stew",
+  "title": "Dutch Stew with Spicy Nduja",
+  "description": "A hearty and flavorful Dutch stew made with tender beef, spicy nduja sausage, and root vegetables.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stew meat (beef)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Nduja sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dense carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Dutch potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add the sliced nduja sausage to the pot and cook until browned, about 3 minutes.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes, beef broth, red wine, salt, and pepper. Stir to combine.",
+    "Return the browned beef to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until the beef is tender, about 2 1/2 hours.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "nduja",
+    "stew",
+    "dutch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-dense-dutch-nduja-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:50:07.995Z"
+}

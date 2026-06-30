@@ -1,0 +1,73 @@
+{
+  "slug": "yeasty-light-ethiopian-tamarind-paste-makham-injera",
+  "title": "Injera with Spiced Tamarind Sauce",
+  "description": "A traditional Ethiopian flatbread served with a sweet and spicy tamarind sauce. Injera is a staple in Ethiopian cuisine, made from teff flour and has a slightly sour taste.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yeasty injera starter",
+      "amount": "1 cup",
+      "notes": "active and bubbly"
+    },
+    {
+      "name": "light flour",
+      "amount": "2 cups",
+      "notes": "teff flour is traditional, but light flour can be used as a substitute"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "makham (Ethiopian spices)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the yeasty injera starter, light flour, and salt. Mix well.",
+    "Gradually add the water to the bowl and mix until the batter is smooth and free of lumps.",
+    "Cover the bowl with a clean cloth and let it ferment in a warm place for 24-48 hours.",
+    "Preheat a non-stick pan or a traditional injera pan over medium heat.",
+    "Pour a small amount of the batter onto the pan and tilt it to evenly coat the pan.",
+    "Cook the injera for 1-2 minutes on the first side, until the edges start to curl and the surface is dry.",
+    "Flip the injera over and cook for another 30-60 seconds, until the other side is lightly browned.",
+    "Repeat with the remaining batter to make 4-6 injera.",
+    "To make the tamarind sauce, combine the tamarind paste, makham, and 2 tablespoons of water in a small saucepan.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5-7 minutes.",
+    "The sauce will thicken as it cooks. Remove from heat and serve with the injera."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "injera",
+    "tamarind",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-light-ethiopian-tamarind-paste-makham-injera",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:58:18.093Z"
+}

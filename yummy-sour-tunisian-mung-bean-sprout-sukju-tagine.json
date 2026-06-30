@@ -1,0 +1,75 @@
+{
+  "slug": "yummy-sour-tunisian-mung-bean-sprout-sukju-tagine",
+  "title": "Tunisian Stew",
+  "description": "A hearty and flavorful stew inspired by the cuisine of Tunisia, made with tender mung beans and a variety of vegetables.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung beans",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "sukju noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "sukju mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "yummy carrots",
+      "amount": "2, peeled and sliced"
+    },
+    {
+      "name": "sprout green onions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "bean broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sour lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add sliced onions and cook until softened, about 5 minutes.",
+    "Add sliced carrots and cook for an additional 5 minutes.",
+    "Add mung beans, mushrooms, and Tunisian spice blend. Cook for 1 minute.",
+    "Pour in bean broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in chopped green onions and lemon juice.",
+    "Cook sujuk noodles according to package instructions.",
+    "Serve stew over noodles and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "stew",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-sour-tunisian-mung-bean-sprout-sukju-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:39:27.034Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "yummy-charred-argentinian-lamb-skewers",
+  "title": "Argentinian Choripan Skewers",
+  "description": "Grilled lamb skewers with charred onions and a side of chimichurri sauce, inspired by the streets of Argentina.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Chops",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Red Chilies",
+      "amount": "2-3",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4-5 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri Sauce (store-bought or homemade)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb, onion, red bell pepper, and red chilies onto skewers.",
+    "Brush with olive oil and season with salt and black pepper.",
+    "Grill skewers for 8-10 minutes per side, or until lamb is cooked to your liking.",
+    "Meanwhile, mix together minced garlic and chimichurri sauce in a small bowl.",
+    "Serve skewers with garlic chimichurri sauce on the side.",
+    "Optional: serve with additional chimichurri sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "skewers",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-charred-argentinian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:50:22.904Z"
+}

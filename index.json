@@ -133,18 +133,15 @@
   },
   {
     "slug": "yeasty-aerated-mediterranean-lamb-leg-bake",
-    "title": "Yeasty Aerated Mediterranean Lamb Leg Bake",
+    "title": "Lamb Leg with Mediterranean Crust",
     "tags": [
-      "date-night",
-      "high-protein",
       "lamb",
       "mediterranean",
-      "one-pan",
-      "weeknight",
-      "yeast"
+      "roast",
+      "special occasion"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 75,
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -842,18 +839,14 @@
   },
   {
     "slug": "yeasty-gooey-brazilian-corn-pao",
-    "title": "yeasty gooey Brazilian corn Pão",
+    "title": "Pão de Queijo",
     "tags": [
-      "breakfast",
-      "corn-bread",
-      "hangover-cure",
-      "jain-friendly",
-      "one-pan",
-      "vegetarian",
-      "weekend"
+      "bread",
+      "cheese",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 28,
     "shard": "y"
   },
   {
@@ -6893,17 +6886,15 @@
   },
   {
     "slug": "yellowed-bouncy-irish-potato-bowl",
-    "title": "Yellowed Bouncy Irish Potato Bowl",
+    "title": "Irish Potato Bowl",
     "tags": [
-      "earthenware-bowl",
-      "green-cardamom",
-      "irish-cuisine",
-      "plant-based",
-      "shio-koji",
-      "unique-dinner"
+      "breakfast",
+      "potatoes",
+      "herbs",
+      "spices"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -10298,16 +10289,14 @@
   },
   {
     "slug": "yellowish-light-ukrainian-beef-pilaf",
-    "title": "Yellowish Light Ukrainian Beef Pilaf",
+    "title": "Ukrainian Beef Pilaf",
     "tags": [
-      "comfort-food",
-      "creamy",
-      "one-pan",
-      "tangy",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "beef",
+      "pilaf"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

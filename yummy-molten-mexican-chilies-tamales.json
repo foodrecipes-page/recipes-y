@@ -1,0 +1,65 @@
+{
+  "slug": "yummy-molten-mexican-chilies-tamales",
+  "title": "Spicy Mexican Chilies Tamales",
+  "description": "A traditional Mexican dish, these tamales are filled with a spicy blend of chilies and served steaming hot. Perfect for a dinner party or special occasion.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tamales",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Mexican chilies",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yummy cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Molten chocolate",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup",
+      "notes": "for steaming"
+    }
+  ],
+  "instructions": [
+    "Prepare the steamer with cornmeal.",
+    "Soak the tamales in water for 30 minutes.",
+    "Fill the tamales with a mix of chilies and cheese.",
+    "Steam the tamales for 20-25 minutes, or until cooked through.",
+    "Serve hot with molten chocolate on top, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chilies",
+    "tamales",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-molten-mexican-chilies-tamales",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:18:25.652Z"
+}

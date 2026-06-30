@@ -1,0 +1,83 @@
+{
+  "slug": "yeasty-velvety-thai-chicken-curry",
+  "title": "Thai Chicken Curry",
+  "description": "A flavorful and aromatic Thai-inspired curry made with tender chicken and a rich coconut milk sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Thai curry paste",
+      "amount": "2 tablespoons",
+      "notes": "red or green"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the curry paste and cook for 1 minute.",
+    "Add the coconut milk and bring to a simmer.",
+    "Reduce the heat to medium-low and cook, stirring occasionally, until the sauce has thickened, about 10 minutes.",
+    "Season with fish sauce and brown sugar, if using.",
+    "Stir in the cilantro and serve over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-velvety-thai-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:05:03.063Z"
+}

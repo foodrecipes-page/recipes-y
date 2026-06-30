@@ -1,0 +1,57 @@
+{
+  "slug": "yeasty-oozy-algerian-dish-tagine",
+  "title": "Algerian Tagine",
+  "description": "A traditional Algerian stew made with aromatic spices and slow-cooked meat. This recipe serves 4-6 people.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "algerian",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dish",
+      "amount": "2 large"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 whole"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 2 tbsp of algerian over medium heat.",
+    "Add 1 tsp of yeasty and cook for 1 minute.",
+    "Add 2 large dish and cook for 2-3 minutes per side.",
+    "Add 1 whole tagine and cook for 5 minutes.",
+    "Transfer the pot to the preheated oven and braise for 2 hours.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "stew",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-oozy-algerian-dish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:37:31.940Z"
+}

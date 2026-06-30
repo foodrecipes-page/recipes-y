@@ -1,0 +1,89 @@
+{
+  "slug": "yellow-spanish-chicken-tapas-platter",
+  "title": "Spanish Tapas Platter Chicken",
+  "description": "A flavorful and easy-to-make tapas platter featuring chicken and Spanish ingredients. Perfect for a quick dinner or appetizer.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Yellow bell pepper",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tapas platter crackers",
+      "amount": "1 box",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese (Manchego or Cheddar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Optional: olives, artichoke hearts",
+      "amount": "",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt, pepper, and garlic.",
+    "In a large skillet, heat the Spanish olive oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on both sides and cooked through.",
+    "Transfer the chicken to a baking sheet and bake for 5-7 minutes, or until cooked to an internal temperature of 165°F (74°C).",
+    "Meanwhile, arrange the sliced yellow bell peppers on a serving platter.",
+    "Top the peppers with the shredded cheese and chopped parsley.",
+    "Serve the chicken on top of the peppers.",
+    "Optional: add olives and artichoke hearts to the platter for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "spanish",
+    "tapas",
+    "platter"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spanish-chicken-tapas-platter",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:46:19.288Z"
+}

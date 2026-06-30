@@ -1,0 +1,73 @@
+{
+  "slug": "yeasty-silky-canadian-oyster-mushrooms-gravy",
+  "title": "Canadian Yeast Gravy on Mushrooms",
+  "description": "A savory and rich gravy made with Canadian yeast and served on top of sautéed mushrooms.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yeasty",
+      "amount": "2 teaspoons",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "canadian",
+      "amount": "1/4 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "gravy",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "silky",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "oyster",
+      "amount": "optional",
+      "notes": "oyster mushrooms for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together yeast and warm water to activate yeast.",
+    "2. In a separate pan, heat olive oil over medium heat and sauté mushrooms until tender.",
+    "3. In a small saucepan, whisk together flour and gravy to make a roux, cooking for 1-2 minutes.",
+    "4. Add the yeast mixture to the roux and whisk until smooth.",
+    "5. Bring the mixture to a simmer and cook for 2-3 minutes or until thickened.",
+    "6. Serve the Canadian yeast gravy over sautéed mushrooms.",
+    "7. If using oyster mushrooms, add them on top of the gravy for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "gravy",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-silky-canadian-oyster-mushrooms-gravy",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:55:58.811Z"
+}

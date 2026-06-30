@@ -1,0 +1,63 @@
+{
+  "slug": "yummy-chewy-canadian-oats-bake",
+  "title": "Canadian Oat Bake",
+  "description": "A delicious and easy-to-make oat bake perfect for a snack or dessert. Inspired by Canadian flavors.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oats",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yummy Honey",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Chewy Dates",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Canadian Maple Syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, mix together oats, honey, and dates until well combined.",
+    "3. Add maple syrup and mix until the mixture is sticky and holds together.",
+    "4. Grease an 8-inch square baking dish with butter.",
+    "5. Press the oat mixture into the prepared baking dish.",
+    "6. Bake for 25-30 minutes or until lightly golden brown.",
+    "7. Remove from oven and let cool for 5 minutes.",
+    "8. Cut into bars and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "oat",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-chewy-canadian-oats-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:46:23.290Z"
+}

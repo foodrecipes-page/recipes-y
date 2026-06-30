@@ -1,0 +1,61 @@
+{
+  "slug": "yellowed-bouncy-irish-potato-bowl",
+  "title": "Irish Potato Bowl",
+  "description": "A simple and delicious dish featuring boiled Irish potatoes, topped with a flavorful mix of herbs and spices. Perfect for a quick and satisfying meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "yellowed herbs",
+      "amount": "1 tbsp",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "bouncy spice",
+      "amount": "1 tsp",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Place the chopped potatoes in a large pot and add enough cold water to cover them.",
+    "Bring the water to a boil over high heat, then reduce the heat to medium-low and simmer for 15-20 minutes, or until the potatoes are tender.",
+    "Drain the potatoes and return them to the pot. Add the chopped parsley and ground black pepper.",
+    "Toss the potatoes to combine with the herbs and spices.",
+    "Serve the potatoes hot in individual bowls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "potatoes",
+    "herbs",
+    "spices"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-bouncy-irish-potato-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:22:13.799Z"
+}

@@ -1595,16 +1595,14 @@
   },
   {
     "slug": "yeasty-velvety-thai-chicken-curry",
-    "title": "Yeasty Velvety Thai Chicken Curry",
+    "title": "Thai Chicken Curry",
     "tags": [
-      "comfort-food",
-      "low-calorie",
-      "one-pot",
-      "thai-cuisine",
-      "weeknight"
+      "thai",
+      "chicken",
+      "curry"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -11799,14 +11797,12 @@
   },
   {
     "slug": "yummy-charred-argentinian-lamb-skewers",
-    "title": "Yummy Charred Argentinian Lamb Skewers",
+    "title": "Argentinian Choripan Skewers",
     "tags": [
-      "gluten-free",
-      "grilled-meat",
-      "high-protein",
-      "latin-american",
-      "one-pan",
-      "weeknight"
+      "argentinian",
+      "grilled",
+      "skewers",
+      "lamb"
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 35,

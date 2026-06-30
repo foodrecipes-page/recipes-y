@@ -1,0 +1,89 @@
+{
+  "slug": "yellow-silky-slovakian-peach-dumplings",
+  "title": "Slovakian Peach Dumplings",
+  "description": "A traditional Slovak dessert featuring dumplings filled with a sweet peach filling, topped with a crunchy sugar and nut topping.",
+  "cuisine": "slovak",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, sugar, and salt. Mix well.",
+    "2. In a separate bowl, whisk together egg and melted butter. Add vanilla extract and mix.",
+    "3. Add egg mixture to flour mixture and mix until a dough forms.",
+    "4. Peel and chop the peaches into small pieces.",
+    "5. Add chopped peaches to the dough and mix until they are evenly distributed.",
+    "6. Knead the dough for about 5 minutes until it becomes smooth.",
+    "7. Divide the dough into 4 equal pieces.",
+    "8. Roll out each piece into a thin circle.",
+    "9. Place a tablespoon of sugar in the center of each circle.",
+    "10. Fold the dough over the sugar and press the edges together to seal the dumpling.",
+    "11. Heat a large skillet with a couple of inches of oil over medium heat.",
+    "12. Fry the dumplings until they are golden brown on both sides, about 3-4 minutes per side.",
+    "13. Drain the dumplings on paper towels and dust with powdered sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peach",
+    "dumplings",
+    "slovakian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-silky-slovakian-peach-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:15:42.278Z"
+}

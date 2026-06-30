@@ -1,0 +1,68 @@
+{
+  "slug": "yeasty-aerated-mediterranean-lamb-leg-bake",
+  "title": "Lamb Leg with Mediterranean Crust",
+  "description": "A flavorful and aromatic lamb leg dish with a crispy Mediterranean crust, perfect for a special occasion.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "1 (1.5-2 kg)",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1 tsp",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 tsp",
+      "notes": "herb and spice blend"
+    },
+    {
+      "name": "aerated",
+      "amount": "1/4 cup",
+      "notes": "bubbly bread crumbs"
+    },
+    {
+      "name": "bake",
+      "amount": "preheated to 425F (220C)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425F (220C).",
+    "Rinse the lamb leg and pat dry with paper towels.",
+    "In a small bowl, mix together yeast, mediterranean blend, and 1 tsp olive oil.",
+    "Rub the mixture all over the lamb leg, making sure to coat evenly.",
+    "Place the lamb leg in a roasting pan and sprinkle with aerated bread crumbs.",
+    "Roast in the preheated oven for 20 minutes.",
+    "Reduce heat to 375F (190C) and continue roasting for an additional 20-25 minutes per pound, or until the internal temperature reaches 145F (63C).",
+    "Let the lamb rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": "4-6",
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "mediterranean",
+    "roast",
+    "special occasion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-aerated-mediterranean-lamb-leg-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:30:57.423Z"
+}

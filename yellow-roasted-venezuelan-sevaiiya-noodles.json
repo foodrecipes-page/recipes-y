@@ -1,0 +1,79 @@
+{
+  "slug": "yellow-roasted-venezuelan-sevaiiya-noodles",
+  "title": "Venezuelan Sevaiiya Noodles Stir Fry",
+  "description": "A quick and flavorful stir-fry made with Sevaiiya noodles, yellow peppers, and a hint of roasted spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sevaiiya noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Yellow pepper",
+      "amount": "1 large",
+      "notes": "any color bell pepper can be used"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Venezuelan roasted spices",
+      "amount": "1 tsp",
+      "notes": "available at most Latin American grocery stores"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "any neutral oil works well"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook Sevaiiya noodles according to package instructions. Drain and set aside.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the yellow pepper and cook for 3-4 minutes, or until slightly softened.",
+    "Add the roasted peanuts and cook for an additional minute.",
+    "Add the Venezuelan roasted spices and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the pepper and spice mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!",
+    "Optional: Serve with additional roasted peanuts or a sprinkle of queso fresco for garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "noodles",
+    "veggies",
+    "latin"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-roasted-venezuelan-sevaiiya-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:51:10.422Z"
+}

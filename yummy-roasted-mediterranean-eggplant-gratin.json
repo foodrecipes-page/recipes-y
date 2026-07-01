@@ -1,0 +1,80 @@
+{
+  "slug": "yummy-roasted-mediterranean-eggplant-gratin",
+  "title": "Eggplant Gratin",
+  "description": "A Mediterranean-inspired eggplant gratin, perfect for a weeknight dinner. This recipe combines the rich flavors of roasted eggplant with a crispy, cheesy topping.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Yummy Mediterranean Cheese Blend",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gratin",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the eggplant into 1/2-inch thick slices and place on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and season with salt and black pepper.",
+    "Roast in the preheated oven for 20-25 minutes, or until the eggplant is tender and lightly browned.",
+    "In a separate bowl, mix together the Mediterranean cheese blend and gratin.",
+    "To assemble the gratin, create a layer of eggplant slices in a baking dish.",
+    "Top the eggplant with the cheese mixture and repeat the process until all ingredients are used, finishing with a layer of cheese on top.",
+    "Bake for an additional 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "gratin",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-roasted-mediterranean-eggplant-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:23:23.972Z"
+}

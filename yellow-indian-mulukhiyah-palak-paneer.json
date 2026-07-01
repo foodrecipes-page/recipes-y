@@ -1,0 +1,79 @@
+{
+  "slug": "yellow-indian-mulukhiyah-palak-paneer",
+  "title": "Palak Paneer with Mulukhiyah",
+  "description": "A creamy and flavorful Indian-inspired dish made with spinach, paneer, and mulukhiyah. Serve with naan or rice for a satisfying meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Palak",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Paneer",
+      "amount": "1 block (8 oz)",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "Mulukhiyah",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a pan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add palak, mulukhiyah, and garam masala. Cook for 2-3 minutes.",
+    "Add paneer and stir to combine.",
+    "Season with salt to taste.",
+    "Simmer for 5-7 minutes or until the sauce has thickened.",
+    "Garnish with fresh cilantro, if desired.",
+    "Serve hot with naan or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-indian-mulukhiyah-palak-paneer",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:08:28.616Z"
+}

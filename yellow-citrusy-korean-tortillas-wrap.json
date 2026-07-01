@@ -1,0 +1,91 @@
+{
+  "slug": "yellow-citrusy-korean-tortillas-wrap",
+  "title": "Korean-Style Chicken Tacos",
+  "description": "A fusion of Korean and Mexican flavors, these tacos are filled with spicy chicken, crunchy slaw, and cilantro.",
+  "cuisine": "Korean-Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Slaw ingredients (red cabbage, carrots, cilantro)",
+      "amount": "1 cup shredded",
+      "notes": "for serving"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together chili flakes, soy sauce, lime juice, and 2 tbsp water.",
+    "Add the chicken to the marinade and toss to coat. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat a grill or grill pan to medium-high heat. Remove the chicken from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of chicken onto a tortilla, followed by a spoonful of kimchi, slaw, and radishes.",
+    "Drizzle with sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "tacos",
+    "chicken",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-citrusy-korean-tortillas-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:19:24.851Z"
+}

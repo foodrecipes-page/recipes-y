@@ -2947,17 +2947,14 @@
   },
   {
     "slug": "yellow-delicate-russian-almond-stir-fry",
-    "title": "Yellow Delicate Russian Almond Stir Fry",
+    "title": "Delicate Russian Stir Fry",
     "tags": [
-      "one-pan",
-      "quick-meal",
-      "russian-cuisine",
-      "shojin-friendly",
+      "russian",
       "stir-fry",
       "vegetarian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -3180,16 +3177,14 @@
   },
   {
     "slug": "yellow-earthy-filipino-uni-pancit-bihon",
-    "title": "Yellow Earthy Filipino Uni Pancit Bihon",
+    "title": "Bihon Pancit Stir Fry with Uni",
     "tags": [
-      "comfort-food",
-      "filipino-food",
-      "macrobiotic",
-      "one-pot",
-      "seafood"
+      "filipino",
+      "seafood",
+      "stir-fry"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "cuisine": "filipino",
+    "totalTimeMin": 18,
     "shard": "y"
   },
   {
@@ -8471,17 +8466,17 @@
   },
   {
     "slug": "yellowed-golden-croatian-taleggio-frittata",
-    "title": "Yellowed Golden Croatian Taleggio Frittata",
+    "title": "Croatian Frittata with Taleggio",
     "tags": [
-      "brunch-recipe",
-      "cheesy-dish",
-      "croatian-cuisine",
-      "gluten-free-option",
-      "nut-free-friendly",
-      "wok-hei-flavor"
+      "breakfast",
+      "brunch",
+      "eggs",
+      "cheese",
+      "croatian",
+      "frittata"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

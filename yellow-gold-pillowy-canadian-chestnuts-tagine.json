@@ -1,0 +1,75 @@
+{
+  "slug": "yellow-gold-pillowy-canadian-chestnuts-tagine",
+  "title": "Chestnut and Pillowy Tagine",
+  "description": "A sweet and savory tagine made with roasted chestnuts, pillowy dough, and a hint of spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": "2 cups, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Pillowy dough",
+      "amount": "1 package, thawed",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Yellow sugar",
+      "amount": "1/2 cup",
+      "notes": "or golden brown sugar"
+    },
+    {
+      "name": "Gold dust",
+      "amount": "1/4 teaspoon",
+      "notes": "edible gold dust, optional"
+    },
+    {
+      "name": "Canadian maple syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tagine spices",
+      "amount": "1 teaspoon",
+      "notes": "a mix of cinnamon, ginger, and cardamom"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pillowy dough to a thickness of about 1/4 inch.",
+    "In a large bowl, mix together the chopped chestnuts, yellow sugar, and tagine spices.",
+    "Place the dough on a baking sheet lined with parchment paper, leaving a 1-inch border around the edges.",
+    "Spread the chestnut mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Drizzle the Canadian maple syrup over the chestnut mixture.",
+    "If using edible gold dust, sprinkle it over the top of the tagine.",
+    "Fold the edges of the dough over the filling to form a crust.",
+    "Bake the tagine for 35-40 minutes, or until the crust is golden brown and the filling is heated through.",
+    "Remove the tagine from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chestnut",
+    "pillowy-dough",
+    "moroccan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-gold-pillowy-canadian-chestnuts-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:29:23.590Z"
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "yellow-earthy-filipino-uni-pancit-bihon",
+  "title": "Bihon Pancit Stir Fry with Uni",
+  "description": "A Filipino-inspired stir-fry dish made with pancit bihon noodles, fresh uni, and earthy vegetables.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pancit bihon noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "yellow squash",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "uni sashimi-grade",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok over medium-high heat.",
+    "Add garlic and sauté until fragrant.",
+    "Add yellow squash and earthly mushrooms. Stir-fry until tender.",
+    "Add pancit bihon noodles and stir-fry for 2 minutes.",
+    "Add soy sauce, salt, and black pepper. Stir-fry for another minute.",
+    "Divide the noodle mixture onto serving plates.",
+    "Top each serving with 30g of uni.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "seafood",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-earthy-filipino-uni-pancit-bihon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:33:48.962Z"
+}

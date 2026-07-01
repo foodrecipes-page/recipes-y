@@ -1,0 +1,86 @@
+{
+  "slug": "yellow-umami-french-shrimp-bourguignon",
+  "title": "French Shrimp Bourguignon",
+  "description": "A classic French dish with a seafood twist, featuring succulent shrimp cooked in a rich and flavorful bourguignon sauce.",
+  "cuisine": "French",
+  "diet": [
+    "fish-friendly",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "French Red Wine",
+      "amount": "1 cup",
+      "notes": "dry and full-bodied"
+    },
+    {
+      "name": "Bourguignon Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": "available at most French markets"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium heat.",
+    "Add onion and cook, stirring occasionally, until caramelized, about 20 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add wine and cook, stirring to deglaze the pan, until the liquid is almost completely reduced, about 5 minutes.",
+    "Add tomatoes, thyme, and spice mix. Stir to combine.",
+    "Add shrimp and cook, stirring occasionally, until pink and fully cooked, about 5-7 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "seafood",
+    "bourguignon",
+    "shrimp",
+    "red-wine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-umami-french-shrimp-bourguignon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:11:39.644Z"
+}

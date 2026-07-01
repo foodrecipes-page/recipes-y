@@ -1,0 +1,82 @@
+{
+  "slug": "yellow-delicate-russian-almond-stir-fry",
+  "title": "Delicate Russian Stir Fry",
+  "description": "A light and flavorful stir fry dish with delicate vegetables, inspired by traditional Russian cuisine.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "delicate mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "almond oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sliced onions",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat almond oil in a large skillet or wok over medium-high heat.",
+    "Add sliced onions and cook until translucent, about 3-4 minutes.",
+    "Add sliced garlic and cook for an additional minute.",
+    "Add delicate mushrooms and cook until they release their moisture and start to brown, about 4-5 minutes.",
+    "Add yellow bell pepper and stir-fry sauce, and cook for an additional 2-3 minutes.",
+    "Season with soy sauce to taste.",
+    "Transfer the stir-fry to a serving platter and garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-delicate-russian-almond-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:40:45.599Z"
+}

@@ -3944,14 +3944,10 @@
   },
   {
     "slug": "yellow-indian-mulukhiyah-palak-paneer",
-    "title": "Yellow Indian Mulukhiyah Palak Paneer",
+    "title": "Palak Paneer with Mulukhiyah",
     "tags": [
-      "banana-leaf",
-      "gluten-free",
-      "indian-cuisine",
-      "mulukhiyah",
-      "one-pot",
-      "vegetarian-friendly"
+      "indian",
+      "vegan-option"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
@@ -6359,14 +6355,13 @@
   },
   {
     "slug": "yellow-umami-french-shrimp-bourguignon",
-    "title": "Yellow Umami French Shrimp Bourguignon",
+    "title": "French Shrimp Bourguignon",
     "tags": [
-      "french-cuisine",
-      "gluten-free",
-      "one-pot",
-      "paleo-friendly",
+      "french",
       "seafood",
-      "umami-rich"
+      "bourguignon",
+      "shrimp",
+      "red-wine"
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
@@ -13955,19 +13950,15 @@
   },
   {
     "slug": "yummy-roasted-mediterranean-eggplant-gratin",
-    "title": "Yummy Roasted Mediterranean Eggplant Gratin",
+    "title": "Eggplant Gratin",
     "tags": [
-      "comfort-food",
       "eggplant",
-      "feta",
       "gratin",
-      "low-sodium",
       "mediterranean",
-      "one-pan",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

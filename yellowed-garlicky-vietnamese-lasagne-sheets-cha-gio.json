@@ -1,0 +1,85 @@
+{
+  "slug": "yellowed-garlicky-vietnamese-lasagne-sheets-cha-gio",
+  "title": "Vietnamese-Style Cha Gio",
+  "description": "A crispy Vietnamese spring roll dish made with a mixture of pork, shrimp, and vegetables, served with a sweet and sour dipping sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1/2 pound",
+      "notes": null
+    },
+    {
+      "name": "Yellowed Onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlicky Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Vietnamese",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Lasagne Sheets",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Cha Gio",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Gio",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine pork, shrimp, yellowed onion, garlicky cilantro, and Vietnamese.",
+    "Add the lasagne sheets to the mixture and stir until well combined.",
+    "Cover the mixture and refrigerate for at least 1 hour to allow the flavors to meld.",
+    "When ready to assemble the cha gio, fill a large skillet or wok with about 1 inch of oil.",
+    "Heat the oil to 350°F and slide a sheet of lasagne into the oil, using a spatula to shape it into a thin sheet.",
+    "Fry the sheet for about 2-3 minutes on each side, or until crispy and golden brown.",
+    "Remove the sheet from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "Repeat the process with the remaining lasagne sheets.",
+    "To serve, place a few sheets of cha gio on a plate and garnish with a sprinkle of gio.",
+    "Serve with a side of sweet and sour dipping sauce for added flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese-cuisine",
+    "spring-rolls",
+    "fried-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-garlicky-vietnamese-lasagne-sheets-cha-gio",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:35:43.044Z"
+}

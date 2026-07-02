@@ -1875,17 +1875,15 @@
   },
   {
     "slug": "yellow-buttery-middle-eastern-chickpeas-hummus",
-    "title": "Yellow Buttery Middle Eastern Chickpeas Hummus",
+    "title": "Eastern Chickpea Delight",
     "tags": [
-      "date-night",
-      "healthy-snack",
-      "high-protein",
-      "middle-eastern",
-      "raw-friendly",
+      "chickpeas",
+      "hummus",
+      "middle eastern",
       "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 10,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -10870,18 +10868,15 @@
   },
   {
     "slug": "youthful-creamy-argentinian-veal-empanadas",
-    "title": "Youthful Creamy Argentinian Veal Empanadas",
+    "title": "Argentinian Empanadas with Creamy Veal Filling",
     "tags": [
-      "argentinian-cuisine",
-      "ferment-jang",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "veal-recipes",
-      "weeknight"
+      "argentinian",
+      "empanadas",
+      "veal",
+      "cream"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -15066,16 +15061,14 @@
   },
   {
     "slug": "yvelvety-sour-cacao-panna-cotta",
-    "title": "Yvelvety Sour Cacao Panna Cotta",
+    "title": "Creamy Chocolate Panna Cotta",
     "tags": [
-      "cacao-based",
-      "dessert",
-      "low-fat",
-      "vegan-friendly",
-      "weeknight-friendly"
+      "chocolate",
+      "panna-cotta",
+      "dessert"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 240,
     "shard": "y"
   },
   {

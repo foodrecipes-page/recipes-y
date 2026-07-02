@@ -6808,17 +6808,16 @@
   },
   {
     "slug": "yellowed-bitter-saudi-arabian-spaghetti-pasta",
-    "title": "Yellowed Bitter Saudi Arabian Spaghetti Pasta",
+    "title": "Bitter Spaghetti with Arabian Twist",
     "tags": [
+      "spaghetti",
       "arabian",
+      "saudi",
       "bitter",
-      "midnight-craving",
-      "one-pot",
-      "spicy",
-      "sugar-free"
+      "twist"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -10237,17 +10236,16 @@
   },
   {
     "slug": "yellowish-malaysian-haddock-curry",
-    "title": "Yellowish Malaysian Haddock Curry",
+    "title": "Malaysian Yellow Curry with Haddock",
     "tags": [
-      "coconut-based",
-      "gluten-free",
-      "malaysian-cuisine",
-      "pescatarian-friendly",
-      "seafood",
-      "steamed-dish"
+      "malaysian",
+      "curry",
+      "haddock",
+      "fish",
+      "seafood"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -13967,17 +13965,14 @@
   },
   {
     "slug": "yummy-salty-saudi-arabian-white-beans-toast",
-    "title": "Yummy Salty Saudi Arabian White Beans Toast",
+    "title": "Saudi Arabian Bean Toast",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "saudi arabian",
+      "vegetarian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {

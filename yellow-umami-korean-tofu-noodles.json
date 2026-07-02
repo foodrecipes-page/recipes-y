@@ -1,0 +1,79 @@
+{
+  "slug": "yellow-umami-korean-tofu-noodles",
+  "title": "Spicy Korean Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with Korean noodles, tofu, and a spicy umami sauce. Serve hot and enjoy!",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "Tofu",
+      "amount": "200g",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Yellow pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Umami sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the Korean noodles according to the package instructions.",
+    "Heat 1 tbsp of soy sauce in a large pan over medium heat.",
+    "Add the sliced yellow pepper and cook for 2-3 minutes.",
+    "Add the pressed tofu and cook for an additional 2-3 minutes.",
+    "In a small bowl, whisk together the umami sauce, ginger, garlic, and Korean chili flakes.",
+    "Pour the sauce over the noodles and vegetables in the pan.",
+    "Stir everything together and cook for an additional 1-2 minutes.",
+    "Serve the stir fry hot, garnished with sliced green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-umami-korean-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:27:27.415Z"
+}

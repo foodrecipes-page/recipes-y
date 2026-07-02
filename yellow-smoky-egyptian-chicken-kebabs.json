@@ -1,0 +1,81 @@
+{
+  "slug": "yellow-smoky-egyptian-chicken-kebabs",
+  "title": "Smoky Chicken Kebabs",
+  "description": "A flavorful and aromatic dish made with chicken and spices. Perfect for a quick dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Yellow bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Kebabs skewers",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, mix together chicken, smoky paprika, Egyptian cumin, salt, and pepper.",
+    "Thread chicken and bell pepper onto kebabs skewers.",
+    "Brush kebabs with olive oil.",
+    "Grill kebabs for 8-10 minutes per side, or until cooked through.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "chicken",
+    "grilling",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-egyptian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:29:39.992Z"
+}

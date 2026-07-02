@@ -1,0 +1,95 @@
+{
+  "slug": "yellowed-velvety-portuguese-dasima-kombu-bake",
+  "title": "Baked Yellowtail with Dasima and Kombu",
+  "description": "A light and flaky Portuguese-inspired fish dish, baked to perfection with dasima and kombu for added depth of flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellowtail fish",
+      "amount": "4 fillets, 6 oz each",
+      "notes": "Fresh and skin removed"
+    },
+    {
+      "name": "Dasima",
+      "amount": "2 slices, 1 inch thick",
+      "notes": "Kombu dried kelp"
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 slices, 1 inch thick",
+      "notes": "Dried kelp"
+    },
+    {
+      "name": "Bake",
+      "amount": "1",
+      "notes": "Baking powder, not required"
+    },
+    {
+      "name": "Lemon",
+      "amount": "2",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Unrefined"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Rinse the yellowtail fillets and pat dry with paper towels.",
+    "Season the fish with salt and pepper.",
+    "In a small bowl, mix together lemon juice, garlic, and chopped parsley.",
+    "Place the dasima and kombu slices on the baking sheet.",
+    "Place the fish on top of the dasima and kombu.",
+    "Drizzle the lemon-garlic mixture over the fish.",
+    "Bake for 12-15 minutes or until the fish is cooked through.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-fish",
+    "portuguese-cuisine",
+    "fish-recipes"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-velvety-portuguese-dasima-kombu-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:52:35.660Z"
+}

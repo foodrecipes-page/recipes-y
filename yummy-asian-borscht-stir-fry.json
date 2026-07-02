@@ -1,0 +1,89 @@
+{
+  "slug": "yummy-asian-borscht-stir-fry",
+  "title": "Stir Fry Borscht",
+  "description": "A fusion dish blending the flavors of Asian stir-fry with the heartiness of traditional borscht.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 cups",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Beets",
+      "amount": "2 cups",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Borscht mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pan over medium heat.",
+    "Add the chopped onions and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and grated ginger, cooking for an additional minute.",
+    "Add the sliced carrots and diced beets, cooking for 5 minutes.",
+    "Add the borscht mix, soy sauce, and sesame oil, stirring to combine.",
+    "Cook for an additional 5 minutes, or until the vegetables are tender.",
+    "Serve hot, garnished with chopped green onions and a drizzle of sesame oil.",
+    "Optional: Serve with stir-fried noodles or rice for added texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "borscht",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-asian-borscht-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:46:28.958Z"
+}

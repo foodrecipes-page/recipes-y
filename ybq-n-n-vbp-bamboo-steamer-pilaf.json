@@ -1,0 +1,65 @@
+{
+  "slug": "ybq-n-n-vbp-bamboo-steamer-pilaf",
+  "title": "Bamboo Steam Pilaf",
+  "description": "A simple and healthy pilaf recipe using bamboo steamer and nutritious ingredients. Steaming is a low-calorie cooking method that preserves the nutrients in the food.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ybq",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "n",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vbp",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bamboo",
+      "amount": "1 piece (for steaming)"
+    }
+  ],
+  "instructions": [
+    "Prepare the pilaf according to the package instructions.",
+    "Soak the ybq in water for at least 30 minutes.",
+    "Rinse the n and chop it into small pieces.",
+    "Heat the vbp in a pan over low heat.",
+    "Add the ybq to the pan and stir well.",
+    "Add the pilaf and n to the pan, stir well.",
+    "Place the bamboo steamer on top of a large pot with boiling water.",
+    "Transfer the pilaf mixture to the bamboo steamer.",
+    "Steam the pilaf for 10-12 minutes or until the ybq is tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "healthy",
+    "steamed-pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ybq-n-n-vbp-bamboo-steamer-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:41:59.818Z"
+}

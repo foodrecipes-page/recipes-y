@@ -1,0 +1,80 @@
+{
+  "slug": "yellowish-malaysian-haddock-curry",
+  "title": "Malaysian Yellow Curry with Haddock",
+  "description": "A flavorful and aromatic curry made with fresh haddock, yellowish malaysian curry paste, and a blend of spices. Serve with steamed rice or roti for a delicious and satisfying meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "yellowish malaysian curry paste",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat for best flavor"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added umami flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "balances the heat from the curry paste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking the curry paste"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2",
+      "notes": "for serving, adds a touch of acidity"
+    }
+  ],
+  "instructions": [
+    "1. Heat the vegetable oil in a large pan over medium heat.",
+    "2. Add the curry paste and cook, stirring constantly, for 1-2 minutes or until fragrant.",
+    "3. Add the coconut milk and stir to combine. Bring the mixture to a simmer.",
+    "4. Add the fish sauce and sugar, stirring to combine.",
+    "5. Add the haddock fillets to the curry sauce and cook for 3-4 minutes or until cooked through.",
+    "6. Season the curry with salt to taste.",
+    "7. Serve the haddock and curry sauce over steamed rice or with roti.",
+    "8. Garnish with fresh cilantro leaves, if desired.",
+    "9. Serve with lime wedges on the side, for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "curry",
+    "haddock",
+    "fish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-malaysian-haddock-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:50:56.730Z"
+}

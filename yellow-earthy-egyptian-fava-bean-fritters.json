@@ -1,0 +1,84 @@
+{
+  "slug": "yellow-earthy-egyptian-fava-bean-fritters",
+  "title": "Egyptian Fava Bean Fritters",
+  "description": "A traditional Egyptian recipe using fava beans, perfect as a snack or side dish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fava beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "yellow cornmeal",
+      "amount": "1/2 cup",
+      "notes": "fine or medium"
+    },
+    {
+      "name": "earthly all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "or all-purpose flour"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "1 tsp",
+      "notes": "such as cumin, coriander, and paprika"
+    },
+    {
+      "name": "bean flour",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "or buttermilk"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mash the fava beans using a fork or a potato masher.",
+    "In a separate bowl, mix the cornmeal, flour, Egyptian spices, bean flour, salt, and black pepper.",
+    "Add the water or buttermilk to the dry ingredients and mix until a thick batter forms.",
+    "Add the mashed fava beans to the batter and mix until well combined.",
+    "Heat about 1-2 inches of oil in a large frying pan over medium-high heat.",
+    "Using a spoon, drop small balls of the batter into the hot oil.",
+    "Fry the fritters for about 3-4 minutes on each side, until golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the oil and drain on paper towels.",
+    "Serve the fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "egyptian",
+    "fava-beans",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-earthy-egyptian-fava-bean-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:02:17.567Z"
+}

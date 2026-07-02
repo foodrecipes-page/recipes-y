@@ -3536,17 +3536,15 @@
   },
   {
     "slug": "yellow-garlicky-mediterranean-beans-skewers",
-    "title": "Yellow Garlicky Mediterranean Beans Skewers",
+    "title": "Garlicky Yellow Mediterranean Skewers",
     "tags": [
-      "garlic-lovers",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
       "vegetarian",
-      "weeknight"
+      "vegan",
+      "gluten-free",
+      "grilling"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 37,
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -5139,17 +5137,15 @@
   },
   {
     "slug": "yellow-smoky-egyptian-chicken-kebabs",
-    "title": "Yellow Smoky Egyptian Chicken Kebabs",
+    "title": "Smoky Chicken Kebabs",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "grilled-chicken",
-      "middle-eastern",
-      "smoky-flavor",
-      "weeknight"
+      "kebabs",
+      "chicken",
+      "grilling",
+      "middle eastern"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 26,
     "shard": "y"
   },
   {
@@ -6269,17 +6265,15 @@
   },
   {
     "slug": "yellow-turkish-chinese-long-beans-doner-kebab",
-    "title": "Yellow Turkish Chinese long beans Doner Kebab",
+    "title": "Delicious Doner Kebab Wrap",
     "tags": [
-      "deep-fried",
-      "flexitarian",
-      "kebab-style",
-      "middle-eastern",
-      "turkish-food",
-      "vegetarian"
+      "turkish",
+      "kebab",
+      "wrap",
+      "quick-meal"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -6356,16 +6350,15 @@
   },
   {
     "slug": "yellow-umami-korean-tofu-noodles",
-    "title": "Yellow Umami Korean Tofu Noodles",
+    "title": "Spicy Korean Noodle Stir Fry",
     "tags": [
-      "korean-cuisine",
-      "noodle-dish",
-      "plant-based",
-      "post-workout",
-      "umami-flavors"
+      "korean",
+      "vegetarian",
+      "noodles",
+      "stir-fry"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

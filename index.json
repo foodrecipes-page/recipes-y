@@ -28,17 +28,15 @@
   },
   {
     "slug": "ybq-n-n-vbp-bamboo-steamer-pilaf",
-    "title": "Ybq-n N Vbp Bamboo-Steamer Pilaf",
+    "title": "Bamboo Steam Pilaf",
     "tags": [
-      "bbq-steamer-friendly",
-      "herbal",
-      "n-straight-from-russia-with-love",
-      "no-refrigeration",
-      "o-vegetarian",
-      "vanilla-bean"
+      "low-calorie",
+      "healthy",
+      "steamed-pilaf",
+      "vegetarian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

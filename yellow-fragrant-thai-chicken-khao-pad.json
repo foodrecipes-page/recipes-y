@@ -1,0 +1,98 @@
+{
+  "slug": "yellow-fragrant-thai-chicken-khao-pad",
+  "title": "Khao Pad Thai with Chicken",
+  "description": "A classic Thai dish made with stir-fried rice, vegetables, and your choice of protein. This recipe is a simplified version of a traditional Pad Thai, but just as delicious.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Peppers",
+      "amount": "2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to the package instructions. Set aside.",
+    "Cut the chicken into bite-sized pieces and season with salt and pepper.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the onion, carrots, and yellow peppers to the skillet and cook until tender.",
+    "Add the bean sprouts to the skillet and cook for 1-2 minutes.",
+    "In a small bowl, whisk together the tamarind paste, soy sauce, and sugar.",
+    "Pour the sauce into the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine.",
+    "Serve the chicken and vegetables over the cooked rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pad thai",
+    "khao",
+    "thai",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-fragrant-thai-chicken-khao-pad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:27:21.682Z"
+}

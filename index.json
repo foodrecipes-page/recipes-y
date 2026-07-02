@@ -3551,18 +3551,15 @@
   },
   {
     "slug": "yellow-garlicky-middle-eastern-bean-bowl",
-    "title": "Yellow Garlicky Middle Eastern Bean Bowl",
+    "title": "Eastern Bean Bowl",
     "tags": [
-      "crispy",
-      "garlicky",
-      "gluten-free",
+      "bean-bowl",
       "middle-eastern",
-      "one-bowl",
-      "romantic-dinner",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -12163,16 +12160,14 @@
   },
   {
     "slug": "yummy-croatian-bread-flour-bowl",
-    "title": "Yummy Croatian Bread Flour Bowl",
+    "title": "Traditional Croatian Bread",
     "tags": [
-      "bento-box",
       "bread",
-      "quick",
-      "sattvic",
-      "vegan"
+      "croatian",
+      "breakfast"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -13914,17 +13909,15 @@
   },
   {
     "slug": "yummy-roasted-malaysian-all-purpose-flour-bread",
-    "title": "Yummy Roasted Malaysian All-Purpose Flour Bread",
+    "title": "Malaysian Roti Canai",
     "tags": [
-      "bread",
+      "flatbread",
       "malaysian",
-      "paleo-friendly",
-      "quick-fix",
-      "roasted",
-      "weeknight"
+      "breakfast",
+      "snack"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

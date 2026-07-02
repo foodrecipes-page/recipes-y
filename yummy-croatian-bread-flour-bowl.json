@@ -1,0 +1,56 @@
+{
+  "slug": "yummy-croatian-bread-flour-bowl",
+  "title": "Traditional Croatian Bread",
+  "description": "A simple and delicious bread recipe from Croatia, perfect for dipping in olive oil or serving with meals.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "bread",
+      "amount": "4 cups, stale"
+    },
+    {
+      "name": "yummy",
+      "amount": "optional, for topping"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Tear the bread into small pieces and place in a bowl.",
+    "3. Mix flour with a small amount of water to create a dough.",
+    "4. Knead the dough for 5-7 minutes, until smooth and elastic.",
+    "5. Place the dough in a greased bowl, cover with a damp cloth, and let rise for 1 hour.",
+    "6. Punch down the dough and shape into a round loaf.",
+    "7. Place the loaf on a baking sheet, cover with a damp cloth, and let rise for 30 minutes.",
+    "8. Bake for 25-30 minutes, or until golden brown.",
+    "9. Let cool on a wire rack for 10 minutes before slicing.",
+    "10. Serve warm, topped with a little bit of yummy if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "croatian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-croatian-bread-flour-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T04:37:14.192Z"
+}

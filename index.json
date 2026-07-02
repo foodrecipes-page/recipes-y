@@ -2762,17 +2762,14 @@
   },
   {
     "slug": "yellow-crunchy-american-long-bean-skillet",
-    "title": "Yellow Crunchy American Long Bean Skillet",
+    "title": "American Bean Skillet Delight",
     "tags": [
-      "american-cuisine",
-      "crunchy-texture",
-      "flexitarian",
-      "one-pan",
-      "umami-rich",
-      "weeknight"
+      "breakfast",
+      "skillet",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -3156,17 +3153,16 @@
   },
   {
     "slug": "yellow-earthy-egyptian-fava-bean-fritters",
-    "title": "Yellow Earthy Egyptian Fava Bean Fritters",
+    "title": "Egyptian Fava Bean Fritters",
     "tags": [
-      "brunch-recipe",
-      "deep-fried",
-      "diabetic-friendly",
-      "egyptian-cuisine",
+      "fritters",
+      "egyptian",
       "fava-beans",
-      "vegetarian-friendly"
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -11487,16 +11483,15 @@
   },
   {
     "slug": "yummy-asian-borscht-stir-fry",
-    "title": "Yummy Asian Borscht Stir-fry",
+    "title": "Stir Fry Borscht",
     "tags": [
-      "buddhist-temple-style",
-      "canadian-friendly",
-      "crispy",
-      "date-night-dish",
-      "pungent"
+      "asian",
+      "borscht",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Asian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

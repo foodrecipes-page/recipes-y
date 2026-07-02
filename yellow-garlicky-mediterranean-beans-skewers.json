@@ -1,0 +1,71 @@
+{
+  "slug": "yellow-garlicky-mediterranean-beans-skewers",
+  "title": "Garlicky Yellow Mediterranean Skewers",
+  "description": "A flavorful and healthy vegetarian skewer recipe, perfect for a summer evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yellow bell peppers",
+      "amount": "2",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "mediterranean seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "canned beans (such as chickpeas or black beans)",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread bell peppers, garlic, and beans onto skewers, leaving a little space between each piece.",
+    "Brush skewers with olive oil and sprinkle with Mediterranean seasoning.",
+    "Grill skewers for 10-12 minutes, turning occasionally, or until vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-garlicky-mediterranean-beans-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:36:26.741Z"
+}

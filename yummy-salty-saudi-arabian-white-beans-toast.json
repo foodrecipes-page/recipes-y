@@ -1,0 +1,66 @@
+{
+  "slug": "yummy-salty-saudi-arabian-white-beans-toast",
+  "title": "Saudi Arabian Bean Toast",
+  "description": "A flavorful and satisfying breakfast dish inspired by Saudi Arabian cuisine. This recipe combines the goodness of beans and toast with a hint of salty flavor.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked beans are fine"
+    },
+    {
+      "name": "white toast",
+      "amount": "2 slices",
+      "notes": "you can use whole wheat or other bread types as well"
+    },
+    {
+      "name": "salty",
+      "amount": "1/2 teaspoon",
+      "notes": "you can use salt or other salty seasonings like sumac"
+    },
+    {
+      "name": "arabian",
+      "amount": "1/4 teaspoon",
+      "notes": "use a mix of cumin, coriander, and cinnamon for a traditional flavor"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 tablespoon",
+      "notes": "you can use olive oil or other neutral-tasting oil"
+    }
+  ],
+  "instructions": [
+    "1. Cook the white beans according to package instructions or by boiling them in water.",
+    "2. Toast the white toast slices until they are lightly browned.",
+    "3. In a pan, heat the yummy (olive oil) over medium heat.",
+    "4. Add the salty (salt or sumac) and arabian (cumin, coriander, and cinnamon) spices to the pan and stir for 1 minute.",
+    "5. Add the cooked white beans to the pan and stir to combine with the spices.",
+    "6. Place the toasted white toast slices on a plate and top with the bean mixture.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "saudi arabian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-salty-saudi-arabian-white-beans-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:17:20.122Z"
+}

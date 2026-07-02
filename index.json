@@ -10616,18 +10616,15 @@
   },
   {
     "slug": "yogurt-infused-greek-cottage-cheese-galaktoboureko-pie",
-    "title": "Yogurt-Infused Greek Cottage Cheese Galaktoboureko Pie",
+    "title": "Galaktoboureko Pie with Yogurt",
     "tags": [
-      "comfort-food",
-      "dairy",
-      "gluten-free",
-      "greeksnacks",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "galaktoboureko",
+      "pie",
+      "greek",
+      "dessert"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -11613,16 +11610,16 @@
   },
   {
     "slug": "yummy-brazilian-fish-wrap",
-    "title": "Yummy Brazilian Fish Wrap",
+    "title": "Brazilian Fish Wrap",
     "tags": [
-      "brazilian-cuisine",
-      "fish-recipes",
-      "high-protein",
-      "kosher-friendly",
-      "lotus-leaf-wraps"
+      "brazilian",
+      "fish",
+      "gluten-free",
+      "lunch",
+      "quick"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 18,
     "shard": "y"
   },
   {

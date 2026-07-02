@@ -1,0 +1,97 @@
+{
+  "slug": "yellow-turkish-chinese-long-beans-doner-kebab",
+  "title": "Delicious Doner Kebab Wrap",
+  "description": "A flavorful and easy-to-make doner kebab wrap recipe, perfect for a quick meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Long Turkish Doner Kebab",
+      "amount": "1",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Yellow Cabbage",
+      "amount": "1/2",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Chinese Beans",
+      "amount": "1/2 cup",
+      "notes": "Canned"
+    },
+    {
+      "name": "Soft Flour Tortilla",
+      "amount": "1",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red Pepper",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tzatziki Sauce",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Place the doner kebab in the pan and cook for 2-3 minutes on each side.",
+    "Meanwhile, toast the tortilla in the oven for 2-3 minutes.",
+    "Assemble the wrap by placing the cooked doner kebab, shredded cabbage, canned beans, lettuce, diced tomato, sliced cucumber, and red pepper.",
+    "Drizzle with tzatziki sauce and season with salt and black pepper.",
+    "Fold the tortilla to enclose the filling and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "kebab",
+    "wrap",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-turkish-chinese-long-beans-doner-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:30:09.319Z"
+}

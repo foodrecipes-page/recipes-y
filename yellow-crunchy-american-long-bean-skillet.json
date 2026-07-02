@@ -1,0 +1,67 @@
+{
+  "slug": "yellow-crunchy-american-long-bean-skillet",
+  "title": "American Bean Skillet Delight",
+  "description": "A hearty and flavorful American-inspired skillet dish loaded with beans, sausage, and cheese.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "long bean",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "skillet sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "american cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "skillet",
+      "amount": "1, for cooking"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the sliced long bean and cook until tender, about 5 minutes.",
+    "Add the chopped yellow onion and cook until softened, about 3 minutes.",
+    "Stir in the shredded american cheese until melted and well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "skillet",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crunchy-american-long-bean-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:02:26.342Z"
+}

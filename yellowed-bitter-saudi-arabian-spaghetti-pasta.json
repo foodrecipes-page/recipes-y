@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-bitter-saudi-arabian-spaghetti-pasta",
+  "title": "Bitter Spaghetti with Arabian Twist",
+  "description": "A unique twist on traditional spaghetti, incorporating the bitterness of saudi saffron and a hint of arabian spices.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "saudi saffron threads",
+      "amount": "1/4 tsp",
+      "notes": "bitter flavor"
+    },
+    {
+      "name": "arabian spice blend",
+      "amount": "1 tsp",
+      "notes": "custom blend of spices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook spaghetti according to package instructions until al dente.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add garlic and cook until fragrant, about 1-2 minutes.",
+    "Add saudi saffron threads and cook for an additional 1-2 minutes, until fragrant.",
+    "Add arabian spice blend and stir to combine.",
+    "Drain cooked spaghetti and add to the skillet, tossing to coat with the spice mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spaghetti",
+    "arabian",
+    "saudi",
+    "bitter",
+    "twist"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-bitter-saudi-arabian-spaghetti-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:20:33.574Z"
+}

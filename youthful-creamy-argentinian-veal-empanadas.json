@@ -1,0 +1,85 @@
+{
+  "slug": "youthful-creamy-argentinian-veal-empanadas",
+  "title": "Argentinian Empanadas with Creamy Veal Filling",
+  "description": "A classic Argentinian recipe featuring empanadas filled with a rich and creamy veal mixture.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Veal",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a pan, sauté the onion and garlic until softened.",
+    "3. Add the veal and cook until browned, breaking it up into small pieces.",
+    "4. Stir in the cream and bring to a simmer.",
+    "5. Season with yeast, salt, and black pepper.",
+    "6. Roll out the empanada dough and cut into circles.",
+    "7. Place a tablespoon of the veal mixture in the center of each circle.",
+    "8. Fold the dough over and press the edges to seal.",
+    "9. Brush the tops with egg wash and bake for 15-20 minutes, or until golden brown.",
+    "10. Serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "veal",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/youthful-creamy-argentinian-veal-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:28:39.328Z"
+}

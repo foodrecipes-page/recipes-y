@@ -8175,18 +8175,16 @@
   },
   {
     "slug": "yellowed-flaky-greek-semolina-custard-galaktoboureko",
-    "title": "Yellowed Flaky Greek Semolina Custard Galaktoboureko",
+    "title": "Galaktoboureko",
     "tags": [
-      "brown-sugar",
-      "diabetic-friendly",
-      "flaky-crust",
-      "greek-dessert",
-      "iron-teppan",
-      "lardons-render",
-      "semolina-custard"
+      "greek",
+      "dessert",
+      "custard",
+      "phyllo",
+      "pie"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 70,
+    "totalTimeMin": 65,
     "shard": "y"
   },
   {

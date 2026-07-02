@@ -1,0 +1,77 @@
+{
+  "slug": "yvelvety-sour-cacao-panna-cotta",
+  "title": "Creamy Chocolate Panna Cotta",
+  "description": "A rich and creamy dessert made with cacao and topped with a velvety texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Panna cotta creamer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yvelvety cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine cocoa powder and cocoa butter. Heat over low heat, stirring until smooth.",
+    "In a separate bowl, whisk together panna cotta creamer, sugar, and heavy cream until well combined.",
+    "Add the sour cream to the panna cotta mixture and whisk until smooth.",
+    "Pour the chocolate mixture into the panna cotta mixture and whisk until well combined.",
+    "Pour the mixture into individual serving cups or ramekins.",
+    "Cover with plastic wrap and refrigerate for at least 4 hours or overnight.",
+    "To serve, top with yvelvety cream or whipped cream, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 240,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "panna-cotta",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yvelvety-sour-cacao-panna-cotta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:31:02.935Z"
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "yogurt-infused-greek-cottage-cheese-galaktoboureko-pie",
+  "title": "Galaktoboureko Pie with Yogurt",
+  "description": "A classic Greek dessert, Galaktoboureko is a semolina custard pie wrapped in flaky phyllo pastry, served with a dollop of yogurt.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 package of phyllo dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "1 cup of semolina flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup of granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup of unsalted butter, melted",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup of galaktoboureko pie filling",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup of greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon of vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Unroll the phyllo dough and cut into 4 equal pieces.",
+    "Brush each piece with melted butter.",
+    "In a bowl, mix together semolina flour, granulated sugar, and vanilla extract.",
+    "Add the galaktoboureko pie filling to the bowl and mix well.",
+    "Place a piece of phyllo dough on a flat surface and brush with butter.",
+    "Spoon some of the semolina mixture onto the phyllo dough, leaving a 1-inch border around the edges.",
+    "Fold the phyllo dough over the filling to form a triangle and press the edges to seal.",
+    "Repeat with the remaining phyllo dough and filling.",
+    "Place the triangles on a baking sheet lined with parchment paper.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve warm with a dollop of greek yogurt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galaktoboureko",
+    "pie",
+    "greek",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-infused-greek-cottage-cheese-galaktoboureko-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:26:43.999Z"
+}

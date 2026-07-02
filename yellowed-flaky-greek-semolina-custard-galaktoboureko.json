@@ -1,0 +1,81 @@
+{
+  "slug": "yellowed-flaky-greek-semolina-custard-galaktoboureko",
+  "title": "Galaktoboureko",
+  "description": "A classic Greek semolina custard pie wrapped in flaky phyllo pastry, typically topped with a sweet syrup.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup, melted"
+    },
+    {
+      "name": "flaky phyllo pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "yellowed, flaky pie crust",
+      "amount": "1 package (optional)"
+    },
+    {
+      "name": "custard",
+      "amount": "1 package (store-bought)"
+    },
+    {
+      "name": "galaktoboureko syrup",
+      "amount": "1 cup (store-bought)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw the phyllo pastry according to package instructions.",
+    "In a large bowl, whisk together the semolina, milk, sugar, and eggs.",
+    "Add the melted butter and mix until well combined.",
+    "Pour the mixture into the phyllo pastry and smooth the top.",
+    "If using a pie crust, place the phyllo pastry inside the crust.",
+    "Bake for 45-50 minutes, or until the pastry is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Drizzle with galaktoboureko syrup and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "custard",
+    "phyllo",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6.5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-greek-semolina-custard-galaktoboureko",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:09:28.072Z"
+}

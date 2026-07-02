@@ -1,0 +1,81 @@
+{
+  "slug": "yellow-buttery-middle-eastern-chickpeas-hummus",
+  "title": "Eastern Chickpea Delight",
+  "description": "A delicious and nutritious meal from the Middle East, made with chickpeas and hummus. Perfect for a quick dinner or lunch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "yellow onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the chopped onions and cook until softened, about 3-4 minutes.",
+    "Add the cumin, salt, and black pepper. Cook for 1 minute.",
+    "Add the chickpeas, hummus, and olive oil. Stir to combine.",
+    "Cook for 2-3 minutes, or until the flavors have melded together.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpeas",
+    "hummus",
+    "middle eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-buttery-middle-eastern-chickpeas-hummus",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:13:42.661Z"
+}

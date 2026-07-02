@@ -1,0 +1,84 @@
+{
+  "slug": "yummy-brazilian-fish-wrap",
+  "title": "Brazilian Fish Wrap",
+  "description": "A flavorful Brazilian-inspired fish wrap with fresh ingredients. This dish is perfect for a quick and easy lunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (tilapia or cod)",
+      "amount": "4 oz",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh leaves"
+    },
+    {
+      "name": "Wrap (gluten-free)",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Sliced avocado",
+      "amount": "1/2",
+      "notes": "Ripe and creamy"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Sliced tomato",
+      "amount": "1/2",
+      "notes": "Fresh and juicy"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or grill pan over medium-high heat.",
+    "2. Season the fish fillet with salt and pepper.",
+    "3. Add the olive oil to the skillet and sear the fish for 3-4 minutes per side, or until cooked through.",
+    "4. Meanwhile, toast the wrap in the oven or on the grill for a few seconds.",
+    "5. Slice the avocado, red onion, and tomato.",
+    "6. Assemble the wrap by spreading the lime juice on the wrap, then adding the sliced avocado, red onion, and tomato.",
+    "7. Once the fish is cooked, place it on top of the vegetables.",
+    "8. Sprinkle with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "fish",
+    "gluten-free",
+    "lunch",
+    "quick"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-brazilian-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:36:40.521Z"
+}

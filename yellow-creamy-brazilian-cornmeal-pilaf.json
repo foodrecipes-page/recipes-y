@@ -1,0 +1,74 @@
+{
+  "slug": "yellow-creamy-brazilian-cornmeal-pilaf",
+  "title": "Brazilian Cornmeal Pudding",
+  "description": "A creamy and comforting Brazilian-inspired dessert made with cornmeal, a delicious twist on traditional puddings.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Yellow corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together cornmeal, eggs, corn kernels, and sugar.",
+    "In a separate bowl, whisk together milk, melted butter, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Pour the batter into 6-8 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes, or until the pudding is set and the tops are lightly golden.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or until chilled.",
+    "Serve the pudding cold, garnished with a sprinkle of cinnamon or a dollop of whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cornmeal",
+    "pudding",
+    "dessert",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-creamy-brazilian-cornmeal-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:05:25.789Z"
+}

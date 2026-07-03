@@ -1,0 +1,83 @@
+{
+  "slug": "yellow-spicy-croatian-lamb-kebabs",
+  "title": "Croatian Lamb Kebabs",
+  "description": "A traditional Croatian dish featuring lamb skewers, marinated in a mix of spices and herbs, grilled to perfection.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat-lovers",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Yellow onion, thinly sliced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Croatian spice blend (paprika, salt, black pepper, sugar)",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Yellow bell pepper, seeded and sliced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Spicy red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, Croatian spice blend, salt, and pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread lamb, onion, bell pepper, and parsley onto skewers.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until cooked through.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "If using red pepper flakes, serve on the side for added heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "croatian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-croatian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:14:08.773Z"
+}

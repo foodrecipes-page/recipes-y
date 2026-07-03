@@ -5639,17 +5639,15 @@
   },
   {
     "slug": "yellow-spicy-croatian-lamb-kebabs",
-    "title": "Yellow Spicy Croatian Lamb Kebabs",
+    "title": "Croatian Lamb Kebabs",
     "tags": [
-      "croatian-cuisine",
-      "gluten-free",
-      "lamb-based",
-      "low-calorie",
-      "spicy-food",
-      "tandoor-cooked"
+      "lamb",
+      "kebabs",
+      "croatian",
+      "grilled"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

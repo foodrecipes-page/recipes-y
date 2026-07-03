@@ -1,0 +1,97 @@
+{
+  "slug": "yummy-fermented-malaysian-beef-broth",
+  "title": "Malaysian Beef Noodle Soup",
+  "description": "A hearty and flavorful noodle soup originating from Malaysia, made with beef, fermented elements, and a rich broth.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Fermented Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Malaysian Noodles",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large pot over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onions and garlic and cook until the onions are translucent.",
+    "Add the beef broth, fermented fish sauce, fish sauce, and ginger to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the Malaysian noodles to the pot and cook for 8-10 minutes, or until they are tender.",
+    "Stir in the lime juice and season the soup with salt to taste.",
+    "Serve the soup hot, garnished with chopped herbs if desired.",
+    "Reheat the soup for 5-7 minutes before serving if needed.",
+    "Serve the soup immediately and enjoy!",
+    "Store leftovers in the refrigerator for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "noodle-soup",
+    "malaysian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-fermented-malaysian-beef-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:21:25.067Z"
+}

@@ -452,16 +452,14 @@
   },
   {
     "slug": "yeasty-crunchy-brazilian-cucumber-bowl",
-    "title": "Yeasty Crunchy Brazilian Cucumber Bowl",
+    "title": "Brazilian Cucumber Salad",
     "tags": [
-      "brazilian",
-      "cucumber",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "salad",
+      "snack",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -1250,16 +1248,14 @@
   },
   {
     "slug": "yeasty-russian-buckwheat-blini",
-    "title": "Yeasty Russian Buckwheat Blini",
+    "title": "Russian Buckwheat Blini",
     "tags": [
       "breakfast",
-      "low-glycemic",
       "russian",
-      "snack",
-      "weeknight"
+      "buckwheat"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -2805,17 +2801,15 @@
   },
   {
     "slug": "yellow-crunchy-italian-hazelnut-fritters",
-    "title": "Yellow Crunchy Italian Hazelnut Fritters",
+    "title": "Crunchy Italian Fritters",
     "tags": [
-      "comfort-food",
-      "crunchy-snacks",
-      "dairy-free-snacks",
-      "fried-foods",
-      "hazelnut-recipes",
-      "italian-recipes"
+      "italian",
+      "fritters",
+      "snack",
+      "hazelnut"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 60,
+    "cuisine": "italian",
+    "totalTimeMin": 18,
     "shard": "y"
   },
   {
@@ -4269,17 +4263,14 @@
   },
   {
     "slug": "yellow-molten-spanish-shrimp-gambas-al-ajillo",
-    "title": "Yellow Molten Spanish Shrimp Gambas Al Ajillo",
+    "title": "Shrimp and Garlic Paella",
     "tags": [
-      "high-protein",
-      "indulgent",
-      "one-pan",
+      "spanish",
       "seafood",
-      "spanish-cuisine",
-      "weeknight"
+      "rice"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 27,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

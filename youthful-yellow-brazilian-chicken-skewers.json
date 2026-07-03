@@ -1,0 +1,95 @@
+{
+  "slug": "youthful-yellow-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers with Yellow Pepper",
+  "description": "Grilled chicken skewers marinated in a zesty mixture of herbs and spices, served with juicy yellow peppers. A delicious and easy-to-make Brazilian-inspired dish.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "young chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chicken skewers",
+      "amount": "12-15",
+      "notes": ""
+    },
+    {
+      "name": "youthful cilantro",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "brazilian lime",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "spicy Brazilian pepper",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together olive oil, lime juice, chopped cilantro, minced garlic, salt, and pepper.",
+    "2. Add the chicken breast and mix well to coat with the marinade.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Thread the marinated chicken and yellow peppers onto the skewers.",
+    "6. Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "7. Serve hot, garnished with additional cilantro if desired.",
+    "8. Enjoy with the remaining marinade as a sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "skewers",
+    "brazilian",
+    "lime"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/youthful-yellow-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:56:58.130Z"
+}

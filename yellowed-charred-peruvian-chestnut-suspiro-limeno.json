@@ -1,0 +1,70 @@
+{
+  "slug": "yellowed-charred-peruvian-chestnut-suspiro-limeno",
+  "title": "Peruvian Chestnut Cake with Lime Glaze",
+  "description": "Moist and flavorful cake made with Peruvian chestnut flour, topped with a tangy lime glaze.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peruvian chestnut flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "suspiro sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "limeno zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yellowed eggs",
+      "amount": "4"
+    },
+    {
+      "name": "charred milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "limeno juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9-inch round cake pan and set aside.",
+    "In a medium bowl, whisk together chestnut flour, sugar, and lime zest.",
+    "In a large bowl, whisk together eggs, milk, and lime juice.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Allow the cake to cool in the pan for 5 minutes, then transfer to a wire rack to cool completely.",
+    "To make the glaze, whisk together 1 cup of powdered sugar and 2 tablespoons of limeno juice until smooth.",
+    "Drizzle the glaze over the cooled cake and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "cake",
+    "limeno",
+    "chestnut",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-charred-peruvian-chestnut-suspiro-limeno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:29:43.599Z"
+}

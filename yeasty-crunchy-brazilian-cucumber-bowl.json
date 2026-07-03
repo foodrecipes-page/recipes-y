@@ -1,0 +1,71 @@
+{
+  "slug": "yeasty-crunchy-brazilian-cucumber-bowl",
+  "title": "Brazilian Cucumber Salad",
+  "description": "A refreshing and light salad made with cucumber, crunchy elements, and a hint of Brazilian spices. Perfect for a warm day.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1/4 cup",
+      "notes": "crusty bread, cubed"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": "chopped nuts or seeds"
+    },
+    {
+      "name": "brazilian",
+      "amount": "2 tbsp",
+      "notes": "Brazilian spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine sliced cucumber, cubed yeasty bread, and chopped crunchy elements.",
+    "In a small bowl, whisk together Brazilian spice blend, olive oil, and lemon juice.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled, garnished with additional chopped nuts or seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "snack",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-crunchy-brazilian-cucumber-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:01:13.381Z"
+}

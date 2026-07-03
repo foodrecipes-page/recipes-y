@@ -1,0 +1,73 @@
+{
+  "slug": "yellow-molten-spanish-shrimp-gambas-al-ajillo",
+  "title": "Shrimp and Garlic Paella",
+  "description": "A classic Spanish dish featuring succulent shrimp, savory garlic, and flavorful rice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saffron-infused rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Spanish garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Al ajillo oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Gambas",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high.",
+    "Add onion and cook until translucent.",
+    "Add garlic and cook for 1 minute.",
+    "Add shrimp and cook until pink.",
+    "Add rice and stir to combine.",
+    "Add saffron and cook for 1 minute.",
+    "Add liquid and bring to a boil.",
+    "Simmer for 20 minutes.",
+    "Serve hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-molten-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:13:46.374Z"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "yellow-spicy-indian-falafel-grill",
+  "title": "Indian-Style Falafel Grill",
+  "description": "A flavorful and spicy twist on traditional falafel, grilled to perfection. Serve with your favorite sides for a delicious and satisfying meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "spicy red pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "for grilling"
+    },
+    {
+      "name": "falafel mix",
+      "amount": "1 packet",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, mash chickpeas using a fork or a potato masher.",
+    "Add yellow onion, spicy red pepper, garlic, cumin, cayenne pepper, salt, and black pepper to the bowl with the chickpeas.",
+    "Stir in falafel mix and lemon juice until well combined.",
+    "Using your hands, shape the mixture into 8-10 patties.",
+    "Brush grill with oil to prevent sticking.",
+    "Grill the falafel patties for 4-5 minutes per side, or until golden brown and crispy.",
+    "Serve hot with your favorite sides, such as pita bread, salad, or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "spicy",
+    "grill",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-indian-falafel-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:49:55.610Z"
+}

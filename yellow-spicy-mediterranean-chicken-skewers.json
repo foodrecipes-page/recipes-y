@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-spicy-mediterranean-chicken-skewers",
+  "title": "Spicy Chicken Skewers",
+  "description": "A flavorful and colorful dish featuring marinated chicken on skewers, perfect for a summer evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Yellow pepper",
+      "amount": "2",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Spicy sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as sriracha or harissa"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 teaspoon",
+      "notes": "such as oregano, thyme, and rosemary"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, yellow pepper, and spicy sauce onto skewers.",
+    "Brush olive oil onto the skewers.",
+    "Season with salt, black pepper, and Mediterranean seasoning.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Cook to an internal temperature of 165°F (74°C) for chicken.",
+    "Let skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skewers",
+    "mediterranean",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-mediterranean-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:39:40.211Z"
+}

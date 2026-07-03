@@ -198,18 +198,15 @@
   },
   {
     "slug": "yeasty-brazilian-ciabatta-grill",
-    "title": "Brazilian Ciabatta Grill",
+    "title": "Brazilian Ciabatta Sandwich",
     "tags": [
-      "brazilian",
-      "cheesy",
-      "ciabatta",
-      "grill",
-      "high-calorie",
-      "veggie-friendly",
-      "yeast"
+      "grilled",
+      "chicken",
+      "bread",
+      "sandwich"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -2332,17 +2329,15 @@
   },
   {
     "slug": "yellow-creamy-brazilian-cornmeal-pilaf",
-    "title": "Yellow Creamy Brazilian Cornmeal Pilaf",
+    "title": "Brazilian Cornmeal Pudding",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "cornmeal",
+      "pudding",
+      "dessert",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -5759,18 +5754,15 @@
   },
   {
     "slug": "yellow-spicy-indian-falafel-grill",
-    "title": "Yellow Spicy Indian Falafel Grill",
+    "title": "Indian-Style Falafel Grill",
     "tags": [
-      "grilled",
-      "high-protein",
-      "indian-food",
-      "korean-brass-bowl",
-      "lazy-sunday",
-      "vegan",
+      "indian",
+      "spicy",
+      "grill",
       "vegetarian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

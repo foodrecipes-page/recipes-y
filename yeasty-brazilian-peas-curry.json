@@ -1,0 +1,70 @@
+{
+  "slug": "yeasty-brazilian-peas-curry",
+  "title": "Brazilian Yeast Bread",
+  "description": "A delicious Brazilian-style bread made with yeast and topped with peas",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brazilian flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine yeast and warm water.",
+    "2. Let the mixture sit for 5 minutes.",
+    "3. Add the flour, sugar, and curry powder to the bowl.",
+    "4. Mix until a dough forms.",
+    "5. Knead the dough for 10 minutes.",
+    "6. Place the dough in a greased bowl and let it rise for 1 hour.",
+    "7. Preheat the oven to 375°F (190°C).",
+    "8. Punch down the dough and shape it into a loaf.",
+    "9. Place the loaf on a baking sheet and bake for 30-40 minutes.",
+    "10. Remove the bread from the oven and let it cool for 10 minutes.",
+    "11. Top the bread with peas and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "brazilian",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-brazilian-peas-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:55:54.738Z"
+}

@@ -4160,17 +4160,15 @@
   },
   {
     "slug": "yellow-molten-chinese-chicken-ma-la-tang",
-    "title": "Yellow Molten Chinese Chicken Ma La Tang",
+    "title": "Ma La Chicken Stir Fry",
     "tags": [
-      "chinese-food",
-      "gluten-free",
-      "grilled-chicken",
-      "low-calorie",
-      "ma-la-tang",
-      "sweet-chilli-sauce"
+      "sichuan",
+      "spicy",
+      "chicken",
+      "stir-fry"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "sichuan",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -7965,16 +7963,15 @@
   },
   {
     "slug": "yellowed-dense-british-beef-yorkshire-pudding",
-    "title": "Yellowed Dense British Beef Yorkshire Pudding",
+    "title": "Traditional British Yorkshire Pudding",
     "tags": [
-      "beef-recipes",
-      "british-classics",
-      "kid-friendly",
-      "one-pan",
-      "whole30"
+      "british",
+      "traditional",
+      "sides",
+      "yorkshire-pudding"
     ],
     "cuisine": "British",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

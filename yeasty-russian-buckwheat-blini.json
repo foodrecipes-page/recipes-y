@@ -1,39 +1,74 @@
 {
   "slug": "yeasty-russian-buckwheat-blini",
-  "title": "Russian Buckwheat Blini",
-  "description": "A traditional Russian breakfast dish featuring buckwheat pancakes served with a yeasty twist.",
+  "title": "Blini with Yeast Russian Buckwheat Delight",
+  "description": "A classic Russian buckwheat pancake recipe, served with a side of yeast-based yeast sauce. Perfect for a breakfast or brunch dish.",
   "cuisine": "Russian",
   "diet": [
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
     {
-      "name": "Buckwheat flour",
-      "amount": "1 cup"
+      "name": "Blini (Buckwheat Pancakes)",
+      "amount": "1 1/2 cups",
+      "notes": "Available at most Russian markets or online."
     },
     {
-      "name": "Russian yeast",
-      "amount": "2 teaspoons"
+      "name": "Yeast Sauce",
+      "amount": "1 cup",
+      "notes": "Can be made with store-bought yeast or homemade."
     },
     {
-      "name": "Water",
-      "amount": "1 cup"
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
     },
     {
       "name": "Salt",
-      "amount": "1/4 teaspoon"
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Buckwheat Flour",
+      "amount": "1/2 cup",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Combine buckwheat flour and Russian yeast in a large mixing bowl.",
-    "Gradually add in water, stirring until a smooth batter forms.",
-    "Cover the bowl with a cloth and let the batter rest in a warm place for 1 hour.",
-    "Preheat a non-stick pan over medium heat.",
-    "Drop the batter by 1/4 cupfuls onto the pan.",
-    "Cook for 2-3 minutes or until bubbles appear on the surface and edges start to dry.",
-    "Flip and cook for another 1-2 minutes.",
-    "Serve warm."
+    "In a large mixing bowl, combine yeast, sugar, and warm water.",
+    "Let it sit for 5-10 minutes, until yeast is activated and foamy.",
+    "Add flour, buckwheat flour, eggs, milk, and salt to the bowl.",
+    "Mix well until a smooth batter forms.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip the blini and cook for another 1-2 minutes, until golden brown.",
+    "Serve the blini hot with a dollop of yeast sauce and a pat of butter."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -41,18 +76,18 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "breakfast",
     "russian",
-    "buckwheat"
+    "breakfast",
+    "pancakes"
   ],
   "nutrition": {
-    "calories": 150,
-    "protein": 3,
-    "carbs": 25,
-    "fat": 1
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-russian-buckwheat-blini",
   "providerUsed": "groq",
-  "createdAt": "2026-07-01T23:17:18.798Z"
+  "createdAt": "2026-07-02T04:51:41.641Z"
 }

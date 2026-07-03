@@ -1,0 +1,78 @@
+{
+  "slug": "yeasty-brazilian-ciabatta-grill",
+  "title": "Brazilian Ciabatta Sandwich",
+  "description": "A delicious sandwich inspired by Brazilian flavors, made with grilled ciabatta bread and a variety of tasty ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ciabatta bread",
+      "amount": "1 loaf (12 slices)",
+      "notes": ""
+    },
+    {
+      "name": "Yeasty cheese spread",
+      "amount": "1 jar",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian-style grilled chicken",
+      "amount": "1 pound",
+      "notes": "Grilled to an internal temperature of 165°F"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Grilled onions",
+      "amount": "1 large onion",
+      "notes": "Grilled to caramelized"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Mayo",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the chicken to an internal temperature of 165°F and let it rest for 5 minutes.",
+    "Grill the onions until caramelized.",
+    "Slice the ciabatta bread in half and toast until lightly browned.",
+    "Spread the yeasty cheese spread on the bottom half of the bread.",
+    "Add the grilled chicken, caramelized onions, tomato slices, and chopped cilantro on top of the cheese spread.",
+    "Drizzle with mayo and top with the other half of the bread.",
+    "Cut the sandwich in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "bread",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-brazilian-ciabatta-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:03:51.055Z"
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "yellow-molten-chinese-chicken-ma-la-tang",
+  "title": "Ma La Chicken Stir Fry",
+  "description": "A spicy Sichuan dish made with marinated chicken, peanuts, and chili peppers.",
+  "cuisine": "sichuan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "yellow Chinese chili peppers",
+      "amount": "2",
+      "notes": "also known as Sichuan hot peppers"
+    },
+    {
+      "name": "ma la sauce",
+      "amount": "2 tbsp",
+      "notes": "Sichuan peppercorn paste"
+    },
+    {
+      "name": "tang chicken seasoning",
+      "amount": "1 tsp",
+      "notes": "or substitute with five-spice powder"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over high heat.",
+    "Add the chicken and cook until browned, about 5 minutes. Remove from the wok and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the wok.",
+    "Add the chopped peanuts and cook until fragrant, about 1 minute.",
+    "Add the Sichuan hot peppers and cook for another minute.",
+    "Add the ma la sauce and stir-fry for 1-2 minutes.",
+    "Return the cooked chicken to the wok and stir-fry until coated with the sauce.",
+    "Season with tang chicken seasoning to taste.",
+    "Serve immediately and garnish with chopped peanuts and Sichuan hot peppers if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sichuan",
+    "spicy",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-molten-chinese-chicken-ma-la-tang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:41:20.507Z"
+}

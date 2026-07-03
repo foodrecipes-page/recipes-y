@@ -1,0 +1,83 @@
+{
+  "slug": "yellow-crunchy-italian-hazelnut-fritters",
+  "title": "Crunchy Italian Fritters",
+  "description": "Delicious crunchy Italian fritters made with hazelnut and a hint of spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Italian Bread",
+      "amount": "2 cups",
+      "notes": "cubed"
+    },
+    {
+      "name": "Yellow Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Crunchy Topping (bread crumbs)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "In a bowl, mix together the cubed Italian bread, shredded yellow cheese, chopped hazelnuts and a pinch of salt and pepper.",
+    "Beat the eggs in a separate bowl and add them to the bread mixture. Mix well.",
+    "Using your hands, shape the mixture into small balls and coat them with crunchy topping (bread crumbs).",
+    "Once the oil is hot, carefully place the fritters in the oil and fry until golden brown (about 3-4 minutes per side).",
+    "Drain the fritters on paper towels and serve hot.",
+    "Serve warm and enjoy!",
+    "Optional: Serve with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fritters",
+    "snack",
+    "hazelnut"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crunchy-italian-hazelnut-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:54:12.100Z"
+}

@@ -12429,19 +12429,15 @@
   },
   {
     "slug": "yummy-fermented-malaysian-beef-broth",
-    "title": "Yummy Fermented Malaysian Beef Broth",
+    "title": "Malaysian Beef Noodle Soup",
     "tags": [
       "beef",
-      "broth",
-      "comfort-food",
-      "fermented",
-      "gluten-free",
-      "low-sodium",
+      "noodle-soup",
       "malaysian",
-      "weeknight"
+      "comfort-food"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 150,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

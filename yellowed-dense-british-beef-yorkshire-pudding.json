@@ -1,0 +1,67 @@
+{
+  "slug": "yellowed-dense-british-beef-yorkshire-pudding",
+  "title": "Traditional British Yorkshire Pudding",
+  "description": "A classic British side dish, Yorkshire pudding is a simple yet impressive accompaniment to roast beef. This recipe yields a crispy, golden-brown pudding with a satisfying texture.",
+  "cuisine": "British",
+  "diet": [
+    "dairy",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef drippings",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "3"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Place a 12-cup muffin tin in the oven to heat.",
+    "In a large bowl, whisk together flour, eggs, milk, salt, and pepper.",
+    "Remove the muffin tin from the oven and add a small amount of beef drippings to each cup.",
+    "Pour the batter into each cup, filling about 2/3 full.",
+    "Return the muffin tin to the oven and bake for 20-25 minutes, or until the puddings are golden brown and puffed.",
+    "Serve hot with roast beef."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "traditional",
+    "sides",
+    "yorkshire-pudding"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-dense-british-beef-yorkshire-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:43:13.975Z"
+}

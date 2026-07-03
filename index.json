@@ -6906,18 +6906,15 @@
   },
   {
     "slug": "yellowed-brown-brazilian-corned-beef-skillet",
-    "title": "Yellowed Brown Brazilian Corned Beef Skillet",
+    "title": "Pan-Seared Skillet Steak with Corned Beef Hash",
     "tags": [
-      "brazilian",
-      "corned-beef",
-      "kid-friendly",
-      "one-pan",
-      "pescatarian",
       "skillet",
-      "weeknight"
+      "steak",
+      "breakfast",
+      "hash"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

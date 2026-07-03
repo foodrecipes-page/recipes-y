@@ -5851,18 +5851,15 @@
   },
   {
     "slug": "yellow-spicy-mediterranean-chicken-skewers",
-    "title": "Yellow Spicy Mediterranean Chicken Skewers",
+    "title": "Spicy Chicken Skewers",
     "tags": [
       "chicken",
-      "gluten-free",
-      "grilled",
+      "skewers",
       "mediterranean",
-      "paleo-friendly",
-      "spicy",
-      "weeknight"
+      "spicy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 32,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

@@ -760,17 +760,14 @@
   },
   {
     "slug": "yeasty-gelatine-polish-gelatin-bake",
-    "title": "Yeasty Gelatine Polish Gelatin Bake",
+    "title": "Polish Yeast Cake",
     "tags": [
-      "comfort-food",
-      "gelatin-bake",
-      "no-garlic",
-      "no-onion",
-      "polish-dessert",
-      "weeknight"
+      "eastern-european",
+      "cake",
+      "polish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -3502,16 +3499,16 @@
   },
   {
     "slug": "yellow-garlic-korean-pork-skewers",
-    "title": "Yellow Garlic Korean Pork Skewers",
+    "title": "Korean Pork Skewers",
     "tags": [
-      "dairy-free",
-      "grilled-meat",
-      "korean-style",
-      "orange-zest",
-      "spicy-food"
+      "korean",
+      "pork",
+      "skewers",
+      "grill",
+      "bbq"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -7124,17 +7121,16 @@
   },
   {
     "slug": "yellowed-charred-peruvian-chestnut-suspiro-limeno",
-    "title": "Yellowed Charred Peruvian Chestnut Suspiro Limeno",
+    "title": "Peruvian Chestnut Cake with Lime Glaze",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "peruvian-cuisine",
-      "pescatarian-friendly",
-      "post-workout",
-      "quick-snack"
+      "peruvian",
+      "cake",
+      "limeno",
+      "chestnut",
+      "glaze"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

@@ -1,0 +1,55 @@
+{
+  "slug": "yellowed-char-croatian-sweet-potatoes-skewers",
+  "title": "Croatian Sweet Potato Skewers",
+  "description": "A delicious and easy-to-make dish that combines the sweetness of sweet potatoes with the smokiness of char.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "char",
+      "amount": "2 tbsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "croatian",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "skewers",
+      "amount": "10 wooden",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread sweet potato cubes onto skewers, leaving a small space between each piece.",
+    "Brush skewers with oil and season with char, croatian, and a pinch of salt.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until sweet potatoes are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "sweet-potato",
+    "vegetarian",
+    "snack"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-char-croatian-sweet-potatoes-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:09:00.103Z"
+}

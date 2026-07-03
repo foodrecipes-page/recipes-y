@@ -1,0 +1,74 @@
+{
+  "slug": "yeasty-gelatine-polish-gelatin-bake",
+  "title": "Polish Yeast Cake",
+  "description": "A traditional Polish cake made with yeast and gelatin, perfect for special occasions.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1 packet (active dry)"
+    },
+    {
+      "name": "gelatine",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "polish bread flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Activate the yeast by mixing it with warm water (around 105°F) for 5-7 minutes.",
+    "In a separate bowl, sprinkle the gelatin over 1/4 cup of cold water and let it sit for 5 minutes to soften.",
+    "In a large mixing bowl, combine the flour, sugar, and yeast mixture.",
+    "Add the eggs, one at a time, mixing well after each addition.",
+    "Add the softened gelatin, butter, and vanilla extract, mixing until just combined.",
+    "Knead the dough for 10-12 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1-2 hours, or until doubled in size.",
+    "Preheat the oven to 350°F (180°C).",
+    "Punch down the dough and shape it into a round or oblong shape.",
+    "Place the dough on a greased baking sheet, cover it with plastic wrap, and let it rise for another 30-45 minutes.",
+    "Bake the cake for 25-30 minutes, or until golden brown.",
+    "Let the cake cool on a wire rack for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "eastern-european",
+    "cake",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-gelatine-polish-gelatin-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:58:59.488Z"
+}

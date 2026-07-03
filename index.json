@@ -211,18 +211,15 @@
   },
   {
     "slug": "yeasty-brazilian-peas-curry",
-    "title": "Yeasty Brazilian Peas Curry",
+    "title": "Brazilian Yeast Bread",
     "tags": [
+      "bread",
+      "breakfast",
       "brazilian",
-      "gluten-free",
-      "high-fiber",
-      "low-calorie",
-      "one-pot",
-      "vegan-friendly",
-      "weeknight"
+      "yeast"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -2034,17 +2031,15 @@
   },
   {
     "slug": "yellow-cheesy-syrian-white-beans-pilaf",
-    "title": "Yellow Cheesy Syrian White Beans Pilaf",
+    "title": "Cheesy Bean Pilaf",
     "tags": [
-      "cheese-pull",
-      "dairy-free",
-      "one-pan",
-      "syrian-cuisine",
-      "vegetarian",
-      "weeknight"
+      "bean",
+      "cheese",
+      "pilaf",
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -7053,17 +7048,15 @@
   },
   {
     "slug": "yellowed-char-croatian-sweet-potatoes-skewers",
-    "title": "Yellowed Char Croatian Sweet Potatoes Skewers",
+    "title": "Croatian Sweet Potato Skewers",
     "tags": [
-      "croatian-cuisine",
-      "fermented-food",
-      "grilled-vegetables",
-      "kid-friendly",
-      "lacto-vegetarian",
-      "sweet-potato-recipe"
+      "grilled",
+      "sweet-potato",
+      "vegetarian",
+      "snack"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "y"
   },
   {

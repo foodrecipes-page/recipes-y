@@ -1,0 +1,73 @@
+{
+  "slug": "yellowed-brown-brazilian-corned-beef-skillet",
+  "title": "Pan-Seared Skillet Steak with Corned Beef Hash",
+  "description": "A hearty and flavorful dish featuring a pan-seared steak accompanied by a crispy corned beef hash.",
+  "cuisine": "American",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Skillet Steak (1.5 lbs)",
+      "amount": "2 steaks, 6 oz each",
+      "notes": "preferably brown"
+    },
+    {
+      "name": "Corned Beef",
+      "amount": "1 cup, diced",
+      "notes": "use brown"
+    },
+    {
+      "name": "Yellow Onions",
+      "amount": "1 medium, diced",
+      "notes": "use yellowed"
+    },
+    {
+      "name": "Brazilian Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "mash into paste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the skillet over medium-high heat.",
+    "2. Add 2 tbsp of oil and sear the steak for 3-4 minutes per side.",
+    "3. Transfer the steak to a plate and let it rest.",
+    "4. In the same skillet, add diced onion and cook until golden brown.",
+    "5. Add diced corned beef and cook until crispy.",
+    "6. Add minced garlic and cook for 1 minute.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve the steak with corned beef hash alongside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "skillet",
+    "steak",
+    "breakfast",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-brown-brazilian-corned-beef-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:55:51.643Z"
+}

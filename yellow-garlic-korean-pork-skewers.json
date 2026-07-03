@@ -1,0 +1,82 @@
+{
+  "slug": "yellow-garlic-korean-pork-skewers",
+  "title": "Korean Pork Skewers",
+  "description": "Sweet and spicy Korean-style pork skewers perfect for a quick dinner or BBQ.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Marinate for at least 30 minutes"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp",
+      "notes": "For balance of sweetness"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves",
+      "notes": "Add to marinade for extra flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "To help tenderize pork"
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Yellow pepper, sliced",
+      "amount": "1/2 cup",
+      "notes": "Optional for added color"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "Balances sweetness and spice"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Thread pork cubes onto skewers, leaving a small space between each piece.",
+    "In a bowl, whisk together chili flakes, brown sugar, garlic, soy sauce, and honey.",
+    "Add the marinade to the pork, toss to coat, and refrigerate for at least 30 minutes.",
+    "Grill skewers for 8-10 minutes, flipping halfway through, until they reach an internal temperature of 145°F (63°C).",
+    "Let sit for 5 minutes before serving.",
+    "Garnish with green onions and yellow pepper slices, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "skewers",
+    "grill",
+    "bbq"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-garlic-korean-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:03:13.874Z"
+}

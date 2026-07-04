@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-citrusy-australian-shiitake-mushroom-bowl",
+  "title": "Australian Shiitake Mushroom Bowl",
+  "description": "A hearty and flavorful bowl filled with sautéed shiitake mushrooms, \n   served with a side of fresh citrus and a sprinkle of yellow turmeric.",
+  "cuisine": "australian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Australian Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Citrus (orange or lemon)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce (gluten-free)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the shiitake mushrooms and cook until they release their liquid and start to brown.",
+    "Add the mushroom broth, soy sauce, black pepper, and salt to the skillet.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the mushrooms are tender.",
+    "Stir in the yellow turmeric and cook for an additional minute.",
+    "Serve the mushrooms over a bed of rice or noodles, garnished with fresh citrus."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "mushroom",
+    "vegan",
+    "gluten-free",
+    "easy-to-make"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-citrusy-australian-shiitake-mushroom-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:55:08.472Z"
+}

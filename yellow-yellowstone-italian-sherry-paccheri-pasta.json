@@ -1,0 +1,62 @@
+{
+  "slug": "yellow-yellowstone-italian-sherry-paccheri-pasta",
+  "title": "Paccheri Pasta with Italian Sherry Cream Sauce",
+  "description": "A creamy paccheri pasta dish with a rich Italian sherry flavor. This recipe serves 4 and can be prepared in under 30 minutes.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paccheri pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Yellowstone (or yellow) onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Italian sherry",
+      "amount": "1/4 cup",
+      "notes": "dry white wine"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook paccheri pasta according to package instructions.",
+    "In a large skillet, melt butter over medium heat and add chopped onion. Cook until softened, about 5 minutes.",
+    "Add Italian sherry to the skillet and cook for an additional 2-3 minutes.",
+    "Remove skillet from heat and stir in heavy cream to prevent scorching.",
+    "Combine cooked paccheri pasta and sherry cream sauce in the skillet and toss to coat.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "cream-sauce",
+    "sherry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-yellowstone-italian-sherry-paccheri-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:49:03.183Z"
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "yellow-smoky-northern-irish-sausages-bangers-and-mash",
+  "title": "Bangers and Mash",
+  "description": "A classic Irish dish featuring sausages and creamy mashed potatoes. This comforting recipe is perfect for a cozy evening meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Northern Irish sausages (bangers)",
+      "amount": "4",
+      "notes": "preferably made with pork and sage"
+    },
+    {
+      "name": "Mashed potatoes",
+      "amount": "2-3 large",
+      "notes": "with butter and milk"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "for browning sausages"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bring a large pot of salted water to a boil. Boil the potatoes until tender, then drain.",
+    "Mash the potatoes with butter, milk, and a pinch of salt and pepper.",
+    "Heat the butter in a large skillet over medium-high heat. Brown the sausages on all sides.",
+    "Transfer the skillet to the preheated oven and cook for 15-20 minutes, or until the sausages are cooked through.",
+    "While the sausages are cooking, caramelize the chopped onion in the skillet over low heat.",
+    "Once the sausages are done, remove them from the oven and let them rest for a few minutes.",
+    "Serve the sausages on top of the mashed potatoes, with a spoonful of caramelized onion and a sprinkle of caraway seeds (if using).",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish-cuisine",
+    "comfort-food",
+    "sausages",
+    "mashed-potatoes"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": "34g",
+    "carbs": "50g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-northern-irish-sausages-bangers-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:04:56.425Z"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "yummy-peppery-croatian-smoked-mackerel-pasta",
+  "title": "Smoked Mackerel Pasta",
+  "description": "A quick and flavorful pasta dish featuring smoked mackerel, perfect for a weeknight dinner.",
+  "cuisine": null,
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "smoked mackerel",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "yummy",
+      "amount": "1 tsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tsp",
+      "notes": "black pepper"
+    },
+    {
+      "name": "croatian",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the smoked mackerel fillets and cook for 2-3 minutes per side.",
+    "Flake the mackerel into the skillet with the garlic and oil.",
+    "Add the cooked pasta to the skillet and toss with the mackerel mixture.",
+    "Season with black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "smoked-mackerel",
+    "fish",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-peppery-croatian-smoked-mackerel-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:52:03.269Z"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "yellow-molten-italian-pasta-paccheri",
+  "title": "Classic Paccheri alla Pugliese",
+  "description": "A traditional Italian recipe from Puglia featuring paccheri pasta, yellow tomatoes, and molten mozzarella.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "yellow cherry tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "molten mozzarella",
+      "amount": "8 oz"
+    },
+    {
+      "name": "italian extra virgin olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook paccheri pasta according to package instructions until al dente.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add chopped yellow cherry tomatoes and cook for 3-4 minutes.",
+    "Add cooked paccheri pasta to the skillet with tomatoes.",
+    "Top with molten mozzarella cheese and cook until melted.",
+    "Season with salt to taste.",
+    "Garnish with chopped fresh basil (if using).",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian",
+    "italian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-molten-italian-pasta-paccheri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:38:20.358Z"
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "yummy-tangy-kenyan-meat-kebabs",
+  "title": "Kenyan Meat Kebabs",
+  "description": "A delicious and easy-to-make Kenyan-inspired dish featuring flavorful meat kebabs.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "1/2 cup yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1 teaspoon",
+      "notes": " Kenyan-style cumin"
+    },
+    {
+      "name": "1/4 cup chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, or heat grill pan to medium-high heat.",
+    "In a large bowl, whisk together yogurt, lemon juice, garlic, cumin, salt, and black pepper.",
+    "Add beef cubes to the marinade and mix until coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Thread meat cubes onto skewers, leaving a little space between each cube.",
+    "Grill kebabs for 8-10 minutes, or until cooked to your desired level of doneness.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "kebabs",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-tangy-kenyan-meat-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:14:36.541Z"
+}

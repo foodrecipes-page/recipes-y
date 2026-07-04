@@ -1,0 +1,64 @@
+{
+  "slug": "yummy-silky-german-pasta-pasta",
+  "title": "German Pasta Bake",
+  "description": "A hearty German-inspired pasta bake with a creamy sauce and a crispy top.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "yummy",
+      "amount": "6 oz",
+      "notes": null
+    },
+    {
+      "name": "german",
+      "amount": "1 cup",
+      "notes": "sour cream"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "short pasta"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions.",
+    "In a large skillet, combine sour cream, yummy, and a pinch of salt.",
+    "Stir until the sauce is smooth and creamy.",
+    "Combine cooked pasta and sauce in a large bowl.",
+    "Transfer the pasta mixture to a baking dish.",
+    "Top with additional yummy and a sprinkle of german.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pasta-bake",
+    "creamy-sauce",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-silky-german-pasta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:00:49.378Z"
+}

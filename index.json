@@ -4210,16 +4210,15 @@
   },
   {
     "slug": "yellow-molten-italian-pasta-paccheri",
-    "title": "Yellow Molten Italian Pasta Paccheri",
+    "title": "Classic Paccheri alla Pugliese",
     "tags": [
-      "italian-food",
-      "one-pot-meals",
-      "pasta-recipes",
-      "romantic-dinners",
-      "vegetarian-options"
+      "italian",
+      "pasta",
+      "vegetarian",
+      "italian-cuisine"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -4529,17 +4528,15 @@
   },
   {
     "slug": "yellow-pillowy-mediterranean-doubanjiang-pilaf",
-    "title": "Yellow Pillowy Mediterranean Doubanjiang Pilaf",
+    "title": "Mediterranean Yellow Pilaf with Spicy Kick",
     "tags": [
-      "flavorful",
-      "healthy",
-      "meal-prep",
+      "pilaf",
       "mediterranean",
-      "one-pot",
-      "vegan"
+      "spicy",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -14550,18 +14547,14 @@
   },
   {
     "slug": "yummy-tunisian-chestnut-grill",
-    "title": "Yummy Tunisian Chestnut Grill",
+    "title": "Tunisian Grilled Chestnut Salad",
     "tags": [
-      "chestnut",
-      "cozy",
-      "grill",
-      "jammy",
-      "robata-grill",
-      "tunisian",
-      "vegetarian"
+      "salad",
+      "north-african",
+      "grilled"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

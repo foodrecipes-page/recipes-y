@@ -1,0 +1,64 @@
+{
+  "slug": "yeasty-french-bean-sprouts-ratatouille",
+  "title": "French Bean Sprouts Tartine",
+  "description": "A delicious tartine featuring French beans, sprouts, and a hint of yeasty flavor, perfect for a light lunch.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "1 baguette"
+    },
+    {
+      "name": "French beans",
+      "amount": "1 cup, trimmed"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup, trimmed"
+    },
+    {
+      "name": "yeasty spread",
+      "amount": "2 tbsp, softened"
+    },
+    {
+      "name": "ratatouille",
+      "amount": "1/2 cup, warmed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the French bread into 1-inch thick slices.",
+    "Toss the French beans and sprouts with 1 tbsp of olive oil, salt, and pepper. Spread on a baking sheet and roast for 15 minutes.",
+    "Toast the bread slices for 2-3 minutes or until lightly browned.",
+    "Spread a layer of yeasty spread on each toasted bread slice.",
+    "Top each bread slice with a spoonful of roasted French beans and sprouts, followed by a spoonful of warmed ratatouille.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "vegetarian",
+    "easy",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-french-bean-sprouts-ratatouille",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:14:07.922Z"
+}

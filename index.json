@@ -12794,18 +12794,15 @@
   },
   {
     "slug": "yummy-gooey-british-datterini-tomato-tagine",
-    "title": "Yummy Gooey British Datterini Tomato Tagine",
+    "title": "Tagine Stew with Datterini Tomatoes",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "jain-friendly",
-      "midnight-craving",
-      "one-pot",
-      "tagine-recipes",
-      "vegetarian"
+      "beef",
+      "stew",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 150,
     "shard": "y"
   },
   {
@@ -12998,15 +12995,15 @@
   },
   {
     "slug": "yummy-italian-gelato-pasta",
-    "title": "Yummy Italian Gelato Pasta",
+    "title": "Classic Italian Pasta Fettuccine",
     "tags": [
-      "emilia-romagna",
-      "gelato-pasta",
-      "snack",
-      "sweet"
+      "italian",
+      "pasta",
+      "fettuccine",
+      "sauce"
     ],
-    "cuisine": "italian (emilia-romagna)",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

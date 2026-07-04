@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-gooey-canadian-macaroni-casserole",
+  "title": "Cheesy Canadian Macaroni Casserole",
+  "description": "A comforting and creamy macaroni casserole dish that combines the flavors of Canada.",
+  "cuisine": "North American",
+  "diet": [
+    "vegetarian",
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "canadian cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "gooey cheese sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook macaroni according to package instructions until al dente. Drain and set aside.",
+    "In a medium saucepan, melt butter over medium heat.",
+    "Add flour and whisk to combine. Cook for 1-2 minutes.",
+    "Slowly add milk, whisking constantly to avoid lumps.",
+    "Bring mixture to a simmer and cook until thickened.",
+    "Remove from heat and stir in cheddar cheese until melted.",
+    "Stir in yellow mustard and gooey cheese sauce.",
+    "Combine cooked macaroni and cheese sauce in a large mixing bowl.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort food",
+    "canadian",
+    "macaroni",
+    "cheesy",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-gooey-canadian-macaroni-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:53:26.052Z"
+}

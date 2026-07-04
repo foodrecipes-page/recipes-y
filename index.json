@@ -2900,14 +2900,12 @@
   },
   {
     "slug": "yellow-curry-light-peruvian-seafood-bowl",
-    "title": "Yellow-Curry-Light Peruvian Seafood Bowl",
+    "title": "Peruvian Seafood Yellow Curry Bowl",
     "tags": [
-      "high-protein",
-      "jain-friendly",
-      "one-pan",
-      "post-workout",
-      "vegan-friendly",
-      "weeknight"
+      "peruvian",
+      "seafood",
+      "curry",
+      "bowl"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
@@ -9592,17 +9590,16 @@
   },
   {
     "slug": "yellowed-sweet-french-milk-macaron",
-    "title": "Yellowed Sweet French Milk Macaron",
+    "title": "Sweet Yellow Macaron Cake",
     "tags": [
-      "bitter",
-      "french-dessert",
-      "grilled",
-      "low-fat",
+      "french",
       "macaron",
+      "cake",
+      "yellow",
       "sweet"
     ],
     "cuisine": "French",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -13830,12 +13827,13 @@
   },
   {
     "slug": "yummy-roasted-malaysian-all-purpose-flour-bread",
-    "title": "Malaysian Roti Canai",
+    "title": "Malaysian Roti Bread",
     "tags": [
-      "flatbread",
+      "roti",
+      "bread",
       "malaysian",
-      "breakfast",
-      "snack"
+      "easy",
+      "breakfast"
     ],
     "cuisine": "malaysian",
     "totalTimeMin": 25,

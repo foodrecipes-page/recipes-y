@@ -3773,17 +3773,16 @@
   },
   {
     "slug": "yellow-gooey-canadian-macaroni-casserole",
-    "title": "Yellow Gooey Canadian Macaroni Casserole",
+    "title": "Cheesy Canadian Macaroni Casserole",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "gooey-cheese",
-      "macaroni-casserole",
-      "one-pot",
-      "ovo-vegetarian"
+      "comfort food",
+      "canadian",
+      "macaroni",
+      "cheesy",
+      "casserole"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "North American",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

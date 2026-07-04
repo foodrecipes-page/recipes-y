@@ -1,0 +1,77 @@
+{
+  "slug": "yielding-oven-roasted-brazilian-runner-bean-casserole",
+  "title": "Brazilian Roasted Runner Bean Casserole",
+  "description": "A hearty, comforting casserole featuring roasted runner beans in a Brazilian-inspired flair.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "250g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Brazilian cheese",
+      "amount": "150g",
+      "notes": "such as queijo coalho"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Toss the runner beans with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the runner beans in the oven for 20-25 minutes, or until tender.",
+    "In a large pan, sauté the chopped onion and minced garlic over medium heat until softened.",
+    "In a large mixing bowl, combine the roasted runner beans, cooked onion and garlic mixture, and Brazilian cheese.",
+    "Transfer the mixture to a baking dish and cover with aluminum foil.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "roasted",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yielding-oven-roasted-brazilian-runner-bean-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:54:17.184Z"
+}

@@ -1,7 +1,7 @@
 {
   "slug": "yummy-roasted-malaysian-all-purpose-flour-bread",
-  "title": "Malaysian Roti Canai",
-  "description": "A traditional Malaysian flatbread recipe, often served with curry or dhal. Soft and flaky on the inside, crispy on the outside.",
+  "title": "Malaysian Roti Bread",
+  "description": "A simple recipe to make delicious roti bread at home, inspired by Malaysian cuisine.",
   "cuisine": "malaysian",
   "diet": [
     "vegetarian"
@@ -9,48 +9,40 @@
   "meal": "breakfast",
   "ingredients": [
     {
-      "name": "all-purpose flour",
+      "name": "all purpose flour",
       "amount": "2 cups"
     },
     {
-      "name": "yummy water",
-      "amount": "1/2 cup",
-      "notes": "warm water"
-    },
-    {
       "name": "bread",
-      "amount": "2 tablespoons",
-      "notes": "active dry yeast"
-    },
-    {
-      "name": "roasted salt",
-      "amount": "1/4 teaspoon",
-      "notes": "to taste"
+      "amount": "1 cup (chopped)"
     }
   ],
   "instructions": [
-    "Mix flour and yeast in a large bowl.",
-    "Add warm water and knead for 10 minutes.",
-    "Cover and let rest for 1 hour.",
-    "Divide dough into 6-8 equal pieces.",
-    "Roll each piece into a ball and flatten into a disk.",
-    "Heat a non-stick pan over medium heat.",
-    "Cook each roti for 1-2 minutes on each side, until crispy and golden.",
-    "Brush with melted ghee or oil, if desired."
+    "1. In a large mixing bowl, combine the all-purpose flour and chopped bread.",
+    "2. Gradually add water to the mixture to form a soft dough.",
+    "3. Knead the dough for 5-7 minutes until it becomes smooth.",
+    "4. Divide the dough into 6-8 equal portions.",
+    "5. Roll out each portion into a thin circle.",
+    "6. Heat a non-stick pan or griddle over medium heat.",
+    "7. Cook the roti for 1-2 minutes on each side, until it is golden brown.",
+    "8. Brush the roti with a little butter or ghee for extra flavor.",
+    "9. Repeat the process with the remaining dough portions.",
+    "10. Serve the roti bread hot with your favorite filling."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 10,
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
   "totalTimeMin": 25,
-  "servings": 8,
-  "difficulty": "medium",
+  "servings": 4,
+  "difficulty": "easy",
   "tags": [
-    "flatbread",
+    "roti",
+    "bread",
     "malaysian",
-    "breakfast",
-    "snack"
+    "easy",
+    "breakfast"
   ],
   "nutrition": {
-    "calories": 130,
+    "calories": 120,
     "protein": 2,
     "carbs": 25,
     "fat": 2
@@ -58,5 +50,5 @@
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/yummy-roasted-malaysian-all-purpose-flour-bread",
   "providerUsed": "groq",
-  "createdAt": "2026-07-01T04:55:35.695Z"
+  "createdAt": "2026-07-02T11:58:10.291Z"
 }

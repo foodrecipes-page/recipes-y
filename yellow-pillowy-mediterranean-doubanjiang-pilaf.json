@@ -1,0 +1,62 @@
+{
+  "slug": "yellow-pillowy-mediterranean-doubanjiang-pilaf",
+  "title": "Mediterranean Yellow Pilaf with Spicy Kick",
+  "description": "A flavorful and spicy pilaf dish with yellow pilaf, mediterranean spices, and a kick from doubanjiang. Serve as a hearty side dish or light meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "doubanjiang",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "mediterranean spice blend",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the mediterranean spice blend and cook for 1 minute, until fragrant.",
+    "Add the yellow pilaf and cook for 2-3 minutes, until lightly toasted.",
+    "Add the doubanjiang and cook for another minute, until combined.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with parsley or lemon wedges if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "mediterranean",
+    "spicy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-pillowy-mediterranean-doubanjiang-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:00:46.676Z"
+}

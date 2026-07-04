@@ -8201,13 +8201,12 @@
     "slug": "yellowed-flaky-tunisian-corn-pastries",
     "title": "Tunisian Corn Pastries",
     "tags": [
-      "deep-fried",
-      "flaky-pastry",
-      "low-calorie",
-      "tunisian",
-      "vegetarian"
+      "pastries",
+      "corn",
+      "north-african",
+      "sugar"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "y"
   },
@@ -13229,16 +13228,14 @@
   },
   {
     "slug": "yummy-kenyan-tofu-stir-fry",
-    "title": "Yummy Kenyan Tofu Stir-Fry",
+    "title": "Kenyan-Style Tofu Stir Fry",
     "tags": [
       "kenyan",
-      "one-pan",
-      "plant-based",
-      "quick",
+      "tofu",
       "stir-fry",
-      "vegan"
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 25,
     "shard": "y"
   },

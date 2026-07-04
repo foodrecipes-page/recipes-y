@@ -14458,17 +14458,15 @@
   },
   {
     "slug": "yummy-tangy-kenyan-meat-kebabs",
-    "title": "Yummy Tangy Kenyan Meat Kebabs",
+    "title": "Kenyan Meat Kebabs",
     "tags": [
+      "beef",
       "grilled",
-      "high-protein",
-      "kenyan-cuisine",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "kebabs",
+      "kenyan"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 32,
+    "cuisine": "kenyan",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

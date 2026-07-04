@@ -1,0 +1,74 @@
+{
+  "slug": "yummy-garlicky-uruguayan-bean-empanadas",
+  "title": "Uruguayan Bean Empanadas",
+  "description": "A classic Uruguayan dish with a twist, these empanadas are filled with a delicious bean mixture and fried to perfection.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "uruguayan",
+      "amount": "1 package"
+    },
+    {
+      "name": "bean",
+      "amount": "1 can (15 ounces)",
+      "notes": "black beans, drained and rinsed"
+    },
+    {
+      "name": "yummy",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "garlicky",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "empanadas",
+      "amount": "1 package (10-12 empanadas)"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, mash the black beans using a fork or a potato masher.",
+    "Add the minced garlic, olive oil, and a pinch of salt to the bowl and mix well.",
+    "Open the package of empanadas and separate the pastries.",
+    "Place about 1 tablespoon of the bean mixture onto one half of each empanada pastry.",
+    "Fold the pastry in half to form a half-circle and press the edges to seal.",
+    "Heat the oil in the frying pan over medium-high heat.",
+    "Fry the empanadas for 2-3 minutes on each side or until golden brown.",
+    "Using a slotted spoon, remove the empanadas from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve warm and enjoy!",
+    "If you prefer a baked option, preheat oven to 375°F (190°C) and bake empanadas for 12-15 minutes or until golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "bean",
+    "empanadas",
+    "fry",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-garlicky-uruguayan-bean-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:31:13.236Z"
+}

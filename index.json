@@ -7209,16 +7209,16 @@
   },
   {
     "slug": "yellowed-creamy-german-lamb-stew",
-    "title": "Yellowed Creamy German Lamb Stew",
+    "title": "German Lamb Stew",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "lamb-recipes",
-      "one-pot-meals",
-      "weeknight-dinners"
+      "german",
+      "lamb",
+      "stew",
+      "hearty",
+      "comforting"
     ],
     "cuisine": "German",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {
@@ -10376,17 +10376,15 @@
   },
   {
     "slug": "yielding-oven-roasted-brazilian-runner-bean-casserole",
-    "title": "Yielding Oven-Roasted Brazilian Runner Bean Casserole",
+    "title": "Brazilian Roasted Runner Bean Casserole",
     "tags": [
-      "bean-casserole",
-      "brazilian",
-      "one-pan",
-      "post-workout",
+      "casserole",
       "roasted",
-      "vegetarian"
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

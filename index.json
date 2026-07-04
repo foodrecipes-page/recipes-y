@@ -2765,17 +2765,16 @@
   },
   {
     "slug": "yellow-crunchy-dutch-cheese-frittata",
-    "title": "Yellow Crunchy Dutch Cheese Frittata",
+    "title": "Dutch-Style Yellow Frittata",
     "tags": [
-      "brunch-recipe",
-      "cheesy-delights",
-      "dutch-cuisine",
-      "one-pan-meal",
-      "satvik-food",
-      "vegetarian-friendly"
+      "breakfast",
+      "dutch",
+      "frittata",
+      "eggs",
+      "cheese"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 28,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -6485,18 +6484,15 @@
   },
   {
     "slug": "yellow-yellowstone-italian-sherry-paccheri-pasta",
-    "title": "Yellow Yellowstone Italian Sherry Paccheri Pasta",
+    "title": "Paccheri Pasta with Italian Sherry Cream Sauce",
     "tags": [
-      "aerated",
-      "date-night",
-      "dinner-party",
       "italian",
-      "one-pan",
-      "sherry-based",
-      "umami-rich"
+      "pasta",
+      "cream-sauce",
+      "sherry"
     ],
-    "cuisine": "italian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -14019,16 +14015,15 @@
   },
   {
     "slug": "yummy-silky-german-pasta-pasta",
-    "title": "German Silky Pasta with Fennel Cream",
+    "title": "German Pasta Bake",
     "tags": [
-      "fish-dinner",
-      "german-cuisine",
-      "high-protein",
-      "pasta",
-      "weeknight-meal"
+      "german",
+      "pasta-bake",
+      "creamy-sauce",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 27,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

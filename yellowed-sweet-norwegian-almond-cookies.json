@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-sweet-norwegian-almond-cookies",
+  "title": "Sweet Norwegian Cookies",
+  "description": "A simple and sweet cookie recipe from Norway, perfect for a snack or dessert.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yellowed Almond Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian Cookies",
+      "amount": "1 cup",
+      "notes": "crushed into crumbs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, cream the sweet butter and granulated sugar until light and fluffy.",
+    "Beat in the eggs until well combined.",
+    "In a separate bowl, whisk together the flour, almond extract, and Norwegian cookie crumbs.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "On a lightly floured surface, roll out the dough to about 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place the cookies on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until lightly golden brown.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cookies",
+    "norwegian",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-sweet-norwegian-almond-cookies",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:22:16.623Z"
+}

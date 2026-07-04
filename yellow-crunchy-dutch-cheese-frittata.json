@@ -1,0 +1,71 @@
+{
+  "slug": "yellow-crunchy-dutch-cheese-frittata",
+  "title": "Dutch-Style Yellow Frittata",
+  "description": "A simple and delicious breakfast dish made with eggs, cheese, and a hint of Dutch flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1 cup",
+      "notes": "such as Gouda or Edam"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "yellow, crunchy"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Whisk the eggs in a bowl and set aside.",
+    "3. Finely chop the onion and add it to the bowl with the eggs.",
+    "4. Crumble the Dutch cheese into the bowl and mix well.",
+    "5. Season with salt and pepper to taste.",
+    "6. Heat a non-stick skillet over medium heat.",
+    "7. Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "8. Transfer the skillet to the preheated oven and bake for 15-20 minutes.",
+    "9. Remove the skillet from the oven and let it cool for a few minutes.",
+    "10. Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dutch",
+    "frittata",
+    "eggs",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crunchy-dutch-cheese-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:38:14.502Z"
+}

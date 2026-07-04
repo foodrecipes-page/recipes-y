@@ -1,0 +1,81 @@
+{
+  "slug": "yummy-kenyan-tofu-stir-fry",
+  "title": "Kenyan-Style Tofu Stir Fry",
+  "description": "A flavorful and spicy tofu stir fry inspired by Kenyan cuisine. This dish combines the bold flavors of Africa with the simplicity of a stir fry.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Add the chopped onion and sauté for 2 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the chopped bell pepper and sauté for 2 minutes.",
+    "Add the chopped tomato and sauté for 2 minutes.",
+    "Add the stir-fry sauce and stir well.",
+    "Cut the tofu into small cubes and add it to the pan.",
+    "Stir well and cook for 5 minutes or until the tofu is golden brown.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "tofu",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-kenyan-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:55:49.407Z"
+}

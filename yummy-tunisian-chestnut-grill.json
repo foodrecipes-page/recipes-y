@@ -1,0 +1,75 @@
+{
+  "slug": "yummy-tunisian-chestnut-grill",
+  "title": "Tunisian Grilled Chestnut Salad",
+  "description": "A sweet and savory salad featuring grilled chestnuts, inspired by Tunisian flavors.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Yummy Olives",
+      "amount": "1/2 cup pitted"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup thinly sliced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grill Seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Wash and peel chestnuts, then brush with grill seasoning.",
+    "Grill chestnuts for 5 minutes on each side, until slightly charred.",
+    "Let chestnuts cool, then chop into bite-sized pieces.",
+    "In a large bowl, combine chopped chestnuts, olives, red onion, and parsley.",
+    "Drizzle lemon juice over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "north-african",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-tunisian-chestnut-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:31:19.510Z"
+}

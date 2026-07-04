@@ -1,0 +1,83 @@
+{
+  "slug": "yummy-gooey-british-datterini-tomato-tagine",
+  "title": "Tagine Stew with Datterini Tomatoes",
+  "description": "A hearty, comforting stew inspired by traditional North African cuisine, featuring tender beef and sweet Datterini tomatoes.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (chuck or round)",
+      "amount": "500g",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "datterini tomatoes",
+      "amount": "250g",
+      "notes": "halved"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1L",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Brown beef in batches, then set aside.",
+    "Reduce heat to medium and cook onion until softened, about 5 minutes.",
+    "Add ginger and cook for 1 minute, stirring constantly.",
+    "Add tomato paste and cook for 1 minute, stirring constantly.",
+    "Add beef broth and bring to a boil.",
+    "Return beef to the pot and add datterini tomatoes, tagine spice blend, and salt.",
+    "Cover the pot and transfer to the oven. Braise for 2 hours, or until beef is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "stew",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-gooey-british-datterini-tomato-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:45:23.280Z"
+}

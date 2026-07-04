@@ -4654,17 +4654,16 @@
   },
   {
     "slug": "yellow-roasted-jamaican-coconut-roast",
-    "title": "Yellow Roasted Jamaican Coconut Roast",
+    "title": "Jamaican Jerk Chicken with Coconut Rice",
     "tags": [
-      "clotted-cream",
-      "coconut-cream",
-      "flexitarian",
-      "jamaican-cuisine",
-      "one-pan",
-      "weeknight"
+      "caribbean",
+      "chicken",
+      "coconut",
+      "jerk",
+      "rice"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -5222,17 +5221,15 @@
   },
   {
     "slug": "yellow-smoky-northern-irish-sausages-bangers-and-mash",
-    "title": "Yellow Smoky Northern Irish Sausages Bangers And Mash",
+    "title": "Bangers and Mash",
     "tags": [
+      "irish-cuisine",
       "comfort-food",
-      "mashed-potatoes",
-      "one-pan",
       "sausages",
-      "smoky",
-      "weeknight"
+      "mashed-potatoes"
     ],
-    "cuisine": "Northern Irish",
-    "totalTimeMin": 45,
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -9653,17 +9650,15 @@
   },
   {
     "slug": "yellowed-syrian-pilchards-tagine",
-    "title": "Yellowed Syrian Pilchards Tagine",
+    "title": "Syrian-Style Tagine with Yellowed Rice and Pilchards",
     "tags": [
-      "comfort-food",
-      "fish-based",
-      "one-pot",
-      "slow-cooked",
-      "syrian-cuisine",
-      "whole30-friendly"
+      "north-african",
+      "pescatarian",
+      "gluten-free",
+      "dinner"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

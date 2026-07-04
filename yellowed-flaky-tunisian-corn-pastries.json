@@ -1,0 +1,73 @@
+{
+  "slug": "yellowed-flaky-tunisian-corn-pastries",
+  "title": "Tunisian Corn Pastries",
+  "description": "Delicate pastry pockets filled with sweet corn and exotic spices, perfect for a snack or dessert.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian pastries",
+      "amount": "12-15 pieces"
+    },
+    {
+      "name": "Corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together the corn kernels, sugar, melted butter, cinnamon, ginger, and salt.",
+    "Place a spoonful of the corn mixture onto the center of each pastry circle.",
+    "Fold the pastry in half over the filling and press the edges together to seal.",
+    "Brush the tops of the pastries with a little water and sprinkle with sugar.",
+    "Place the pastries on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "6-8",
+  "difficulty": "easy",
+  "tags": [
+    "pastries",
+    "corn",
+    "north-african",
+    "sugar"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-tunisian-corn-pastries",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:14:15.199Z"
+}

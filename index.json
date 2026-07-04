@@ -12491,16 +12491,14 @@
   },
   {
     "slug": "yummy-fluffy-irish-beef-fillet-skewers",
-    "title": "Yummy Fluffy Irish Beef Fillet Skewers",
+    "title": "Irish Beef Skewers",
     "tags": [
-      "beef-recipes",
-      "crowd-pleasers",
-      "grilled-meats",
-      "irish-food",
-      "weeknight-dinners"
+      "beef",
+      "grilling",
+      "irish"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "y"
   },
   {

@@ -1,0 +1,70 @@
+{
+  "slug": "yummy-fluffy-irish-beef-fillet-skewers",
+  "title": "Irish Beef Skewers",
+  "description": "Tender beef skewers with a hint of Irish flavor, perfect for a quick meal. Serve with your favorite sides.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "0.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "Soak in water for 30 minutes"
+    },
+    {
+      "name": "yummy sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "fluffy onions",
+      "amount": "1 large onion, sliced",
+      "notes": "Separate into rings"
+    },
+    {
+      "name": "irish seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Use a store-bought mix or make your own"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef cubes, onions, and a sprinkle of Irish seasoning onto skewers.",
+    "Brush skewers with olive oil.",
+    "Grill skewers for 10-12 minutes, flipping halfway through.",
+    "Brush with yummy sauce during the last 2 minutes of grilling.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "grilling",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-fluffy-irish-beef-fillet-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:56:13.806Z"
+}

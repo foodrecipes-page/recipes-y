@@ -491,18 +491,14 @@
   },
   {
     "slug": "yeasty-crunchy-peruvian-ham-solo-dinner",
-    "title": "Yeasty Crunchy Peruvian Ham Solo-Dinner",
+    "title": "Peruvian Ham Fritters",
     "tags": [
-      "bread",
-      "cheese",
-      "easy-meal",
-      "lacto-vegetarian",
       "peruvian",
-      "solo-dinner",
-      "yeast"
+      "ham",
+      "fritters"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {
@@ -9627,17 +9623,14 @@
   },
   {
     "slug": "yellowed-sweet-norwegian-almond-cookies",
-    "title": "Yellowed Sweet Norwegian Almond Cookies",
+    "title": "Sweet Norwegian Cookies",
     "tags": [
-      "almond-based",
-      "bitter-sweets",
-      "low-fat",
+      "cookies",
       "norwegian",
-      "nostalgic",
-      "shattering-cookies"
+      "sweet"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "cuisine": "norwegian",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -12280,18 +12273,14 @@
   },
   {
     "slug": "yummy-dutch-cheese-stir-fry",
-    "title": "yummy dutch cheese stir-fry",
+    "title": "Dutch Cheese Fritters",
     "tags": [
-      "cheesy",
-      "dutch",
-      "egg-free",
-      "high-calorie",
-      "one-pan",
-      "stir-fry",
-      "weeknight"
+      "cheese",
+      "snack",
+      "fritters"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 25,
+    "cuisine": "Dutch",
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {
@@ -12695,14 +12684,14 @@
     "slug": "yummy-garlicky-uruguayan-bean-empanadas",
     "title": "Uruguayan Bean Empanadas",
     "tags": [
-      "baked-goods",
-      "kid-friendly",
-      "snack-time",
-      "south-american",
-      "vegetarian"
+      "uruguayan",
+      "bean",
+      "empanadas",
+      "fry",
+      "bake"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 140,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

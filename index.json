@@ -733,17 +733,16 @@
   },
   {
     "slug": "yeasty-french-bean-sprouts-ratatouille",
-    "title": "Yeasty French Bean Sprouts Ratatouille",
+    "title": "French Bean Sprouts Tartine",
     "tags": [
-      "french-cuisine",
-      "healthy-lunch",
-      "low-carb",
-      "post-workout",
-      "sugar-free",
-      "ti-leaf-wrap"
+      "breakfast",
+      "lunch",
+      "vegetarian",
+      "easy",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -13613,17 +13612,15 @@
   },
   {
     "slug": "yummy-peppery-croatian-smoked-mackerel-pasta",
-    "title": "Yummy Peppery Croatian Smoked Mackerel Pasta",
+    "title": "Smoked Mackerel Pasta",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-calorie",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "pasta",
+      "smoked-mackerel",
+      "fish",
+      "easy-dinner"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 27,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

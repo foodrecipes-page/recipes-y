@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-sweet-french-milk-macaron",
+  "title": "Sweet Yellow Macaron Cake",
+  "description": "A French-inspired sweet macaron cake, featuring a delicate yellow flavor.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "French macaron shells",
+      "amount": "12 pieces",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Yellowed sweet butter",
+      "amount": "1/2 cup",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 1/2 cups",
+      "notes": "Whole or non-dairy milk alternative"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "White or organic sugar"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "3 large",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Granulated sugar (for meringue)",
+      "amount": "1/2 cup",
+      "notes": "White or organic sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C) and prepare a baking sheet.",
+    "In a large bowl, whip the egg whites until stiff peaks form.",
+    "Gradually add the granulated sugar (for meringue) and whip until stiff and glossy.",
+    "In another bowl, whisk together the milk, yellowed sweet butter, and granulated sugar.",
+    "Fold the meringue mixture into the milk mixture until well combined.",
+    "Spoon the mixture into the French macaron shells.",
+    "Bake for 15-20 minutes or until the tops are golden brown.",
+    "Allow the cake to cool completely on a wire rack.",
+    "Once cooled, dust with powdered sugar and serve."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "macaron",
+    "cake",
+    "yellow",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-sweet-french-milk-macaron",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:32:50.831Z"
+}

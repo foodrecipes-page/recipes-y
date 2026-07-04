@@ -1,0 +1,61 @@
+{
+  "slug": "yummy-dutch-cheese-stir-fry",
+  "title": "Dutch Cheese Fritters",
+  "description": "A crispy and delicious snack made with a blend of Dutch cheese and a hint of spiciness.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "yummy",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 tablespoon, flour"
+    },
+    {
+      "name": "stir",
+      "amount": "1/4 teaspoon, salt"
+    },
+    {
+      "name": "fry",
+      "amount": "1/4 cup, butter, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F.",
+    "In a bowl, mix together cheese, yummy, and dutch.",
+    "Add stir and fry to the bowl and mix well.",
+    "Using a spoon, drop small amounts of the mixture into the hot oil.",
+    "Fry until golden brown, about 2-3 minutes.",
+    "Drain excess oil on paper towels.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-dutch-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:50:27.817Z"
+}

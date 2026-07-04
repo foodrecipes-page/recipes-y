@@ -1,0 +1,92 @@
+{
+  "slug": "yellowed-crumbly-egyptian-lamb-kebabs",
+  "title": "Egyptian Lamb Kebabs",
+  "description": "A classic Middle Eastern dish, these lamb kebabs are marinated in a blend of spices and grilled to perfection. Serve with a side of couscous or pita bread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egyptian lamb",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "yellowed onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "kebab skewers",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, cumin, coriander, and paprika.",
+    "Add the sliced lamb to the bowl and toss to coat with the marinade.",
+    "Thread the lamb onto the kebab skewers, leaving a small space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until cooked to your desired level of doneness.",
+    "Serve hot with a side of couscous or pita bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crumbly-egyptian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:51:19.131Z"
+}

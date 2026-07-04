@@ -1,0 +1,86 @@
+{
+  "slug": "yellow-curry-light-peruvian-seafood-bowl",
+  "title": "Peruvian Seafood Yellow Curry Bowl",
+  "description": "A flavorful and aromatic Peruvian-inspired seafood curry served in a light and crispy bowl. This recipe combines the best of both worlds for a truly unique dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Curry Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Light Coconut Milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Seafood Mix (shrimp, mussels, scallops)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian Aji Amarillo Peppers",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sodium-Rich Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the Peruvian Aji Amarillo Peppers and cook for 2 minutes.",
+    "Add the seafood mix and cook for 3-4 minutes, until pink and cooked through.",
+    "Add the yellow curry paste and cook for 1 minute, stirring constantly.",
+    "Pour in the light coconut milk and bring to a simmer.",
+    "Reduce the heat to low and let cook for 5-7 minutes, until the sauce has thickened.",
+    "Stir in the lime juice and season with sodium-rich salt to taste.",
+    "Serve the seafood curry in a light and crispy bowl, garnished with fresh cilantro.",
+    "Enjoy with steamed rice or roti for a complete meal.",
+    "Optional: garnish with toasted peanuts or crispy shallots for added crunch.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "seafood",
+    "curry",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-curry-light-peruvian-seafood-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:05:25.412Z"
+}

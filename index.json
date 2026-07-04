@@ -7741,17 +7741,14 @@
   },
   {
     "slug": "yellowed-crumbly-egyptian-lamb-kebabs",
-    "title": "Yellowed Crumbly Egyptian Lamb Kebabs",
+    "title": "Egyptian Lamb Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "lamb-based",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "middle-eastern"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

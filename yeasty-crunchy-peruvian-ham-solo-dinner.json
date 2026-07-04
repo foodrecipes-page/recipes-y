@@ -1,0 +1,61 @@
+{
+  "slug": "yeasty-crunchy-peruvian-ham-solo-dinner",
+  "title": "Peruvian Ham Fritters",
+  "description": "A crispy and flavorful twist on traditional fritters, featuring Peruvian ham as the main ingredient. Serve as a snack or appetizer.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian ham",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1/2 cup, flour"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "solo",
+      "amount": "1/4 cup, egg, beaten"
+    },
+    {
+      "name": "dinner",
+      "amount": "1/4 cup, water"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, combine Peruvian ham, yeasty, crunchy, and solo.",
+    "Add dinner to the mixture and stir well.",
+    "Using a spoon, drop small amounts of the mixture into the hot oil.",
+    "Fry for 3-4 minutes or until golden brown.",
+    "Remove from oil with a slotted spoon and drain on paper towels.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "ham",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-crunchy-peruvian-ham-solo-dinner",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:28:45.991Z"
+}

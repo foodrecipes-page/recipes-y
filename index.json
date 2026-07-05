@@ -4775,17 +4775,14 @@
   },
   {
     "slug": "yellow-sauteed-jamaican-vermicelli-pasta",
-    "title": "Yellow Sauteed Jamaican Vermicelli Pasta",
+    "title": "Jamaican Pasta Bake",
     "tags": [
-      "chicken-recipes",
-      "jamaican-cuisine",
-      "low-carb",
-      "one-pan",
-      "pasta-dishes",
-      "weeknight-dinner"
+      "pasta",
+      "jamaican",
+      "cheesy"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -5409,17 +5406,14 @@
   },
   {
     "slug": "yellow-spiced-ethiopian-rigatoni-shiro",
-    "title": "Yellow Spiced Ethiopian Rigatoni Shiro",
+    "title": "Spicy Ethiopian Yellow Pasta",
     "tags": [
-      "african-cuisine",
-      "gluten-free",
-      "one-pot",
-      "spicy",
+      "ethiopian",
       "vegetarian",
-      "whole30"
+      "pasta"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -7376,16 +7370,14 @@
   },
   {
     "slug": "yellowed-crisp-turkish-lamb-kebabs",
-    "title": "Yellowed Crisp Turkish Lamb Kebabs",
+    "title": "Turkish Lamb Kebabs with Cucumber Salad",
     "tags": [
-      "cedar-plank-cooking",
-      "grilled-meats",
-      "lamb-recipes",
-      "sugar-free-recipes",
-      "turkish-food"
+      "turkish",
+      "lamb",
+      "kebabs"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 32,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -8789,13 +8781,12 @@
   },
   {
     "slug": "yellowed-nutty-american-pecan-pie",
-    "title": "Yellowed Nutty American Pecan Pie",
+    "title": "Classic American Pecan Pie",
     "tags": [
-      "american-classics",
-      "low-carb",
-      "nutty-delights",
-      "romantic-dinners",
-      "special-occasions"
+      "american",
+      "dessert",
+      "pie",
+      "pecan"
     ],
     "cuisine": "American",
     "totalTimeMin": 60,

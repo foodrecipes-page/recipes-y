@@ -1,0 +1,80 @@
+{
+  "slug": "yellow-spiced-ethiopian-rigatoni-shiro",
+  "title": "Spicy Ethiopian Yellow Pasta",
+  "description": "A flavorful and spicy Ethiopian-inspired pasta dish featuring yellow rigatoni, rich shiro sauce, and a hint of spice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "12 oz"
+    },
+    {
+      "name": "yellow",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "spiced",
+      "amount": "2 tsp",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "shiro",
+      "amount": "2 cups",
+      "notes": "Ethiopian chickpea paste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat. Add the garlic and onion and cook until the onion is translucent.",
+    "Add the Ethiopian spice blend and cook for 1 minute, stirring constantly.",
+    "Add the shiro paste and cook, stirring constantly, for 2-3 minutes.",
+    "Add the chopped yellow and cook for an additional 2-3 minutes, stirring constantly.",
+    "Drain the cooked rigatoni and add it to the skillet with the shiro sauce. Toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spiced-ethiopian-rigatoni-shiro",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:26:20.497Z"
+}

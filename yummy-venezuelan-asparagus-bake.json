@@ -1,0 +1,87 @@
+{
+  "slug": "yummy-venezuelan-asparagus-bake",
+  "title": "Pabellón Venezolano Bake",
+  "description": "A twist on the traditional Venezuelan Pabellón dish, this recipe combines ground beef, beans, and plantains baked in a delicious casserole.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "1 medium onion, diced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "1 cup black beans, drained and rinsed",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "2 ripe plantains, sliced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 cup shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium-high heat. Add ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in cumin and cook for 1 minute.",
+    "Add black beans to the skillet and stir to combine.",
+    "In a separate baking dish, arrange a layer of sliced plantains.",
+    "Top the plantains with the beef and bean mixture.",
+    "Sprinkle shredded cheese over the top of the beef mixture.",
+    "Repeat the layers, ending with a layer of cheese on top.",
+    "Bake for 30-40 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pabellon",
+    "venezuelan",
+    "bake",
+    "casserole",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-venezuelan-asparagus-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:24:55.747Z"
+}

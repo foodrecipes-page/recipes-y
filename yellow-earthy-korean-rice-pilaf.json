@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-earthy-korean-rice-pilaf",
+  "title": "Korean Yellow Rice Pilaf",
+  "description": "A flavorful and aromatic Korean-style yellow rice pilaf, perfect as a side dish or base for other Korean-inspired meals.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "yellow rice",
+      "amount": "1 cup",
+      "notes": "preferably Korean-style"
+    },
+    {
+      "name": "earthly pilaf seasoning",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "korean chili flakes (gochugaru)",
+      "amount": "1/2 tsp",
+      "notes": "optional for some heat"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking the rice"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "green onions (optional)",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a medium saucepan over medium heat.",
+    "Add the pilaf seasoning and cook for 1-2 minutes.",
+    "Add the yellow rice and stir to combine with the oil and seasoning.",
+    "Add the water, salt, and chili flakes (if using).",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 15-20 minutes, or until the water is absorbed and the rice is tender.",
+    "Fluff the rice with a fork and garnish with green onions (if using).",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "side-dish",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-earthy-korean-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:00:59.012Z"
+}

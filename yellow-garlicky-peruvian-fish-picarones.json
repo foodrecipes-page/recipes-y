@@ -1,0 +1,81 @@
+{
+  "slug": "yellow-garlicky-peruvian-fish-picarones",
+  "title": "Peruvian Sweet Potato Fritters with Garlic Aioli",
+  "description": "A delicious Peruvian-inspired dish featuring crispy sweet potato fritters served with a creamy garlic aioli. Perfect as a snack or side dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Yellow cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Picarones flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic aioli (see instructions)",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "2. Boil the sweet potatoes until tender, then mash.",
+    "3. In a bowl, mix together the cornmeal, flour, and a pinch of salt and pepper.",
+    "4. Add the mashed sweet potatoes, egg, and garlic to the bowl and mix well.",
+    "5. Using your hands, shape the mixture into small patties.",
+    "6. Fry the fritters in the hot oil for 3-4 minutes on each side, until golden brown.",
+    "7. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "8. For the garlic aioli, mix together minced garlic and mayonnaise in a bowl.",
+    "9. Serve the fritters hot with the garlic aioli for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "sweet-potato",
+    "fritters",
+    "garlic-aioli"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-garlicky-peruvian-fish-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:54:52.451Z"
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "yellow-sauteed-jamaican-vermicelli-pasta",
+  "title": "Jamaican Pasta Bake",
+  "description": "A flavorful and spicy pasta bake with a Jamaican twist. Perfect for a weeknight dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "sauteed"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the vermicelli pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, sauté the yellow onion over medium heat until softened.",
+    "Add the Jamaican jerk seasoning to the skillet and stir to combine.",
+    "Add the cooked pasta to the skillet and stir to combine with the onion and jerk seasoning mixture.",
+    "Transfer the pasta mixture to a baking dish and top with shredded cheddar cheese.",
+    "Dollop the sour cream over the top of the cheese.",
+    "Sprinkle chopped fresh cilantro over the top.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "jamaican",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-sauteed-jamaican-vermicelli-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:09:55.866Z"
+}

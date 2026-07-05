@@ -1,0 +1,85 @@
+{
+  "slug": "yellow-crispy-algerian-brown-rice-tagine",
+  "title": "Classic Algerian Chicken Tagine",
+  "description": "A traditional North African dish made with chicken, rice, and a blend of spices, slow-cooked in a clay pot.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "algerian rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "yellow onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "brown chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "crispy chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the chicken and pat it dry with paper towels.",
+    "Heat oil in a large clay pot over medium heat.",
+    "Add the onions and cook until they are translucent.",
+    "Add the chicken and cook until it is browned on all sides.",
+    "Add the broth, cumin, coriander, cayenne pepper, and salt.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the tagine spice blend and cook for an additional 5 minutes.",
+    "Serve the chicken and sauce over the algerian rice.",
+    "Garnish with crispy chopped almonds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "tagine",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crispy-algerian-brown-rice-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:49:05.564Z"
+}

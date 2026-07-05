@@ -1,0 +1,61 @@
+{
+  "slug": "yellowed-chinese-tomatoes-toast",
+  "title": "Toasty Tomato Toast",
+  "description": "A simple and delicious breakfast or snack made with toasted bread, fresh tomatoes, and a hint of Chinese flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yellowed bread (to toast)",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chinese chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    " Toast the bread until it is lightly browned.",
+    " Chop the tomatoes into small pieces.",
+    " Sprinkle the Chinese chili flakes on top of the toasted bread.",
+    " Add the chopped tomatoes on top of the chili flakes.",
+    " Season with salt to taste.",
+    " Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-chinese-tomatoes-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:22:14.385Z"
+}

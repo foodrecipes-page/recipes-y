@@ -2799,18 +2799,15 @@
   },
   {
     "slug": "yellow-crunchy-polish-banana-pancakes",
-    "title": "Yellow Crunchy Polish Banana Pancakes",
+    "title": "Polish Banana Pancakes",
     "tags": [
-      "banana-recipes",
-      "crunchy-texture",
-      "easy-dinner",
-      "low-fat",
-      "polish-cuisine",
-      "quick-recipes",
-      "vegetarian"
+      "breakfast",
+      "polish",
+      "banana",
+      "pancakes"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "cuisine": "polish",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -9279,16 +9276,15 @@
   },
   {
     "slug": "yellowed-smoky-algerian-lamb-tagine",
-    "title": "Yellowed Smoky Algerian lamb Tagine",
+    "title": "Smoky Algerian Lamb Tagine",
     "tags": [
-      "lamb-based",
-      "mediterranean-inspired",
-      "one-pot",
-      "smoky-flavor",
-      "special-occasion"
+      "lamb",
+      "tagine",
+      "north-african",
+      "slow-cooked"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {
@@ -14658,17 +14654,16 @@
   },
   {
     "slug": "yummy-venezuelan-asparagus-bake",
-    "title": "yummy venezuelan asparagus bake",
+    "title": "Pabellón Venezolano Bake",
     "tags": [
-      "asparagus",
-      "cheese",
-      "high-protein",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "pabellon",
+      "venezuelan",
+      "bake",
+      "casserole",
+      "beef"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

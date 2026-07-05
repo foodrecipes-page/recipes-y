@@ -1,0 +1,61 @@
+{
+  "slug": "yummy-buttery-norwegian-currants-pilaf",
+  "title": "Norwegian Currant Pilaf",
+  "description": "A sweet and savory Norwegian-inspired pilaf dish flavored with currants and a hint of buttery goodness.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "currants",
+      "amount": "1/2 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme"
+    }
+  ],
+  "instructions": [
+    "Heat the melted buttery in a large saucepan over medium heat.",
+    "Add the pilaf and cook, stirring constantly, for 2-3 minutes.",
+    "Add the currants and yummy, stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the pilaf is lightly toasted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "sweet",
+    "savory",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-buttery-norwegian-currants-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:50:59.763Z"
+}

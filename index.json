@@ -3519,17 +3519,15 @@
   },
   {
     "slug": "yellow-garlicky-peruvian-fish-picarones",
-    "title": "Yellow Garlicky Peruvian Fish Picarones",
+    "title": "Peruvian Sweet Potato Fritters with Garlic Aioli",
     "tags": [
-      "deep-frying",
-      "egg-free",
-      "fish-seasoning",
-      "gluten-free",
-      "peruvian-cuisine",
-      "snack-ideas"
+      "peruvian",
+      "sweet-potato",
+      "fritters",
+      "garlic-aioli"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 32,
     "shard": "y"
   },
   {
@@ -11571,17 +11569,15 @@
   },
   {
     "slug": "yummy-buttery-norwegian-currants-pilaf",
-    "title": "Yummy Buttery Norwegian Currants Pilaf",
+    "title": "Norwegian Currant Pilaf",
     "tags": [
-      "anti-inflammatory",
-      "gluten-free",
-      "norwegian-cuisine",
-      "one-pot",
-      "quick-fix",
-      "vegetarian"
+      "norwegian",
+      "sweet",
+      "savory",
+      "pilaf"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "norwegian",
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -12465,16 +12461,16 @@
   },
   {
     "slug": "yummy-fluffy-greek-gigantes-plaki",
-    "title": "Yummy Fluffy Greek Gigantes Plaki",
+    "title": "Classic Greek Gigantes Bean Stew",
     "tags": [
+      "greek",
+      "beans",
+      "stew",
       "comfort-food",
-      "greek-cuisine",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

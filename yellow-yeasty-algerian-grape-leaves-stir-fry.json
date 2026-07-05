@@ -1,0 +1,63 @@
+{
+  "slug": "yellow-yeasty-algerian-grape-leaves-stir-fry",
+  "title": "Algerian Grape Pancakes",
+  "description": "A sweet and savory Algerian-inspired pancake dish, perfect for breakfast or brunch. The addition of grape syrup adds a unique twist to traditional pancakes.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Grape",
+      "amount": "1 cup, pureed"
+    },
+    {
+      "name": "Yellow Cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Yeasty Yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Algerian Olives",
+      "amount": "1/2 cup, pitted and chopped"
+    },
+    {
+      "name": "Fresh Leaves",
+      "amount": "1 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the cornmeal, yeast, and 1 cup of warm water.",
+    "Let the mixture sit for 10-15 minutes, or until the yeast is activated and foamy.",
+    "Add the pureed grape, chopped olives, and chopped leaves to the bowl. Mix until well combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, or until golden brown.",
+    "Serve the pancakes warm with additional grape syrup if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "breakfast",
+    "pancakes",
+    "grape"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-yeasty-algerian-grape-leaves-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:14:48.445Z"
+}

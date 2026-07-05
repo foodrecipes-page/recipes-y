@@ -1,0 +1,72 @@
+{
+  "slug": "yellowed-nutty-american-pecan-pie",
+  "title": "Classic American Pecan Pie",
+  "description": "A rich and nutty dessert made with pecans, sugar, eggs, and melted butter. This classic American pie is a staple of the holiday season.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pecans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light Brown Sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Roll out the pie crust and place in a 9-inch pie dish.",
+    "In a large bowl, whisk together the pecans, light brown sugar, granulated sugar, and salt.",
+    "In a separate bowl, whisk together the eggs and melted butter.",
+    "Add the vanilla extract to the egg mixture and whisk to combine.",
+    "Pour the egg mixture over the pecan mixture and stir until well combined.",
+    "Pour the filling into the pie crust.",
+    "Bake for 45-50 minutes or until the filling is set and the crust is golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "dessert",
+    "pie",
+    "pecan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "30g",
+    "fat": "22g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-nutty-american-pecan-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:18:46.985Z"
+}

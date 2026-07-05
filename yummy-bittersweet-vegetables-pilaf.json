@@ -1,0 +1,70 @@
+{
+  "slug": "yummy-bittersweet-vegetables-pilaf",
+  "title": "Bittersweet Pilaf with Vegetables",
+  "description": "A flavorful and healthy pilaf dish made with bittersweet ingredients and mixed vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bittersweet",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetables",
+      "amount": "1 cup (chopped)",
+      "notes": "Use a mix of bell peppers, carrots, and onions"
+    },
+    {
+      "name": "vegetables",
+      "amount": "1 cup (chopped)",
+      "notes": "Use a mix of zucchini, tomatoes, and mushrooms"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped vegetables and cook until tender, about 5 minutes.",
+    "Add the bittersweet ingredients and cook for an additional 2 minutes.",
+    "Stir in the pilaf and cook for 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "vegetarian",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-bittersweet-vegetables-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:16:28.002Z"
+}

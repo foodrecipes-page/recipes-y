@@ -1,0 +1,76 @@
+{
+  "slug": "yeasty-portuguese-chocolate-cake",
+  "title": "Portuguese Yeast Cake",
+  "description": "A traditional Portuguese yeast cake that's moist and flavorful. Perfect for breakfast or as a snack.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yeast cake mix",
+      "amount": "1 box"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "portuguese sweet bread",
+      "amount": "1 cup",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Grease a 9x13-inch baking dish.",
+    "In a large mixing bowl, combine yeast cake mix, eggs, and vanilla extract. Mix until well combined.",
+    "Add chopped sweet bread, granulated sugar, softened butter, and chocolate chips to the bowl. Mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in the greased baking dish, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "Preheat oven to 375°F (190°C). Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from oven and let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "breakfast",
+    "cake",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-portuguese-chocolate-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:14:26.414Z"
+}

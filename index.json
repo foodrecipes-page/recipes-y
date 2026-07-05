@@ -7164,17 +7164,15 @@
   },
   {
     "slug": "yellowed-chinese-tomatoes-toast",
-    "title": "Yellowed Chinese Tomatoes Toast",
+    "title": "Toasty Tomato Toast",
     "tags": [
-      "brunch",
-      "chinese",
-      "lacto-vegetarian",
-      "quick",
-      "simple",
-      "toasty"
+      "breakfast",
+      "snack",
+      "easy",
+      "vegetarian"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 20,
+    "cuisine": "American",
+    "totalTimeMin": 10,
     "shard": "y"
   },
   {

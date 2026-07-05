@@ -1,0 +1,79 @@
+{
+  "slug": "yellowish-creamy-tunisian-fromage-frais-tagine",
+  "title": "Tunisian Yellow Tagine",
+  "description": "A rich and vibrant yellow tagine made with creamy ingredients and a hint of Tunisian spices, perfect for a warm lunch or dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Frais",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tunisian Tagine Spice Blend",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Fromage",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brush the bottom of a 9x13 inch baking dish with olive oil.",
+    "Layer the yellow frais, fromage, and chopped almonds in the dish, finishing with a layer of frais on top.",
+    "Mix the Tunisian tagine spice blend, salt, and pepper in a small bowl. Sprinkle the spice mixture evenly over the top of the dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for 15-20 minutes, or until the top is lightly browned and the filling is heated through.",
+    "Remove from the oven and let cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "yellow",
+    "tunisian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-creamy-tunisian-fromage-frais-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:35:07.451Z"
+}

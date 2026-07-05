@@ -1,0 +1,84 @@
+{
+  "slug": "yellow-spicy-algerian-lamb-tagine",
+  "title": "Spicy Algerian Lamb Tagine",
+  "description": "A traditional North African stew originating from Algeria, made with tender lamb and a blend of aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Algerian Spices",
+      "amount": "2 teaspoons",
+      "notes": "Blend of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Spicy Harissa",
+      "amount": "1 teaspoon",
+      "notes": "North African chili paste"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for added sweetness"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb in batches until browned on all sides, about 5 minutes per batch. Remove from heat and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the Algerian spices, harissa, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the browned lamb back to the pot, along with the chopped apricots and enough water to cover the ingredients.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 hour 30 minutes.",
+    "Stir in some chopped cilantro and serve hot over couscous or rice.",
+    "Adjust seasoning to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "couscous",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:58:16.034Z"
+}

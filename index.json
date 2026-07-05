@@ -1212,16 +1212,15 @@
   },
   {
     "slug": "yeasty-portuguese-chocolate-cake",
-    "title": "Portuguese Yeast Chocolate Cake",
+    "title": "Portuguese Yeast Cake",
     "tags": [
-      "chocolate-cake",
-      "dessert",
-      "portuguese-food",
-      "special-occasion",
-      "yeast-bread"
+      "portuguese",
+      "breakfast",
+      "cake",
+      "yeast"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "cuisine": "portuguese",
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {
@@ -5518,17 +5517,14 @@
   },
   {
     "slug": "yellow-spiced-saudi-arabian-lamb-kebabs",
-    "title": "Yellow Spiced Saudi Arabian Lamb Kebabs",
+    "title": "Saudi-Style Lamb Kebabs",
     "tags": [
-      "gluten-free",
-      "grilled",
       "lamb",
-      "low-calorie",
-      "middle-eastern",
-      "quick-dinner"
+      "kebabs",
+      "saudi"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 28,
     "shard": "y"
   },
   {

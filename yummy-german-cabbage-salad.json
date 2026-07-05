@@ -1,0 +1,60 @@
+{
+  "slug": "yummy-german-cabbage-salad",
+  "title": "German Coleslaw",
+  "description": "A simple and delicious German-style coleslaw made with shredded cabbage and a hint of apple cider vinegar.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, shredded"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yummy german mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Shred the cabbage and place it in a large bowl.",
+    "In a small bowl, whisk together the caraway seeds, apple cider vinegar, and german mustard.",
+    "Pour the dressing over the cabbage and toss to coat.",
+    "Season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coleslaw",
+    "german",
+    "side"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-german-cabbage-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:19:27.003Z"
+}

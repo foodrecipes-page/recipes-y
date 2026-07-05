@@ -3173,16 +3173,15 @@
   },
   {
     "slug": "yellow-earthy-korean-rice-pilaf",
-    "title": "Yellow Earthy Korean Rice Pilaf",
+    "title": "Korean Yellow Rice Pilaf",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "korean-cuisine",
-      "one-pot",
-      "weeknight"
+      "korean",
+      "side-dish",
+      "rice",
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 33,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -12663,16 +12662,14 @@
   },
   {
     "slug": "yummy-german-cabbage-salad",
-    "title": "Yummy German Cabbage Salad",
+    "title": "German Coleslaw",
     "tags": [
-      "fresh",
+      "coleslaw",
       "german",
-      "macrobiotic-friendly",
-      "quick",
-      "salad"
+      "side"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 10,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

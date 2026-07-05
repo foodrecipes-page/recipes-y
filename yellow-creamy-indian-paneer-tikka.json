@@ -1,0 +1,84 @@
+{
+  "slug": "yellow-creamy-indian-paneer-tikka",
+  "title": "Creamy Paneer Tikka",
+  "description": "A popular Indian dish made with marinated paneer cooked in a creamy sauce, perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "250g"
+    },
+    {
+      "name": "Yellow Curry Powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together curry powder, garam masala, salt, ginger, and garlic.",
+    "2. Add the paneer to the marinade and mix well to coat. Cover and refrigerate for at least 30 minutes.",
+    "3. Heat a large skillet over medium-high heat. Remove the paneer from the marinade, letting any excess liquid drip off.",
+    "4. Add 1 tablespoon of butter to the skillet and cook the paneer until golden brown on all sides, about 5-7 minutes.",
+    "5. In the same skillet, add the remaining 1 tablespoon of butter. Once melted, add the heavy cream and bring to a simmer.",
+    "6. Add the cooked paneer back to the skillet and stir to coat with the creamy sauce.",
+    "7. Cook for an additional 2-3 minutes, or until the sauce has thickened slightly.",
+    "8. Serve the creamy paneer tikka hot, garnished with lemon wedges if desired.",
+    "9. Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "creamy",
+    "paneer",
+    "tikka",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-creamy-indian-paneer-tikka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:15:21.502Z"
+}

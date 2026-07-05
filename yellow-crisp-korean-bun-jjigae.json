@@ -1,0 +1,69 @@
+{
+  "slug": "yellow-crisp-korean-bun-jjigae",
+  "title": "Bun Jjigae",
+  "description": "A spicy Korean-inspired dish wrapped in a crispy bun, filled with savory jjigae.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Korean bun",
+      "amount": "4"
+    },
+    {
+      "name": "Yellow cornmeal",
+      "amount": "1 cup",
+      "notes": "for crispy bun topping"
+    },
+    {
+      "name": "Crisp kimchi",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Canned jjigae sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the buns in half and toast until lightly browned.",
+    "Mix cornmeal and a pinch of salt for crispy topping. Set aside.",
+    "Heat oil in a pan over medium heat. Pour in jjigae sauce and cook until bubbly.",
+    "Add crisp kimchi and stir until well combined.",
+    "Assemble the bun by spreading jjigae mixture on the bottom half, then topping with green onions.",
+    "Sprinkle cornmeal mixture on top for crispy crunch.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crisp-korean-bun-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:52:40.702Z"
+}

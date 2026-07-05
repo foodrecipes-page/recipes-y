@@ -1,0 +1,82 @@
+{
+  "slug": "yellow-spiced-saudi-arabian-lamb-kebabs",
+  "title": "Saudi-Style Lamb Kebabs",
+  "description": "A classic Middle Eastern dish featuring marinated lamb skewers, perfect for a summer BBQ.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Saudi Arabian Spiced Mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together spiced mix, lemon juice, olive oil, salt, and black pepper.",
+    "Add the lamb to the marinade and mix well to coat.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread lamb, onion, and cilantro onto skewers.",
+    "Grill for 8-10 minutes per side, or until lamb reaches an internal temperature of 145°F.",
+    "Let kebabs rest for 5 minutes before serving.",
+    "Serve hot with additional spiced mix, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "saudi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spiced-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:52:48.954Z"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "yellowed-crisp-turkish-lamb-kebabs",
+  "title": "Turkish Lamb Kebabs with Cucumber Salad",
+  "description": "A classic Turkish dish featuring lamb kebabs served with a refreshing cucumber salad. Perfect for a summer evening.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "2"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Turkish Pepper",
+      "amount": "2"
+    },
+    {
+      "name": "Crusty Bread",
+      "amount": "1 loaf"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, mix together lamb, 2 cloves of minced garlic, 1 tablespoon olive oil, and 1 teaspoon paprika.",
+    "3. Thread lamb mixture onto skewers.",
+    "4. Grill lamb kebabs for 8-10 minutes, or until cooked through.",
+    "5. Meanwhile, slice cucumbers and onions thinly.",
+    "6. In a bowl, whisk together 2 tablespoons olive oil, 1 tablespoon lemon juice, and 1 teaspoon salt.",
+    "7. Add sliced cucumbers and onions to the bowl, and toss to coat.",
+    "8. Serve lamb kebabs with cucumber salad and crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crisp-turkish-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:00:12.896Z"
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "yummy-fluffy-greek-gigantes-plaki",
+  "title": "Classic Greek Gigantes Bean Stew",
+  "description": "A hearty, comforting Greek stew made with giant beans in a flavorful tomato sauce, typically served with fluffy rice.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "giant butter beans (gigantes)",
+      "amount": "1 cup dried or 2 cups cooked"
+    },
+    {
+      "name": "plaki onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "yummy olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fluffy all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "greek tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "optional: lemon juice and chopped fresh parsley",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onions and cook, stirring occasionally, until they are softened and lightly browned, about 8 minutes.",
+    "Add the flour and cook, stirring constantly, for 1-2 minutes.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the water or broth, giant beans, salt, and pepper. Bring to a boil, then reduce the heat to low and simmer, covered, for 30-40 minutes, or until the beans are tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with a squeeze of lemon juice and some chopped parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "beans",
+    "stew",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-fluffy-greek-gigantes-plaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:04:27.371Z"
+}

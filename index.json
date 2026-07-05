@@ -6402,17 +6402,15 @@
   },
   {
     "slug": "yellow-yeasty-algerian-grape-leaves-stir-fry",
-    "title": "Yellow Yeasty Algerian Grape Leaves Stir Fry",
+    "title": "Algerian Grape Pancakes",
     "tags": [
-      "algerian-cuisine",
-      "crunchy",
-      "jain-friendly",
-      "stir-fry",
-      "vegetarian",
-      "yeasty"
+      "algerian",
+      "breakfast",
+      "pancakes",
+      "grape"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -10045,16 +10043,16 @@
   },
   {
     "slug": "yellowish-dense-croatian-haggis-stew",
-    "title": "Yellowish Dense Croatian Haggis Stew",
+    "title": "Croatian Haggis Stew",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "hearty-stew",
-      "low-sodium",
-      "one-pot"
+      "croatian",
+      "haggis",
+      "stew",
+      "hearty",
+      "winter"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

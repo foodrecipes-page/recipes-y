@@ -1917,16 +1917,15 @@
   },
   {
     "slug": "yellow-caramelized-moroccan-reblochon-tagine",
-    "title": "Yellow Caramelized Moroccan Reblochon Tagine",
+    "title": "Caramelized Moroccan Vegetable Tagine",
     "tags": [
-      "brunch-ideas",
-      "cheesy-dishes",
-      "hot-pot-recipes",
-      "moroccan-cuisine",
-      "pescatarian-friendly"
+      "vegetarian",
+      "stew",
+      "cheese",
+      "moroccan"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 65,
     "shard": "y"
   },
   {
@@ -2531,17 +2530,14 @@
   },
   {
     "slug": "yellow-crisp-korean-bun-jjigae",
-    "title": "Yellow Crisp Korean Bun Jjigae",
+    "title": "Bun Jjigae",
     "tags": [
-      "crispy",
-      "korean-food",
-      "meal-prep",
-      "one-pan",
-      "savory",
-      "vegetarian"
+      "korean",
+      "snack",
+      "veggie"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -2560,17 +2556,15 @@
   },
   {
     "slug": "yellow-crispy-algerian-brown-rice-tagine",
-    "title": "Yellow Crispy Algerian Brown Rice Tagine",
+    "title": "Classic Algerian Chicken Tagine",
     "tags": [
-      "algerian-cuisine",
-      "gluten-free",
-      "one-pot",
-      "post-workout",
-      "sattvic-friendly",
-      "vegetarian"
+      "algerian",
+      "chicken",
+      "tagine",
+      "rice"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -5562,16 +5556,16 @@
   },
   {
     "slug": "yellow-spicy-algerian-lamb-tagine",
-    "title": "Yellow Spicy Algerian Lamb Tagine",
+    "title": "Spicy Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "lamb-recipes",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot",
-      "spicy-food"
+      "couscous",
+      "spicy"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 140,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "y"
   },
   {

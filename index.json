@@ -11447,15 +11447,14 @@
   },
   {
     "slug": "yummy-bittersweet-vegetables-pilaf",
-    "title": "Yummy Bittersweet Vegetables Pilaf",
+    "title": "Bittersweet Pilaf with Vegetables",
     "tags": [
-      "american-dish",
-      "bittersweet-vegetables",
-      "fluffy",
-      "hangover-cure"
+      "pilaf",
+      "vegetarian",
+      "mediterranean"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

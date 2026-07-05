@@ -1,0 +1,75 @@
+{
+  "slug": "yummy-smoky-irish-salmon-grill",
+  "title": "Smoky Irish Salmon",
+  "description": "A hearty salmon dish infused with the flavors of Ireland, cooked to perfection on the grill.",
+  "cuisine": "Irish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "smoky whiskey",
+      "amount": "1 tbsp",
+      "notes": "such as Jameson"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the salmon fillets with garlic powder, salt, and pepper.",
+    "In a small bowl, mix together the irish butter, smoky whiskey, and lemon juice.",
+    "Brush the mixture evenly onto both sides of the salmon fillets.",
+    "Place the salmon on the grill and cook for 4-5 minutes per side, or until cooked through.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "irish",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 4,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-smoky-irish-salmon-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:03:45.782Z"
+}

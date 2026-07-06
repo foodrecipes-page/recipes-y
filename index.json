@@ -5145,17 +5145,15 @@
   },
   {
     "slug": "yellow-smoky-mexican-mung-bean-sprouts-pozole",
-    "title": "Yellow Smoky Mexican Mung Bean Sprouts Pozole",
+    "title": "Spicy Pozole Stew",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "mexican-food",
-      "one-pot-meals",
-      "smoky-flavors",
-      "vegetarian-recipes"
+      "mexican",
+      "vegan",
+      "beans",
+      "stew"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -7512,17 +7510,14 @@
   },
   {
     "slug": "yellowed-crispy-italian-strawberry-fritters",
-    "title": "Yellowed Crispy Italian Strawberry Fritters",
+    "title": "Strawberry Fritters",
     "tags": [
-      "gluten-free",
-      "italian-cuisine",
-      "nuka-pickle",
-      "savory-snacks",
-      "scallop-shells",
-      "strawberry-recipes"
+      "italian",
+      "sweet",
+      "fried"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

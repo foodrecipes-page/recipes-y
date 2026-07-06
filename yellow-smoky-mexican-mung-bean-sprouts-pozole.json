@@ -1,0 +1,84 @@
+{
+  "slug": "yellow-smoky-mexican-mung-bean-sprouts-pozole",
+  "title": "Spicy Pozole Stew",
+  "description": "A hearty, spicy stew originating from Mexico, featuring a medley of flavors and textures.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow pozole",
+      "amount": "1 cup",
+      "notes": "dried or canned"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "mung beans",
+      "amount": "1 cup",
+      "notes": "dried or canned"
+    },
+    {
+      "name": "smoky chipotle peppers",
+      "amount": "2",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "mexican oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add cumin and oregano; cook for 1 minute.",
+    "Add chipotle peppers; cook for 1 minute.",
+    "Add pozole, mung beans, and 4 cups water; bring to a boil.",
+    "Reduce heat; simmer, covered, for 30 minutes, or until beans are tender.",
+    "Stir in bean sprouts; cook for 5-7 minutes, or until tender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with desired toppings (e.g., lime wedges, cilantro, radishes)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegan",
+    "beans",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 65,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-mexican-mung-bean-sprouts-pozole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:29:15.170Z"
+}

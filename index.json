@@ -13929,17 +13929,14 @@
   },
   {
     "slug": "yummy-sicilian-chickpea-flour-cannoli-puffs",
-    "title": "Yummy Sicilian Chickpea Flour Cannoli Puffs",
+    "title": "Sicilian Chickpea Fritters",
     "tags": [
-      "cannoli",
-      "dessert",
-      "high-protein",
-      "italian",
       "snack",
-      "whole30-friendly"
+      "italian",
+      "fritters"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "cuisine": "sican",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

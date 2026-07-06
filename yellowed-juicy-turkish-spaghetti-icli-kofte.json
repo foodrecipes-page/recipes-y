@@ -1,0 +1,86 @@
+{
+  "slug": "yellowed-juicy-turkish-spaghetti-icli-kofte",
+  "title": "Turkish-Style Kofte Spaghetti",
+  "description": "A twist on traditional spaghetti with Turkish kofte meatballs. Juicy kofte are served on top of a bed of spaghetti and a tangy sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Turkish-Style Kofte Meatballs",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook spaghetti according to package instructions until al dente.",
+    "While spaghetti is cooking, heat olive oil in a large skillet over medium-high heat.",
+    "Add onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add kofte meatballs to the skillet and cook until browned on all sides.",
+    "Add tomato sauce to the skillet and stir to combine with kofte and onion mixture.",
+    "Simmer sauce for 5-7 minutes over medium-low heat.",
+    "Drain spaghetti and return to pot. Add sauce and toss to combine.",
+    "Serve hot, topped with additional kofte if desired.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "spaghetti",
+    "kofte",
+    "meatballs"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-juicy-turkish-spaghetti-icli-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:13:00.223Z"
+}

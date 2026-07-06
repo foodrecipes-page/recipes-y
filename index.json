@@ -4392,17 +4392,15 @@
   },
   {
     "slug": "yellow-peppery-middle-eastern-eggs-knafeh",
-    "title": "Yellow Peppery Middle Eastern Eggs Knafeh",
+    "title": "Eastern-Style Knafeh with Poached Eggs",
     "tags": [
+      "middle eastern",
       "breakfast",
-      "brunch",
-      "high-protein",
-      "middle-eastern",
-      "phyllo-dough",
-      "pressure-cooker"
+      "knafeh",
+      "eggs"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -12655,15 +12653,15 @@
   },
   {
     "slug": "yummy-german-quinoa-wrap",
-    "title": "Yummy German Quinoa Wrap",
+    "title": "German Quinoa Wrap",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "healthy",
-      "quick"
+      "german",
+      "vegetarian",
+      "easy",
+      "wrap"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

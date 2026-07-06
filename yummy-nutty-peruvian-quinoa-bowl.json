@@ -1,0 +1,79 @@
+{
+  "slug": "yummy-nutty-peruvian-quinoa-bowl",
+  "title": "Quinoa Bowl with Nutty Peruvian Flair",
+  "description": "A hearty and nutritious quinoa bowl infused with the flavors of Peru, topped with a crunchy and nutty crunch.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yummy Peruvian Roasted Vegetables",
+      "amount": "2 cups",
+      "notes": "A mix of sweet potatoes, carrots, and corn"
+    },
+    {
+      "name": "Nutty Crunch Topping",
+      "amount": "1/4 cup",
+      "notes": "A mix of chopped almonds and pumpkin seeds"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa in a fine mesh strainer and cook according to package instructions.",
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the sweet potatoes, carrots, and corn with olive oil, salt, and pepper on a baking sheet.",
+    "Roast in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "In a large bowl, combine the cooked quinoa, roasted vegetables, diced avocado, and chopped cilantro.",
+    "Squeeze the lime juice over the top and toss to combine.",
+    "Sprinkle the nutty crunch topping over the top and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "peruvian",
+    "quinoa",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-nutty-peruvian-quinoa-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:03:57.122Z"
+}

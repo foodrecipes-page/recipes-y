@@ -1,0 +1,73 @@
+{
+  "slug": "yummy-german-quinoa-wrap",
+  "title": "German Quinoa Wrap",
+  "description": "A healthy and flavorful German-inspired quinoa wrap filled with sautéed veggies and a tangy sauce.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "yummy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook quinoa according to package instructions.",
+    "Sauté chopped onion, carrots, and cucumber in a pan with a little oil until tender.",
+    "Add diced tomato and cook for another 2 minutes.",
+    "Warm the wrap in the microwave for 20-30 seconds.",
+    "Assemble the wrap by spreading yummy sauce on the wrap, followed by the cooked quinoa and the sautéed veggies.",
+    "Fold the wrap and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegetarian",
+    "easy",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-german-quinoa-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:53:09.291Z"
+}

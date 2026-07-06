@@ -1,0 +1,76 @@
+{
+  "slug": "yellow-peppery-middle-eastern-eggs-knafeh",
+  "title": "Eastern-Style Knafeh with Poached Eggs",
+  "description": "A twist on the classic Middle Eastern dessert, adding a savory element with poached eggs.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Knafeh",
+      "amount": "200g"
+    },
+    {
+      "name": "Yellow cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "for poaching"
+    },
+    {
+      "name": "Milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Ghee",
+      "amount": "50g"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "In a medium saucepan, combine milk, sugar, ghee, cinnamon, and cardamom.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the knafeh to the saucepan and cook for an additional 5 minutes, stirring constantly.",
+    "Remove the saucepan from heat and stir in the yellow cheese until melted.",
+    "In a separate saucepan, bring water to a boil for poaching the eggs.",
+    "Crack the eggs into the water and cook for 3-5 minutes, or until cooked to desired doneness.",
+    "To assemble the dish, place a scoop of the knafeh mixture in a serving dish, top with a poached egg, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "breakfast",
+    "knafeh",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-peppery-middle-eastern-eggs-knafeh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:15:55.476Z"
+}

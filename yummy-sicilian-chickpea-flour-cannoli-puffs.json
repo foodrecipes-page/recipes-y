@@ -1,0 +1,73 @@
+{
+  "slug": "yummy-sicilian-chickpea-flour-cannoli-puffs",
+  "title": "Sicilian Chickpea Fritters",
+  "description": "A crispy and flavorful twist on traditional chickpea fritters, inspired by Sicilian cuisine.",
+  "cuisine": "sican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 can (14.5 oz)",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "yummy",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "puffs",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "Drain and rinse the chickpeas.",
+    "In a large bowl, mash the chickpeas using a fork.",
+    "Add the flour, yummy, salt, and black pepper to the bowl. Mix well.",
+    "Gradually add the crushed puffs to the bowl and mix until a thick dough forms.",
+    "Using a spoon, drop small balls of the dough into the hot oil.",
+    "Fry the fritters for 3-4 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "italian",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-sicilian-chickpea-flour-cannoli-puffs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:39:27.039Z"
+}

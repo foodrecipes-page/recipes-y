@@ -1,0 +1,86 @@
+{
+  "slug": "yellowed-crispy-german-pork-casseroles",
+  "title": "German Pork Casserole",
+  "description": "A hearty German-inspired pork casserole that's easy to prepare and packed with flavor. Perfect for a cold evening meal.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "Mixed with 1/2 cup water"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or regular"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the pork cubes over medium-high heat until browned on all sides.",
+    "Add the chopped onions, caraway seeds, salt, and pepper to the skillet. Cook until the onions are softened.",
+    "In a separate saucepan, combine the milk and water. Bring to a simmer over medium heat.",
+    "Stir the breadcrumbs into the milk mixture and cook for 2-3 minutes, or until the breadcrumbs are toasted.",
+    "In a greased 9x13-inch baking dish, arrange half of the cooked pork mixture.",
+    "Pour half of the milk-breadcrumb mixture over the pork.",
+    "Repeat the layers, starting with the remaining pork mixture, then the remaining milk-breadcrumb mixture.",
+    "Dot the top of the casserole with butter.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-german-pork-casseroles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:19:47.861Z"
+}

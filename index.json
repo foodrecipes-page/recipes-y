@@ -7446,17 +7446,15 @@
   },
   {
     "slug": "yellowed-crispy-german-pork-casseroles",
-    "title": "Yellowed Crispy German Pork Casseroles",
+    "title": "German Pork Casserole",
     "tags": [
-      "comfort-food",
-      "crispy-pastry",
-      "german-cuisine",
-      "low-calorie",
-      "midnight-snack",
-      "pork-recipe"
+      "german",
+      "pork",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 45,
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -8596,17 +8594,15 @@
   },
   {
     "slug": "yellowed-juicy-turkish-spaghetti-icli-kofte",
-    "title": "Yellowed Juicy Turkish Spaghetti Icli Kofte",
+    "title": "Turkish-Style Kofte Spaghetti",
     "tags": [
-      "juicy-kofte",
-      "low-sodium",
-      "middle-eastern",
-      "spaghetti-recipe",
-      "special-occasion",
-      "turkish-food"
+      "turkish",
+      "spaghetti",
+      "kofte",
+      "meatballs"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

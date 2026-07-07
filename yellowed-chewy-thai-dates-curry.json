@@ -1,0 +1,75 @@
+{
+  "slug": "yellowed-chewy-thai-dates-curry",
+  "title": "Thai Chewy Date Curry",
+  "description": "A sweet and savory curry made with chewy dates, yellowed coconut milk, and a hint of Thai spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "10",
+      "notes": "pitted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "yellowed"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green chilies",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a saucepan over medium heat.",
+    "Add curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add coconut milk, brown sugar, water, and salt. Stir to combine.",
+    "Bring mixture to a simmer.",
+    "Add pitted dates and chopped green chilies.",
+    "Reduce heat to low and cook, stirring occasionally, for 10-12 minutes or until dates are tender.",
+    "Serve warm or chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "thaicurry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 75,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-chewy-thai-dates-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:36:55.517Z"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "yummy-comforting-peruvian-chicken-arroz-con-pato",
+  "title": "Pato Con Arroz",
+  "description": "A classic Peruvian dish that combines the flavors of chicken, rice, and spices. This comforting meal is perfect for any occasion.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken thighs"
+    },
+    {
+      "name": "arroz",
+      "amount": "1 cup uncooked white rice"
+    },
+    {
+      "name": "pato (duck) fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium chopped onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced garlic"
+    },
+    {
+      "name": "ají amarillo",
+      "amount": "2 teaspoons Peruvian yellow pepper paste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the duck fat in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the Peruvian yellow pepper paste and stir to combine.",
+    "Add the rice to the skillet and stir to combine with the chicken and spices.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "comforting",
+    "chicken",
+    "arroz",
+    "pato"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-comforting-peruvian-chicken-arroz-con-pato",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:29:20.987Z"
+}

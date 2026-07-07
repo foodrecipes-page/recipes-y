@@ -1,0 +1,69 @@
+{
+  "slug": "yummy-solo-dinner-mix-jamaican-ground-nut-oil-pastry",
+  "title": "Jamaican Pastry Pie",
+  "description": "A sweet and flaky pastry pie filled with a delicious Jamaican-inspired filling. Perfect as a dessert or snack.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "nut",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tbsp",
+      "notes": "Jamaican spice blend"
+    },
+    {
+      "name": "oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "mix",
+      "amount": "1/4 cup",
+      "notes": "granulated sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry sheet to a thickness of 1/8 inch.",
+    "Transfer the pastry to a 9-inch pie dish.",
+    "In a bowl, mix together the chopped nuts, Jamaican spice blend, and granulated sugar.",
+    "Pour the nut mixture into the pastry-lined pie dish.",
+    "Drizzle the melted oil over the nut mixture.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, garnished with additional chopped nuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "pie",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-solo-dinner-mix-jamaican-ground-nut-oil-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:33:51.069Z"
+}

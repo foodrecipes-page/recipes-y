@@ -5602,17 +5602,15 @@
   },
   {
     "slug": "yellow-spicy-dutch-natto-stew",
-    "title": "Yellow Spicy Dutch Natto Stew",
+    "title": "Spicy Natto Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "one-pot",
-      "shojin",
       "spicy",
-      "vegetarian"
+      "dutch",
+      "vegetarian",
+      "stew"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -8192,17 +8190,15 @@
   },
   {
     "slug": "yellowed-fluffy-chinese-pork-char-siu-bao",
-    "title": "Yellowed Fluffy Chinese Pork Char Siu Bao",
+    "title": "Char Siu Bao",
     "tags": [
-      "chinese-food",
-      "fluffy-buns",
-      "low-carb",
-      "meal-prep",
-      "pork-recipes",
-      "sugar-free"
+      "cantonese",
+      "char-siu",
+      "baos",
+      "steamed-buns"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 48,
+    "cuisine": "Cantonese",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

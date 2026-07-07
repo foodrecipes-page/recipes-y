@@ -10451,18 +10451,15 @@
   },
   {
     "slug": "yogurt-glazed-basque-french-kielbasa-clafoutis",
-    "title": "Yogurt-Glazed Basque-French Kielbasa Clafoutis",
+    "title": "Savory Clafoutis",
     "tags": [
-      "basque-french",
-      "breakfast",
+      "satisfying",
       "dinner",
-      "high-protein",
-      "lunch",
-      "one-pan",
-      "weeknight"
+      "kielbasa",
+      "clafoutis"
     ],
-    "cuisine": "Basque-French",
-    "totalTimeMin": 40,
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

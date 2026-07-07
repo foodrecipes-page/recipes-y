@@ -2996,17 +2996,16 @@
   },
   {
     "slug": "yellow-dense-japanese-saskatoon-berries-yakitori",
-    "title": "Yellow Dense Japanese Saskatoon Berries Yakitori",
+    "title": "Saskatoon Berry Yakitori",
     "tags": [
-      "double-fry",
-      "japanese-cuisine",
-      "kfc-inspired",
-      "one-pot",
-      "vegan-friendly",
-      "yakitori-style"
+      "saskatoon-berry",
+      "yakitori",
+      "grilled",
+      "chicken",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -3988,16 +3987,16 @@
   },
   {
     "slug": "yellow-lacquered-korean-tofu-sujebi",
-    "title": "Yellow Lacquered Korean Tofu Sujebi",
+    "title": "Spicy Korean-Style Tofu Sujebi Soup",
     "tags": [
-      "korean-cuisine",
-      "romantic-dinner",
-      "spicy-food",
-      "turmeric-based",
-      "vegan-friendly"
+      "korean",
+      "soup",
+      "tofu",
+      "sujebi",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -9162,17 +9161,16 @@
   },
   {
     "slug": "yellowed-savory-uruguayan-chinese-leaf-skewers",
-    "title": "Yellowed Savory Uruguayan Chinese Leaf Skewers",
+    "title": "Uruguayan Choripan with Grilled Vegetables",
     "tags": [
-      "chinese-influence",
-      "dinner-ideas",
-      "gluten-free",
-      "grilled-vegetables",
-      "sugar-free",
-      "uruguayan-cuisine"
+      "uruguayan",
+      "choripan",
+      "grilled",
+      "veggies",
+      "skewers"
     ],
-    "cuisine": "Uruguayan Chinese",
-    "totalTimeMin": 32,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -10995,16 +10993,14 @@
   },
   {
     "slug": "youthful-yellow-greek-smoked-turkey-neck-stew",
-    "title": "Youthful Yellow Greek Smoked Turkey Neck Stew",
+    "title": "Smoked Turkey Stew",
     "tags": [
-      "comfort-food",
-      "greek-cuisine",
-      "romantic-dinner",
-      "smoked-turkey",
-      "winter-dish"
+      "smoked turkey",
+      "stew",
+      "comfort food"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 105,
     "shard": "y"
   },
   {

@@ -1,0 +1,65 @@
+{
+  "slug": "yummy-aerated-malaysian-celeria-aerated-celery-bowl",
+  "title": "Malaysian Celery Soup",
+  "description": "A comforting and flavorful soup combining the freshness of celery with the spices of Malaysia. Perfect for a chilly evening.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "celeria",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "yummy",
+      "amount": "1/2 cup",
+      "notes": "Malaysian-style peanut sauce"
+    },
+    {
+      "name": "aerated",
+      "amount": "1 can (14 oz)",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped celery and celeria and cook until tender.",
+    "Add yummy and stir until heated through.",
+    "Pour in aerated and bring the mixture to a simmer.",
+    "Reduce heat to low and let cook for 10-15 minutes.",
+    "Serve hot in a bowl and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "lunch",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-aerated-malaysian-celeria-aerated-celery-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:47:47.140Z"
+}

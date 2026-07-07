@@ -1,0 +1,98 @@
+{
+  "slug": "yellow-glazed-canadian-duck-biryani",
+  "title": "Duck Biryani",
+  "description": "A flavorful and aromatic biryani dish made with duck and spices. This recipe combines the richness of duck with the exotic flavors of Indian cuisine.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Canadian biryani spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Yellow basmati rice",
+      "amount": "2 cups",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Glazed carrots",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent.",
+    "Add duck breast and cook until browned on all sides.",
+    "Add biryani spice blend, salt, and black pepper. Cook for 1 minute.",
+    "Add basmati rice and cook for 2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes.",
+    "Fluff the biryani with a fork and serve with glazed carrots.",
+    "To make glazed carrots, heat 1 tbsp of oil in a pan over medium heat.",
+    "Add 1 cup of chopped carrots and cook until tender.",
+    "Add 1 tsp of honey and cook for 1 minute.",
+    "Stir to coat carrots evenly and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "biryani",
+    "indian",
+    "rice",
+    "spices"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-glazed-canadian-duck-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:49:38.058Z"
+}

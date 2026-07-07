@@ -1,0 +1,83 @@
+{
+  "slug": "yellow-malted-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty and comforting Irish stew made with tender lamb, root vegetables, and a rich broth.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Malted barley",
+      "amount": "1 cup",
+      "notes": "pearled"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Stew",
+      "amount": "4 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb in batches, then set aside.",
+    "Reduce heat to medium, add more oil if necessary, and cook the onion until softened.",
+    "Add the barley and cook for 1-2 minutes, stirring constantly.",
+    "Add the stew, carrots, potatoes, lamb, salt, and pepper. Bring to a boil.",
+    "Cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2-3 hours, or until the lamb is tender.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "irish",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-malted-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:38:37.846Z"
+}

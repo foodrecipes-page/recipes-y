@@ -1,0 +1,78 @@
+{
+  "slug": "yellow-yielding-saudi-buckwheat-tagine",
+  "title": "Saudi Buckwheat Tagine",
+  "description": "A hearty and flavorful dish from Saudi Arabia, made with buckwheat and traditional spices. This tagine is perfect for a chilly evening or a special occasion.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buckwheat groats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Saudi spices (cumin, coriander, turmeric)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add chopped onion and sauté until softened.",
+    "Add buckwheat groats and stir to coat with oil.",
+    "Add Saudi spices, tagine spice mix, salt, and pepper. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until buckwheat is tender.",
+    "Fluff with a fork and garnish with chopped parsley (if using).",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "buckwheat",
+    "tagine",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-yielding-saudi-buckwheat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:03:39.955Z"
+}

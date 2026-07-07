@@ -1,0 +1,95 @@
+{
+  "slug": "yellow-fried-korean-peppers-skillet",
+  "title": "Korean Fried Pepper Skillet",
+  "description": "A spicy and savory skillet dish featuring crispy fried peppers in a Korean-inspired sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "peppers",
+      "amount": "4",
+      "notes": "any color but yellow"
+    },
+    {
+      "name": "yellow peppers",
+      "amount": "2",
+      "notes": "for added sweetness"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "preferably non-stick"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "such as vegetable or peanut oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a skillet over medium-high heat.",
+    "Add the peppers and cook, turning occasionally, until crisp and slightly charred, about 5-7 minutes.",
+    "Transfer the peppers to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of oil, garlic, and ginger. Cook, stirring constantly, for 1 minute.",
+    "Add the gochujang and soy sauce to the skillet and stir to combine.",
+    "Return the peppers to the skillet and toss to coat with the sauce.",
+    "Cook for an additional 1-2 minutes, until the peppers are well coated.",
+    "Sprinkle with sugar, if using, and green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "skillet",
+    "peppers",
+    "breakfast",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-fried-korean-peppers-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:02:50.738Z"
+}

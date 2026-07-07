@@ -2624,17 +2624,15 @@
   },
   {
     "slug": "yellow-crispy-moroccan-lamb-couscous-royal",
-    "title": "Yellow Crispy Moroccan Lamb Couscous Royal",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "couscous-dishes",
-      "dairy-free",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "one-pot"
+      "moroccan",
+      "lamb",
+      "tagine",
+      "couscous"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 90,
+    "totalTimeMin": 165,
     "shard": "y"
   },
   {
@@ -3402,17 +3400,16 @@
   },
   {
     "slug": "yellow-fried-korean-peppers-skillet",
-    "title": "Yellow Fried Korean Peppers Skillet",
+    "title": "Korean Fried Pepper Skillet",
     "tags": [
       "korean",
-      "lunch",
-      "one-pan",
-      "stir-fry",
-      "vegetarian",
-      "weeknight"
+      "skillet",
+      "peppers",
+      "breakfast",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {
@@ -7134,16 +7131,13 @@
   },
   {
     "slug": "yellowed-chewy-thai-dates-curry",
-    "title": "Yellowed Chewy Thai Dates Curry",
+    "title": "Thai Chewy Date Curry",
     "tags": [
-      "one-pan",
-      "sweet-and-savory",
-      "thai-curry",
-      "vegan-friendly",
-      "weeknight"
+      "dessert",
+      "thaicurry"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -9233,14 +9227,12 @@
   },
   {
     "slug": "yellowed-silky-syrian-lamb-stew",
-    "title": "Yellowed Silky Syrian Lamb Stew",
+    "title": "Syrian Stew with Lamb",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "hearty-stews",
-      "lamb-recipes",
-      "one-pot-meals",
-      "syrian-cuisine"
+      "lamb",
+      "stew",
+      "syrian",
+      "comfort-food"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 110,
@@ -11785,16 +11777,16 @@
   },
   {
     "slug": "yummy-comforting-peruvian-chicken-arroz-con-pato",
-    "title": "Yummy Comforting Peruvian Chicken Arroz Con Pato",
+    "title": "Pato Con Arroz",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "peruvian-cuisine",
-      "weeknight"
+      "peruvian",
+      "comforting",
+      "chicken",
+      "arroz",
+      "pato"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 33,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

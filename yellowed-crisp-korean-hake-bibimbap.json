@@ -1,0 +1,75 @@
+{
+  "slug": "yellowed-crisp-korean-hake-bibimbap",
+  "title": "Pan-Seared Hake with Korean-Style Bibimbap",
+  "description": "A Korean-inspired dish featuring pan-seared hake with a crunchy bibimbap topping. Serve immediately for a delightful meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hake fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Bibimbap mixture",
+      "amount": "1",
+      "notes": "Crisp Korean rice vinegar rice, yellowed bell peppers, korean chili flakes, and chopped green onions"
+    },
+    {
+      "name": "Yellowed bell peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "Optional for extra spice"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the hake fillets with salt and pepper.",
+    "3. Pan-sear the hake fillets in sesame oil until golden brown, about 3-4 minutes per side.",
+    "4. Transfer the hake to a baking sheet and bake in the oven for 8-10 minutes, or until cooked through.",
+    "5. In a large bowl, combine the bibimbap mixture, chopped green onions, and a pinch of salt and pepper. Toss to combine.",
+    "6. To assemble the dish, place a cooked hake fillet on each plate and top with the bibimbap mixture.",
+    "7. Serve immediately, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "seafood",
+    "bibimbap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crisp-korean-hake-bibimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:58:09.506Z"
+}

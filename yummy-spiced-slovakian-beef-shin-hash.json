@@ -1,0 +1,79 @@
+{
+  "slug": "yummy-spiced-slovakian-beef-shin-hash",
+  "title": "Slovakian Braised Beef Shin Hash",
+  "description": "A hearty, comforting Slovakian-inspired dish featuring tender beef shin in a rich, spiced hash.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "hash",
+      "amount": "2 cups",
+      "notes": "any type"
+    },
+    {
+      "name": "yummy oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "spiced vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season beef shin with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear beef shin until browned on all sides, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add hash, caraway seeds, and spiced vinegar to pot. Cook for 2 minutes.",
+    "Return beef to pot and cover with a lid.",
+    "Transfer pot to preheated oven and braise for 2 1/2 hours, or until beef is tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised-beef",
+    "slovakian-cuisine",
+    "beef-shin-hash"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 27
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-spiced-slovakian-beef-shin-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:00:36.179Z"
+}

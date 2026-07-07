@@ -1,0 +1,97 @@
+{
+  "slug": "yellow-lacquered-korean-tofu-sujebi",
+  "title": "Spicy Korean-Style Tofu Sujebi Soup",
+  "description": "A spicy, comforting Korean-inspired soup made with chewy sujebi (hand-made noodles), crispy tofu, and a flavorful broth.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "cubed"
+    },
+    {
+      "name": "Yellow Korean Chili Flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Sujebi (hand-made noodles)",
+      "amount": "8 oz",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large pot over medium heat.",
+    "Add garlic and ginger and sauté until fragrant.",
+    "Add Korean chili paste and stir for 1 minute.",
+    "Add cubed tofu and cook until lightly browned.",
+    "Add fish sauce (if using) and stir to combine.",
+    "Add 4 cups of water and bring to a boil.",
+    "Add sujebi noodles and cook according to package instructions.",
+    "Add yellow Korean chili flakes and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with green onions and toasted sesame seeds (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "soup",
+    "tofu",
+    "sujebi",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-lacquered-korean-tofu-sujebi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:31:39.325Z"
+}

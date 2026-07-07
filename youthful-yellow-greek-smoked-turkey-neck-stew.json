@@ -1,0 +1,78 @@
+{
+  "slug": "youthful-yellow-greek-smoked-turkey-neck-stew",
+  "title": "Smoked Turkey Stew",
+  "description": "A hearty and flavorful stew made with smoked turkey, youthful vegetables, and a hint of Greek spices.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Turkey Neck",
+      "amount": "1",
+      "notes": "you can use other smoked turkey parts if available"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Greek Oregano",
+      "amount": "2 tsp",
+      "notes": "dried oregano works well too"
+    },
+    {
+      "name": "Youthful Carrots",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Stew Tomatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the smoked turkey neck and cook until browned on all sides.",
+    "Add the onion and cook until softened.",
+    "Add the carrots, oregano, salt, and pepper.",
+    "Pour in the water and tomatoes.",
+    "Bring to a boil, then reduce heat to low and simmer for 1 hour.",
+    "Shred or chop the turkey neck and return it to the pot.",
+    "Simmer for an additional 30 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked turkey",
+    "stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/youthful-yellow-greek-smoked-turkey-neck-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:00:12.621Z"
+}

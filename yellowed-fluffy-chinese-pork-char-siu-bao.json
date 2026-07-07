@@ -1,0 +1,85 @@
+{
+  "slug": "yellowed-fluffy-chinese-pork-char-siu-bao",
+  "title": "Char Siu Bao",
+  "description": "A classic Cantonese-style steamed bun filled with sweet and savory char siu pork.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fluffy chinese bao dough",
+      "amount": "4 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Pork",
+      "amount": "1 pound",
+      "notes": "Shoulder or butt, thinly sliced"
+    },
+    {
+      "name": "Char siu sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Siu bao",
+      "amount": "4 pieces",
+      "notes": "Steamed buns"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "4-6",
+      "notes": "Optional"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thread pork onto bamboo skewers, if using.",
+    "Place pork on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until cooked through.",
+    "While pork is baking, steam bao buns according to package instructions.",
+    "In a small bowl, whisk together hoisin sauce and soy sauce.",
+    "Brush char siu sauce onto pork during the last 5 minutes of baking.",
+    "Assemble by spooning pork onto a steamed bun, followed by a drizzle of hoisin sauce mixture and a sprinkle of scallions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "char-siu",
+    "baos",
+    "steamed-buns"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-fluffy-chinese-pork-char-siu-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:17:11.893Z"
+}

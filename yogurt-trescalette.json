@@ -1,0 +1,66 @@
+{
+  "slug": "yogurt-trescalette",
+  "title": "Trescalette Parfait",
+  "description": "A layered dessert made with yogurt and trescalette, perfect for hot summer days.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Trescalette",
+      "amount": "200g"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "1 cup",
+      "notes": "strawberries, blueberries, raspberries"
+    }
+  ],
+  "instructions": [
+    "Layer the yogurt, trescalette, and berries in a small glass or bowl.",
+    "Sprinkle granulated sugar over the berries if using.",
+    "Drizzle honey over the yogurt if using.",
+    "Repeat the layers one more time.",
+    "Top with additional berries and trescalette if desired.",
+    "Refrigerate for at least 30 minutes before serving.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "parfait",
+    "yogurt",
+    "trescalette"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-trescalette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:15:23.911Z"
+}

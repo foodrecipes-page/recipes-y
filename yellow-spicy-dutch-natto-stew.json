@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-spicy-dutch-natto-stew",
+  "title": "Spicy Natto Stew",
+  "description": "A Dutch-inspired spicy stew made with natto and yellow potatoes.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow potatoes",
+      "amount": "2 lbs",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Natto",
+      "amount": "1/2 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Spicy stew seasoning",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "for stew"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add potatoes, natto, and spicy stew seasoning.",
+    "Pour in water, bring to a boil.",
+    "Reduce heat, cover and simmer for 20 minutes.",
+    "Check potatoes for tenderness, adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "dutch",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-dutch-natto-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:20:04.663Z"
+}

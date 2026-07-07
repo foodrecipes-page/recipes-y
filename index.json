@@ -3558,17 +3558,16 @@
   },
   {
     "slug": "yellow-glazed-canadian-duck-biryani",
-    "title": "Yellow Glazed Canadian Duck Biryani",
+    "title": "Duck Biryani",
     "tags": [
-      "canadian-cuisine",
-      "complex-recipe",
-      "gluten-free",
-      "one-pot",
-      "rich-and-flavorful",
-      "special-occasion"
+      "duck",
+      "biryani",
+      "indian",
+      "rice",
+      "spices"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 65,
+    "cuisine": "Indian",
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

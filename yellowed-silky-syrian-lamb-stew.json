@@ -1,0 +1,88 @@
+{
+  "slug": "yellowed-silky-syrian-lamb-stew",
+  "title": "Syrian Stew with Lamb",
+  "description": "A hearty and flavorful stew originating from Syria, featuring tender lamb and a rich blend of spices. This comforting dish is perfect for a chilly evening.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Syrian stew",
+      "amount": "2 cups",
+      "notes": "Available in most Middle Eastern stores"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Silky carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Lamb broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the chopped onion until softened, about 5 minutes.",
+    "Add the chopped carrots and cook for an additional 5 minutes.",
+    "Add the Syrian stew, lamb broth, cumin, paprika, salt, and black pepper. Stir to combine.",
+    "Return the browned lamb to the pot, cover, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1.5 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "syrian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-silky-syrian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:29:23.199Z"
+}

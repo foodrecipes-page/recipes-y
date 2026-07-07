@@ -1,0 +1,88 @@
+{
+  "slug": "yellowed-savory-uruguayan-chinese-leaf-skewers",
+  "title": "Uruguayan Choripan with Grilled Vegetables",
+  "description": "A classic Uruguayan street food featuring grilled chorizo, onions, and bell peppers, served with chimichurri sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan chorizo",
+      "amount": "4-6 links",
+      "notes": ""
+    },
+    {
+      "name": "yellowed onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "savory bell pepper",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "8-10",
+      "notes": "preferably wooden"
+    },
+    {
+      "name": "leaf oregano",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chinese soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chorizo, onion, and bell pepper onto skewers.",
+    "Season with salt, pepper, and oregano.",
+    "Brush with olive oil and grill for 10-12 minutes, turning occasionally.",
+    "Meanwhile, mix soy sauce, garlic, and lemon juice in a small bowl.",
+    "Once chorizo is cooked, brush with chimichurri sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "choripan",
+    "grilled",
+    "veggies",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-savory-uruguayan-chinese-leaf-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:54:46.499Z"
+}

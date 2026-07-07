@@ -6468,16 +6468,15 @@
   },
   {
     "slug": "yellow-yielding-saudi-buckwheat-tagine",
-    "title": "yellow-yielding saudi buckwheat tagine",
+    "title": "Saudi Buckwheat Tagine",
     "tags": [
-      "anti-inflammatory",
+      "saudi",
+      "buckwheat",
+      "tagine",
       "gluten-free",
-      "high-fiber",
-      "one-pan",
-      "saudi-arabian",
       "vegetarian"
     ],
-    "cuisine": "saudi-arabian",
+    "cuisine": "Saudi",
     "totalTimeMin": 40,
     "shard": "y"
   },
@@ -10614,15 +10613,15 @@
   },
   {
     "slug": "yogurt-trescalette",
-    "title": "Yogurt Trescalette",
+    "title": "Trescalette Parfait",
     "tags": [
-      "tunisian",
+      "dessert",
+      "parfait",
       "yogurt",
-      "pressure-cooked",
-      "dessert"
+      "trescalette"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "French",
+    "totalTimeMin": 10,
     "shard": "y"
   },
   {
@@ -14147,18 +14146,15 @@
   },
   {
     "slug": "yummy-solo-dinner-mix-jamaican-ground-nut-oil-pastry",
-    "title": "yummy solo dinner mix jamaican ground nut oil pastry",
+    "title": "Jamaican Pastry Pie",
     "tags": [
-      "dinner",
-      "gluten-free",
-      "ground-nut-oil",
-      "jamaican",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "caribbean",
+      "pie",
+      "dessert",
+      "snack"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 55,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -14219,18 +14215,14 @@
   },
   {
     "slug": "yummy-spiced-slovakian-beef-shin-hash",
-    "title": "yummy spiced slovakian beef shin hash",
+    "title": "Slovakian Braised Beef Shin Hash",
     "tags": [
-      "air-fryer",
-      "beef",
-      "halal",
-      "kid-friendly",
-      "one-pan",
-      "slovakian",
-      "weeknight"
+      "braised-beef",
+      "slovakian-cuisine",
+      "beef-shin-hash"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 45,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {

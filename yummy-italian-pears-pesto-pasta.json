@@ -1,0 +1,67 @@
+{
+  "slug": "yummy-italian-pears-pesto-pasta",
+  "title": "Pesto Pasta Delight",
+  "description": "A simple yet flavorful Italian dish made with fresh pesto sauce and perfectly cooked pasta.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "pesto",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "yummy (parmesan cheese)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "italian (basil)",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "pears (optional)",
+      "amount": "1/2",
+      "notes": "diced for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, combine pesto and parmesan cheese. Heat over medium heat, stirring occasionally.",
+    "Once the pasta is done, drain and add it to the skillet with pesto sauce.",
+    "Toss the pasta to coat with the pesto sauce.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh basil and diced pears (if using).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pesto-pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-italian-pears-pesto-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T12:56:52.342Z"
+}

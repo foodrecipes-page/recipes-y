@@ -1032,17 +1032,15 @@
   },
   {
     "slug": "yeasty-light-mexican-pork-tacos-al-pastor",
-    "title": "Yeasty Light Mexican Pork Tacos Al Pastor",
+    "title": "Carnitas Tacos",
     "tags": [
-      "date-night",
-      "grilled",
-      "individual-servings",
-      "low-fat",
+      "carnitas",
+      "tacos",
       "mexican",
-      "tacos-al-pastor"
+      "pork"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "mexican",
+    "totalTimeMin": 180,
     "shard": "y"
   },
   {
@@ -4031,13 +4029,12 @@
   },
   {
     "slug": "yellow-malted-irish-lamb-stew",
-    "title": "Yellow Malted Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "irish-cuisine",
-      "lamb-recipes",
-      "one-pot-meal"
+      "lamb",
+      "irish",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 170,
@@ -7210,17 +7207,14 @@
   },
   {
     "slug": "yellowed-crisp-korean-hake-bibimbap",
-    "title": "Yellowed Crisp Korean Hake Bibimbap",
+    "title": "Pan-Seared Hake with Korean-Style Bibimbap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "korean-cuisine",
-      "low-glycemic",
-      "one-pan",
-      "weeknight"
+      "korean",
+      "seafood",
+      "bibimbap"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "y"
   },
   {

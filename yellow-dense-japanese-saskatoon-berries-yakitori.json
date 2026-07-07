@@ -1,0 +1,89 @@
+{
+  "slug": "yellow-dense-japanese-saskatoon-berries-yakitori",
+  "title": "Saskatoon Berry Yakitori",
+  "description": "Grilled Japanese-style skewers featuring saskatoon berries and savory chicken.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Dense Japanese rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Yakitori sauce",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Low-sodium option recommended"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, saskatoon berries, and onion slices onto skewers.",
+    "Brush skewers with sesame oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, or until chicken is cooked through.",
+    "Meanwhile, mix yakitori sauce and soy sauce in a small bowl.",
+    "Brush skewers with yakitori sauce mixture during last 2 minutes of grilling.",
+    "Serve skewers hot with cooked Japanese rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saskatoon-berry",
+    "yakitori",
+    "grilled",
+    "chicken",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-dense-japanese-saskatoon-berries-yakitori",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:07:17.187Z"
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "yellow-crispy-moroccan-lamb-couscous-royal",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A classic Moroccan dish featuring richly spiced lamb and tender couscous. This flavorful tagine is perfect for a special occasion.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 (1.5-2 pound)",
+      "notes": ""
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Royal Palm Dates",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat a large Dutch oven over medium-high heat. Sear the lamb until browned on all sides, about 5 minutes.",
+    "Transfer the lamb to a plate and set aside.",
+    "Add the yellow onion to the pot and cook until softened, about 5 minutes.",
+    "Add the royal palm dates, crispy olives, and spices to the pot. Cook for 1 minute.",
+    "Return the lamb to the pot and add enough liquid to cover. Bring to a boil, then cover and transfer to the preheated oven.",
+    "Braise the lamb for 2 1/2 to 3 hours, or until tender.",
+    "Meanwhile, cook the couscous according to package instructions.",
+    "To serve, slice the lamb and serve with couscous and sauce.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 50,
+    "fat": 29
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crispy-moroccan-lamb-couscous-royal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:38:45.277Z"
+}

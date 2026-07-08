@@ -295,17 +295,15 @@
   },
   {
     "slug": "yeasty-chewy-ukrainian-beef-dumplings",
-    "title": "Yeasty Chewy Ukrainian Beef Dumplings",
+    "title": "Ukrainian Beef Dumplings",
     "tags": [
-      "beef-recipes",
-      "comfort-food",
+      "ukrainian",
+      "beef",
       "dumplings",
-      "nourishing-meals",
-      "ukrainian-cuisine",
-      "yeast-based"
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

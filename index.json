@@ -4518,16 +4518,15 @@
   },
   {
     "slug": "yellow-resinous-mexican-wagyu-tacos-al-pastor",
-    "title": "Yellow Resinous Mexican Wagyu Tacos Al Pastor",
+    "title": "Tacos al Pastor with Wagyu Beef",
     "tags": [
-      "grilled-meat",
-      "mexican-food",
-      "pineapple-salsa",
-      "tacos-al-pastor",
-      "wagyu-beef"
+      "mexican",
+      "tacos",
+      "wagyu",
+      "al-pastor"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

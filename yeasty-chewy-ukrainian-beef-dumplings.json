@@ -1,0 +1,96 @@
+{
+  "slug": "yeasty-chewy-ukrainian-beef-dumplings",
+  "title": "Ukrainian Beef Dumplings",
+  "description": "A hearty and comforting Ukrainian dish featuring beef dumplings in a flavorful broth.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "Chewy Dumpling Dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought chewy dumpling dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the ground beef, yeast, salt, black pepper, and caraway seeds. Mix well.",
+    "Divide the chewy dumpling dough into 8 equal pieces.",
+    "Roll out each piece of dough into a thin circle.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the onion and garlic and cook until the onion is translucent.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the dumplings are cooked through.",
+    "Serve the Ukrainian beef dumplings hot in a flavorful broth.",
+    "To make the broth, combine 4 cups of beef broth, 1 tablespoon of tomato paste, and 1 teaspoon of dried thyme in a saucepan. Bring to a boil, then reduce the heat to low and simmer for 10-15 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "beef",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-chewy-ukrainian-beef-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:04:13.069Z"
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "yellowish-indulgent-algerian-boudin-blanc-tagine",
+  "title": "Algerian Boudin Tagine",
+  "description": "A rich and flavorful stew originating from Algeria, made with boudin and served over a bed of couscous.",
+  "cuisine": "Algerian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boudin Blanc",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Yellowish Algerian Saffron Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine or Dutch oven over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the boudin blanc and cook until browned, about 5 minutes.",
+    "Add the tagine spice blend, chicken broth, almonds, and pistachios.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve the boudin over the yellowish Algerian saffron rice.",
+    "Garnish with additional almonds and pistachios, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "boudin",
+    "tagine",
+    "stew",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-indulgent-algerian-boudin-blanc-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:00:01.384Z"
+}

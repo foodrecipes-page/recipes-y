@@ -1,0 +1,91 @@
+{
+  "slug": "yellow-velvety-syrian-kabocha-stew",
+  "title": "Syrian Kabocha Stew",
+  "description": "A hearty and comforting stew made with kabocha squash, inspired by the flavors of Syria. The velvety texture of the squash pairs perfectly with the spices and the yellow color adds a pop of brightness to the dish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium",
+      "notes": "about 2 lbs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the cumin, coriander, salt, and pepper and cook for 1 minute.",
+    "Add the kabocha squash and yellow bell pepper and cook for 5 minutes.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the squash is tender, about 20-25 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "middle-eastern",
+    "squash"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-velvety-syrian-kabocha-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:47:16.474Z"
+}

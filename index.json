@@ -4531,16 +4531,15 @@
   },
   {
     "slug": "yellow-rich-ethiopian-cabbage-berbere-stew",
-    "title": "Yellow Rich Ethiopian Cabbage Berbere Stew",
+    "title": "Berbere Stew with Cabbage",
     "tags": [
-      "comfort-food",
-      "ethiopian-cuisine",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "ethiopian",
+      "stew",
+      "cabbage",
+      "berbere"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

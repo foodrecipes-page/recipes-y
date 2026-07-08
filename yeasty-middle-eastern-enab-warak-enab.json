@@ -1,0 +1,71 @@
+{
+  "slug": "yeasty-middle-eastern-enab-warak-enab",
+  "title": "Stuffed Grape Leaves (Dolma)",
+  "description": "A traditional Middle Eastern dish made with grape leaves stuffed with a mix of rice, meat, and spices.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grape leaves",
+      "amount": "12-15 leaves"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Ground lamb",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spices",
+      "amount": "1 tsp",
+      "notes": "ground mix (cumin, paprika, salt)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak grape leaves in water for 30 minutes.",
+    "Prepare the filling by mixing cooked rice, ground lamb, onion, and spices.",
+    "Place a grape leaf on a flat surface, with the stem end facing you.",
+    "Take a tablespoon of the filling and place it in the center of the grape leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "Place the dolmas seam-side down in a steamer basket.",
+    "Steam the dolmas for 20-25 minutes, or until they are tender.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "stuffed grape leaves",
+    "dolma"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-middle-eastern-enab-warak-enab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:35:45.342Z"
+}

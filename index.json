@@ -12955,17 +12955,15 @@
   },
   {
     "slug": "yummy-jammy-uruguayan-wild-garlic-leaves-empanadas",
-    "title": "Uruguayan Wild Garlic Empanadas",
+    "title": "Uruguayan Empanada Filling",
     "tags": [
-      "empanadas",
-      "jammy",
-      "snack",
       "uruguayan",
-      "vegetarian",
-      "wild-garlic"
+      "empanada",
+      "garlic",
+      "leaves"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {

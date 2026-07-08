@@ -1,0 +1,84 @@
+{
+  "slug": "yellow-browned-norwegian-lamb-skewers",
+  "title": "Norwegian Lamb Skewers",
+  "description": "A flavorful and healthy dish featuring lamb skewers marinated in a mixture of herbs and spices, perfect for a summer evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "yellow",
+      "amount": "2",
+      "notes": "medium-sized onions"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup",
+      "notes": "to balance the acidity"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Skewers",
+      "amount": "1 pack",
+      "notes": "for assembly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "to marinate the lamb"
+    },
+    {
+      "name": "norwegian seasoning",
+      "amount": "2 tsp",
+      "notes": "to add depth"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "to add flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to high heat (400°F).",
+    "In a large bowl, whisk together lemon juice, olive oil, brown sugar, norwegian seasoning, and garlic powder.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Thread lamb, yellow onions, and skewers onto the wooden skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb reaches 145°F (63°C) for medium-rare.",
+    "Remove the skewers from the grill and let rest for 5 minutes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "summer",
+    "lamb",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-browned-norwegian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:29:39.068Z"
+}

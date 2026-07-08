@@ -1,0 +1,73 @@
+{
+  "slug": "yeasty-molten-portuguese-dish-stir-fry",
+  "title": "Delicious Portuguese Yeast Bread",
+  "description": "A traditional Portuguese bread recipe, perfect for serving with meals or as a side dish.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1/4 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "around 100°F"
+    },
+    {
+      "name": "flour",
+      "amount": "3 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "table salt"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the bread"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine yeast and warm water, let it sit for 5 minutes until foamy.",
+    "2. Add flour, salt, sugar to the bowl and mix until a shaggy dough forms.",
+    "3. Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover it with plastic wrap and let it rise in a warm place for 1 hour.",
+    "5. Preheat oven to 375°F.",
+    "6. Punch down the dough and shape it into a round or oblong loaf.",
+    "7. Place the loaf on a baking sheet lined with parchment paper, brush with olive oil.",
+    "8. Bake the bread for 35-40 minutes until golden brown.",
+    "9. Remove the bread from the oven and let it cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "portuguese",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-molten-portuguese-dish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:35:56.799Z"
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "yellow-citrusy-australian-shrimp-pasta",
+  "title": "Shrimp Pasta with Lemon and Citrus Zest",
+  "description": "A quick and flavorful pasta dish with succulent shrimp, lemon, and a hint of citrus zest.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Australian Pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "Citrus Zest",
+      "amount": "2 tsp",
+      "notes": "from 1 lemon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "In the same skillet, add the lemon juice and citrus zest.",
+    "Toss the cooked pasta in the lemon sauce until well coated.",
+    "Return the shrimp to the skillet and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "seafood",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-citrusy-australian-shrimp-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:39:51.224Z"
+}

@@ -1755,16 +1755,15 @@
   },
   {
     "slug": "yellow-browned-norwegian-lamb-skewers",
-    "title": "Yellow Browned Norwegian Lamb Skewers",
+    "title": "Norwegian Lamb Skewers",
     "tags": [
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "one-pan",
-      "skewers",
-      "winter-dinner"
+      "grill",
+      "summer",
+      "lamb",
+      "norwegian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -2087,17 +2086,14 @@
   },
   {
     "slug": "yellow-citrusy-australian-shrimp-pasta",
-    "title": "Yellow Citrusy Australian Shrimp Pasta",
+    "title": "Shrimp Pasta with Lemon and Citrus Zest",
     "tags": [
-      "citrusy",
-      "coconut-based",
-      "paleo-friendly",
-      "romantic-dinner",
+      "italian",
       "seafood",
-      "spring-inspired"
+      "quick-cooking"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 27,
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -9885,17 +9881,16 @@
   },
   {
     "slug": "yellowfin-peruvian-fish-rocoto-relleno",
-    "title": "Yellowfin Peruvian Fish Rocoto Relleno",
+    "title": "Pan-Seared Peruvian Yellowfin with Rocoto Relleno",
     "tags": [
-      "bento-box",
-      "gluten-free",
-      "low-carb",
-      "peruvian-cuisine",
-      "rocoto-relleno",
-      "seafood-lovers"
+      "peruvian",
+      "tuna",
+      "rocoto",
+      "relleno",
+      "fish"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

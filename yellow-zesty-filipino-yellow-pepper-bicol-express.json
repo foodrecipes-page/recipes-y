@@ -1,0 +1,91 @@
+{
+  "slug": "yellow-zesty-filipino-yellow-pepper-bicol-express",
+  "title": "Filipino Yellow Pepper Noodles",
+  "description": "A flavorful and spicy Filipino dish made with yellow pepper and served with noodles. This recipe is a great option for a quick and easy meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Express noodles",
+      "amount": "1 pack",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Bicol vinegar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the express noodles according to the package instructions.",
+    "In a pan, heat the olive oil over medium heat.",
+    "Add the sliced yellow pepper and cook until tender.",
+    "Add the zesty sauce and stir well.",
+    "Add the cooked noodles to the pan and toss with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Optional: add bicol vinegar and chili flakes for extra flavor.",
+    "Garnish with green onions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "noodle",
+    "spicy",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-zesty-filipino-yellow-pepper-bicol-express",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:20:51.582Z"
+}

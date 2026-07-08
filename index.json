@@ -1053,15 +1053,13 @@
   },
   {
     "slug": "yeasty-middle-eastern-enab-warak-enab",
-    "title": "Warak Enab",
+    "title": "Stuffed Grape Leaves (Dolma)",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "middle eastern",
+      "stuffed grape leaves",
+      "dolma"
     ],
-    "cuisine": "Middle Eastern",
+    "cuisine": "middle eastern",
     "totalTimeMin": 50,
     "shard": "y"
   },
@@ -1123,17 +1121,14 @@
   },
   {
     "slug": "yeasty-molten-portuguese-dish-stir-fry",
-    "title": "Yeasty Molten Portuguese Stir-Fry",
+    "title": "Delicious Portuguese Yeast Bread",
     "tags": [
-      "comfort-food",
-      "keto",
-      "one-pan",
+      "bread",
       "portuguese",
-      "stir-fry",
-      "weeknight"
+      "yeast"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

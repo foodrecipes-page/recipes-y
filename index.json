@@ -6305,16 +6305,13 @@
   },
   {
     "slug": "yellow-velvety-syrian-kabocha-stew",
-    "title": "Yellow Velvety Syrian Kabocha Stew",
+    "title": "Syrian Kabocha Stew",
     "tags": [
-      "comfort-food",
-      "healthy-dinner",
-      "one-pot",
-      "quick-fix",
-      "syrian-cuisine",
-      "vegan-friendly"
+      "vegan",
+      "middle-eastern",
+      "squash"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
     "shard": "y"
   },

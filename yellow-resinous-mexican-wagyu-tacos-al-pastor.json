@@ -1,0 +1,94 @@
+{
+  "slug": "yellow-resinous-mexican-wagyu-tacos-al-pastor",
+  "title": "Tacos al Pastor with Wagyu Beef",
+  "description": "A twist on the classic Mexican dish, featuring Wagyu beef and a tangy pineapple salsa.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Al pastor seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Yellow onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tacos",
+      "amount": "8-10 corn tortillas",
+      "notes": "for serving"
+    },
+    {
+      "name": "Resinous cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together lime juice and al pastor seasoning.",
+    "Add sliced Wagyu beef to the bowl and marinate for at least 30 minutes.",
+    "Grill Wagyu beef for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "Meanwhile, grill sliced yellow onions for 2-3 minutes per side, or until caramelized.",
+    "Warm tacos on the grill by wrapping them in foil and heating for 2-3 minutes.",
+    "Assemble tacos by placing a piece of Wagyu beef onto a warmed tortilla, followed by a spoonful of grilled onions, pineapple, and cilantro.",
+    "Drizzle with lime juice and sprinkle with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "wagyu",
+    "al-pastor"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-resinous-mexican-wagyu-tacos-al-pastor",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:30:52.494Z"
+}

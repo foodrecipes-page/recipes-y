@@ -6596,16 +6596,16 @@
   },
   {
     "slug": "yellow-zesty-filipino-yellow-pepper-bicol-express",
-    "title": "Yellow Zesty Filipino Yellow Pepper Bicol Express",
+    "title": "Filipino Yellow Pepper Noodles",
     "tags": [
-      "filipino-food",
-      "one-pot-meals",
-      "spicy-dishes",
-      "vegan-recipes",
-      "weeknight-dinners"
+      "filipino",
+      "noodle",
+      "spicy",
+      "quick",
+      "easy"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -6642,16 +6642,16 @@
   },
   {
     "slug": "yellow-zesty-peruvian-avocado-ceviche",
-    "title": "Yellow Zesty Peruvian Avocado Ceviche",
+    "title": "Peruvian Avocado Ceviche",
     "tags": [
+      "peruvian",
+      "ceviche",
+      "avocado",
       "gluten-free",
-      "low-calorie",
-      "peruvian-cuisine",
-      "quick-fix",
-      "seafood"
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -10055,16 +10055,16 @@
   },
   {
     "slug": "yellowish-indulgent-algerian-boudin-blanc-tagine",
-    "title": "Yellowish Indulgent Algerian Boudin Blanc Tagine",
+    "title": "Algerian Boudin Tagine",
     "tags": [
-      "algerian-cuisine",
-      "high-protein",
-      "indulgent",
-      "one-pot",
-      "weeknight"
+      "algerian",
+      "boudin",
+      "tagine",
+      "stew",
+      "couscous"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

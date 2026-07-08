@@ -1,0 +1,86 @@
+{
+  "slug": "yeasty-crunchy-saudi-arabian-all-purpose-seasoning-flatbread",
+  "title": "Saudi Arabian Flatbread",
+  "description": "A traditional Saudi flatbread, perfect for snacking or as a side dish. Soft, lightly spiced and aromatic.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeasty",
+      "amount": "1 cup",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "all-purpose",
+      "amount": "2 cups",
+      "notes": "flour"
+    },
+    {
+      "name": "seasoning",
+      "amount": "1/2 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "flatbread",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "saudi",
+      "amount": "1/4 teaspoon",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "arabian",
+      "amount": "1/4 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": "sesame seeds"
+    },
+    {
+      "name": "all",
+      "amount": "1 cup",
+      "notes": "warm water"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine yeast and warm water. Let it sit for 5 minutes until frothy.",
+    "Add flour, salt, black pepper, and cumin to the bowl. Mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Place the dough in a greased bowl, cover it with a cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400°F (200°C).",
+    "Divide the dough into 4-6 equal portions, depending on the desired size.",
+    "Roll each portion into a ball and then flatten it slightly into a disk shape.",
+    "Brush the tops with olive oil and sprinkle with sesame seeds.",
+    "Bake the flatbreads for 15-20 minutes until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "flatbread",
+    "snack",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-crunchy-saudi-arabian-all-purpose-seasoning-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T19:44:21.650Z"
+}

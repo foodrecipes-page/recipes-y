@@ -1,0 +1,71 @@
+{
+  "slug": "yummy-jammy-uruguayan-wild-garlic-leaves-empanadas",
+  "title": "Uruguayan Empanada Filling",
+  "description": "A delicious and savory filling for Uruguayan empanadas, made with wild garlic and a hint of uruguayan spices.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wild garlic",
+      "amount": "1/4 cup, minced",
+      "notes": "Use fresh wild garlic for the best flavor"
+    },
+    {
+      "name": "leaves",
+      "amount": "1 cup, chopped",
+      "notes": "Any leafy green like spinach or kale works well"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "2 tsp, dried oregano",
+      "notes": "Uruguayan oregano has a distinct flavor, but regular oregano works too"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 tsp, ground cumin",
+      "notes": "Add a pinch of cumin for extra flavor"
+    },
+    {
+      "name": "empanadas",
+      "amount": "4-6, for serving",
+      "notes": "Homemade or store-bought empanadas work great"
+    },
+    {
+      "name": "jammy",
+      "amount": "1/4 cup, chopped fresh parsley",
+      "notes": "Add a sprinkle of parsley for color and freshness"
+    }
+  ],
+  "instructions": [
+    "1. In a pan over medium heat, sauté the minced wild garlic until fragrant.",
+    "2. Add the chopped leaves and cook until wilted.",
+    "3. Stir in the dried oregano and ground cumin. Cook for 1 minute.",
+    "4. Season with salt and pepper to taste.",
+    "5. Stuff each empanada with the garlic-leaves mixture.",
+    "6. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "empanada",
+    "garlic",
+    "leaves"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-jammy-uruguayan-wild-garlic-leaves-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:17:48.035Z"
+}

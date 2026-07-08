@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-rich-ethiopian-cabbage-berbere-stew",
+  "title": "Berbere Stew with Cabbage",
+  "description": "A hearty and flavorful Ethiopian stew made with berbere spice and tender cabbage.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yellow onions",
+      "amount": "1 large, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head, chopped",
+      "notes": "about 4 cups"
+    },
+    {
+      "name": "Stew meat (beef or lamb)",
+      "amount": "1 pound, cut into bite-sized pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium-high heat.",
+    "Add the chopped onions and cook until they're translucent.",
+    "Add the stew meat and cook until browned on all sides.",
+    "Add the berbere spice, salt, and black pepper. Stir to combine.",
+    "Add the chopped cabbage and water. Bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "cabbage",
+    "berbere"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-rich-ethiopian-cabbage-berbere-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T12:30:12.078Z"
+}

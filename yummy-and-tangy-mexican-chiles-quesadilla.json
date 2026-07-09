@@ -1,0 +1,76 @@
+{
+  "slug": "yummy-and-tangy-mexican-chiles-quesadilla",
+  "title": "Spicy Mexican Quesadillas",
+  "description": "A flavorful and spicy twist on traditional quesadillas, filled with melted cheese, chiles, and a hint of tangy flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quesadilla Tortillas (4-6)",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "Mexican Cheese Blend",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Tangy Salsa",
+      "amount": "1/2 cup, chopped",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Diced Chiles (such as Anaheim or Poblano)",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet or griddle over medium-high heat.",
+    "2. In a bowl, mix together the cheese blend and diced chiles.",
+    "3. Add the chopped cilantro to the cheese mixture and stir to combine.",
+    "4. Place a tortilla in the skillet and sprinkle a quarter of the cheese mixture onto half of the tortilla.",
+    "5. Fold the tortilla in half to enclose the filling.",
+    "6. Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "7. Flip the quesadilla and cook for an additional 2 minutes or until the other side is also crispy.",
+    "8. Repeat with the remaining tortillas and filling.",
+    "9. Cut the quesadillas into wedges and serve with tangy salsa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "quesadilla",
+    "spicy",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-and-tangy-mexican-chiles-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:54:25.190Z"
+}

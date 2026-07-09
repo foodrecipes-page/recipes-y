@@ -1,0 +1,93 @@
+{
+  "slug": "yellowed-crispy-croatian-meat-kebabs",
+  "title": "Croatian Meat Kebabs with Crispy Onions",
+  "description": "A hearty and flavorful meal of meat kebabs with crispy onions, inspired by Croatian cuisine. Serve with your favorite sides for a satisfying meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless beef or pork shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 cup buttermilk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "4 large yellow onions",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the beef or pork into 1-inch cubes and season with salt, pepper, and paprika.",
+    "In a large bowl, whisk together the flour, buttermilk, and a pinch of salt. Add the cubed meat and mix until the meat is well coated.",
+    "Heat the olive oil in a large skillet over medium-high heat. Add the meat and cook until browned on all sides, about 5 minutes.",
+    "Transfer the meat to a plate and set aside.",
+    "In the same skillet, add the sliced onions and cook until they are crispy and golden brown, about 5-7 minutes.",
+    "Add the cooked meat back into the skillet with the crispy onions and stir to combine.",
+    "Serve the meat kebabs hot, garnished with chopped fresh parsley or dill if desired.",
+    "Optional: Serve with your favorite sides, such as mashed potatoes, roasted vegetables, or a simple salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "croatian",
+    "meat",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-croatian-meat-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T02:53:04.645Z"
+}

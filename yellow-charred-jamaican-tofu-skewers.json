@@ -1,0 +1,96 @@
+{
+  "slug": "yellow-charred-jamaican-tofu-skewers",
+  "title": "Jamaican Tofu Skewers",
+  "description": "A Caribbean-inspired dish featuring marinated tofu and vegetables grilled to perfection.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Bell Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Charred Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into 1-inch cubes and set aside.",
+    "Cut the yellow bell pepper and charred onion into 1-inch pieces.",
+    "In a large bowl, whisk together the jerk seasoning, lime juice, garlic, ginger, and salt.",
+    "Add the tofu and vegetables to the marinade and mix well.",
+    "Thread the tofu and vegetables onto the skewers.",
+    "Brush the skewers with olive oil and season with salt.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cook the skewers for 8-10 minutes, turning occasionally, until the tofu is golden brown and the vegetables are tender.",
+    "Serve hot with your favorite sides or as a snack on its own.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "vegan",
+    "gluten-free",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-charred-jamaican-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:30:04.191Z"
+}

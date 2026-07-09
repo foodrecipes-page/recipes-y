@@ -8731,17 +8731,17 @@
   },
   {
     "slug": "yellowed-nutty-malaysian-chicken-satay",
-    "title": "Yellowed Nutty Malaysian Chicken Satay",
+    "title": "Spicy Chicken Satay",
     "tags": [
-      "egg-free",
-      "festive",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "malaysian",
+      "chicken",
+      "grilled",
+      "peanut-sauce",
+      "satay",
+      "spicy"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -9391,16 +9391,15 @@
   },
   {
     "slug": "yellowed-smoky-turkish-lamb-kebabs",
-    "title": "Yellowed Smoky Turkish Lamb Kebabs",
+    "title": "Turkish Smoky Lamb Kebabs",
     "tags": [
-      "grilled-meats",
-      "kosher-friendly",
-      "lamb-recipes",
-      "monsoon-dishes",
-      "turkish-food"
+      "kebabs",
+      "lamb",
+      "turkish",
+      "smoky"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -9585,18 +9584,16 @@
   },
   {
     "slug": "yellowed-tunisian-monkfish-skewers",
-    "title": "Yellowed Tunisian Monkfish Skewers",
+    "title": "Pan-Seared Monkfish with Tunisian Spice",
     "tags": [
-      "gluten-free",
-      "grilled",
-      "herbal",
-      "pescatarian",
+      "mediterranean",
+      "monkfish",
+      "tunisian-spice",
       "seafood",
-      "show-off",
-      "tunisian-cuisine"
+      "skewers"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 32,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 23,
     "shard": "y"
   },
   {

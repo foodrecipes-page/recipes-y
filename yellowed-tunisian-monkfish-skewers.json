@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-tunisian-monkfish-skewers",
+  "title": "Pan-Seared Monkfish with Tunisian Spice",
+  "description": "A flavorful and aromatic dish featuring the tender monkfish, marinated in a blend of Tunisian spices and pan-seared to perfection.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monkfish fillets",
+      "amount": "4 servings"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Yellowed onion, thinly sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12-16 for serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Season the monkfish fillets with salt and pepper.",
+    "Add the monkfish to the skillet and sear for 2-3 minutes per side.",
+    "Transfer the monkfish to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the thinly sliced yellowed onion and cook until caramelized.",
+    "Stir in the Tunisian spice blend and cook for an additional minute.",
+    "Serve the monkfish on skewers with a spoonful of the caramelized onion mixture and a squeeze of lemon juice.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "monkfish",
+    "tunisian-spice",
+    "seafood",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-tunisian-monkfish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:31:57.991Z"
+}

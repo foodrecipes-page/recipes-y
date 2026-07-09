@@ -11786,16 +11786,14 @@
   },
   {
     "slug": "yummy-creamy-portuguese-chicken-soup",
-    "title": "Yummy Creamy Portuguese Chicken Soup",
+    "title": "Creamy Chicken Soup",
     "tags": [
-      "comfort-food",
-      "creamy",
-      "flexitarian",
-      "one-pot",
-      "sick-day"
+      "portuguese",
+      "soup",
+      "comfort-food"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 24,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

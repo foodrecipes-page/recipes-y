@@ -1,0 +1,85 @@
+{
+  "slug": "yummy-creamy-portuguese-chicken-soup",
+  "title": "Creamy Chicken Soup",
+  "description": "A hearty and comforting soup made with chicken, vegetables, and a rich creamy sauce. Perfect for a cold winter's day.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "yummy chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup",
+      "notes": "heavy cream or half-and-half"
+    },
+    {
+      "name": "portuguese spices",
+      "amount": "1 teaspoon",
+      "notes": "paprika, cumin, and coriander"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chicken breast and cook until browned, about 5 minutes.",
+    "Add chopped carrots and celery and cook for 2 minutes.",
+    "Pour in chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in heavy cream and cook for an additional 2 minutes.",
+    "Season with paprika, cumin, and coriander.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-creamy-portuguese-chicken-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:09:35.716Z"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "yellow-brown-greek-beef-stifado",
+  "title": "Beef Stifado",
+  "description": "A traditional Greek beef stew made with onions, garlic, and a sweet spicy sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound, cut into 1-inch cubes"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Brown Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Greek Stifado spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat. Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside. Add the chopped yellow and brown onions to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic, stifado spice blend, and tomato paste to the pot. Cook for 1 minute, stirring constantly.",
+    "Add the beef broth, red wine, and brown sugar to the pot. Stir to combine.",
+    "Return the beef to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the beef stifado hot, garnished with chopped fresh parsley or thyme, if desired.",
+    "Serve with crusty bread or over mashed potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "beef",
+    "stew",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-brown-greek-beef-stifado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T02:32:22.615Z"
+}

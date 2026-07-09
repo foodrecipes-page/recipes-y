@@ -1,0 +1,103 @@
+{
+  "slug": "yellowed-nutty-malaysian-chicken-satay",
+  "title": "Spicy Chicken Satay",
+  "description": "A classic Southeast Asian dish, this satay recipe features marinated chicken grilled to perfection and served with a spicy peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into skewer-sized pieces"
+    },
+    {
+      "name": "yellowed coconut milk",
+      "amount": "1/2 cup",
+      "notes": "add a rich, creamy flavor"
+    },
+    {
+      "name": "nutty peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "add a delicious nutty flavor"
+    },
+    {
+      "name": "satay sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade (see instructions)"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "add a fragrant, citrusy flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "add a touch of sweetness"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for grilling"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "add a touch of flavor"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine coconut milk, peanut butter, satay sauce, lemongrass, garlic, and brown sugar. Blend until smooth.",
+    "Add the blended mixture to a large bowl and stir in the chicken pieces until they're coated evenly.",
+    "Let the chicken marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with vegetable oil and coconut oil.",
+    "Grill the satay for 5-7 minutes per side, or until the chicken is cooked through and slightly charred.",
+    "Meanwhile, toast the coconut flakes in a dry pan over medium heat, stirring frequently, until fragrant and lightly browned.",
+    "Serve the satay with the toasted coconut flakes, sliced chili peppers, and your favorite peanut sauce.",
+    "To make homemade satay sauce, combine 1/2 cup peanut butter, 1/4 cup coconut milk, 2 tablespoons soy sauce, and 1 tablespoon lime juice. Mix until smooth and adjust to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "grilled",
+    "peanut-sauce",
+    "satay",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-nutty-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:04:26.547Z"
+}

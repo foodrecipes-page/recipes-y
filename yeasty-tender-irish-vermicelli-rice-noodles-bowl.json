@@ -1,0 +1,95 @@
+{
+  "slug": "yeasty-tender-irish-vermicelli-rice-noodles-bowl",
+  "title": "Irish Vermicelli Bowl",
+  "description": "A hearty and comforting Irish-inspired vermicelli bowl made with tender beef and served in a bowl with a side of steamed rice.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Vermicelli Noodles",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package instructions.",
+    "In a large pan over medium-high heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the pan and cook until the onion is translucent.",
+    "Add the tomato paste and flour to the pan and cook for 1 minute.",
+    "Gradually add the beef broth to the pan, whisking constantly to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Cook the vermicelli noodles according to package instructions.",
+    "To assemble the bowls, place a scoop of cooked rice in the bottom of a bowl, followed by a scoop of the beef and noodle mixture.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "beef",
+    "noodles",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-tender-irish-vermicelli-rice-noodles-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:51:04.644Z"
+}

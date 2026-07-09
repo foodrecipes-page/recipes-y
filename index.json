@@ -1373,14 +1373,11 @@
   },
   {
     "slug": "yeasty-springy-turkish-flaxseed-kazandibi",
-    "title": "Turkish Yeasty, Springy Flaxseed Kazandibi",
+    "title": "Traditional Turkish Kazandibi",
     "tags": [
-      "high-calorie",
-      "high-carb",
-      "special-occasion",
-      "traditional",
-      "vegan-option",
-      "weeknight"
+      "turkish",
+      "dessert",
+      "creamy"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 45,
@@ -1717,16 +1714,15 @@
   },
   {
     "slug": "yellow-brown-greek-beef-stifado",
-    "title": "Yellow Brown Greek Beef Stifado",
+    "title": "Beef Stifado",
     "tags": [
-      "ayurvedic-friendly",
-      "beef-recipes",
-      "broiled-dishes",
-      "greek-cuisine",
-      "one-pot-meals"
+      "greek",
+      "beef",
+      "stew",
+      "comfortfood"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 110,
     "shard": "y"
   },
   {
@@ -7378,17 +7374,15 @@
   },
   {
     "slug": "yellowed-crispy-croatian-meat-kebabs",
-    "title": "Yellowed Crispy Croatian Meat Kebabs",
+    "title": "Croatian Meat Kebabs with Crispy Onions",
     "tags": [
-      "air-fryer",
-      "croatian-food",
-      "garlic-lovers",
-      "low-carb",
-      "quick-dinner",
-      "weeknight-meal"
+      "kebabs",
+      "croatian",
+      "meat",
+      "dinner"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

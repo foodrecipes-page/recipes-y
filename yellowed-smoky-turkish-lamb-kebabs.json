@@ -1,0 +1,92 @@
+{
+  "slug": "yellowed-smoky-turkish-lamb-kebabs",
+  "title": "Turkish Smoky Lamb Kebabs",
+  "description": "A classic Turkish dish featuring smoky lamb kebabs with a hint of spice. Perfect for a summer evening.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Lamb Shoulder",
+      "amount": "1 kg",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Yellowed Onion",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "2",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Turkish Spice Mix",
+      "amount": "2 tbsp",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Extra-virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Coarse"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, garlic, Turkish spice mix, lemon juice, salt, and black pepper.",
+    "3. Add the lamb cubes to the marinade and mix until coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "4. Thread the marinated lamb, onion, and bell pepper onto skewers.",
+    "5. Grill the kebabs for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "6. Transfer the kebabs to a serving platter and garnish with parsley.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "turkish",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-smoky-turkish-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:56:51.630Z"
+}

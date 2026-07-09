@@ -1,0 +1,67 @@
+{
+  "slug": "yummy-kenyan-rye-bread-toast",
+  "title": "Kenyan Rye Toast",
+  "description": "A simple and delicious Kenyan-inspired toast recipe featuring rye bread and yummy toppings.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rye bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "softened"
+    },
+    {
+      "name": "Yummy spread (e.g. jam, honey, or Nutella)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sliced banana",
+      "amount": "1"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Toast the rye bread until lightly browned.",
+    "Spread the unsalted butter on each slice.",
+    "Top each slice with yummy spread, sliced banana, and a sprinkle of chopped cilantro if using.",
+    "If desired, drizzle with peanut butter.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "kenyan",
+    "easy",
+    "toaster-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-kenyan-rye-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:08:31.677Z"
+}

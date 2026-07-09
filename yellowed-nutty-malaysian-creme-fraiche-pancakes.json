@@ -1,0 +1,84 @@
+{
+  "slug": "yellowed-nutty-malaysian-creme-fraiche-pancakes",
+  "title": "Malaysian Creme Pancake",
+  "description": "A unique twist on traditional pancakes, using malaysian ingredients and topped with a tangy creme fraiche.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pancakes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malaysian crepe flour",
+      "amount": "1 cup",
+      "notes": "available at most asian grocery stores"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "caramelized malaysian pancake",
+      "amount": "1/4 cup",
+      "notes": "available at most asian grocery stores"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the malaysian crepe flour, coconut milk, eggs, cinnamon, and nutmeg. Mix until smooth.",
+    "Heat a non-stick pan over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes or until bubbles form on the surface.",
+    "Flip and cook for an additional 1-2 minutes.",
+    "Serve warm with caramelized malaysian pancake, creme fraiche, and honey if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "malaysian",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-nutty-malaysian-creme-fraiche-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:33:34.068Z"
+}

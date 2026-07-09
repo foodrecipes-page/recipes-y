@@ -11275,18 +11275,16 @@
   },
   {
     "slug": "yummy-and-tangy-mexican-chiles-quesadilla",
-    "title": "yummy and tangy Mexican chiles Quesadilla",
+    "title": "Spicy Mexican Quesadillas",
     "tags": [
-      "brunch",
-      "comfort-food",
-      "high-calorie",
-      "mexican-breakfast",
-      "one-pan",
-      "sugar-free",
-      "weeknight"
+      "mexican",
+      "quesadilla",
+      "spicy",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 32,
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {
@@ -13075,16 +13073,15 @@
   },
   {
     "slug": "yummy-kenyan-rye-bread-toast",
-    "title": "Yummy Kenyan Rye Bread Toast",
+    "title": "Kenyan Rye Toast",
     "tags": [
-      "anti-inflammatory",
-      "binchotan-grill",
-      "hangover-cure",
-      "quick-breakfast",
-      "rye-bread"
+      "breakfast",
+      "kenyan",
+      "easy",
+      "toaster-friendly"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 15,
+    "cuisine": "kenyan",
+    "totalTimeMin": 7,
     "shard": "y"
   },
   {

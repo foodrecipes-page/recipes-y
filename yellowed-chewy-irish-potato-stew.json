@@ -1,0 +1,68 @@
+{
+  "slug": "yellowed-chewy-irish-potato-stew",
+  "title": "Irish Stew",
+  "description": "A traditional irish dish made with tender potatoes and flavorful stew meat.",
+  "cuisine": "irish",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Stew Meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Yellowed Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chewy Carrots",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Irish Potato",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pot over medium-high heat.",
+    "2. Add the stew meat and cook until browned, about 5 minutes.",
+    "3. Add the chopped onion and cook until softened, about 5 minutes.",
+    "4. Add the chopped carrots and cook for an additional 2 minutes.",
+    "5. Add the diced potato, stew, and enough water to cover the ingredients.",
+    "6. Bring to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-stew",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-chewy-irish-potato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:17:26.531Z"
+}

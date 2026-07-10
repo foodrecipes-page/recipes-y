@@ -419,17 +419,14 @@
   },
   {
     "slug": "yeasty-crumbly-northern-thai-yogurt-wrap",
-    "title": "Yeasty Crumbly Northern Thai Yogurt Wrap",
+    "title": "Northern Thai Crispy Wrap",
     "tags": [
-      "breakfast",
-      "halal",
-      "northern-thai",
-      "ssam-wrap",
-      "street-food",
-      "yogurt"
+      "northern thai",
+      "crispy wrap",
+      "veggie snack"
     ],
-    "cuisine": "Northern Thai",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -7349,18 +7346,15 @@
   },
   {
     "slug": "yellowed-crispy-argentinian-oats-empanadas",
-    "title": "Yellowed Crispy Argentinian Oats Empanadas",
+    "title": "Oat and Empanada Crusted Crispy Snack",
     "tags": [
-      "argentinian",
-      "deep-fried",
-      "empanadas",
-      "gluten-free",
-      "low-carb",
-      "oats",
-      "snack"
+      "snack",
+      "argentinian-food",
+      "easy-recipe",
+      "cheese-snack"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -11441,13 +11435,12 @@
   },
   {
     "slug": "yummy-buttery-canadian-cashew-bake",
-    "title": "Yummy Buttery Canadian Cashew Bake",
+    "title": "Canadain Cashew Bake",
     "tags": [
-      "canadian-classic",
-      "high-energy",
-      "quick-snack",
-      "raw-friendly",
-      "vegetarian-option"
+      "canadian",
+      "dessert",
+      "snack",
+      "cashew"
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 35,

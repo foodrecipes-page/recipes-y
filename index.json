@@ -2927,17 +2927,16 @@
   },
   {
     "slug": "yellow-dense-chinese-tofu-bao",
-    "title": "Yellow Dense Chinese Tofu Bao",
+    "title": "Pan-Fried Bao Tofu",
     "tags": [
-      "chinese-food",
-      "lunch-ideas",
-      "satvik-diet",
-      "steamed-dishes",
-      "tofu-recipes",
-      "vegetarian-meals"
+      "chinese",
+      "tofu",
+      "bao",
+      "vegan",
+      "snack"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -4374,17 +4373,15 @@
   },
   {
     "slug": "yellow-peruvian-lamb-seco-de-cordero",
-    "title": "Yellow Peruvian Lamb Seco De Cordero",
+    "title": "Peruvian-Style Braised Lamb Shanks",
     "tags": [
-      "crowd-pleaser",
-      "dairy-free",
-      "lamb-recipes",
-      "peruvian-cuisine",
-      "slate-tile-recipes",
-      "wok-hei-inspired"
+      "peruvian",
+      "lamb",
+      "braised",
+      "stew"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 190,
     "shard": "y"
   },
   {
@@ -7808,17 +7805,15 @@
   },
   {
     "slug": "yellowed-crunchy-venezuelan-peanut-empanadas",
-    "title": "Yellowed Crunchy Venezuelan Peanut Empanadas",
+    "title": "Venezuelan Empanada Filling",
     "tags": [
-      "gluten-free",
-      "hot-stone-plate",
-      "keto-friendly",
-      "peanut-based",
-      "venezuelan-cuisine",
-      "weeknight"
+      "vegan",
+      "snack-ideas",
+      "empanadas",
+      "peanut-butter"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "vz",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

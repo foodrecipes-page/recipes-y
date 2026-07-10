@@ -1,0 +1,78 @@
+{
+  "slug": "yellow-dense-chinese-tofu-bao",
+  "title": "Pan-Fried Bao Tofu",
+  "description": "A simple and delicious Chinese dish made with pan-fried tofu and served in a soft bao bun.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao",
+      "amount": "4"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a pan over medium-high heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Cut the tofu into small cubes and add to the pan.",
+    "Cook the tofu until golden brown on all sides.",
+    "In a small bowl, mix together soy sauce and cornstarch.",
+    "Add the soy sauce mixture to the pan and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Split the bao buns in half and toast until lightly browned.",
+    "Assemble the dish by spooning the tofu mixture into the bao buns.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "tofu",
+    "bao",
+    "vegan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-dense-chinese-tofu-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:37:32.617Z"
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "yellow-savory-filipino-fish-stew",
+  "title": "Filipino Fish Stew",
+  "description": "A flavorful fish stew inspired by Filipino cuisine, made with fresh fish, vegetables, and aromatic spices. Perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (such as tilapia or catfish)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add fish sauce, vinegar, salt, and pepper, and stir to combine.",
+    "Add fish and cook for 2-3 minutes on each side.",
+    "Add potatoes and green beans, and enough water to cover the ingredients.",
+    "Bring to a boil, then reduce heat and simmer for 10-15 minutes.",
+    "Check for doneness and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "stew",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-savory-filipino-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:14:08.539Z"
+}

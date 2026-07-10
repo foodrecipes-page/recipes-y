@@ -1,0 +1,62 @@
+{
+  "slug": "yellow-creamy-dutch-cheese-bake",
+  "title": "Creamy Yellow Dutch Bake",
+  "description": "A rich and creamy bake made with a blend of yellow and Dutch cheeses, perfect for a comforting meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Cheese",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Bake",
+      "amount": "1",
+      "notes": "A pre-made bake or a sheet pan"
+    },
+    {
+      "name": "Butter",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Melt the butter and spread it evenly over the bake.",
+    "Grate the yellow and Dutch cheese.",
+    "Mix the grated cheese together, then distribute it evenly over the bake.",
+    "Bake in the oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Check the bake and adjust the cooking time as needed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "comfort-food",
+    "easy-recipe",
+    "dutch-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-creamy-dutch-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:48:51.968Z"
+}

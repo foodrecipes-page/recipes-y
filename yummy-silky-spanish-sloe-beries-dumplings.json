@@ -1,0 +1,67 @@
+{
+  "slug": "yummy-silky-spanish-sloe-beries-dumplings",
+  "title": "Spanish Berry Dumplings",
+  "description": "A delicious dessert made with a sweet Spanish-inspired filling and soft dumplings.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "berries",
+      "amount": "250g"
+    },
+    {
+      "name": "yummy dough mix",
+      "amount": "500g"
+    },
+    {
+      "name": "sloe",
+      "amount": "2"
+    },
+    {
+      "name": "sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the berries, sloe, and sugar.",
+    "2. In a separate bowl, mix the dough mix with eggs and milk.",
+    "3. Roll out the dough to a thickness of 1 cm.",
+    "4. Use a round cookie cutter to cut out circles of dough.",
+    "5. Place a tablespoon of the berry mixture in the center of each dough circle.",
+    "6. Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "7. Bring a large pot of water to a boil and gently add the dumplings.",
+    "8. Cook for 10-15 minutes, or until the dumplings float to the surface.",
+    "9. Serve warm with a drizzle of honey, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "dessert",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-silky-spanish-sloe-beries-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:04:25.317Z"
+}

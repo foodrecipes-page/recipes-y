@@ -1,0 +1,84 @@
+{
+  "slug": "yellow-velvety-canadian-seeds-tagine",
+  "title": "Canadian Tagine Stuffed Yellow Peppers",
+  "description": "A flavorful and healthy vegetarian dish, where bell peppers are stuffed with a mixture of quinoa, vegetables, and spices, cooked in a tagine.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow bell peppers",
+      "amount": "4"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Canadian tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "seeds (pumpkin or sunflower)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the peppers and remove seeds and membranes.",
+    "In a large skillet, heat the olive oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the tagine spice blend and cook for 1 minute.",
+    "In a large bowl, combine the cooked quinoa, cooked onion mixture, and chopped seeds.",
+    "Stuff each pepper with the quinoa mixture and place in a baking dish.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10-15 minutes, until the peppers are tender.",
+    "Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "canadian",
+    "tagine",
+    "yellow-peppers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-velvety-canadian-seeds-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:23:51.775Z"
+}

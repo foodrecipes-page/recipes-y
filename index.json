@@ -11287,16 +11287,14 @@
   },
   {
     "slug": "yummy-arabic-lamb-dumplings",
-    "title": "Yummy Arabic Lamb Dumplings",
+    "title": "Lamb Dumplings with Arabic Spices",
     "tags": [
       "arabic",
-      "dumplings",
-      "puff-pastry",
-      "romantic",
-      "savory"
+      "lamb",
+      "dumplings"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "cuisine": "Arabic",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -14341,16 +14339,14 @@
   },
   {
     "slug": "yummy-tender-fried-indian-wheat-gulab-jamun",
-    "title": "Yummy Tender Fried Indian Wheat Gulab Jamun",
+    "title": "Traditional Indian Gulab Jamun",
     "tags": [
-      "dessert",
-      "fried",
-      "indian",
-      "sweet",
-      "weeknight"
+      "indian-food",
+      "gulab-jamun",
+      "dessert"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {

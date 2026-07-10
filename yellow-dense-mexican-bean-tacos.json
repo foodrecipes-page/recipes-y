@@ -1,0 +1,78 @@
+{
+  "slug": "yellow-dense-mexican-bean-tacos",
+  "title": "Bean and Yellow Cheese Quesadillas",
+  "description": "A delicious and easy-to-make Mexican-inspired dish filled with beans and melted yellow cheese. Perfect for a quick lunch or dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "canned black beans",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add a small amount of olive oil to the skillet.",
+    "Place a tortilla in the skillet and sprinkle with a quarter of the yellow cheese.",
+    "Add a quarter of the black beans on half of the tortilla.",
+    "Fold the tortilla in half and cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is crispy.",
+    "Repeat with the remaining ingredients.",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-dense-mexican-bean-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:10:03.914Z"
+}

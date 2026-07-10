@@ -2317,16 +2317,15 @@
   },
   {
     "slug": "yellow-creamy-dutch-cheese-bake",
-    "title": "Yellow Creamy Dutch Cheese Bake",
+    "title": "Creamy Yellow Dutch Bake",
     "tags": [
       "cheese",
-      "dutch",
-      "lunch",
-      "one-pan",
-      "weeknight"
+      "comfort-food",
+      "easy-recipe",
+      "dutch-cuisine"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -13909,15 +13908,14 @@
   },
   {
     "slug": "yummy-silky-spanish-sloe-beries-dumplings",
-    "title": "Yummy Silky Spanish Sloe-beries Dumplings",
+    "title": "Spanish Berry Dumplings",
     "tags": [
-      "comfort-food",
-      "dinner-ideas",
-      "spanish-cuisine",
-      "vegetarian"
+      "spanish",
+      "dessert",
+      "dumplings"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 32,
+    "cuisine": "spanish",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

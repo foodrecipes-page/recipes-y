@@ -1,0 +1,58 @@
+{
+  "slug": "yellowed-crunchy-venezuelan-peanut-empanadas",
+  "title": "Venezuelan Empanada Filling",
+  "description": "A delicious filling for empanadas, inspired by Venezuelan cuisine. Crunchy peanuts add texture, while the yellowed empanadas provide a unique flavor.",
+  "cuisine": "vz",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yellowed empanadas",
+      "amount": "1 (6-inch) empanada, torn into pieces",
+      "notes": ""
+    },
+    {
+      "name": "crunchy peanuts",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "peanut",
+      "amount": "2 tablespoons, creamy peanut butter",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a pan over medium heat, toast the chopped peanuts for 2-3 minutes, until fragrant.",
+    "3. In a bowl, mix together the toasted peanuts, peanut butter (if using), and torn yellowed empanada pieces.",
+    "4. Season with salt to taste.",
+    "5. Stuff the mixture into empanada dough, following your preferred method.",
+    "6. Bake the filled empanadas for 15-20 minutes, until golden brown.",
+    "7. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "snack-ideas",
+    "empanadas",
+    "peanut-butter"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crunchy-venezuelan-peanut-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:30:32.762Z"
+}

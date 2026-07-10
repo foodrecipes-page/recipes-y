@@ -7942,13 +7942,11 @@
   },
   {
     "slug": "yellowed-filipino-duck-legs-skewers",
-    "title": "Yellowed Filipino Duck Legs Skewers",
+    "title": "Filipino-Style Grilled Duck Skewers",
     "tags": [
-      "filipino-food",
+      "filipino",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "skewers"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
@@ -14770,17 +14768,16 @@
   },
   {
     "slug": "yummy-zesty-polish-potato-skewers",
-    "title": "Yummy Zesty Polish Potato Skewers",
+    "title": "Polish Potato Skewers",
     "tags": [
-      "crunchy",
-      "hangover-cure",
-      "kosher-friendly",
-      "one-pan",
-      "quick",
-      "spicy"
+      "polish",
+      "potato",
+      "skewers",
+      "grilled",
+      "snack"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

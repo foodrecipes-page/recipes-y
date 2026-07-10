@@ -1,0 +1,63 @@
+{
+  "slug": "yeasty-crumbly-northern-thai-yogurt-wrap",
+  "title": "Northern Thai Crispy Wrap",
+  "description": "A crispy and flavorful wrap inspired by the flavors of Northern Thailand. This dish combines the crunch of a crispy wrap with the spiciness of Thai chilies.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeasty wrap",
+      "amount": "4"
+    },
+    {
+      "name": "northern thai sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crumbly tofu",
+      "amount": "1/2 cup",
+      "notes": "press and crumble"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "thai chilies",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the wrap into 4-6 triangles.",
+    "Bake the wrap triangles for 10-12 minutes or until crispy.",
+    "In a bowl, mix together northern thai sauce, yogurt, and crumbled tofu.",
+    "Spoon a portion of the sauce mixture onto a crispy wrap triangle.",
+    "Top with sliced Thai chilies.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "northern thai",
+    "crispy wrap",
+    "veggie snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-crumbly-northern-thai-yogurt-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:51:56.836Z"
+}

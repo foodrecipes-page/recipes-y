@@ -1,0 +1,94 @@
+{
+  "slug": "yummy-arabic-lamb-dumplings",
+  "title": "Lamb Dumplings with Arabic Spices",
+  "description": "A traditional Arabic dish, these flavorful lamb dumplings are a hearty meal for any occasion.",
+  "cuisine": "Arabic",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yummy Arabic spice mix",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine lamb, onion, ginger, garlic, salt, and black pepper. Mix well.",
+    "2. Add the yummy Arabic spice mix and mix until the lamb is evenly coated.",
+    "3. Gradually add the flour and mix until a dough forms.",
+    "4. Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "5. Divide the dough into small balls, about 1 inch in diameter.",
+    "6. Roll out each ball of dough into a thin circle.",
+    "7. Heat oil in a large skillet over medium heat.",
+    "8. Add a few dumplings to the skillet and cook for 2-3 minutes on each side until golden brown.",
+    "9. Repeat with the remaining dumplings.",
+    "10. Serve hot with your favorite sauce or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabic",
+    "lamb",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-arabic-lamb-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:02:05.179Z"
+}

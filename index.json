@@ -2996,17 +2996,15 @@
   },
   {
     "slug": "yellow-dense-mexican-bean-tacos",
-    "title": "Yellow Dense Mexican Bean Tacos",
+    "title": "Bean and Yellow Cheese Quesadillas",
     "tags": [
-      "dehydrated-ingredients",
-      "fermented-food",
-      "gluten-free",
-      "mexican-food",
+      "mexican",
       "vegetarian",
-      "weeknight-meal"
+      "quick",
+      "easy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -4756,17 +4754,14 @@
   },
   {
     "slug": "yellow-savory-filipino-fish-stew",
-    "title": "Yellow Savory Filipino Fish Stew",
+    "title": "Filipino Fish Stew",
     "tags": [
-      "filipino-cuisine",
-      "fish-stew",
-      "gluten-free",
-      "one-pot",
-      "seafood",
-      "whole30"
+      "filipino",
+      "stew",
+      "fish"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -6253,18 +6248,16 @@
   },
   {
     "slug": "yellow-velvety-canadian-seeds-tagine",
-    "title": "Yellow Velvety Canadian Seeds Tagine",
+    "title": "Canadian Tagine Stuffed Yellow Peppers",
     "tags": [
-      "canadian",
-      "clay-pot",
-      "floral",
-      "one-pot",
-      "seed-based",
       "vegetarian",
-      "weeknight"
+      "gluten-free",
+      "canadian",
+      "tagine",
+      "yellow-peppers"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {
@@ -7037,16 +7030,13 @@
   },
   {
     "slug": "yellowed-chewy-irish-potato-stew",
-    "title": "Yellowed Chewy Irish Potato Stew",
+    "title": "Irish Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "irish-cuisine",
-      "one-pot",
-      "weeknight",
-      "whole30"
+      "irish-stew",
+      "beef",
+      "comfort-food"
     ],
-    "cuisine": "Irish",
+    "cuisine": "irish",
     "totalTimeMin": 45,
     "shard": "y"
   },

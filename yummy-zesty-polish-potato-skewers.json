@@ -1,0 +1,67 @@
+{
+  "slug": "yummy-zesty-polish-potato-skewers",
+  "title": "Polish Potato Skewers",
+  "description": "A simple and delicious recipe for grilled potato skewers, perfect for a quick snack or side dish.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "polish",
+      "amount": "2 tbsp",
+      "notes": " Polish sausage or kielbasa, sliced"
+    },
+    {
+      "name": "yummy",
+      "amount": ".25 tsp",
+      "notes": "optional, but adds flavor"
+    },
+    {
+      "name": "zesty",
+      "amount": ".5 tsp",
+      "notes": "optional, but adds zing"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread potato and Polish sausage onto skewers.",
+    "Brush skewers with a little oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Optional: brush with yummy and zesty during the last 2 minutes of cooking.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "potato",
+    "skewers",
+    "grilled",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-zesty-polish-potato-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T15:44:42.809Z"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "yellowed-filipino-duck-legs-skewers",
+  "title": "Filipino-Style Grilled Duck Skewers",
+  "description": "A delicious and easy-to-make dish that combines the flavors of the Philippines with the simplicity of grilled duck skewers.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Yellowed onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Filipino skewers (bamboo or metal)",
+      "amount": "12-16",
+      "notes": ""
+    },
+    {
+      "name": "Marinade (see below)",
+      "amount": "enough to coat",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine 2 cloves of minced garlic, 1 tablespoon of fish sauce (if using), and 1 tablespoon of olive oil.",
+    "2. Add 1 tablespoon of chopped yellowed onion to the blender and blend until smooth.",
+    "3. Cut the duck legs into 1-inch pieces and add them to the marinade.",
+    "4. Thread the marinated duck pieces onto the Filipino skewers.",
+    "5. Brush the grill with olive oil and preheat to medium-high heat.",
+    "6. Grill the duck skewers for 5-7 minutes per side, or until cooked through.",
+    "7. Serve hot, garnished with chopped green onions and a side of steamed rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-filipino-duck-legs-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T17:31:41.517Z"
+}

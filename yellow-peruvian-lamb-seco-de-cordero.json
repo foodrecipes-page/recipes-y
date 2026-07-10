@@ -1,0 +1,87 @@
+{
+  "slug": "yellow-peruvian-lamb-seco-de-cordero",
+  "title": "Peruvian-Style Braised Lamb Shanks",
+  "description": "A hearty, flavorful stew originating from the Andean highlands, made with tender lamb shanks and a rich seco sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pork-free",
+    "beef-free",
+    "shellfish-free",
+    "poultry-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shanks",
+      "amount": "4",
+      "notes": "preferably bone-in"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Secco sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Peruvian ají amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Cordero (lamb) broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "White vinegar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear lamb shanks until browned on all sides, about 5 minutes per side.",
+    "Remove lamb from pot and set aside.",
+    "Reduce heat to medium and sauté onion, garlic, and peppers until softened, about 8 minutes.",
+    "Add secco sauce, broth, and vinegar (if using). Stir to combine.",
+    "Return lamb shanks to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise at 300°F (150°C) for 2 1/2 hours, or until lamb is tender.",
+    "Remove lamb from pot and let rest for 10 minutes before serving.",
+    "Strain sauce and serve over lamb shanks."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "lamb",
+    "braised",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:26:29.547Z"
+}

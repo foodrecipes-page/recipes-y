@@ -11065,16 +11065,14 @@
   },
   {
     "slug": "yum-yum-smoke-cold-bowtie-pasta",
-    "title": "Yum-Yum Smoke-Cold Bowtie Pasta",
+    "title": "Bowtie Pasta with Smoked Flavor",
     "tags": [
-      "bowtie-pasta",
-      "light-dish",
-      "ovo-vegetarian-friendly",
-      "quick-meal",
-      "smoke-cold"
+      "smoked-flavor",
+      "italian-cuisine",
+      "vegan-option"
     ],
-    "cuisine": "polish",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

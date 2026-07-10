@@ -1,0 +1,69 @@
+{
+  "slug": "yummy-tender-fried-indian-wheat-gulab-jamun",
+  "title": "Traditional Indian Gulab Jamun",
+  "description": "A classic Indian dessert made with deep-fried dumplings soaked in rose syrup, typically served during special occasions.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Wheat Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tender Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yummy Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fried Ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Indian Spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Gulab Syrup",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jamun Syrup",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Knead the wheat flour dough for 10 minutes.",
+    "Rest the dough for 30 minutes.",
+    "Make small dumplings from the dough.",
+    "Deep-fry the dumplings until golden brown.",
+    "Drain excess oil, and soak in gulab syrup for 2 hours.",
+    "Garnish with fried ghee and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "gulab-jamun",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-tender-fried-indian-wheat-gulab-jamun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:08:34.372Z"
+}

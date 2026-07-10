@@ -1,0 +1,69 @@
+{
+  "slug": "yellowed-crispy-argentinian-oats-empanadas",
+  "title": "Oat and Empanada Crusted Crispy Snack",
+  "description": "A crunchy and flavorful snack using oats and crispy empanada crumbs.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "snack",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "empanadas",
+      "amount": "4-6",
+      "notes": "crushed"
+    },
+    {
+      "name": "yellowed (old) cheddar cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix oats and crushed empanadas.",
+    "In another bowl, mix grated cheese, salt, and black pepper.",
+    "Dip each egg in the cheese mixture, then coat with the oat mixture.",
+    "Place coated eggs on a baking sheet lined with parchment paper.",
+    "Drizzle with a little oil.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Remove from oven and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "argentinian-food",
+    "easy-recipe",
+    "cheese-snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-argentinian-oats-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:06:08.750Z"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "yellow-turmeric-indian-fish-skewers",
+  "title": "Indian-Style Fish Skewers",
+  "description": "A flavorful and spicy Indian-inspired dish featuring fish skewers marinated in a mixture of yellow and turmeric.",
+  "cuisine": "Indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "1 pound",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "Yellow Chilies",
+      "amount": "4-5",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3-4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, blend together yellow chilies, turmeric powder, lemon juice, ginger paste, and garlic until smooth.",
+    "Cut the fish into 1-inch pieces and add to the marinade. Mix well and refrigerate for at least 30 minutes.",
+    "Preheat grill to medium-high heat. Thread marinated fish onto skewers.",
+    "Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish",
+    "skewers",
+    "grilling",
+    "summer"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-turmeric-indian-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T20:47:41.227Z"
+}

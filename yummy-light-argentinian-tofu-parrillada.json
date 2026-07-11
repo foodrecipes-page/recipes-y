@@ -1,0 +1,84 @@
+{
+  "slug": "yummy-light-argentinian-tofu-parrillada",
+  "title": "Argentinian Parrillada Tofu",
+  "description": "A delicious and healthy twist on the classic Argentinian Parrillada, featuring marinated tofu instead of meat.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Yummy chimichurri sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Parrillada seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Argentinian bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, onions, and mushrooms"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together soy sauce and chimichurri sauce.",
+    "3. Cut tofu into 1-inch cubes and place in a separate bowl.",
+    "4. Pour soy sauce mixture over tofu and toss to coat.",
+    "5. Add parrillada seasoning, garlic, and parsley to the tofu mixture and toss again.",
+    "6. Grill tofu for 3-4 minutes per side, or until golden brown.",
+    "7. Meanwhile, slice Argentinian bread into 1-inch thick slices.",
+    "8. Grill bread for 1-2 minutes per side, or until lightly toasted.",
+    "9. Serve tofu on top of grilled bread, with roasted vegetables on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "vegetarian",
+    "tofu",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-light-argentinian-tofu-parrillada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T10:44:34.809Z"
+}

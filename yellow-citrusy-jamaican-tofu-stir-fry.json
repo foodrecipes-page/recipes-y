@@ -1,0 +1,84 @@
+{
+  "slug": "yellow-citrusy-jamaican-tofu-stir-fry",
+  "title": "Jamaican Tofu Stir Fry",
+  "description": "A flavorful and spicy Jamaican-inspired stir fry made with crispy tofu and mixed vegetables.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "firm or extra-firm tofu works best"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 large",
+      "notes": "any color bell pepper works but yellow is recommended"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "any variety works"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "citrusy soy sauce",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1-2 minutes, until fragrant.",
+    "Add the sliced bell pepper and cook for 3-4 minutes, until slightly tender.",
+    "Add the sliced onion and cook for another 3-4 minutes, until both the onion and bell pepper are tender.",
+    "Add the cubed tofu and cook for 3-4 minutes, until golden brown.",
+    "Sprinkle the Jamaican curry powder over the tofu and vegetables, and stir to combine.",
+    "Add the citrusy soy sauce and stir to coat.",
+    "Season with salt to taste, if desired.",
+    "Serve hot over rice or noodles, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tofu",
+    "jamaican",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-citrusy-jamaican-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:40:07.901Z"
+}

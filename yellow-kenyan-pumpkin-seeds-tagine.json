@@ -1,0 +1,95 @@
+{
+  "slug": "yellow-kenyan-pumpkin-seeds-tagine",
+  "title": "Kenyan Pumpkin Tagine",
+  "description": "A flavorful and aromatic stew originating from East Africa, made with tender pumpkin, aromatic spices, and a hint of sweetness.",
+  "cuisine": "east african",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 medium-sized, peeled and cubed",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium-sized, chopped",
+      "notes": ""
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "seeds",
+      "amount": "1/4 cup, chopped",
+      "notes": "such as sesame or pumpkin seeds"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece, grated",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and garlic and cook for another minute.",
+    "Add pumpkin, tagine spice blend, and Kenyan. Cook for 5 minutes, stirring occasionally.",
+    "Add coconut milk and water. Bring to a boil, then reduce heat to low.",
+    "Simmer for 20-25 minutes, or until the pumpkin is tender.",
+    "Stir in chopped seeds and cook for an additional 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional seeds and a dollop of coconut milk, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pumpkin",
+    "kenyan",
+    "tagine",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-kenyan-pumpkin-seeds-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:41:03.720Z"
+}

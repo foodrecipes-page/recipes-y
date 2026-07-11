@@ -1,0 +1,75 @@
+{
+  "slug": "yellow-greek-gigantes-plaki",
+  "title": "Yellow Gigantes Beans in Tomato Sauce",
+  "description": "A traditional Greek recipe featuring giant beans cooked in a flavorful tomato sauce. This hearty dish is perfect for a cold winter's night.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gigantes",
+      "amount": "1 cup dried beans, soaked overnight"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Plaki",
+      "amount": "1/4 cup chopped fresh tomatoes"
+    },
+    {
+      "name": "Greek Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add soaked and drained gigantes, plaki, salt, and pepper.",
+    "Pour in enough water to cover the beans and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 45-50 minutes, or until beans are tender.",
+    "Stir occasionally to prevent scorching.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "beans",
+    "vegetarian",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-greek-gigantes-plaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:49:22.156Z"
+}

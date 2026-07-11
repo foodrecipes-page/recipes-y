@@ -1,0 +1,78 @@
+{
+  "slug": "yummy-japanese-rice-bowl",
+  "title": "Japanese-Style Rice Bowl",
+  "description": "A simple and flavorful Japanese-inspired rice bowl with grilled chicken and vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced green beans",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken with salt and pepper.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "In a small bowl, whisk together sesame oil and soy sauce.",
+    "In a large bowl, combine cooked rice, sliced carrots, green beans, and scallions.",
+    "Pour the sesame oil mixture over the rice and vegetables, and toss to combine.",
+    "Slice the grilled chicken and serve on top of the rice mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "rice",
+    "grilled-chicken",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-japanese-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:50:51.612Z"
+}

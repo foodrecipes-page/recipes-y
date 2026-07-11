@@ -10488,19 +10488,15 @@
   },
   {
     "slug": "yogurt-sour-shawarma-wrap",
-    "title": "Yogurt-Sour Shawarma Wrap",
+    "title": "Shawarma Wrap",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "healthy",
-      "high-protein",
       "middle-eastern",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "lamb",
+      "wrap",
+      "shish-ka-bob"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 20,
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

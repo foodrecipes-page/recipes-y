@@ -1,0 +1,88 @@
+{
+  "slug": "yellow-roasted-moroccan-lamb-kefta-tagine",
+  "title": "Traditional Moroccan Lamb Tagine",
+  "description": "A hearty and flavorful stew originating from Morocco, slow-cooked in a clay pot and infused with aromatic spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Lamb Kofta (Kefta)",
+      "amount": "1 pound, cut into small pieces"
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "2 teaspoons, mixture of cumin, coriander, cinnamon, and turmeric",
+      "notes": "Use store-bought or homemade spice blend"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Green Olives",
+      "amount": "1/4 cup, pitted"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4-6, for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay tagine or heavy Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the lamb kofta pieces and cook, breaking them up with a spoon, until browned, about 5-7 minutes.",
+    "Add the roasted red pepper, Moroccan spices, salt, and black pepper. Stir to combine.",
+    "Add 2 cups of water to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30-40 minutes, or until the lamb is tender.",
+    "Stir in the chopped cilantro, green olives, and parsley.",
+    "Serve the tagine hot, garnished with lemon wedges.",
+    "Serve over couscous or crusty bread, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-roasted-moroccan-lamb-kefta-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T10:43:59.824Z"
+}

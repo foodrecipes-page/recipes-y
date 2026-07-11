@@ -3174,16 +3174,16 @@
   },
   {
     "slug": "yellow-earthy-tunisian-white-beans-tagine",
-    "title": "Tunisian White Beans Tagine",
+    "title": "Tunisian Yellow Bean Stew",
     "tags": [
-      "comfort-food",
-      "low-carb",
-      "north-african",
-      "one-pot",
-      "vegetarian"
+      "stew",
+      "tunisian",
+      "vegetarian",
+      "beans",
+      "comfort-food"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -3531,16 +3531,16 @@
   },
   {
     "slug": "yellow-glazed-egyptian-steak-tagine",
-    "title": "Yellow Glazed Egyptian Steak Tagine",
+    "title": "Traditional Egyptian Beef Tagine",
     "tags": [
-      "claypot-cooking",
-      "egyptian-cuisine",
-      "shojin-friendly",
-      "steak-recipes",
-      "weeknight-dinner"
+      "beef",
+      "aromatic",
+      "spicy",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "y"
   },
   {
@@ -3813,15 +3813,15 @@
   },
   {
     "slug": "yellow-greek-gigantes-plaki",
-    "title": "Yellow Greek Gigantes Plaki",
+    "title": "Yellow Gigantes Beans in Tomato Sauce",
     "tags": [
-      "comfortfood",
-      "greeksoup",
-      "lentilstew",
-      "omelettealternatives"
+      "greek",
+      "beans",
+      "vegetarian",
+      "hearty"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 260,
+    "totalTimeMin": 70,
     "shard": "y"
   },
   {
@@ -12336,17 +12336,15 @@
   },
   {
     "slug": "yummy-fluffy-italian-wood-ear-mushrooms-panforte",
-    "title": "Italian Wood Ear Mushrooms Panforte",
+    "title": "Woodland Mushroom Panforte",
     "tags": [
-      "hangover-cure",
-      "high-protein",
-      "italian-inspired",
-      "mushroom-based",
-      "one-pan",
-      "weeknight"
+      "italian",
+      "dessert",
+      "mushroom",
+      "panforte"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

@@ -9789,17 +9789,15 @@
   },
   {
     "slug": "yellowfin-cedar-uruguayan-tuna-skewers",
-    "title": "Yellowfin Cedar Uruguayan Tuna Skewers",
+    "title": "Grilled Yellowfin Tuna Skewers with Cedar Glaze",
     "tags": [
-      "cedar-plank",
-      "confit-tomato",
-      "grilled",
-      "high-protein",
-      "seafood",
-      "uruguayan"
+      "grilled-tuna",
+      "latin-american",
+      "gluten-free",
+      "low-carb"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "cuisine": "latin",
+    "totalTimeMin": 18,
     "shard": "y"
   },
   {
@@ -12705,16 +12703,15 @@
   },
   {
     "slug": "yummy-herbal-chinese-penne-jiaozi",
-    "title": "Yummy Herbal Chinese Penne Jiaozi",
+    "title": "Pan-Fried Jiaozi with Herbal Sauce",
     "tags": [
-      "easy",
-      "hangover-cure",
-      "herbal",
-      "low-carb",
-      "quick"
+      "chinese",
+      "pan-fried",
+      "jiaozi",
+      "herbal-sauce"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

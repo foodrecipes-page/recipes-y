@@ -1,0 +1,108 @@
+{
+  "slug": "yummy-moroccan-lamb-tagine",
+  "title": "Lamb Tagine with Moroccan Spice",
+  "description": "A hearty and flavorful tagine dish originating from Morocco, made with tender lamb and a blend of aromatic spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh lemon wedges",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the lamb and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "Add the cumin, paprika, cinnamon, salt, and pepper, and stir to combine.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Stir in the chopped parsley and adjust the seasoning as needed.",
+    "Serve the lamb hot, with lemon wedges on the side.",
+    "Traditional Moroccan tagine is cooked in a clay pot with a conical lid, which allows the steam to rise and condense, then drop back down onto the food, creating a rich and flavorful sauce.",
+    "If you don't have a clay pot, you can use a Dutch oven or a large saucepan with a tight-fitting lid."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "tagine",
+    "crockpot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 10,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T19:15:23.400Z"
+}

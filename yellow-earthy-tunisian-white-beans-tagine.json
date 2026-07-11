@@ -1,0 +1,86 @@
+{
+  "slug": "yellow-earthy-tunisian-white-beans-tagine",
+  "title": "Tunisian Yellow Bean Stew",
+  "description": "A hearty, comforting stew from Tunisia, featuring yellow beans and a blend of aromatic spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow beans",
+      "amount": "1 cup, dried",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "earthly tunisian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and sauté for an additional minute.",
+    "Add the soaked and drained yellow beans, tagine spice blend, and cumin to the pot.",
+    "Stir to combine, then add 2 cups of water to the pot.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer, covered, for 30 minutes.",
+    "While the stew simmers, cook the white rice according to package instructions.",
+    "Once the stew has finished cooking, season with salt to taste.",
+    "Serve the stew over the cooked rice.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "tunisian",
+    "vegetarian",
+    "beans",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-earthy-tunisian-white-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:25:24.025Z"
+}

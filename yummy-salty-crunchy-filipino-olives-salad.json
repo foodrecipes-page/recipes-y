@@ -1,0 +1,68 @@
+{
+  "slug": "yummy-salty-crunchy-filipino-olives-salad",
+  "title": "Filipino-Style Salad with Olives",
+  "description": "A delicious and refreshing salad inspired by Filipino cuisine, featuring a crunchy twist with the addition of olives.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Crunchy filipino peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olives, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salad dressing (Filipino-style)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Yummy mango, diced",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mixed greens, crunchy filipino peanuts, and sliced olives.",
+    "2. In a small bowl, whisk together salad dressing and salt.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Top the salad with diced mango and serve immediately.",
+    "5. Serve chilled and enjoy!",
+    "6. Garnish with additional peanuts and olives if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "filipino",
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-salty-crunchy-filipino-olives-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:07:00.231Z"
+}

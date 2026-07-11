@@ -1,0 +1,83 @@
+{
+  "slug": "yellow-roasted-kenyan-paneer-curry",
+  "title": "Kenyan Yellow Paneer Curry",
+  "description": "A flavorful and spicy Kenyan-inspired curry made with roasted paneer, yellow spices, and a hint of local Kenyan flavors.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "200g",
+      "notes": "Roasted"
+    },
+    {
+      "name": "Yellow Curry Powder",
+      "amount": "2 tsp",
+      "notes": "Store-bought"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Kenyan Spices",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "200ml",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add roasted red peppers and cook for 2 minutes.",
+    "Add yellow curry powder and Kenyan spices, stir for 1 minute.",
+    "Add roasted paneer and stir until coated with spices.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to low, cover and cook for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "paneer",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-roasted-kenyan-paneer-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:49:27.824Z"
+}

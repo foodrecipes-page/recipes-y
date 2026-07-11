@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-crisp-peruvian-green-olives-suspiro-limeno",
+  "title": "Peruvian-Style Green Ceviche",
+  "description": "A refreshing Peruvian-inspired ceviche made with green olives and a hint of limeno, perfect for a light lunch or snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 lb green olives",
+      "amount": "halved",
+      "notes": "pitted"
+    },
+    {
+      "name": "1/4 cup freshly squeezed limeno juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped yellowed onions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped crisp cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian suspiro (optional)",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the halved green olives, limeno juice, chopped yellowed onions, and chopped crisp cilantro.",
+    "2. Season with salt and black pepper to taste.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "4. Just before serving, garnish with Peruvian suspiro if desired.",
+    "5. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crisp-peruvian-green-olives-suspiro-limeno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:30:56.841Z"
+}

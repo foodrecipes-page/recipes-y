@@ -1,0 +1,79 @@
+{
+  "slug": "yellow-sauteed-mexican-beans-tacos",
+  "title": "Mexican Yellow Bean Tacos",
+  "description": "A flavorful and easy-to-make recipe for Mexican-style tacos filled with sautéed yellow beans. Perfect for a quick and healthy dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tacos seasoning",
+      "amount": "2 teaspoons",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the yellow beans, tacos seasoning, and salt. Stir to combine.",
+    "Cook for an additional 5-7 minutes, until the beans are heated through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the bean mixture onto a tortilla and topping with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "veggie",
+    "tacos",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-sauteed-mexican-beans-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:16:16.676Z"
+}

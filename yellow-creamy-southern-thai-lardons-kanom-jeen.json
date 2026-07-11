@@ -1,0 +1,68 @@
+{
+  "slug": "yellow-creamy-southern-thai-lardons-kanom-jeen",
+  "title": "Spicy Thai Yellow Curry",
+  "description": "A flavorful and aromatic Thai yellow curry made with a rich coconut milk sauce and your choice of protein.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Curry Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Kanom Jeen Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Cook the kanom jeen noodles according to package instructions.",
+    "2. In a large pan, heat the yellow curry paste over medium heat until fragrant.",
+    "3. Add the chicken to the pan and cook until browned, about 5-7 minutes.",
+    "4. Pour in the coconut milk, fish sauce, and brown sugar. Stir to combine.",
+    "5. Bring the curry to a simmer and cook for 10-15 minutes or until the chicken is cooked through.",
+    "6. Serve the curry over the cooked noodles and garnish with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "yellow",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-creamy-southern-thai-lardons-kanom-jeen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:19:27.947Z"
+}

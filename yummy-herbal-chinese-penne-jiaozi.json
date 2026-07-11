@@ -1,0 +1,78 @@
+{
+  "slug": "yummy-herbal-chinese-penne-jiaozi",
+  "title": "Pan-Fried Jiaozi with Herbal Sauce",
+  "description": "A quick and flavorful Chinese-inspired dish featuring pan-fried jiaozi served with a homemade herbal sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jiaozi",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "penne",
+      "amount": "8 oz",
+      "notes": "optional, for serving"
+    },
+    {
+      "name": "yummy oil",
+      "amount": "2 tbsp",
+      "notes": "peanut or vegetable oil"
+    },
+    {
+      "name": "herbal sauce ingredients",
+      "amount": "see sauce instructions",
+      "notes": "see sauce instructions"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of yummy oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and cook until fragrant, about 30 seconds.",
+    "Add the jiaozi to the skillet and cook until golden brown on both sides, about 4-5 minutes.",
+    "While the jiaozi is cooking, prepare the herbal sauce by combining soy sauce, oyster sauce (optional), and chili flakes in a small bowl.",
+    "Once the jiaozi is cooked, remove it from the skillet and set aside.",
+    "Add the remaining 1 tbsp of yummy oil to the skillet and pour in the herbal sauce.",
+    "Return the jiaozi to the skillet and toss to coat with the herbal sauce.",
+    "Serve the jiaozi hot, garnished with chopped scallions and accompanied by cooked penne if desired.",
+    "Optional: cook the penne according to the package instructions and serve on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "pan-fried",
+    "jiaozi",
+    "herbal-sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-herbal-chinese-penne-jiaozi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:21:12.353Z"
+}

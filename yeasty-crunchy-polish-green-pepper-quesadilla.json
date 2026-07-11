@@ -1,0 +1,68 @@
+{
+  "slug": "yeasty-crunchy-polish-green-pepper-quesadilla",
+  "title": "Polish Quesadilla",
+  "description": "A unique twist on traditional quesadillas, incorporating Polish flavors and crunchy texture.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pepper",
+      "amount": "1 large",
+      "notes": "any color"
+    },
+    {
+      "name": "green",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "quesadilla",
+      "amount": "4",
+      "notes": "whole wheat tortillas"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1/2 cup",
+      "notes": "yeast extract or active dry yeast"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": "chopped walnuts or almonds"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "In a bowl, mix together green, pepper, and yeast extract.",
+    "Lay a quesadilla flat and sprinkle a quarter of the green-pepper mixture onto half of the tortilla.",
+    "Fold the quesadilla in half and cook for 2-3 minutes, until the tortilla starts to crisp.",
+    "Flip the quesadilla and cook for another 2-3 minutes, until the other side is crispy and the filling is heated through.",
+    "Repeat with the remaining quesadillas and filling.",
+    "Cut the quesadillas into wedges and serve hot with a sprinkle of crunchy topping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "quesadilla",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-crunchy-polish-green-pepper-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T19:12:13.183Z"
+}

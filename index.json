@@ -494,17 +494,15 @@
   },
   {
     "slug": "yeasty-crunchy-polish-green-pepper-quesadilla",
-    "title": "yeasty crunchy polish green pepper quesadilla",
+    "title": "Polish Quesadilla",
     "tags": [
-      "date-night",
-      "flambee",
-      "high-protein",
       "polish",
       "quesadilla",
-      "romantic"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "polish",
-    "totalTimeMin": 42,
+    "cuisine": "Polish",
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -10709,17 +10707,16 @@
   },
   {
     "slug": "youthful-korean-egg-bowl",
-    "title": "Youthful Korean Egg Bowl",
+    "title": "Korean Egg Bowl",
     "tags": [
+      "breakfast",
       "korean",
-      "one-pot",
-      "ovo-vegetarian",
-      "quick",
-      "rice",
-      "smoky"
+      "egg",
+      "bowl",
+      "simple"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 15,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {
@@ -13327,18 +13324,15 @@
   },
   {
     "slug": "yummy-moroccan-lamb-tagine",
-    "title": "Yummy Moroccan Lamb Tagine",
+    "title": "Lamb Tagine with Moroccan Spice",
     "tags": [
-      "cheese-pull",
-      "dairy-free",
-      "midnight-craving",
+      "lamb",
       "moroccan",
-      "one-pot",
       "tagine",
-      "vegan-friendly"
+      "crockpot"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 80,
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {

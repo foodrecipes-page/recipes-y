@@ -4633,31 +4633,26 @@
   },
   {
     "slug": "yellow-roasted-kenyan-paneer-curry",
-    "title": "Yellow Roasted Kenyan Paneer Curry",
+    "title": "Kenyan Yellow Paneer Curry",
     "tags": [
-      "date-night",
-      "indian-influence",
-      "kenyan-cuisine",
-      "lazy-susan",
-      "roasted-paneer",
-      "vegetarian"
+      "kenyan",
+      "paneer",
+      "curry"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
     "slug": "yellow-roasted-moroccan-lamb-kefta-tagine",
-    "title": "Yellow Roasted Moroccan Lamb Kefta Tagine",
+    "title": "Traditional Moroccan Lamb Tagine",
     "tags": [
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "north-african-food",
-      "roasted-meats",
-      "tagine-dishes"
+      "moroccan",
+      "lamb",
+      "tagine"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 70,
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -6834,17 +6829,15 @@
   },
   {
     "slug": "yellowed-buttery-middle-eastern-puff-pastry-umm-ali",
-    "title": "Yellowed Buttery Middle Eastern Puff Pastry Umm Ali",
+    "title": "Ali's Eastern Delight",
     "tags": [
+      "puff pastry",
+      "middle eastern",
       "dessert",
-      "lazy-susan-spinner",
-      "middle-eastern",
-      "puff-pastry",
-      "sake-cooking",
-      "shojin-friendly"
+      "snack"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -8091,17 +8084,15 @@
   },
   {
     "slug": "yellowed-flaky-turkish-pastry-pide",
-    "title": "Yellowed Flaky Turkish Pastry Pide",
+    "title": "Turkish Pide Recipe",
     "tags": [
-      "egg-free-friendly",
-      "flaky-pastry",
-      "midnight-craving",
-      "sweet-treat",
-      "turkish-delicacy",
-      "vanilla-bean-paste"
+      "turkish",
+      "pastry",
+      "breakfast",
+      "snack"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -13157,17 +13148,15 @@
   },
   {
     "slug": "yummy-light-argentinian-tofu-parrillada",
-    "title": "Yummy Light Argentinian Tofu Parrillada",
+    "title": "Argentinian Parrillada Tofu",
     "tags": [
-      "argentinian-cuisine",
-      "flexitarian-friendly",
-      "high-protein",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "argentinian",
+      "vegetarian",
+      "tofu",
+      "grilled"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -14182,18 +14171,15 @@
   },
   {
     "slug": "yummy-sweet-jamaican-pork-roast",
-    "title": "Yummy Sweet Jamaican Pork Roast",
+    "title": "Jamaican Roast Pork",
     "tags": [
-      "buddhist-temple-friendly",
-      "citrusy",
-      "family-dinner",
       "jamaican",
-      "kid-friendly",
-      "marzipan",
+      "caribbean",
+      "pork",
       "roast"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 110,
+    "cuisine": "caribbean",
+    "totalTimeMin": 200,
     "shard": "y"
   },
   {

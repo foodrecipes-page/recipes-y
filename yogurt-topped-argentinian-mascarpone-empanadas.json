@@ -1,0 +1,68 @@
+{
+  "slug": "yogurt-topped-argentinian-mascarpone-empanadas",
+  "title": "Argentinian Empanada Cream Dessert",
+  "description": "A unique dessert using empanadas as a base, filled with a creamy mascarpone and yogurt mixture. Perfect for those who love a mix of textures and flavors.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Empanadas",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Mascarpone",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "plain, non-fat"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Bake the empanadas in the oven for 10 minutes, or until lightly golden.",
+    "In a mixing bowl, combine the softened mascarpone and yogurt.",
+    "Add granulated sugar and vanilla extract if using, and mix until smooth.",
+    "Spoon the mascarpone-yogurt mixture into the baked empanadas.",
+    "Top with additional sugar if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "dessert",
+    "empanada",
+    "mascarpone",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-topped-argentinian-mascarpone-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:11:46.764Z"
+}

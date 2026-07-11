@@ -1,0 +1,77 @@
+{
+  "slug": "youthful-korean-egg-bowl",
+  "title": "Korean Egg Bowl",
+  "description": "A simple and flavorful breakfast bowl with a fried egg and Korean-inspired ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Large egg"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "Medium-sized bowl"
+    },
+    {
+      "name": "youthful rice",
+      "amount": "1/2 cup",
+      "notes": "Cooked white or brown rice"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "Optional for added heat"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "Optional for added flavor"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "Optional for drizzling"
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package instructions.",
+    "Fry an egg in a pan over medium heat.",
+    "In a separate pan, add a small amount of sesame oil and cook the green onions until fragrant.",
+    "Assemble the bowl by placing the cooked rice at the bottom, followed by the fried egg, and then the green onions.",
+    "Add a sprinkle of Korean chili flakes and a drizzle of soy sauce (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "korean",
+    "egg",
+    "bowl",
+    "simple"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/youthful-korean-egg-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T19:48:07.228Z"
+}

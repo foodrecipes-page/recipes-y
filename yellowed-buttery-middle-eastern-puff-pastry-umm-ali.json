@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-buttery-middle-eastern-puff-pastry-umm-ali",
+  "title": "Ali's Eastern Delight",
+  "description": "A sweet and flaky puff pastry filled with a delicious eastern-inspired filling, perfect for a dessert or snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet, thawed",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "ali's spice mix",
+      "amount": "2 tsp",
+      "notes": "available in most middle eastern markets"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Cut out a rectangle of pastry, about 1/2 inch larger on all sides than the filling.",
+    "In a small bowl, mix together ali's spice mix, grated ginger, honey, walnuts, and sugar.",
+    "Spread the spice mix evenly over the center of the pastry rectangle, leaving a 1/2 inch border on all sides.",
+    "Brush the edges of the pastry with a little water, then fold the pastry over the filling to form a triangle.",
+    "Press the edges together to seal the pastry, then use a knife or pastry brush to create a decorative edge.",
+    "Place the pastry on a baking sheet lined with parchment paper, and brush with a little bit of egg wash.",
+    "Bake the pastry for 20-25 minutes, or until it is golden brown and puffed.",
+    "Remove the pastry from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "puff pastry",
+    "middle eastern",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-buttery-middle-eastern-puff-pastry-umm-ali",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:24:53.338Z"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "yellow-canadian-chickpea-curry",
+  "title": "Yellow Chicken Curry",
+  "description": "A flavorful and aromatic curry made with chicken, yellow curry paste, and a blend of spices.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chickpea oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add curry paste, curry powder, salt, and pepper. Stir for 1 minute.",
+    "Add chickpeas, sugar, and 1 cup of water. Stir to combine.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-canadian-chickpea-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:19:34.714Z"
+}

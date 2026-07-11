@@ -1,0 +1,89 @@
+{
+  "slug": "yeasty-argentinian-empanada-empanada",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A delicious and flaky pastry filled with seasoned beef, perfect for a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef, ground",
+      "amount": "500g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package (4-6 pieces)",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "For egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the beef over medium-high heat, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the onion, garlic, cumin, paprika, salt, and pepper to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Let the mixture cool slightly.",
+    "Roll out the empanada dough and cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon or two of the beef mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg and fold the dough in half to form a half-circle, pressing the edges together to seal.",
+    "Brush the tops of the empanadas with the remaining egg and cut a few slits in the top of each to allow steam to escape.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "argentinian",
+    "empanada"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-argentinian-empanada-empanada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:46:00.621Z"
+}

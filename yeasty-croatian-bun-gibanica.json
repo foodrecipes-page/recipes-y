@@ -1,0 +1,73 @@
+{
+  "slug": "yeasty-croatian-bun-gibanica",
+  "title": "Croatian Gibanica Bread",
+  "description": "A delicious Croatian-inspired bread filled with the flavors of gibanica, a traditional Croatian cheese pie. Perfect as a snack or side dish.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bun",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Gibanica",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Yeasty",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F) and grease a baking dish.",
+    "In a small bowl, mix together yeast and 50ml of warm water. Let it sit for 5 minutes.",
+    "In a separate bowl, combine gibanica, sugar, salt, and butter. Mix well.",
+    "Add the yeast mixture to the gibanica mixture and mix until a smooth dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and shape it into a round or oblong shape.",
+    "Place the dough in the prepared baking dish and bake for 25-30 minutes, or until golden brown.",
+    "Remove from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "croatian",
+    "gibanica"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-croatian-bun-gibanica",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:18:15.152Z"
+}

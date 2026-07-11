@@ -1,0 +1,63 @@
+{
+  "slug": "yellow-glassy-jelly-irish-onion-dal",
+  "title": "Irish Onion and Yellow Dal Stew",
+  "description": "A hearty and flavorful stew originating from Ireland, blending the sweetness of yellow dal with caramelized onions.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Dal",
+      "amount": "1 cup",
+      "notes": "split red lentils"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Glassy Jelly",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Irish Onion",
+      "amount": "1 tsp",
+      "notes": "dried, for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until caramelized, about 10 minutes.",
+    "Add the yellow dal and 4 cups of water to the pan.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Stir in the glassy jelly and dried Irish Onion for thickening and extra flavor.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "lentil",
+    "irish",
+    "onion",
+    "dal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-glassy-jelly-irish-onion-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:09:41.257Z"
+}

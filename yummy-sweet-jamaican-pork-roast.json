@@ -1,0 +1,74 @@
+{
+  "slug": "yummy-sweet-jamaican-pork-roast",
+  "title": "Jamaican Roast Pork",
+  "description": "A Caribbean-inspired dish with a sweet and spicy twist. Perfect for a dinner party.",
+  "cuisine": "caribbean",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "roast vegetables (such as carrots, potatoes, and onions)",
+      "amount": "2 cups",
+      "notes": "optional"
+    },
+    {
+      "name": "yummy sweet potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Rub the pork shoulder with jerk seasoning, brown sugar, and soy sauce.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pork to a large roasting pan and add the roast vegetables (if using).",
+    "Roast the pork in the preheated oven for 2-3 hours, or until tender and falling apart.",
+    "Let the pork rest for 10-15 minutes before slicing and serving.",
+    "Serve with roasted sweet potatoes and additional jerk seasoning (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "caribbean",
+    "pork",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-sweet-jamaican-pork-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:33:43.749Z"
+}

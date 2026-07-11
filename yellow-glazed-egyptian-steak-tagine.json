@@ -1,0 +1,93 @@
+{
+  "slug": "yellow-glazed-egyptian-steak-tagine",
+  "title": "Traditional Egyptian Beef Tagine",
+  "description": "A hearty and flavorful North African dish made with tender beef, sweet vegetables, and aromatic spices. Serve with crusty bread or couscous.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Steak (1.5 lbs)",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Yellow Onions (2 medium)",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Egyptian Glazed Apricots (1 cup)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger (1-inch piece)",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Cumin (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne Pepper (1/2 tsp)",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in the bottom of a large clay or ceramic tagine over medium heat.",
+    "Add the garlic and ginger and cook, stirring occasionally, for 2 minutes.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the onions, cumin, coriander, cayenne pepper, salt, and black pepper. Cook, stirring occasionally, for 5 minutes.",
+    "Add the apricots and 2 cups of water. Bring to a boil, then cover and simmer for 1 1/2 hours, or until the beef is tender.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "aromatic",
+    "spicy",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "25g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-glazed-egyptian-steak-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:27:25.864Z"
+}

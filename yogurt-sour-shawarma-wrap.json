@@ -1,0 +1,79 @@
+{
+  "slug": "yogurt-sour-shawarma-wrap",
+  "title": "Shawarma Wrap",
+  "description": "A flavorful and easy-to-make shawarma wrap filled with marinated lamb and topped with fresh vegetables and tzatziki sauce.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "50g"
+    },
+    {
+      "name": "Shawarma spice mix",
+      "amount": "20g"
+    },
+    {
+      "name": "Shawarma wrap",
+      "amount": "4"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lamb, yogurt, sour cream, and shawarma spice mix. Mix well and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove lamb from the marinade and cook for 5-7 minutes per side, or until cooked to your liking.",
+    "Warm the shawarma wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by slicing the cooked lamb and placing it on the wrap with cucumber, tomato, red onion, and parsley.",
+    "Drizzle with tzatziki sauce and serve immediately.",
+    "To make tzatziki sauce, combine 200g yogurt, 50g sour cream, 1 minced garlic clove, and 1 tablespoon lemon juice. Mix well and refrigerate for at least 30 minutes.",
+    "Just before serving, stir in 1/4 cup chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "lamb",
+    "wrap",
+    "shish-ka-bob"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-sour-shawarma-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:06.924Z"
+}

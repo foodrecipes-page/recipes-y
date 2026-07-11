@@ -403,17 +403,14 @@
   },
   {
     "slug": "yeasty-croatian-bun-gibanica",
-    "title": "Yeasty Croatian Bun Gibanica",
+    "title": "Croatian Gibanica Bread",
     "tags": [
-      "bun",
+      "bread",
       "croatian",
-      "gibanica",
-      "gluten-free",
-      "snappy",
-      "vegan"
+      "gibanica"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -4722,14 +4719,12 @@
   },
   {
     "slug": "yellow-sauteed-mexican-beans-tacos",
-    "title": "Yellow Sauteed Mexican Beans Tacos",
+    "title": "Mexican Yellow Bean Tacos",
     "tags": [
       "mexican",
-      "one-pan",
-      "quick-dinner",
-      "shojin-friendly",
-      "vegan",
-      "weeknight"
+      "veggie",
+      "tacos",
+      "beans"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 25,
@@ -13658,16 +13653,16 @@
   },
   {
     "slug": "yummy-salty-crunchy-filipino-olives-salad",
-    "title": "Yummy Salty Crunchy Filipino Olives Salad",
+    "title": "Filipino-Style Salad with Olives",
     "tags": [
-      "easy",
+      "salad",
       "filipino",
-      "gluten-free",
-      "snack",
-      "vegan"
+      "vegan",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 45,
+    "cuisine": "Filipino",
+    "totalTimeMin": 10,
     "shard": "y"
   },
   {

@@ -1,0 +1,68 @@
+{
+  "slug": "yellowish-gooey-japanese-rice-ochazuke",
+  "title": "Japanese-Style Ochazuke Rice Bowl",
+  "description": "A traditional Japanese dish made with steamed rice, green tea, and various toppings. This recipe is a simple and comforting breakfast or snack option.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yellowish Japanese Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gooey Green Tea",
+      "amount": "1 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "Dried Wakame Seaweed",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Grated Daikon Radish",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sliced Scallions",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Cook the Yellowish Japanese Rice according to package instructions.",
+    "2. In a separate pot, heat the Gooey Green Tea to a safe temperature (not boiling).",
+    "3. In a small bowl, mix together the Dried Wakame Seaweed, Sesame Seeds, Grated Daikon Radish, and Sliced Scallions.",
+    "4. To assemble the Ochazuke, place a scoop of the cooked rice into a bowl, followed by a drizzle of the green tea.",
+    "5. Top the rice with the seaweed mixture and any additional toppings of your choice.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "breakfast",
+    "snack",
+    "rice",
+    "ochazuke"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-gooey-japanese-rice-ochazuke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:54:19.411Z"
+}

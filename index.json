@@ -2412,17 +2412,15 @@
   },
   {
     "slug": "yellow-creamy-southern-thai-lardons-kanom-jeen",
-    "title": "Yellow Creamy Southern Thai Lardons Kanom Jeen",
+    "title": "Spicy Thai Yellow Curry",
     "tags": [
-      "creamy-sauce",
-      "date-night",
-      "kanom-jeen",
-      "lardons",
-      "southern-thai",
-      "thai-cuisine"
+      "thai",
+      "curry",
+      "yellow",
+      "coconut-milk"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -3490,15 +3488,13 @@
   },
   {
     "slug": "yellow-glassy-jelly-irish-onion-dal",
-    "title": "Glassy-Jelly Irish Onion Dal",
+    "title": "Irish Onion and Yellow Dal Stew",
     "tags": [
-      "coconut-based",
-      "comfort-food",
-      "easy-to-make",
-      "high-fiber",
-      "one-pan",
-      "vegetarian-option",
-      "weeknight"
+      "stew",
+      "lentil",
+      "irish",
+      "onion",
+      "dal"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
@@ -6191,16 +6187,16 @@
   },
   {
     "slug": "yellow-turmeric-indian-fish-skewers",
-    "title": "Yellow Turmeric Indian Fish Skewers",
+    "title": "Indian-Style Fish Skewers",
     "tags": [
-      "ayurvedic-recipes",
-      "fish-recipes",
-      "grilled-food",
-      "healthy-dinner",
-      "indian-food"
+      "indian",
+      "fish",
+      "skewers",
+      "grilling",
+      "summer"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 38,
     "shard": "y"
   },
   {
@@ -12268,17 +12264,15 @@
   },
   {
     "slug": "yummy-flaky-ukrainian-pork-roast",
-    "title": "Yummy Flaky Ukrainian Pork Roast",
+    "title": "Traditional Ukrainian Pork Roast",
     "tags": [
-      "cranberry-juice",
-      "crowd-pleaser",
-      "low-sodium",
-      "pork-roast",
-      "ukrainian-cuisine",
-      "wine-based"
+      "ukrainian",
+      "pork",
+      "roast",
+      "main-course"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 100,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 195,
     "shard": "y"
   },
   {

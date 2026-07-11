@@ -1,0 +1,77 @@
+{
+  "slug": "yummy-fluffy-italian-wood-ear-mushrooms-panforte",
+  "title": "Woodland Mushroom Panforte",
+  "description": "A traditional Italian dessert with a forest twist, featuring earthy mushrooms in a dense, fruity, and nutty cake.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "panforte",
+      "amount": "1 package",
+      "notes": "Italian honey cake mix"
+    },
+    {
+      "name": "yummy",
+      "amount": "1/2 cup",
+      "notes": "Dried cranberries"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup",
+      "notes": "Almond flour"
+    },
+    {
+      "name": "italian",
+      "amount": "2 tbsp",
+      "notes": "Olive oil"
+    },
+    {
+      "name": "wood",
+      "amount": "1/4 cup",
+      "notes": "Walnuts, chopped"
+    },
+    {
+      "name": "ear",
+      "amount": "1/4 cup",
+      "notes": "Honey"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Combine the chopped mushrooms, panforte mix, dried cranberries, almond flour, and olive oil in a bowl.",
+    "Stir in the chopped walnuts and honey.",
+    "Pour the mixture into a greased pan and bake for 25-30 minutes.",
+    "Cool the panforte completely before slicing and serving.",
+    "Top with additional chopped walnuts, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "mushroom",
+    "panforte"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-fluffy-italian-wood-ear-mushrooms-panforte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:12:45.861Z"
+}

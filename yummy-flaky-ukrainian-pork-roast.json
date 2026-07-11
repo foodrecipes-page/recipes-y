@@ -1,0 +1,74 @@
+{
+  "slug": "yummy-flaky-ukrainian-pork-roast",
+  "title": "Traditional Ukrainian Pork Roast",
+  "description": "A hearty and flavorful Ukrainian-inspired dish, perfect for a cold winter night. The combination of tender pork and flaky crust will leave you wanting more.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "yummy",
+      "amount": "2 tablespoons",
+      "notes": "your favorite seasonings"
+    },
+    {
+      "name": "flaky",
+      "amount": "1/4 cup",
+      "notes": "self-rising flour for crust"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme for authentic flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork roast with salt, black pepper, and your favorite seasonings.",
+    "In a separate bowl, mix 1/4 cup of self-rising flour and 1 teaspoon of dried thyme.",
+    "Roll out the flour mixture into a thin sheet, large enough to cover the pork roast.",
+    "Place the pork roast in the center of the flour sheet and wrap it tightly.",
+    "Place the wrapped pork roast in a roasting pan and put it in the oven.",
+    "Roast for 20 minutes per pound, or until the internal temperature reaches 145°F (63°C).",
+    "Remove the pork roast from the oven and let it rest for 10 minutes before slicing.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pork",
+    "roast",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-flaky-ukrainian-pork-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:20:12.522Z"
+}

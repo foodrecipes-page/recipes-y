@@ -1862,18 +1862,14 @@
   },
   {
     "slug": "yellow-canadian-chickpea-curry",
-    "title": "Yellow Canadian Chickpea Curry",
+    "title": "Yellow Chicken Curry",
     "tags": [
-      "canadian",
-      "chickpeas",
-      "coconut-milk",
+      "chicken",
       "curry",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -7193,14 +7189,12 @@
   },
   {
     "slug": "yellowed-crisp-peruvian-green-olives-suspiro-limeno",
-    "title": "Yellowed Crisp Peruvian Green Olives Suspiro Limeno",
+    "title": "Peruvian-Style Green Ceviche",
     "tags": [
-      "broiled",
-      "comfort-food",
-      "gluten-free",
-      "keto-friendly",
-      "peruvian-cuisine",
-      "sweet-and-savory"
+      "peruvian",
+      "ceviche",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 15,

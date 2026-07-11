@@ -170,15 +170,14 @@
   },
   {
     "slug": "yeasty-argentinian-empanada-empanada",
-    "title": "Yeasty Argentinian Empanada",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
+      "beef",
       "argentinian",
-      "gluten-free",
-      "low-carb",
-      "yeast"
+      "empanada"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 70,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -12886,18 +12885,15 @@
   },
   {
     "slug": "yummy-japanese-rice-bowl",
-    "title": "yummy japanese rice bowl",
+    "title": "Japanese-Style Rice Bowl",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "japanese-cuisine",
-      "one-pan",
-      "rice-bowl",
-      "vegan",
-      "weeknight"
+      "japanese",
+      "rice",
+      "grilled-chicken",
+      "gluten-free"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 35,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

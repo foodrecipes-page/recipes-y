@@ -1785,17 +1785,17 @@
   },
   {
     "slug": "yellow-buttery-japanese-squash-jjigae",
-    "title": "Yellow Buttery Japanese Squash Jjigae",
+    "title": "Japanese Yellow Squash Jjigae",
     "tags": [
-      "hokkaido",
-      "japanese",
-      "mediterranean-friendly",
-      "one-pan",
-      "vegan-options",
-      "weeknight"
+      "korean",
+      "vegetarian",
+      "gluten-free",
+      "dinner",
+      "yellow squash",
+      "jjigae"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 55,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -4393,17 +4393,15 @@
   },
   {
     "slug": "yellow-pickle-spanish-chicken-wrap",
-    "title": "Yellow Pickle Spanish Chicken Wrap",
+    "title": "Spanish Chicken Wrap",
     "tags": [
-      "buddhist-friendly",
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "post-workout",
-      "spanish-cuisine"
+      "spanish",
+      "chicken",
+      "wrap",
+      "quick-and-easy"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "y"
   },
   {
@@ -8976,16 +8974,15 @@
   },
   {
     "slug": "yellowed-roasted-portuguese-bacon-casseroles",
-    "title": "Yellowed Roasted Portuguese Bacon Casseroles",
+    "title": "Bacon and Yellowed Potato Casserole",
     "tags": [
+      "portuguese",
       "comfort-food",
-      "high-protein",
-      "one-pan",
-      "portuguese-cuisine",
-      "weeknight"
+      "casserole",
+      "bacon"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 65,
     "shard": "y"
   },
   {

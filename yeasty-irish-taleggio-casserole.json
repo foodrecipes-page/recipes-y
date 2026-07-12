@@ -1,0 +1,80 @@
+{
+  "slug": "yeasty-irish-taleggio-casserole",
+  "title": "Taleggio and Irish Yeast Biscuit Casserole",
+  "description": "A rich casserole featuring creamy Taleggio cheese, Irish yeast, and a buttery biscuit crust.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish Yeast",
+      "amount": "1 cup",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "Taleggio Cheese",
+      "amount": "2 cups, shredded",
+      "notes": "Soft, creamy cheese"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": "For biscuit crust"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": "For biscuit crust"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For biscuit crust"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "1/2 cup",
+      "notes": "For biscuit crust"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "For biscuit topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine Irish yeast, warm water, and sugar. Let sit for 5 minutes.",
+    "Add flour, salt, and melted butter to the bowl. Mix until a dough forms.",
+    "Roll out the dough to a thickness of 1/4 inch. Cut into a rectangle, about 12x16 inches.",
+    "In a separate bowl, mix Taleggio cheese and heavy cream until well combined.",
+    "Spread the cheese mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Fold the dough over the cheese mixture, pressing gently to seal.",
+    "Transfer the casserole to a baking dish and bake for 25-30 minutes, or until golden brown.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cheese",
+    "casseroles",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-irish-taleggio-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:06:15.135Z"
+}

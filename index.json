@@ -14,13 +14,12 @@
   },
   {
     "slug": "yawn-richly-creamy-russian-manchego-cheese-pilaf",
-    "title": "Yawn Richly Creamy Russian Manchego Cheese Pilaf",
+    "title": "Russian Pilaf with Manchego Cheese",
     "tags": [
-      "dairy-cheese",
-      "elegant-side-dish",
-      "fresh-herbs",
-      "gluten-free",
-      "quick-cook"
+      "pilaf",
+      "russian",
+      "cheese",
+      "comfort-food"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 35,
@@ -7661,17 +7660,14 @@
   },
   {
     "slug": "yellowed-crunchy-british-lamb-shepherds-pie",
-    "title": "Yellowed Crunchy British Lamb Shepherds Pie",
+    "title": "Classic British Shepherd's Pie",
     "tags": [
-      "british-classics",
-      "comfort-food",
-      "dairy-free",
-      "hearty-meals",
-      "lamb-recipes",
-      "one-pot-meals"
+      "british",
+      "lamb",
+      "shepherds-pie"
     ],
     "cuisine": "British",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -9750,16 +9746,15 @@
   },
   {
     "slug": "yellowfin-australian-fish-sushi",
-    "title": "Yellowfin Australian Fish Sushi",
+    "title": "Pan-Seared Yellowfin Sushi",
     "tags": [
-      "australian-cuisine",
-      "date-night",
-      "high-protein",
-      "seafood-dish",
-      "sushi-recipe"
+      "sushi",
+      "yellowfin",
+      "seafood",
+      "dinner"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "Japanese",
+    "totalTimeMin": 23,
     "shard": "y"
   },
   {

@@ -1,0 +1,70 @@
+{
+  "slug": "yummy-sweet-glassy-mediterranean-jelly-stew",
+  "title": "Sweet Jelly Stew",
+  "description": "A unique and flavorful stew made with jelly and mediterranean ingredients. Perfect for a cold day.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jelly",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean spice blend",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1L",
+      "notes": null
+    },
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Glassy onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Yummy carrots",
+      "amount": "3 medium",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the water in a large pot over medium heat.",
+    "Add the mediterranean spice blend and stir to combine.",
+    "Add the sweet potatoes, glassy onion, and yummy carrots to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the jelly to the pot and stir to combine.",
+    "Continue to simmer for an additional 10 minutes, or until the stew has thickened slightly.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "sweet",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-sweet-glassy-mediterranean-jelly-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:36:28.253Z"
+}

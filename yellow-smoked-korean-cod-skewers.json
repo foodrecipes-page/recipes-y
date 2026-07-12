@@ -1,0 +1,83 @@
+{
+  "slug": "yellow-smoked-korean-cod-skewers",
+  "title": "Korean-Style Smoked Cod Skewers",
+  "description": "A delicious and easy-to-make dish that combines the flavors of Korea with the richness of smoked cod. Perfect for a quick and healthy snack or meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "yellow Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut cod fillets into 1-inch pieces.",
+    "In a small bowl, mix together gochugaru, soy sauce, brown sugar, and rice vinegar.",
+    "Thread 4-5 pieces of cod onto each skewer, leaving a small space between each piece.",
+    "Brush the top of each skewer with the chili flake mixture and sprinkle with green onions.",
+    "Brush grill grates with vegetable oil to prevent sticking.",
+    "Grill skewers for 4-5 minutes per side, or until cooked through.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "smoked",
+    "cod",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoked-korean-cod-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:36:26.350Z"
+}

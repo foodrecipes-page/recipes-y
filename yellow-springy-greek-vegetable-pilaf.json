@@ -1,0 +1,68 @@
+{
+  "slug": "yellow-springy-greek-vegetable-pilaf",
+  "title": "Greek Vegetable Pilaf",
+  "description": "A flavorful and nutritious Greek-inspired pilaf made with vegetables and a hint of yellow rice.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spring water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Greek olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "feta cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "(optional) for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the mixed vegetables and cook until tender.",
+    "Add the pilaf seasoning and yellow rice to the saucepan.",
+    "Pour in the spring water and bring to a boil.",
+    "Reduce heat to low, cover, and let simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "If using feta cheese, crumble it over the pilaf for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "greek-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-springy-greek-vegetable-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:16:32.590Z"
+}

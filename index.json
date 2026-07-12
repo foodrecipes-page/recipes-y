@@ -11797,17 +11797,16 @@
   },
   {
     "slug": "yummy-crispy-thai-chicken-bao",
-    "title": "Yummy Crispy Thai Chicken Bao",
+    "title": "Crispy Thai Chicken Bao",
     "tags": [
-      "comfortfood",
-      "easydinner",
-      "high-protein",
-      "one-pan",
-      "thaifood",
-      "weeknight"
+      "thai",
+      "chicken",
+      "bao",
+      "curry",
+      "crispy"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

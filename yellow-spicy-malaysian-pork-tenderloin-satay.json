@@ -1,0 +1,95 @@
+{
+  "slug": "yellow-spicy-malaysian-pork-tenderloin-satay",
+  "title": "Malaysian Pork Satay",
+  "description": "A flavorful and spicy satay dish originating from Malaysia, featuring marinated pork tenderloin.",
+  "cuisine": "malaysian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "500g",
+      "notes": "preferably 1-2"
+    },
+    {
+      "name": "yellow coconut milk",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "spicy peanut sauce",
+      "amount": "200ml",
+      "notes": null
+    },
+    {
+      "name": "satay skewers",
+      "amount": "20",
+      "notes": "soaked in water for at least 30 minutes"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine coconut sugar, coriander, cumin, garlic, and salt to make the spice paste.",
+    "2. Trim any excess fat from the pork tenderloin and cut it into 1-inch pieces.",
+    "3. In a large bowl, mix together the spice paste, coconut milk, and spicy peanut sauce.",
+    "4. Add the pork pieces to the marinade and mix well to coat.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "6. Preheat a grill or grill pan to medium-high heat.",
+    "7. Thread the marinated pork onto the satay skewers.",
+    "8. Brush the grill with peanut oil to prevent sticking.",
+    "9. Cook the satay for 8-10 minutes, turning occasionally, until the meat is cooked through.",
+    "10. Serve immediately with additional spicy peanut sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "pork",
+    "satay",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-malaysian-pork-tenderloin-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:54:19.614Z"
+}

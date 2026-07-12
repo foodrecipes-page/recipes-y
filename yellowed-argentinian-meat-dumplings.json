@@ -1,0 +1,87 @@
+{
+  "slug": "yellowed-argentinian-meat-dumplings",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A classic South American dish, these beef empanadas are filled with seasoned ground beef and onions, wrapped in a flaky pastry crust.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Dumpling Pastry",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Add ground beef and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "Season with salt, black pepper, and chopped cilantro. Let cool.",
+    "On a lightly floured surface, roll out dumpling pastry to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon or two of the beef mixture in the center of each pastry circle.",
+    "Brush the edges with beaten egg and fold the pastry in half to form a half-moon shape.",
+    "Press the edges together to seal the empanada and crimp with a fork.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with egg wash.",
+    "Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "argentinian",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-argentinian-meat-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:14:18.837Z"
+}

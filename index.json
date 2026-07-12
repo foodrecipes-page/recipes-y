@@ -574,14 +574,12 @@
   },
   {
     "slug": "yeasty-ethiopian-almond-wrap",
-    "title": "Yeasty Ethiopian Almond Wrap",
+    "title": "Ethiopian Yeast Flatbread",
     "tags": [
-      "almond",
-      "brunch",
-      "kosher-friendly",
-      "papillote",
-      "quick",
-      "yeasty"
+      "flatbread",
+      "ethiopian",
+      "yeast",
+      "bread"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 30,
@@ -3217,18 +3215,14 @@
   },
   {
     "slug": "yellow-flaky-american-corn-flatbread",
-    "title": "Yellow Flaky American Corn Flatbread",
+    "title": "American Cornbread",
     "tags": [
+      "cornbread",
       "american",
-      "corn-based",
-      "flatbread",
-      "homemade",
-      "shojin-friendly",
-      "vegetarian",
-      "yeast-starter"
+      "snack"
     ],
     "cuisine": "American",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -9192,17 +9186,15 @@
   },
   {
     "slug": "yellowed-smoky-japanese-squid-noodles",
-    "title": "Yellowed Smoky Japanese Squid Noodles",
+    "title": "Smoky Soba Noodle Stir Fry",
     "tags": [
-      "japanese-cuisine",
-      "one-pan",
-      "paleo-friendly",
+      "japanese",
       "seafood",
-      "smoky",
-      "weeknight"
+      "noodles",
+      "stir-fry"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "y"
   },
   {

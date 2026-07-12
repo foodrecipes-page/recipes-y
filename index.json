@@ -4830,17 +4830,15 @@
   },
   {
     "slug": "yellow-smoked-korean-cod-skewers",
-    "title": "Yellow Smoked Korean Cod Skewers",
+    "title": "Korean-Style Smoked Cod Skewers",
     "tags": [
-      "canadian-fusion",
-      "copper-cooked",
-      "grilled",
-      "healthy",
-      "korean-inspired",
-      "seafood"
+      "korean",
+      "smoked",
+      "cod",
+      "skewers"
     ],
-    "cuisine": "Canadian-Korean",
-    "totalTimeMin": 30,
+    "cuisine": "Korean",
+    "totalTimeMin": 23,
     "shard": "y"
   },
   {
@@ -14082,15 +14080,14 @@
   },
   {
     "slug": "yummy-sweet-glassy-mediterranean-jelly-stew",
-    "title": "Yummy Sweet Glassy Mediterranean Jelly Stew",
+    "title": "Sweet Jelly Stew",
     "tags": [
-      "dessert",
-      "gluten-free",
-      "mediterranean",
-      "weeknight"
+      "stew",
+      "sweet",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

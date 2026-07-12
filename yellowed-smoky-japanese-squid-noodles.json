@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-smoky-japanese-squid-noodles",
+  "title": "Smoky Soba Noodle Stir Fry",
+  "description": "A Japanese-inspired stir fry featuring smoked squid, served over a bed of yellowed soba noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soba Noodles",
+      "amount": "8 oz",
+      "notes": "preferably yellowed"
+    },
+    {
+      "name": "Smoked Squid",
+      "amount": "1/2 cup, sliced",
+      "notes": "use store-bought or homemade"
+    },
+    {
+      "name": "Japanese Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the soba noodles according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the sesame oil over medium-high. Add the sliced squid and cook for 2-3 minutes, until browned.",
+    "Add the soy sauce to the skillet and stir to combine. Cook for an additional 1-2 minutes, until the squid is coated.",
+    "Add the cooked soba noodles to the skillet, tossing to combine with the squid and sauce. If the noodles seem dry, add a bit of the reserved pasta water.",
+    "Transfer the noodles to a serving dish. Garnish with green onions, sesame seeds, and a pinch of salt.",
+    "Serve immediately, enjoying the smoky flavors of the squid."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "seafood",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-smoky-japanese-squid-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:12:02.365Z"
+}

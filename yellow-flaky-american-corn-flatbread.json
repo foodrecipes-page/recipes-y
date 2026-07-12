@@ -1,0 +1,76 @@
+{
+  "slug": "yellow-flaky-american-corn-flatbread",
+  "title": "American Cornbread",
+  "description": "A traditional American cornbread recipe, perfect for snacking or as a side dish.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellow Cornmeal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flatbread (crumbs)",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "American Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400F (200C).",
+    "Mix cornmeal, flatbread crumbs, salt, and sugar in a bowl.",
+    "In a separate bowl, mix melted butter, eggs, and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Pour the mixture into a greased 8-inch square baking dish.",
+    "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+    "Let the cornbread cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cornbread",
+    "american",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-flaky-american-corn-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:31:36.936Z"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "yellowed-roasted-portuguese-bacon-casseroles",
+  "title": "Bacon and Yellowed Potato Casserole",
+  "description": "A rich and satisfying casserole made with yellowed potatoes, crispy bacon, and a hint of Portuguese flair. Perfect for a cold winter's night.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellowed Potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "crispy, diced"
+    },
+    {
+      "name": "Roasted Onions",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Casseroles Cheese",
+      "amount": "1 cup",
+      "notes": "shredded, cheddar-style"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the bacon over medium heat until crispy. Remove from heat and set aside.",
+    "In the same skillet, add the olive oil and sauté the chopped onions until softened.",
+    "Add the sliced potatoes to the skillet and cook for 5 minutes, stirring occasionally.",
+    "In a separate mixing bowl, combine the shredded cheese, cooked bacon, and chopped parsley.",
+    "In a greased 9x13-inch baking dish, arrange a layer of potatoes, followed by a layer of the cheese mixture.",
+    "Repeat the layers two more times, ending with a layer of potatoes on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the potatoes are golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "comfort-food",
+    "casserole",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-roasted-portuguese-bacon-casseroles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:53:05.797Z"
+}

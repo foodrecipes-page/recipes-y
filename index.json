@@ -1682,17 +1682,15 @@
   },
   {
     "slug": "yellow-braised-portuguese-seitan-burger",
-    "title": "Yellow Braised Portuguese Seitan Burger",
+    "title": "Portuguese Seitan Burger",
     "tags": [
-      "comfort-food",
-      "lazy-sunday",
       "portuguese",
       "seitan",
-      "sesame-seed",
-      "vegan"
+      "burger",
+      "vegetarian"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "cuisine": "portuguese",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -5952,17 +5950,15 @@
   },
   {
     "slug": "yellow-springy-greek-vegetable-pilaf",
-    "title": "Yellow Springy Greek Vegetable Pilaf",
+    "title": "Greek Vegetable Pilaf",
     "tags": [
-      "gluten-free",
-      "greek",
-      "healthy",
-      "post-workout",
-      "springy",
-      "vegetarian"
+      "pilaf",
+      "greek-cuisine",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

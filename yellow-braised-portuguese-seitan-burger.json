@@ -1,0 +1,92 @@
+{
+  "slug": "yellow-braised-portuguese-seitan-burger",
+  "title": "Portuguese Seitan Burger",
+  "description": "A vegetarian take on the classic burger, using seitan and a hint of portuguese flavors.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Seitan",
+      "amount": "1 package (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Burger Buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese Bread Crumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Mayo",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Cheese",
+      "amount": "2 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cut the seitan into 4 equal pieces and season with salt and pepper.",
+    "Grill the seitan for 4-5 minutes per side, or until golden brown.",
+    "Meanwhile, toast the burger buns on the grill.",
+    "Assemble the burgers with the seitan, lettuce, tomato, red bell pepper, and vegan cheese.",
+    "Drizzle with vegan mayo and top with portuguese bread crumbs.",
+    "Serve immediately and enjoy!",
+    "Note: You can also bake the seitan in a preheated oven at 375°F (190°C) for 20-25 minutes, or until golden brown.",
+    "If using a grill pan, make sure to oil it before grilling the seitan to prevent sticking.",
+    "You can also add some sliced portuguese sausage to the burgers for extra flavor.",
+    "Don't forget to toast the buns on the grill for a crispy texture.",
+    "You can customize the burgers with your favorite toppings, such as sliced avocado or pickles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "seitan",
+    "burger",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-braised-portuguese-seitan-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:57:07.337Z"
+}

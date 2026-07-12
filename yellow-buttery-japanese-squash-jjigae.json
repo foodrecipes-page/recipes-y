@@ -1,0 +1,79 @@
+{
+  "slug": "yellow-buttery-japanese-squash-jjigae",
+  "title": "Japanese Yellow Squash Jjigae",
+  "description": "A flavorful and spicy Korean-inspired dish made with tender yellow squash, savory jjigae sauce, and melted butter.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow squash",
+      "amount": "1 medium, sliced",
+      "notes": "about 1 1/2 pounds"
+    },
+    {
+      "name": "Buttery Japanese squash sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add garlic and ginger and cook, stirring occasionally, until fragrant, about 1 minute.",
+    "Add sliced yellow squash and cook, stirring occasionally, until slightly tender, about 5 minutes.",
+    "Stir in buttery Japanese squash sauce and Korean chili flakes (if using). Cook for 1-2 minutes, until the sauce is bubbly and slightly thickened.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles, garnished with additional green onions or sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "gluten-free",
+    "dinner",
+    "yellow squash",
+    "jjigae"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-buttery-japanese-squash-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:14:35.038Z"
+}

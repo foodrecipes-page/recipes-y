@@ -6596,17 +6596,15 @@
   },
   {
     "slug": "yellowed-argentinian-meat-dumplings",
-    "title": "Yellowed Argentinian Meat Dumplings",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "comfort-food",
-      "gluten-free",
-      "homestyle",
-      "low-carb",
-      "one-pan"
+      "beef",
+      "empanadas",
+      "argentinian",
+      "pastry"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 38,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {
@@ -7695,17 +7693,15 @@
   },
   {
     "slug": "yellowed-crunchy-polish-beef-tacos",
-    "title": "Yellowed Crunchy Polish Beef Tacos",
+    "title": "Beef Taco Filling",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "high-protein",
-      "meat-based",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "tacos",
+      "mexican",
+      "easy"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": "Mexican",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

@@ -1,0 +1,74 @@
+{
+  "slug": "yellow-spicy-korean-sevaiiya-noodles",
+  "title": "Spicy Korean Noodle Soup",
+  "description": "A spicy and savory noodle soup inspired by Korean flavors, made with yellow noodles and sevaiiya. Serve hot and enjoy!",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "sevaiiya",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spicy Korean chili flakes",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sliced jalapeños",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add sliced jalapeños and cook for 2 minutes.",
+    "Add spicy Korean chili flakes and cook for 1 minute.",
+    "Add soy sauce and vegetable broth. Bring to a boil.",
+    "Add yellow noodles and sevaiiya. Cook for 8-10 minutes or until noodles are tender.",
+    "Stir in sliced green onions. Serve hot.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "noodle-soup",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-korean-sevaiiya-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:53:56.288Z"
+}

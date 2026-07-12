@@ -1,0 +1,75 @@
+{
+  "slug": "yellowing-tender-british-tomatoes-trifle",
+  "title": "British Trifle",
+  "description": "A classic British dessert made with layers of sponge cake, fruit, custard, and whipped cream. This recipe is a twist on the traditional trifle, using fresh and flavorful ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yellowing sponge cake",
+      "amount": "400g",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Tender strawberries",
+      "amount": "200g",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "British-made trifle sponge",
+      "amount": "200g",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "150g",
+      "notes": "diced and drained of excess moisture"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200ml",
+      "notes": "whipped until stiff peaks form"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "100g",
+      "notes": "for the custard"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": "for the custard"
+    }
+  ],
+  "instructions": [
+    "1. Cut the sponge cake into 1 inch cubes and layer the bottom of a large serving dish.",
+    "2. In a separate bowl, whip the heavy cream until stiff peaks form. Set aside.",
+    "3. In another bowl, mix the diced tomatoes with a tablespoon of sugar and let it sit for 10 minutes to remove excess moisture.",
+    "4. In a medium saucepan, combine the granulated sugar, eggs, and a pinch of salt. Whisk until smooth and cook over medium heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+    "5. Remove the saucepan from the heat and stir in a tablespoon of vanilla extract. Let it cool to room temperature.",
+    "6. To assemble the trifle, add a layer of the cooled custard over the sponge cake.",
+    "7. Top the custard with a layer of the diced strawberries.",
+    "8. Repeat the layers one more time, ending with a layer of whipped cream on top.",
+    "9. Cover the dish with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "10. Before serving, sprinkle a layer of powdered sugar on top of the whipped cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "trifle",
+    "strawberries"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowing-tender-british-tomatoes-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:41:13.897Z"
+}

@@ -9694,17 +9694,15 @@
   },
   {
     "slug": "yellowed-woodfired-slovakian-pork-bake",
-    "title": "Yellowed Woodfired Slovakian Pork Bake",
+    "title": "Woodfired Slovakian Pork Bake",
     "tags": [
-      "copper-mug",
-      "fodmap-friendly",
-      "gluten-free",
-      "pork-belly",
-      "special-occasion",
-      "wood-fired"
+      "slovakian",
+      "woodfired",
+      "pork",
+      "oven-roasted"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {
@@ -9824,17 +9822,15 @@
   },
   {
     "slug": "yellowing-tender-british-tomatoes-trifle",
-    "title": "Yellowing Tender British Tomatoes Trifle",
+    "title": "British Trifle",
     "tags": [
-      "british-cuisine",
-      "cold-weather",
-      "comfort-food",
-      "gluten-free",
+      "british",
+      "dessert",
       "trifle",
-      "vegetarian"
+      "strawberries"
     ],
     "cuisine": "British",
-    "totalTimeMin": 70,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -11496,17 +11492,15 @@
   },
   {
     "slug": "yummy-charred-syrian-shrimp-tagine",
-    "title": "Yummy Charred Syrian Shrimp Tagine",
+    "title": "Syrian Shrimp Tagine",
     "tags": [
-      "brunch",
-      "charred",
-      "one-pan",
-      "paleo-friendly",
-      "seafood",
-      "syrian"
+      "shrimp",
+      "tagine",
+      "syrian",
+      "seafood"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -13870,17 +13864,16 @@
   },
   {
     "slug": "yummy-slow-cooked-argentinian-pork-knuckle-bowl",
-    "title": "yummy slow-cooked argentinian pork knuckle bowl",
+    "title": "Argentinian Pork Knuckle",
     "tags": [
       "argentinian",
-      "gluten-free",
-      "high-protein",
-      "keto",
-      "one-pan",
-      "weeknight"
+      "pork",
+      "knuckle",
+      "chimichurri",
+      "roast"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 1470,
+    "totalTimeMin": 165,
     "shard": "y"
   },
   {

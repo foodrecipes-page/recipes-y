@@ -5689,32 +5689,28 @@
   },
   {
     "slug": "yellow-spicy-korean-sevaiiya-noodles",
-    "title": "Yellow Spicy Korean Sevaiiya Noodles",
+    "title": "Spicy Korean Noodle Soup",
     "tags": [
-      "korean-cuisine",
-      "noodle-recipes",
-      "one-pot",
-      "robata-grill",
-      "sous-vide",
-      "spicy-food"
+      "korean",
+      "noodle-soup",
+      "spicy",
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
     "slug": "yellow-spicy-malaysian-pork-tenderloin-satay",
-    "title": "Yellow Spicy Malaysian Pork Tenderloin Satay",
+    "title": "Malaysian Pork Satay",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "malaysian",
+      "pork",
+      "satay",
+      "grilled"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -6136,19 +6132,14 @@
   },
   {
     "slug": "yellow-turmeric-british-mushroom-cornish-pasty",
-    "title": "Yellow Turmeric British Mushroom Cornish Pasty",
+    "title": "Traditional Cornish Pasty",
     "tags": [
-      "british-cuisine",
-      "flexitarian",
-      "mushroom-recipes",
-      "one-pan",
-      "scallop-shell",
-      "turmeric",
-      "unsweetened-cocoa",
-      "weeknight"
+      "cornish-pasty",
+      "british-food",
+      "pastries"
     ],
     "cuisine": "British",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {

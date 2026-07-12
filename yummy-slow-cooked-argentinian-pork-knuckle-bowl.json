@@ -1,0 +1,79 @@
+{
+  "slug": "yummy-slow-cooked-argentinian-pork-knuckle-bowl",
+  "title": "Argentinian Pork Knuckle",
+  "description": "A slow-cooked pork knuckle dish inspired by Argentinian cuisine, ideal for a hearty meal.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "yummy",
+      "amount": "2 tablespoons",
+      "notes": "chimichurri sauce"
+    },
+    {
+      "name": "slow",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "cooked",
+      "amount": "1 cup",
+      "notes": "aromatic onions"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Season the pork knuckle with salt and pepper.",
+    "In a bowl, mix together olive oil, chimichurri sauce, oregano, and minced garlic.",
+    "Rub the mixture all over the pork knuckle, ensuring it's evenly coated.",
+    "Place the pork knuckle in a roasting pan and put it in the oven.",
+    "Roast for 2 1/2 hours or until the meat is tender and easily shredded with a fork.",
+    "While the pork is cooking, sauté the aromatic onions in a pan with a bit of oil until they're soft and translucent.",
+    "Once the pork is done, remove it from the oven and let it rest for 10-15 minutes.",
+    "Slice the pork into thick slabs and serve with the sautéed onions.",
+    "Serve with additional chimichurri sauce on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "pork",
+    "knuckle",
+    "chimichurri",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 8,
+    "fat": 37
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-slow-cooked-argentinian-pork-knuckle-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:09:16.704Z"
+}

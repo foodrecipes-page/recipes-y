@@ -1,0 +1,90 @@
+{
+  "slug": "yellow-pickle-spanish-chicken-wrap",
+  "title": "Spanish Chicken Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with spicy Spanish chicken, crunchy yellow bell peppers, and a tangy slaw made with pickles.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large flour tortilla",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the chicken breast with salt, black pepper, cumin, and paprika.",
+    "Grill the chicken for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before slicing it thinly.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced yellow bell pepper and cook for 3-4 minutes, or until tender.",
+    "Add the chopped pickles to the skillet and cook for an additional 1-2 minutes.",
+    "Warm the wrap in the skillet for 30 seconds on each side.",
+    "Assemble the wrap by placing the sliced chicken, yellow bell pepper mixture, and pickles onto the wrap.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "chicken",
+    "wrap",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-pickle-spanish-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:04:26.377Z"
+}

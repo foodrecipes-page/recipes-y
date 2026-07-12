@@ -1,0 +1,80 @@
+{
+  "slug": "yellow-turmeric-british-mushroom-cornish-pasty",
+  "title": "Traditional Cornish Pasty",
+  "description": "A classic British dish from Cornwall, filled with tender beef and vegetables, topped with a crumbly pastry.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (450g)",
+      "amount": "450g",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Onion (1)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom (200g)",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Cornish Pasty Pastry (1 block)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "use for flavor"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water (for brushing pastry)",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F)",
+    "Peel and chop the onion, add to a pan with a little oil and cook until softened",
+    "Add the mushrooms to the pan and cook until they release their moisture",
+    "Add the beef to the pan and cook until browned, breaking it up with a spoon",
+    "Add turmeric and salt to the pan and stir to combine",
+    "Roll out the Cornish pastry and cut into circles large enough to hold the filling",
+    "Spoon the beef mixture onto one half of each circle, leaving a border",
+    "Brush the edges of the pastry with water and fold the other half over the filling",
+    "Crimp the edges to seal and cut a few slits in the top to allow steam to escape",
+    "Brush the tops with a little water and bake for 30-40 minutes, or until golden brown",
+    "Serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cornish-pasty",
+    "british-food",
+    "pastries"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-turmeric-british-mushroom-cornish-pasty",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:53:48.043Z"
+}

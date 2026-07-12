@@ -1,0 +1,73 @@
+{
+  "slug": "yeasty-ethiopian-almond-wrap",
+  "title": "Ethiopian Yeast Flatbread",
+  "description": "A traditional Ethiopian flatbread made with yeast that is perfect for wrapping up your favorite fillings.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "almond",
+      "amount": "1/4 cup",
+      "notes": "almond milk"
+    },
+    {
+      "name": "ethiopian",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian spices"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine yeast and warm water. Let it sit for 5 minutes until it becomes frothy.",
+    "Add flour, salt, almond milk, and Ethiopian spices to the bowl. Mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Divide the dough into 4-6 equal pieces, depending on how large you want your flatbreads to be.",
+    "Roll out each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place a flatbread in the pan and cook for 1-2 minutes on each side until it's golden brown and puffed up.",
+    "Repeat with the remaining dough.",
+    "Serve the flatbreads warm with your favorite fillings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "ethiopian",
+    "yeast",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-ethiopian-almond-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:32:06.675Z"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "yellowfin-australian-fish-sushi",
+  "title": "Pan-Seared Yellowfin Sushi",
+  "description": "A simple and flavorful dish combining the delicate taste of yellowfin tuna with the crunch of sushi rice and the freshness of avocado.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellowfin",
+      "amount": "1 (6 oz) fillet",
+      "notes": ""
+    },
+    {
+      "name": "Australian rice wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice in a fine mesh strainer and cook according to the package instructions.",
+    "In a small saucepan, combine the Australian rice wine vinegar, soy sauce, sugar, and sesame oil. Heat over low heat, whisking until the sugar dissolves.",
+    "Cut the yellowfin into thin slices.",
+    "Cut the avocado into thin slices.",
+    "Prepare the sushi rice according to the package instructions.",
+    "To assemble the sushi, place a small amount of sushi rice onto a flat surface.",
+    "Place a slice of yellowfin on top of the rice.",
+    "Add a slice of avocado on top of the fish.",
+    "Roll the sushi using a bamboo sushi mat.",
+    "Slice the sushi into individual pieces.",
+    "Serve the pan-seared yellowfin sushi with the green onion and toasted sesame seeds on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sushi",
+    "yellowfin",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowfin-australian-fish-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:16:05.096Z"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "yawn-richly-creamy-russian-manchego-cheese-pilaf",
+  "title": "Russian Pilaf with Manchego Cheese",
+  "description": "A hearty and flavorful pilaf dish from Russia, topped with melted Manchego cheese. This comforting meal is perfect for a cold evening.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Manchego Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "sharp cheese, can be substituted with Cheddar"
+    },
+    {
+      "name": "yawn (yellow onion)",
+      "amount": "1 medium, chopped",
+      "notes": "adds depth to the pilaf"
+    },
+    {
+      "name": "richly (red bell pepper)",
+      "amount": "1 medium, chopped",
+      "notes": "adds sweetness and crunch"
+    },
+    {
+      "name": "creamy (heavy cream)",
+      "amount": "1/2 cup",
+      "notes": "adds richness to the pilaf"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chopped yellow onion and cook until translucent, about 5 minutes.",
+    "Add the chopped red bell pepper and cook for an additional 2 minutes.",
+    "Add the pilaf and cook, stirring constantly, for 2-3 minutes.",
+    "Add the heavy cream and stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, until the liquid has been absorbed and the pilaf is tender, about 15-20 minutes.",
+    "Stir in the shredded Manchego cheese until melted and well combined.",
+    "Season the pilaf with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "russian",
+    "cheese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yawn-richly-creamy-russian-manchego-cheese-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:57:46.888Z"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "yummy-crispy-thai-chicken-bao",
+  "title": "Crispy Thai Chicken Bao",
+  "description": "Delicious crispy Thai chicken served in soft bao buns. A perfect fusion of flavors.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Crispy wonton wrappers",
+      "amount": "4-6 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "Bao buns",
+      "amount": "4-6 buns",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or wok over medium-high heat.",
+    "Add 1 tablespoon of vegetable oil and swirl to coat the pan.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Add the Thai red curry paste to the skillet and stir to combine with the chicken.",
+    "Cook for an additional 1-2 minutes, until the curry paste is fragrant.",
+    "Add the crispy wonton wrappers to the skillet and cook for 1-2 minutes on each side, until crispy.",
+    "Transfer the chicken mixture to a plate and cover with foil to keep warm.",
+    "Cut the bao buns in half and toast until lightly browned.",
+    "Assemble the bao by spooning the chicken mixture into the bao buns and topping with cucumber, carrots, and green onions.",
+    "Drizzle with soy sauce and sprinkle with brown sugar to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "bao",
+    "curry",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-crispy-thai-chicken-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:41:57.963Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "yellowed-woodfired-slovakian-pork-bake",
+  "title": "Woodfired Slovakian Pork Bake",
+  "description": "A hearty, woodfired-inspired dish featuring slow-cooked pork in a rich, Slovakian-inspired sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Yellowed onions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Woodfired paprika",
+      "amount": "2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Bake potatoes",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Season the pork shoulder with salt, black pepper, and smoked paprika.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the pork to a baking dish and set aside.",
+    "Add the sliced onions to the same Dutch oven and cook until caramelized, about 20 minutes.",
+    "Add the minced garlic to the onions and cook for 1 minute.",
+    "Add the potatoes to the Dutch oven and toss to coat with the onion mixture.",
+    "Cover the potatoes with the browned pork shoulder and transfer the baking dish to the preheated oven.",
+    "Bake for 2.5 hours, or until the pork is tender and the potatoes are cooked through.",
+    "Let the dish rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "slovakian",
+    "woodfired",
+    "pork",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 70
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-woodfired-slovakian-pork-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:28:20.548Z"
+}

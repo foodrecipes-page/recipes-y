@@ -926,17 +926,15 @@
   },
   {
     "slug": "yeasty-irish-taleggio-casserole",
-    "title": "Yeasty Irish Taleggio Casserole",
+    "title": "Taleggio and Irish Yeast Biscuit Casserole",
     "tags": [
-      "comfort-food",
-      "irish-cuisine",
-      "low-calorie",
-      "sous-vide",
-      "vegetarian",
-      "yeasty"
+      "breakfast",
+      "cheese",
+      "casseroles",
+      "irish"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 150,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

@@ -1,0 +1,70 @@
+{
+  "slug": "yeasty-uruguayan-molasses-cake",
+  "title": "Uruguayan Molasses Cake",
+  "description": "A rich and moist cake infused with the deep flavors of molasses, a staple in Uruguayan cuisine. Perfect for a sweet treat.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1 packet (2 1/4 teaspoons)",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "molasses",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cake flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease and flour a 9-inch (23cm) round cake pan.",
+    "In a small bowl, combine yeast, warm water, and a pinch of sugar. Let it sit for 5-10 minutes, until frothy.",
+    "In a large mixing bowl, whisk together flours, sugar, and molasses.",
+    "Add the yeast mixture to the dry ingredients and mix until a sticky dough forms.",
+    "Knead the dough for 10-15 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, until doubled in size.",
+    "Punch down the dough and shape it into a round cake.",
+    "Place the cake in the prepared pan and bake for 35-40 minutes, until a toothpick inserted in the center comes out clean.",
+    "Let the cake cool in the pan for 10 minutes, then transfer it to a wire rack to cool completely.",
+    "Once the cake is cooled, you can glaze it with a sugar syrup or dust it with powdered sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "molasses",
+    "uruguayan",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-uruguayan-molasses-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:47:37.863Z"
+}

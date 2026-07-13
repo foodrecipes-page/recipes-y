@@ -1,0 +1,69 @@
+{
+  "slug": "yummy-greek-paired-with-pastry",
+  "title": "Greek Pastry Bites",
+  "description": "Easy-to-make pastry bites filled with a delicious greek yogurt and honey mixture, perfect for a quick snack.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pastry",
+      "amount": "1 package (14.1 oz)",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the thawed pastry and cut into small squares.",
+    "In a bowl, mix together the Greek yogurt, honey, lemon zest, and vanilla extract.",
+    "Place a small spoonful of the yogurt mixture in the center of each pastry square.",
+    "Fold the pastry squares in half to form triangles and press the edges to seal.",
+    "Brush the tops with a little water and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "pastry",
+    "snack",
+    "easy",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-greek-paired-with-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:36:21.224Z"
+}

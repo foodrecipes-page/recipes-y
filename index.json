@@ -13361,17 +13361,14 @@
   },
   {
     "slug": "yummy-peruvian-cherry-stew",
-    "title": "yummy peruvian cherry stew",
+    "title": "Peruvian Stew",
     "tags": [
-      "cherry-stew",
-      "easy-dinner",
-      "fodmap-friendly",
-      "one-pan",
       "peruvian",
-      "weeknight"
+      "beef",
+      "stew"
     ],
     "cuisine": "peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 110,
     "shard": "y"
   },
   {

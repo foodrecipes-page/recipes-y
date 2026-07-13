@@ -1,0 +1,83 @@
+{
+  "slug": "yummy-shattering-venezuelan-bean-sprouts-salad",
+  "title": "Venezuelan Bean Salad",
+  "description": "A hearty, flavorful salad inspired by Venezuelan cuisine, featuring beans, sprouts, and a variety of textures.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans, cooked",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sprouts",
+      "amount": "1 cup",
+      "notes": "any type of sprouts, such as alfalfa or broccoli"
+    },
+    {
+      "name": "yummy greens salad mix",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "shattering red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the cooked black beans, sprouts, and yummy greens salad mix.",
+    "In a small bowl, whisk together the veggie oil, lime juice, salt, and pepper.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Thinly slice the red onion and add it to the salad.",
+    "Toss the salad again to distribute the onion.",
+    "Season with additional salt and pepper to taste.",
+    "Serve the salad chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "salad",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-shattering-venezuelan-bean-sprouts-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:37:04.012Z"
+}

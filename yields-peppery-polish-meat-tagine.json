@@ -1,0 +1,89 @@
+{
+  "slug": "yields-peppery-polish-meat-tagine",
+  "title": "Polish-Style Peppered Meat Tagine",
+  "description": "A hearty, slow-cooked tagine with a blend of Polish spices and a punch of peppery flavor. Serve with crusty bread or over couscous.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "yields",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 pound",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of yields in a large Dutch oven over medium-high heat.",
+    "Add the beef stew meat and cook until browned, about 5 minutes. Remove the meat from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the peppercorns, dry white wine, beef broth, and polish sausage to the pot. Stir to combine.",
+    "Return the beef stew meat to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the meat is tender.",
+    "Remove the pot from the heat and stir in the flour to thicken the sauce.",
+    "Serve the tagine hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "beef",
+    "tagine",
+    "stew",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "24g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yields-peppery-polish-meat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:25:51.937Z"
+}

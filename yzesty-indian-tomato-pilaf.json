@@ -1,0 +1,57 @@
+{
+  "slug": "yzesty-indian-tomato-pilaf",
+  "title": "Indian Pilaf with Tomato and Yzesty Twist",
+  "description": "A flavorful and aromatic Indian-inspired pilaf dish with a twist of yzesty flavors, paired with fresh tomatoes.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yzesty",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Indian",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a pan over medium heat.",
+    "Add 1 teaspoon of Indian seasoning and sauté for 1 minute.",
+    "Add diced tomato and cook until softened, about 3-4 minutes.",
+    "Add 1 cup of pilaf and stir to combine.",
+    "Add 2 tablespoons of yzesty and mix well.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-food",
+    "pilaf-recipe",
+    "tomato-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yzesty-indian-tomato-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:52:20.306Z"
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "yeasty-quick-british-challots-spotted-dick",
+  "title": "Spotted Dick Muffins with Caramelized Challots",
+  "description": "Moist and flavorful muffins with a hint of spice, topped with caramelized challots and a sprinkle of sugar.",
+  "cuisine": "british",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "spotted dick",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "challots",
+      "amount": "2, chopped",
+      "notes": "caramelized"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1/4 cup, dry yeast"
+    },
+    {
+      "name": "quick",
+      "amount": "1 1/2 cups, all-purpose flour"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup, granulated"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup, non-dairy milk"
+    },
+    {
+      "name": "eggs",
+      "amount": "1, non-dairy egg replacement",
+      "notes": "flax or chia egg"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup, vegan butter replacement"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large mixing bowl, combine spotted dick, yeast, and warm milk. Let it sit for 5 minutes.",
+    "3. Add flour, sugar, eggs, and melted butter. Mix until a smooth batter forms.",
+    "4. Fold in chopped challots.",
+    "5. Divide batter into 6-8 muffin cups.",
+    "6. Bake for 20-25 minutes or until a toothpick inserted comes out clean.",
+    "7. While muffins are baking, caramelize challots in a pan with a little oil until golden brown.",
+    "8. Top muffins with caramelized challots and a sprinkle of sugar.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "muffins",
+    "spotted dick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-quick-british-challots-spotted-dick",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:58:14.841Z"
+}

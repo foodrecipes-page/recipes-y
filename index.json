@@ -14426,17 +14426,16 @@
   },
   {
     "slug": "yummy-venezuelan-beans-stew",
-    "title": "Yummy Venezuelan Beans Stew",
+    "title": "Venezuelan Bean Stew",
     "tags": [
-      "clay-pot",
-      "hangover-cure",
-      "low-sugar",
-      "one-pot",
       "vegan",
-      "weeknight"
+      "latin-american",
+      "stew",
+      "beans",
+      "comfort-food"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "cuisine": "Latin American",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

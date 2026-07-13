@@ -1,0 +1,78 @@
+{
+  "slug": "yummy-syrian-kabanos-skewers",
+  "title": "Syrian Kabanos Skewers with Yummy Sauce",
+  "description": "A flavorful and easy-to-make dish that combines the smoky taste of kabanos with a tangy and sweet sauce, all on a skewer. Great for a quick lunch or dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "pork-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yummy sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for yummy sauce ingredients"
+    },
+    {
+      "name": "kabanos",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or bamboo"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together yummy sauce ingredients (see below).",
+    "Soak the skewers in water for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread onion, garlic, and kabanos onto skewers, leaving a little space between each piece.",
+    "Brush skewers with yummy sauce and season with paprika and black pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until kabanos is slightly charred.",
+    "Serve hot with additional yummy sauce on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "grilled",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-syrian-kabanos-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:05:10.545Z"
+}

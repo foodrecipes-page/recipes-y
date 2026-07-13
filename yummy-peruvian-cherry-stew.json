@@ -1,0 +1,87 @@
+{
+  "slug": "yummy-peruvian-cherry-stew",
+  "title": "Peruvian Stew",
+  "description": "A hearty and flavorful stew inspired by Peruvian cuisine, made with tender beef and a blend of aromatic spices.",
+  "cuisine": "peruvian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "yummy potatoes",
+      "amount": "3 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "peruvian aji amarillo paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cherry tomatoes, potatoes, chicken broth, aji amarillo paste, cumin, salt, and black pepper.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, until beef is tender, about 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-peruvian-cherry-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:26:31.525Z"
+}

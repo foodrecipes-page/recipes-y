@@ -1,0 +1,83 @@
+{
+  "slug": "yummy-charred-malaysian-cheese-tagine",
+  "title": "Malaysian-Style Chicken Tagine",
+  "description": "A rich and aromatic chicken tagine recipe inspired by Malaysian flavors, with a blend of spices and a hint of charred goodness. Perfect for a satisfying dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Yummy rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Charred onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian spices",
+      "amount": "2 tablespoons",
+      "notes": "curry powder, cumin, coriander"
+    },
+    {
+      "name": "Tagine sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheese (optional)",
+      "amount": "1/4 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or clay tagine over medium heat.",
+    "Add onions and cook until charred, about 8 minutes.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add Malaysian spices and cook for 1 minute.",
+    "Add tagine sauce, coconut milk, salt, and pepper. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve with yummy rice and top with cheese, if using.",
+    "Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "malaysian",
+    "tagine",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-charred-malaysian-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:36:30.960Z"
+}

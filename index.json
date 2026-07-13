@@ -10240,17 +10240,16 @@
   },
   {
     "slug": "yields-peppery-polish-meat-tagine",
-    "title": "peppery polish meat tagine",
+    "title": "Polish-Style Peppered Meat Tagine",
     "tags": [
-      "adventurous",
-      "meat-lovers",
-      "mediterranean",
-      "polish-cuisine",
-      "slow-cooker",
-      "weeknight"
+      "polish",
+      "beef",
+      "tagine",
+      "stew",
+      "slow-cooked"
     ],
-    "cuisine": "polish",
-    "totalTimeMin": 150,
+    "cuisine": "Polish",
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {

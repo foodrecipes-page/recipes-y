@@ -1197,16 +1197,12 @@
   },
   {
     "slug": "yeasty-quick-british-challots-spotted-dick",
-    "title": "Yeasty Quick British Challots Spotted Dick",
+    "title": "Spotted Dick Muffins with Caramelized Challots",
     "tags": [
       "breakfast",
       "british",
-      "easy",
-      "homemade",
-      "one-pan",
-      "plant-based",
-      "vegan-option",
-      "weeknight-dinner"
+      "muffins",
+      "spotted dick"
     ],
     "cuisine": "british",
     "totalTimeMin": 40,
@@ -9534,17 +9530,14 @@
   },
   {
     "slug": "yellowed-velvety-british-lamb-sunday-roast",
-    "title": "Yellowed Velvety British Lamb Sunday Roast",
+    "title": "Sunday Roast Lamb",
     "tags": [
-      "british-cuisine",
-      "dairy-free",
-      "gluten-free",
-      "lamb-recipes",
-      "special-occasion",
-      "sunday-roast"
+      "british",
+      "lamb",
+      "roast"
     ],
     "cuisine": "British",
-    "totalTimeMin": 180,
+    "totalTimeMin": 150,
     "shard": "y"
   },
   {
@@ -10990,15 +10983,15 @@
   },
   {
     "slug": "yummily-crispy-italian-ginger-garlic-suppli",
-    "title": "Yummily Crispy Italian Ginger Garlic Supplì",
+    "title": "Crispy Italian Suppli",
     "tags": [
-      "adventurous-gourmet",
-      "egg-free",
-      "flambe-friendly",
-      "umami-rich"
+      "italian",
+      "snack",
+      "appetizer",
+      "cheese"
     ],
-    "cuisine": "italian (emilia-romagna)",
-    "totalTimeMin": 65,
+    "cuisine": "Italian",
+    "totalTimeMin": 27,
     "shard": "y"
   },
   {
@@ -11422,17 +11415,15 @@
   },
   {
     "slug": "yummy-charred-malaysian-cheese-tagine",
-    "title": "yummy charred malaysian cheese tagine",
+    "title": "Malaysian-Style Chicken Tagine",
     "tags": [
-      "cheesy",
-      "high-protein",
-      "low-sodium",
+      "chicken",
       "malaysian",
-      "one-pan",
-      "weeknight"
+      "tagine",
+      "curry"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

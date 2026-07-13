@@ -1,0 +1,80 @@
+{
+  "slug": "yellowed-velvety-british-lamb-sunday-roast",
+  "title": "Sunday Roast Lamb",
+  "description": "A classic British-style lamb roast, perfect for a relaxing Sunday dinner. The combination of tender lamb and flavorful vegetables makes for a satisfying meal.",
+  "cuisine": "British",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb leg",
+      "amount": "1.5 kg",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Yellowed British butter",
+      "amount": "2 tbsp",
+      "notes": "Softened"
+    },
+    {
+      "name": "Velvety red carrots",
+      "amount": "4-5",
+      "notes": "Medium size"
+    },
+    {
+      "name": "Sunday potatoes",
+      "amount": "3-4",
+      "notes": "Medium size"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Season the lamb leg with salt and black pepper.",
+    "Heat the butter in a large oven-safe pan over medium-high heat.",
+    "Sear the lamb leg on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the pan to the preheated oven and roast the lamb for 20 minutes per kilogram, or until it reaches an internal temperature of 63°C (145°F) for medium-rare.",
+    "While the lamb is roasting, peel and chop the carrots and potatoes.",
+    "Toss the carrots and potatoes with a little bit of oil, salt, and pepper, and spread them out in a single layer on a baking sheet.",
+    "Roast the carrots and potatoes in the oven alongside the lamb for the last 30-40 minutes of cooking time.",
+    "Remove the lamb from the oven and let it rest for 10-15 minutes before slicing.",
+    "Toss the carrots and potatoes with a bit of fresh rosemary and serve alongside the sliced lamb."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "lamb",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-velvety-british-lamb-sunday-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:00:38.478Z"
+}

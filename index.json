@@ -1478,13 +1478,12 @@
     "title": "Uruguayan Molasses Cake",
     "tags": [
       "cake",
-      "dessert",
       "molasses",
       "uruguayan",
       "yeast"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {
@@ -13659,13 +13658,12 @@
   },
   {
     "slug": "yummy-shattering-venezuelan-bean-sprouts-salad",
-    "title": "Yummy Shattering Venezuelan Bean Sprouts Salad",
+    "title": "Venezuelan Bean Salad",
     "tags": [
-      "healthy",
-      "macrobiotic-friendly",
-      "quick",
+      "vegan",
+      "gluten-free",
       "salad",
-      "vegan"
+      "south-american"
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 10,
@@ -14126,16 +14124,14 @@
   },
   {
     "slug": "yummy-syrian-kabanos-skewers",
-    "title": "Yummy Syrian Kabanos Skewers",
+    "title": "Syrian Kabanos Skewers with Yummy Sauce",
     "tags": [
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "quick",
-      "savory"
+      "syrian",
+      "grilled",
+      "quick"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -14702,17 +14698,14 @@
   },
   {
     "slug": "yzesty-indian-tomato-pilaf",
-    "title": "Yzesty Indian Tomato Pilaf",
+    "title": "Indian Pilaf with Tomato and Yzesty Twist",
     "tags": [
-      "barley-dense",
-      "meal-prep",
-      "sweetness-free",
-      "vessel-specific",
-      "vinegar-based",
-      "yuzu-flavored"
+      "indian-food",
+      "pilaf-recipe",
+      "tomato-dish"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 65,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

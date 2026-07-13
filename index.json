@@ -6833,17 +6833,15 @@
   },
   {
     "slug": "yellowed-buttery-uruguayan-beef-empanadas",
-    "title": "Yellowed Buttery Uruguayan Beef Empanadas",
+    "title": "Uruguayan Empanada Beef Filling",
     "tags": [
-      "beef-empanadas",
-      "dutch-oven",
-      "halal-friendly",
-      "post-workout",
-      "snack",
-      "uruguayan"
+      "uruguayan",
+      "beef",
+      "empanada",
+      "lunch"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -12576,16 +12574,16 @@
   },
   {
     "slug": "yummy-greek-paired-with-pastry",
-    "title": "Yummy Greek Paired with Pastry",
+    "title": "Greek Pastry Bites",
     "tags": [
-      "easy-snack",
       "greek",
-      "halal",
-      "one-pan",
-      "weeknight"
+      "pastry",
+      "snack",
+      "easy",
+      "dessert"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -14388,17 +14386,14 @@
   },
   {
     "slug": "yummy-velvety-kenyan-ice-cream-parfait",
-    "title": "Kenyan Ice Cream Parfait",
+    "title": "Kenyan Cream Parfait",
     "tags": [
-      "coconut-oil",
-      "easy-to-make",
-      "fruit-based",
-      "halal-friendly",
-      "ice-cream",
-      "kenyan-desserts"
+      "dessert",
+      "kenyan",
+      "parfait"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {

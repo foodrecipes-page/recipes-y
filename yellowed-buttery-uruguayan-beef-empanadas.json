@@ -1,0 +1,82 @@
+{
+  "slug": "yellowed-buttery-uruguayan-beef-empanadas",
+  "title": "Uruguayan Empanada Beef Filling",
+  "description": "A traditional Uruguayan dish, this beef filling is perfect for empanadas. Savor the flavors of Uruguay in every bite.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "salted"
+    },
+    {
+      "name": "Uruguayan Chopped Empanada Shells",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "optional",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the yellow onion to the skillet and cook until softened.",
+    "Add the butter to the skillet and stir until melted.",
+    "Season the beef mixture with salt, black pepper, and red pepper flakes (if using).",
+    "Let the beef mixture cool to room temperature.",
+    "Place a spoonful of the beef mixture into the center of each empanada shell.",
+    "Fold the empanada in half and use a fork to crimp the edges.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve the empanadas warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "empanada",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-buttery-uruguayan-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:10:26.640Z"
+}

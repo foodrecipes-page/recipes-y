@@ -1,0 +1,58 @@
+{
+  "slug": "yummy-velvety-kenyan-ice-cream-parfait",
+  "title": "Kenyan Cream Parfait",
+  "description": "A delicious and refreshing dessert inspired by Kenyan cuisine, featuring a rich cream and velvety parfait.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yummy parfait mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "velvety chocolate sauce",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Combine cream and parfait mix in a bowl.",
+    "Whisk until smooth and creamy.",
+    "Cover and refrigerate for 30 minutes.",
+    "Scoop the cream mixture into individual serving cups or glasses.",
+    "Top with ice.",
+    "Drizzle with velvety chocolate sauce.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "kenyan",
+    "parfait"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-velvety-kenyan-ice-cream-parfait",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:36:27.412Z"
+}

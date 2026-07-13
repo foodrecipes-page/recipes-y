@@ -1,0 +1,74 @@
+{
+  "slug": "yummily-crispy-italian-ginger-garlic-suppli",
+  "title": "Crispy Italian Suppli",
+  "description": "A crispy, cheesy, and savory Italian snack made with suppli, perfect for a quick dinner or appetizer.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Suppli",
+      "amount": "12",
+      "notes": "Italian rice balls"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons, grated",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": null
+    },
+    {
+      "name": "Italian Breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup, grated",
+      "notes": null
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. Heat the oven to 400°F (200°C).",
+    "2. In a large skillet, heat the ginger and garlic over medium heat.",
+    "3. Add the tomato sauce and bring to a simmer.",
+    "4. Dip each suppli into the breadcrumb mixture, coating evenly.",
+    "5. Place the coated suppli on a baking sheet lined with parchment paper.",
+    "6. Drizzle with a little bit of olive oil and bake for 10-12 minutes or until golden brown.",
+    "7. Remove the suppli from the oven and sprinkle with Parmesan cheese.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "appetizer",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummily-crispy-italian-ginger-garlic-suppli",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:33:44.994Z"
+}

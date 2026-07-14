@@ -1,0 +1,63 @@
+{
+  "slug": "yellow-spicy-egyptian-lentil-tagine",
+  "title": "Egyptian Lentil Tagine",
+  "description": "A hearty and flavorful stew originating from Egypt, made with lentils and a blend of aromatic spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Spicy",
+      "amount": "1 teaspoon cumin, 1 teaspoon coriander, 1/2 teaspoon cayenne pepper"
+    },
+    {
+      "name": "Egyptian",
+      "amount": "2 tablespoons olive oil, 2 cloves garlic, minced, 1 teaspoon ground ginger"
+    },
+    {
+      "name": "Tagine",
+      "amount": "2 cups vegetable broth, 2 cups water"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large, heavy pot or Dutch oven over medium-high heat.",
+    "Add the onion and cook, stirring occasionally, until it is lightly browned, about 8 minutes.",
+    "Stir in the cumin, coriander, and cayenne pepper. Cook for 1 minute.",
+    "Add the garlic and ginger; cook for 1 minute, stirring constantly.",
+    "Add the lentils, broth, water, and salt. Bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the lentils are tender.",
+    "Stir in 2 tablespoons chopped fresh parsley and serve over couscous or rice.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "vegetarian",
+    "stew",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-egyptian-lentil-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:26:14.080Z"
+}

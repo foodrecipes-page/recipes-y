@@ -3579,17 +3579,14 @@
   },
   {
     "slug": "yellow-glazed-slovakian-kabanos-skillet",
-    "title": "Yellow Glazed Slovakian Kabanos Skillet",
+    "title": "Slovakian Kabanos Skillet",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
-      "slovakian-cuisine",
-      "weeknight"
+      "slovakian",
+      "kabanos",
+      "skillet"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -8660,16 +8657,16 @@
   },
   {
     "slug": "yellowed-nutty-saudi-arabian-almond-pilaf",
-    "title": "Yellowed Nutty Saudi Arabian Almond Pilaf",
+    "title": "Saudi Arabian Yellow Rice Pilaf",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "keto-friendly",
+      "saudi-arabian",
       "middle-eastern",
-      "one-pot"
+      "rice",
+      "pilaf",
+      "vegetarian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -14273,18 +14270,15 @@
   },
   {
     "slug": "yummy-turkish-tomato-soup",
-    "title": "Yummy Turkish Tomato Soup",
+    "title": "Turkish Tomato Soup",
     "tags": [
-      "aerated",
-      "briny",
-      "canned-tomato",
-      "diabetic-friendly",
-      "post-workout",
-      "shio-koji",
-      "turkish"
+      "soup",
+      "tomato",
+      "turkish",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

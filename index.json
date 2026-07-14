@@ -14183,15 +14183,12 @@
   },
   {
     "slug": "yummy-tender-german-sesame-bowl",
-    "title": "yummy tender german sesame bowl",
+    "title": "German Sausage Bowl",
     "tags": [
-      "breakfast-idea",
-      "diabetic-friendly",
-      "german-food",
-      "healthy-recipe",
-      "low-carb",
-      "lunch-idea",
-      "sesame-butter"
+      "german",
+      "grill",
+      "sausages",
+      "vegetables"
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
@@ -14363,14 +14360,13 @@
     "slug": "yummy-velvety-syrian-lamb-tagine",
     "title": "Syrian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-based",
-      "low-sodium",
+      "lamb",
+      "tagine",
       "middle-eastern",
-      "one-pot"
+      "stew"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 120,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 110,
     "shard": "y"
   },
   {

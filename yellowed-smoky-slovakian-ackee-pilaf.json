@@ -1,0 +1,78 @@
+{
+  "slug": "yellowed-smoky-slovakian-ackee-pilaf",
+  "title": "Slovakian Smoked Meat Pilaf with Ackee",
+  "description": "A hearty Slovakian-inspired pilaf dish made with smoked meat, ackee, and a hint of smoky flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Slovakian Sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ackee Fruit",
+      "amount": "1 cup",
+      "notes": "Canned or fresh, drained and chopped"
+    },
+    {
+      "name": "Yellow Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf Spices (e.g. paprika, garlic powder, onion powder)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "2. Add the sliced smoked sausage and cook for 2-3 minutes, until browned.",
+    "3. Add the chopped ackee, smoked paprika, paprika, garlic powder, onion powder, salt, and pepper to the skillet. Stir to combine.",
+    "4. Add the yellow rice to the skillet and stir to combine with the sausage and ackee mixture.",
+    "5. Cook for an additional 2-3 minutes, until the rice is lightly toasted.",
+    "6. Add 2 cups of water to the skillet and bring to a boil.",
+    "7. Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "8. Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked-meat",
+    "slovakian-cuisine",
+    "pilaf",
+    "ackee"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-smoky-slovakian-ackee-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:15:31.492Z"
+}

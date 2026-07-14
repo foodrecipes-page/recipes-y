@@ -5531,17 +5531,15 @@
   },
   {
     "slug": "yellow-spicy-egyptian-lentil-tagine",
-    "title": "Yellow Spicy Egyptian Lentil Tagine",
+    "title": "Egyptian Lentil Tagine",
     "tags": [
-      "egyptian",
-      "lacto-vegetarian",
       "lentil",
-      "one-pot",
-      "spicy",
-      "tagine"
+      "vegetarian",
+      "stew",
+      "egyptian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -9222,17 +9220,14 @@
   },
   {
     "slug": "yellowed-smoky-syrian-chicken-legs-roast",
-    "title": "Yellowed Smoky Syrian Chicken Legs Roast",
+    "title": "Smoked Syrian Roast Chicken",
     "tags": [
-      "chicken-recipes",
-      "lazy-sunday",
-      "salt-bake",
-      "shojin-friendly",
-      "smoky-flavors",
-      "syrian-cuisine"
+      "chicken",
+      "middle-eastern",
+      "roast"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 70,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

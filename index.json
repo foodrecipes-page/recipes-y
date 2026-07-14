@@ -1077,16 +1077,15 @@
   },
   {
     "slug": "yeasty-molten-french-feta-gratin",
-    "title": "Yeasty Molten French Feta Gratin",
+    "title": "French Gratin with Feta Yeast Bread",
     "tags": [
-      "french-cuisine",
-      "gluten-free",
-      "romantic-dinner",
-      "special-occasion",
-      "yeasty-dishes"
+      "french",
+      "gratin",
+      "feta",
+      "yeast bread"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -9198,17 +9197,15 @@
   },
   {
     "slug": "yellowed-smoky-slovakian-ackee-pilaf",
-    "title": "Yellowed Smoky Slovakian Ackee Pilaf",
+    "title": "Slovakian Smoked Meat Pilaf with Ackee",
     "tags": [
-      "festive",
-      "one-pot",
-      "pescatarian",
-      "seafood",
-      "slovakian",
-      "smoky"
+      "smoked-meat",
+      "slovakian-cuisine",
+      "pilaf",
+      "ackee"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -11779,17 +11776,15 @@
   },
   {
     "slug": "yummy-crispy-ukrainian-cabbage-casserole",
-    "title": "Yummy Crispy Ukrainian Cabbage Casserole",
+    "title": "Braised Cabbage Casserole",
     "tags": [
-      "comfort-food",
-      "crisp",
-      "low-carb",
-      "one-pot",
-      "quick",
-      "ukrainian"
+      "ukrainian",
+      "casserole",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

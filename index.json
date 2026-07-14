@@ -1857,17 +1857,15 @@
   },
   {
     "slug": "yellow-canadian-lentil-grill",
-    "title": "Yellow Canadian Lentil Grill",
+    "title": "Yellow Lentil Grill",
     "tags": [
-      "canadian-cuisine",
-      "fodmap-friendly",
-      "grilled-vegetables",
-      "healthy-dinner",
-      "lentil-recipes",
-      "summer-recipes"
+      "vegan",
+      "gluten-free",
+      "lentil",
+      "grill"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "Indian-inspired",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -4753,17 +4751,14 @@
   },
   {
     "slug": "yellow-silky-middle-eastern-beetroot-maqluba",
-    "title": "Yellow Silky Middle Eastern Beetroot Maqluba",
+    "title": "Middle Eastern Maqluba with Roasted Beetroot",
     "tags": [
-      "kid-friendly",
-      "middle-eastern",
-      "one-pan",
-      "paleo-friendly",
-      "vegetarian",
-      "weeknight"
+      "maqluba",
+      "beetroot",
+      "middle eastern"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {
@@ -10252,17 +10247,15 @@
   },
   {
     "slug": "yoghurt-cured-briny-milk-stew",
-    "title": "Yoghurt-Cured Briny Milk Stew",
+    "title": "Creamy Stew",
     "tags": [
-      "aerated",
-      "briny",
-      "malaysian",
-      "salt-block-cooking",
-      "solo-dinner",
-      "vegetarian"
+      "comfort-food",
+      "creamy",
+      "stew",
+      "soup"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 60,
+    "cuisine": "European",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -14252,17 +14245,16 @@
   },
   {
     "slug": "yummy-turkish-reblochon-grill",
-    "title": "Turkish Reblochon Grill",
+    "title": "Turkish-Style Grilled Cheese with Reblochon",
     "tags": [
-      "cheesy-goodness",
-      "crowd-pleaser",
-      "easy-snack",
-      "lacto-vegetarian",
-      "raclette-grill",
-      "turkish-cuisine"
+      "grilled",
+      "cheese",
+      "turkish",
+      "reblochon",
+      "snack"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 13,
     "shard": "y"
   },
   {

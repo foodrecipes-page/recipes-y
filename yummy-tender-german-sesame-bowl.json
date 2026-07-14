@@ -1,0 +1,70 @@
+{
+  "slug": "yummy-tender-german-sesame-bowl",
+  "title": "German Sausage Bowl",
+  "description": "A hearty German-inspired sausage bowl made with juicy sausages, crunchy sesame seeds, and tender vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German Sausages",
+      "amount": "1 pound",
+      "notes": "such as bratwurst or knockwurst"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Grill the sausages for 5-7 minutes per side, or until cooked through.",
+    "Grill the sliced onion and bell pepper for 3-4 minutes per side, or until tender.",
+    "Grill the sliced potatoes for 3-4 minutes per side, or until golden brown.",
+    "Serve the sausages and vegetables in a bowl, garnished with sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "grill",
+    "sausages",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-tender-german-sesame-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T00:32:56.005Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "yummy-turkish-reblochon-grill",
+  "title": "Turkish-Style Grilled Cheese with Reblochon",
+  "description": "A fusion of Turkish flavors and French cheese in a grilled cheese sandwich. This recipe features a rich and creamy Reblochon cheese, paired with the spicy kick of Turkish red pepper flakes.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 wheel (about 1 pound)",
+      "notes": "soft, washed-rind cheese"
+    },
+    {
+      "name": "Yummy bread",
+      "amount": "4 slices",
+      "notes": "preferably a crusty bread"
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "add to taste for some heat"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the grill"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Butter one side of each bread slice.",
+    "Place one bread slice, butter-side down, on the grill.",
+    "Top with a slice of Reblochon cheese, a sprinkle of Turkish red pepper flakes, and another bread slice.",
+    "Grill for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Flip the sandwich over and grill for another 2-3 minutes or until the other side is also golden brown.",
+    "Repeat with the remaining bread and cheese slices.",
+    "Serve immediately and enjoy!",
+    "Note: grill temperature should be between 325°F and 375°F (165°C to 190°C)"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "cheese",
+    "turkish",
+    "reblochon",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-turkish-reblochon-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:41:28.904Z"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "yummy-turkish-tomato-soup",
+  "title": "Turkish Tomato Soup",
+  "description": "A delicious and hearty soup inspired by Turkish cuisine, made with fresh tomatoes and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 tsp",
+      "notes": "Turkish spice blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the fresh or canned tomatoes, vegetable broth, Turkish spice blend, salt, and black pepper.",
+    "Stir to combine and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with a sprinkle of paprika, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "tomato",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-turkish-tomato-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T14:47:12.532Z"
+}

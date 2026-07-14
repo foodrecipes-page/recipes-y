@@ -1,0 +1,80 @@
+{
+  "slug": "yellow-glazed-slovakian-kabanos-skillet",
+  "title": "Slovakian Kabanos Skillet",
+  "description": "A hearty Slovakian dish featuring crispy kabanos sausage served with sautéed vegetables and a side of toasted bread.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "slovakian kabanos sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large",
+      "notes": "preferably cast iron"
+    },
+    {
+      "name": "glazed garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Add the chopped onion and sauté for 3-4 minutes until translucent.",
+    "Add the sliced yellow bell pepper and cook for an additional 2-3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Slovakian kabanos sausage and cook for 5-6 minutes, turning occasionally, until crispy.",
+    "Season with salt and pepper to taste.",
+    "Serve with toasted bread on the side.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "kabanos",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-glazed-slovakian-kabanos-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:59:48.336Z"
+}

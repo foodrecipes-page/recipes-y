@@ -1,0 +1,76 @@
+{
+  "slug": "yellow-canadian-lentil-grill",
+  "title": "Yellow Lentil Grill",
+  "description": "A hearty vegan dish made with yellow lentils and a smoky grill flavor.",
+  "cuisine": "Indian-inspired",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Canadian Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lentil Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Grill Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Heat the olive oil in a pan over medium heat and sauté the onion and garlic until softened.",
+    "Add the lentil seasoning and grill seasoning to the pan and stir for 1 minute.",
+    "Add the soaked lentils, salt, and 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes or until the lentils are tender.",
+    "Meanwhile, preheat the grill to medium-high heat.",
+    "Once the lentils are cooked, add them to a grill-safe container and grill for 5-7 minutes or until lightly charred.",
+    "Serve the grilled lentils hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "lentil",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-canadian-lentil-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:52:43.788Z"
+}

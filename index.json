@@ -4476,17 +4476,15 @@
   },
   {
     "slug": "yellow-rich-polish-mushroom-pasta",
-    "title": "Yellow Rich Polish Mushroom Pasta",
+    "title": "Polish Mushroom Pasta",
     "tags": [
-      "comfort-food",
-      "mushroom-lovers",
-      "pasta-dishes",
-      "polish-cuisine",
-      "rich-sauces",
-      "vegetarian-options"
+      "pasta",
+      "mushroom",
+      "polish",
+      "vegetarian"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -10658,18 +10656,15 @@
   },
   {
     "slug": "youthful-pan-seared-japanese-fish-kushikatsu",
-    "title": "Youthful Pan-Seared Japanese Fish Kushikatsu",
+    "title": "Pan-Seared Kushikatsu-Style Fish",
     "tags": [
-      "festive",
-      "holiday",
       "japanese",
-      "kanto-region",
-      "kushikatsu",
-      "low-calorie",
-      "seafood"
+      "fish",
+      "seafood",
+      "kushikatsu"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 32,
     "shard": "y"
   },
   {
@@ -11542,17 +11537,14 @@
   },
   {
     "slug": "yummy-chinese-oyster-mushrooms-stir-fry",
-    "title": "Yummy Chinese Oyster Mushrooms Stir-fry",
+    "title": "Stir Fry with Oyster Mushrooms",
     "tags": [
-      "crunchy",
-      "kosher-friendly",
-      "mapo-style",
-      "one-pan",
-      "pressure-cook",
-      "romantic"
+      "chinese",
+      "stir-fry",
+      "mushrooms"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "y"
   },
   {

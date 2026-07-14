@@ -1,0 +1,92 @@
+{
+  "slug": "yeasty-molten-french-feta-gratin",
+  "title": "French Gratin with Feta Yeast Bread",
+  "description": "A classic French-inspired gratin dish topped with a crusty yeast bread and crumbled feta cheese. Perfect for a comforting dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 block (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "yeasty bread (gluten-free)",
+      "amount": "1 cup (crust)",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "molten cheese",
+      "amount": "1 cup (shredded)",
+      "notes": "Cheddar or Mozzarella work well"
+    },
+    {
+      "name": "french onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the french onion and separate the layers. In a pan, heat the olive oil over medium heat and sauté the onions until caramelized.",
+    "Add the garlic and sauté for 1 minute.",
+    "In a separate bowl, mix the molten cheese and a pinch of salt and pepper.",
+    "In a greased 9x13 inch baking dish, create a layer of caramelized onions.",
+    "Top with a layer of molten cheese.",
+    "Repeat the layers two more times, finishing with a layer of cheese on top.",
+    "Cut the yeasty bread into 1-inch cubes and place on top of the cheese layer.",
+    "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Remove from oven and sprinkle with crumbled feta cheese and fresh thyme.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "gratin",
+    "feta",
+    "yeast bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-molten-french-feta-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T03:59:50.472Z"
+}

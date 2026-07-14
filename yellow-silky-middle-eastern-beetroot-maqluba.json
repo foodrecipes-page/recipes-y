@@ -1,0 +1,84 @@
+{
+  "slug": "yellow-silky-middle-eastern-beetroot-maqluba",
+  "title": "Middle Eastern Maqluba with Roasted Beetroot",
+  "description": "A flavorful and nutritious Middle Eastern dish made with roasted beetroot, tender chicken, and fluffy rice. This maqluba is perfect for a warm evening meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "middle eastern rice mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yellow onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eastern spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Peel and chop the beetroot into large chunks. Toss with 1 tablespoon of olive oil, salt, and eastern spices. Spread on a baking sheet and roast for 30 minutes.",
+    "3. In a large pot, heat the remaining 1 tablespoon of olive oil over medium heat. Add the chopped yellow onions and cook until softened.",
+    "4. Add the chicken breast to the pot and cook until browned on all sides.",
+    "5. Add the middle eastern rice mix to the pot and stir to combine with the chicken and onions.",
+    "6. Add 2 cups of water to the pot and bring to a boil.",
+    "7. Reduce heat to low, cover, and simmer for 20 minutes.",
+    "8. Fluff the rice mixture with a fork and stir in the roasted beetroot.",
+    "9. Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "maqluba",
+    "beetroot",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-silky-middle-eastern-beetroot-maqluba",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:51:41.620Z"
+}

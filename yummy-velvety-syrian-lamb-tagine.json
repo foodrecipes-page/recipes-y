@@ -1,0 +1,94 @@
+{
+  "slug": "yummy-velvety-syrian-lamb-tagine",
+  "title": "Syrian Lamb Tagine",
+  "description": "A classic Middle Eastern stew made with tender lamb and aromatic spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Syrian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Yummy",
+      "amount": "1/4 cup",
+      "notes": "optional, chopped fresh parsley or cilantro"
+    },
+    {
+      "name": "Velvety",
+      "amount": "1 cup",
+      "notes": "chicken or lamb broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté onion and garlic until softened, about 5 minutes.",
+    "Add spice blend, cumin, coriander, and cinnamon. Cook 1 minute.",
+    "Add browned lamb, broth, and any accumulated juices. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, until lamb is tender, about 1 1/2 hours.",
+    "Stir in velvety and yummy (if using). Simmer 10 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "middle-eastern",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-velvety-syrian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:14:10.667Z"
+}

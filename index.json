@@ -5448,17 +5448,16 @@
   },
   {
     "slug": "yellow-spicy-chinese-pork-dumplings",
-    "title": "Yellow Spicy Chinese Pork Dumplings",
+    "title": "Spicy Pork Dumplings",
     "tags": [
-      "chinese-cuisine",
+      "pork",
+      "chinese",
       "dumplings",
-      "fodmap-friendly",
-      "pork-recipes",
-      "special-occasion",
-      "spicy-food"
+      "spicy",
+      "yellow"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

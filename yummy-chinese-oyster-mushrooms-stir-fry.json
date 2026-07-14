@@ -1,0 +1,80 @@
+{
+  "slug": "yummy-chinese-oyster-mushrooms-stir-fry",
+  "title": "Stir Fry with Oyster Mushrooms",
+  "description": "A classic Chinese dish made with oyster mushrooms, stir-fried to perfection. Serve over rice for a quick and delicious meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oyster mushrooms",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the oyster mushrooms and stir-fry for 2-3 minutes, until they start to soften.",
+    "Add the soy sauce and sesame oil, and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-chinese-oyster-mushrooms-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:08:23.731Z"
+}

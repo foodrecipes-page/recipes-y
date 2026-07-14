@@ -1,0 +1,66 @@
+{
+  "slug": "yoghurt-cured-briny-milk-stew",
+  "title": "Creamy Stew",
+  "description": "A comforting and creamy stew made with milk and yoghurt, perfect for a cold day.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yoghurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cured",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "briny",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the milk in a medium saucepan over medium heat.",
+    "In a separate bowl, whisk together the yoghurt and briny.",
+    "Add the cured to the milk and stir until dissolved.",
+    "Add the stew to the milk and stir to combine.",
+    "Gradually add the yoghurt mixture, stirring constantly.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped herbs if desired.",
+    "Let the stew rest for 10-15 minutes before serving to allow the flavors to meld.",
+    "Serve in individual bowls and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "stew",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yoghurt-cured-briny-milk-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:27:06.973Z"
+}

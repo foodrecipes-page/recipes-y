@@ -1,0 +1,82 @@
+{
+  "slug": "yellowed-smoky-syrian-chicken-legs-roast",
+  "title": "Smoked Syrian Roast Chicken",
+  "description": "A deliciously smoky twist on traditional roast chicken, infused with the flavors of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian chicken legs",
+      "amount": "2-3 lbs",
+      "notes": "preferably bone-in"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "Yellowed onion, thinly sliced",
+      "amount": "1 large",
+      "notes": "caramelized for depth"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "minced for flavor"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the chicken with salt, black pepper, and smoked paprika.",
+    "Heat olive oil in a large skillet over medium-high heat. Sear the chicken until browned, about 5 minutes per side.",
+    "Transfer the chicken to a baking sheet and roast in the preheated oven for 25-30 minutes, or until cooked through.",
+    "While the chicken is cooking, caramelize the onions in the skillet over low heat for 20-25 minutes, stirring occasionally.",
+    "Once the chicken is done, let it rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve with caramelized onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": "2-3",
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "middle-eastern",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-smoky-syrian-chicken-legs-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:14:06.689Z"
+}

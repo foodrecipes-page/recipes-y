@@ -1,0 +1,89 @@
+{
+  "slug": "yellowish-filipino-noodles-pancit-canton",
+  "title": "Filipino Pancit Canton Noodle Stir Fry",
+  "description": "A classic Filipino dish made with stir-fried noodles, vegetables, and your choice of protein. Cooked to perfection, this Pancit Canton recipe is a staple in every Filipino household.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "1 package (12 oz)",
+      "notes": "Pancit Canton noodles"
+    },
+    {
+      "name": "yellowish vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and minced garlic and stir-fry until the onion is translucent.",
+    "Add the sliced mushrooms and chopped bean sprouts and stir-fry until the vegetables are tender.",
+    "Add the cooked noodles and stir-fry for 2-3 minutes.",
+    "Add the soy sauce and stir-fry for another minute.",
+    "Transfer the pancit canton to a serving platter and garnish with chopped green onions.",
+    "Serve hot and enjoy!",
+    "Optional: Add protein of your choice (e.g., chicken, pork, or tofu) and stir-fry until cooked through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "noodle-stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-filipino-noodles-pancit-canton",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:23:48.224Z"
+}

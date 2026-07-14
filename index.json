@@ -6888,16 +6888,15 @@
   },
   {
     "slug": "yellowed-charred-ethiopian-lamb-fir-fir",
-    "title": "Yellowed Charred Ethiopian Lamb Fir Fir",
+    "title": "Lamb Tagine with Ethiopian Spices",
     "tags": [
-      "african-cuisine",
-      "gluten-free",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "ethiopian",
+      "tagine",
+      "spices"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {
@@ -14399,17 +14398,17 @@
   },
   {
     "slug": "yummy-venezuelan-chorizo-skillet",
-    "title": "Yummy Venezuelan Chorizo Skillet",
+    "title": "Venezuelan Chorizo Skillet",
     "tags": [
-      "hearty",
-      "one-pan",
-      "quick-fix",
-      "spicy",
       "venezuelan",
-      "whole30"
+      "chorizo",
+      "skillet",
+      "breakfast",
+      "latin",
+      "sausage"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

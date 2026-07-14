@@ -1,0 +1,69 @@
+{
+  "slug": "yummy-venezuelan-chorizo-skillet",
+  "title": "Venezuelan Chorizo Skillet",
+  "description": "A spicy and flavorful Venezuelan-inspired dish featuring chorizo sausage, onions, and bell peppers, all cooked to perfection in a skillet.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chorizo sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the chorizo sausage and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the onion and bell pepper to the skillet and cook until they begin to soften, about 3-4 minutes.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Serve the chorizo mixture hot, garnished with chopped fresh cilantro if desired.",
+    "Serve with rice, beans, or arepas for a more traditional Venezuelan meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "chorizo",
+    "skillet",
+    "breakfast",
+    "latin",
+    "sausage"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-venezuelan-chorizo-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:55:38.155Z"
+}

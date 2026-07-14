@@ -1,0 +1,91 @@
+{
+  "slug": "youthful-pan-seared-japanese-fish-kushikatsu",
+  "title": "Pan-Seared Kushikatsu-Style Fish",
+  "description": "A Japanese-inspired dish featuring crunchy, deep-fried fish sticks served with a side of tangy dipping sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (such as cod or tilapia)",
+      "amount": "4 fillets",
+      "notes": "Cut into 1-inch sticks"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For coating"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/2 cup",
+      "notes": "For coating"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten for coating"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "For coating"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For dipping sauce"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "For dipping sauce"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For dipping sauce"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together flour, cornstarch, and a pinch of salt.",
+    "2. In a separate dish, beat the egg.",
+    "3. In a third dish, place the Panko breadcrumbs.",
+    "4. Dip each fish stick into the flour mixture, coating both sides, then into the beaten egg, and finally into the Panko breadcrumbs, pressing gently to adhere.",
+    "5. Heat about 1/2-inch of vegetable oil in a large skillet over medium-high heat.",
+    "6. When the oil is hot, add a few of the coated fish sticks to the skillet (do not overcrowd).",
+    "7. Fry the fish sticks for 2-3 minutes on each side, or until golden brown and cooked through.",
+    "8. Using a slotted spoon, remove the fried fish sticks from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "9. Serve the pan-seared kushikatsu-style fish hot with a side of dipping sauce made by mixing together soy sauce, rice vinegar, and sesame oil.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fish",
+    "seafood",
+    "kushikatsu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/youthful-pan-seared-japanese-fish-kushikatsu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:06:17.595Z"
+}

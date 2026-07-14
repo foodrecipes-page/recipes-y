@@ -1,0 +1,91 @@
+{
+  "slug": "yellow-spicy-chinese-pork-dumplings",
+  "title": "Spicy Pork Dumplings",
+  "description": "A popular Chinese dish made with juicy pork and wrapped in a delicate dumpling wrapper, served with a side of spicy dipping sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "20-25 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Chili Oil",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine ground pork, finely chopped onion, grated ginger, soy sauce, sesame oil, and sesame seeds. Mix well.",
+    "2. Lay a dumpling wrapper on a clean surface and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "3. Dip your finger in water and run it along the edges of the wrapper. Fold the wrapper into a half moon shape, pressing the edges together to seal the dumpling.",
+    "4. Repeat with the remaining wrappers and pork mixture.",
+    "5. In a large skillet or wok, heat 2 tablespoons of sesame oil over medium-high heat.",
+    "6. When the oil is hot, add the dumplings to the skillet and cook for 2-3 minutes on each side, until the bottoms are golden brown.",
+    "7. Add 2 cups of water to the skillet and bring to a boil.",
+    "8. Reduce the heat to medium-low and simmer for 5-7 minutes, until the dumplings are cooked through.",
+    "9. Serve the dumplings hot with a side of spicy dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "chinese",
+    "dumplings",
+    "spicy",
+    "yellow"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-chinese-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:43:09.951Z"
+}

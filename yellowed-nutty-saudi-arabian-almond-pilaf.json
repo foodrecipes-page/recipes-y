@@ -1,0 +1,83 @@
+{
+  "slug": "yellowed-nutty-saudi-arabian-almond-pilaf",
+  "title": "Saudi Arabian Yellow Rice Pilaf",
+  "description": "A flavorful and aromatic yellow rice dish from Saudi Arabia, infused with the nutty taste of Saudi Arabian long-grain rice and nutty almonds.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian Long-Grain Rice",
+      "amount": "1 cup",
+      "notes": "preferably yellowed"
+    },
+    {
+      "name": "Unsalted Almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced or slivered"
+    },
+    {
+      "name": "Pilaf Mix",
+      "amount": "1 packet",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add rice, pilaf mix, almonds, salt, and pepper. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the rice is tender.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "middle-eastern",
+    "rice",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-nutty-saudi-arabian-almond-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:18:57.212Z"
+}

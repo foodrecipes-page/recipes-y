@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-spicy-croatian-fiordilatte-skewers",
+  "title": "Grilled Fiordilatte with Croatian Spicy Sausage and Yellow Peppers",
+  "description": "A simple and flavorful summer recipe featuring grilled Fiordilatte cheese, Croatian spicy sausage, and yellow peppers.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croation spicy sausage",
+      "amount": "4",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Fiordilatte cheese",
+      "amount": "2",
+      "notes": "sliced into 1-inch thick rounds"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread Croatian spicy sausage, yellow pepper, and onion onto skewers.",
+    "Brush skewers with olive oil and season with salt.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until sausage is cooked through and vegetables are tender.",
+    "Meanwhile, grill Fiordilatte cheese rounds for 2-3 minutes on each side, until golden brown and slightly charred.",
+    "Serve skewers with grilled cheese and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "summer",
+    "cheese",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-croatian-fiordilatte-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:50:11.171Z"
+}

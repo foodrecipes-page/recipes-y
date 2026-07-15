@@ -1,0 +1,77 @@
+{
+  "slug": "yellowed-dense-chaozhou-chicken-dumplings",
+  "title": "Chaozhou Chicken and Dumplings",
+  "description": "A hearty, comforting soup originating from Chaozhou, China. Fluffy dumplings and tender chicken are slow-cooked in a rich broth.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "chaozhou",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "yellowed old ginger",
+      "amount": "1 piece",
+      "notes": "about 1 inch long"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine chicken broth, chaozhou, and yellowed old ginger. Bring to a boil over high heat.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "While the broth is cooking, make the dumpling dough by mixing flour and water until a dough forms.",
+    "Knead the dough for 5 minutes and divide into small balls.",
+    "Once the broth has simmered for 10 minutes, add the chicken breast and cook until it's cooked through.",
+    "Add the dumpling balls to the pot and cook for an additional 5 minutes.",
+    "Garnish with scallions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-dense-chaozhou-chicken-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T06:31:36.475Z"
+}

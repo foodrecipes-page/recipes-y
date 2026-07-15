@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-rich-french-chestnuts-beef-bourguignon",
+  "title": "Bourguignon Beef Stew",
+  "description": "A hearty beef stew made with tender chunks of beef, rich bourguignon sauce, and earthy chestnuts.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound, cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "chestnuts",
+      "amount": "1 cup, peeled and sliced"
+    },
+    {
+      "name": "bourguignon",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yellowed onions",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "rich butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Sear beef until browned on all sides, then set aside.",
+    "Cook onions and chestnuts until softened.",
+    "Add flour, stirring to combine.",
+    "Gradually add bourguignon, whisking to prevent lumps.",
+    "Return beef to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "chestnuts",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-rich-french-chestnuts-beef-bourguignon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:22:26.106Z"
+}

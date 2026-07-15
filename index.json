@@ -40,15 +40,16 @@
   },
   {
     "slug": "ycitrusy-ivory-yak-biryani",
-    "title": "Ycitrusy Ivory Yak Biryani",
+    "title": "Yak and Ycitrusy Biryani",
     "tags": [
-      "ayurvedic-rajasic-friendly",
-      "beef-stock",
-      "post-workout-dish",
-      "yak"
+      "yak",
+      "ycitrusy",
+      "biryani",
+      "tibetan",
+      "lunch"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "cuisine": "Tibetan",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -9845,17 +9846,14 @@
   },
   {
     "slug": "yellowish-earthy-norwegian-split-peas-stew",
-    "title": "Norwegian Split Peas Stew",
+    "title": "Norwegian Pea and Split Pea Stew",
     "tags": [
       "comfort-food",
-      "delicious",
-      "easy-to-make",
-      "hearty-stew",
-      "one-pot",
-      "winter-nights"
+      "vegetarian-stew",
+      "norwegian-cuisine"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {

@@ -1,0 +1,76 @@
+{
+  "slug": "yeasty-algerian-biscuit-tagine",
+  "title": "Algerian Biscuit Tagine",
+  "description": "A traditional Algerian dish made with biscuits, perfect for a cozy evening. This tagine is a creative twist on the classic recipe, using biscuits as a substitute for traditional bread.",
+  "cuisine": "Algerian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian biscuit",
+      "amount": "6",
+      "notes": "preferably day-old biscuits"
+    },
+    {
+      "name": "yeasty dough",
+      "amount": "1/2 cup",
+      "notes": "leftover dough from homemade bread"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "pure, raw honey"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "pinch",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "lukewarm"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. Tear the Algerian biscuit into small pieces and place in a mixing bowl.",
+    "3. Roll out the yeasty dough to a thickness of about 1/4 inch (6 mm) and cut into small squares.",
+    "4. Add the butter, honey, cinnamon, and ginger to the mixing bowl with the biscuit pieces.",
+    "5. Mix well until the biscuit pieces are evenly coated with the honey and spice mixture.",
+    "6. Place a square of dough on top of each biscuit piece, pressing the edges to seal.",
+    "7. Place the tagine in the preheated oven and bake for 20-25 minutes, or until the dough is golden brown.",
+    "8. Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "biscuit",
+    "tagine",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-algerian-biscuit-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T18:10:49.774Z"
+}

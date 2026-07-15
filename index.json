@@ -5462,17 +5462,15 @@
   },
   {
     "slug": "yellow-spicy-croatian-fiordilatte-skewers",
-    "title": "Yellow Spicy Croatian Fiordilatte Skewers",
+    "title": "Grilled Fiordilatte with Croatian Spicy Sausage and Yellow Peppers",
     "tags": [
-      "cheese",
-      "crowd-pleaser",
-      "gluten-free",
       "grilled",
-      "spicy",
-      "whole30"
+      "summer",
+      "cheese",
+      "sausage"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -8804,16 +8802,15 @@
   },
   {
     "slug": "yellowed-rich-french-chestnuts-beef-bourguignon",
-    "title": "Yellowed Rich French Chestnuts Beef Bourguignon",
+    "title": "Bourguignon Beef Stew",
     "tags": [
-      "comfort-food",
-      "french-cuisine",
-      "mediterranean-friendly",
-      "one-pot",
-      "winter-dish"
+      "beef",
+      "stew",
+      "chestnuts",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 180,
+    "totalTimeMin": 165,
     "shard": "y"
   },
   {

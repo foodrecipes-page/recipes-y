@@ -1,0 +1,84 @@
+{
+  "slug": "yellowed-chewy-portuguese-peanut-bake",
+  "title": "Portuguese Peanut Biscuits",
+  "description": "A sweet and crunchy snack made with peanut flour, perfect for a quick dessert or snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yellowed peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chewy peanut flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "portuguese almond meal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "bake powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together peanut flour, almond meal, and bake powder.",
+    "In a separate bowl, whisk together coconut oil, honey, eggs, and salt.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Roll out the dough to about 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place on the prepared baking sheet and bake for 15-20 minutes, or until golden brown.",
+    "Allow to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "peanut",
+    "biscuit",
+    "snack",
+    "dessert",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-chewy-portuguese-peanut-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T09:22:25.036Z"
+}

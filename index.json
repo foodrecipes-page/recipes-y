@@ -6300,19 +6300,15 @@
   },
   {
     "slug": "yellow-yellow-roasted-algerian-onion-tagine",
-    "title": "yellow-yellow roasted algerian onion tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
       "algerian",
-      "caramelized-onions",
-      "high-protein",
-      "lacto-vegetarian",
-      "north-african",
-      "one-pan",
-      "weeknight",
-      "yellow-onions"
+      "chicken",
+      "stew",
+      "north african"
     ],
-    "cuisine": "north african",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -6525,17 +6521,17 @@
   },
   {
     "slug": "yellow-zesty-middle-eastern-tuna-labneh-bowl",
-    "title": "Yellow Zesty Middle Eastern Tuna Labneh Bowl",
+    "title": "Eastern Tuna Salad Bowl",
     "tags": [
-      "easy-meal",
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-bowl",
-      "weeknight"
+      "tuna",
+      "salad",
+      "middle eastern",
+      "eastern",
+      "labneh",
+      "lunch"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 15,
+    "totalTimeMin": 10,
     "shard": "y"
   },
   {

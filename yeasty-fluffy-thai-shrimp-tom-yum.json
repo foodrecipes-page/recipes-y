@@ -1,0 +1,80 @@
+{
+  "slug": "yeasty-fluffy-thai-shrimp-tom-yum",
+  "title": "Thai Shrimp Dumplings",
+  "description": "A simple and delicious Thai-inspired dish made with shrimp dumplings, perfect for a snack or light meal.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeasty dumpling wrappers",
+      "amount": "1 package (20-24 wrappers)",
+      "notes": ""
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound, peeled and deveined",
+      "notes": ""
+    },
+    {
+      "name": "fluffy coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tom yum sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine shrimp, coconut milk, curry paste, and tom yum sauce. Mix well.",
+    "2. Lay a dumpling wrapper on a clean surface. Place a tablespoon of the shrimp mixture in the center of the wrapper.",
+    "3. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "4. Press the edges together to seal the dumpling.",
+    "5. Repeat with the remaining wrappers and filling.",
+    "6. In a large pot of boiling water, cook the dumplings for 5-7 minutes, or until they float to the surface.",
+    "7. Remove the dumplings from the water with a slotted spoon and serve hot.",
+    "8. Garnish with chopped green onions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "shrimp",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-fluffy-thai-shrimp-tom-yum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:33:08.101Z"
+}

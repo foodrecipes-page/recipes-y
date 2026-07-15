@@ -1,0 +1,71 @@
+{
+  "slug": "yogurt-kissed-molten-brazilian-cheese-fritters",
+  "title": "Brazilian Fritter Cheesecake",
+  "description": "A sweet twist on traditional cheesecake, featuring crispy Brazilian fritters and a creamy yogurt topping.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "Brazilian fritters",
+      "amount": "1 package"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "melted butter",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Crush the Brazilian fritters and mix with sugar.",
+    "Press the fritter mixture into the bottom of a springform pan.",
+    "Beat the cheese, eggs, and vanilla extract in a blender.",
+    "Pour the cheese mixture over the fritter crust.",
+    "Bake for 25 minutes.",
+    "Let cool, then refrigerate for at least 4 hours.",
+    "Top with yogurt and melted butter before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesecake",
+    "dessert",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-kissed-molten-brazilian-cheese-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:36:31.688Z"
+}

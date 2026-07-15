@@ -143,14 +143,15 @@
   },
   {
     "slug": "yeasty-algerian-biscuit-tagine",
-    "title": "Yeasty Algerian Biscuit Tagine",
+    "title": "Algerian Biscuit Tagine",
     "tags": [
-      "algerian-specialty",
-      "high-energy",
-      "morning-snack"
+      "algerian",
+      "biscuit",
+      "tagine",
+      "homemade"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -8518,16 +8519,15 @@
   },
   {
     "slug": "yellowed-mellow-filipino-vegetable-pinakbet",
-    "title": "Yellowed Mellow Filipino Vegetable Pinakbet",
+    "title": "Pinakbet (Filipino Vegetable Stew)",
     "tags": [
-      "crowd-pleaser",
-      "filipino-cuisine",
-      "gluten-free",
-      "one-pan",
-      "vegetarian"
+      "pinakbet",
+      "filipino",
+      "vegetable",
+      "stew"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -10238,15 +10238,15 @@
   },
   {
     "slug": "yogurt-based-russian-fish-stew",
-    "title": "Russian Fish Stew",
+    "title": "Borscht",
     "tags": [
-      "fish-stew",
-      "pescatarian",
       "russian-cuisine",
-      "weeknight"
+      "soup",
+      "beets",
+      "cold-soup"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 25,
+    "cuisine": "russian",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

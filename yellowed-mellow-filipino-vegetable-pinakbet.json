@@ -1,0 +1,83 @@
+{
+  "slug": "yellowed-mellow-filipino-vegetable-pinakbet",
+  "title": "Pinakbet (Filipino Vegetable Stew)",
+  "description": "A flavorful and spicy stew made with a variety of vegetables and a savory sauce. This dish is a staple in Filipino cuisine and is often served as a side dish or light meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Filipino vegetable mix",
+      "amount": "1 package",
+      "notes": "includes ampalaya, eggplant, and okra"
+    },
+    {
+      "name": "Yellow squash",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mellow tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Pork or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Sauté the onion and garlic until softened.",
+    "Add the Filipino vegetable mix and cook until the vegetables are tender.",
+    "Add the sliced yellow squash and cook for an additional 2-3 minutes.",
+    "Add the chopped tomatoes and cook for 5 minutes or until the sauce has thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pinakbet",
+    "filipino",
+    "vegetable",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-mellow-filipino-vegetable-pinakbet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:41:54.048Z"
+}

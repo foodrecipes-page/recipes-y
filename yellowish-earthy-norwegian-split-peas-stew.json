@@ -1,0 +1,89 @@
+{
+  "slug": "yellowish-earthy-norwegian-split-peas-stew",
+  "title": "Norwegian Pea and Split Pea Stew",
+  "description": "A hearty, comforting stew made with Norwegian split peas, yellowish peas, and earthy notes.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellowish peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Norwegian split peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrot, and potato; cook until tender, about 10 minutes.",
+    "Add yellowish peas, Norwegian split peas, vegetable broth, and water (if using).",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (optional).",
+    "Let stew rest for 10 minutes before serving.",
+    "Reheat if necessary.",
+    "Serve 4-6 servings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "vegetarian-stew",
+    "norwegian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-earthy-norwegian-split-peas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:54:26.174Z"
+}

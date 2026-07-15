@@ -1,0 +1,63 @@
+{
+  "slug": "yummy-energizing-japanese-onions-pancake-like-dumplings-jjim",
+  "title": "Korean-Style Pan-Fried Dumplings",
+  "description": "A simple and delicious Korean-inspired dish featuring pan-fried dumplings. Serve as a snack or light meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small"
+    },
+    {
+      "name": "jjim",
+      "amount": "1 package"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine flour and water to create dough. Knead for 5 minutes.",
+    "Divide dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of jjim in the center of each circle.",
+    "Fold the dough over to form a half-moon shape and press edges to seal.",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add dumplings to the skillet and cook for 2-3 minutes on each side.",
+    "Serve hot with a dipping sauce of your choice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "dumplings",
+    "pan-fried",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-energizing-japanese-onions-pancake-like-dumplings-jjim",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:19:36.157Z"
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "ycitrusy-ivory-yak-biryani",
+  "title": "Yak and Ycitrusy Biryani",
+  "description": "A flavorful and aromatic biryani dish made with yak meat, ycitrusy, and spices.",
+  "cuisine": "Tibetan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yak meat",
+      "amount": "500g",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ycitrusy",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "biriyani rice",
+      "amount": "2 cups",
+      "notes": "soaked and drained"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add ginger and garlic, sauté until fragrant.",
+    "Add cumin, coriander, and turmeric, sauté for 1 minute.",
+    "Add yak meat, cook until browned.",
+    "Add soaked biryani rice, stir to combine.",
+    "Add ycitrusy, stir to combine.",
+    "Add ghee, stir to combine.",
+    "Transfer the mixture to a steamer basket.",
+    "Steam for 20 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "yak",
+    "ycitrusy",
+    "biryani",
+    "tibetan",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 65,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ycitrusy-ivory-yak-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T20:03:00.155Z"
+}

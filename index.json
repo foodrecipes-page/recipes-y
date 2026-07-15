@@ -8188,18 +8188,15 @@
   },
   {
     "slug": "yellowed-golden-irish-mozzarella-bake",
-    "title": "Yellowed Golden Irish Mozzarella Bake",
+    "title": "Golden Irish Scone Bake",
     "tags": [
-      "buddhist-friendly",
-      "comfort-food",
-      "irish-cuisine",
-      "mozzarella",
-      "sick-day",
-      "vegetarian",
-      "wood-fired"
+      "breakfast",
+      "scones",
+      "golden-syrup",
+      "irish-cream"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {

@@ -1,0 +1,96 @@
+{
+  "slug": "yogurt-based-russian-fish-stew",
+  "title": "Borscht",
+  "description": "A traditional Russian beet soup, typically served cold.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "3",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "borscht",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine grated beets, carrot, and onion in a large pot.",
+    "Add water, tomato paste, apple cider vinegar, and sugar to the pot. Bring to a boil.",
+    "Reduce heat and let simmer for 20 minutes.",
+    "Stir in chopped dill and let cool to room temperature.",
+    "Chill in refrigerator for at least 2 hours.",
+    "Serve cold, topped with a dollop of yogurt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian-cuisine",
+    "soup",
+    "beets",
+    "cold-soup"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-based-russian-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:32:49.682Z"
+}

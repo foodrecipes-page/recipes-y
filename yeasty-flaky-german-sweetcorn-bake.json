@@ -1,0 +1,74 @@
+{
+  "slug": "yeasty-flaky-german-sweetcorn-bake",
+  "title": "Classic German Sweet Corn Puff Pastry",
+  "description": "A sweet and savory pastry filled with caramelized sweet corn and a hint of German charm.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeasty puff pastry, thawed",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sweetcorn, fresh",
+      "amount": "1 cup, kernels only",
+      "notes": ""
+    },
+    {
+      "name": "butter, unsalted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "In a large skillet, melt butter over medium heat. Add sweetcorn and cook, stirring occasionally, until caramelized, about 10-12 minutes.",
+    "Mix in brown sugar, flaky sea salt, and a pinch of black pepper.",
+    "On a lightly floured surface, roll out puff pastry to a thickness of about 1/8 inch.",
+    "Transfer pastry to the prepared baking sheet and spread the sweetcorn mixture evenly, leaving a 1/2-inch border around the edges.",
+    "Brush the edges with beaten eggs and fold the pastry over the filling, pressing gently to seal.",
+    "Bake for 25-30 minutes, or until pastry is golden brown.",
+    "Remove from oven and let cool on a wire rack for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pastry",
+    "sweetcorn",
+    "german",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-flaky-german-sweetcorn-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:02:14.711Z"
+}

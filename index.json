@@ -6570,17 +6570,15 @@
   },
   {
     "slug": "yellowed-aromatic-moroccan-rice-tagine",
-    "title": "Yellowed Aromatic Moroccan Rice Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "aromatic",
-      "flaky-rice",
-      "herbal",
-      "moroccan-cuisine",
-      "one-pot",
-      "plant-based"
+      "chicken",
+      "moroccan",
+      "stew",
+      "slow-cooker"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {

@@ -1,0 +1,76 @@
+{
+  "slug": "yellow-yogurt-middle-eastern-chickpeas-hummus",
+  "title": "Middle Eastern Chickpea Salad",
+  "description": "A refreshing and healthy salad from the Middle East, made with chickpeas, yogurt, and spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "hummus",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the chickpeas.",
+    "Chop the yellow bell pepper into small pieces.",
+    "In a large bowl, combine the chickpeas, bell pepper, and hummus.",
+    "Add the yogurt, lemon juice, and olive oil to the bowl.",
+    "Season with salt and pepper to taste.",
+    "Mix well and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-yogurt-middle-eastern-chickpeas-hummus",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T15:49:55.832Z"
+}

@@ -3833,16 +3833,16 @@
   },
   {
     "slug": "yellow-indulgent-algerian-petit-pois-tagine",
-    "title": "Yellow Indulgent Algerian Petit Pois Tagine",
+    "title": "Spicy Algerian Chicken and Vegetable Tagine",
     "tags": [
-      "cheesy",
+      "chicken",
+      "tagine",
       "north-african",
-      "one-pan",
-      "special-occasion",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {
@@ -7091,17 +7091,16 @@
   },
   {
     "slug": "yellowed-crisp-moroccan-lamb-kebabs",
-    "title": "Yellowed Crisp Moroccan Lamb Kebabs",
+    "title": "Moroccan Lamb Kebabs",
     "tags": [
-      "crowd-pleaser",
-      "dinner-party",
-      "kebabs",
-      "lamb",
       "moroccan",
-      "plant-based"
+      "lamb",
+      "kebabs",
+      "summer",
+      "grill"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

@@ -1,0 +1,80 @@
+{
+  "slug": "yellowed-golden-irish-mozzarella-bake",
+  "title": "Golden Irish Scone Bake",
+  "description": "A moist and flaky scone infused with the warmth of golden syrup and the subtle tang of Irish cream.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Golden syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Irish cream",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Yellowed mozzarella",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Bake baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together the flour, baking powder, sugar, and salt.",
+    "Add the melted butter, eggs, golden syrup, and Irish cream to the dry ingredients. Stir until just combined.",
+    "Fold in the shredded mozzarella.",
+    "Turn the dough out onto a floured surface and gently knead a few times until it comes together.",
+    "Pat the dough into a circle that is about 1 inch (2.5 cm) thick.",
+    "Cut the scone into wedges and place on the prepared baking sheet, leaving about 1 inch (2.5 cm) of space between each scone.",
+    "Bake for 18-20 minutes, or until the scones are golden brown.",
+    "Remove from the oven and let cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "scones",
+    "golden-syrup",
+    "irish-cream"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-golden-irish-mozzarella-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:39:33.874Z"
+}

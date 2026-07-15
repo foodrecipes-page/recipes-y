@@ -1,0 +1,74 @@
+{
+  "slug": "yellow-zesty-middle-eastern-tuna-labneh-bowl",
+  "title": "Eastern Tuna Salad Bowl",
+  "description": "A refreshing Middle Eastern-inspired tuna salad served in a bowl, topped with creamy labneh and a zesty kick.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Cucumber",
+      "amount": "1 large"
+    },
+    {
+      "name": "Zesty Red Pepper",
+      "amount": "1/2"
+    },
+    {
+      "name": "Tuna Canned in Water",
+      "amount": "1 can (240g)",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Labneh Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eastern-Style Pita Bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Middle Eastern Olives",
+      "amount": "1/4 cup pitted"
+    },
+    {
+      "name": "Eastern-Style Pickled Turnips",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flaked tuna, chopped cucumber, and red pepper.",
+    "In a small bowl, mix together the labneh and a squeeze of lemon juice.",
+    "Add the labneh mixture to the tuna mixture and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Just before serving, top the salad with chopped olives and pickled turnips.",
+    "Serve chilled, garnished with pita bread croutons if desired.",
+    "Optional: add a sprinkle of sumac or paprika for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tuna",
+    "salad",
+    "middle eastern",
+    "eastern",
+    "labneh",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-zesty-middle-eastern-tuna-labneh-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:28:26.694Z"
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "yellowed-british-baby-aubergine-gratin",
+  "title": "Roasted Aubergine Gratin",
+  "description": "A simple, flavorful gratin dish made with roasted aubergine, perfect for a weeknight dinner.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 large"
+    },
+    {
+      "name": "baby potatoes",
+      "amount": "4-5"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the aubergine and baby potatoes into 1/2-inch thick slices.",
+    "In a large bowl, mix together the grated cheese, heavy cream, minced garlic, salt, and pepper.",
+    "In a separate baking dish, create a layer of aubergine slices.",
+    "Top with a layer of baby potatoes, followed by a sprinkle of the cheese mixture.",
+    "Repeat this layering process until all ingredients are used, finishing with a layer of cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aubergine",
+    "gratin",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-british-baby-aubergine-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:21:20.297Z"
+}

@@ -6373,15 +6373,12 @@
   },
   {
     "slug": "yellow-yogurt-middle-eastern-chickpeas-hummus",
-    "title": "Yellow Yogurt Middle Eastern Chickpeas Hummus",
+    "title": "Middle Eastern Chickpea Salad",
     "tags": [
-      "garlicky",
-      "gluten-free",
-      "hummus",
-      "lazy-sunday",
+      "salad",
       "middle-eastern",
-      "nut-free",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 10,
@@ -12025,17 +12022,15 @@
   },
   {
     "slug": "yummy-energizing-japanese-onions-pancake-like-dumplings-jjim",
-    "title": "japanese onions dorayaki dumplings jjim",
+    "title": "Korean-Style Pan-Fried Dumplings",
     "tags": [
-      "breakfast",
-      "dairy-free",
-      "one-pan",
-      "snack",
-      "vegetarian",
-      "weeknight"
+      "korean",
+      "dumplings",
+      "pan-fried",
+      "snack"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 35,
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {
@@ -13968,17 +13963,15 @@
   },
   {
     "slug": "yummy-spicy-japanese-pork-fritters",
-    "title": "Yummy Spicy Japanese Pork Fritters",
+    "title": "Spicy Japanese Pork Fritters",
     "tags": [
-      "chubu-inspired",
-      "crispy",
-      "hangover-cure",
-      "high-heat",
-      "snack",
-      "spicy"
+      "spicy",
+      "japanese",
+      "pork",
+      "fritters"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 20,
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
     "shard": "y"
   },
   {

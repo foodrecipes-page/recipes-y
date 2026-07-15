@@ -1,0 +1,92 @@
+{
+  "slug": "yummy-spicy-japanese-pork-fritters",
+  "title": "Spicy Japanese Pork Fritters",
+  "description": "Crispy fritters filled with spicy pork, great for a snack or appetizer.",
+  "cuisine": "japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork mince",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Jalapeno",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Yummy panko breadcrumbs",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Japanese seasoning",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 180°C.",
+    "2. In a large mixing bowl, combine pork mince, onion, jalapeno, jasmine rice, egg, soy sauce, and Japanese seasoning. Mix well.",
+    "3. Gradually add yummy panko breadcrumbs to the pork mixture and mix until just combined.",
+    "4. Using your hands, shape the mixture into small patties.",
+    "5. When the oil is hot, carefully add the patties to the pan and fry for 4-5 minutes on each side, or until golden brown and crispy.",
+    "6. Remove the fritters from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the Spicy Japanese Pork Fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "japanese",
+    "pork",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-spicy-japanese-pork-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T15:36:58.885Z"
+}

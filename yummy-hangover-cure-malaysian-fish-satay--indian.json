@@ -1,0 +1,81 @@
+{
+  "slug": "yummy-hangover-cure-malaysian-fish-satay--indian",
+  "title": "Malaysian Chicken Satay",
+  "description": "A popular Indian-inspired Malaysian dish, these flavorful satay skewers are perfect for a quick and easy dinner. This recipe is great for those looking for a cure for a hangover.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "yummy peanut sauce",
+      "amount": "250ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cure coconut milk",
+      "amount": "100ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "malaysian soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or regular soy sauce"
+    },
+    {
+      "name": "satay spices",
+      "amount": "2 tablespoons",
+      "notes": "or garam masala and cumin"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "tofu",
+      "amount": "150g",
+      "notes": "cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread chicken and tofu onto satay skewers, leaving a little space between each piece.",
+    "3. Brush with vegetable oil and season with satay spices.",
+    "4. Grill for 8-10 minutes, turning occasionally, until chicken is cooked through.",
+    "5. Meanwhile, mix peanut sauce, coconut milk, soy sauce, and fish sauce (if using) in a bowl.",
+    "6. Serve chicken and tofu with peanut sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "malaysian",
+    "satay",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-hangover-cure-malaysian-fish-satay--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:13:21.165Z"
+}

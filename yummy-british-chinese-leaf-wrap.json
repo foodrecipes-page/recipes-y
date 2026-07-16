@@ -1,0 +1,55 @@
+{
+  "slug": "yummy-british-chinese-leaf-wrap",
+  "title": "Delicious Chinese-Style Wrap",
+  "description": "A tasty and easy-to-make wrap packed with Chinese flavors, wrapped in a British-style wrap. Perfect for a quick snack or light meal.",
+  "cuisine": "british chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "British-style wrap"
+    },
+    {
+      "name": "Leaf",
+      "amount": "1 large",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Yummy",
+      "amount": "100g",
+      "notes": "Chopped or sliced to your liking"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Place the wrap in the pan and warm for 1-2 minutes.",
+    "Add the yummy and cook for 2-3 minutes, until heated through.",
+    "Add a large leaf and fold the wrap to create a wrap.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "snack",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-british-chinese-leaf-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:48:25.956Z"
+}

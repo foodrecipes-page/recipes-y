@@ -1,0 +1,74 @@
+{
+  "slug": "yellowed-velvety-malaysian-beef-curry",
+  "title": "Yellow Beef Curry",
+  "description": "A creamy and flavorful beef curry dish made with malaysian spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g (1.1lb)"
+    },
+    {
+      "name": "Yellow curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Velvety coconut milk",
+      "amount": "1 can (400ml)"
+    },
+    {
+      "name": "Malaysian fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add curry paste and cook for 2 minutes.",
+    "Add beef and cook until browned.",
+    "Add coconut milk, fish sauce, sugar, salt, and pepper. Stir well.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "curry",
+    "malaysian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-velvety-malaysian-beef-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:28:07.664Z"
+}

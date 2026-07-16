@@ -15054,5 +15054,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-silky-syrian-lamb-stew--french",
+    "title": "French Lamb Stew",
+    "tags": [
+      "lamb",
+      "stew",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 135,
+    "shard": "y"
   }
 ]

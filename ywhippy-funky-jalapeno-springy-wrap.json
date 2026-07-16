@@ -1,0 +1,70 @@
+{
+  "slug": "ywhippy-funky-jalapeno-springy-wrap",
+  "title": "Spicy Jalapeno Wrap",
+  "description": "A flavorful, spicy wrap filled with crunchy springy vegetables and savory funky cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "springy",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "funky",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "jalapeno",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "wrap",
+      "amount": "4",
+      "notes": "large flour tortillas"
+    },
+    {
+      "name": "ywhippy",
+      "amount": "1/4 cup",
+      "notes": "whipped yogurt or sour cream"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add sliced jalapenos and cook until softened.",
+    "Add chopped springy vegetables and cook until tender.",
+    "Stir in shredded funky cheese until melted.",
+    "Warm large flour tortillas in the pan for 30 seconds on each side.",
+    "Assemble wraps by spooning veggie mixture onto center of each tortilla.",
+    "Top with a dollop of ywhippy and fold wraps in half.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "wrap",
+    "mexican",
+    "vegetarian",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ywhippy-funky-jalapeno-springy-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:25:39.099Z"
+}

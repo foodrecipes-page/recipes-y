@@ -15025,5 +15025,17 @@
     "cuisine": "vegetarian american",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-garlicky-uruguayan-bean-empanadas--french",
+    "title": "Uruguayan Bean Empanadas",
+    "tags": [
+      "empanadas",
+      "uruguayan",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "y"
   }
 ]

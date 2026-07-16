@@ -15032,5 +15032,18 @@
     "cuisine": "french",
     "totalTimeMin": 50,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-garlicky-uruguayan-bean-empanadas--italian",
+    "title": "Uruguayan Italian Bean Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "bean",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

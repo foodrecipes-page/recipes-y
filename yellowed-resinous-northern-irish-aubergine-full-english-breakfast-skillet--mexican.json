@@ -1,0 +1,82 @@
+{
+  "slug": "yellowed-resinous-northern-irish-aubergine-full-english-breakfast-skillet--mexican",
+  "title": "Full English Breakfast Skillet",
+  "description": "A twist on the traditional breakfast dish, using a Mexican-inspired skillet recipe. This hearty breakfast skillet combines the best of both worlds with crispy bacon, sautéed aubergine, and melted cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "northern irish sausages",
+      "amount": "4",
+      "notes": "look for sausages with a good balance of spices"
+    },
+    {
+      "name": "aubergine",
+      "amount": "1 large",
+      "notes": "slice into 1/2-inch thick rounds"
+    },
+    {
+      "name": "full english breakfast skillet",
+      "amount": "1",
+      "notes": "a cast-iron skillet is ideal"
+    },
+    {
+      "name": "resinous bacon",
+      "amount": "6 slices",
+      "notes": "use thick-cut bacon for the best results"
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": "a good melting cheese is essential"
+    },
+    {
+      "name": "yellowed onions",
+      "amount": "1 large",
+      "notes": "thinly slice the onions"
+    },
+    {
+      "name": "english breakfast spices",
+      "amount": "1 tsp",
+      "notes": "a mixture of paprika, cumin, and chili powder works well"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the bacon in the skillet over medium heat until crispy, then set aside.",
+    "Add the sliced onions to the skillet and cook until they're translucent and starting to caramelize.",
+    "Add the sliced aubergine to the skillet and cook for 3-4 minutes on each side, or until tender.",
+    "Add the northern irish sausages to the skillet and cook until browned on all sides.",
+    "Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the sausages are cooked through.",
+    "Remove the skillet from the oven and sprinkle the shredded cheese over the top.",
+    "Return the skillet to the stovetop and cook over medium heat until the cheese is melted and bubbly.",
+    "Serve the full english breakfast skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "skillet",
+    "sausages",
+    "aubergine",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-resinous-northern-irish-aubergine-full-english-breakfast-skillet--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:24:13.694Z"
+}

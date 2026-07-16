@@ -1,0 +1,75 @@
+{
+  "slug": "yellow-molten-spanish-shrimp-gambas-al-ajillo--keto",
+  "title": "Gambas al Ajillo",
+  "description": "A classic Spanish dish of garlic shrimp, perfect for a keto diet. This simple recipe is quick to make and full of flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gambas",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "al ajillo",
+      "amount": "4-6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the shrimp and sauté for 2-3 minutes per side, until pink and cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Serve the shrimp hot, garnished with chopped parsley and a squeeze of lemon juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "shrimp",
+    "garlic",
+    "low-carb",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-molten-spanish-shrimp-gambas-al-ajillo--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:45:12.371Z"
+}

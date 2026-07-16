@@ -1,0 +1,70 @@
+{
+  "slug": "yellowed-silky-syrian-lamb-stew--french",
+  "title": "French Lamb Stew",
+  "description": "A hearty, flavorful stew from France, packed with tender lamb and vegetables. This dish is perfect for a cold winter's night.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "syrian",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "yellowed",
+      "amount": "2 medium",
+      "notes": "onions"
+    },
+    {
+      "name": "silky",
+      "amount": "3 medium",
+      "notes": "carrots"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "Season the lamb with salt and pepper.",
+    "Heat the Syrian in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Reduce the heat to medium and add the yellowed to the pot.",
+    "Cook until they are softened and lightly browned, about 5 minutes.",
+    "Add the silky to the pot and cook for an additional 5 minutes.",
+    "Add the stew to the pot and bring to a boil.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the oven and cook at 300°F for 2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-silky-syrian-lamb-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:31:16.915Z"
+}

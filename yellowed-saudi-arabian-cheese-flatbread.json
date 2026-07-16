@@ -1,0 +1,54 @@
+{
+  "slug": "yellowed-saudi-arabian-cheese-flatbread",
+  "title": "Saudi Arabian Cheese Flatbread",
+  "description": "A simple and delicious flatbread recipe from Saudi Arabia, topped with melted cheese.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "saudi arabian flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "yellow cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "arabian ghee or oil",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the flatbread into 1-inch squares.",
+    "Place the flatbread squares on a baking sheet.",
+    "Top each square with a spoonful of shredded cheese.",
+    "Drizzle with ghee or oil, if using.",
+    "Bake for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "flatbread",
+    "saudi arabian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-saudi-arabian-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:11:48.415Z"
+}

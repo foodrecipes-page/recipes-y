@@ -1,0 +1,85 @@
+{
+  "slug": "yellow-earthy-saudi-arabian-lentil-stew",
+  "title": "Saudi Arabian Lentil Stew",
+  "description": "A hearty and comforting stew originating from Saudi Arabia, made with yellow lentils and flavorful earthy spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "earthly spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "saudi chili peppers",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "arabian coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "Vegetable or chicken broth can be used instead"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and saudi chili peppers and cook for another minute.",
+    "Add the yellow lentils, earthly spice blend, arabian coriander, and salt. Stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30-40 minutes, or until the lentils are tender.",
+    "Stir in some chopped fresh cilantro or parsley, if desired.",
+    "Serve hot, garnished with additional cilantro or parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "stew",
+    "saudi-arabian",
+    "comfort-food",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-earthy-saudi-arabian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:27:56.332Z"
+}

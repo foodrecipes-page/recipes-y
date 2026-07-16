@@ -1,0 +1,64 @@
+{
+  "slug": "yummy-dutch-cheese-stir-fry--mexican",
+  "title": "Mexican Cheese Fritters",
+  "description": "A simple and delicious Mexican snack made with melted cheese, crunchy on the outside and gooey on the inside.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dutch process cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "In a bowl, mix together flour, cocoa powder and a pinch of salt.",
+    "Gradually add the flour mixture to the cheese and stir until well combined.",
+    "Using a spoon, drop small balls of the cheese mixture into the hot oil.",
+    "Fry fritters for 2-3 minutes or until golden brown and puffed up.",
+    "Using a slotted spoon, remove fritters from the oil and place on a paper towel-lined plate.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "cheese",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-dutch-cheese-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:42:06.121Z"
+}

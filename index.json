@@ -15093,5 +15093,31 @@
     "cuisine": "italian",
     "totalTimeMin": 18,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-molten-spanish-shrimp-gambas-al-ajillo--keto",
+    "title": "Gambas al Ajillo",
+    "tags": [
+      "spanish",
+      "shrimp",
+      "garlic",
+      "low-carb",
+      "keto"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 13,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-smoky-mexican-mung-bean-sprouts-pozole--japanese",
+    "title": "Spicy Pozole Sprouts Stir Fry",
+    "tags": [
+      "japanese",
+      "stirfry",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

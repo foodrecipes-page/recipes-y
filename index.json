@@ -14577,15 +14577,16 @@
   },
   {
     "slug": "ywhippy-funky-jalapeno-springy-wrap",
-    "title": "Ywhippy Funky Jalapeno Springy Wrap",
+    "title": "Spicy Jalapeno Wrap",
     "tags": [
-      "funky",
-      "post-workout",
-      "raw-friendly",
-      "springy"
+      "wrap",
+      "mexican",
+      "vegetarian",
+      "lunch",
+      "easy"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

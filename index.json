@@ -8954,18 +8954,14 @@
   },
   {
     "slug": "yellowed-saudi-arabian-cheese-flatbread",
-    "title": "Yellowed Saudi Arabian Cheese Flatbread",
+    "title": "Saudi Arabian Cheese Flatbread",
     "tags": [
-      "cardamom",
-      "cheese-pull",
+      "cheese",
       "flatbread",
-      "long-fermentation",
-      "middle-eastern",
-      "saudi-arabian",
-      "vegetarian"
+      "saudi arabian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 10,
     "shard": "y"
   },
   {
@@ -9507,16 +9503,15 @@
   },
   {
     "slug": "yellowed-velvety-malaysian-beef-curry",
-    "title": "Yellowed Velvety Malaysian Beef Curry",
+    "title": "Yellow Beef Curry",
     "tags": [
-      "beef-recipes",
-      "curry-dishes",
-      "indulgent-meals",
-      "malaysian-cuisine",
-      "ovo-vegetarian"
+      "beef",
+      "curry",
+      "malaysian",
+      "lunch"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

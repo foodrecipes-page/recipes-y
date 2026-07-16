@@ -15132,5 +15132,18 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-fluffy-italian-wood-ear-mushrooms-panforte--german",
+    "title": "German Panforte Bread",
+    "tags": [
+      "german",
+      "italian",
+      "breakfast",
+      "bread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

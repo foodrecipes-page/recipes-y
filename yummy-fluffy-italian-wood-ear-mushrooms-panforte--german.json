@@ -1,0 +1,73 @@
+{
+  "slug": "yummy-fluffy-italian-wood-ear-mushrooms-panforte--german",
+  "title": "German Panforte Bread",
+  "description": "A traditional German-style panforte bread filled with the richness of Italian panforte, perfect for breakfast or snack.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Italian panforte",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yummy bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "fluffy butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "wood-smoked salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ear of garlic",
+      "amount": "1",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Slice the yummy bread into 1-inch thick slices.",
+    "In a pan, melt the fluffy butter over medium heat.",
+    "Add the sliced mushrooms and cook until they're soft and fragrant.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Italian panforte and cook for 2-3 minutes, until fragrant.",
+    "Assemble the panforte bread by spreading the mushroom mixture on top of the bread slices.",
+    "Season with wood-smoked salt to taste.",
+    "Bake the panforte bread in the preheated oven for 15-20 minutes, until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "italian",
+    "breakfast",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-fluffy-italian-wood-ear-mushrooms-panforte--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:22:15.244Z"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "yellow-gooey-american-vialone-nano-grill",
+  "title": "Grilled Yellow Pepper and Nano Corn Salad",
+  "description": "A colorful and flavorful summer salad featuring grilled yellow peppers and nano corn, perfect for a light and refreshing meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "nano corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "for grilling peppers"
+    },
+    {
+      "name": "vialone rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "goey cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush yellow peppers with oil and grill for 5-7 minutes per side, until charred.",
+    "Let peppers cool, then cut into strips.",
+    "In a large bowl, combine grilled peppers, cooked vialone rice, and nano corn.",
+    "Stir in gooey cheese until well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve warm or at room temperature.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "summer-salad",
+    "grilled-peppers",
+    "corn-salad"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-gooey-american-vialone-nano-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:52:58.697Z"
+}

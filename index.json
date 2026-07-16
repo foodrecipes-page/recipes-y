@@ -15067,5 +15067,31 @@
     "cuisine": "french",
     "totalTimeMin": 135,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-dutch-cheese-stir-fry--mexican",
+    "title": "Mexican Cheese Fritters",
+    "tags": [
+      "mexican",
+      "snack",
+      "cheese",
+      "fritters"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-delicate-russian-almond-stir-fry--italian",
+    "title": "Italian Fried Delicate Fish Bites",
+    "tags": [
+      "italian",
+      "fish",
+      "appetizer",
+      "finger-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "y"
   }
 ]

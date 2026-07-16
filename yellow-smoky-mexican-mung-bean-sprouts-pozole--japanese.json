@@ -1,0 +1,82 @@
+{
+  "slug": "yellow-smoky-mexican-mung-bean-sprouts-pozole--japanese",
+  "title": "Spicy Pozole Sprouts Stir Fry",
+  "description": "A Japanese-inspired stir fry featuring smoky pozole, yellow sprouts, and spicy mung bean",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoky pozole",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yellow sprouts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mung bean",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add mung bean and stir-fry until slightly browned.",
+    "Add yellow sprouts, stir-fry for 2 minutes.",
+    "Add bean sprouts, stir-fry for 2 minutes.",
+    "Add smoky pozole and stir-fry until combined.",
+    "Add soy sauce, rice vinegar, and sugar. Stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "stirfry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-mexican-mung-bean-sprouts-pozole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:47:41.258Z"
+}

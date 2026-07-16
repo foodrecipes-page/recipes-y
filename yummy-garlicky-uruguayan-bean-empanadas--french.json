@@ -1,0 +1,73 @@
+{
+  "slug": "yummy-garlicky-uruguayan-bean-empanadas--french",
+  "title": "Uruguayan Bean Empanadas",
+  "description": "A twist on traditional French empanadas, these Uruguayan-inspired pastries are filled with a flavorful bean and garlicky mixture.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan bean mixture",
+      "amount": "1 cup (150g)",
+      "notes": "see notes"
+    },
+    {
+      "name": "Yummy pastry dough",
+      "amount": "1 package (2 sheets)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Garlicky butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": "as needed for dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pastry dough to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together bean mixture, garlicky butter, salt, and pepper.",
+    "Place a tablespoon of bean mixture in the center of each dough circle.",
+    "Brush edges of dough with water and fold in half to form a triangle.",
+    "Press edges together to seal.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "uruguayan",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-garlicky-uruguayan-bean-empanadas--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:26:06.845Z"
+}

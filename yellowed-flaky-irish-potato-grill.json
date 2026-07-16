@@ -1,0 +1,67 @@
+{
+  "slug": "yellowed-flaky-irish-potato-grill",
+  "title": "Crunchy Irish Potato Cakes with Smoked Salt",
+  "description": "Irish potato cakes with a crunchy exterior, perfect for a quick snack or side dish.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "yellowed onion",
+      "amount": "1/2 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "grill",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "smoked salt recommended"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and onion, and squeeze out excess moisture.",
+    "In a bowl, combine the grated potatoes, onion, grill, and flaky sea salt.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the potato mixture into the skillet.",
+    "Flatten the mixture slightly and cook for 3-4 minutes or until golden brown.",
+    "Flip the cakes and cook for an additional 3-4 minutes or until crispy and golden.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "potato",
+    "snack",
+    "fried",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-irish-potato-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:58:39.520Z"
+}

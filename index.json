@@ -3650,17 +3650,14 @@
   },
   {
     "slug": "yellow-gooey-american-vialone-nano-grill",
-    "title": "Yellow Gooey American Vialone Nano Grill",
+    "title": "Grilled Yellow Pepper and Nano Corn Salad",
     "tags": [
-      "american-cuisine",
-      "dairy-free",
-      "grilled-rice",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "summer-salad",
+      "grilled-peppers",
+      "corn-salad"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -7908,17 +7905,16 @@
   },
   {
     "slug": "yellowed-flaky-irish-potato-grill",
-    "title": "Yellowed Flaky Irish Potato Grill",
+    "title": "Crunchy Irish Potato Cakes with Smoked Salt",
     "tags": [
-      "flaky-texture",
-      "irish-cuisine",
-      "midnight-craving",
-      "nut-free",
-      "raclette-grill",
-      "umami-rich"
+      "irish",
+      "potato",
+      "snack",
+      "fried",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -11224,16 +11220,15 @@
   },
   {
     "slug": "yummy-british-chinese-leaf-wrap",
-    "title": "Yummy British Chinese Leaf Wrap",
+    "title": "Delicious Chinese-Style Wrap",
     "tags": [
-      "healthier-meal",
-      "kale-wrap",
-      "kosher-friendly",
-      "northern-irish",
-      "quick-fix"
+      "quick",
+      "easy",
+      "snack",
+      "wrap"
     ],
-    "cuisine": "British-Chinese",
-    "totalTimeMin": 15,
+    "cuisine": "british chinese",
+    "totalTimeMin": 10,
     "shard": "y"
   },
   {

@@ -1,0 +1,78 @@
+{
+  "slug": "yellow-delicate-russian-almond-stir-fry--italian",
+  "title": "Italian Fried Delicate Fish Bites",
+  "description": "Crispy fried bites of delicate fish served with a side of tangy marinara sauce. A classic Italian appetizer, perfect for any occasion.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Delicate fish (such as cod or sole)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Yellow cornmeal",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Russo-Italian seasoning",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Stir-fry oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Marinara sauce",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Cut the delicate fish into bite-sized pieces.",
+    "2. In a shallow dish, mix together the almond flour, yellow cornmeal, and Russo-Italian seasoning.",
+    "3. Dip each fish piece into the flour mixture, coating both sides evenly.",
+    "4. Heat the stir-fry oil in a large skillet over medium-high heat.",
+    "5. Fry the fish pieces until golden brown and cooked through, about 3-4 minutes per side.",
+    "6. Serve the fried fish bites hot with a side of marinara sauce for dipping.",
+    "7. Garnish with chopped parsley or basil for a touch of freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "appetizer",
+    "finger-food"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-delicate-russian-almond-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:11:11.961Z"
+}

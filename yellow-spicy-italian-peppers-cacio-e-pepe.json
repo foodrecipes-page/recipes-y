@@ -1,0 +1,82 @@
+{
+  "slug": "yellow-spicy-italian-peppers-cacio-e-pepe",
+  "title": "Spicy Cacio e Pepe Pasta",
+  "description": "A spicy twist on the classic Italian pasta dish. This recipe combines the creaminess of cacio e pepe with the heat of yellow peppers.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz",
+      "notes": null
+    },
+    {
+      "name": "Yellow Peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Cacio e Pepe",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook spaghetti according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat. Add garlic and cook for 1 minute.",
+    "Add diced yellow peppers to the skillet and cook for an additional 2-3 minutes.",
+    "Stir in cacio e pepe and cook for 1-2 minutes, until heated through.",
+    "Drain cooked spaghetti and add to the skillet. Toss with cacio e pepe mixture until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, topped with grated parmesan cheese."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-italian-peppers-cacio-e-pepe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:35:49.335Z"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "yellow-flaky-american-corn-flatbread--chinese",
+  "title": "Crispy Corn Flatbread",
+  "description": "A simple Chinese-inspired flatbread recipe with a crispy crust and a sweet corn filling.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 piece",
+      "notes": "preferably american flatbread"
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "fresh corn kernels"
+    },
+    {
+      "name": "yellow corn oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing flatbread"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cut the flatbread into desired shapes.",
+    "3. Brush the yellow corn oil on both sides of the flatbread.",
+    "4. Sprinkle corn kernels on one side of the flatbread.",
+    "5. Bake in the oven for 10-12 minutes or until crispy and golden brown.",
+    "6. Remove from oven and let cool for a few minutes.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-flaky-american-corn-flatbread--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:14:53.683Z"
+}

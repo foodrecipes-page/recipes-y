@@ -1,0 +1,82 @@
+{
+  "slug": "yellowish-brown-argentinian-beef-stew--thai",
+  "title": "Thai Beef Stew",
+  "description": "A flavorful and spicy beef stew with a rich, savory sauce, inspired by the bold flavors of Thai cuisine.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Argentinian beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Yellowish onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": "chopped mixed vegetables"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion to the pot and cook, stirring occasionally, until it begins to soften, about 3 minutes.",
+    "Add the curry paste to the pot and cook, stirring constantly, for 1 minute.",
+    "Add the broth, fish sauce, and brown sugar to the pot and bring to a boil.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 1.5 hours.",
+    "Stir in the stew and cook for an additional 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "thai",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-brown-argentinian-beef-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:09:05.735Z"
+}

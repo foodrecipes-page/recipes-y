@@ -1,0 +1,86 @@
+{
+  "slug": "yellowed-mellow-polish-fish-pasta",
+  "title": "Polish-Style Fish Fettuccine",
+  "description": "A hearty and flavorful dish that combines the freshness of fish with the richness of polish flavors.",
+  "cuisine": "Polish",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fish fillets",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fettuccine pasta",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Yellowed onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mellow garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine pasta according to package instructions.",
+    "While the pasta cooks, heat a large skillet over medium-high heat and add the polish sausage.",
+    "Cook the sausage for 2-3 minutes per side, or until browned and cooked through.",
+    "Add the fish fillets to the skillet and cook for an additional 2-3 minutes per side, or until cooked through.",
+    "Remove the sausage and fish from the skillet and set aside.",
+    "Add the yellowed onion and mellow garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the chopped parsley and cook for 1 minute.",
+    "Add the cooked fettuccine pasta to the skillet and toss with the onion and parsley mixture.",
+    "Return the sausage and fish to the skillet and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "pasta",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-mellow-polish-fish-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:20:19.672Z"
+}

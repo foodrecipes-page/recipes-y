@@ -1,0 +1,81 @@
+{
+  "slug": "yellowed-crispy-spanish-salmon-skewers",
+  "title": "Crunchy Spanish Salmon Skewers",
+  "description": "A simple and flavorful dish featuring salmon skewers with a crispy Spanish twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "Fresh or thawed"
+    },
+    {
+      "name": "Yellowed Spanish olive oil",
+      "amount": "1/4 cup",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Spanish skewers",
+      "amount": "1",
+      "notes": "For serving"
+    },
+    {
+      "name": "Crispy garlic",
+      "amount": "1/4 cup",
+      "notes": "Minced and roasted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 loaf",
+      "notes": "Optional for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, whisk together olive oil, salt, and pepper.",
+    "Add the salmon fillets and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the marinated salmon onto the Spanish skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the salmon reaches an internal temperature of 145°F (63°C).",
+    "Brush the skewers with roasted garlic and season with salt and pepper to taste.",
+    "Serve with lemon wedges and crusty bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "spanish",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-spanish-salmon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:21:41.208Z"
+}

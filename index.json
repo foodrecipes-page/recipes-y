@@ -15220,5 +15220,18 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-flaky-irish-potato-grill--german",
+    "title": "Irish Potato Grilled Schnitzel",
+    "tags": [
+      "german",
+      "grilled",
+      "schnitzel",
+      "irish-potato"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 23,
+    "shard": "y"
   }
 ]

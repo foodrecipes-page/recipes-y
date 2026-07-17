@@ -1,0 +1,81 @@
+{
+  "slug": "yellowed-crispy-mediterranean-sea-bass-skewers--indian",
+  "title": "Spiced Sea Bass Skewers",
+  "description": "A simple and flavorful Indian-inspired dish featuring marinated sea bass on skewers, grilled to perfection.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Mediterranean Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crushed Cumin Seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Crushed Coriander Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Wooden Skewers",
+      "amount": "10"
+    }
+  ],
+  "instructions": [
+    "Cut the sea bass into 1-inch cubes and place in a large bowl.",
+    "In a small bowl, mix together cumin seeds, coriander seeds, ginger paste, lime juice, salt, and black pepper.",
+    "Add the spice mixture to the sea bass and mix until the fish is evenly coated.",
+    "Thread the marinated sea bass onto the wooden skewers, leaving a small space between each piece.",
+    "Brush the skewers with Mediterranean olive oil and season with salt and black pepper.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the sea bass is cooked through and slightly charred.",
+    "Serve the skewers hot, garnished with chopped fresh cilantro.",
+    "Serve with your choice of sides, such as basmati rice or naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "seafood",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-mediterranean-sea-bass-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:03:24.468Z"
+}

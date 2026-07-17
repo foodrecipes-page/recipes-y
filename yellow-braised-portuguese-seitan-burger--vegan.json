@@ -1,0 +1,73 @@
+{
+  "slug": "yellow-braised-portuguese-seitan-burger--vegan",
+  "title": "Vegan Seitan Burgers",
+  "description": "A flavorful and tender seitan burger alternative for a vegan diet. Serve with your favorite toppings!",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 package (12 oz)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium, finely chopped",
+      "notes": null
+    },
+    {
+      "name": "portuguese port",
+      "amount": "1/4 cup",
+      "notes": "or other vegan red wine"
+    },
+    {
+      "name": "braised mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "burger buns (gluten-free)",
+      "amount": "4",
+      "notes": "optional, for serving"
+    },
+    {
+      "name": "vegan mayo",
+      "amount": "4 tbsp",
+      "notes": "optional, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill or grill pan to medium heat.",
+    "Cut the seitan into 4 equal patties.",
+    "In a large skillet, heat 2 tbsp of oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the portuguese port and stir to combine.",
+    "Add the seitan patties and cook for 3-4 minutes per side, or until golden brown.",
+    "Serve the seitan burgers on gluten-free buns with vegan mayo, if desired.",
+    "Optional: grill the buns for a few minutes to toast them."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "seitan",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-braised-portuguese-seitan-burger--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:05:59.354Z"
+}

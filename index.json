@@ -15317,5 +15317,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 15,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-fluffy-russian-grape-tomatoes-pilaf--gluten-free",
+    "title": "Grape Pilaf Casserole",
+    "tags": [
+      "gluten-free",
+      "russian-food",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

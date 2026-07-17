@@ -1,0 +1,80 @@
+{
+  "slug": "yellow-flaky-american-corn-flatbread--japanese",
+  "title": "Japanese Corn Tempura",
+  "description": "A crispy Japanese tempura dish made with corn and served with a side of flatbread.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ice-cold soda water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour and ice-cold soda water to make a batter.",
+    "2. Add salt, sugar, mirin, and sake to the batter and whisk until combined.",
+    "3. Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "4. Dip corn kernels into the batter, making sure they are fully coated.",
+    "5. Carefully place battered corn kernels into the hot oil and fry until golden brown.",
+    "6. Remove fried corn from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "7. Serve hot with flatbread on the side.",
+    "8. Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-corn-recipe",
+    "vegan-japanese",
+    "easy-japanese-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-flaky-american-corn-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:17:08.478Z"
+}

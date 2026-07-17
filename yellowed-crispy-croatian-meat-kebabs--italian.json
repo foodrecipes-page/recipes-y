@@ -1,0 +1,84 @@
+{
+  "slug": "yellowed-crispy-croatian-meat-kebabs--italian",
+  "title": "Croatian Meat Kebabs with Italian Flair",
+  "description": "A unique twist on traditional kebabs, combining the flavors of Italy with the heartiness of Croatian meat. These tender and juicy kebabs are perfect for a family dinner or a casual gathering with friends.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound Croatian meat (such as pork or beef)",
+      "amount": "",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "",
+      "notes": "For serving"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": "For serving"
+    },
+    {
+      "name": "1 cup mixed bell peppers",
+      "amount": "",
+      "notes": "For serving"
+    },
+    {
+      "name": "1 cup mushrooms, sliced",
+      "amount": "",
+      "notes": "For serving"
+    },
+    {
+      "name": "1 tablespoon dried oregano",
+      "amount": "",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "1 teaspoon dried basil",
+      "amount": "",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Thread the Croatian meat cubes, onion, garlic, bell peppers, and mushrooms onto skewers, leaving a little space between each piece.",
+    "In a small bowl, whisk together olive oil, oregano, and basil.",
+    "Brush the kebabs with the olive oil mixture, making sure each piece is coated.",
+    "Season with salt and pepper to taste.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until cooked through.",
+    "Serve hot, garnished with additional oregano and basil if desired.",
+    "Optional: serve with a side of crusty bread or a green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "italian",
+    "croatian",
+    "meat",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-croatian-meat-kebabs--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:04:17.645Z"
+}

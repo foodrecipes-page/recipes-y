@@ -1,0 +1,91 @@
+{
+  "slug": "yellowish-indulgent-algerian-boudin-blanc-tagine--french",
+  "title": "Pan-Seared Boudin with Algerian Tagine Sauce",
+  "description": "A rich and flavorful dish combining the best of French cuisine with the spices of Algeria. Pan-seared boudin is served with a creamy tagine sauce.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boudin Blanc",
+      "amount": "4 links",
+      "notes": "Pork and veal boudin"
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "2 tsp",
+      "notes": "Algerian spice blend"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grapes",
+      "amount": "1/4 cup",
+      "notes": "Algerian white grapes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Rinse the boudin links and pat them dry with paper towels.",
+    "3. In a large skillet, melt 1 tablespoon of butter over medium-high heat. Sear the boudin for 2-3 minutes on each side, until golden brown.",
+    "4. Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until cooked through.",
+    "5. While the boudin is cooking, melt the remaining 1 tablespoon of butter in a large saucepan over medium heat.",
+    "6. Add the diced onion and cook until softened, about 5 minutes.",
+    "7. Stir in the tagine spice mix and cook for 1 minute.",
+    "8. Add the heavy cream and grapes to the saucepan. Bring to a simmer and cook until the sauce has thickened, about 5 minutes.",
+    "9. Season the sauce with salt and black pepper to taste.",
+    "10. Serve the pan-seared boudin with the Algerian tagine sauce spooned over the top. Garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "meat",
+    "boudin",
+    "algerian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-indulgent-algerian-boudin-blanc-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:23:55.204Z"
+}

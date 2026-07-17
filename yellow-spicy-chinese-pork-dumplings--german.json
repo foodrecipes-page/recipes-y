@@ -1,0 +1,82 @@
+{
+  "slug": "yellow-spicy-chinese-pork-dumplings--german",
+  "title": "German-Style Pan-Fried Pork Dumplings",
+  "description": "A twist on traditional German cuisine, these pan-fried pork dumplings are filled with a spiced pork mixture and served with a side of sweet chili sauce.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Dumplings",
+      "amount": "20",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Spicy Chinese Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Green Onion",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "2. Add the yellow onion and cook until translucent, about 3-4 minutes.",
+    "3. Add the ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "4. Add the spicy Chinese sauce and stir to combine.",
+    "5. Season with salt and black pepper to taste.",
+    "6. Meanwhile, cook the dumplings according to package instructions.",
+    "7. Add the cooked dumplings to the pan and cook for an additional 2-3 minutes, until crispy on the bottom.",
+    "8. Serve hot, garnished with chopped green onion if desired.",
+    "9. Serve with a side of sweet chili sauce for dipping.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-chinese-pork-dumplings--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:41:24.484Z"
+}

@@ -267,16 +267,15 @@
   },
   {
     "slug": "yeasty-chewy-irish-apples-crumble",
-    "title": "Yeasty Chewy Irish Apple Crumble",
+    "title": "Irish Apple Crumble",
     "tags": [
-      "dessert",
-      "easy-to-make",
       "irish",
-      "vegetarian",
-      "weeknight"
+      "apple-crumble",
+      "dessert",
+      "baking"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -7472,17 +7471,14 @@
   },
   {
     "slug": "yellowed-crispy-spanish-salmon-skewers",
-    "title": "Yellowed Crispy Spanish Salmon Skewers",
+    "title": "Crunchy Spanish Salmon Skewers",
     "tags": [
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "weeknight",
-      "whole30"
+      "salmon",
+      "spanish",
+      "grilled"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

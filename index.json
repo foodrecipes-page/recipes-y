@@ -15408,5 +15408,43 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-crispy-mediterranean-sea-bass-skewers--indian",
+    "title": "Spiced Sea Bass Skewers",
+    "tags": [
+      "indian",
+      "seafood",
+      "skewers"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 23,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowish-dense-croatian-haggis-stew--italian",
+    "title": "Italian Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "sausage"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowish-indulgent-algerian-boudin-blanc-tagine--french",
+    "title": "Pan-Seared Boudin with Algerian Tagine Sauce",
+    "tags": [
+      "french",
+      "meat",
+      "boudin",
+      "algerian",
+      "tagine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

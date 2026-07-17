@@ -1,0 +1,99 @@
+{
+  "slug": "yellow-spicy-dutch-natto-stew--italian",
+  "title": "Spicy Natto Stew",
+  "description": "A spicy twist on traditional Italian stew, featuring natto and yellow peppers.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow pepper",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "natto",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add garlic and cook until fragrant.",
+    "Add yellow pepper and cook until tender.",
+    "Add natto and cook for 2 minutes.",
+    "Add stew and cook for 5 minutes.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add red wine and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Season with salt, black pepper, and oregano.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-dutch-natto-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:16:51.043Z"
+}

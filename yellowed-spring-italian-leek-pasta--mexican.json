@@ -1,0 +1,70 @@
+{
+  "slug": "yellowed-spring-italian-leek-pasta--mexican",
+  "title": "Mexican Spring Pasta Delight",
+  "description": "A vibrant and zesty Mexican-inspired pasta dish showcasing the sweetness of spring and the tanginess of Italian flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spring pasta",
+      "amount": "8 oz",
+      "notes": "such as fettuccine or angel hair"
+    },
+    {
+      "name": "leek",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "italian",
+      "amount": "1 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "yellowed",
+      "amount": "1/2 cup",
+      "notes": "chopped yellow onion"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 tsp",
+      "notes": "cumin powder"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package directions until al dente.",
+    "In a large skillet, heat the Italian olive oil over medium heat.",
+    "Add the yellowed onion and cook for 3-4 minutes until translucent.",
+    "Add the sliced leek and cook for an additional 2-3 minutes until tender.",
+    "Stir in the Mexican cumin powder and cook for 1 minute.",
+    "Drain the cooked pasta and add it to the skillet with the leek mixture.",
+    "Toss everything together until well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "pasta",
+    "spring",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-spring-italian-leek-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:59:11.109Z"
+}

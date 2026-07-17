@@ -15233,5 +15233,44 @@
     "cuisine": "german",
     "totalTimeMin": 23,
     "shard": "y"
+  },
+  {
+    "slug": "yellowish-brown-argentinian-beef-stew--thai",
+    "title": "Thai Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "thai",
+      "curry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 105,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crunchy-venezuelan-peanut-empanadas--indian",
+    "title": "Venezuelan-Style Empanada Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "empanada",
+      "venezuelan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yogurt-caprese--japanese",
+    "title": "Japanese Yogurt Caprese",
+    "tags": [
+      "japanese",
+      "caprese",
+      "yogurt",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "y"
   }
 ]

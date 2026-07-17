@@ -1,0 +1,80 @@
+{
+  "slug": "yummy-adventurous-french-blackberries-savory-tarte-tatin-galette--vegan",
+  "title": "Vegan Blackberry Galette",
+  "description": "A delicious and easy-to-make vegan dessert featuring a flaky crust and a sweet blackberry filling.",
+  "cuisine": "french",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "blackberries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tbsp",
+      "notes": "mixed with 3 tbsp water to replace egg"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine almond flour, coconut oil, maple syrup, and vanilla extract.",
+    "Mix in flaxseed meal mixture and nutmeg.",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Transfer dough to a parchment-lined baking sheet.",
+    "Arrange blackberries on one half of the dough, leaving a 1-inch border around the edges.",
+    "Fold the other half of the dough over the blackberries, pressing edges to seal.",
+    "Bake for 35-40 minutes or until crust is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegan",
+    "dessert",
+    "blackberries",
+    "galette"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-adventurous-french-blackberries-savory-tarte-tatin-galette--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:50:43.790Z"
+}

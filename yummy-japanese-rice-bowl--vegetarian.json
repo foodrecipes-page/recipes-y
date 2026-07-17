@@ -1,0 +1,79 @@
+{
+  "slug": "yummy-japanese-rice-bowl--vegetarian",
+  "title": "Vegetarian Japanese-Style Rice Bowl",
+  "description": "A simple and flavorful vegetarian Japanese-inspired rice bowl dish. This recipe is perfect for a quick and easy lunch or dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": "short-grain Japanese rice"
+    },
+    {
+      "name": "Yummy sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade soy sauce"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the Japanese rice according to the package instructions. Typically, it's a 1:1 ratio of water to rice.",
+    "In a separate pan, heat 1 tablespoon of yummy sauce over medium heat.",
+    "Add the sliced shiitake mushrooms and cook until they're tender, about 3-4 minutes.",
+    "Add the sliced carrots and bell peppers to the pan and cook for another 3-4 minutes.",
+    "Stir in the remaining 1 tablespoon of yummy sauce and cook for 1 minute.",
+    "To assemble the bowls, place a scoop of cooked Japanese rice in the bottom of a bowl.",
+    "Add the sautéed vegetables on top of the rice.",
+    "Sprinkle chopped green onions and sesame seeds over the top, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "japanese",
+    "rice",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-japanese-rice-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:58:43.828Z"
+}

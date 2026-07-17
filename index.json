@@ -15305,5 +15305,17 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-flaky-american-corn-flatbread--chinese",
+    "title": "Crispy Corn Flatbread",
+    "tags": [
+      "chinese",
+      "snack",
+      "corn"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
+    "shard": "y"
   }
 ]

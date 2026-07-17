@@ -1,0 +1,74 @@
+{
+  "slug": "yellow-spicy-syrian-salmon-pilaf--french",
+  "title": "Salmon en Papillote with Syrian Pilaf",
+  "description": "A French-inspired dish featuring salmon baked in parchment paper with a side of flavorful Syrian pilaf. This recipe showcases the delicate flavors of the Mediterranean.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Syrian pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yellow bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the salmon fillets with salt and pepper.",
+    "Place a salmon fillet in the center of a large piece of parchment paper.",
+    "Add a tablespoon of olive oil, a tablespoon of lemon juice, and a sprinkle of thyme on top of the salmon.",
+    "Fold the parchment paper to form a packet, making sure the edges are sealed.",
+    "Repeat with the remaining salmon fillets.",
+    "Bake the salmon packets in the preheated oven for 12-15 minutes, or until cooked through.",
+    "While the salmon is baking, prepare the Syrian pilaf according to package instructions.",
+    "To serve, place a salmon packet on a plate and serve with a side of Syrian pilaf and roasted yellow bell peppers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "salmon",
+    "pilaf",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-syrian-salmon-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:02:23.641Z"
+}

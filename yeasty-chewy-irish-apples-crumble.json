@@ -1,0 +1,82 @@
+{
+  "slug": "yeasty-chewy-irish-apples-crumble",
+  "title": "Irish Apple Crumble",
+  "description": "A traditional Irish dessert featuring tender apples topped with a crumbly oat mixture.",
+  "cuisine": "Irish",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "6-8 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "Irish Yeast Biscuits (or substitute with regular biscuits)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup, packed",
+      "notes": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Cold Butter",
+      "amount": "1/4 cup",
+      "notes": "crumbs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel, core, and slice the apples, and place them in a 9x9-inch baking dish.",
+    "In a separate bowl, mix together the granulated sugar, brown sugar, and cinnamon. Sprinkle the mixture evenly over the apples.",
+    "To make the crumble topping, combine the crumble, flour, and cold butter in a bowl. Rub the butter into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Spread the crumble mixture evenly over the apples.",
+    "Bake the apple crumble for 40-45 minutes, or until the topping is golden brown and the apples are tender.",
+    "Serve warm, topped with Irish yeast biscuits (or substitute with regular biscuits)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "apple-crumble",
+    "dessert",
+    "baking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-chewy-irish-apples-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:22:37.363Z"
+}

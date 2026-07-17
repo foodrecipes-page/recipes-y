@@ -15330,5 +15330,44 @@
     "cuisine": "russian",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellowish-gooey-japanese-rice-ochazuke--thai",
+    "title": "Japanese Ochazuke",
+    "tags": [
+      "breakfast",
+      "japanese",
+      "ochazuke",
+      "rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crispy-croatian-meat-kebabs--italian",
+    "title": "Croatian Meat Kebabs with Italian Flair",
+    "tags": [
+      "kebabs",
+      "italian",
+      "croatian",
+      "meat",
+      "grilled"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-flaky-american-corn-flatbread--japanese",
+    "title": "Japanese Corn Tempura",
+    "tags": [
+      "japanese-corn-recipe",
+      "vegan-japanese",
+      "easy-japanese-recipe"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

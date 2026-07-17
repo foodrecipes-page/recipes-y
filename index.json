@@ -15272,5 +15272,42 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-chinese-pork-dumplings--german",
+    "title": "German-Style Pan-Fried Pork Dumplings",
+    "tags": [
+      "german",
+      "pork",
+      "dumplings"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-braised-portuguese-seitan-burger--vegan",
+    "title": "Vegan Seitan Burgers",
+    "tags": [
+      "vegan",
+      "seitan",
+      "portuguese"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-molten-portuguese-dish-stir-fry--german",
+    "title": "German Beer Pretzels",
+    "tags": [
+      "german",
+      "pretzels",
+      "beer",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

@@ -1,0 +1,90 @@
+{
+  "slug": "yellowed-crunchy-venezuelan-peanut-empanadas--indian",
+  "title": "Venezuelan-Style Empanada Curry",
+  "description": "A unique fusion of Venezuelan empanadas and Indian spices creates a flavorful and aromatic curry. Crunchy empanada crumbs add texture to this exciting dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "empanadas",
+      "amount": "6",
+      "notes": "pre-fried and crushed"
+    },
+    {
+      "name": "yellowed onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add chopped onions and cook until browned.",
+    "Add crushed empanada crumbs and cook for 2 minutes.",
+    "Add garam masala, cumin, and curry powder. Cook for 1 minute.",
+    "Add peanuts and cook for 2 minutes.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat and let curry simmer for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "empanada",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crunchy-venezuelan-peanut-empanadas--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:35:01.360Z"
+}

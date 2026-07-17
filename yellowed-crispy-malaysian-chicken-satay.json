@@ -1,0 +1,97 @@
+{
+  "slug": "yellowed-crispy-malaysian-chicken-satay",
+  "title": "Crispy Malaysian Chicken Satay",
+  "description": "A classic Southeast Asian dish featuring marinated chicken skewers grilled to perfection. Serve with peanut sauce for a delicious and flavorful meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "100ml",
+      "notes": "full-fat for best flavor"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Galangal",
+      "amount": "2 inches",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Kecap manis",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Coriander",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chicken, coconut milk, lemongrass, galangal, coriander, and salt. Mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat. Thread the marinated chicken onto skewers.",
+    "Brush the peanut oil onto the chicken and grill for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, mix the fish sauce, brown sugar, and kecap manis in a small bowl. Brush the mixture onto the chicken during the last 2 minutes of grilling.",
+    "Serve the chicken satay hot with peanut sauce, satay sauce, or your favorite sauce. Garnish with chopped peanuts and fresh cilantro if desired.",
+    "Note: Traditionally, chicken satay is grilled over an open flame. If you have access to a charcoal grill or a gas grill with a high heat setting, feel free to use it for a more authentic experience.",
+    "To make peanut sauce, blend 1/2 cup peanuts, 1/4 cup coconut milk, 2 cloves garlic, and 1 tablespoon fish sauce in a blender until smooth. Taste and adjust the seasoning as needed.",
+    "To make satay sauce, blend 1/2 cup coconut milk, 1/4 cup fish sauce, 2 cloves garlic, and 1 tablespoon brown sugar in a blender until smooth. Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "satay",
+    "grilled",
+    "peanut-sauce",
+    "satay-sauce",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:42:12.676Z"
+}

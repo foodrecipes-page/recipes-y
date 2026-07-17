@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-crunchy-thai-shrimp-tom-yum",
+  "title": "Thai Shrimp Soup",
+  "description": "A flavorful and spicy Thai-inspired soup made with succulent shrimp and fragrant aromatics.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Yum Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Thai Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Peppers",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Peel and de-vein the shrimp and set aside.",
+    "2. In a large pot, heat 1 tablespoon of oil over medium heat.",
+    "3. Add the crushed peppers and cook for 1 minute.",
+    "4. Add the sliced yellow tomatoes and cook for 2-3 minutes.",
+    "5. Add the yum sauce, fish sauce, and lime juice. Stir to combine.",
+    "6. Add the shrimp and cook until pink and cooked through, about 2-3 minutes.",
+    "7. Stir in the crunchy Thai basil.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "shrimp",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crunchy-thai-shrimp-tom-yum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:38:01.923Z"
+}

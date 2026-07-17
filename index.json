@@ -7390,14 +7390,15 @@
   },
   {
     "slug": "yellowed-crispy-malaysian-chicken-satay",
-    "title": "Yellowed Crispy Malaysian Chicken Satay",
+    "title": "Crispy Malaysian Chicken Satay",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "malaysian-cuisine",
-      "one-pan",
-      "weeknight"
+      "malaysian",
+      "chicken",
+      "satay",
+      "grilled",
+      "peanut-sauce",
+      "satay-sauce",
+      "street-food"
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
@@ -15393,6 +15394,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 140,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-japanese-rice-bowl--vegetarian",
+    "title": "Vegetarian Japanese-Style Rice Bowl",
+    "tags": [
+      "vegetarian",
+      "japanese",
+      "rice",
+      "bowl"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
     "shard": "y"
   }
 ]

@@ -1,0 +1,78 @@
+{
+  "slug": "yellow-kenyan-pumpkin-seeds-tagine--german",
+  "title": "Pumpkin Tagine with Yellow Corn and Kenyan Seeds",
+  "description": "A hearty German-inspired stew made with roasted pumpkin, sweet corn, and nutty Kenyan seeds, all wrapped up in a flavorful tagine.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "2 cups, peeled and cubed"
+    },
+    {
+      "name": "Yellow Corn",
+      "amount": "1 cup, fresh or frozen"
+    },
+    {
+      "name": "Kenyan Seeds",
+      "amount": "1/4 cup, roasted"
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in the bottom of a large Dutch oven or tagine over medium heat.",
+    "2. Add the chopped onion and cook until softened, about 5 minutes.",
+    "3. Add the minced garlic and cook for an additional minute.",
+    "4. Add the cubed pumpkin, corn, roasted Kenyan seeds, tagine spice blend, apple cider vinegar, and vegetable broth. Stir to combine.",
+    "5. Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 25-30 minutes, or until the pumpkin is tender.",
+    "6. Season the stew with salt and pepper to taste.",
+    "7. Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pumpkin",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-kenyan-pumpkin-seeds-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:12:06.508Z"
+}

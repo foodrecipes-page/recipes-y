@@ -1,0 +1,63 @@
+{
+  "slug": "yellowed-flaky-irish-potato-grill--german",
+  "title": "Irish Potato Grilled Schnitzel",
+  "description": "A German-inspired take on the classic schnitzel, using Irish potatoes and grilled to perfection.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "flaky white fish",
+      "amount": "1 pound"
+    },
+    {
+      "name": "yellowed butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "preheated to medium-high heat"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Peel the Irish potatoes and slice them into 1/4 inch thick rounds.",
+    "Season the fish with salt and pepper.",
+    "Dip each piece of fish into the beaten eggs and then coat with the sliced Irish potatoes.",
+    "Place the coated fish onto the preheated grill and cook for 4-5 minutes per side, or until cooked through.",
+    "Serve immediately with a side of yellowed butter and lemon wedges.",
+    "Note: If using a grill pan, cook for 3-4 minutes per side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "grilled",
+    "schnitzel",
+    "irish-potato"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-irish-potato-grill--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:48:19.613Z"
+}

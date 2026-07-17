@@ -1,0 +1,72 @@
+{
+  "slug": "yeasty-yellow-spanish-peppers-crema-catalana--chinese",
+  "title": "Catalana Chicken Stir Fry",
+  "description": "A flavorful Chinese-inspired stir fry made with catalana peppers and chicken, perfect for a quick weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "catalana peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "yeasty soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "yellow onions",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "crema",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced onions and cook until they start to caramelize, about 3-4 minutes.",
+    "Add the sliced catalana peppers and cook for another 2-3 minutes.",
+    "Add the chicken to the wok or skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "In a small bowl, whisk together the soy sauce and crema.",
+    "Pour the soy sauce and crema mixture over the chicken and vegetables, and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "chicken",
+    "stir-fry",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 15,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-yellow-spanish-peppers-crema-catalana--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:37:56.327Z"
+}

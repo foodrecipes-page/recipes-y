@@ -1,0 +1,69 @@
+{
+  "slug": "yellowish-gooey-japanese-rice-ochazuke--thai",
+  "title": "Japanese Ochazuke",
+  "description": "A Japanese-inspired dish, popular in Thailand, where rice is drenched in a savory green tea broth.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ochazuke tea",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Gooey butter",
+      "amount": "2 tablespoons",
+      "notes": "Optional: may be substituted with a similar thickener"
+    },
+    {
+      "name": "Yellowish sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh green onions",
+      "amount": "to taste",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Cook Japanese rice according to package instructions.",
+    "2. In a separate pot, brew Ochazuke tea according to package instructions.",
+    "3. In a large bowl, combine cooked rice and brewed tea.",
+    "4. If using gooey butter, stir it in to thicken the mixture.",
+    "5. Drizzle yellowish sesame oil over the rice and tea mixture.",
+    "6. Season with salt to taste.",
+    "7. Garnish with fresh green onions.",
+    "8. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "ochazuke",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-gooey-japanese-rice-ochazuke--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:40:05.570Z"
+}

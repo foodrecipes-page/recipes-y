@@ -15168,5 +15168,57 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-kenyan-pumpkin-seeds-tagine--german",
+    "title": "Pumpkin Tagine with Yellow Corn and Kenyan Seeds",
+    "tags": [
+      "german",
+      "pumpkin",
+      "tagine",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-dutch-natto-stew--italian",
+    "title": "Spicy Natto Stew",
+    "tags": [
+      "italian",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-smoky-syrian-chicken-legs-roast--chinese",
+    "title": "Smoky Syrian-Style Roast Chicken Legs",
+    "tags": [
+      "chinese",
+      "bbq",
+      "chicken",
+      "roast",
+      "fusion"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-sunny-turkish-corn-pilaf--german",
+    "title": "Sunny German Pilaf Bake",
+    "tags": [
+      "german",
+      "vegetarian",
+      "pilaf",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

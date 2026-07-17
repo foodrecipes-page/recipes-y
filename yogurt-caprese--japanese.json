@@ -1,0 +1,77 @@
+{
+  "slug": "yogurt-caprese--japanese",
+  "title": "Japanese Yogurt Caprese",
+  "description": "A fusion of Japanese and Italian flavors with a refreshing yogurt twist on the classic caprese salad.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "caprese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": " soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green tea leaves",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together soy sauce, honey, and sesame seeds.",
+    "Add green tea leaves to the bowl and let it infuse for 2 minutes.",
+    "Drain the green tea leaves and add the yogurt to the bowl.",
+    "Stir well to combine.",
+    "Cut the caprese into small pieces and add to the yogurt mixture.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "caprese",
+    "yogurt",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-caprese--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:00:08.508Z"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "yummy-midnite-craving-saudi-arabian-lamb-mince-tagine--indian",
+  "title": "Spiced Lamb Tagine",
+  "description": "A hearty and aromatic Indian-inspired tagine made with lamb mince, perfect for a cold evening. This flavorful dish is slow-cooked to perfection, resulting in tender meat and a rich sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g"
+    },
+    {
+      "name": "yummy",
+      "amount": "2 tablespoons",
+      "notes": "use ghee or vegetable oil"
+    },
+    {
+      "name": "midnite",
+      "amount": "1 onion, finely chopped"
+    },
+    {
+      "name": "craving",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "saudi",
+      "amount": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "arabian",
+      "amount": "1 teaspoon ground coriander"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tablespoon tomato paste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of ghee or vegetable oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced lamb and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the cumin, coriander, and salt, and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Transfer the mixture to a slow cooker or Dutch oven.",
+    "Add 250ml of water and stir to combine.",
+    "Cover and cook on low for 2 hours or until the meat is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lamb",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-midnite-craving-saudi-arabian-lamb-mince-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:18:46.690Z"
+}

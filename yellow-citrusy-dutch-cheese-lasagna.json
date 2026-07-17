@@ -1,0 +1,76 @@
+{
+  "slug": "yellow-citrusy-dutch-cheese-lasagna",
+  "title": "Classic Dutch Lasagna",
+  "description": "A twist on the Italian classic with Dutch influences. Layers of cheese and lasagna noodles are baked to perfection.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": null
+    },
+    {
+      "name": "Dutch cheese blend",
+      "amount": "1 cup",
+      "notes": "A mix of Gouda, Edam and Havarti"
+    },
+    {
+      "name": "Yellow onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Citrusy tomato sauce",
+      "amount": "1 cup",
+      "notes": "Made with lemon juice and zest"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, sauté onions and garlic until softened.",
+    "Add citrusy tomato sauce and bring to a simmer.",
+    "In a separate saucepan, melt Dutch cheese blend over low heat.",
+    "In a large baking dish, create a layer of tomato sauce.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the cheese mixture over the noodles.",
+    "Repeat the layers, starting with the noodles, then the sauce, and finally the cheese.",
+    "Top with parsley and bake for 30-40 minutes, or until the cheese is golden brown.",
+    "Let rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "lasagna",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-citrusy-dutch-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:40:23.197Z"
+}

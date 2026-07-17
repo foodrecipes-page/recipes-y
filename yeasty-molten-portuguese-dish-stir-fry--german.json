@@ -1,0 +1,67 @@
+{
+  "slug": "yeasty-molten-portuguese-dish-stir-fry--german",
+  "title": "German Beer Pretzels",
+  "description": "Soft, fluffy German-style pretzels perfect for snacking or as a side dish. Serve warm with a cold beer.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons active dry yeast"
+    },
+    {
+      "name": "molten",
+      "amount": "1/4 cup warm water"
+    },
+    {
+      "name": "portuguese",
+      "amount": "2 cups all-purpose flour"
+    },
+    {
+      "name": "dish",
+      "amount": "1/4 cup unsalted butter, melted"
+    },
+    {
+      "name": "stir",
+      "amount": "1/2 teaspoon salt"
+    },
+    {
+      "name": "fry",
+      "amount": "1 egg, beaten (for egg wash)"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine yeast and warm water. Let sit for 5 minutes until frothy.",
+    "2. Add flour, salt, and melted butter to the bowl. Mix until a dough forms.",
+    "3. Knead the dough on a floured surface for 10 minutes until smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "5. Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "6. Divide the dough into 8 equal pieces. Roll each piece into a long rope.",
+    "7. Twist the rope into a pretzel shape and place on the prepared baking sheet.",
+    "8. Brush the tops with beaten egg for a golden glaze.",
+    "9. Bake for 12-15 minutes, or until golden brown.",
+    "10. Remove from the oven and let cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pretzels",
+    "beer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-molten-portuguese-dish-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:07:02.019Z"
+}

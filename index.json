@@ -2779,16 +2779,14 @@
   },
   {
     "slug": "yellow-crunchy-thai-shrimp-tom-yum",
-    "title": "Yellow Crunchy Thai Shrimp Tom Yum",
+    "title": "Thai Shrimp Soup",
     "tags": [
-      "brunch-ideas",
-      "low-fat",
-      "seafood-lovers",
-      "spicy-food",
-      "thai-cuisine"
+      "thai",
+      "shrimp",
+      "soup"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -15144,6 +15142,33 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-adventurous-french-blackberries-savory-tarte-tatin-galette--vegan",
+    "title": "Vegan Blackberry Galette",
+    "tags": [
+      "french",
+      "vegan",
+      "dessert",
+      "blackberries",
+      "galette"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-spring-italian-leek-pasta--mexican",
+    "title": "Mexican Spring Pasta Delight",
+    "tags": [
+      "mexican",
+      "pasta",
+      "spring",
+      "italian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "y"
   }
 ]

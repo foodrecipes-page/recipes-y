@@ -5585,16 +5585,15 @@
   },
   {
     "slug": "yellow-spicy-italian-peppers-cacio-e-pepe",
-    "title": "Yellow Spicy Italian Peppers Cacio E Pepe",
+    "title": "Spicy Cacio e Pepe Pasta",
     "tags": [
-      "italian-food",
-      "one-pan-meals",
-      "spicy-dishes",
-      "vegetarian-recipes",
-      "weeknight-dinners"
+      "italian",
+      "pasta",
+      "spicy",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -15368,6 +15367,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-syrian-salmon-pilaf--french",
+    "title": "Salmon en Papillote with Syrian Pilaf",
+    "tags": [
+      "french",
+      "salmon",
+      "pilaf",
+      "mediterranean"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-midnite-craving-saudi-arabian-lamb-mince-tagine--indian",
+    "title": "Spiced Lamb Tagine",
+    "tags": [
+      "indian",
+      "lamb",
+      "tagine",
+      "slow-cooked"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 140,
     "shard": "y"
   }
 ]

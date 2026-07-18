@@ -1,0 +1,86 @@
+{
+  "slug": "yellowish-indulgent-algerian-boudin-blanc-tagine--german",
+  "title": "Savory Algerian Boudin Tagine",
+  "description": "A rich and flavorful German-inspired dish featuring Algerian boudin and a yellowish, indulgent tagine.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian boudin",
+      "amount": "1 pound",
+      "notes": "Casings removed"
+    },
+    {
+      "name": "Yellowish tagine",
+      "amount": "2 cups",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Blanc",
+      "amount": "1 cup",
+      "notes": "Sliced potatoes"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add onions and cook until browned, about 5 minutes.",
+    "3. Add garlic and cook for 1 minute.",
+    "4. Add boudin and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "5. Add tagine, potatoes, cumin, paprika, salt, and pepper. Stir to combine.",
+    "6. Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "7. Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "algerian",
+    "boudin"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-indulgent-algerian-boudin-blanc-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:15:32.732Z"
+}

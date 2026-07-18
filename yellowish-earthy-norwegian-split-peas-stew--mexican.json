@@ -1,0 +1,95 @@
+{
+  "slug": "yellowish-earthy-norwegian-split-peas-stew--mexican",
+  "title": "Split Pea and Norwegian Sausage Stew",
+  "description": "A hearty, earthy stew with split peas, Norwegian sausage, and a hint of Mexican flair.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian sausage",
+      "amount": "1 pound",
+      "notes": " sliced"
+    },
+    {
+      "name": "Yellowish peas",
+      "amount": "1 cup",
+      "notes": " dried"
+    },
+    {
+      "name": "Split peas",
+      "amount": "1 cup",
+      "notes": " dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": " chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": " minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": " ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": " ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": " to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": " to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the sliced Norwegian sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin, chili powder, salt, and pepper. Stir to combine.",
+    "Add the dried yellowish peas and split peas. Stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peas",
+    "sausage",
+    "stew",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-earthy-norwegian-split-peas-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:39:52.782Z"
+}

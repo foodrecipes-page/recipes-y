@@ -14602,14 +14602,14 @@
   },
   {
     "slug": "yzesty-irish-serrano-ham-pasta",
-    "title": "Yzesty Irish Serrano Ham Pasta",
+    "title": "Irish Pasta Bake",
     "tags": [
-      "plant-based-friendly",
-      "post-workout",
-      "salted"
+      "irish-pasta-bake",
+      "serrano-ham",
+      "pasta-bake"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -15492,6 +15492,19 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowish-earthy-norwegian-split-peas-stew--mexican",
+    "title": "Split Pea and Norwegian Sausage Stew",
+    "tags": [
+      "peas",
+      "sausage",
+      "stew",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "y"
   }
 ]

@@ -1,0 +1,70 @@
+{
+  "slug": "yummy-adventurous-french-blackberries-savory-tarte-tatin-galette--vegetarian",
+  "title": "Warm Blackberry Tarte Tatin",
+  "description": "A twist on the classic French dessert, this warm blackberry tarte tatin is perfect for a cold evening. The combination of caramelized blackberries and flaky pastry is sure to impress.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 sheet puff pastry",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup blackberries",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp unsalted butter",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry and place in a 9-inch tart pan.",
+    "In a bowl, mix together blackberries, sugar, and vanilla extract.",
+    "Arrange the blackberry mixture in the center of the pastry, leaving a 1-inch border.",
+    "Dot the top of the blackberries with butter.",
+    "Fold the edges of the pastry up over the blackberries, pressing gently to seal.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown and the blackberries are tender.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Invert onto a plate and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "blackberry",
+    "tarte",
+    "tatin",
+    "galette"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-adventurous-french-blackberries-savory-tarte-tatin-galette--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:13:14.293Z"
+}

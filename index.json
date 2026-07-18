@@ -15584,5 +15584,31 @@
     "cuisine": "indian",
     "totalTimeMin": 18,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-glazed-slovakian-kabanos-skillet--vegetarian",
+    "title": "Slovakian Yellow Squash Skillet",
+    "tags": [
+      "vegetarian",
+      "skillet",
+      "slovakian",
+      "yellow-squash"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-argentinian-empanada-empanada--french",
+    "title": "Empanada Gallete",
+    "tags": [
+      "empanada",
+      "french",
+      "beef",
+      "pastry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "y"
   }
 ]

@@ -1,0 +1,86 @@
+{
+  "slug": "yummy-roasted-mediterranean-eggplant-gratin--keto",
+  "title": "Keto Eggplant Gratin",
+  "description": "A flavorful and low-carb eggplant gratin that's perfect for a keto diet. Roasted eggplant and melted cheese make this dish a satisfying side or main course.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Yummy",
+      "amount": "optional",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the eggplant into 1/2-inch thick slices and place on a baking sheet lined with parchment paper.",
+    "Drizzle the eggplant slices with olive oil and sprinkle with salt, black pepper, and minced garlic.",
+    "Roast the eggplant in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "In a separate bowl, mix together the grated Parmesan cheese and chopped parsley.",
+    "To assemble the gratin, spread a layer of the Parmesan cheese mixture on the bottom of a 9x13-inch baking dish.",
+    "Arrange a layer of roasted eggplant slices on top of the cheese mixture.",
+    "Repeat the layers, ending with a layer of cheese on top.",
+    "Bake the gratin in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and garnish with yummy, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "eggplant",
+    "cheese",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-roasted-mediterranean-eggplant-gratin--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:16:10.971Z"
+}

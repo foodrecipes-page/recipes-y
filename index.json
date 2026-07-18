@@ -1526,17 +1526,14 @@
   },
   {
     "slug": "yeasty-vietnamese-lamb-loin-chops-bo-kho",
-    "title": "Yeasty Vietnamese Lamb Loin Chops Bo Kho",
+    "title": "Vietnamese-Style Braised Lamb Chops",
     "tags": [
-      "bo-kho",
-      "high-protein",
-      "lamb-loin-chops",
-      "one-pan",
-      "vietnamese-cuisine",
-      "weeknight"
+      "vietnamese",
+      "lamb-chops",
+      "braised-meat"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 135,
     "shard": "y"
   },
   {
@@ -15454,6 +15451,47 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yum-yum-smoke-cold-bowtie-pasta--gluten-free",
+    "title": "Gluten-Free Bowtie Pasta with Smoked Flavor",
+    "tags": [
+      "gluten-free",
+      "weeknight-dinner",
+      "smoky"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crispy-italian-egg-plants-arancini--thai",
+    "title": "Thai-style Crispy Arancini Fritters",
+    "tags": [
+      "thai",
+      "crispy",
+      "fritters",
+      "snack",
+      "risotto",
+      "arancini",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-roasted-mediterranean-eggplant-gratin--keto",
+    "title": "Keto Eggplant Gratin",
+    "tags": [
+      "keto",
+      "eggplant",
+      "cheese",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
     "shard": "y"
   }
 ]

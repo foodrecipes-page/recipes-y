@@ -1,0 +1,70 @@
+{
+  "slug": "yeasty-vietnamese-lamb-loin-chops-bo-kho",
+  "title": "Vietnamese-Style Braised Lamb Chops",
+  "description": "A hearty and flavorful Vietnamese-inspired dish featuring lamb chops slow-cooked in a rich bo kho sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "meat-lovers"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb chops",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Bo kho sauce (see notes)",
+      "amount": "2 cups",
+      "notes": "Homemade bo kho sauce recipe: 2 tablespoons fish sauce, 2 tablespoons soy sauce, 2 tablespoons brown sugar, 2 cloves garlic minced, 1 tablespoon grated ginger, 2 tablespoons vegetable oil, 2 cups lamb or beef broth"
+    },
+    {
+      "name": "Vietnamese yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Loin of beef (optional)",
+      "amount": "1 pound",
+      "notes": "For added flavor and texture, thinly slice and add to braising liquid"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 300°F (150°C).",
+    "2. In a large Dutch oven, heat 2 tablespoons of vegetable oil over medium-high heat.",
+    "3. Add lamb chops and cook until browned on both sides, about 5 minutes per side.",
+    "4. Remove lamb chops from pot and set aside.",
+    "5. Reduce heat to medium and cook bo kho sauce ingredients in the same pot, stirring constantly, until fragrant and slightly thickened, about 5 minutes.",
+    "6. Add lamb chops back to pot, cover with lid, and transfer to preheated oven.",
+    "7. Braise lamb chops for 2-3 hours, or until tender and falling apart.",
+    "8. Serve lamb chops with additional bo kho sauce spooned over the top.",
+    "9. Garnish with fresh cilantro and serve with steamed rice or noodles.",
+    "10. If using beef loin, add it to the braising liquid during the last 30 minutes of cooking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "lamb-chops",
+    "braised-meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "45g",
+    "carbs": "20g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-vietnamese-lamb-loin-chops-bo-kho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:03:24.714Z"
+}

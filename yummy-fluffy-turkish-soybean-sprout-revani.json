@@ -1,0 +1,74 @@
+{
+  "slug": "yummy-fluffy-turkish-soybean-sprout-revani",
+  "title": "Turkish Revani Cake",
+  "description": "A traditional Turkish dessert made with semolina flour and topped with a creamy yogurt sauce, perfect for warm weather. The combination of fluffy texture and sweet flavor is sure to delight.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sprout",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yummy",
+      "amount": "1 1/2 cups",
+      "notes": "semolina flour"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1/2 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "turkish",
+      "amount": "1/2 teaspoon",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "soybean",
+      "amount": "1/2 cup",
+      "notes": "unsweetened soy yogurt"
+    },
+    {
+      "name": "revani",
+      "amount": "1/4 cup",
+      "notes": "unsalted butter, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 9-inch (23cm) round cake pan.",
+    "In a medium bowl, whisk together semolina flour, granulated sugar, and ground cinnamon.",
+    "In a large bowl, whisk together unsweetened soy yogurt and melted butter.",
+    "Add the dry ingredients to the wet ingredients and whisk until smooth.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes.",
+    "Transfer to a wire rack to cool completely.",
+    "To make the yogurt sauce, whisk together unsweetened soy yogurt and a little water until smooth.",
+    "Serve the cake with the yogurt sauce drizzled over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "dessert",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-fluffy-turkish-soybean-sprout-revani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:06:21.408Z"
+}

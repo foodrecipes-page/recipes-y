@@ -1,0 +1,63 @@
+{
+  "slug": "yellow-yielding-saudi-buckwheat-tagine--mexican",
+  "title": "Saudi Buckwheat Tagine",
+  "description": "A unique fusion of Saudi and Mexican flavors, this tagine recipe incorporates the earthy taste of buckwheat. Perfect for a flavorful and nutritious meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "saudi dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add buckwheat groats and cook for an additional 2 minutes.",
+    "Add dates, cumin, and tagine spice blend. Mix well.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes or until buckwheat is tender.",
+    "Fluff with a fork and serve hot.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "mexican",
+    "dinner",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-yielding-saudi-buckwheat-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:44:11.224Z"
+}

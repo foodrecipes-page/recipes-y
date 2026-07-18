@@ -1,0 +1,81 @@
+{
+  "slug": "yellow-garlicky-peruvian-fish-picarones--mexican",
+  "title": "Crispy Picarones with Fish and Garlic Aioli",
+  "description": "A twist on traditional Peruvian donuts, these crispy picarones are filled with a flavorful fish and garlic aioli. Perfect as a snack or appetizer.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Picarones flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Yellow cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Peruvian yellow pepper, diced",
+      "amount": "1"
+    },
+    {
+      "name": "Fish (such as tilapia or cod), cooked and flaked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic aioli",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the picarones flour, cornmeal, and salt.",
+    "Add the garlic, Peruvian yellow pepper, and fish to the dry ingredients and mix until well combined.",
+    "In a separate bowl, whisk together the buttermilk and egg.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Heat the vegetable oil in a deep frying pan to 375°F.",
+    "Using a cookie scoop or spoon, drop the dough into the hot oil and fry for 2-3 minutes on each side.",
+    "Drain the fried picarones on paper towels.",
+    "To make the garlic aioli, mix together the garlic, mayonnaise, and lemon juice in a bowl.",
+    "Serve the crispy picarones with a side of garlic aioli for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "picarones",
+    "mexican",
+    "snack",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-garlicky-peruvian-fish-picarones--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:10:03.327Z"
+}

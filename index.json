@@ -10510,16 +10510,15 @@
   },
   {
     "slug": "youthful-creamy-tunisian-pork-tagine",
-    "title": "youthful creamy tunisian pork tagine",
+    "title": "Tunisian Pork Tagine",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "slow-cooker",
-      "weeknight"
+      "pork",
+      "tagine",
+      "north-african",
+      "spicy"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 140,
+    "cuisine": "North African",
+    "totalTimeMin": 105,
     "shard": "y"
   },
   {
@@ -15695,6 +15694,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-spring-italian-leek-pasta--chinese",
+    "title": "Stir Fried Leek Pasta",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "pasta",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
     "shard": "y"
   }
 ]

@@ -1,0 +1,67 @@
+{
+  "slug": "yellowed-spring-italian-leek-pasta--chinese",
+  "title": "Stir Fried Leek Pasta",
+  "description": "A simple Chinese-inspired dish made with stir-fried leeks and pasta. This recipe is quick to make and packed with flavor.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spring pasta",
+      "amount": "8 oz",
+      "notes": "preferably Chinese egg noodles"
+    },
+    {
+      "name": "leek",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "yellowed",
+      "amount": "1 tablespoon",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "italian",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "spring",
+      "amount": "1 tablespoon",
+      "notes": "green onions, chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to the package instructions until al dente.",
+    "In a large skillet or wok, heat the olive oil over medium-high heat.",
+    "Add the sliced leeks and stir-fry until they are tender and lightly browned.",
+    "Add the cooked pasta, soy sauce, and chopped green onions to the skillet.",
+    "Stir-fry everything together for about 2 minutes, until the pasta is well coated with the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-spring-italian-leek-pasta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:43:45.260Z"
+}

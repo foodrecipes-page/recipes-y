@@ -1,0 +1,75 @@
+{
+  "slug": "yummy-dutch-cheese-stir-fry--german",
+  "title": "German Cheese Frittata",
+  "description": "A classic German breakfast dish made with cheese, eggs, and a hint of Dutch influence.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "such as Emmental or Gruyère"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs, milk, salt, and pepper in a large bowl.",
+    "Add grated cheese and mix until well combined.",
+    "If using, add diced onion and chopped parsley and mix well.",
+    "Heat a large oven-safe skillet over medium heat and add a small amount of oil.",
+    "Pour egg mixture into the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes or until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "eggs",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-dutch-cheese-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:42:07.793Z"
+}

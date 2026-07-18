@@ -12214,18 +12214,14 @@
   },
   {
     "slug": "yummy-fluffy-turkish-soybean-sprout-revani",
-    "title": "Yummy Fluffy Turkish Soybean Sprout Revani",
+    "title": "Turkish Revani Cake",
     "tags": [
-      "dessert",
-      "fluffy",
-      "kimchi",
-      "lacto-vegetarian",
-      "soybean-sprout",
       "turkish",
-      "vegan"
+      "dessert",
+      "cake"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -15673,6 +15669,19 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-japanese-pork-shoyu-ramen--italian",
+    "title": "Italian-Style Pork Ramen",
+    "tags": [
+      "italian",
+      "pork",
+      "ramen",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 190,
     "shard": "y"
   }
 ]

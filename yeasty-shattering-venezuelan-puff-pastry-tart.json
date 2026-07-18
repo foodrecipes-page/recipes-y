@@ -1,0 +1,58 @@
+{
+  "slug": "yeasty-shattering-venezuelan-puff-pastry-tart",
+  "title": "Venezuelan-Style Puff Pastry",
+  "description": "A delicious Venezuelan-inspired puff pastry recipe featuring crispy pastry and a sweet yeasty flavor.",
+  "cuisine": "latino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Venezuelan puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Yeasty sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Shattering cold butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry on a floured surface.",
+    "Cut into desired shape and place on a baking sheet.",
+    "Brush tops with yeasty sugar mixture.",
+    "Dot with shattering cold butter.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pastry",
+    "venezuelan",
+    "snack",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-shattering-venezuelan-puff-pastry-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:28:20.729Z"
+}

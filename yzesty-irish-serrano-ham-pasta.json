@@ -1,0 +1,86 @@
+{
+  "slug": "yzesty-irish-serrano-ham-pasta",
+  "title": "Irish Pasta Bake",
+  "description": "A hearty pasta bake infused with the flavors of Ireland, featuring serrano ham and a tangy twist.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Serrano ham",
+      "amount": "200g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Pasta",
+      "amount": "300g",
+      "notes": "Short shaped"
+    },
+    {
+      "name": "Irish",
+      "amount": "2 tsp",
+      "notes": "Serves as a seasoning"
+    },
+    {
+      "name": "Pasta sauce",
+      "amount": "200ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Shredded mozzarella",
+      "amount": "120g",
+      "notes": "For the topping"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "20g",
+      "notes": "Garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Yzesty",
+      "amount": "1/4 tsp",
+      "notes": "A pinch of zest"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the pasta sauce over medium heat. Add the sliced serrano ham and cook until heated through.",
+    "In a large mixing bowl, combine the cooked pasta, pasta sauce mixture, and chopped parsley. Season with salt and black pepper to taste.",
+    "Transfer the pasta mixture to a baking dish and top with shredded mozzarella. Sprinkle with a pinch of yzesty.",
+    "Bake in the preheated oven for 20-25 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-pasta-bake",
+    "serrano-ham",
+    "pasta-bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yzesty-irish-serrano-ham-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:54:36.184Z"
+}

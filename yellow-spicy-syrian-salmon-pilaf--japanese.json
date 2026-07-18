@@ -1,0 +1,80 @@
+{
+  "slug": "yellow-spicy-syrian-salmon-pilaf--japanese",
+  "title": "Spicy Salmon Pilaf",
+  "description": "A flavorful Japanese-inspired dish with spicy salmon and crispy pilaf.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Syrian pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spicy dashi powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a skillet over medium-high heat.",
+    "2. Add the salmon fillet and cook for 3-4 minutes per side, or until cooked through.",
+    "3. Set the salmon aside and cook the yellow onion until softened.",
+    "4. Add the Syrian pilaf to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "5. In a small bowl, mix together the spicy dashi powder and soy sauce.",
+    "6. Pour the dashi powder mixture over the pilaf and stir to combine.",
+    "7. Return the salmon to the skillet and stir to combine with the pilaf and soy sauce mixture.",
+    "8. Cook for an additional 1-2 minutes, or until the flavors have melded together.",
+    "9. Garnish with chopped green onions and serve hot.",
+    "10. Enjoy your Spicy Salmon Pilaf!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "spicy",
+    "salmon",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-syrian-salmon-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:11:01.243Z"
+}

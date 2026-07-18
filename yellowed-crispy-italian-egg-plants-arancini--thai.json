@@ -1,0 +1,81 @@
+{
+  "slug": "yellowed-crispy-italian-egg-plants-arancini--thai",
+  "title": "Thai-style Crispy Arancini Fritters",
+  "description": "Crispy fried risotto balls filled with a Thai-inspired mixture of egg and spices. Serve as a crunchy snack or side dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Arancini",
+      "amount": "4-6",
+      "notes": "preferably leftover or day-old"
+    },
+    {
+      "name": "Yellow Curry Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Plants (e.g. chopped scallions, mint)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "2. Chop the leftover arancini into small pieces and set aside.",
+    "3. In a bowl, mix together the curry paste, egg, chopped plants, and Italian seasoning.",
+    "4. Add the chopped arancini to the bowl and mix until well combined.",
+    "5. Shape the mixture into small balls, about 1 inch in diameter.",
+    "6. Roll each ball in the bread crumbs to coat.",
+    "7. Fry the arancini balls in batches until golden brown and crispy.",
+    "8. Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "crispy",
+    "fritters",
+    "snack",
+    "risotto",
+    "arancini",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-italian-egg-plants-arancini--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:14:15.465Z"
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "yum-yum-smoke-cold-bowtie-pasta--gluten-free",
+  "title": "Gluten-Free Bowtie Pasta with Smoked Flavor",
+  "description": "A gluten-free pasta dish with a smoky twist, perfect for a weeknight dinner. This recipe combines the flavors of smoked ingredients with the simplicity of bowtie pasta.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "yum",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "smoke",
+      "amount": "1 cup",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "cold",
+      "amount": "1 cup",
+      "notes": "chilled cherry tomatoes"
+    },
+    {
+      "name": "yum",
+      "amount": "1 cup",
+      "notes": "arugula"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bowtie pasta according to the package instructions.",
+    "In a large skillet, heat the yum over medium heat.",
+    "Add the smoke to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add the cold to the skillet and cook for an additional 2-3 minutes, stirring occasionally.",
+    "Reserve 1 cup of pasta water and then drain the bowtie pasta.",
+    "Add the pasta to the skillet and toss with the sauce, adding some reserved pasta water if the sauce seems too thick.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with the yum."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "weeknight-dinner",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yum-yum-smoke-cold-bowtie-pasta--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:09:13.928Z"
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "yellowed-nutty-malaysian-chicken-satay--french",
+  "title": "Malaysian Chicken Satay with French Twist",
+  "description": "A French-inspired twist on the classic Malaysian dish, featuring marinated chicken skewers grilled to perfection.",
+  "cuisine": "french",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": "preferably boneless and skinless"
+    },
+    {
+      "name": "yellowed coconut oil",
+      "amount": "1/2 cup",
+      "notes": "for grilling and serving"
+    },
+    {
+      "name": "nutty peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "malaysian satay sauce",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably flaky sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped and bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "chopped and bruised"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": "ground and toasted"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground and toasted"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine peanut butter, coconut oil, lemongrass, galangal, coriander, cumin, salt, and black pepper. Blend until smooth.",
+    "2. Thread chicken pieces onto skewers, leaving a small space between each piece.",
+    "3. Place skewers in a large bowl and pour marinade over them. Toss to coat evenly.",
+    "4. Cover and refrigerate for at least 2 hours or overnight.",
+    "5. Preheat grill to medium-high heat. Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "6. Brush with additional coconut oil during the last 2 minutes of grilling.",
+    "7. Serve skewers hot with satay sauce and toasted peanuts on the side.",
+    "8. Garnish with fresh cilantro and lime wedges, if desired.",
+    "9. Serve immediately and enjoy!",
+    "10. Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "bbq",
+    "grilled",
+    "french",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "37g",
+    "carbs": "10g",
+    "fat": "24g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-nutty-malaysian-chicken-satay--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:52:41.883Z"
+}

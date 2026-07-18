@@ -8975,17 +8975,16 @@
   },
   {
     "slug": "yellowed-shattering-irish-lamb-skillet",
-    "title": "Yellowed Shattering Irish Lamb Skillet",
+    "title": "Pan-Seared Irish Lamb Chops",
     "tags": [
-      "high-protein",
-      "irish",
       "lamb",
-      "one-pot",
+      "irish",
       "skillet",
-      "weeknight"
+      "dinner",
+      "meat"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -15505,6 +15504,57 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-garlicky-peruvian-fish-picarones--mexican",
+    "title": "Crispy Picarones with Fish and Garlic Aioli",
+    "tags": [
+      "picarones",
+      "mexican",
+      "snack",
+      "fish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-syrian-salmon-pilaf--japanese",
+    "title": "Spicy Salmon Pilaf",
+    "tags": [
+      "japanese",
+      "spicy",
+      "salmon",
+      "pilaf"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowish-indulgent-algerian-boudin-blanc-tagine--german",
+    "title": "Savory Algerian Boudin Tagine",
+    "tags": [
+      "german",
+      "algerian",
+      "boudin"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-charred-syrian-shrimp-tagine--mexican",
+    "title": "Mexican Shrimp Tagine",
+    "tags": [
+      "mexican",
+      "fusion",
+      "seafood",
+      "shrimp"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

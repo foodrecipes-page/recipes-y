@@ -15610,5 +15610,18 @@
     "cuisine": "french",
     "totalTimeMin": 55,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-dutch-cheese-stir-fry--german",
+    "title": "German Cheese Frittata",
+    "tags": [
+      "german",
+      "breakfast",
+      "eggs",
+      "cheese"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "y"
   }
 ]

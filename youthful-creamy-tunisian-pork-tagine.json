@@ -1,0 +1,98 @@
+{
+  "slug": "youthful-creamy-tunisian-pork-tagine",
+  "title": "Tunisian Pork Tagine",
+  "description": "A flavorful and aromatic North African-inspired dish made with tender pork, rich tagine sauce, and a hint of creamy Tunisian spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tagine sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cream",
+      "amount": "2 tbsp",
+      "notes": "heavy"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork cubes in batches until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin, coriander, and ginger to the pot and cook for 1 minute, stirring constantly.",
+    "Add the browned pork back to the pot, along with the Tunisian spice blend, chicken broth, and tagine sauce.",
+    "Bring the mixture to a boil, then cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 1 1/2 hours, or until the pork is tender.",
+    "Remove the pot from the oven and stir in the heavy cream.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve hot over couscous or rice.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "tagine",
+    "north-african",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/youthful-creamy-tunisian-pork-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:17:13.775Z"
+}

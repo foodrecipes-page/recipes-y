@@ -1,0 +1,51 @@
+{
+  "slug": "yellow-glazed-slovakian-kabanos-skillet--vegetarian",
+  "title": "Slovakian Yellow Squash Skillet",
+  "description": "A hearty, vegetarian skillet dish featuring roasted Slovakian yellow squash and glazed onions, perfect for a weeknight dinner. This recipe is easy to prepare and packed with flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian yellow squash",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Glazed onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kabanos sausage (vegetarian alternative)",
+      "amount": "1 package"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium heat.",
+    "Add the glazed onions and cook until caramelized.",
+    "Add the Slovakian yellow squash and cook for 5 minutes.",
+    "Add the vegetarian kabanos sausage and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "skillet",
+    "slovakian",
+    "yellow-squash"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-glazed-slovakian-kabanos-skillet--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:43:54.526Z"
+}

@@ -15683,5 +15683,19 @@
     "cuisine": "italian",
     "totalTimeMin": 190,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-and-tangy-mexican-chiles-quesadilla--french",
+    "title": "French Quesadilla with Chiles",
+    "tags": [
+      "french",
+      "mexican",
+      "quesadilla",
+      "chiles",
+      "cheese"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

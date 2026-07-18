@@ -15027,17 +15027,14 @@
   },
   {
     "slug": "yellowed-resinous-northern-irish-aubergine-full-english-breakfast-skillet--mexican",
-    "title": "Full English Breakfast Skillet",
+    "title": "Northern Irish Breakfast Skillet",
     "tags": [
-      "mexican",
-      "breakfast",
+      "northern-irish-breakfast",
       "skillet",
-      "sausages",
-      "aubergine",
-      "cheese"
+      "mexican-twist"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -15621,6 +15618,33 @@
       "cheese"
     ],
     "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-adventurous-french-blackberries-savory-tarte-tatin-galette--vegetarian",
+    "title": "Warm Blackberry Tarte Tatin",
+    "tags": [
+      "dessert",
+      "blackberry",
+      "tarte",
+      "tatin",
+      "galette"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-yielding-saudi-buckwheat-tagine--mexican",
+    "title": "Saudi Buckwheat Tagine",
+    "tags": [
+      "vegetarian",
+      "mexican",
+      "dinner",
+      "gluten-free"
+    ],
+    "cuisine": "Mexican",
     "totalTimeMin": 30,
     "shard": "y"
   }

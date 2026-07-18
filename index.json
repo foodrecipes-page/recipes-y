@@ -15556,5 +15556,33 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-nutty-malaysian-chicken-satay--french",
+    "title": "Malaysian Chicken Satay with French Twist",
+    "tags": [
+      "chicken",
+      "bbq",
+      "grilled",
+      "french",
+      "malaysian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-fluffy-thai-shrimp-tom-yum--indian",
+    "title": "Thai-Indian Shrimp Bites",
+    "tags": [
+      "indian",
+      "thai",
+      "shrimp",
+      "appetizer",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 18,
+    "shard": "y"
   }
 ]

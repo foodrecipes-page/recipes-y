@@ -15647,5 +15647,19 @@
     "cuisine": "Mexican",
     "totalTimeMin": 30,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-spiced-saudi-arabian-lamb-kebabs--german",
+    "title": "Saudian Lamb Kebabs with German Flair",
+    "tags": [
+      "german",
+      "arabian",
+      "lamb",
+      "kebabs",
+      "grilled"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 28,
+    "shard": "y"
   }
 ]

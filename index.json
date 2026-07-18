@@ -15661,5 +15661,18 @@
     "cuisine": "german",
     "totalTimeMin": 28,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-curry-light-peruvian-seafood-bowl--vegan",
+    "title": "Peruvian Yellow Seafood Bowl",
+    "tags": [
+      "peruvian",
+      "yellow-curry",
+      "seafood-bowl",
+      "vegan-dinner"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

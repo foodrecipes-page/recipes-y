@@ -1,0 +1,80 @@
+{
+  "slug": "yummy-and-tangy-mexican-chiles-quesadilla--french",
+  "title": "French Quesadilla with Chiles",
+  "description": "A unique fusion of French and Mexican flavors, this quesadilla features seared chiles and melted cheese.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quesadilla",
+      "amount": "2",
+      "notes": "large flour tortillas"
+    },
+    {
+      "name": "chiles",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "yummy",
+      "amount": "1/2 cup",
+      "notes": "grated cheese"
+    },
+    {
+      "name": "and",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "tangy",
+      "amount": "1/4 cup",
+      "notes": "sliced fresh chives"
+    },
+    {
+      "name": "mexican",
+      "amount": "1/4 cup",
+      "notes": "crushed red pepper"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add 1 tablespoon of butter and sear the sliced chiles until caramelized.",
+    "In a separate pan, melt the remaining 1 tablespoon of butter over medium heat.",
+    "Place a quesadilla in the pan and sprinkle with grated cheese, chopped cilantro, and sliced chives.",
+    "Fold the quesadilla in half and cook for 2-3 minutes or until the cheese is melted and the tortilla is crispy.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy.",
+    "Repeat with the remaining quesadilla and filling ingredients.",
+    "Serve the quesadillas hot with crushed red pepper on top.",
+    "Garnish with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "mexican",
+    "quesadilla",
+    "chiles",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-and-tangy-mexican-chiles-quesadilla--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:22:15.187Z"
+}

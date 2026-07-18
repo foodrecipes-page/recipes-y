@@ -1,0 +1,96 @@
+{
+  "slug": "yummy-charred-syrian-shrimp-tagine--mexican",
+  "title": "Mexican Shrimp Tagine",
+  "description": "A fusion of Mexican and North African flavors, this dish combines succulent shrimp with the sweet and spicy flavors of a tagine.",
+  "cuisine": "mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "yummy",
+      "amount": "1/4 cup",
+      "notes": " diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "charred",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the shrimp and pat dry with paper towels.",
+    "In a large bowl, whisk together lime juice, cumin, chili powder, garlic powder, and salt.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the shrimp to the skillet and cook for 2-3 minutes per side, or until pink and cooked through.",
+    "Transfer the skillet to the preheated oven and bake for 5-7 minutes, or until the shrimp are cooked through.",
+    "While the shrimp are cooking, heat the tagine in a small saucepan over medium heat.",
+    "Bring the tagine to a simmer and cook until heated through.",
+    "To serve, place a shrimp on each plate and spoon some of the tagine sauce over the top.",
+    "Garnish with diced yummy and chopped charred, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fusion",
+    "seafood",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-charred-syrian-shrimp-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:30:24.458Z"
+}

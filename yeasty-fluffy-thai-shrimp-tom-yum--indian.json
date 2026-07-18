@@ -1,0 +1,69 @@
+{
+  "slug": "yeasty-fluffy-thai-shrimp-tom-yum--indian",
+  "title": "Thai-Indian Shrimp Bites",
+  "description": "A unique fusion of flavors combining the spices of India with the bold taste of Thailand.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Indian Spices",
+      "amount": "1 teaspoon",
+      "notes": "garam masala, cumin, coriander powder"
+    },
+    {
+      "name": "Fluffy Naan Bites",
+      "amount": "6-8",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, whisk together curry paste, Indian spices, and a pinch of salt.",
+    "3. Add the shrimp to the bowl and toss to coat evenly.",
+    "4. Place the naan bites on a baking sheet lined with parchment paper.",
+    "5. Spoon a small amount of the shrimp-curry mixture onto each naan bite.",
+    "6. Bake in the preheated oven for 8-10 minutes or until the naan is lightly toasted and the shrimp is cooked through.",
+    "7. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "thai",
+    "shrimp",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-fluffy-thai-shrimp-tom-yum--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:57:50.636Z"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "yellowed-japanese-pork-shoyu-ramen--italian",
+  "title": "Italian-Style Pork Ramen",
+  "description": "A fusion of Italian and Japanese flavors in a hearty pork ramen dish.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese ramen noodles",
+      "amount": "1 package (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Shoyu (Japanese soy sauce)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Yellowed onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the ramen noodles according to package instructions. Reserve 2 cups of pasta water before draining.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat. Sear the pork shoulder until browned on all sides, about 5 minutes per side. Remove the pork from the pot and set aside.",
+    "Reduce heat to medium and add the sliced onions to the pot. Cook, stirring occasionally, until the onions are caramelized and golden brown, about 20 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute, stirring constantly.",
+    "Add the shoyu to the pot and stir to combine.",
+    "Return the pork shoulder to the pot and add enough chicken broth to cover the meat. Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake the pork in a preheated oven at 300°F (150°C) for 2 1/2 hours, or until tender and easily shredded.",
+    "Remove the pork from the oven and let it rest for 10 minutes before shredding it into bite-sized pieces.",
+    "Add the cooked noodles to the pot with the onion and garlic mixture. Toss to combine, adding some reserved pasta water if the mixture seems dry.",
+    "Add the shredded pork to the pot and toss to combine.",
+    "Season the ramen with salt and black pepper to taste.",
+    "Serve the Italian-Style Pork Ramen hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 165,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pork",
+    "ramen",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-japanese-pork-shoyu-ramen--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:45:41.945Z"
+}

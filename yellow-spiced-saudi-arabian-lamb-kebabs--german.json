@@ -1,0 +1,66 @@
+{
+  "slug": "yellow-spiced-saudi-arabian-lamb-kebabs--german",
+  "title": "Saudian Lamb Kebabs with German Flair",
+  "description": "A unique fusion of Arabian and German cuisines, these lamb kebabs are marinated in a blend of spices and grilled to perfection.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "yellow",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spiced",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "arabian",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "saudi",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kebabs",
+      "amount": "12"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together yellow, spiced, arabian, and saudi.",
+    "Add lamb to the bowl and mix well to coat.",
+    "Thread lamb onto kebabs, leaving a small space between each piece.",
+    "Grill kebabs for 8-10 minutes per side, or until lamb reaches 63°C (145°F) for medium-rare.",
+    "Let kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "arabian",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spiced-saudi-arabian-lamb-kebabs--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:12:46.534Z"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "yogurt-infused-greek-cottage-cheese-galaktoboureko-pie--chinese",
+  "title": "Sichuan Cheese Pancakes",
+  "description": "A twist on traditional Chinese cheese pancakes with a Sichuan flair. The infused cheese adds a unique flavor.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "infused cheese",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "galaktoboureko pie crust",
+      "amount": "1",
+      "notes": "crushed into crumbs"
+    },
+    {
+      "name": "yogurt",
+      "amount": "60g",
+      "notes": "mixed with cheese"
+    },
+    {
+      "name": "water",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "30g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine crushed pie crust and 30g cottage cheese in a bowl.",
+    "Mix 60g yogurt and 120g infused cheese together until smooth.",
+    "Add the wet mixture to the dry, and stir until well combined.",
+    "Gradually add water while stirring until a pancake batter forms.",
+    "Heat a non-stick pan over medium heat.",
+    "Drop spoonfuls of batter into the pan and cook for 2-3 minutes, until bubbles appear.",
+    "Flip pancakes and cook for an additional 1-2 minutes.",
+    "Serve warm with a dipping sauce of your choice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sichuan",
+    "chinese",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-infused-greek-cottage-cheese-galaktoboureko-pie--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:51:36.503Z"
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "yellow-lacquered-korean-tofu-sujebi--indian",
+  "title": "Spicy Sujebi Tofu Curry",
+  "description": "A spicy Indian-inspired curry made with Korean sujebi noodles, pan-fried tofu, and a blend of aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Lacquered Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Sujebi Noodles",
+      "amount": "8 oz",
+      "notes": "Korean rice noodles"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Red Chili Pepper",
+      "amount": "1-2",
+      "notes": "depending on desired spiciness"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until onion is translucent.",
+    "Add red chili pepper and cook for 1 minute.",
+    "Add garam masala, cumin powder, and coriander powder. Cook for 1 minute.",
+    "Add sujebi noodles and cook until they start to brown.",
+    "Cut the yellow lacquered tofu into small cubes and add to the pan.",
+    "Cook for 5-7 minutes, stirring occasionally, until the tofu is golden brown.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "korean",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-lacquered-korean-tofu-sujebi--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:22:07.015Z"
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "yellowed-light-filipino-noodles-pancit-canton",
+  "title": "Filipino-Style Pancit Canton",
+  "description": "A classic Filipino dish made with stir-fried noodles, vegetables, and your choice of protein. This recipe serves 4-6 people and can be customized to suit your taste.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pancit Canton",
+      "amount": "1 package",
+      "notes": "found in most Asian grocery stores"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1/2 pound",
+      "notes": "optional, can use chicken or tofu instead"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook Pancit Canton according to package instructions. Drain and set aside.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add onion and garlic and stir-fry until onion is translucent.",
+    "Add snow peas and carrots and stir-fry for 2-3 minutes.",
+    "Add ground pork (if using) and stir-fry until cooked through.",
+    "Add cooked Pancit Canton and stir-fry for another 2-3 minutes.",
+    "Season with soy sauce, salt, and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "pasta",
+    "stir-fry",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-light-filipino-noodles-pancit-canton",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:07:03.250Z"
+}

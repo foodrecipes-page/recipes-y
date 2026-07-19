@@ -1,0 +1,68 @@
+{
+  "slug": "yellow-caramelized-moroccan-reblochon-tagine--vegan",
+  "title": "Moroccan Yellow Lentil Stew",
+  "description": "A hearty and comforting vegan stew from the flavors of Morocco, featuring yellow lentils and caramelized vegetables.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "2 medium",
+      "notes": "seeds removed, chopped"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "vegan broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the chopped onions and cook, stirring occasionally, for 20-25 minutes or until caramelized.",
+    "Add the chopped carrots and bell peppers; cook for 5 minutes, stirring occasionally.",
+    "Add the tagine spice mix and cook for 1 minute, stirring constantly.",
+    "Stir in the lentils and broth; bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "moroccan",
+    "stew",
+    "vegan",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-caramelized-moroccan-reblochon-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:29:51.385Z"
+}

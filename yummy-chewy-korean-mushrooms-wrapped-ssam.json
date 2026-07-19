@@ -1,0 +1,70 @@
+{
+  "slug": "yummy-chewy-korean-mushrooms-wrapped-ssam",
+  "title": "Korean Ssam",
+  "description": "A simple Korean dish featuring marinated beef wrapped in a leafy green.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "thinly sliced beef",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "yummy Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chewy brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "wrapped lettuce leaves",
+      "amount": "4-6 leaves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the chili flakes, brown sugar, and a pinch of salt.",
+    "Add the sliced beef to the marinade and let it sit for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the beef for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "Meanwhile, heat a tablespoon of oil in a pan over medium heat.",
+    "Add the sliced mushrooms and cook until they're tender and lightly browned.",
+    "To assemble the ssam, place a lettuce leaf on a flat surface.",
+    "Add a few slices of the grilled beef and some of the sautéed mushrooms.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "beef",
+    "mushrooms",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-chewy-korean-mushrooms-wrapped-ssam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:41:00.053Z"
+}

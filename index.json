@@ -4546,17 +4546,16 @@
   },
   {
     "slug": "yellow-roasted-japanese-chicken-yakitori",
-    "title": "Yellow Roasted Japanese Chicken Yakitori",
+    "title": "Yakitori-Style Japanese Chicken Skewers",
     "tags": [
-      "chicken-recipes",
-      "coconut-cream-recipes",
-      "dairy-free-recipes",
-      "gluten-free-recipes",
-      "japanese-cuisine",
-      "romantic-dinners"
+      "chicken",
+      "japanese",
+      "grilled",
+      "skewers",
+      "easy"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -11414,18 +11413,15 @@
   },
   {
     "slug": "yummy-chewy-korean-mushrooms-wrapped-ssam",
-    "title": "yummy chewy korean mushrooms wrapped-ssam",
+    "title": "Korean Ssam",
     "tags": [
-      "fodmap-friendly",
       "korean",
-      "low-calorie",
-      "one-pan",
-      "quick-and-easy",
-      "veggie-centric",
-      "weeknight"
+      "beef",
+      "mushrooms",
+      "grilled"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 22,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {

@@ -1167,16 +1167,14 @@
   },
   {
     "slug": "yeasty-polish-yeast-galette",
-    "title": "Yeasty Polish Galette",
+    "title": "Traditional Polish Yeast Galette",
     "tags": [
-      "baked",
-      "breakfast",
-      "dessert",
       "polish",
-      "sweet"
+      "yeast-bread",
+      "dessert"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -8401,17 +8399,15 @@
   },
   {
     "slug": "yellowed-light-filipino-noodles-pancit-canton",
-    "title": "Yellowed Light Filipino Noodles Pancit Canton",
+    "title": "Filipino-Style Pancit Canton",
     "tags": [
-      "filipino-cuisine",
-      "gluten-free",
-      "lunch-ideas",
-      "noodle-recipes",
-      "one-pot",
-      "tandoor-cooking"
+      "filipino",
+      "pasta",
+      "stir-fry",
+      "quick-dinner"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -15917,6 +15913,47 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 15,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-sweet-glassy-mediterranean-jelly-stew--gluten-free",
+    "title": "Mediterranean Stew",
+    "tags": [
+      "mediterranean",
+      "stew",
+      "beef",
+      "tomatoes",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 110,
+    "shard": "y"
+  },
+  {
+    "slug": "yeast-infused-smoky-tunisian-mackerel-tagine--mexican",
+    "title": "Tunisian Smoked Mackerel Tagine",
+    "tags": [
+      "mexican",
+      "smoked",
+      "mackerel",
+      "tagine",
+      "fusion"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-charred-jamaican-tofu-skewers--vegetarian",
+    "title": "Jamaican Tofu Skewers",
+    "tags": [
+      "jamaican",
+      "grilled",
+      "skewers",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "y"
   }
 ]

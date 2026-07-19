@@ -1,0 +1,65 @@
+{
+  "slug": "yummy-tunisian-chestnut-grill--vegan",
+  "title": "Tunisian Grilled Chestnut Salad",
+  "description": "A flavorful and refreshing salad featuring grilled chestnuts, perfect for a light vegan meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yummy Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grilled Red Onion (use grill ingredient)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the chestnuts for 5-7 minutes on each side, until they're tender and slightly charred.",
+    "In a bowl, whisk together olive oil, lemon juice, and salt.",
+    "Add the chopped cilantro to the bowl and toss to combine.",
+    "Once the chestnuts are cool enough to handle, slice them in half and add them to the bowl.",
+    "Add the grilled red onion to the bowl and toss everything together.",
+    "Season with salt to taste and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-tunisian-chestnut-grill--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:09:12.140Z"
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "yummy-sweet-glassy-mediterranean-jelly-stew--gluten-free",
+  "title": "Mediterranean Stew",
+  "description": "A hearty and flavorful gluten-free stew filled with Mediterranean flavors and sweet touches.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yummy tomatoes",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "sweet red onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "glassy red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "jelly bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "stew beef",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the tomatoes, red wine (if using), olives, and bell peppers.",
+    "Bring the stew to a simmer, then reduce the heat to low and cook, covered, until the beef is tender, about 1 1/2 hours.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "stew",
+    "beef",
+    "tomatoes",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-sweet-glassy-mediterranean-jelly-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:54:34.702Z"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "yeasty-brazilian-peas-curry--thai",
+  "title": "Thai Yeasty Curry",
+  "description": "A flavorful Thai dish made with yeasty, peas, and a hint of Brazilian spice.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yeasty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brazilian spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add Brazilian spice blend and sauté for 1 minute.",
+    "Add yeasty and sauté for 2 minutes.",
+    "Add peas and sauté for 3 minutes.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook for 5 minutes.",
+    "Season with salt and sugar to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "thai-curry",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-brazilian-peas-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:16:25.206Z"
+}

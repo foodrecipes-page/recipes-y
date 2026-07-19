@@ -1,0 +1,91 @@
+{
+  "slug": "yellow-pillowy-australian-lentils-curry--indian",
+  "title": "Australian Curry Lentil Stew",
+  "description": "A hearty and flavorful Indian-inspired stew made with yellow lentils, curry spices, and Australian ingredients.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Australian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "6-8",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust as needed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for stewing"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and sauté until softened, 5 minutes.",
+    "Add garlic and ginger; sauté for 1 minute, until fragrant.",
+    "Add curry powder and stir for 1 minute.",
+    "Add lentils, curry leaves, and salt. Stir to combine.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until lentils are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentil",
+    "curry",
+    "stew",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-pillowy-australian-lentils-curry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:41:58.742Z"
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "yellow-buttery-dutch-egg-rolls-spring-rolls",
+  "title": "Spring Rolls with Scrambled Egg Filling",
+  "description": "A delicious and easy to make snack filled with scrambled eggs and spring onions, wrapped in crispy yellow Dutch rolls.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dutch rolls",
+      "amount": "4-6 rolls",
+      "notes": "preferably yellow"
+    },
+    {
+      "name": "Spring onions",
+      "amount": "1 bunch",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large eggs",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the butter in a pan over medium heat.",
+    "2. Pour in the beaten eggs and scramble them until they are cooked through.",
+    "3. Add the chopped spring onions to the pan and stir well.",
+    "4. Season the egg mixture with salt and black pepper to taste.",
+    "5. Lay a Dutch roll flat and place a tablespoon or two of the egg mixture in the center.",
+    "6. Fold the bottom half of the roll up over the filling, then fold in the sides and roll up the top half to form a tight cylinder.",
+    "7. Repeat with the remaining rolls and filling.",
+    "8. Serve the spring rolls hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spring-rolls",
+    "egg-filling",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-buttery-dutch-egg-rolls-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:06:58.001Z"
+}

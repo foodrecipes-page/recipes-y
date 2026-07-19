@@ -1,0 +1,80 @@
+{
+  "slug": "yellow-smoky-italian-mackerel-skillet",
+  "title": "Smoky Skillet Mackerel",
+  "description": "A smoky twist on a classic Italian-inspired mackerel dish, cooked to perfection in a skillet.",
+  "cuisine": "italian",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "2",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "adds a smoky depth"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "a blend of herbs and spices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking the mackerel"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "preferably cast iron or stainless steel"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning the mackerel"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Season the mackerel fillets with salt, pepper, and italian seasoning.",
+    "Add the olive oil to the skillet and swirl to coat.",
+    "Sear the mackerel fillets for 2-3 minutes on each side, or until cooked through.",
+    "Remove the mackerel from the skillet and set aside.",
+    "Add the sliced yellow onion to the skillet and cook until caramelized, stirring occasionally.",
+    "Sprinkle the smoky paprika over the onion and cook for an additional minute.",
+    "Serve the mackerel on top of the onion and paprika mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mackerel",
+    "skillet",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-italian-mackerel-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:44:06.430Z"
+}

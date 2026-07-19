@@ -1,0 +1,78 @@
+{
+  "slug": "yummy-slow-cooked-argentinian-pork-knuckle-bowl--thai",
+  "title": "Slow Cooked Pork Knuckle Thai Curry",
+  "description": "A flavorful and tender dish that combines the rich flavors of Thai cuisine with the slow-cooked goodness of pork knuckle. Perfect for a comforting meal.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Knuckle",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can (400ml)"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large bowl over medium heat.",
+    "Add garlic and ginger, cook until fragrant.",
+    "Add curry paste, cook for 1 minute.",
+    "Add coconut milk, fish sauce, brown sugar, and lime juice. Stir well.",
+    "Add the pork knuckle, cover the bowl and cook on low heat for 2 hours.",
+    "Increase heat to medium-high, cook for an additional 10 minutes.",
+    "Remove the pork from the sauce, let it rest for 5 minutes before slicing.",
+    "Serve with the remaining sauce and garnish with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "pork",
+    "slow-cooked",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-slow-cooked-argentinian-pork-knuckle-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:19:04.121Z"
+}

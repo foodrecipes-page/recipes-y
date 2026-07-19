@@ -15804,5 +15804,19 @@
     "cuisine": "Tunisian",
     "totalTimeMin": 20,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-pillowy-australian-lentils-curry--indian",
+    "title": "Australian Curry Lentil Stew",
+    "tags": [
+      "indian",
+      "lentil",
+      "curry",
+      "stew",
+      "australian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "y"
   }
 ]

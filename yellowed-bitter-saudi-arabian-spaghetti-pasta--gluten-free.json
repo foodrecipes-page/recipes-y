@@ -1,0 +1,86 @@
+{
+  "slug": "yellowed-bitter-saudi-arabian-spaghetti-pasta--gluten-free",
+  "title": "Gluten-Free Saudi Arabian Spaghetti",
+  "description": "A unique twist on traditional spaghetti, using gluten-free pasta and inspired by Saudi Arabian flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti (gluten-free)",
+      "amount": "12 oz",
+      "notes": null
+    },
+    {
+      "name": "Saudian Arabian Spices",
+      "amount": "2 tsp",
+      "notes": "Available at Middle Eastern grocery stores"
+    },
+    {
+      "name": "Sauteed Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Sliced Bell Pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "Cook to a safe internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti in boiling, salted water until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat olive oil over medium-high heat. Add ground beef and cook, breaking it up with a spoon, until browned.",
+    "Add sautéed onion, sliced bell pepper, and Saudi Arabian spices to the skillet. Cook for 2-3 minutes, until the vegetables are tender.",
+    "Stir in tomato sauce and bring to a simmer. Reduce heat to low and let cook while you prepare the pasta.",
+    "Add cooked spaghetti to the skillet, tossing to combine with the sauce. If the sauce seems too thick, add a bit of the reserved pasta water.",
+    "Season with salt and pepper to taste, then garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "saudi-arabian",
+    "middle-eastern",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-bitter-saudi-arabian-spaghetti-pasta--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:18:49.873Z"
+}

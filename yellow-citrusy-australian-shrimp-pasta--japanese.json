@@ -1,0 +1,96 @@
+{
+  "slug": "yellow-citrusy-australian-shrimp-pasta--japanese",
+  "title": "Japanese-Style Shrimp Pasta",
+  "description": "A refreshing and flavorful Japanese-inspired dish featuring succulent shrimp and springy pasta, all in one quick and easy meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian-friendly",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz (225g)",
+      "notes": null
+    },
+    {
+      "name": "Yellow Citrusy Australian Shrimp",
+      "amount": "1 pound (450g)",
+      "notes": "Peel and devein shrimp before using"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons (30ml)",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons (30ml)",
+      "notes": null
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon (15g)",
+      "notes": null
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup (15g)",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon (15g)",
+      "notes": "Grate ginger before using"
+    },
+    {
+      "name": "Sesame-Ginger Sauce (see below for recipe)",
+      "amount": "2 tablespoons (30ml)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked through, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "In the same skillet, add the soy sauce, sesame seeds, chopped scallions, grated ginger, salt, and pepper. Stir to combine.",
+    "Add the cooked pasta to the skillet and toss with the sauce until coated.",
+    "Return the cooked shrimp to the skillet and toss with the pasta and sauce.",
+    "Serve hot, topped with additional sesame seeds and scallions if desired.",
+    "To make the sesame-ginger sauce, combine 2 tablespoons of soy sauce, 1 tablespoon of rice vinegar, and 1 tablespoon of honey in a small bowl. Stir to combine.",
+    "Add 1 tablespoon of grated ginger to the sesame-ginger sauce and stir to combine. Set aside to use in the recipe."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "seafood",
+    "pasta",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 32,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-citrusy-australian-shrimp-pasta--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:12:32.665Z"
+}

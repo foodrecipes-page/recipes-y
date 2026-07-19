@@ -5136,16 +5136,15 @@
   },
   {
     "slug": "yellow-smoky-syrian-lamb-stew",
-    "title": "Yellow Smoky Syrian Lamb Stew",
+    "title": "Smoky Lamb Stew",
     "tags": [
-      "ayurvedic-friendly",
-      "lamb-recipes",
-      "one-pot",
-      "smoky-flavors",
-      "syrian-cuisine"
+      "lamb",
+      "smoky",
+      "middle eastern",
+      "stew"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 120,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {
@@ -15765,6 +15764,33 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yogurt-infused-greek-cottage-cheese-galaktoboureko-pie--chinese",
+    "title": "Sichuan Cheese Pancakes",
+    "tags": [
+      "sichuan",
+      "chinese",
+      "snack",
+      "cheese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-charred-syrian-shrimp-tagine--vegetarian",
+    "title": "Syrian Shrimp Tagine",
+    "tags": [
+      "vegetarian",
+      "shrimp",
+      "tagine",
+      "eggplant",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "y"
   }
 ]

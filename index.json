@@ -5332,17 +5332,15 @@
   },
   {
     "slug": "yellow-spiced-indian-manchego-curry",
-    "title": "Yellow Spiced Indian Manchego Curry",
+    "title": "Spiced Yellow Curry with Manchego Crust",
     "tags": [
+      "indian",
+      "curry",
       "cheesy",
-      "comfort-food",
-      "flexitarian",
-      "indian-cuisine",
-      "one-pot",
-      "spicy"
+      "easy-dinner"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -15704,6 +15702,31 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-lacquered-korean-tofu-sujebi--indian",
+    "title": "Spicy Sujebi Tofu Curry",
+    "tags": [
+      "indian",
+      "korean",
+      "curry",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-savory-uruguayan-chinese-leaf-skewers--indian",
+    "title": "Savory Chicken Tikka Skewers",
+    "tags": [
+      "indian",
+      "chicken",
+      "grilled"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

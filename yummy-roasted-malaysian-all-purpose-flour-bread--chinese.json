@@ -1,0 +1,54 @@
+{
+  "slug": "yummy-roasted-malaysian-all-purpose-flour-bread--chinese",
+  "title": "Crunchy Malaysian Fried Bread",
+  "description": "A Chinese-inspired snack made with crispy fried bread, perfect for a quick bite.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bread",
+      "amount": "2 pieces",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "1/2 cup",
+      "notes": "vegetable or peanut oil"
+    }
+  ],
+  "instructions": [
+    "Cut bread into small cubes.",
+    "Heat oil in a deep frying pan to 350°F (180°C).",
+    "Dredge bread cubes in flour, shaking off excess.",
+    "Fry bread cubes in batches until golden brown and crispy.",
+    "Drain on paper towels and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fried",
+    "snack",
+    "chinese",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-roasted-malaysian-all-purpose-flour-bread--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:52:51.294Z"
+}

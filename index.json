@@ -15878,5 +15878,45 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellowish-chinese-fenugreek-curry--vegan",
+    "title": "Fenugreek Curry Stew",
+    "tags": [
+      "vegan",
+      "indian",
+      "curry",
+      "stew",
+      "fenugreek"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-citrusy-australian-shrimp-pasta--japanese",
+    "title": "Japanese-Style Shrimp Pasta",
+    "tags": [
+      "japanese",
+      "seafood",
+      "pasta",
+      "shrimp"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-croatian-bread-flour-bowl--mexican",
+    "title": "Tortillas",
+    "tags": [
+      "homemade",
+      "mexican",
+      "tortillas",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "y"
   }
 ]

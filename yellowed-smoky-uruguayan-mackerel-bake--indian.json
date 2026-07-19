@@ -1,0 +1,96 @@
+{
+  "slug": "yellowed-smoky-uruguayan-mackerel-bake--indian",
+  "title": "Smoky Mackerel Tikka Masala",
+  "description": "A twist on the classic Indian dish, Smoky Mackerel Tikka Masala incorporates the bold flavors of Uruguayan mackerel into a rich and creamy sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan Mackerel",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Yellowed Curry Powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bake Ground Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F.",
+    "2. In a small bowl, mix together curry powder, cumin, and paprika.",
+    "3. Rub the spice blend onto both sides of the mackerel fillets.",
+    "4. Bake the mackerel in the oven for 8-10 minutes or until cooked through.",
+    "5. While the mackerel is baking, heat oil in a large saucepan over medium heat.",
+    "6. Add the ginger paste and garlic and sauté for 1-2 minutes.",
+    "7. Add the tomato puree and heavy cream, stir to combine.",
+    "8. Bring the sauce to a simmer and cook for 5-7 minutes or until thickened.",
+    "9. Once the mackerel is done, add it to the sauce and stir to coat.",
+    "10. Season with salt and black pepper to taste.",
+    "11. Serve the Smoky Mackerel Tikka Masala hot over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tikka masala",
+    "mackerel",
+    "indian",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-smoky-uruguayan-mackerel-bake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:06:52.720Z"
+}

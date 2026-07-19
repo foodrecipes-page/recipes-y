@@ -1,0 +1,92 @@
+{
+  "slug": "yellow-spicy-thai-chicken-skewers--thai",
+  "title": "Spicy Thai Chicken Skewers",
+  "description": "A simple and flavorful Thai-inspired dish featuring chicken skewers marinated in a spicy and aromatic sauce.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yellow chilies",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml",
+      "notes": "optional"
+    },
+    {
+      "name": "thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine yellow chilies, garlic, fish sauce, brown sugar, soy sauce, and coconut milk (if using). Blend until smooth.",
+    "Add the blended mixture to the chicken pieces and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked through.",
+    "Transfer the skewers to a plate and garnish with chopped thai basil leaves and bruised lemongrass.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "skewers",
+    "spicy",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-thai-chicken-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:10:01.302Z"
+}

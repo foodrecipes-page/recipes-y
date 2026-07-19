@@ -15818,5 +15818,18 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-smoky-british-sausages-bangers-and-mash--vegan",
+    "title": "British Vegan Mash",
+    "tags": [
+      "vegan",
+      "british",
+      "mash",
+      "sausages"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

@@ -1,0 +1,90 @@
+{
+  "slug": "yellowish-chinese-fenugreek-curry--vegan",
+  "title": "Fenugreek Curry Stew",
+  "description": "A hearty and flavorful stew made with fenugreek and a hint of curry, perfect for a cold winter night.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellowish potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "chinese cabbage",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "fenugreek leaves",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "vegan oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add curry powder and cook for 1 minute, stirring constantly.",
+    "Add potatoes, cabbage, and fenugreek leaves.",
+    "Pour in enough water to cover the vegetables and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until the potatoes are tender.",
+    "Season with salt and lemon juice to taste.",
+    "Serve hot, garnished with additional fenugreek leaves if desired.",
+    "Note: Traditionally, fenugreek is cooked with mustard oil, but vegan oil is a suitable substitute."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "indian",
+    "curry",
+    "stew",
+    "fenugreek"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-chinese-fenugreek-curry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:52:36.810Z"
+}

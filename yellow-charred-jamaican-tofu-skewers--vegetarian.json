@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-charred-jamaican-tofu-skewers--vegetarian",
+  "title": "Jamaican Tofu Skewers",
+  "description": "A flavorful and healthy vegetarian dish with marinated tofu and vegetables grilled to perfection on skewers.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 medium",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "charred red onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together jerk seasoning, olive oil, and lime juice.",
+    "3. Cut tofu into 1-inch cubes and add to the bowl, tossing to coat.",
+    "4. Alternate adding tofu, bell pepper, and onion to the skewers.",
+    "5. Brush the grill with olive oil to prevent sticking.",
+    "6. Grill skewers for 8-10 minutes, turning occasionally, until tofu is golden brown and vegetables are tender.",
+    "7. Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "grilled",
+    "skewers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-charred-jamaican-tofu-skewers--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:56:54.390Z"
+}

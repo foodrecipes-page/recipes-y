@@ -1,0 +1,65 @@
+{
+  "slug": "yummy-roasted-malaysian-all-purpose-flour-bread--indian",
+  "title": "Indian-Style Bread Rolls",
+  "description": "Soft, fluffy bread rolls infused with the warm flavors of India. Perfect for a snack or side dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "Use warm water and yeast for a lighter dough"
+    },
+    {
+      "name": "bread",
+      "amount": "2 cups",
+      "notes": "Use a crusty bread for a more rustic texture"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "malaysian",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Combine warm water and yeast in a large mixing bowl. Let it sit for 5 minutes until frothy.",
+    "2. Add bread, yummy, and malaysian to the bowl. Mix until well combined.",
+    "3. Gradually add all-purpose flour to the bowl, kneading the dough for 10 minutes until smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "5. Preheat oven to 375°F (190°C).",
+    "6. Punch down the dough and divide it into 8-10 equal portions.",
+    "7. Roll each portion into a ball and then flatten it slightly into a disk shape.",
+    "8. Place the rolls on a baking sheet lined with parchment paper, leaving about 1 inch of space between each roll.",
+    "9. Bake the rolls in the preheated oven for 15-20 minutes, or until golden brown.",
+    "10. Remove the rolls from the oven and let them cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "indian",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-roasted-malaysian-all-purpose-flour-bread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:53:34.195Z"
+}

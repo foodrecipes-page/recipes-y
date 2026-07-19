@@ -15728,5 +15728,43 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-roasted-malaysian-all-purpose-flour-bread--chinese",
+    "title": "Crunchy Malaysian Fried Bread",
+    "tags": [
+      "fried",
+      "snack",
+      "chinese",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-roasted-malaysian-all-purpose-flour-bread--indian",
+    "title": "Indian-Style Bread Rolls",
+    "tags": [
+      "bread",
+      "indian",
+      "snack",
+      "easy-to-make"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-brazilian-peas-curry--thai",
+    "title": "Thai Yeasty Curry",
+    "tags": [
+      "vegan",
+      "thai-curry",
+      "yeasty"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

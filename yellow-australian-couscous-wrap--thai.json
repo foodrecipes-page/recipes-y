@@ -1,0 +1,91 @@
+{
+  "slug": "yellow-australian-couscous-wrap--thai",
+  "title": "Thai-Style Chicken Wrap",
+  "description": "A quick and easy Thai-inspired wrap filled with grilled chicken, crunchy vegetables, and flavorful spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Chicken Breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Yellow Thai Curry Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Large Flour Wrap",
+      "amount": "1",
+      "notes": "Soft and pliable"
+    },
+    {
+      "name": "Mixed Vegetables (bell peppers, carrots, cucumber)",
+      "amount": "1 cup",
+      "notes": "Sliced and chopped"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai Basil Leaves",
+      "amount": "2-3",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the yellow Thai curry paste, soy sauce, and honey. Add the sliced chicken breast and marinate for at least 15 minutes.",
+    "2. Preheat a grill or grill pan to medium-high heat. Remove the chicken from the marinade and cook until it reaches an internal temperature of 165°F (74°C).",
+    "3. Meanwhile, cook the couscous according to package instructions.",
+    "4. Warm the large flour wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Assemble the wrap by adding the cooked chicken, cooked couscous, mixed vegetables, chopped cilantro, and chopped Thai basil leaves.",
+    "6. Drizzle with additional soy sauce and honey if desired.",
+    "7. Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "wrap",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-australian-couscous-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:08:40.764Z"
+}

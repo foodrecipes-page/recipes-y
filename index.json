@@ -15852,5 +15852,31 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-smoky-uruguayan-mackerel-bake--indian",
+    "title": "Smoky Mackerel Tikka Masala",
+    "tags": [
+      "tikka masala",
+      "mackerel",
+      "indian",
+      "fish"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-bitter-saudi-arabian-spaghetti-pasta--gluten-free",
+    "title": "Gluten-Free Saudi Arabian Spaghetti",
+    "tags": [
+      "gluten-free",
+      "saudi-arabian",
+      "middle-eastern",
+      "beef"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

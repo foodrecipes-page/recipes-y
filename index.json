@@ -4979,17 +4979,15 @@
   },
   {
     "slug": "yellow-smoky-italian-mackerel-skillet",
-    "title": "Yellow Smoky Italian Mackerel Skillet",
+    "title": "Smoky Skillet Mackerel",
     "tags": [
-      "italian-food",
-      "one-pan",
-      "plant-based-friendly",
-      "quick-dinner",
-      "seafood",
+      "italian",
+      "mackerel",
+      "skillet",
       "smoky"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 27,
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "y"
   },
   {
@@ -15826,6 +15824,33 @@
     ],
     "cuisine": null,
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-molten-spanish-shrimp-gambas-al-ajillo--thai",
+    "title": "Thai Gambas Fritters",
+    "tags": [
+      "thai",
+      "snack",
+      "shrimp",
+      "fritters"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-australian-couscous-wrap--thai",
+    "title": "Thai-Style Chicken Wrap",
+    "tags": [
+      "thai",
+      "chicken",
+      "wrap",
+      "easy",
+      "quick"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "y"
   }
 ]

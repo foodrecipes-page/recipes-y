@@ -8727,16 +8727,14 @@
   },
   {
     "slug": "yellowed-rich-british-beef-stew",
-    "title": "Yellowed Rich British Beef Stew",
+    "title": "Classic British Beef Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "pressure-cooker",
-      "weeknight"
+      "beef",
+      "stew",
+      "british"
     ],
     "cuisine": "British",
-    "totalTimeMin": 50,
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {
@@ -16009,6 +16007,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-caramelized-moroccan-reblochon-tagine--vegan",
+    "title": "Moroccan Yellow Lentil Stew",
+    "tags": [
+      "lentils",
+      "moroccan",
+      "stew",
+      "vegan",
+      "comfort-food"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
     "shard": "y"
   }
 ]

@@ -1,0 +1,74 @@
+{
+  "slug": "yummy-charred-uruguayan-callaloo-stir-fry--chinese",
+  "title": "Charred Callaloo Stir Fry",
+  "description": "A quick and easy stir fry recipe with charred callaloo, inspired by Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "stir",
+      "amount": "2 tsp",
+      "notes": "stir-fry paste"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "1 tsp",
+      "notes": "uruguayan seasoning"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over high heat.",
+    "Add the garlic and stir-fry for 1 minute until fragrant.",
+    "Add the uruguayan seasoning and stir for another minute.",
+    "Add the callaloo and stir-fry for 3-4 minutes until it starts to char.",
+    "Add the stir-fry paste and soy sauce, and stir for another minute.",
+    "Add the sugar and stir for a final minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-charred-uruguayan-callaloo-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:43:21.645Z"
+}

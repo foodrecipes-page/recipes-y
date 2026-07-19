@@ -1,0 +1,97 @@
+{
+  "slug": "yellow-smoky-syrian-lamb-stew",
+  "title": "Smoky Lamb Stew",
+  "description": "A hearty and flavorful stew made with tender lamb and a rich, smoky flavor.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Syrian chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Add onion to pot and cook until softened, about 5 minutes.",
+    "Add garlic, smoky paprika, and Syrian chili flakes to pot and cook for 1 minute.",
+    "Add tomato paste to pot and cook for 1 minute.",
+    "Add beef broth and diced tomatoes to pot, scraping up any browned bits.",
+    "Return lamb to pot and bring to a boil.",
+    "Cover pot and transfer to oven.",
+    "Bake at 300°F for 2 1/2 hours, or until lamb is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "smoky",
+    "middle eastern",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-syrian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:34:15.302Z"
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "yellowed-savory-uruguayan-chinese-leaf-skewers--indian",
+  "title": "Savory Chicken Tikka Skewers",
+  "description": "Tender and flavorful chicken skewers cooked in a blend of Indian spices, served as a delicious snack or appetizer.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Savory",
+      "amount": "1 tablespoon",
+      "notes": "uruguayan savory spice blend"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Yellowed onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together savory, chili powder, garam masala, and lemon juice.",
+    "Add the chicken pieces to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated chicken onto skewers, leaving a little space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Transfer the skewers to a serving platter and garnish with chopped cilantro and onions.",
+    "Serve hot with naan or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-savory-uruguayan-chinese-leaf-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:24:20.118Z"
+}

@@ -15955,5 +15955,60 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-thai-chicken-skewers--thai",
+    "title": "Spicy Thai Chicken Skewers",
+    "tags": [
+      "thai",
+      "chicken",
+      "skewers",
+      "spicy",
+      "grill"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 36,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-slow-cooked-argentinian-pork-knuckle-bowl--thai",
+    "title": "Slow Cooked Pork Knuckle Thai Curry",
+    "tags": [
+      "thai",
+      "curry",
+      "pork",
+      "slow-cooked",
+      "comfort-food"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 135,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crisp-tunisian-vegetable-tagine--indian",
+    "title": "Tunisian Vegetable Tagine",
+    "tags": [
+      "indian",
+      "north-african",
+      "vegetarian",
+      "gluten-free",
+      "one-pot",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-charred-uruguayan-callaloo-stir-fry--chinese",
+    "title": "Charred Callaloo Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "veggie"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

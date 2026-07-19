@@ -1,0 +1,86 @@
+{
+  "slug": "yellowed-crisp-tunisian-vegetable-tagine--indian",
+  "title": "Tunisian Vegetable Tagine",
+  "description": "A flavorful and aromatic North African-inspired vegetable stew, served over basmati rice. This dish is a perfect blend of Tunisian and Indian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "crisp bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "tunisian olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "Use a mix of cumin, coriander, cinnamon, and turmeric"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and bell pepper, cook until softened, about 5 minutes.",
+    "Add olives, broth, and spice blend. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in ghee or oil. Serve over basmati rice, garnished with parsley.",
+    "Cook rice according to package instructions.",
+    "Fluff cooked rice with a fork and serve alongside the tagine.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "north-african",
+    "vegetarian",
+    "gluten-free",
+    "one-pot",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crisp-tunisian-vegetable-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:20:05.895Z"
+}

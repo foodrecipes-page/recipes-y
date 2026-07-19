@@ -1,0 +1,83 @@
+{
+  "slug": "yellow-roasted-japanese-chicken-yakitori",
+  "title": "Yakitori-Style Japanese Chicken Skewers",
+  "description": "A simple and flavorful Japanese-inspired chicken dish made with chicken breast, roasted yellow peppers, and a touch of sweetness from the yakitori sauce. Perfect for a quick and easy dinner or lunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Roasted yellow peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Yakitori sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together yakitori sauce, soy sauce, honey, ginger, and garlic.",
+    "Add the chicken to the marinade and mix well to coat.",
+    "Thread the chicken, roasted yellow peppers, and green onions onto skewers.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "Serve hot with additional yakitori sauce for dipping, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "japanese",
+    "grilled",
+    "skewers",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-roasted-japanese-chicken-yakitori",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:34:54.636Z"
+}

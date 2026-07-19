@@ -1,0 +1,75 @@
+{
+  "slug": "yeasty-polish-yeast-galette",
+  "title": "Traditional Polish Yeast Galette",
+  "description": "A classic Polish dessert featuring a flaky yeast dough and topped with a sweet, buttery filling.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1 1/2 teaspoons active dry yeast",
+      "notes": ""
+    },
+    {
+      "name": "polish",
+      "amount": "2 1/4 cups all-purpose flour",
+      "notes": ""
+    },
+    {
+      "name": "yeasty",
+      "amount": "1/2 cup warm water",
+      "notes": "around 105°F"
+    },
+    {
+      "name": "galette",
+      "amount": "1/4 cup unsalted butter, melted",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup granulated sugar",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1 large egg",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the yeast and warm water. Let it sit for 5-10 minutes until it becomes frothy.",
+    "In a large mixing bowl, combine the flour and sugar.",
+    "Add the yeast mixture to the dry ingredients and mix until a shaggy dough forms.",
+    "Add the melted butter and egg, and mix until the dough comes together.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1-2 hours, or until it has doubled in size.",
+    "Preheat the oven to 375°F (190°C).",
+    "Punch down the dough and roll it out into a circle that is about 1/4 inch thick.",
+    "Transfer the dough to a greased baking sheet and spread the sugar evenly over the dough.",
+    "Bake the galette for 20-25 minutes, or until it is golden brown.",
+    "Remove the galette from the oven and let it cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "yeast-bread",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-polish-yeast-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:36:44.733Z"
+}

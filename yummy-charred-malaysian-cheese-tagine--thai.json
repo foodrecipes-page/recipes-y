@@ -1,0 +1,77 @@
+{
+  "slug": "yummy-charred-malaysian-cheese-tagine--thai",
+  "title": "Thai Charred Cheese Satay",
+  "description": "A twist on traditional satay, this Thai-inspired dish features charred cheese as the main protein, served with a side of spicy peanut sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "charred cheese",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "yummy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut the charred cheese into skewers.",
+    "3. Brush the cheese with vegetable oil and season with tagine spice blend.",
+    "4. Grill the cheese for 2-3 minutes per side, or until slightly charred.",
+    "5. Meanwhile, heat yummy sauce in a saucepan over medium heat.",
+    "6. Add peanuts to the saucepan and stir until coated in sauce.",
+    "7. Serve grilled cheese with peanut sauce and garnish with garlic.",
+    "8. Serve immediately and enjoy!",
+    "9. Optional: serve with a side of steamed vegetables or a simple salad.",
+    "10. Optional: add a sprinkle of malaysian chili flakes for extra heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "grilled",
+    "cheese",
+    "satay",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-charred-malaysian-cheese-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:13:24.276Z"
+}

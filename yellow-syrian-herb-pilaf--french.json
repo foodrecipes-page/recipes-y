@@ -1,0 +1,57 @@
+{
+  "slug": "yellow-syrian-herb-pilaf--french",
+  "title": "French Herb Pilaf",
+  "description": "A flavorful and aromatic French pilaf dish made with herbs and pilaf. Perfect as a side or main course.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Fresh Herb",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Syrian",
+      "amount": "2 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add pilaf and cook for another 2 minutes.",
+    "Add chopped herbs and Syrian, and stir to combine.",
+    "Add 2 cups of water, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the liquid is absorbed.",
+    "Fluff pilaf with a fork, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "herb",
+    "pilaf",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-syrian-herb-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:28:08.346Z"
+}

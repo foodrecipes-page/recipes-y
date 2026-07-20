@@ -1,0 +1,65 @@
+{
+  "slug": "yeasty-dense-tunisian-butter-tagine--vegetarian",
+  "title": "Tunisian Yeast Focaccia",
+  "description": "A delicious and easy-to-make yeast-based flatbread inspired by Tunisian cuisine, perfect for snacking or as a side dish.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeasty",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dense",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "tagine",
+      "amount": "1/2 cup",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Combine yeasty, dense and 1 teaspoon of salt in a large mixing bowl.",
+    "Gradually add 1 cup of warm water and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic.",
+    "Place the dough in a greased bowl and let it rise in a warm place for 1 hour.",
+    "Preheat oven to 400°F (200°C).",
+    "Punch down the dough and roll it out to a thickness of 1/2 inch.",
+    "Brush the dough with melted butter and drizzle with olive oil.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Remove from oven and let cool for 5 minutes before slicing.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "focaccia",
+    "tunisian-cuisine",
+    "yeast-bread",
+    "vegetarian-bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-dense-tunisian-butter-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:21:07.496Z"
+}

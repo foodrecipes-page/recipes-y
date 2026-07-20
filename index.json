@@ -16266,5 +16266,18 @@
     "cuisine": "french",
     "totalTimeMin": 80,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-crispy-italian-sausage-orecchiette--keto",
+    "title": "Crispy Italian Sausage with Orecchiette",
+    "tags": [
+      "italian",
+      "keto",
+      "sausage",
+      "pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "y"
   }
 ]

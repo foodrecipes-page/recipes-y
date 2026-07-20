@@ -1,0 +1,90 @@
+{
+  "slug": "yummy-sweet-jamaican-pork-roast--french",
+  "title": "French-Style Jamaican Pork Roast",
+  "description": "A fusion dish that combines the flavors of Jamaica with the technique of a French roast.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 lbs",
+      "notes": null
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork roast with the jamaican jerk seasoning, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork roast for 2-3 minutes on each side, or until browned.",
+    "Remove the pork from the pot and set it aside.",
+    "Add the sliced onion to the pot and cook until it's softened and lightly browned.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sweet potatoes, soy sauce, brown sugar, and apple cider vinegar to the pot.",
+    "Return the pork roast to the pot and make sure it's coated with the sauce.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the pork for 20-25 minutes per pound, or until it reaches an internal temperature of 145°F (63°C).",
+    "Let the pork rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "jamaican",
+    "pork",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 33
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-sweet-jamaican-pork-roast--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:24:48.059Z"
+}

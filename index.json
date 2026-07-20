@@ -11249,17 +11249,15 @@
   },
   {
     "slug": "yummy-cajun-mediterranean-couscous-sushi",
-    "title": "Yummy Cajun Mediterranean Couscous Sushi",
+    "title": "Cajun Sushi Couscous",
     "tags": [
       "cajun",
-      "low-calorie",
-      "mediterranean",
-      "plant-based",
-      "quick-plate",
       "sushi",
-      "vegan"
+      "couscous",
+      "fusion",
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
+    "cuisine": "Fusion",
     "totalTimeMin": 25,
     "shard": "y"
   },

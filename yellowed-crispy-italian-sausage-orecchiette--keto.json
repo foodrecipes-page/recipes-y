@@ -1,0 +1,74 @@
+{
+  "slug": "yellowed-crispy-italian-sausage-orecchiette--keto",
+  "title": "Crispy Italian Sausage with Orecchiette",
+  "description": "A keto-friendly take on a classic Italian dish, featuring crispy sausage and orecchiette pasta.",
+  "cuisine": "italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian sausage",
+      "amount": "1 pound",
+      "notes": "look for a sugar-free option"
+    },
+    {
+      "name": "Orecchiette pasta",
+      "amount": "8 oz",
+      "notes": "make sure it's low-carb"
+    },
+    {
+      "name": "Crushed Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "freshly grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the Italian sausage into 1/2-inch thick rounds.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the sausage and cook for 2-3 minutes per side, or until crispy.",
+    "Transfer the sausage to a baking sheet and bake for an additional 5 minutes.",
+    "While the sausage is baking, cook the orecchiette pasta according to package instructions.",
+    "Combine the cooked pasta, crispy sausage, and parmesan cheese in a large bowl.",
+    "Season with Italian seasoning and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "keto",
+    "sausage",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 8,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crispy-italian-sausage-orecchiette--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:17:45.959Z"
+}

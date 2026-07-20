@@ -1,0 +1,77 @@
+{
+  "slug": "yeasty-brazilian-peas-curry--french",
+  "title": "French-Style Yeast Fritters with Peas and Curry",
+  "description": "Crispy fritters filled with a blend of peas, yeast, and curry, perfect for a snack or side dish. A delicious twist on traditional French cuisine.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup, frozen"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup, melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine yeast, flour, and salt.",
+    "2. Add water, eggs, and melted butter, mix until a smooth batter forms.",
+    "3. Stir in peas and curry.",
+    "4. Cover the bowl with plastic wrap and let it rise in a warm place for about 1 hour, or until doubled in size.",
+    "5. Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "6. Using a spoon, drop small balls of the dough into the hot oil.",
+    "7. Fry the fritters for about 3-4 minutes on each side, or until golden brown.",
+    "8. Remove the fritters from the oil and drain on paper towels.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "yeast",
+    "peas",
+    "curry",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-brazilian-peas-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:19:54.530Z"
+}

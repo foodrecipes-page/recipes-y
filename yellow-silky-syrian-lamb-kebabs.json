@@ -1,0 +1,84 @@
+{
+  "slug": "yellow-silky-syrian-lamb-kebabs",
+  "title": "Syrian-Style Lamb Kebabs",
+  "description": "Tender lamb skewers marinated in a blend of Middle Eastern spices, perfect for a flavorful dinner experience.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Syrian",
+      "amount": "2 tablespoons",
+      "notes": "Syrian spice blend"
+    },
+    {
+      "name": "Yellow",
+      "amount": "1 tablespoon",
+      "notes": "Lemon juice"
+    },
+    {
+      "name": "Silky",
+      "amount": "1 tablespoon",
+      "notes": "Olive oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together Syrian spice blend, lemon juice, olive oil, garlic, smoked paprika, salt, and black pepper.",
+    "Add the lamb pieces to the marinade and mix until they are well coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until they are cooked to your desired level of doneness.",
+    "Transfer the kebabs to a serving platter and let them rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as rice, salad, or couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "middle-eastern",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-silky-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:29:06.385Z"
+}

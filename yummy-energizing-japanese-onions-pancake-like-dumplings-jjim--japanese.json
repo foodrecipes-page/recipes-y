@@ -1,0 +1,89 @@
+{
+  "slug": "yummy-energizing-japanese-onions-pancake-like-dumplings-jjim--japanese",
+  "title": "Japanese Chicken Jjim",
+  "description": "A traditional Japanese-inspired dish featuring marinated chicken and steamed dumplings. Perfect for a comforting meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dumplings",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soy sauce, sugar, ginger, garlic, and rice vinegar. Add the chicken and marinate for at least 30 minutes.",
+    "2. Heat sesame oil in a pan over medium-high heat. Add the sliced onions and cook until caramelized, about 5-7 minutes.",
+    "3. Add the marinated chicken to the pan and cook until browned, about 5-7 minutes.",
+    "4. Add the steamed dumplings to the pan and cook for an additional 2-3 minutes.",
+    "5. Serve the chicken and dumplings hot, garnished with green onions and sesame seeds.",
+    "6. Steam the dumplings according to package instructions and set aside.",
+    "7. Cook the chicken to an internal temperature of 165°F (74°C).",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 19
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-energizing-japanese-onions-pancake-like-dumplings-jjim--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:53:03.609Z"
+}

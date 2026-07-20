@@ -16062,5 +16062,72 @@
     "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "y"
+  },
+  {
+    "slug": "yeasty-brazilian-peas-curry--french",
+    "title": "French-Style Yeast Fritters with Peas and Curry",
+    "tags": [
+      "french",
+      "yeast",
+      "peas",
+      "curry",
+      "fritters"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-korean-sevaiiya-noodles--japanese",
+    "title": "Spicy Korean-Style Noodle Stir-Fry",
+    "tags": [
+      "korean",
+      "noodle-stir-fry",
+      "spicy",
+      "japanese-cuisine",
+      "vegan"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-tunisian-bun-toast--vegan",
+    "title": "Tunisian Yeast Bun Toast",
+    "tags": [
+      "breakfast",
+      "vegan",
+      "bread",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 15,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-indian-falafel-grill--mexican",
+    "title": "Indian-Style Grilled Chicken Tacos",
+    "tags": [
+      "indian",
+      "chicken",
+      "tacos",
+      "grilled"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-energizing-japanese-onions-pancake-like-dumplings-jjim--japanese",
+    "title": "Japanese Chicken Jjim",
+    "tags": [
+      "japanese",
+      "chicken",
+      "dumplings",
+      "comfort-food"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "y"
   }
 ]

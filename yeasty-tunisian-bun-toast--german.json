@@ -1,0 +1,64 @@
+{
+  "slug": "yeasty-tunisian-bun-toast--german",
+  "title": "German Pretzel Bites",
+  "description": "A delicious German-inspired appetizer featuring soft, fluffy pretzels with a hint of saltiness.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeasty",
+      "amount": "1 package active dry yeast",
+      "notes": null
+    },
+    {
+      "name": "tunisian",
+      "amount": "2 cups warm water",
+      "notes": null
+    },
+    {
+      "name": "bun",
+      "amount": "4 cups all-purpose flour",
+      "notes": null
+    },
+    {
+      "name": "toast",
+      "amount": "1/4 cup salt",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine yeast, warm water, and a pinch of sugar. Let it sit for 5 minutes until the mixture becomes frothy.",
+    "Add flour, salt, and a tablespoon of oil to the bowl. Mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and then use your hands to shape it into a pretzel.",
+    "Place the pretzels on the prepared baking sheet, leaving about 1 inch of space between each pretzel.",
+    "Bake the pretzels in the preheated oven for 12-15 minutes until they are golden brown.",
+    "Remove the pretzels from the oven and let them cool on a wire rack for 5 minutes.",
+    "Serve the pretzels warm with a side of mustard or cheese sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pretzels",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-tunisian-bun-toast--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:57:55.781Z"
+}

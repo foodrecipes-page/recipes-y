@@ -1,0 +1,63 @@
+{
+  "slug": "yeasty-syrian-deodeok-root-flatbread--japanese",
+  "title": "Japanese-Style Flatbread with Deodeok and Syrian",
+  "description": "A unique fusion of Japanese and Middle Eastern flavors featuring deodeok and syrian flatbread.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yeasty flatbread",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "syrian flatbread",
+      "amount": "1 package",
+      "notes": "crushed"
+    },
+    {
+      "name": "deodeok",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "root (carrot or parsnip)",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the yeasty flatbread into 1-inch squares.",
+    "Mix crushed syrian flatbread with sliced deodeok and root in a bowl.",
+    "Add the flatbread squares to the bowl and toss to combine.",
+    "Transfer the mixture to a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until the flatbread is crispy and golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "middle-eastern",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-syrian-deodeok-root-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:40:59.388Z"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "yellowed-flaky-greek-semolina-custard-galaktoboureko--keto",
+  "title": "Galaktoboureko Keto Custard Pie",
+  "description": "A creamy keto custard pie wrapped in a semolina pastry, perfect for a low-carb dessert.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Semolina pastry crust",
+      "amount": "1 1/2 cups",
+      "notes": "use a low-carb pastry recipe"
+    },
+    {
+      "name": "Custard filling",
+      "amount": "1 cup",
+      "notes": "make sure to use a sugar-free sweetener"
+    },
+    {
+      "name": "Yellowed Greek cheese",
+      "amount": "1/2 cup",
+      "notes": "grate the cheese for the filling"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1/2 cup",
+      "notes": "use a low-carb pastry recipe"
+    },
+    {
+      "name": "Galaktoboureko syrup",
+      "amount": "2 tablespoons",
+      "notes": "make sure to use a sugar-free sweetener"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2",
+      "notes": "use for the custard filling"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "use for the custard filling"
+    },
+    {
+      "name": "Sugar-free sweetener",
+      "amount": "1/4 cup",
+      "notes": "use to sweeten the custard filling"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "use to grease the pastry crust"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the semolina pastry crust according to the recipe.",
+    "In a separate bowl, whisk together the egg yolks, heavy cream, and sugar-free sweetener.",
+    "Add the grated yellowed Greek cheese to the bowl and whisk until well combined.",
+    "Pour the custard filling into the prepared pastry crust.",
+    "Roll out the flaky pastry to fit the top of the pie.",
+    "Place the pastry on top of the pie and crimp the edges to seal.",
+    "Brush the top of the pie with the unsalted butter.",
+    "Bake the pie for 40-45 minutes, or until the pastry is golden brown.",
+    "Remove the pie from the oven and let it cool for 10-15 minutes.",
+    "Drizzle the galaktoboureko syrup over the top of the pie.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "low-carb",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-greek-semolina-custard-galaktoboureko--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:48:01.027Z"
+}

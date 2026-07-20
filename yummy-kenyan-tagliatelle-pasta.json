@@ -1,0 +1,76 @@
+{
+  "slug": "yummy-kenyan-tagliatelle-pasta",
+  "title": "Kenyan Tagliatelle Pasta",
+  "description": "A fusion dish that combines Kenyan spices with Italian tagliatelle pasta, creating a unique and flavorful experience.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle pasta",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "yummy vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1 small",
+      "notes": null
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the tagliatelle pasta according to the package instructions. Drain and set aside.",
+    "Heat the yummy vegetable oil in a large pan over medium heat.",
+    "Add the chopped onion, garlic, and chili pepper. Cook until the onion is translucent.",
+    "Add the tomato sauce and stir well.",
+    "Add the cooked tagliatelle pasta to the pan and toss everything together.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "kenyan-cuisine",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-kenyan-tagliatelle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:32:18.004Z"
+}

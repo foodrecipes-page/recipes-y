@@ -1,0 +1,88 @@
+{
+  "slug": "yellowfin-peruvian-fish-rocoto-relleno--keto",
+  "title": "Pan-Seared Yellowfin Steak with Rocoto Relleno",
+  "description": "A keto-friendly dish featuring seared yellowfin tuna steak served with a Peruvian rocoto relleno stuffed with fish and rocoto peppers.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellowfin steak",
+      "amount": "4 oz (115g) per serving",
+      "notes": ""
+    },
+    {
+      "name": "Rocoto peppers",
+      "amount": "4",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Fish (such as cod or haddock)",
+      "amount": "2 oz (55g) per serving",
+      "notes": "flaked"
+    },
+    {
+      "name": "Peruvian rocoto relleno filling",
+      "amount": "1 cup (115g)",
+      "notes": "available in most Latin American markets"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp (30ml)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the yellowfin steak into 1-inch (2.5 cm) thick pieces.",
+    "3. Season the yellowfin steak with salt and pepper.",
+    "4. Heat the olive oil in a skillet over medium-high heat.",
+    "5. Sear the yellowfin steak for 2-3 minutes per side, or until cooked to desired doneness.",
+    "6. Meanwhile, prepare the rocoto relleno filling according to package instructions.",
+    "7. Stuff each yellowfin steak with a spoonful of the rocoto relleno filling.",
+    "8. Place the stuffed yellowfin steak on a baking sheet and bake in the preheated oven for 8-10 minutes, or until cooked through.",
+    "9. While the yellowfin steak is baking, heat the flaked fish in a skillet over medium heat.",
+    "10. Add the chopped rocoto peppers to the skillet with the fish and cook until heated through.",
+    "11. Serve the pan-seared yellowfin steak with the fish and rocoto pepper mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "yellowfin",
+    "tuna",
+    "keto",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowfin-peruvian-fish-rocoto-relleno--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:03:17.860Z"
+}

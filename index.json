@@ -16225,5 +16225,19 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-charred-malaysian-cheese-tagine--thai",
+    "title": "Thai Charred Cheese Satay",
+    "tags": [
+      "thai",
+      "grilled",
+      "cheese",
+      "satay",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "y"
   }
 ]

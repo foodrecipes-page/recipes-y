@@ -16186,5 +16186,44 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-japanese-pork-shoyu-ramen--chinese",
+    "title": "Japanese Ramen with Braised Pork",
+    "tags": [
+      "ramen",
+      "pork",
+      "chinese",
+      "braised"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 185,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-syrian-deodeok-root-flatbread--japanese",
+    "title": "Japanese-Style Flatbread with Deodeok and Syrian",
+    "tags": [
+      "japanese",
+      "middle-eastern",
+      "flatbread",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-peppery-middle-eastern-eggs-knafeh--french",
+    "title": "Middle Eastern French-Style Knafeh",
+    "tags": [
+      "knafeh",
+      "french-mid-eastern",
+      "dessert",
+      "cheese-pastry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "y"
   }
 ]

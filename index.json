@@ -12827,18 +12827,14 @@
   },
   {
     "slug": "yummy-kenyan-tagliatelle-pasta",
-    "title": "Yummy Kenyan Tagliatelle Pasta",
+    "title": "Kenyan Tagliatelle Pasta",
     "tags": [
-      "coconut-cream",
-      "kenyan",
-      "midnight-craving",
-      "one-pot",
-      "ovo-vegetarian",
-      "rich",
-      "tagliatelle"
+      "pasta",
+      "kenyan-cuisine",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -16128,6 +16124,58 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yolkless-german-egg-white-omelette-in-copper-mug--vegan",
+    "title": "Vegan Omelette Alternative",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "snack",
+      "tofu"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "y"
+  },
+  {
+    "slug": "yeast-infused-smoky-tunisian-mackerel-tagine--french",
+    "title": "Smoky Mackerel Tagine",
+    "tags": [
+      "fish",
+      "french",
+      "mackerel",
+      "tagine",
+      "smoky"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-flaky-greek-semolina-custard-galaktoboureko--keto",
+    "title": "Galaktoboureko Keto Custard Pie",
+    "tags": [
+      "keto",
+      "dessert",
+      "low-carb",
+      "greek"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 70,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-tunisian-bun-toast--german",
+    "title": "German Pretzel Bites",
+    "tags": [
+      "german",
+      "pretzels",
+      "appetizer"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

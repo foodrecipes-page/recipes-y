@@ -4746,17 +4746,15 @@
   },
   {
     "slug": "yellow-silky-syrian-lamb-kebabs",
-    "title": "Yellow Silky Syrian Lamb Kebabs",
+    "title": "Syrian-Style Lamb Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
+      "kebabs",
+      "lamb",
       "middle-eastern",
-      "one-pan",
-      "special-occasion",
-      "weeknight"
+      "grill"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 36,
     "shard": "y"
   },
   {
@@ -12070,17 +12068,15 @@
   },
   {
     "slug": "yummy-flambe-thai-cherry-nam-prik",
-    "title": "Yummy Flambe Thai Cherry Nam Prik",
+    "title": "Spicy Thai Flambé Shrimp",
     "tags": [
-      "ayurvedic-friendly",
-      "festive",
-      "glass-jelly",
-      "rajasic-friendly",
-      "slate-served",
-      "thai-flambe"
+      "spicy",
+      "thai",
+      "shrimp",
+      "seafood"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -16176,6 +16172,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yogurt-based-russian-fish-stew--japanese",
+    "title": "Japanese Baked Fish",
+    "tags": [
+      "japanese",
+      "fish",
+      "baked",
+      "healthy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "y"
   }
 ]

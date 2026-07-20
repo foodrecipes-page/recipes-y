@@ -1,0 +1,70 @@
+{
+  "slug": "yeasty-tunisian-bun-toast--vegan",
+  "title": "Tunisian Yeast Bun Toast",
+  "description": "A vegan recipe that combines the flavors of Tunisia with a crispy, yeasty bun.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bun",
+      "amount": "2"
+    },
+    {
+      "name": "Toast",
+      "amount": "1"
+    },
+    {
+      "name": "Tunisian yeast",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 375°F (190°C).",
+    "2. Slice the bun in half and toast it.",
+    "3. Spread a layer of vegan butter on each half of the bun.",
+    "4. Sprinkle chili flakes on top of the butter for added flavor (if using).",
+    "5. Place the bun under the broiler for 1-2 minutes, or until lightly toasted.",
+    "6. Mix the tunisian yeast with a little water to create a paste.",
+    "7. Brush the yeast paste onto the toasted bun.",
+    "8. Drizzle a small amount of olive oil onto the yeast paste.",
+    "9. Place the other half of the bun on top to create a sandwich.",
+    "10. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegan",
+    "bread",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-tunisian-bun-toast--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:42:45.600Z"
+}

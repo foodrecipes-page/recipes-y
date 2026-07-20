@@ -1,0 +1,94 @@
+{
+  "slug": "yummy-flambe-thai-cherry-nam-prik",
+  "title": "Spicy Thai Flambé Shrimp",
+  "description": "A spicy and flavorful Thai-inspired dish featuring succulent shrimp cooked in a flambé sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cherry",
+      "amount": "1 cup",
+      "notes": "sliced and pitted"
+    },
+    {
+      "name": "prik nam pla",
+      "amount": "2 tbsp",
+      "notes": "Thai fish sauce"
+    },
+    {
+      "name": "prik nam prik",
+      "amount": "1 tsp",
+      "notes": "Thai chili paste"
+    },
+    {
+      "name": "flambe",
+      "amount": "1/4 cup",
+      "notes": "cognac"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "granulated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "packed light brown sugar"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove shrimp from skillet and set aside.",
+    "Add cherry and cook until caramelized, about 3-4 minutes.",
+    "Add prik nam pla and prik nam prik and cook for 1 minute.",
+    "Add flambe and cook until flambé has almost completely evaporated, about 30 seconds.",
+    "Add sugar, soy sauce, and brown sugar, and cook for 1 minute.",
+    "Return shrimp to skillet and toss to coat with sauce.",
+    "Serve immediately, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "thai",
+    "shrimp",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-flambe-thai-cherry-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:04:00.242Z"
+}

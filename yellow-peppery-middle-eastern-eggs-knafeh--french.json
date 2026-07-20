@@ -1,0 +1,81 @@
+{
+  "slug": "yellow-peppery-middle-eastern-eggs-knafeh--french",
+  "title": "Middle Eastern French-Style Knafeh",
+  "description": "A unique fusion of French and Middle Eastern flavors, this knafeh is a sweet and savory pastry filled with a creamy cheese mixture.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Knafeh dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Confectioner's sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the knafeh dough and cut it into squares.",
+    "Mix the mozzarella and parmesan cheese together.",
+    "Place a spoonful of the cheese mixture onto one half of the dough square.",
+    "Add a few pieces of confectioner's sugar on top of the cheese.",
+    "Fold the other half of the dough square over the filling and press the edges together.",
+    "Brush the tops of the knafeh with the unsalted butter.",
+    "Beat the eggs in a small bowl and brush them over the tops of the knafeh.",
+    "Bake the knafeh in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Remove the knafeh from the oven and let it cool for 5 minutes.",
+    "Dust the knafeh with confectioner's sugar and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "knafeh",
+    "french-mid-eastern",
+    "dessert",
+    "cheese-pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-peppery-middle-eastern-eggs-knafeh--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:12:55.583Z"
+}

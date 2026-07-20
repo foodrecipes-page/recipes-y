@@ -1,0 +1,71 @@
+{
+  "slug": "yummy-creamy-japanese-tofu-kaiseki-course--keto",
+  "title": "Japanese-Style Keto Tofu Kaiseki Course",
+  "description": "A unique keto dish featuring a Japanese-inspired tofu course, perfect for a special evening meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (200g)",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "yummy",
+      "amount": "2 tbsp",
+      "notes": "keto-friendly sauce, such as teriyaki"
+    },
+    {
+      "name": "creamy",
+      "amount": "1/2 cup",
+      "notes": "keto-friendly cream, such as coconut cream"
+    },
+    {
+      "name": "course",
+      "amount": "1 cup",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "japanese",
+      "amount": "1 tsp",
+      "notes": "sesame oil"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Place the cubed tofu on a baking sheet lined with parchment paper.",
+    "3. Drizzle the sesame oil over the tofu and toss to coat.",
+    "4. Bake the tofu in the preheated oven for 20-25 minutes, or until golden brown.",
+    "5. In a small saucepan, heat the keto-friendly sauce over low heat.",
+    "6. Add the coconut cream to the saucepan and whisk until combined.",
+    "7. To assemble the dish, place a portion of the mixed greens on a plate.",
+    "8. Top the greens with a portion of the baked tofu.",
+    "9. Drizzle the creamy sauce over the tofu.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "japanese",
+    "tofu",
+    "dinner",
+    "course"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-creamy-japanese-tofu-kaiseki-course--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:24:46.125Z"
+}

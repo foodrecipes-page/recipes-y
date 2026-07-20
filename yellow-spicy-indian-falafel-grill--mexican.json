@@ -1,0 +1,102 @@
+{
+  "slug": "yellow-spicy-indian-falafel-grill--mexican",
+  "title": "Indian-Style Grilled Chicken Tacos",
+  "description": "Spice up your tacos with the flavors of India. Marinated chicken is grilled to perfection and served in tacos with your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "indian yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, non-fat"
+    },
+    {
+      "name": "yellow curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "spicy chili powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fajita-sized bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "small onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tortillas (corn or flour)",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese (optional)",
+      "amount": "",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "sour cream (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "cilantro (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine yogurt, curry powder, chili powder, cumin, garlic, and 1 tablespoon water. Blend until smooth.",
+    "Add the chicken to the marinade, turning to coat. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat grill to medium-high heat. Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Grill the chicken for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Meanwhile, grill the bell peppers and onions for 5-7 minutes per side, or until they are tender.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the grilled chicken and placing it on a warmed tortilla, followed by a spoonful of grilled peppers and onions. Serve with your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "tacos",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-indian-falafel-grill--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:46:27.783Z"
+}

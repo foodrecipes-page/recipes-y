@@ -1,0 +1,65 @@
+{
+  "slug": "yolkless-german-egg-white-omelette-in-copper-mug--vegan",
+  "title": "Vegan Omelette Alternative",
+  "description": "A plant-based omelette alternative made with tofu and spices, perfect for a quick breakfast or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1/2 block"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 teaspoon",
+      "notes": "adds color and flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a bowl, crumble the tofu and mix with chickpea flour, water, turmeric, salt, and black pepper.",
+    "Heat a non-stick pan over medium heat and add a small amount of oil.",
+    "Pour the tofu mixture into the pan and cook until the bottom is set.",
+    "Use a spatula to gently fold the omelette in half and cook for another minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "snack",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yolkless-german-egg-white-omelette-in-copper-mug--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:23:58.176Z"
+}

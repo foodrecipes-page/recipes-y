@@ -1,0 +1,83 @@
+{
+  "slug": "yummy-cajun-mediterranean-couscous-sushi",
+  "title": "Cajun Sushi Couscous",
+  "description": "A flavorful fusion of cajun spices with the delicate taste of sushi and the nutty goodness of couscous.",
+  "cuisine": "Fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "couscous seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "canned tuna in water",
+      "amount": "1 can (5 oz)",
+      "notes": "drained"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cajun seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sushi rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sushi nori",
+      "amount": "1 sheet"
+    }
+  ],
+  "instructions": [
+    "Bring water to a boil, add couscous seasoning and couscous.",
+    "Reduce heat to low, cover and simmer for 5 minutes.",
+    "Fluff with a fork.",
+    "Mix cajun seasoning with tuna, cucumber, and carrots.",
+    "Add sushi rice vinegar to the tuna mixture and mix well.",
+    "Prepare sushi nori by cutting it into smaller pieces.",
+    "Assemble sushi rolls with the tuna mixture and sushi nori.",
+    "Serve with couscous on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cajun",
+    "sushi",
+    "couscous",
+    "fusion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-cajun-mediterranean-couscous-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:03:43.349Z"
+}

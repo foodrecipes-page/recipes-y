@@ -1,0 +1,86 @@
+{
+  "slug": "yellowed-japanese-pork-shoyu-ramen--chinese",
+  "title": "Japanese Ramen with Braised Pork",
+  "description": "A Chinese-inspired recipe featuring braised pork and a flavorful ramen broth.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "shoyu",
+      "amount": "2 tbsp",
+      "notes": "or soy sauce"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of sesame oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork cubes until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add 1 tbsp of shoyu to the pot and stir to combine. Scrape up any browned bits from the bottom of the pot.",
+    "Add the sliced onion and cook until caramelized, about 8 minutes.",
+    "Add the sliced ginger, minced garlic, and cooked pork back to the pot. Stir to combine.",
+    "Add 4 cups of water to the pot and bring to a boil. Cover and transfer to the oven.",
+    "Braise the pork in the oven at 300°F (150°C) for 2 1/2 hours, or until tender.",
+    "While the pork braises, cook the ramen noodles according to package instructions.",
+    "To assemble the ramen, place a portion of noodles in a bowl and top with a slice of braised pork, some green onions, and a splash of shoyu.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 160,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ramen",
+    "pork",
+    "chinese",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-japanese-pork-shoyu-ramen--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:35:48.239Z"
+}

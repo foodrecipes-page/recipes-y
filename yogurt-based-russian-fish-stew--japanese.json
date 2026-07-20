@@ -1,0 +1,63 @@
+{
+  "slug": "yogurt-based-russian-fish-stew--japanese",
+  "title": "Japanese Baked Fish",
+  "description": "A simple Japanese-inspired baked fish recipe using Russian fish, yogurt, and a hint of stew spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russian fish",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": "Plain, unflavored"
+    },
+    {
+      "name": "Based",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Stew spices",
+      "amount": "1 tsp",
+      "notes": "Mix of soy sauce and sake"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the fish fillets on the baking sheet.",
+    "In a small bowl, mix together yogurt, based, and stew spices.",
+    "Brush the yogurt mixture evenly over the fish fillets.",
+    "Bake for 12-15 minutes or until the fish is cooked through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "fish",
+    "baked",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-based-russian-fish-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:15:25.862Z"
+}

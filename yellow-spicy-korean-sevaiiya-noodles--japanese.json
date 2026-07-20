@@ -1,0 +1,88 @@
+{
+  "slug": "yellow-spicy-korean-sevaiiya-noodles--japanese",
+  "title": "Spicy Korean-Style Noodle Stir-Fry",
+  "description": "A spicy and savory stir-fry made with Japanese-style noodles and Korean-inspired flavors.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese-style noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Sliced yellow bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the Japanese-style noodles according to package instructions. Drain and set aside.",
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the yellow onion and sliced yellow bell pepper to the skillet and cook until the vegetables are tender.",
+    "Add the Spicy Korean chili flakes and Korean chili paste to the skillet and cook for 1 minute.",
+    "Add the cooked noodles to the skillet and stir to combine with the spicy sauce.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Stir in the soy sauce and chopped green onions.",
+    "Serve the noodle stir-fry hot, garnished with chopped fresh cilantro.",
+    "Optional: Add sliced yellow onions or green onions on top of the noodles for added flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "noodle-stir-fry",
+    "spicy",
+    "japanese-cuisine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 65,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-korean-sevaiiya-noodles--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:33:54.394Z"
+}

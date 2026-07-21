@@ -1,0 +1,85 @@
+{
+  "slug": "yellowed-bitter-syrian-lamb-kebabs",
+  "title": "Syrian Lamb Kebabs",
+  "description": "Grilled lamb kebabs infused with the flavors of Syria, perfect for a hearty dinner. This recipe uses a mixture of spices and herbs to create a delicious and aromatic dish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Syrian oregano",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bitter paprika",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "yellowed onion, thinly sliced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together oregano, paprika, lemon juice, olive oil, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked through.",
+    "Transfer the kebabs to a serving platter and garnish with thinly sliced yellowed onion.",
+    "Serve hot with additional lemon wedges, if desired.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "lamb",
+    "kebabs",
+    "grilled",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-bitter-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:16:59.408Z"
+}

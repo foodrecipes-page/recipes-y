@@ -1,0 +1,72 @@
+{
+  "slug": "yellowed-light-italian-bread-toast--italian",
+  "title": "Grilled Paninis",
+  "description": "A classic Italian dish featuring grilled bread and a variety of fillings.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Light mozzarella cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Yellowed cheddar cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Slice the Italian bread in half lengthwise.",
+    "3. Brush the bread with light olive oil and season with salt and pepper.",
+    "4. Grill the bread for 2-3 minutes on each side, or until lightly toasted.",
+    "5. Meanwhile, slice the mozzarella and cheddar cheese into thin pieces.",
+    "6. Once the bread is toasted, top each half with a slice of mozzarella and cheddar cheese.",
+    "7. Add a few leaves of fresh basil on top of the cheese.",
+    "8. Place the other half of the bread on top of the filling and press gently.",
+    "9. Grill the paninis for an additional 2-3 minutes, or until the cheese is melted and the bread is toasted.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "grilled",
+    "paninis",
+    "cheese",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-light-italian-bread-toast--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:57:48.550Z"
+}

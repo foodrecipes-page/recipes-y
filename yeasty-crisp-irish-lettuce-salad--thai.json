@@ -1,0 +1,64 @@
+{
+  "slug": "yeasty-crisp-irish-lettuce-salad--thai",
+  "title": "Thai Lettuce Wraps",
+  "description": "A refreshing Thai-inspired snack or light meal, featuring crisp lettuce leaves wrapped around a savory filling.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lettuce",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "Irish",
+      "amount": "100g crisp irish soda bread, torn into small pieces"
+    },
+    {
+      "name": "Crisp",
+      "amount": "1/4 cup chopped crispy fried shallots"
+    },
+    {
+      "name": "Yeasty",
+      "amount": "2 tbsp yeast extract"
+    },
+    {
+      "name": "Salad",
+      "amount": "1/4 cup chopped mixed salad greens"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the torn soda bread pieces until crispy and lightly browned.",
+    "In a small bowl, mix together the yeast extract and chopped shallots.",
+    "Add the mixed salad greens to the bowl and toss to combine.",
+    "To assemble the wraps, place a lettuce leaf on a flat surface.",
+    "Spoon some of the salad mixture onto the center of the lettuce leaf.",
+    "Top with a few pieces of the grilled soda bread.",
+    "Fold the lettuce leaf to enclose the filling and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-crisp-irish-lettuce-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:19:09.587Z"
+}

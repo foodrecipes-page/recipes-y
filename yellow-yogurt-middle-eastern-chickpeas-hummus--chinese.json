@@ -1,0 +1,78 @@
+{
+  "slug": "yellow-yogurt-middle-eastern-chickpeas-hummus--chinese",
+  "title": "Spicy Chickpea Stir Fry",
+  "description": "A savory and spicy stir fry made with chickpeas, Eastern flavors, and a hint of Chinese spices. Serve over steamed rice for a delicious and filling meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "hummus",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the ginger and cook for an additional minute.",
+    "Add the chickpeas, soy sauce, and middle eastern spice blend. Stir to combine.",
+    "Cook for an additional 4-5 minutes, or until the chickpeas are coated in the sauce.",
+    "Stir in the hummus and cook for an additional minute.",
+    "Serve hot over steamed rice and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "stir-fry",
+    "chinese-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-yogurt-middle-eastern-chickpeas-hummus--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:43:48.658Z"
+}

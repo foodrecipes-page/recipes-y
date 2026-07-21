@@ -1,0 +1,91 @@
+{
+  "slug": "yellowed-buttery-middle-eastern-puff-pastry-umm-ali--indian",
+  "title": "Ali's Middle Eastern Samosas",
+  "description": "A traditional Indian snack filled with spiced potatoes and peas, wrapped in a flaky pastry.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pastry",
+      "amount": "1 package (frozen)",
+      "notes": "thawed"
+    },
+    {
+      "name": "ali's spice mix",
+      "amount": "2 tsp",
+      "notes": "see notes"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a pan, sauté the onion, ginger, and garlic until softened.",
+    "Add the potatoes, peas, and spice mix to the pan and cook until the potatoes are tender.",
+    "On a lightly floured surface, roll out the pastry to a thickness of 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the potato mixture onto the center of each pastry circle.",
+    "Brush the edges of the pastry with a little water and fold the pastry in half to form a triangle.",
+    "Seal the edges by pressing with a fork and press the edges together to seal the samosa.",
+    "Fry the samosas in batches until golden brown, about 3-4 minutes per side.",
+    "Drain the samosas on paper towels and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-buttery-middle-eastern-puff-pastry-umm-ali--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:17:03.354Z"
+}

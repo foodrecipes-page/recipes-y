@@ -6570,17 +6570,16 @@
   },
   {
     "slug": "yellowed-bitter-syrian-lamb-kebabs",
-    "title": "Yellowed Bitter Syrian Lamb Kebabs",
+    "title": "Syrian Lamb Kebabs",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "syrian",
+      "lamb",
+      "kebabs",
+      "grilled",
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {

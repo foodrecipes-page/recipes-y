@@ -1,0 +1,79 @@
+{
+  "slug": "yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum--japanese",
+  "title": "Tonkatsu with Cantonese Cabbage",
+  "description": "A Japanese-inspired dish featuring a breaded and fried pork cutlet served with a traditional Cantonese-style steamed cabbage.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork cutlet",
+      "amount": "4-6 oz",
+      "notes": null
+    },
+    {
+      "name": "cantonese cabbage",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "yeasty breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "bacon drippings",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "dim sum sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Prepare the cabbage by separating the leaves and rinsing under cold water.",
+    "In a shallow dish, mix together flour and a pinch of salt.",
+    "Dip the pork cutlet in the flour mixture, then the eggs, and finally the breadcrumbs.",
+    "Heat the bacon drippings in a large skillet over medium-high heat.",
+    "Add the breaded pork cutlet and fry until golden brown, about 3-4 minutes per side.",
+    "Transfer the pork cutlet to a plate and set aside.",
+    "In the same skillet, add the dim sum sauce and stir to combine with the bacon drippings.",
+    "Add the prepared cabbage to the skillet and steam until tender, about 5-7 minutes.",
+    "Serve the pork cutlet with the steamed cabbage and additional dim sum sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tonkatsu",
+    "japanese-cuisine",
+    "breaded-pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:14:33.608Z"
+}

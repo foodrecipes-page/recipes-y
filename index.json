@@ -16322,5 +16322,44 @@
     "cuisine": "japanese",
     "totalTimeMin": 18,
     "shard": "y"
+  },
+  {
+    "slug": "yeasty-french-bean-sprouts-ratatouille--german",
+    "title": "German Sprouts Strudel",
+    "tags": [
+      "german",
+      "breakfast",
+      "strudel",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-canadian-lentil-grill--mexican",
+    "title": "Mexican Lentil Grill",
+    "tags": [
+      "mexican",
+      "lentil",
+      "vegan",
+      "vegetarian",
+      "grill"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-pickle-sweet-chinese-pinto-beans-steamed-dim-sum--mexican",
+    "title": "Mexican Pinto Bean Tacos",
+    "tags": [
+      "mexican",
+      "beans",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

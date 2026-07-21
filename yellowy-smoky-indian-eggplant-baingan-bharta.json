@@ -1,0 +1,81 @@
+{
+  "slug": "yellowy-smoky-indian-eggplant-baingan-bharta",
+  "title": "Eggplant Bharta",
+  "description": "A smoky Indian eggplant dish made with roasted eggplant, spices, and herbs.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "Yellowy Indian spices (garam masala, cumin, coriander)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Bharta (roasted eggplant mash)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the eggplant in half lengthwise and place it on a baking sheet.",
+    "3. Drizzle the olive oil over the eggplant and sprinkle with salt.",
+    "4. Roast the eggplant in the oven for 30-40 minutes, or until it's tender and caramelized.",
+    "5. Remove the eggplant from the oven and let it cool.",
+    "6. Scoop the flesh out of the eggplant and mash it in a bowl.",
+    "7. Add the yellowy Indian spices, smoky paprika, and garlic to the bowl and mix well.",
+    "8. Stir in the bharta and lime juice.",
+    "9. Taste and adjust the seasoning as needed.",
+    "10. Serve the eggplant bharta hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "eggplant",
+    "smoky",
+    "bharta"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowy-smoky-indian-eggplant-baingan-bharta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:05:19.479Z"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "yellowed-dense-uruguayan-beef-skewers",
+  "title": "Uruguayan Beef Skewers",
+  "description": "A classic Uruguayan dish featuring marinated beef skewers grilled to perfection. Serve with chimichurri sauce for an authentic touch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "yellowed onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "dense garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, red wine vinegar, brown sugar, and ground cumin.",
+    "Add the chopped yellowed onion and minced garlic to the marinade mixture. Stir to combine.",
+    "Add the Uruguayan beef cubes to the marinade mixture. Toss to coat evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the beef is cooked to your liking.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve with chimichurri sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-dense-uruguayan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:41:45.312Z"
+}

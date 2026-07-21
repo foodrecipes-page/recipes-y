@@ -1,0 +1,64 @@
+{
+  "slug": "yummy-light-argentinian-tofu-parrillada--japanese",
+  "title": "Argentinian-Style Teriyaki Tofu",
+  "description": "A fusion of Japanese and Argentinian flavors, featuring grilled tofu in a sweet teriyaki sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "yummy",
+      "amount": "1 tablespoon soy sauce",
+      "notes": ""
+    },
+    {
+      "name": "light",
+      "amount": "1 tablespoon olive oil",
+      "notes": ""
+    },
+    {
+      "name": "argentinian",
+      "amount": "1 tablespoon chimichurri sauce",
+      "notes": "optional"
+    },
+    {
+      "name": "parrillada",
+      "amount": "4-6 bamboo skewers",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into 1-inch cubes and thread onto parrillada skewers.",
+    "2. In a small bowl, whisk together yummy (soy sauce), light (olive oil), and argentinian (chimichurri sauce, if using).",
+    "3. Brush the tofu with the teriyaki sauce mixture, making sure each piece is evenly coated.",
+    "4. Preheat a grill or grill pan to medium-high heat. Grill the tofu for 3-4 minutes per side, or until golden brown and crispy.",
+    "5. Serve the grilled tofu with additional teriyaki sauce for drizzling, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fusion",
+    "grilled-tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-light-argentinian-tofu-parrillada--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:21:24.341Z"
+}

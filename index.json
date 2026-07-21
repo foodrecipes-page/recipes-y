@@ -16383,5 +16383,19 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-light-italian-bread-toast--italian",
+    "title": "Grilled Paninis",
+    "tags": [
+      "italian",
+      "grilled",
+      "paninis",
+      "cheese",
+      "bread"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "y"
   }
 ]

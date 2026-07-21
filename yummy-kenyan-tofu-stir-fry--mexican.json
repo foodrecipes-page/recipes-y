@@ -1,0 +1,67 @@
+{
+  "slug": "yummy-kenyan-tofu-stir-fry--mexican",
+  "title": "Mexican Tofu Stir Fry",
+  "description": "A simple, flavorful Mexican-inspired dish made with crispy tofu and stir-fried vegetables.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 small onion",
+      "notes": "diced"
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "stir",
+      "amount": "1 cup",
+      "notes": "mixed bell peppers (any color)"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add tofu and cook until golden brown, about 3-4 minutes per side.",
+    "Remove tofu from skillet and set aside.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add bell peppers and cook until tender, about 3-4 minutes.",
+    "Return tofu to skillet and stir in any additional seasonings.",
+    "Serve hot, garnished with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-kenyan-tofu-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:46:20.980Z"
+}

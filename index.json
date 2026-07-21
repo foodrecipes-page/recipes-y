@@ -9932,17 +9932,15 @@
   },
   {
     "slug": "yellowy-smoky-indian-eggplant-baingan-bharta",
-    "title": "Yellowy Smoky Indian Eggplant Baingan Bharta",
+    "title": "Eggplant Bharta",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "goan-cuisine",
-      "indian-food",
-      "smoky-flavors",
-      "vegetarian"
+      "indian",
+      "eggplant",
+      "smoky",
+      "bharta"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {
@@ -16360,6 +16358,30 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum--japanese",
+    "title": "Tonkatsu with Cantonese Cabbage",
+    "tags": [
+      "tonkatsu",
+      "japanese-cuisine",
+      "breaded-pork"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-molten-chinese-chicken-ma-la-tang--french",
+    "title": "Chicken Fricassee",
+    "tags": [
+      "chicken",
+      "fricassee",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

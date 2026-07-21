@@ -5993,17 +5993,15 @@
   },
   {
     "slug": "yellow-tender-slovakian-onion-pasta",
-    "title": "Yellow Tender Slovakian Onion Pasta",
+    "title": "Traditional Slovakian Yellow Pasta",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "pasta-dish",
-      "slovakian-cuisine",
-      "vegetarian",
-      "weeknight"
+      "yellow",
+      "pasta",
+      "slovakian",
+      "vegetarian"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "cuisine": "slovakian",
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -7765,17 +7763,15 @@
   },
   {
     "slug": "yellowed-dense-uruguayan-beef-skewers",
-    "title": "Yellowed Dense Uruguayan Beef Skewers",
+    "title": "Uruguayan Beef Skewers",
     "tags": [
-      "beef-recipes",
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "uruguayan",
+      "beef",
+      "grilled",
+      "skewers"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 31,
     "shard": "y"
   },
   {
@@ -16312,6 +16308,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 22,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-dense-festive-argentinian-fish-wrap--japanese",
+    "title": "Argentinian-Style Fish Tempura",
+    "tags": [
+      "japanese",
+      "argentinian",
+      "fish",
+      "tempura"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
     "shard": "y"
   }
 ]

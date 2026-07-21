@@ -16397,5 +16397,18 @@
     "cuisine": "italian",
     "totalTimeMin": 18,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-yogurt-middle-eastern-chickpeas-hummus--chinese",
+    "title": "Spicy Chickpea Stir Fry",
+    "tags": [
+      "chickpea",
+      "stir-fry",
+      "chinese-food",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

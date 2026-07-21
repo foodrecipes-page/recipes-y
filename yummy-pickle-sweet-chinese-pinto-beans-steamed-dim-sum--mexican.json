@@ -1,0 +1,78 @@
+{
+  "slug": "yummy-pickle-sweet-chinese-pinto-beans-steamed-dim-sum--mexican",
+  "title": "Mexican Pinto Bean Tacos",
+  "description": "A flavorful and easy-to-make Mexican dish using pinto beans, perfect for a quick dinner or meal prep.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 can (15 ounces)",
+      "notes": null
+    },
+    {
+      "name": "yummy",
+      "amount": "1 tablespoon olive oil",
+      "notes": null
+    },
+    {
+      "name": "sweet",
+      "amount": "1 small onion, diced",
+      "notes": null
+    },
+    {
+      "name": "chinese",
+      "amount": "2 cloves garlic, minced",
+      "notes": null
+    },
+    {
+      "name": "steamed",
+      "amount": "1 teaspoon cumin",
+      "notes": null
+    },
+    {
+      "name": "dim",
+      "amount": "1 teaspoon chili powder",
+      "notes": null
+    },
+    {
+      "name": "sum",
+      "amount": "8 small corn tortillas",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cumin and chili powder, and cook for 1 minute.",
+    "Add the pinto beans, and stir to combine.",
+    "Cook for an additional 2-3 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the bean mixture onto a tortilla and serving.",
+    "Serve immediately, garnished with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "beans",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-pickle-sweet-chinese-pinto-beans-steamed-dim-sum--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:37:48.016Z"
+}

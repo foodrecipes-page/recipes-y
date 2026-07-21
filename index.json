@@ -16276,5 +16276,18 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "y"
+  },
+  {
+    "slug": "yeasty-crisp-irish-lettuce-salad--thai",
+    "title": "Thai Lettuce Wraps",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "y"
   }
 ]

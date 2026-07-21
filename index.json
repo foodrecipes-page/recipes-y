@@ -5226,17 +5226,16 @@
   },
   {
     "slug": "yellow-spiced-algerian-quinoa-tagine",
-    "title": "Yellow Spiced Algerian Quinoa Tagine",
+    "title": "Spiced Algerian Quinoa Bowl",
     "tags": [
-      "flavorful",
-      "north-african",
-      "one-pot",
-      "quinoa-bowl",
-      "stone-cooked",
-      "vegetarian-option"
+      "quinoa",
+      "algerian",
+      "spicy",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -16288,6 +16287,31 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-syrian-kabanos-skewers--japanese",
+    "title": "Japanese Kabanos Yakitori",
+    "tags": [
+      "grilled",
+      "japanese",
+      "sausages",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-light-argentinian-tofu-parrillada--japanese",
+    "title": "Argentinian-Style Teriyaki Tofu",
+    "tags": [
+      "fusion",
+      "grilled-tofu",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
     "shard": "y"
   }
 ]

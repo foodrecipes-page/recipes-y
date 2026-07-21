@@ -1,0 +1,74 @@
+{
+  "slug": "yellow-canadian-lentil-grill--mexican",
+  "title": "Mexican Lentil Grill",
+  "description": "A flavorful and nutritious Mexican dish made with lentils, grilled to perfection. Serve with your favorite toppings and sides.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yellow onions",
+      "amount": "1"
+    },
+    {
+      "name": "Grill seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for at least 4 hours.",
+    "Drain and rinse the lentils, then place them in a large pot.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes or until the lentils are tender.",
+    "Heat a grill or grill pan to medium-high heat.",
+    "Add the grill seasoning and cumin to the lentils and stir to combine.",
+    "Add the yellow onions to the grill and cook for 2-3 minutes per side or until they are tender and slightly charred.",
+    "Add the cooked lentils to the grill and cook for an additional 2-3 minutes or until they are heated through.",
+    "Serve the lentil grill hot, topped with a squeeze of lime juice and your favorite toppings and sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lentil",
+    "vegan",
+    "vegetarian",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-canadian-lentil-grill--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:34:58.955Z"
+}

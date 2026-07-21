@@ -1,0 +1,76 @@
+{
+  "slug": "yellow-crispy-middle-eastern-peanut-butter-harees--vegetarian",
+  "title": "Yellow Harees with Eastern Crunch",
+  "description": "A flavorful and crunchy breakfast harees recipe with a hint of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Harees",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Yellow",
+      "amount": "1 tsp turmeric powder"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1/4 cup crispy fried shallots"
+    },
+    {
+      "name": "Eastern",
+      "amount": "1 tsp cumin powder"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Boil harees according to package instructions.",
+    "In a pan, heat 1 tsp of oil and add cumin powder. Cook for 1 minute.",
+    "Add turmeric powder and mix well.",
+    "Add peanut butter and mix until combined.",
+    "Add crispy fried shallots and sesame seeds. Mix well.",
+    "Add boiled harees to the pan and mix until combined.",
+    "Add salt to taste and mix well.",
+    "Add water as needed to achieve a thick consistency.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "middle-eastern",
+    "harees",
+    "peanut-butter"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-crispy-middle-eastern-peanut-butter-harees--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:15:21.939Z"
+}

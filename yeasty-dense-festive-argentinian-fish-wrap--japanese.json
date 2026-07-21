@@ -1,0 +1,67 @@
+{
+  "slug": "yeasty-dense-festive-argentinian-fish-wrap--japanese",
+  "title": "Argentinian-Style Fish Tempura",
+  "description": "A Japanese-inspired twist on the classic Argentinian dish, featuring crispy fish tempura with a side of tangy dipping sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "1 package"
+    },
+    {
+      "name": "Fish",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Festive",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Yeasty",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Argentinian",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dense",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Cut the fish into bite-sized pieces and season with salt and pepper.",
+    "Heat about 1/2 inch (1 cm) of vegetable oil in a deep frying pan over medium-high heat.",
+    "Once the oil is hot, carefully place the fish pieces into the oil and fry until golden brown and crispy.",
+    "Remove the fish from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, mix together the festive and yeasty ingredients to make a dipping sauce.",
+    "Serve the tempura fish with a side of the dipping sauce for a delicious and crispy treat.",
+    "Serve with a side of steamed vegetables or rice for a well-rounded meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "argentinian",
+    "fish",
+    "tempura"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-dense-festive-argentinian-fish-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:15:58.771Z"
+}

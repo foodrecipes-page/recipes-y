@@ -1,0 +1,73 @@
+{
+  "slug": "yellow-rich-ethiopian-cabbage-berbere-stew--italian",
+  "title": "Ethiopian Italian Stew",
+  "description": "A unique fusion of traditional Italian ingredients with the bold flavors of Ethiopian cuisine. This hearty stew is perfect for a chilly evening.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "2 medium heads",
+      "notes": "shredded"
+    },
+    {
+      "name": "Berbere",
+      "amount": "2 tsp",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Rich tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": "beef or vegetable broth"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the shredded cabbage and cook until slightly tender, about 5 minutes.",
+    "Add the berbere spice blend and cook for 1 minute.",
+    "Add the tomato sauce and stew, and stir to combine.",
+    "Bring the stew to a simmer and cook for 20-25 minutes, or until the cabbage is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "ethiopian",
+    "stew",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-rich-ethiopian-cabbage-berbere-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:55:55.734Z"
+}

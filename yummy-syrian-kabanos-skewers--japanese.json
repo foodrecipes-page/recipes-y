@@ -1,0 +1,78 @@
+{
+  "slug": "yummy-syrian-kabanos-skewers--japanese",
+  "title": "Japanese Kabanos Yakitori",
+  "description": "A delicious and easy-to-make Japanese-inspired dish featuring grilled kabanos sausage served on skewers with a sweet soy sauce glaze.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kabanos",
+      "amount": "1 pound",
+      "notes": "European-style sausage"
+    },
+    {
+      "name": "skewers",
+      "amount": "12-15 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 cup mirin",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 cup soy sauce",
+      "notes": "use low-sodium if possible"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (400°F).",
+    "2. Thread kabanos onto skewers, leaving a small space between each piece.",
+    "3. In a small saucepan, whisk together mirin, soy sauce, and brown sugar. Bring to a boil over medium heat.",
+    "4. Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "5. Brush the glaze onto both sides of the sausage.",
+    "6. Grill the skewers for 8-10 minutes, turning occasionally, until the kabanos is caramelized and cooked through.",
+    "7. Garnish with chopped green onions and sesame seeds, if desired.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "japanese",
+    "sausages",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-syrian-kabanos-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:06:54.669Z"
+}

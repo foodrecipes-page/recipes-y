@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-zesty-peruvian-avocado-ceviche--japanese",
+  "title": "Peruvian Avocado Ceviche Rolls",
+  "description": "A unique fusion of Peruvian ceviche and Japanese sushi, featuring fresh avocado and zesty Peruvian flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellowfin Tuna",
+      "amount": "6 oz",
+      "notes": "sashimi-grade"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "Zesty Peruvian Sauce",
+      "amount": "2 tbsp",
+      "notes": "see notes"
+    },
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package directions"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 thin slice",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lime Wedge",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to package directions.",
+    "Cut the yellowfin tuna into thin slices.",
+    "Mix the diced avocado with Zesty Peruvian Sauce.",
+    "Lay a sheet of nori seaweed flat on a sushi mat.",
+    "Spread a thin layer of sushi rice onto the seaweed.",
+    "Place a few slices of tuna in the middle of the rice.",
+    "Add a spoonful of the avocado mixture on top of the tuna.",
+    "Roll the sushi using the mat, applying gentle pressure.",
+    "Slice the roll into 8 equal pieces.",
+    "Garnish with a thin slice of cucumber and serve with a lime wedge."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "peruvian",
+    "fusion",
+    "sushi",
+    "ceviche"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-zesty-peruvian-avocado-ceviche--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:51:03.576Z"
+}

@@ -16460,5 +16460,32 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-zesty-peruvian-avocado-ceviche--japanese",
+    "title": "Peruvian Avocado Ceviche Rolls",
+    "tags": [
+      "japanese",
+      "peruvian",
+      "fusion",
+      "sushi",
+      "ceviche"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-crispy-middle-eastern-peanut-butter-harees--vegetarian",
+    "title": "Yellow Harees with Eastern Crunch",
+    "tags": [
+      "breakfast",
+      "middle-eastern",
+      "harees",
+      "peanut-butter"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 15,
+    "shard": "y"
   }
 ]

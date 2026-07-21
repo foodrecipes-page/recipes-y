@@ -1,0 +1,74 @@
+{
+  "slug": "yeasty-french-bean-sprouts-ratatouille--german",
+  "title": "German Sprouts Strudel",
+  "description": "A German-inspired pastry filled with sautéed sprouts and ratatouille, perfect for a savory breakfast or brunch.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yeasty dough",
+      "amount": "1 package (1 pound)",
+      "notes": ""
+    },
+    {
+      "name": "sprouts",
+      "amount": "1 cup fresh",
+      "notes": ""
+    },
+    {
+      "name": "ratatouille",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "french butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the yeasty dough and spread the french butter evenly.",
+    "In a pan, sauté the sprouts and ratatouille over medium heat until tender.",
+    "Place the sautéed mixture on one half of the dough, leaving a 1/2-inch border.",
+    "Fold the other half of the dough over the filling and press edges to seal.",
+    "Place the strudel on a baking sheet and brush with remaining french butter.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve warm, sprinkled with salt and black pepper to taste.",
+    "Optional: garnish with additional sprouts or ratatouille, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "strudel",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-french-bean-sprouts-ratatouille--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:53:48.730Z"
+}

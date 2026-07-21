@@ -1,0 +1,95 @@
+{
+  "slug": "yellow-molten-chinese-chicken-ma-la-tang--french",
+  "title": "Chicken Fricassee",
+  "description": "A classic French dish made with tender chicken and a rich, creamy sauce.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "la sauce (or all-purpose flour, butter, and chicken broth)",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "tang wine (or dry white wine)",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "ma cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper.",
+    "Heat the butter in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on both sides, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the broccoli to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the la sauce to the skillet and stir to combine.",
+    "Add the chicken broth to the skillet and stir to combine.",
+    "Return the chicken to the skillet and simmer until the sauce has thickened and the chicken is cooked through, about 5-7 minutes.",
+    "Serve the chicken hot, garnished with fresh herbs if desired.",
+    "If using, stir in the tang wine and ma cornstarch to thicken the sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fricassee",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-molten-chinese-chicken-ma-la-tang--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:15:48.862Z"
+}

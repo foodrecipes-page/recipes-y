@@ -1,0 +1,57 @@
+{
+  "slug": "yellow-tender-slovakian-onion-pasta",
+  "title": "Traditional Slovakian Yellow Pasta",
+  "description": "A traditional Slovakian take on a simple pasta dish with a yellow twist.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian yellow pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the Slovakian yellow pasta according to package instructions until al dente.",
+    "Melt butter in a pan over medium heat.",
+    "Add sliced onion and sauté until softened.",
+    "Combine cooked pasta and onion mixture.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Cook to an internal temperature of 165°F (74°C) to ensure food safety."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "yellow",
+    "pasta",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-tender-slovakian-onion-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:26:54.791Z"
+}

@@ -4860,17 +4860,15 @@
   },
   {
     "slug": "yellow-smoky-argentinian-lamb-stew",
-    "title": "Yellow Smoky Argentinian Lamb Stew",
+    "title": "Smoky Argentinian Lamb Stew",
     "tags": [
       "argentinian",
-      "cozy",
-      "floral",
-      "lamb-based",
-      "one-pot",
-      "smoky"
+      "lamb",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 140,
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {
@@ -16574,6 +16572,20 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-browned-venezuelan-beef-stew--indian",
+    "title": "Venezuelan Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "indian",
+      "cumin",
+      "garam-masala"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 110,
     "shard": "y"
   }
 ]

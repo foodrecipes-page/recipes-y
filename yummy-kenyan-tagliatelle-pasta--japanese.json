@@ -1,0 +1,82 @@
+{
+  "slug": "yummy-kenyan-tagliatelle-pasta--japanese",
+  "title": "Kenyan Tagliatelle Noodles in Japanese Miso Broth",
+  "description": "A fusion twist on traditional Japanese noodle soup, using Kenyan tagliatelle and Kenyan pasta in a hearty miso broth.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan tagliatelle",
+      "amount": "250g"
+    },
+    {
+      "name": "Kenyan pasta",
+      "amount": "50g",
+      "notes": "broken into smaller pieces"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 cm piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Cook the Kenyan tagliatelle according to package instructions.",
+    "In a large pot, heat the sesame oil over medium heat.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the miso paste and soy sauce, whisking until smooth.",
+    "Add the vegetable broth and water, whisking until combined.",
+    "Bring the mixture to a simmer.",
+    "Add the cooked tagliatelle to the pot and stir to combine.",
+    "Add the broken Kenyan pasta and stir to combine.",
+    "Simmer for 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "noodle-soup",
+    "japanese-cuisine",
+    "kenyan-ingredients"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-kenyan-tagliatelle-pasta--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:56:03.988Z"
+}

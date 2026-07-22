@@ -1,0 +1,71 @@
+{
+  "slug": "yeasty-fluffy-canadian-vegetables-poutine",
+  "title": "Canadian Poutine Casserole",
+  "description": "A twist on the classic Canadian comfort food, this casserole combines the crispy fries and squeaky cheese curds with a yeasty, fluffy twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetables (carrots, onions, bell peppers)",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "french fries",
+      "amount": "2 cups, crushed"
+    },
+    {
+      "name": "vegetarian cheese curds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "poutine gravy mix",
+      "amount": "1 packet"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine yeast and warm water. Let it sit for 5 minutes.",
+    "Add flour, salt, and sugar to the bowl. Mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "After the dough has risen, punch it down and roll it out into a rectangle.",
+    "Spread the crushed french fries evenly over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the diced vegetables, cheese curds, and poutine gravy mix over the fries.",
+    "Roll the dough into a tight log, starting from the long side.",
+    "Cut the log into 1-inch thick slices and place them in a greased 9x13-inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-fluffy-canadian-vegetables-poutine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:37:35.683Z"
+}

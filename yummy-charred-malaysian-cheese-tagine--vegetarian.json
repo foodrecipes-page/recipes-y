@@ -1,0 +1,68 @@
+{
+  "slug": "yummy-charred-malaysian-cheese-tagine--vegetarian",
+  "title": "Malaysian Vegetable Tagine",
+  "description": "A flavorful and aromatic vegetarian tagine inspired by Malaysian cuisine, featuring a blend of spices and charred vegetables.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Charred eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Yummy red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Malaysian sweet potato",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cheese (optional)",
+      "amount": "1/4 cup crumbled",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add sliced red onion and cook until caramelized.",
+    "Add cubed sweet potato and cook until slightly tender.",
+    "Add charred eggplant and cook until heated through.",
+    "Mix in tagine spice blend and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with crumbled cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "malaysian",
+    "tagine",
+    "eggplant",
+    "sweet-potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-charred-malaysian-cheese-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:03:45.260Z"
+}

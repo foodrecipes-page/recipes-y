@@ -1,0 +1,98 @@
+{
+  "slug": "yellow-spicy-egyptian-shrimp-kebabs--italian",
+  "title": "Spicy Shrimp Kebabs Italiano",
+  "description": "A flavorful and spicy twist on traditional Italian kebabs, featuring succulent shrimp as the main attraction. The combination of spicy and tangy flavors will leave you craving for more.",
+  "cuisine": "italian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "spicy Italian sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "kebabs",
+      "amount": "10-12 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "2 teaspoons",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": " grated"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, bell pepper, and sausage onto kebabs, leaving a small space between each piece.",
+    "Brush kebabs with olive oil and season with garlic, Italian seasoning, salt, and pepper.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, or until shrimp are pink and cooked through.",
+    "Serve hot, garnished with lemon wedges and parmesan cheese.",
+    "Let kebabs rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "shrimp",
+    "kebabs",
+    "spicy",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-egyptian-shrimp-kebabs--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:30:07.249Z"
+}

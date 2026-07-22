@@ -1,0 +1,76 @@
+{
+  "slug": "yellow-springy-brazilian-shungiku-skewers",
+  "title": "Grilled Shungiku Skewers with Brazilian Salsa",
+  "description": "A simple and flavorful recipe featuring shungiku greens grilled to perfection and served with a zesty Brazilian-inspired salsa.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shungiku",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Yellow Spring Onions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Brazilian Hot Peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, salt, and black pepper.",
+    "3. Add chopped shungiku and sliced yellow spring onions to the bowl, toss to coat.",
+    "4. Thread shungiku and onion mixture onto skewers.",
+    "5. Grill skewers for 8-10 minutes, turning occasionally.",
+    "6. Meanwhile, prepare the Brazilian salsa by mixing diced hot peppers with salt and black pepper.",
+    "7. Serve skewers hot with the Brazilian salsa on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "skewers",
+    "vegetarian",
+    "salsa",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-springy-brazilian-shungiku-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:03:01.968Z"
+}

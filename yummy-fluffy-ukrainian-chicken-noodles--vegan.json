@@ -1,0 +1,75 @@
+{
+  "slug": "yummy-fluffy-ukrainian-chicken-noodles--vegan",
+  "title": "Vegan Ukrainian Noodle Dish",
+  "description": "A hearty, comforting Ukrainian-inspired noodle dish made without any animal products.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fluffy mushrooms",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "yummy carrots",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "wide egg-free noodles"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fluffy parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the sliced carrots and cook for 5 minutes, or until they start to soften.",
+    "Add the sliced mushrooms and cook for another 5 minutes, or until they're tender.",
+    "Cook the noodles according to package instructions.",
+    "In a small pan, heat the olive oil over medium heat.",
+    "Add the chopped parsley and cook for 1 minute, or until fragrant.",
+    "Combine the cooked noodles, mushroom-carrot mixture, and parsley oil.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "vegan",
+    "noodles",
+    "mushrooms",
+    "carrots"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-fluffy-ukrainian-chicken-noodles--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:51:35.651Z"
+}

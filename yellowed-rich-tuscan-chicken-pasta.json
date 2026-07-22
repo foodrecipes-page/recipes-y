@@ -1,0 +1,90 @@
+{
+  "slug": "yellowed-rich-tuscan-chicken-pasta",
+  "title": "Classic Tuscan Chicken Pasta",
+  "description": "A rich and flavorful pasta dish featuring chicken, Tuscan sauce, and a hint of herbs.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuscan pasta (500g)",
+      "amount": "500g",
+      "notes": "Choose a gluten-free option if needed"
+    },
+    {
+      "name": "Boneless, skinless chicken breasts (4)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Tuscan sauce (250ml)",
+      "amount": "250ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive oil (30ml)",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley (20g)",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder (5g)",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Salt (5g)",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (5g)",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese (50g)",
+      "amount": "50g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the Tuscan pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chicken breasts to the skillet and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the Tuscan sauce to the skillet and stir to combine with the remaining oil.",
+    "Return the chicken to the skillet and simmer for 5-7 minutes, or until cooked through.",
+    "Add the chopped parsley, garlic powder, salt, and black pepper to the skillet. Stir to combine.",
+    "Toss the cooked pasta in the skillet with the chicken and sauce.",
+    "Serve hot, topped with grated Parmesan cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "chicken",
+    "tuscan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-rich-tuscan-chicken-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:36:53.761Z"
+}

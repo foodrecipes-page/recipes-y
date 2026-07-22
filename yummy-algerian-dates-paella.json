@@ -1,0 +1,103 @@
+{
+  "slug": "yummy-algerian-dates-paella",
+  "title": "Classic Paella Recipe",
+  "description": "A traditional Spanish dish from the Valencia region, known for its saffron-infused rice, savory seafood, and smoky chorizo.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Algerian couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Paella rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Smoked chorizo",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add chorizo and cook until browned, about 2-3 minutes. Remove from pan.",
+    "Add onion and bell pepper and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add rice and cook for 1-2 minutes, stirring constantly.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add shrimp and cook until pink, about 2-3 minutes.",
+    "Add dates, olives, and cooked chorizo.",
+    "Stir in chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until rice is tender.",
+    "Fluff with a fork and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "spanish",
+    "rice",
+    "seafood",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-algerian-dates-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:04:24.877Z"
+}

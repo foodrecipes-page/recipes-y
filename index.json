@@ -3073,14 +3073,13 @@
   },
   {
     "slug": "yellow-earthy-korean-lemongrass-ssam",
-    "title": "Yellow Earthy Korean Lemongrass Ssam",
+    "title": "Spicy Korean Ssam with Lemongrass",
     "tags": [
-      "gluten-free",
-      "korean-cuisine",
-      "lemongrass-recipes",
-      "shio-koji",
-      "sugar-free",
-      "tofu-recipes"
+      "korean",
+      "ssam",
+      "lemongrass",
+      "spicy",
+      "pork"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
@@ -16618,6 +16617,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-fermented-japanese-fish-ramen--mexican",
+    "title": "Japanese-Style Ramen Soup with Fermented Flavor",
+    "tags": [
+      "mexican",
+      "japanese",
+      "ramen",
+      "fermented"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-brown-brazilian-corned-beef-skillet--french",
+    "title": "Pan-Seared Beef Bourguignon",
+    "tags": [
+      "beef",
+      "french",
+      "comfort-food",
+      "dinner"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "y"
   }
 ]

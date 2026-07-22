@@ -1,0 +1,54 @@
+{
+  "slug": "yellow-tender-slovakian-onion-pasta--mexican",
+  "title": "Slovakian Pasta Fajitas",
+  "description": "A mexican-inspired twist on traditional pasta, with a Slovakian twist. Yellow and tender pasta is sautéed with onion and Slovakian spices.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow pasta",
+      "amount": "250g",
+      "notes": "slovakian-made"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 tsp",
+      "notes": "spice blend"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the yellow pasta according to package instructions.",
+    "Heat a large skillet over medium-high heat and add the chopped onion.",
+    "Cook the onion for 3-4 minutes, until translucent.",
+    "Add the Slovakian paprika to the skillet and stir to combine.",
+    "Once the pasta is cooked, drain it and add it to the skillet with the onion and paprika.",
+    "Toss the pasta with the onion and paprika mixture, and season with salt and pepper to taste.",
+    "Serve the Slovakian pasta fajitas hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "slovakian",
+    "pastafajitas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-tender-slovakian-onion-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:22:19.037Z"
+}

@@ -5874,16 +5874,16 @@
   },
   {
     "slug": "yellow-springy-brazilian-shungiku-skewers",
-    "title": "Yellow Springy Brazilian Shungiku Skewers",
+    "title": "Grilled Shungiku Skewers with Brazilian Salsa",
     "tags": [
-      "brazilian-food",
-      "grilled-vegetables",
-      "kosher-recipes",
-      "spring-recipes",
-      "vegetarian-options"
+      "grilled",
+      "skewers",
+      "vegetarian",
+      "salsa",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -16594,6 +16594,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 18,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-peppered-croatian-fish-stew--keto",
+    "title": "Pan-Seared Fish with Stew Crostini",
+    "tags": [
+      "keto",
+      "fish",
+      "seafood",
+      "lunch",
+      "dinner"
+    ],
+    "cuisine": "Seafood",
+    "totalTimeMin": 22,
     "shard": "y"
   }
 ]

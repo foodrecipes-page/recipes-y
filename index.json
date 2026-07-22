@@ -16607,5 +16607,17 @@
     "cuisine": "Seafood",
     "totalTimeMin": 22,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-kenyan-tagliatelle-pasta--japanese",
+    "title": "Kenyan Tagliatelle Noodles in Japanese Miso Broth",
+    "tags": [
+      "noodle-soup",
+      "japanese-cuisine",
+      "kenyan-ingredients"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

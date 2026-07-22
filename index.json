@@ -16513,5 +16513,59 @@
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-greek-gigantes-plaki--vegan",
+    "title": "Yellow Gigantes Stew",
+    "tags": [
+      "vegan",
+      "mediterranean",
+      "beans",
+      "stew",
+      "easy"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 55,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-fluffy-ukrainian-chicken-noodles--vegan",
+    "title": "Vegan Ukrainian Noodle Dish",
+    "tags": [
+      "ukrainian",
+      "vegan",
+      "noodles",
+      "mushrooms",
+      "carrots"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-gooey-australian-shrimp-skewers--keto",
+    "title": "Grilled Shrimp Skewers with Australian BBQ Sauce",
+    "tags": [
+      "keto",
+      "grilled",
+      "shrimp",
+      "bbq"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 23,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-energizing-japanese-onions-pancake-like-dumplings-jjim--indian",
+    "title": "Spicy Jjim Dumplings with Onions and Pancake",
+    "tags": [
+      "indian",
+      "dumplings",
+      "breakfast",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

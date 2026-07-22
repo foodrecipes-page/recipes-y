@@ -1,0 +1,94 @@
+{
+  "slug": "yellowed-brown-brazilian-corned-beef-skillet--french",
+  "title": "Pan-Seared Beef Bourguignon",
+  "description": "A classic French dish made with tender beef and a rich, flavorful sauce. Perfect for a special occasion.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound beef (skirt or flank steak), cut into 2-inch pieces",
+      "amount": "",
+      "notes": "Choose a tougher cut for maximum flavor"
+    },
+    {
+      "name": "1 tablespoon browned butter",
+      "amount": "",
+      "notes": "Browned butter adds a nutty flavor to the dish"
+    },
+    {
+      "name": "1 onion, thinly sliced",
+      "amount": "",
+      "notes": "Yellowed onions are perfect for caramelizing"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": "Mince the garlic to prevent overpowering the dish"
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "",
+      "notes": "Use a high-quality broth for maximum flavor"
+    },
+    {
+      "name": "1 cup red wine",
+      "amount": "",
+      "notes": "Red wine adds depth and richness to the sauce"
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "",
+      "notes": "Thyme is a classic herb used in French cooking"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": "Use kosher salt for the best flavor"
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": "Freshly ground black pepper is a must"
+    },
+    {
+      "name": "2 tablespoons all-purpose flour",
+      "amount": "",
+      "notes": "Use a high-quality flour for the best texture"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of browned butter in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the beef broth, red wine, thyme, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the flour and cook for 1-2 minutes, until the sauce thickens.",
+    "Serve the beef and sauce over egg noodles or mashed potatoes.",
+    "Garnish with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "french",
+    "comfort-food",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-brown-brazilian-corned-beef-skillet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:57:35.360Z"
+}

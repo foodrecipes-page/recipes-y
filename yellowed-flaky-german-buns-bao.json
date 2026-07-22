@@ -1,0 +1,75 @@
+{
+  "slug": "yellowed-flaky-german-buns-bao",
+  "title": "Soft German Bao Buns",
+  "description": "A simple recipe for soft and fluffy German bao buns using a mixture of flour and yeast, perfect for sandwiches or as a side.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky German buns",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "around 100°F"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine warm water and sugar. Stir until the sugar dissolves.",
+    "2. Add yeast to the mixture and let it sit for 5-10 minutes, until the mixture becomes frothy.",
+    "3. Add flour to the bowl, one cup at a time, mixing well after each addition.",
+    "4. Add salt to the dough and mix until a sticky ball forms.",
+    "5. Knead the dough for 10-15 minutes, until it becomes smooth and elastic.",
+    "6. Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "7. Preheat the oven to 375°F (190°C).",
+    "8. Punch down the dough and divide it into 4-6 equal pieces. Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "9. Place the buns on a baking sheet lined with parchment paper, leaving about 1 inch of space between each bun.",
+    "10. Bake the buns in the preheated oven for 15-20 minutes, or until they are golden brown.",
+    "11. Let the buns cool on a wire rack for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "german-bao-buns",
+    "bread-recipe",
+    "sides"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-german-buns-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:50:34.809Z"
+}

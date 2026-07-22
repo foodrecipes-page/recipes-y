@@ -1,0 +1,73 @@
+{
+  "slug": "yellow-smoky-mexican-vanilla-churros",
+  "title": "Mexican Churros with Smoky Vanilla Dipping Sauce",
+  "description": "A sweet twist on traditional Mexican churros, served with a smoky vanilla dipping sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yellow corn tortillas",
+      "amount": "8-10",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1-2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": "for dipping sauce"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "1/4 cup",
+      "notes": "for dipping sauce"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan to 375°F (190°C).",
+    "Cut corn tortillas into long strips.",
+    "Fry tortilla strips in batches until golden brown, about 2-3 minutes per batch.",
+    "Drain churros on paper towels.",
+    "In a separate pan, combine vanilla extract and chipotle peppers in adobo sauce.",
+    "Heat the mixture over low heat until warm and fragrant.",
+    "Dust churros with granulated sugar and cinnamon.",
+    "Serve churros warm with smoky vanilla dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "churros",
+    "mexican",
+    "sweet",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-mexican-vanilla-churros",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:30:32.260Z"
+}

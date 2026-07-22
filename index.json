@@ -11201,16 +11201,15 @@
   },
   {
     "slug": "yummy-buttery-american-chicken-casserole",
-    "title": "Yummy Buttery American Chicken Casserole",
+    "title": "American Chicken Casserole",
     "tags": [
-      "american-classics",
-      "chicken-casserole",
-      "comfort-food",
-      "one-pan",
-      "weeknight"
+      "american",
+      "casserole",
+      "chicken",
+      "comfort-food"
     ],
     "cuisine": "American",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -16565,6 +16564,20 @@
       "vegetarian"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-egyptian-shrimp-kebabs--italian",
+    "title": "Spicy Shrimp Kebabs Italiano",
+    "tags": [
+      "italian",
+      "shrimp",
+      "kebabs",
+      "spicy",
+      "summer"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "y"
   }

@@ -1,0 +1,90 @@
+{
+  "slug": "yummy-vietnamese-rice-noodles",
+  "title": "Vietnamese Noodle Soup",
+  "description": "A delicious and flavorful noodle soup originating from Vietnam, made with rice noodles, yummy ingredients, and a variety of spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Vietnamese Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring 4 cups of vegetable broth to a boil in a large pot.",
+    "Reduce heat to medium-low and add 8 oz of rice noodles. Cook for 8-10 minutes or until noodles are tender.",
+    "In a separate pan, heat 2 tbsp of oil over medium-high heat.",
+    "Add 1 lb of boneless, skinless chicken breast and cook for 5-6 minutes per side or until cooked through.",
+    "Transfer cooked chicken to a plate and let it rest for 5 minutes before slicing.",
+    "Add 2 tbsp of Vietnamese fish sauce to the broth and stir to combine.",
+    "Add 1 can of coconut milk to the broth and stir to combine.",
+    "Add sliced chicken back to the pot and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh basil and cilantro.",
+    "Serve hot with a squeeze of fresh lime juice and a drizzle of honey (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "noodle soup",
+    "vietnamese food",
+    "chicken soup"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-vietnamese-rice-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:27:38.626Z"
+}

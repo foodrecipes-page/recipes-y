@@ -10937,18 +10937,16 @@
   },
   {
     "slug": "yummy-algerian-dates-paella",
-    "title": "Yummy Algerian Dates Paella",
+    "title": "Classic Paella Recipe",
     "tags": [
-      "algerian",
-      "dessert",
-      "herb-infused",
-      "one-pan",
       "paella",
-      "sugar-free",
-      "vegetarian"
+      "spanish",
+      "rice",
+      "seafood",
+      "chorizo"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -16643,6 +16641,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crusty-french-pork-cassoulet--indian",
+    "title": "Cassoulet-Style Pork Belly Biryani",
+    "tags": [
+      "indian-cuisine",
+      "pork-recipes",
+      "cassoulet-style"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "y"
   }
 ]

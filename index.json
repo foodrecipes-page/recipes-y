@@ -8623,18 +8623,16 @@
   },
   {
     "slug": "yellowed-peruvian-beef-kidney-wrap",
-    "title": "Yellowed Peruvian Beef Kidney Wrap",
+    "title": "Peruvian Beef Wrap",
     "tags": [
-      "beef-kidney",
-      "corn-husk-wrap",
-      "glassy-jelly",
-      "indulgent",
-      "peruvian-cuisine",
-      "satvik-friendly",
-      "sour-flavors"
+      "peruvian",
+      "beef",
+      "wrap",
+      "lunch",
+      "easy"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -14342,17 +14340,14 @@
   },
   {
     "slug": "yummy-vietnamese-rice-noodles",
-    "title": "Yummy Vietnamese Rice Noodles",
+    "title": "Vietnamese Noodle Soup",
     "tags": [
-      "fondue-pot",
-      "noodles",
-      "quick",
-      "sesame-sauce",
-      "shojin-friendly",
-      "vegan"
+      "noodle soup",
+      "vietnamese food",
+      "chicken soup"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

@@ -8763,17 +8763,15 @@
   },
   {
     "slug": "yellowed-rich-tuscan-chicken-pasta",
-    "title": "Yellowed Rich Tuscan Chicken Pasta",
+    "title": "Classic Tuscan Chicken Pasta",
     "tags": [
-      "comfort-food",
       "italian",
-      "one-pot",
-      "pasta-lover",
-      "vegan-friendly",
-      "weeknight"
+      "pasta",
+      "chicken",
+      "tuscan"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

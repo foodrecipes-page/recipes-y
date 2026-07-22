@@ -1,0 +1,64 @@
+{
+  "slug": "yellow-gooey-australian-shrimp-skewers--keto",
+  "title": "Grilled Shrimp Skewers with Australian BBQ Sauce",
+  "description": "A delicious keto recipe featuring grilled shrimp skewers smothered in a sweet and tangy Australian BBQ sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp (12 large)",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Australian BBQ Sauce (store-bought or homemade)",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Yellow Skewers",
+      "amount": "10-12",
+      "notes": null
+    },
+    {
+      "name": "Gooey Honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread shrimp onto the yellow skewers, leaving a little space between each shrimp.",
+    "Brush the shrimp with a little bit of Australian BBQ sauce.",
+    "Season with salt and pepper to taste.",
+    "Grill the shrimp for 8-10 minutes, flipping halfway through.",
+    "While the shrimp is cooking, warm up the remaining Australian BBQ sauce in a saucepan over low heat.",
+    "Once the shrimp is cooked, brush with the warmed BBQ sauce and serve immediately.",
+    "Drizzle with a little bit of gooey honey for extra sweetness.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "grilled",
+    "shrimp",
+    "bbq"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-gooey-australian-shrimp-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:56:35.314Z"
+}

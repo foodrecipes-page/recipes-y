@@ -1,0 +1,96 @@
+{
+  "slug": "yellow-smoky-argentinian-lamb-stew",
+  "title": "Smoky Argentinian Lamb Stew",
+  "description": "A hearty, flavorful stew originating from Argentina, made with tender lamb and a blend of spices. Serve with crusty bread for a comforting meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Lamb Shoulder",
+      "amount": "1.5 kg",
+      "notes": "Ask your butcher to score the fat for easier cooking"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Use a full-bodied red wine for best flavor"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "Your choice of beef or vegetable broth"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes per side. Remove from heat and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the smoked paprika and cook for 1 minute.",
+    "Add the red wine and bring to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Add the stew and bring to a boil.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Stir in the chopped parsley and season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "lamb",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "44g",
+    "carbs": "20g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-argentinian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:30:07.750Z"
+}

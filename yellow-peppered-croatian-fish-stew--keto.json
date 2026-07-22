@@ -1,0 +1,69 @@
+{
+  "slug": "yellow-peppered-croatian-fish-stew--keto",
+  "title": "Pan-Seared Fish with Stew Crostini",
+  "description": "A keto-friendly dish featuring pan-seared fish and stew crostini. Perfect for a quick lunch or dinner option.",
+  "cuisine": "Seafood",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (4 fillets, 6 oz each)",
+      "amount": "4 fillets",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Croatian Stew (1 cup)",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Yellow Pepper (2)",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Peppered Salt",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Fresh Parsley (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat.",
+    "Season the fish fillets with peppered salt.",
+    "Add a small amount of oil to the skillet and sear the fish for 3-4 minutes on each side, until cooked through.",
+    "Meanwhile, toast some bread and top it with the Croatian stew.",
+    "Slice the yellow pepper into thin strips and set aside.",
+    "Once the fish is cooked, place it on a plate and top with sliced yellow pepper and a sprinkle of parsley.",
+    "Serve the fish with a side of stew crostini.",
+    "Enjoy your keto-friendly meal!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "fish",
+    "seafood",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-peppered-croatian-fish-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:12:13.306Z"
+}

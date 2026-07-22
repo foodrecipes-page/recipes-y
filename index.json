@@ -16487,5 +16487,31 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 15,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-roasted-japanese-chicken-yakitori--chinese",
+    "title": "Chinese-Style Yakitori Chicken",
+    "tags": [
+      "chinese",
+      "grilled",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-charred-malaysian-cheese-tagine--vegetarian",
+    "title": "Malaysian Vegetable Tagine",
+    "tags": [
+      "vegetarian",
+      "malaysian",
+      "tagine",
+      "eggplant",
+      "sweet-potato"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

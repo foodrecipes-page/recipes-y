@@ -658,17 +658,15 @@
   },
   {
     "slug": "yeasty-fluffy-canadian-vegetables-poutine",
-    "title": "Yeasty Fluffy Canadian Vegetables Poutine",
+    "title": "Canadian Poutine Casserole",
     "tags": [
       "canadian",
-      "gluten-free",
-      "jain",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "comfort-food",
+      "casserole",
+      "vegetarian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 55,
     "shard": "y"
   },
   {
@@ -5027,17 +5025,15 @@
   },
   {
     "slug": "yellow-smoky-mexican-vanilla-churros",
-    "title": "Yellow Smoky Mexican Vanilla Churros",
+    "title": "Mexican Churros with Smoky Vanilla Dipping Sauce",
     "tags": [
-      "claypot",
-      "kid-friendly",
-      "mexican-dessert",
-      "plant-based",
-      "smoky",
-      "vanilla"
+      "churros",
+      "mexican",
+      "sweet",
+      "fried"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -16586,6 +16582,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 110,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-tender-slovakian-onion-pasta--mexican",
+    "title": "Slovakian Pasta Fajitas",
+    "tags": [
+      "mexican",
+      "slovakian",
+      "pastafajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
     "shard": "y"
   }
 ]

@@ -1,0 +1,82 @@
+{
+  "slug": "yummy-energizing-japanese-onions-pancake-like-dumplings-jjim--indian",
+  "title": "Spicy Jjim Dumplings with Onions and Pancake",
+  "description": "A twist on traditional dumplings, these Spicy Jjim Dumplings are filled with a flavorful mixture of onions and pancake, then steamed to perfection.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice flour pancake",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "jjim sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the chopped onions, crushed pancake, jjim sauce, vegetable oil, ginger paste, garlic paste, and salt. Mix well.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into small balls and roll them out into thin circles.",
+    "Place a small spoonful of the onion-pancake mixture in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Steam the dumplings for 10-12 minutes or until they are cooked through.",
+    "Serve the dumplings hot with a side of chutney or raita."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dumplings",
+    "breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-energizing-japanese-onions-pancake-like-dumplings-jjim--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:57:36.313Z"
+}

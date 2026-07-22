@@ -1,0 +1,91 @@
+{
+  "slug": "yellowed-peruvian-beef-kidney-wrap",
+  "title": "Peruvian Beef Wrap",
+  "description": "A flavorful Peruvian-inspired wrap filled with seasoned beef and topped with a refreshing slaw.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef kidney",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Yellowed onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Peruvian wrap",
+      "amount": "4-6",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Beef",
+      "amount": "1/2 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together lime juice, cumin, chili powder, salt, and black pepper.",
+    "2. Add the sliced beef to the marinade and mix to coat. Cover and refrigerate for at least 30 minutes.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Remove the beef from the marinade and cook for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "5. While the beef is cooking, grill the sliced onion for 2-3 minutes per side, or until slightly charred.",
+    "6. Warm the Peruvian wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble the wraps by slicing the cooked beef into thin strips and placing it on a wrap, followed by a few slices of grilled onion and a sprinkle of salt and pepper.",
+    "8. Top with your desired toppings and serve immediately.",
+    "9. Serve with a side of slaw made from shredded cabbage, mayonnaise, and a squeeze of lime juice.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "wrap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-peruvian-beef-kidney-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:04:10.741Z"
+}

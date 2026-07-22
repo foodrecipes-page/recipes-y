@@ -1,0 +1,83 @@
+{
+  "slug": "yellow-fermented-japanese-fish-ramen--mexican",
+  "title": "Japanese-Style Ramen Soup with Fermented Flavor",
+  "description": "A fusion twist on traditional ramen, blending Japanese flavors with Mexican spices and a dash of fermentation.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Ramen Noodles",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Miso Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Kimchi",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the yellow ramen noodles according to the package instructions.",
+    "In a separate pan, heat the miso paste over medium heat.",
+    "Add the fermented kimchi to the miso paste and stir until combined.",
+    "Add the fish sauce, onion, and garlic to the kimchi mixture and stir-fry until the onion is translucent.",
+    "Add the soy sauce and chili flakes to the kimchi mixture and stir to combine.",
+    "Add the cooked ramen noodles to the kimchi mixture and toss to coat.",
+    "Serve the ramen hot, garnished with additional kimchi if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "japanese",
+    "ramen",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-fermented-japanese-fish-ramen--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:26:24.334Z"
+}

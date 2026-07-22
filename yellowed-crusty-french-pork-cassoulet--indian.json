@@ -1,0 +1,95 @@
+{
+  "slug": "yellowed-crusty-french-pork-cassoulet--indian",
+  "title": "Cassoulet-Style Pork Belly Biryani",
+  "description": "A twist on traditional Indian biryani, this dish combines the flavors of French cassoulet with the spices of India.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "yellowed rice",
+      "amount": "2 cups",
+      "notes": "long-grain rice"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1/2 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cassoulet",
+      "amount": "1 cup",
+      "notes": "canned beans"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat. Add the pork belly and cook until browned, about 5 minutes.",
+    "Add the onion and ginger to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Add the cassoulet, garam masala, cumin, coriander, and turmeric to the skillet. Stir to combine.",
+    "Add the yellowed rice to the skillet and stir to combine with the spice mixture.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 20 minutes.",
+    "Fluff the rice with a fork and stir in the cubed crusty bread.",
+    "Transfer the biryani to a serving dish and garnish with chopped fresh cilantro, if desired.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "pork-recipes",
+    "cassoulet-style"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crusty-french-pork-cassoulet--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:47:33.141Z"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "yellow-roasted-japanese-chicken-yakitori--chinese",
+  "title": "Chinese-Style Yakitori Chicken",
+  "description": "Delicious and easy-to-make yakitori chicken dish inspired by Chinese flavors. Perfect for a quick dinner or meal prep.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "yellow onions",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "roasted sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "yakitori skewers",
+      "amount": "10-12",
+      "notes": null
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, honey, rice vinegar, and sesame oil.",
+    "Add the chicken breasts to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto the yakitori skewers.",
+    "Grill the chicken skewers for 8-10 minutes per side, or until cooked through.",
+    "While the chicken is cooking, grill the sliced yellow onions for 3-4 minutes per side, or until caramelized.",
+    "To assemble the dish, place a grilled chicken skewer on each plate, top with a few slices of grilled onion, and garnish with roasted sesame seeds and scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "grilled",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-roasted-japanese-chicken-yakitori--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:14:59.818Z"
+}

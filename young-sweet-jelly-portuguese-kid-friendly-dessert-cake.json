@@ -1,0 +1,71 @@
+{
+  "slug": "young-sweet-jelly-portuguese-kid-friendly-dessert-cake",
+  "title": "Sweet Portuguese Kid-Friendly Cake",
+  "description": "A delicious and moist cake perfect for dessert. Made with love, this cake is sure to be a hit with both kids and adults.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "kid-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "young portuguese dessert jelly",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C). Grease two 9-inch round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together the flour and sugar.",
+    "In a large mixing bowl, use an electric mixer to beat the butter until it's light and fluffy.",
+    "Add the eggs one at a time, beating well after each addition.",
+    "Gradually add the flour mixture to the butter mixture, beating until just combined.",
+    "Beat in the vanilla extract.",
+    "Divide the batter evenly between the prepared pans.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+    "Allow the cakes to cool in the pans for 5 minutes before transferring them to a wire rack to cool completely.",
+    "Once the cakes are completely cool, place one cake layer on a serving plate and spread the Portuguese dessert jelly on top.",
+    "Place the second cake layer on top and dust with powdered sugar.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "dessert",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/young-sweet-jelly-portuguese-kid-friendly-dessert-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:31:27.626Z"
+}

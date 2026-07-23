@@ -10414,16 +10414,14 @@
   },
   {
     "slug": "young-sweet-jelly-portuguese-kid-friendly-dessert-cake",
-    "title": "young sweet jelly portuguese kid-friendly dessert cake",
+    "title": "Sweet Portuguese Kid-Friendly Cake",
     "tags": [
+      "cake",
       "dessert",
-      "easy-to-make",
-      "kid-friendly",
-      "portuguese",
-      "sattvic"
+      "portuguese"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -16660,6 +16658,33 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-turkish-bulgur-kisir--italian",
+    "title": "Italian-Style Kisir Salad",
+    "tags": [
+      "italian",
+      "turkish",
+      "salad",
+      "healthy",
+      "quick"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-whipped-jamaican-fry-skillet--vegan",
+    "title": "Vegan Jamaican Skillet Delight",
+    "tags": [
+      "vegan",
+      "jamaican",
+      "skillet",
+      "easy"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

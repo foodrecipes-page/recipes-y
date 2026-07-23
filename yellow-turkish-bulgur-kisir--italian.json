@@ -1,0 +1,93 @@
+{
+  "slug": "yellow-turkish-bulgur-kisir--italian",
+  "title": "Italian-Style Kisir Salad",
+  "description": "A twist on traditional Turkish kisir, this Italian-inspired salad combines the flavors of Italy with the spice of Turkish cuisine. Crunchy bulgur and fresh vegetables come together in a delicious and healthy dish.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "turkish pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the bulgur according to package instructions.",
+    "Chop the tomatoes, cucumber, red onion, and fresh parsley.",
+    "Mince the garlic.",
+    "In a large bowl, combine the cooked bulgur, chopped vegetables, and minced garlic.",
+    "In a small bowl, whisk together the olive oil, lemon juice, Turkish pepper, and salt.",
+    "Pour the dressing over the bulgur mixture and toss to combine.",
+    "Season with additional salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "turkish",
+    "salad",
+    "healthy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-turkish-bulgur-kisir--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:24:43.235Z"
+}

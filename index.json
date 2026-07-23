@@ -6430,16 +6430,16 @@
   },
   {
     "slug": "yellow-zesty-brazilian-shrimp-stew",
-    "title": "Yellow Zesty Brazilian Shrimp Stew",
+    "title": "Brazilian Shrimp Stew",
     "tags": [
-      "brazilian-cuisine",
-      "dairy-free",
-      "gluten-free",
-      "one-pot",
-      "seafood"
+      "brazilian",
+      "seafood",
+      "stew",
+      "easy",
+      "dinner"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 35,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -16685,6 +16685,18 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-smoky-argentinian-lamb-stew--chinese",
+    "title": "Smoky Lamb Stew",
+    "tags": [
+      "lamb",
+      "stew",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 140,
     "shard": "y"
   }
 ]

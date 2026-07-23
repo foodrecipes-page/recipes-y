@@ -1,0 +1,78 @@
+{
+  "slug": "yellowed-cheesy-vietnamese-chicken-noodles--vegan",
+  "title": "Vietnamese Chicken-Free Noodle Soup",
+  "description": "A vegan twist on a classic Vietnamese dish, swapping the traditional chicken for plant-based ingredients.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellowed noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "cheesy",
+      "amount": "1/2 cup (non-dairy cheese shreds)"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 tablespoon (vietnamese chili sauce)"
+    },
+    {
+      "name": "chicken-free broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block (pressed and cubed)"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup (sliced)"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup (chopped)"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce (vegan)",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine the chicken-free broth, vietnamese chili sauce, and lime juice. Bring to a boil over high heat.",
+    "2. Reduce the heat to low and simmer for 10 minutes.",
+    "3. Add the tofu and mushrooms to the pot. Simmer for an additional 5 minutes.",
+    "4. Cook the yellowed noodles according to package instructions. Drain and set aside.",
+    "5. Stir in the non-dairy cheese shreds and fish sauce (vegan).",
+    "6. To assemble the soup, divide the noodles among bowls. Ladle the hot broth mixture over the noodles.",
+    "7. Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vietnamese",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-cheesy-vietnamese-chicken-noodles--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:02:26.745Z"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "yellow-zesty-brazilian-shrimp-stew",
+  "title": "Brazilian Shrimp Stew",
+  "description": "A flavorful and spicy Brazilian-inspired stew made with succulent shrimp, vegetables, and a hint of zesty flavor. Perfect for a quick and delicious dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zesty Yellow Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Brazilian Stew Spice",
+      "amount": "1 tablespoon",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "optional for extra flavor"
+    },
+    {
+      "name": "Stew Tomatoes",
+      "amount": "1 can",
+      "notes": "crushed or diced"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the chopped yellow pepper and cook for another 2-3 minutes.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Add the Brazilian stew spice, tomato paste, and stew tomatoes.",
+    "Stir well and bring the mixture to a simmer.",
+    "Reduce heat to low and let simmer for 10-15 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "seafood",
+    "stew",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-zesty-brazilian-shrimp-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:14:45.225Z"
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "yellow-gooey-dutch-oat-stew",
+  "title": "Dutch Oat Stew",
+  "description": "A hearty and comforting stew made with oats and a variety of spices. Perfect for a chilly evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oat",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "dutch spice mix",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chopped carrots and potatoes, cook for 5 minutes.",
+    "Add stew, oat, and dutch spice mix. Stir to combine.",
+    "Add water to the pot and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes or until the stew has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "stew",
+    "oat-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-gooey-dutch-oat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:25:29.586Z"
+}

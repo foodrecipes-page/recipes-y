@@ -16698,5 +16698,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 140,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-cheesy-vietnamese-chicken-noodles--vegan",
+    "title": "Vietnamese Chicken-Free Noodle Soup",
+    "tags": [
+      "vegan",
+      "vietnamese",
+      "soup",
+      "noodles"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 40,
+    "shard": "y"
   }
 ]

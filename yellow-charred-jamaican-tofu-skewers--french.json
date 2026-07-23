@@ -1,0 +1,74 @@
+{
+  "slug": "yellow-charred-jamaican-tofu-skewers--french",
+  "title": "Jamaican Yellow Pepper Skewers",
+  "description": "A flavorful and colorful French-inspired dish featuring marinated yellow peppers, onions, and jamaican seasonings, grilled to perfection on skewers.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellow peppers",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut yellow peppers and onions into bite-sized pieces.",
+    "3. Thread peppers and onions onto skewers.",
+    "4. In a small bowl, whisk together olive oil and jamaican seasoning.",
+    "5. Brush the skewers with the marinade, making sure to coat all the vegetables.",
+    "6. Season with salt and pepper to taste.",
+    "7. Grill skewers for 10-12 minutes, turning occasionally.",
+    "8. Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "grilled",
+    "skewers",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-charred-jamaican-tofu-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:45:03.191Z"
+}

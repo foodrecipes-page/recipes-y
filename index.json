@@ -10830,15 +10830,14 @@
   },
   {
     "slug": "yuminy-mellow-meditterane-kanten-pilaf",
-    "title": "Yuminy Mellow Meditterane Kanten-Pilaf",
+    "title": "Kanten and Pilaf Mediterranean Bowl",
     "tags": [
-      "egg-free-friendly",
-      "leaf-wrap-steam",
-      "mediterranean",
-      "smoky-mellow"
+      "kanten",
+      "pilaf",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "y"
   },
   {

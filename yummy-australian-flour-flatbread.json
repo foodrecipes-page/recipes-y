@@ -1,0 +1,93 @@
+{
+  "slug": "yummy-australian-flour-flatbread",
+  "title": "Australian Flatbread with Aussie Meat Pie Filling",
+  "description": "An authentic Australian recipe featuring a homemade flatbread topped with a savory meat pie filling. This classic dish is a staple of Australian cuisine.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "ground beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 slices",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for flatbread"
+    },
+    {
+      "name": "yummy seasoning",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for flatbread"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for flatbread"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large pan over medium heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the pan and cook until softened.",
+    "Mix in your yummy seasoning (if using).",
+    "While the filling is cooking, prepare the flatbread dough by combining 2 cups of flour, salt, and black pepper in a large bowl.",
+    "Gradually add water to the flour mixture to form a dough, then knead for 5-7 minutes until smooth.",
+    "Divide the dough into 4-6 equal pieces, depending on how large you want your flatbread slices to be.",
+    "Roll out each piece of dough into a thin circle, about 1/8 inch thick.",
+    "Place the flatbread slices on a baking sheet lined with parchment paper and brush with beaten eggs mixed with milk for a golden glaze.",
+    "Bake the flatbread in the preheated oven for 10-12 minutes, or until lightly golden.",
+    "Spoon the meat pie filling onto one half of each flatbread slice, then fold the other half over to create a half-moon shape.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "flatbread",
+    "meat-pie",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-australian-flour-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:51:00.636Z"
+}

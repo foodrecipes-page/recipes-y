@@ -8862,17 +8862,14 @@
   },
   {
     "slug": "yellowed-russian-chicken-kebabs",
-    "title": "Yellowed Russian Chicken Kebabs",
+    "title": "Russian Chicken Kebabs",
     "tags": [
-      "chicken-recipes",
+      "chicken",
       "kebabs",
-      "lazy-susan-spinner",
-      "low-sodium",
-      "russian-cuisine",
-      "tandoor-cooking"
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -16710,6 +16707,20 @@
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-charred-jamaican-tofu-skewers--french",
+    "title": "Jamaican Yellow Pepper Skewers",
+    "tags": [
+      "french",
+      "grilled",
+      "skewers",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
     "shard": "y"
   }
 ]

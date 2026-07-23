@@ -1,76 +1,62 @@
 {
   "slug": "yellowed-rich-british-beef-stew",
-  "title": "Classic British Beef Stew",
-  "description": "A hearty, comforting stew made with tender beef and rich flavors. Serve with crusty bread or over mashed potatoes.",
+  "title": "Traditional British Beef Stew",
+  "description": "A hearty, comforting beef stew recipe from the UK, perfect for a cold evening. The long cooking time tenderizes the beef to perfection.",
   "cuisine": "British",
   "diet": [
-    "beef",
-    "gluten"
+    "beef"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "beef stew meat",
-      "amount": "1 1/2 pounds",
-      "notes": "cut into 1 1/2-inch cubes"
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1 inch cubes"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "rich beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
     },
     {
       "name": "all-purpose flour",
       "amount": "2 tablespoons",
-      "notes": "for dredging the beef"
-    },
-    {
-      "name": "olive oil",
-      "amount": "2 tablespoons",
-      "notes": "for browning the beef"
-    },
-    {
-      "name": "onion",
-      "amount": "1 medium",
-      "notes": "chopped"
-    },
-    {
-      "name": "carrot",
-      "amount": "2 medium",
-      "notes": "peeled and chopped"
-    },
-    {
-      "name": "potato",
-      "amount": "2 medium",
-      "notes": "peeled and cubed"
-    },
-    {
-      "name": "beef broth",
-      "amount": "2 cups",
-      "notes": "homemade or store-bought"
-    },
-    {
-      "name": "red wine",
-      "amount": "1 cup",
-      "notes": "optional"
-    },
-    {
-      "name": "tomato paste",
-      "amount": "2 tablespoons",
-      "notes": "optional"
-    },
-    {
-      "name": "dried thyme",
-      "amount": "1 teaspoon",
-      "notes": "fresh or dried"
+      "notes": "For thickening"
     }
   ],
   "instructions": [
-    "Heat the oil in a large Dutch oven over medium-high heat.",
-    "Add the beef and cook until browned, about 5 minutes.",
-    "Remove the beef from the pot and set aside.",
-    "Add the onion, carrot, and potato to the pot and cook until the vegetables are tender, about 10 minutes.",
-    "Add the flour to the pot and cook for 1 minute.",
-    "Add the broth, wine, tomato paste (if using), and thyme to the pot.",
-    "Return the beef to the pot and bring to a boil.",
-    "Cover the pot and transfer to the oven.",
-    "Bake for 2 1/2 hours, or until the beef is tender.",
-    "Season with salt and pepper to taste."
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Brown the beef cubes in batches until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add more oil if necessary, then sauté the chopped onion until softened, about 5 minutes.",
+    "Add the beef broth, browned beef, carrots, potatoes, salt, and pepper to the pot.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until the beef is tender.",
+    "Remove the pot from the oven and stir in the flour to thicken.",
+    "Serve hot, garnished with fresh herbs if desired."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -79,17 +65,18 @@
   "difficulty": "medium",
   "tags": [
     "beef",
+    "british",
     "stew",
-    "british"
+    "comfort-food"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 35,
-    "carbs": 25,
-    "fat": 20
+    "calories": 550,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-rich-british-beef-stew",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T14:00:53.943Z"
+  "createdAt": "2026-07-19T12:27:50.354Z"
 }

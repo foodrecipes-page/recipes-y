@@ -1,0 +1,99 @@
+{
+  "slug": "yellow-smoky-argentinian-lamb-stew--chinese",
+  "title": "Smoky Lamb Stew",
+  "description": "A hearty, slow-cooked stew with the rich flavors of lamb and Chinese spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "beef-free",
+    "pork-free",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Argentinian Oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Lamb Shoulder",
+      "amount": "2 lbs",
+      "notes": null
+    },
+    {
+      "name": "Stew Meat",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned, about 2-3 minutes per side.",
+    "Remove the lamb and set aside.",
+    "Add the stew meat and cook until browned, about 3-4 minutes.",
+    "Add the onion, ginger, and garlic and cook until the onion is translucent.",
+    "Add the soy sauce, brown sugar, smoky paprika, and argentinian oregano.",
+    "Stir to combine and cook for 1 minute.",
+    "Add the browned lamb shoulder back into the pot.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low and simmer for 2-3 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-argentinian-lamb-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:45:11.002Z"
+}

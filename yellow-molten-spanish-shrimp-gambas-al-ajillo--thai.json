@@ -1,81 +1,74 @@
 {
   "slug": "yellow-molten-spanish-shrimp-gambas-al-ajillo--thai",
-  "title": "Thai Gambas Fritters",
-  "description": "A flavorful Thai-inspired appetizer made with succulent shrimp and crispy fritters. Perfect for snacking.",
+  "title": "Thai Shrimp Stir Fry",
+  "description": "Quick and flavorful Thai-style stir fry with succulent shrimp.",
   "cuisine": "thai",
   "diet": [
     "vegetarian",
     "gluten-free"
   ],
-  "meal": "snack",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "shrimp",
-      "amount": "1 pound",
+      "name": "shrimp (gambas)",
+      "amount": "12 oz",
       "notes": "peeled and deveined"
     },
     {
       "name": "yellow",
-      "amount": "2 cloves garlic",
-      "notes": null
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "molten",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "spanish",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "al",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
     },
     {
       "name": "ajillo",
       "amount": "1 tablespoon",
-      "notes": null
-    },
-    {
-      "name": "spanish",
-      "amount": "1 cup all-purpose flour",
-      "notes": null
-    },
-    {
-      "name": "gambas",
-      "amount": "1/2 cup panko breadcrumbs",
-      "notes": null
-    },
-    {
-      "name": "al",
-      "amount": "1 egg",
-      "notes": null
-    },
-    {
-      "name": "molten",
-      "amount": "1/4 cup vegetable oil",
-      "notes": null
+      "notes": "Thai red chili paste"
     }
   ],
   "instructions": [
-    "1. In a food processor, mash the yellow garlic and ajillo until well combined.",
-    "2. Add the shrimp and pulse until coarsely chopped.",
-    "3. In a large bowl, whisk together the spanish flour and gambas breadcrumbs.",
-    "4. Add the molten vegetable oil, al egg, and the shrimp mixture to the bowl.",
-    "5. Mix well to combine.",
-    "6. Using your hands, shape the mixture into small fritters.",
-    "7. Heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat.",
-    "8. When the oil is hot, add the fritters in batches and fry until they are golden brown and crispy.",
-    "9. Drain the fritters on paper towels.",
-    "10. Serve hot with your favorite dipping sauce."
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Add chopped cilantro and stir-fry for 1 minute.",
+    "Stir in Thai red chili paste and cook for an additional minute.",
+    "Season with salt to taste.",
+    "Serve immediately over steamed rice."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "thai",
-    "snack",
     "shrimp",
-    "fritters"
+    "stir-fry",
+    "one-pot",
+    "quick-and-easy"
   ],
   "nutrition": {
-    "calories": 220,
-    "protein": 18,
-    "carbs": 10,
-    "fat": 14
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 18
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/yellow-molten-spanish-shrimp-gambas-al-ajillo--thai",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T06:34:20.469Z"
+  "createdAt": "2026-07-19T08:08:19.113Z"
 }

@@ -1,0 +1,87 @@
+{
+  "slug": "yellowed-russian-chicken-kebabs",
+  "title": "Russian Chicken Kebabs",
+  "description": "A classic dish with marinated chicken and vegetables, grilled to perfection. This recipe is perfect for a cozy evening with family and friends.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Russian kebab skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "any color, cut into 1-inch pieces"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "cut into wedges"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, salt, and pepper.",
+    "Add chicken and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread chicken, onion, bell pepper, and tomato onto kebab skewers.",
+    "Brush kebabs with marinade and season with salt and pepper.",
+    "Grill kebabs for 8-10 minutes per side, or until chicken is cooked through and vegetables are tender.",
+    "Serve hot, garnished with fresh parsley or dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-russian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:14:19.174Z"
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "yellow-cheesy-brazilian-seafood-fried-rice",
+  "title": "Creamy Yellow Seafood Rice Casserole",
+  "description": "A Brazilian-inspired dish featuring seafood, rice, and a creamy yellow sauce. Perfect for a weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mixed Seafood (shrimp, mussels, clams)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Cheesy Sauce (cheddar, parmesan)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the yellow rice according to package instructions.",
+    "Melt 2 tablespoons of butter in a large skillet over medium heat.",
+    "Add the garlic and onion; cook until softened, about 3-4 minutes.",
+    "Add the mixed seafood; cook until pink and fully cooked, about 5 minutes.",
+    "Stir in the cheesy sauce until heated through.",
+    "In a separate saucepan, melt the remaining 2 tablespoons of butter.",
+    "Add the cooked yellow rice; stir to combine with the cheesy seafood mixture.",
+    "Transfer the rice mixture to a baking dish.",
+    "Top with additional grated cheese (if desired).",
+    "Bake for 15-20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "casserole",
+    "brazilian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-cheesy-brazilian-seafood-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:41:17.771Z"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "yellowed-crisp-norwegian-ham-hash",
+  "title": "Crispy Norwegian Hash",
+  "description": "A simple yet satisfying breakfast dish that combines crispy Norwegian hash with ham and scrambled eggs.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Norwegian hash",
+      "amount": "1 cup",
+      "notes": "Crispy"
+    },
+    {
+      "name": "Yellowed ham",
+      "amount": "4 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, scramble the eggs over medium heat.",
+    "2. Season the scrambled eggs with salt and pepper to taste.",
+    "3. Add the thinly sliced yellowed ham to the pan and stir to combine.",
+    "4. Add the crispy Norwegian hash to the pan and stir to combine.",
+    "5. Serve hot, garnished with chopped fresh herbs if desired.",
+    "6. Cook for an additional 2-3 minutes if the hash is not crispy enough."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "scandinavian",
+    "hash",
+    "ham",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crisp-norwegian-ham-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:42:45.343Z"
+}

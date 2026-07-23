@@ -3671,16 +3671,14 @@
   },
   {
     "slug": "yellow-gooey-dutch-oat-stew",
-    "title": "Yellow Gooey Dutch Oat Stew",
+    "title": "Dutch Oat Stew",
     "tags": [
-      "ayurvedic-friendly",
       "comfort-food",
-      "dutch-cuisine",
-      "one-pot",
-      "vegetarian"
+      "stew",
+      "oat-based"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -8706,11 +8704,12 @@
   },
   {
     "slug": "yellowed-rich-british-beef-stew",
-    "title": "Classic British Beef Stew",
+    "title": "Traditional British Beef Stew",
     "tags": [
       "beef",
+      "british",
       "stew",
-      "british"
+      "comfort-food"
     ],
     "cuisine": "British",
     "totalTimeMin": 170,

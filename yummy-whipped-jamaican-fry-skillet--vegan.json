@@ -1,0 +1,65 @@
+{
+  "slug": "yummy-whipped-jamaican-fry-skillet--vegan",
+  "title": "Vegan Jamaican Skillet Delight",
+  "description": "A flavorful and spicy vegan skillet dish with Jamaican-inspired flavors, perfect for a quick and easy dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamaican seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Fry onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Skillet bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tofu (marinated)",
+      "amount": "1 block"
+    },
+    {
+      "name": "Yummy mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Whipped coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the marinated tofu and cook until browned, about 3-4 minutes.",
+    "Add the Jamaican seasoning, onions, and bell peppers to the skillet. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Season with additional Jamaican seasoning to taste.",
+    "Serve the skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "jamaican",
+    "skillet",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-whipped-jamaican-fry-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:35:49.003Z"
+}

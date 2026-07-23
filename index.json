@@ -1927,17 +1927,15 @@
   },
   {
     "slug": "yellow-cheesy-brazilian-seafood-fried-rice",
-    "title": "Yellow Cheesy Brazilian Seafood Fried Rice",
+    "title": "Creamy Yellow Seafood Rice Casserole",
     "tags": [
+      "seafood",
+      "casserole",
       "brazilian",
-      "cheesy",
-      "christmas-pudding",
-      "fried-rice",
-      "pescatarian",
-      "seafood"
+      "comfort-food"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "y"
   },
   {
@@ -11089,17 +11087,16 @@
   },
   {
     "slug": "yummy-australian-flour-flatbread",
-    "title": "Yummy Australian Flour Flatbread",
+    "title": "Australian Flatbread with Aussie Meat Pie Filling",
     "tags": [
+      "australian",
+      "beef",
       "flatbread",
-      "fluffy",
-      "garlicky",
-      "kid-friendly",
-      "nut-free",
-      "quick"
+      "meat-pie",
+      "snack"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": "australian",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {

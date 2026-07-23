@@ -15784,15 +15784,16 @@
   },
   {
     "slug": "yellow-molten-spanish-shrimp-gambas-al-ajillo--thai",
-    "title": "Thai Gambas Fritters",
+    "title": "Thai Shrimp Stir Fry",
     "tags": [
       "thai",
-      "snack",
       "shrimp",
-      "fritters"
+      "stir-fry",
+      "one-pot",
+      "quick-and-easy"
     ],
     "cuisine": "thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 13,
     "shard": "y"
   },
   {

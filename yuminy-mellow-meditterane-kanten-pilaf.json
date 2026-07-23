@@ -1,0 +1,71 @@
+{
+  "slug": "yuminy-mellow-meditterane-kanten-pilaf",
+  "title": "Kanten and Pilaf Mediterranean Bowl",
+  "description": "A flavorful and nutritious bowl with the combination of mediterranean flavors and crunchy kanten.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kanten",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped 1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the pilaf according to the package instructions.",
+    "In a separate pan, heat the olive oil over medium heat.",
+    "Add the kanten and cook until it's lightly browned.",
+    "Add the Mediterranean seasoning and cook for 1 minute.",
+    "Stir in the lemon juice and cook for another minute.",
+    "Season with salt to taste.",
+    "Serve the kanten mixture over the cooked pilaf.",
+    "Garnish with chopped parsley."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kanten",
+    "pilaf",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yuminy-mellow-meditterane-kanten-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:30:30.051Z"
+}

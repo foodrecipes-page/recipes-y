@@ -16651,5 +16651,19 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-golden-norwegian-cheese-frittata--german",
+    "title": "Käsekuchen Frittata (German Cheese Frittata)",
+    "tags": [
+      "german",
+      "breakfast",
+      "brunch",
+      "frittata",
+      "cheese"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "y"
   }
 ]

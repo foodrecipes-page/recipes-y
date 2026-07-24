@@ -1,0 +1,97 @@
+{
+  "slug": "yellowed-dense-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A traditional North African stew made with tender lamb and aromatic spices. This recipe serves 4-6 people and can be cooked in a slow cooker or Dutch oven.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Onion, yellowed",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Dense garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tunisian cumin",
+      "amount": "2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Tunisian paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Coarse"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Almonds, sliced",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Season the lamb with salt, black pepper, cumin, and paprika.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the chicken broth, dried apricots, and browned lamb to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the tagine in the preheated oven at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in the sliced almonds, if using.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired.",
+    "Let the tagine rest for 15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-dense-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:29:24.479Z"
+}

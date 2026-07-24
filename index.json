@@ -12820,16 +12820,14 @@
   },
   {
     "slug": "yummy-korean-noodles-naengmyeon",
-    "title": "yummy Korean noodles Naengmyeon",
+    "title": "Naengmyeon with Korean-Style Noodle Sauce",
     "tags": [
-      "cold-noodles",
-      "easy-dessert",
       "korean",
       "naengmyeon",
-      "summer-dish"
+      "noodle-sauce"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 40,
+    "cuisine": "Korean",
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {

@@ -1,0 +1,91 @@
+{
+  "slug": "yellow-buttery-japanese-squash-jjigae--french",
+  "title": "Squash Jjigae aux Fromages",
+  "description": "A French-inspired twist on Korean jjigae, featuring roasted squash, melted cheese, and a hint of buttery goodness.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "jjigae",
+      "amount": "1 cup",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "goat cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the squash in a bowl with 1 tablespoon of butter, salt, and pepper until evenly coated.",
+    "Spread the squash on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a large skillet, melt the remaining 1 tablespoon of butter over medium heat.",
+    "Add the flour and whisk to combine. Cook for 1 minute, stirring constantly.",
+    "Add the jjigae and cook for 2-3 minutes, stirring constantly.",
+    "Stir in the Gruyère and goat cheese until melted and smooth.",
+    "Add the roasted squash to the skillet and stir to combine.",
+    "Season with thyme and adjust seasoning as needed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "korean-fusion",
+    "vegetarian",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-buttery-japanese-squash-jjigae--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:32:03.567Z"
+}

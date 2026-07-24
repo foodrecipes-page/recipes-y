@@ -16908,5 +16908,45 @@
     "cuisine": "mexican",
     "totalTimeMin": 12,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-chewy-canadian-oats-bake--french",
+    "title": "French Oat Biscuits",
+    "tags": [
+      "biscuit",
+      "oat",
+      "french",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-silky-spanish-sloe-beries-dumplings--keto",
+    "title": "Sloe Dumplings",
+    "tags": [
+      "keto",
+      "dessert",
+      "dumplings",
+      "berries",
+      "chocolate"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowish-golden-mediterranean-chicken-skillet--mexican",
+    "title": "Mexican Chicken Skillet",
+    "tags": [
+      "chicken",
+      "skillet",
+      "mexican",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

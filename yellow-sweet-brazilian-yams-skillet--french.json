@@ -1,0 +1,61 @@
+{
+  "slug": "yellow-sweet-brazilian-yams-skillet--french",
+  "title": "Pan-Seared Sweet Potato Frites",
+  "description": "A French-inspired recipe for crispy sweet potato fries, pan-seared to perfection.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yellow sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut sweet potatoes into long, thin strips.",
+    "Heat about 1/2 inch of vegetable oil in a skillet over medium-high heat.",
+    "When oil is hot, add a few sweet potato strips to the skillet and fry until golden brown, about 3-4 minutes.",
+    "Using a slotted spoon, remove fries from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining sweet potato strips.",
+    "Season fries with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fries",
+    "sweetpotato"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-sweet-brazilian-yams-skillet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:20:48.638Z"
+}

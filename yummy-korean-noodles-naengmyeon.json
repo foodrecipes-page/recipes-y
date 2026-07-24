@@ -1,0 +1,74 @@
+{
+  "slug": "yummy-korean-noodles-naengmyeon",
+  "title": "Naengmyeon with Korean-Style Noodle Sauce",
+  "description": "A refreshing summer dish from Korea, featuring buckwheat or starch noodles served with a spicy sauce and various toppings.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "naengmyeon (noodles)",
+      "amount": "200g"
+    },
+    {
+      "name": "yummy sauce (gochujang, soy sauce, vinegar, sugar, garlic, ginger)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    }
+  ],
+  "instructions": [
+    "Cook the naengmyeon noodles according to the package instructions.",
+    "In a blender, combine yummy sauce ingredients and blend until smooth.",
+    "Heat the blended sauce in a pan over medium heat.",
+    "Add Korean chili flakes and stir to combine.",
+    "Add soy sauce, rice vinegar, and sugar, and stir to combine.",
+    "Add garlic and ginger, and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the noodles with the spicy sauce and your choice of toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "naengmyeon",
+    "noodle-sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-korean-noodles-naengmyeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:07:42.698Z"
+}

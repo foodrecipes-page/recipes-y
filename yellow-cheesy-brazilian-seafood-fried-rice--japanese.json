@@ -1,0 +1,80 @@
+{
+  "slug": "yellow-cheesy-brazilian-seafood-fried-rice--japanese",
+  "title": "Japanese Cheesy Seafood Rice",
+  "description": "A Japanese-inspired rice bowl with a cheesy twist, featuring a seafood mix and a fried egg.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Seafood mix (shrimp, scallops, mussels)",
+      "amount": "1 cup",
+      "notes": "thawed and patted dry"
+    },
+    {
+      "name": "Cheese (Monterey Jack or Cheddar)",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fried egg",
+      "amount": "2",
+      "notes": "beaten and seasoned with salt and pepper"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade and seasoning"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped and for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Cook Japanese rice according to package instructions.",
+    "2. In a separate pan, heat sesame oil over medium heat.",
+    "3. Add seafood mix and cook until pink and fully cooked, about 3-4 minutes.",
+    "4. In a separate bowl, whisk together soy sauce and a pinch of salt.",
+    "5. Pour the soy sauce mixture over the cooked seafood and toss to coat.",
+    "6. In a greased pan, fry the egg sunny-side up.",
+    "7. To assemble the dish, place a scoop of cooked rice on a plate, followed by the seafood mix.",
+    "8. Place the fried egg on top of the seafood, and sprinkle shredded cheese over the egg.",
+    "9. Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "seafood",
+    "rice",
+    "cheesy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-cheesy-brazilian-seafood-fried-rice--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:47:56.428Z"
+}

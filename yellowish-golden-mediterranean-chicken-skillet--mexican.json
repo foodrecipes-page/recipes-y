@@ -1,0 +1,86 @@
+{
+  "slug": "yellowish-golden-mediterranean-chicken-skillet--mexican",
+  "title": "Mexican Chicken Skillet",
+  "description": "A flavorful and easy-to-make Mexican-inspired skillet dish packed with tender chicken and colorful vegetables.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "yellowish onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "golden bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "1/4 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "skillet cooking oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned on both sides and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of oil to the skillet.",
+    "Add the onions and bell peppers to the skillet and cook until the vegetables are tender, about 3-4 minutes.",
+    "Add the olives, cumin, chili powder, salt, and pepper to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the vegetables and spices.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "skillet",
+    "mexican",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-golden-mediterranean-chicken-skillet--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:14:17.063Z"
+}

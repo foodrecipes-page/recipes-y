@@ -1,0 +1,95 @@
+{
+  "slug": "yeasty-gooey-tunisian-weeknight-dish-wrap",
+  "title": "Tunisian Yeast Wrap",
+  "description": "A delicious and easy-to-make Tunisian-inspired yeast wrap, perfect for a quick weeknight dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 packet (2 1/4 teaspoons)",
+      "notes": ""
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coarse Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cracked Wheat",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried Cilantro",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water and yeast. Let it sit for 5-10 minutes until yeast is activated.",
+    "Add Tunisian Spice Blend and coarse salt. Mix well.",
+    "Gradually add cracked wheat, all-purpose flour, dried oregano, and dried cilantro. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Punch down the dough and divide it into 4-6 equal portions, depending on how large you want your wraps to be.",
+    "Roll out each portion into a thin circle.",
+    "Brush the tops with olive oil and cook for 1-2 minutes on each side, until the wraps are lightly browned and puffed.",
+    "Warm the honey in a small saucepan over low heat. Brush the tops of the wraps with the warm honey."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "yeast",
+    "wrap",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-gooey-tunisian-weeknight-dish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:17:45.026Z"
+}

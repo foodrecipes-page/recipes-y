@@ -1,0 +1,79 @@
+{
+  "slug": "yummy-whipped-jamaican-fry-skillet--vegetarian",
+  "title": "Jamaican Skillet Fry-Up",
+  "description": "A flavorful vegetarian skillet dish with Jamaican spices, served with a side of yummy whipped topping.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "skillet",
+      "amount": "1 medium"
+    },
+    {
+      "name": "jamaican",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 cup",
+      "notes": "diced tomatoes"
+    },
+    {
+      "name": "whipped",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the Jamaican spice and cook for 1 minute.",
+    "Add the onion and bell pepper and cook until tender.",
+    "Add the mushroom and cook for 2 minutes.",
+    "Add the yummy diced tomatoes and cook for 1 minute.",
+    "Stir in the fry and cook for 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with whipped topping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-whipped-jamaican-fry-skillet--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:16:01.213Z"
+}

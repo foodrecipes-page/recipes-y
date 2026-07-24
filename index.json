@@ -3944,17 +3944,15 @@
   },
   {
     "slug": "yellow-mediterranean-chickpeas-salad",
-    "title": "Yellow Mediterranean Chickpeas Salad",
+    "title": "Mediterranean Chickpea Salad",
     "tags": [
-      "chickpea-recipes",
-      "gluten-free-recipes",
-      "healthy-snacks",
-      "mediterranean-diet",
-      "sugar-free-recipes",
-      "vegetarian-recipes"
+      "chickpeas",
+      "mediterranean",
+      "salad",
+      "vegan"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "y"
   },
   {
@@ -16772,6 +16770,58 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 170,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-australian-vegetable-curry--vegan",
+    "title": "Vegan Yellow Curry",
+    "tags": [
+      "vegan",
+      "curry",
+      "australian",
+      "yellow"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-chewy-korean-mushrooms-wrapped-ssam--french",
+    "title": "French-Style Beef Ssäm with Mushrooms",
+    "tags": [
+      "french",
+      "korean",
+      "beef",
+      "mushrooms",
+      "ssam"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 140,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-sweet-brazilian-yams-skillet--french",
+    "title": "Pan-Seared Sweet Potato Frites",
+    "tags": [
+      "french",
+      "fries",
+      "sweetpotato"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-buttery-japanese-squash-jjigae--french",
+    "title": "Squash Jjigae aux Fromages",
+    "tags": [
+      "french",
+      "korean-fusion",
+      "vegetarian",
+      "cheesy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "y"
   }
 ]

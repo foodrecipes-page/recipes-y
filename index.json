@@ -16747,5 +16747,31 @@
     "cuisine": "french",
     "totalTimeMin": 195,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-garlic-ukrainian-pasta-pilaf--indian",
+    "title": "Indian-Style Pasta Pilaf",
+    "tags": [
+      "indian",
+      "pasta",
+      "pilaf",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yielding-australian-beef-broth--german",
+    "title": "Australian Beef Stew",
+    "tags": [
+      "australian",
+      "beef",
+      "german",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
+    "shard": "y"
   }
 ]

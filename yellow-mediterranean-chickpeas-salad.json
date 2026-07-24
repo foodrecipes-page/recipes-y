@@ -1,0 +1,85 @@
+{
+  "slug": "yellow-mediterranean-chickpeas-salad",
+  "title": "Mediterranean Chickpea Salad",
+  "description": "A simple and refreshing salad made with chickpeas, Mediterranean ingredients, and a hint of lemon.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Yellow tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Drain and rinse the chickpeas.",
+    "2. Cut the yellow tomatoes, red onion, and red bell pepper into bite-sized pieces.",
+    "3. In a large bowl, combine the chickpeas, tomatoes, onion, and bell pepper.",
+    "4. Add the sliced olives and stir to combine.",
+    "5. In a small bowl, whisk together the lemon juice and olive oil.",
+    "6. Pour the dressing over the salad and toss to combine.",
+    "7. Season with salt and pepper to taste.",
+    "8. Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "9. Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpeas",
+    "mediterranean",
+    "salad",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-mediterranean-chickpeas-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:53:33.411Z"
+}

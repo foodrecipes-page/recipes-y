@@ -1,0 +1,85 @@
+{
+  "slug": "yummy-cajun-mediterranean-couscous-sushi--french",
+  "title": "Braised Lamb Shanks with Couscous",
+  "description": "Tender lamb shanks slow-cooked in a rich, cajun-spiced broth, served with fluffy couscous and a side of steamed vegetables. This hearty, comforting dish is a staple of French cuisine.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4-6 shanks",
+      "notes": "bone-in"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "cajun seasoning",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shanks with cajun seasoning.",
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned on all sides, about 5 minutes.",
+    "Add onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add beef broth and red wine to the pot, scraping up any browned bits.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the lamb shanks for 2-3 hours, or until tender.",
+    "Cook couscous according to package instructions.",
+    "Serve the lamb shanks with steamed vegetables and a side of couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "couscous",
+    "cajun",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "24g",
+    "fat": "32g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-cajun-mediterranean-couscous-sushi--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:22:02.821Z"
+}

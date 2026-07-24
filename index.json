@@ -850,16 +850,15 @@
   },
   {
     "slug": "yeasty-gooey-tunisian-weeknight-dish-wrap",
-    "title": "Tunisian Weeknight Wrap",
+    "title": "Tunisian Yeast Wrap",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "one-pan",
-      "tunisian",
-      "weeknight"
+      "north african",
+      "yeast",
+      "wrap",
+      "tunisian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 25,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -7735,16 +7734,15 @@
   },
   {
     "slug": "yellowed-dense-tunisian-lamb-tagine",
-    "title": "Yellowed Dense Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-based",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot",
-      "slow-cooked"
+      "stew"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "y"
   },
   {

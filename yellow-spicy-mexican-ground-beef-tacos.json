@@ -1,0 +1,88 @@
+{
+  "slug": "yellow-spicy-mexican-ground-beef-tacos",
+  "title": "Spicy Beef Tacos",
+  "description": "A flavorful and spicy taco recipe using ground beef, perfect for a quick dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "spicy taco seasoning",
+      "amount": "2 tablespoons",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "tacos",
+      "amount": "8-10",
+      "notes": "corn or flour, your preference"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack work well"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 ounces"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "mild or spicy, your choice"
+    },
+    {
+      "name": "avocado or guacamole",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef in a large skillet over medium-high heat, breaking it up into small pieces as it cooks.",
+    "Once the beef is browned, add the diced onion and cook until it is translucent.",
+    "Add the taco seasoning and cook for 1-2 minutes, stirring constantly.",
+    "Add the canned diced tomatoes and stir to combine.",
+    "Warm the tacos by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef and onion mixture onto a taco and topping with cheese, salsa, avocado or guacamole, and sour cream.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "mexican",
+    "tacos",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-mexican-ground-beef-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:53:04.546Z"
+}

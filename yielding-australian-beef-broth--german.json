@@ -1,0 +1,75 @@
+{
+  "slug": "yielding-australian-beef-broth--german",
+  "title": "Australian Beef Stew",
+  "description": "A hearty, slow-cooked stew originating from Australia, perfect for a cold day, inspired by German cooking techniques.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Australian Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Yielding Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onions and garlic until softened.",
+    "Add the carrots and potatoes; cook for 5 minutes.",
+    "Add the beef broth, browned beef, and salt. Stir to combine.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until the meat is tender.",
+    "Garnish with parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "german",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yielding-australian-beef-broth--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:30:00.487Z"
+}

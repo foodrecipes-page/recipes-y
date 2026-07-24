@@ -1,0 +1,91 @@
+{
+  "slug": "yeasty-tender-filipino-olive-dumplings--indian",
+  "title": "Filipino-Style Chicken Dumplings",
+  "description": "A unique fusion dish of Filipino and Indian flavors, featuring tender dumplings in a savory sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Filipino",
+      "amount": "1 package",
+      "notes": "Filipino-style dumpling wrappers"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "Tender",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless chicken breast"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated for the sauce"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced for the sauce"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For the sauce"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "For the sauce"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the yeast, 1/4 cup warm water, and 1 tablespoon olive oil. Let it sit for 5 minutes.",
+    "Add the tender chicken to the bowl and mix well.",
+    "Add the Filipino-style dumpling wrappers to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes.",
+    "Divide the dough into 8 equal pieces.",
+    "Shape each piece into a round dumpling.",
+    "Pan-fry the dumplings in olive oil until golden brown.",
+    "For the sauce, combine the soy sauce, fish sauce, ginger, and garlic in a saucepan.",
+    "Bring the sauce to a simmer and cook for 5 minutes.",
+    "Serve the dumplings with the sauce on top and garnish with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "indian",
+    "dumplings",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-tender-filipino-olive-dumplings--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:26:27.689Z"
+}

@@ -16948,5 +16948,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-sour-light-jamaican-duck-legs-tagine--italian",
+    "title": "Jamaican Leg Tagine",
+    "tags": [
+      "italian",
+      "jamaican",
+      "duck",
+      "tagine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 105,
+    "shard": "y"
   }
 ]

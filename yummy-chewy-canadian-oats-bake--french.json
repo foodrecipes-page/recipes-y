@@ -1,0 +1,68 @@
+{
+  "slug": "yummy-chewy-canadian-oats-bake--french",
+  "title": "French Oat Biscuits",
+  "description": "A simple, chewy oat biscuit with a hint of sweetness, perfect for a French-inspired snack.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yummy",
+      "amount": "1/2 cup",
+      "notes": "brown sugar"
+    },
+    {
+      "name": "chewy",
+      "amount": "1/4 cup",
+      "notes": "molasses"
+    },
+    {
+      "name": "canadian",
+      "amount": "2 teaspoons",
+      "notes": "vanilla extract"
+    },
+    {
+      "name": "bake",
+      "amount": "1/2 teaspoon",
+      "notes": "baking powder"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together the oats, brown sugar, molasses, and baking powder.",
+    "In a separate bowl, whisk together the vanilla extract and 1/4 cup of water.",
+    "Pour the wet ingredients into the dry ingredients and stir until a dough forms.",
+    "Roll out the dough on a floured surface to 1/4 inch thickness.",
+    "Cut into desired shapes using a biscuit cutter or the rim of a glass.",
+    "Place the biscuits on the prepared baking sheet, leaving about 1 inch of space between each biscuit.",
+    "Bake for 12-15 minutes, or until the biscuits are lightly golden brown.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "biscuit",
+    "oat",
+    "french",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-chewy-canadian-oats-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:20:00.098Z"
+}

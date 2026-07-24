@@ -1,0 +1,95 @@
+{
+  "slug": "yummy-silky-german-pasta-pasta--keto",
+  "title": "German Keto Pasta Bake",
+  "description": "A low-carb twist on the classic pasta bake, using german sausage and silky cream.",
+  "cuisine": "German",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German Sausage",
+      "amount": "12 oz",
+      "notes": "Look for a sugar-free option"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz (zucchini noodles or shirataki noodles work well for keto)",
+      "notes": null
+    },
+    {
+      "name": "Silky Cream",
+      "amount": "1 cup",
+      "notes": "Heavy cream or coconut cream work well"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Diced Bell Pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the German sausage in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the diced onion and bell pepper to the skillet and cook until the vegetables are tender.",
+    "Add the bacon to the skillet and cook until crispy.",
+    "Add the pasta to the skillet and cook for 2-3 minutes.",
+    "In a separate bowl, mix together the silky cream, cheddar cheese, garlic powder, salt, and black pepper.",
+    "Pour the cream mixture over the pasta and sausage mixture, and stir until everything is well combined.",
+    "Transfer the mixture to a baking dish and top with additional shredded cheese if desired.",
+    "Bake for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "german",
+    "pasta",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-silky-german-pasta-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:22:23.116Z"
+}

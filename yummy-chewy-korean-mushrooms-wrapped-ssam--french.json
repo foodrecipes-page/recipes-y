@@ -1,0 +1,98 @@
+{
+  "slug": "yummy-chewy-korean-mushrooms-wrapped-ssam--french",
+  "title": "French-Style Beef Ssäm with Mushrooms",
+  "description": "Tender beef short ribs wrapped in crispy Korean-style lettuce leaves with a savory mushroom sauce. A unique French twist on traditional Korean street food.",
+  "cuisine": "french",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef short ribs",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms (such as shiitake or cremini)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "4 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce leaves",
+      "amount": "1 head",
+      "notes": "such as romaine or napa"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 300°F (150°C).",
+    "2. In a small bowl, mix together chili flakes, garlic, ginger, soy sauce, and brown sugar.",
+    "3. Rub the spice mixture all over the beef short ribs, making sure to coat them evenly.",
+    "4. Place the short ribs on a baking sheet lined with parchment paper and roast in the oven for 2 hours.",
+    "5. While the ribs are cooking, prepare the mushroom sauce. In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "6. Add the sliced mushrooms to the skillet and cook until they're browned and caramelized, about 5 minutes.",
+    "7. Add the green onions to the skillet and cook for an additional 1 minute.",
+    "8. Stir in the rice vinegar and cook for 1 minute.",
+    "9. To assemble the ssäm, place a few pieces of the short ribs onto a lettuce leaf, followed by a spoonful of the mushroom sauce.",
+    "10. Serve immediately and enjoy!",
+    "11. Garnish with additional green onions and chili flakes, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "korean",
+    "beef",
+    "mushrooms",
+    "ssam"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-chewy-korean-mushrooms-wrapped-ssam--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:02:55.708Z"
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "yellow-glazed-british-lamb-sunday-roast",
+  "title": "Traditional British Sunday Roast",
+  "description": "A classic British dish, perfect for a special occasion. Roast lamb is served with a variety of vegetables and gravy.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": null
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Glazed carrots",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Potato",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the lamb with salt, pepper, and rosemary.",
+    "Heat oil in a large oven-safe pan over medium-high heat. Sear the lamb until browned on all sides.",
+    "Transfer the lamb to the oven and roast for 20 minutes.",
+    "Reduce the oven temperature to 180°C (350°F) and continue roasting for 2 hours.",
+    "Toss the carrots and potatoes in oil, salt, and pepper. Spread them out in a single layer on a baking sheet.",
+    "Roast the vegetables in the oven for 45 minutes, or until tender.",
+    "Remove the lamb from the oven and let it rest for 10 minutes.",
+    "Strain the pan juices and discard the excess fat. Add the beef broth and red wine (if using) to the pan.",
+    "Bring the gravy to a simmer and cook until reduced slightly.",
+    "Serve the lamb with the roasted vegetables and gravy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "lamb",
+    "sunday-roast",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-glazed-british-lamb-sunday-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:21:25.198Z"
+}

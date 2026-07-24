@@ -1,0 +1,71 @@
+{
+  "slug": "yellowed-light-italian-bread-toast--mexican",
+  "title": "Crispy Mexican Toast",
+  "description": "A simple Mexican-inspired toast dish, perfect for a quick breakfast or snack.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Light Bread",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Italian Bread",
+      "amount": "1 cup, cubed",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Yellow Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2",
+      "notes": "sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Toast the light bread for 2-3 minutes, or until lightly browned.",
+    "3. In a small bowl, mix together the yellow cheese and salsa.",
+    "4. Spread the cheese-salsa mixture on top of the toasted bread.",
+    "5. Bake in the oven for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "6. Remove from the oven and top with cubed Italian bread.",
+    "7. Garnish with chopped cilantro and sliced avocado.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "mexican",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-light-italian-bread-toast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:10:22.839Z"
+}

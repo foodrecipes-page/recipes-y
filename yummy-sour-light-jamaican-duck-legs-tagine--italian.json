@@ -1,0 +1,73 @@
+{
+  "slug": "yummy-sour-light-jamaican-duck-legs-tagine--italian",
+  "title": "Jamaican Leg Tagine",
+  "description": "A unique fusion of Italian and Jamaican flavors, featuring tender duck legs in a rich and tangy tagine sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "yummy",
+      "amount": "2 tbsp olive oil",
+      "notes": "Use a neutral-tasting oil with a high smoke point"
+    },
+    {
+      "name": "sour",
+      "amount": "1 cup white wine",
+      "notes": "A dry white wine will add depth to the tagine sauce"
+    },
+    {
+      "name": "light",
+      "amount": "1 cup chicken broth",
+      "notes": "Low-sodium broth will help balance the flavors"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tbsp jerk seasoning",
+      "notes": "Adjust to taste for a milder or spicier flavor"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tsp ground cumin",
+      "notes": "A classic North African spice blend"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the duck legs with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the duck legs until browned on both sides, about 5 minutes. Remove the duck from the pot and set aside.",
+    "Add the white wine to the pot and scrape up any browned bits from the bottom. Bring the wine to a simmer and cook until reduced by half, about 5 minutes.",
+    "Add the chicken broth, jerk seasoning, and cumin to the pot. Stir to combine.",
+    "Return the duck legs to the pot and make sure they're mostly submerged in the liquid. If necessary, add a little more broth or water.",
+    "Cover the pot with a lid and transfer it to the preheated oven. Braise the duck for 1 1/2 hours, or until the meat is tender and falls off the bone.",
+    "Remove the pot from the oven and let it cool slightly. Serve the duck legs with the tagine sauce spooned over the top.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "jamaican",
+    "duck",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-sour-light-jamaican-duck-legs-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:34:16.097Z"
+}

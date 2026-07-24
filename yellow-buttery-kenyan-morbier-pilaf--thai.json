@@ -1,0 +1,73 @@
+{
+  "slug": "yellow-buttery-kenyan-morbier-pilaf--thai",
+  "title": "Thai-Style Kenyan Pilaf Bake",
+  "description": "A flavorful and aromatic Thai-inspired dish featuring Kenyan pilaf, yellow and morbier cheese.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan pilaf",
+      "amount": "1 cup",
+      "notes": "preferably day-old pilaf"
+    },
+    {
+      "name": "Yellow cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "such as cheddar or mozzarella"
+    },
+    {
+      "name": "Morbier cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "adds a nice, creamy texture"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "for greasing the baking dish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9x9-inch baking dish with 2 tablespoons of butter.",
+    "In a large mixing bowl, combine the Kenyan pilaf, yellow cheese, and morbier cheese.",
+    "Stir in 2 tablespoons of soy sauce and mix well.",
+    "Transfer the pilaf mixture to the prepared baking dish.",
+    "Dot the top of the pilaf with the remaining 2 tablespoons of butter.",
+    "Bake for 20-25 minutes or until the cheese is melted and bubbly.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "pilaf",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-buttery-kenyan-morbier-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:57:28.035Z"
+}

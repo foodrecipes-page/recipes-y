@@ -16881,5 +16881,32 @@
     "cuisine": "japanese",
     "totalTimeMin": 27,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-yielding-saudi-buckwheat-tagine--french",
+    "title": "Buckwheat Tagine with Yellow Lentils",
+    "tags": [
+      "lentil",
+      "buckwheat",
+      "tagine",
+      "north-african",
+      "vegan-option"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-light-italian-bread-toast--mexican",
+    "title": "Crispy Mexican Toast",
+    "tags": [
+      "breakfast",
+      "snack",
+      "mexican",
+      "cheesy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 12,
+    "shard": "y"
   }
 ]

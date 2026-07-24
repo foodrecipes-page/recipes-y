@@ -16830,5 +16830,56 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-whipped-jamaican-fry-skillet--vegetarian",
+    "title": "Jamaican Skillet Fry-Up",
+    "tags": [
+      "breakfast",
+      "vegetarian",
+      "caribbean"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-garlicky-malaysian-new-potatoes-hash--japanese",
+    "title": "Hash Brown Gyoza",
+    "tags": [
+      "japanese",
+      "snack",
+      "veggie"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-silky-german-pasta-pasta--keto",
+    "title": "German Keto Pasta Bake",
+    "tags": [
+      "keto",
+      "german",
+      "pasta",
+      "bake"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-cheesy-brazilian-seafood-fried-rice--japanese",
+    "title": "Japanese Cheesy Seafood Rice",
+    "tags": [
+      "japanese",
+      "seafood",
+      "rice",
+      "cheesy",
+      "lunch"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "y"
   }
 ]

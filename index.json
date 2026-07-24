@@ -16821,5 +16821,18 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-buttery-kenyan-morbier-pilaf--thai",
+    "title": "Thai-Style Kenyan Pilaf Bake",
+    "tags": [
+      "thai",
+      "pilaf",
+      "cheese",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

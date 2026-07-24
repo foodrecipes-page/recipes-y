@@ -16721,5 +16721,31 @@
     "cuisine": "french",
     "totalTimeMin": 27,
     "shard": "y"
+  },
+  {
+    "slug": "yeasty-tender-filipino-olive-dumplings--indian",
+    "title": "Filipino-Style Chicken Dumplings",
+    "tags": [
+      "filipino",
+      "indian",
+      "dumplings",
+      "chicken"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-cajun-mediterranean-couscous-sushi--french",
+    "title": "Braised Lamb Shanks with Couscous",
+    "tags": [
+      "lamb",
+      "couscous",
+      "cajun",
+      "braised"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 195,
+    "shard": "y"
   }
 ]

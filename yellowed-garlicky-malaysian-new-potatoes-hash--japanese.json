@@ -1,0 +1,57 @@
+{
+  "slug": "yellowed-garlicky-malaysian-new-potatoes-hash--japanese",
+  "title": "Hash Brown Gyoza",
+  "description": "A Japanese twist on traditional gyoza, with crispy hash brown crust and savory fillings.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hash",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "200g",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "yellowed",
+      "amount": "15ml",
+      "notes": "soy sauce"
+    }
+  ],
+  "instructions": [
+    "Combine grated potatoes and hash in a bowl.",
+    "Add yellowed soy sauce and mix well.",
+    "Place a spoonful of the mixture onto a gyoza wrapper.",
+    "Fold the wrapper into a triangle and press edges to seal.",
+    "Heat a non-stick pan over medium heat.",
+    "Cook the gyoza until golden brown on the bottom.",
+    "Flip the gyoza over and cook for an additional 5 minutes.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-garlicky-malaysian-new-potatoes-hash--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:19:15.332Z"
+}

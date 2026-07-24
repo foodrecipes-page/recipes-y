@@ -1,0 +1,62 @@
+{
+  "slug": "yellowed-garlic-ukrainian-pasta-pilaf--indian",
+  "title": "Indian-Style Pasta Pilaf",
+  "description": "A fusion dish combining the flavors of Indian cuisine with a Western-style pasta pilaf. Yellowed onions add a sweet and caramelized depth to the dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "yellowed onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Sauté yellowed onions until caramelized.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add pasta, pilaf, and Ukrainian sauce (if using).",
+    "Stir well and cook for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with fresh cilantro (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "pasta",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-garlic-ukrainian-pasta-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:14:35.927Z"
+}

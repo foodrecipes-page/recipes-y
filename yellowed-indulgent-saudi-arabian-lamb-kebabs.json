@@ -1,0 +1,83 @@
+{
+  "slug": "yellowed-indulgent-saudi-arabian-lamb-kebabs",
+  "title": "Saudi Lamb Kebabs",
+  "description": "A classic Middle Eastern dish from Saudi Arabia, featuring marinated lamb kebabs grilled to perfection. Serve with a side of flatbread or rice.",
+  "cuisine": "saudi",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "500g / 1.1lb",
+      "notes": null
+    },
+    {
+      "name": "Arabian Spice Blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "60ml / 2fl oz",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Yellowed Bell Pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (180°C / 350°F).",
+    "2. Cut the lamb shoulder into 1-inch (2.5cm) cubes.",
+    "3. In a large bowl, whisk together the Arabian spice blend, olive oil, lemon juice, garlic, and onion.",
+    "4. Add the lamb cubes to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "5. Thread the marinated lamb cubes onto the skewers, leaving a small space between each piece.",
+    "6. Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "7. Remove the kebabs from the grill and let them rest for 5 minutes before serving.",
+    "8. Serve the kebabs with a side of flatbread or rice, and garnish with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "arabian",
+    "lamb",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-indulgent-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:52:34.178Z"
+}

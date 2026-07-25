@@ -1,0 +1,76 @@
+{
+  "slug": "yellowed-flaky-tunisian-corn-pastries--german",
+  "title": "Tunisian Corn Pastry",
+  "description": "A traditional German dessert with a Tunisian twist, featuring flaky pastries and a sweet corn filling.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tunisian corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flaky pastries",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "yellowed butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together the Tunisian corn, granulated sugar, and egg.",
+    "Add in the yellowed butter, vanilla extract, and salt. Mix until well combined.",
+    "Roll out the flaky pastries and cut out circles of dough.",
+    "Place a tablespoon of the corn mixture onto each pastry circle.",
+    "Fold the pastry in half to form a triangle and press the edges together to seal.",
+    "Place the pastries on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the pastries are golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "3g",
+    "carbs": "35g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-tunisian-corn-pastries--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:27:58.362Z"
+}

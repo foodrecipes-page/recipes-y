@@ -12494,16 +12494,14 @@
   },
   {
     "slug": "yummy-irish-apple-grill",
-    "title": "Yummy Irish Apple Grill",
+    "title": "Irish Apple Grilled Chicken",
     "tags": [
-      "apple",
-      "cozy",
+      "irish",
       "grill",
-      "satvik-friendly",
-      "vegan"
+      "chicken"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "cuisine": "irish",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -17221,6 +17219,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-turkish-fenugreek-kunefe--german",
+    "title": "Turkish-Style German Apple Strudel",
+    "tags": [
+      "german",
+      "turkish",
+      "apple",
+      "strudel"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-zesty-filipino-yellow-pepper-bicol-express--keto",
+    "title": "Bicol Express Keto Fried Rice",
+    "tags": [
+      "keto",
+      "filipino",
+      "rice"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
     "shard": "y"
   }
 ]

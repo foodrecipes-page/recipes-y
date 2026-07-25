@@ -1,0 +1,89 @@
+{
+  "slug": "yellowed-woodfired-slovakian-pork-bake--indian",
+  "title": "Slovakian Woodfired Pork Chops with Indian Spices",
+  "description": "A fusion dish that combines the rich flavors of Slovakia with the warm spices of India, all in a woodfired twist. This recipe is perfect for a quick and flavorful dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1-1.5 inches thick"
+    },
+    {
+      "name": "yellow mustard seeds",
+      "amount": "2 tbsp",
+      "notes": "ground"
+    },
+    {
+      "name": "woodfired Slovakian bread crumbs",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat your woodfired grill to 400°F (200°C).",
+    "Season the pork chops with salt, black pepper, garam masala, cumin powder, and coriander powder.",
+    "In a shallow dish, mix together the yellow mustard seeds and woodfired Slovakian bread crumbs.",
+    "Dip each pork chop into the bread crumb mixture, coating both sides evenly.",
+    "Place the coated pork chops on the preheated woodfired grill and cook for 5-7 minutes per side, or until the internal temperature reaches 145°F (63°C).",
+    "While the pork chops are cooking, melt the butter in a small saucepan over medium heat.",
+    "Once the pork chops are done cooking, brush them with the melted butter on both sides.",
+    "Serve the pork chops hot, garnished with additional bread crumbs and a sprinkle of garam masala if desired.",
+    "Repeat the process with the remaining pork chops."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "pork",
+    "woodfired",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-woodfired-slovakian-pork-bake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:43:05.802Z"
+}

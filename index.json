@@ -17101,5 +17101,45 @@
     "cuisine": "mexican",
     "totalTimeMin": 20,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-turmeric-indian-fish-skewers--keto",
+    "title": "Indian-Style Keto Fish Skewers",
+    "tags": [
+      "keto",
+      "indian",
+      "fish",
+      "skewers"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-flaky-tunisian-corn-pastries--mexican",
+    "title": "Tunisian Corn Pastries",
+    "tags": [
+      "corn",
+      "pastry",
+      "tunisian",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-garlicky-mediterranean-beans-skewers--german",
+    "title": "Grilled German Chicken Skewers with Mediterranean Vegetables",
+    "tags": [
+      "german",
+      "grilled",
+      "chicken",
+      "vegetables",
+      "mediterranean"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

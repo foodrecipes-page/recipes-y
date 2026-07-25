@@ -1,0 +1,65 @@
+{
+  "slug": "yellow-zesty-peruvian-avocado-ceviche--german",
+  "title": "Peruvian-Style Avocado Salad with German Twist",
+  "description": "A refreshing salad with Peruvian flavors adapted to German taste by adding a hint of zesty dressing.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "2 ripe avocados, diced"
+    },
+    {
+      "name": "Yellow Peruvian Corn",
+      "amount": "1 cup, grilled or boiled"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Zesty German Mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine diced avocado and grilled corn.",
+    "Squeeze lime juice over the top and sprinkle with zesty German mustard.",
+    "Add chopped cilantro and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "german",
+    "salad",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-zesty-peruvian-avocado-ceviche--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:06:37.583Z"
+}

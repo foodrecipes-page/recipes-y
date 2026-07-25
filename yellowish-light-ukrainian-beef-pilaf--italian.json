@@ -1,0 +1,78 @@
+{
+  "slug": "yellowish-light-ukrainian-beef-pilaf--italian",
+  "title": "Italian Beef Pilaf",
+  "description": "A hearty, comforting pilaf dish filled with tender beef and a blend of Italian seasonings.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Ukrainian Light Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Yellowish Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried Italian Seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the beef and cook until browned, about 5-6 minutes.",
+    "Add the dried Italian seasoning, salt, and pepper, and stir to combine.",
+    "Add the Ukrainian pilaf and stir to combine with the beef mixture.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 20-25 minutes or until the pilaf is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "pilaf",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowish-light-ukrainian-beef-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:31:35.401Z"
+}

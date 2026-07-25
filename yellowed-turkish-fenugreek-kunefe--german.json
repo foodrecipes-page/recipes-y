@@ -1,0 +1,87 @@
+{
+  "slug": "yellowed-turkish-fenugreek-kunefe--german",
+  "title": "Turkish-Style German Apple Strudel",
+  "description": "A twist on the classic German dessert, incorporating the flavors of Turkish cuisine.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 package (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Apples, peeled and sliced",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Yellowed Onions, finely chopped",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kunefe (shredded phyllo)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fenugreek Leaves, chopped",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon, ground",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Spice Mix",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "In a large bowl, mix together the sliced apples, chopped onions, fenugreek leaves, cinnamon, and Turkish Spice Mix.",
+    "Spread the apple mixture evenly over the center of the pastry dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the kunefe and granulated sugar over the apple mixture.",
+    "Fold the 1-inch border over the apple mixture to seal the strudel.",
+    "Brush the melted butter over the pastry dough.",
+    "Bake the strudel for 35-40 minutes, or until golden brown.",
+    "Let the strudel cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "turkish",
+    "apple",
+    "strudel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-turkish-fenugreek-kunefe--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:41:00.627Z"
+}

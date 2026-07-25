@@ -1,0 +1,78 @@
+{
+  "slug": "yellow-molten-ukrainian-pork-dumplings--italian",
+  "title": "Pork and Dumplings Italian Stew",
+  "description": "A hearty Italian-inspired stew made with pork and dumplings, perfect for a cozy dinner.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 package"
+    },
+    {
+      "name": "yellow",
+      "amount": "1 large onion, chopped"
+    },
+    {
+      "name": "molten",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the pork and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chicken broth, tomato paste, thyme, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "While the stew is cooking, prepare the dumplings according to the package instructions.",
+    "Add the cooked dumplings to the stew and continue to simmer for another 10 minutes.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "stew",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-molten-ukrainian-pork-dumplings--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:53:01.765Z"
+}

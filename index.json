@@ -16985,5 +16985,56 @@
     "cuisine": "italian",
     "totalTimeMin": 22,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-chewy-irish-potato-stew--german",
+    "title": "German Potato Stew",
+    "tags": [
+      "german-cuisine",
+      "hearty-stew",
+      "winter-recipe"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-fermented-japanese-fish-ramen--thai",
+    "title": "Spicy Thai Ramen with Fermented Fish",
+    "tags": [
+      "thai-food",
+      "japanese-ramen",
+      "fermented-fish",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-wood-fired-portuguese-chicken-bake--french",
+    "title": "French-Style Roasted Chicken",
+    "tags": [
+      "chicken",
+      "roast",
+      "french-cuisine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 65,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-greek-paired-with-pastry--mexican",
+    "title": "Mexican Pastry Pinwheels",
+    "tags": [
+      "mexican",
+      "pinwheels",
+      "cheese",
+      "pastry",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

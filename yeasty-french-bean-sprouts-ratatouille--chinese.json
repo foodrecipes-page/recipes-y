@@ -1,0 +1,82 @@
+{
+  "slug": "yeasty-french-bean-sprouts-ratatouille--chinese",
+  "title": "Chinese Yeast Buns with Sprouts and Bean Filling",
+  "description": "A twist on traditional Chinese buns, filled with a bean and sprout mixture and topped with a yeasty glaze.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "canned kidney beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "french bread crumbs",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and warm water to make dough.",
+    "Knead dough for 10 minutes.",
+    "Let dough rise for 1 hour.",
+    "Heat sesame oil in a pan.",
+    "Add bean sprouts and cook until tender.",
+    "Add canned kidney beans and cook until heated through.",
+    "Mix in french bread crumbs.",
+    "Roll out dough and cut into circles.",
+    "Place a spoonful of bean mixture onto each circle.",
+    "Fold dough over filling and seal edges.",
+    "Bake at 375°F (190°C) for 20 minutes.",
+    "Brush with yeasty glaze made from yeast, water, and french bread crumbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "yeast-buns",
+    "sprouts",
+    "bean-filling"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-french-bean-sprouts-ratatouille--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:14:24.154Z"
+}

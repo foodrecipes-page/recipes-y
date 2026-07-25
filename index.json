@@ -17049,5 +17049,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 13,
     "shard": "y"
+  },
+  {
+    "slug": "yellowish-light-ukrainian-beef-pilaf--italian",
+    "title": "Italian Beef Pilaf",
+    "tags": [
+      "italian",
+      "beef",
+      "pilaf",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-crisp-korean-hake-bibimbap--mexican",
+    "title": "Korean-Style Hake Tacos",
+    "tags": [
+      "korean-mexican",
+      "fusion",
+      "fish-tacos",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

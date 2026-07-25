@@ -1926,15 +1926,15 @@
   },
   {
     "slug": "yellow-cheesy-brazilian-seafood-fried-rice",
-    "title": "Creamy Yellow Seafood Rice Casserole",
+    "title": "Brazilian Cheesy Seafood Fried Rice",
     "tags": [
-      "seafood",
-      "casserole",
       "brazilian",
-      "comfort-food"
+      "cheesy",
+      "seafood",
+      "fried-rice"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "y"
   },
   {
@@ -17193,6 +17193,34 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-cajun-mediterranean-couscous-sushi--vegetarian",
+    "title": "Vegetarian Mediterranean Couscous Bowl",
+    "tags": [
+      "mediterranean",
+      "couscous",
+      "vegetarian",
+      "lunch"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-smoky-spanish-yellow-split-peas-paella--italian",
+    "title": "Smoky Italian Paella",
+    "tags": [
+      "italian",
+      "paella",
+      "spain",
+      "rice",
+      "seafood",
+      "sauce"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

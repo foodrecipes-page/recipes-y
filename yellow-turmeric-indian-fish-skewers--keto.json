@@ -1,0 +1,66 @@
+{
+  "slug": "yellow-turmeric-indian-fish-skewers--keto",
+  "title": "Indian-Style Keto Fish Skewers",
+  "description": "A flavorful and healthy keto dish made with marinated fish, perfect for a quick weeknight dinner. Serve with a side of cauliflower rice or a simple green salad.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (such as cod or tilapia)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Yellow Indian Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Indian grocery stores or online"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread fish pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together turmeric, Indian spice blend, and a pinch of salt.",
+    "Brush the skewers with olive oil and sprinkle with the spice mixture.",
+    "Grill the skewers for 8-10 minutes per side, or until the fish is cooked through and flakes easily with a fork.",
+    "Serve hot with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "fish",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-turmeric-indian-fish-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:28:59.714Z"
+}

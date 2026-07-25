@@ -17245,5 +17245,31 @@
     "cuisine": "filipino",
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-smoky-vietnamese-tomatoes-noodles--german",
+    "title": "Smoky German Noodle Soup",
+    "tags": [
+      "german",
+      "noodle-soup",
+      "smoky",
+      "vietnamese"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-molten-ukrainian-pork-dumplings--italian",
+    "title": "Pork and Dumplings Italian Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "pork",
+      "dumplings"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "y"
   }
 ]

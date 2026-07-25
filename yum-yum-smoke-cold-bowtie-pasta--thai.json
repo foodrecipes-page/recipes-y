@@ -1,0 +1,69 @@
+{
+  "slug": "yum-yum-smoke-cold-bowtie-pasta--thai",
+  "title": "Spicy Thai Noodle Soup",
+  "description": "A hearty and spicy Thai noodle soup made with rice noodles and a flavorful broth. Serve with your favorite toppings.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "yum",
+      "amount": "2 tbsp",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "yum",
+      "amount": "2 tbsp",
+      "notes": "Thai green curry paste"
+    },
+    {
+      "name": "smoke",
+      "amount": "2 tbsp",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "cold",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "bowtie",
+      "amount": "1",
+      "notes": "Thai basil leaves"
+    }
+  ],
+  "instructions": [
+    "1. Bring the chicken broth to a boil in a large pot.",
+    "2. Add the Thai red curry paste and Thai green curry paste. Stir to combine.",
+    "3. Add the rice noodles and cook according to the package instructions.",
+    "4. Add the fish sauce and stir to combine.",
+    "5. Taste and adjust the seasoning as needed.",
+    "6. Serve the noodle soup hot, garnished with Thai basil leaves.",
+    "7. Optional: top with your favorite toppings, such as sliced chicken or tofu."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "noodle-soup",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yum-yum-smoke-cold-bowtie-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:04:15.120Z"
+}

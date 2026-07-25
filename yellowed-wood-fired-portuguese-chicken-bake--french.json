@@ -1,0 +1,83 @@
+{
+  "slug": "yellowed-wood-fired-portuguese-chicken-bake--french",
+  "title": "French-Style Roasted Chicken",
+  "description": "A classic French dish where chicken is marinated in a mixture of herbs and spices before being roasted to perfection.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole chicken (3-4 lbs)"
+    },
+    {
+      "name": "portuguese",
+      "amount": "2 tsp dried thyme",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "fired",
+      "amount": "2 tsp paprika"
+    },
+    {
+      "name": "bake",
+      "amount": "1 tsp garlic powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp black pepper"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp olive oil"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 lemon, quartered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 large carrots, peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "In a small bowl, mix together thyme, paprika, garlic powder, salt, and pepper.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a large roasting pan and drizzle with olive oil.",
+    "Stuff the cavity of the chicken with the quartered lemon, sliced onion, and sliced carrots.",
+    "Roast the chicken in the preheated oven for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Baste the chicken with the pan juices every 20 minutes to keep it moist and golden brown.",
+    "Once the chicken is cooked, remove it from the oven and let it rest for 10-15 minutes before carving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "roast",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-wood-fired-portuguese-chicken-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:39:38.627Z"
+}

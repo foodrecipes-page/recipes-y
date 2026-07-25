@@ -1,0 +1,91 @@
+{
+  "slug": "yellow-fermented-japanese-fish-ramen--thai",
+  "title": "Spicy Thai Ramen with Fermented Fish",
+  "description": "A unique fusion of Thai flavors and Japanese ramen, featuring spicy fermented fish.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thick yellow noodles",
+      "amount": "8 oz",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Fermented fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Japanese sesame oil",
+      "amount": "1 tsp",
+      "notes": "For added nutty flavor"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tsp",
+      "notes": "Adjust to desired spice level"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1/2 cup",
+      "notes": "Ground turkey or beef also work"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Fresh leaves or chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Sliced fresh chili peppers",
+      "amount": "2",
+      "notes": "For added heat"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "Low-sodium or regular"
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Cook yellow noodles according to package instructions.",
+    "In a pan, heat sesame oil over medium heat. Add curry paste and cook for 1 minute.",
+    "Add ground pork and cook until browned, breaking into small pieces as it cooks.",
+    "Add fermented fish sauce, soy sauce, and chili peppers. Stir to combine.",
+    "Bring the mixture to a simmer and let cook for 5 minutes.",
+    "Add cooked noodles to the pan and toss to combine.",
+    "Top with Thai basil, green onions, and sliced scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-food",
+    "japanese-ramen",
+    "fermented-fish",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-fermented-japanese-fish-ramen--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:07:02.852Z"
+}

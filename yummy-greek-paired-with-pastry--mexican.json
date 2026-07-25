@@ -1,0 +1,82 @@
+{
+  "slug": "yummy-greek-paired-with-pastry--mexican",
+  "title": "Mexican Pastry Pinwheels",
+  "description": "A delicious and easy-to-make pastry pinwheel recipe filled with yummy Greek cheese and paired perfectly with a tangy sauce. This recipe is a great twist on traditional Mexican cuisine.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yummy phillo pastry",
+      "amount": "1 box (usually 1 package of 4-6 sheets)",
+      "notes": "thawed"
+    },
+    {
+      "name": "greek feta cheese",
+      "amount": "1 cup (250g)",
+      "notes": "crumbly"
+    },
+    {
+      "name": "with spinach",
+      "amount": "1 cup (120g) fresh",
+      "notes": "chopped"
+    },
+    {
+      "name": "paired red onion",
+      "amount": "1/4 cup (30g) thinly sliced",
+      "notes": "optional"
+    },
+    {
+      "name": "with garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "yummy olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "1 cup (250ml)",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "2. Roll out the phillo pastry sheets to a large rectangle, about 1/4 inch (6mm) thick.",
+    "3. In a bowl, mix together the crumbled feta cheese, chopped spinach, thinly sliced red onion (if using), and minced garlic.",
+    "4. Spread the cheese mixture evenly over the center of the pastry, leaving a 1-inch (2.5cm) border on either side.",
+    "5. Brush the edges of the pastry with olive oil.",
+    "6. Roll the pastry into a tight log, starting from one of the long edges.",
+    "7. Cut the log into 1-inch (2.5cm) thick slices.",
+    "8. Place the pinwheels on the prepared baking sheet, leaving about 1 inch (2.5cm) of space between each pinwheel.",
+    "9. Brush the tops of the pinwheels with a little more olive oil.",
+    "10. Bake for 15-20 minutes, or until the pastry is golden brown.",
+    "11. Serve warm with a side of tangy sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "pinwheels",
+    "cheese",
+    "pastry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-greek-paired-with-pastry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:40:36.360Z"
+}

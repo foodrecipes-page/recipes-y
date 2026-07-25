@@ -1,0 +1,75 @@
+{
+  "slug": "yummy-cajun-mediterranean-couscous-sushi--vegetarian",
+  "title": "Vegetarian Mediterranean Couscous Bowl",
+  "description": "A flavorful and nutritious bowl filled with couscous, roasted vegetables, and a tangy tahini sauce.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the cherry tomatoes, zucchini, and red bell pepper with 1 tablespoon of olive oil, salt, and pepper.",
+    "Spread the vegetables on a baking sheet and roast for 20-25 minutes or until tender.",
+    "In a medium saucepan, bring 2 cups of water to a boil.",
+    "Add the couscous, cover, and turn off the heat. Let it sit for 5-7 minutes or until the water is absorbed.",
+    "In a small bowl, whisk together the tahini, lemon juice, and garlic.",
+    "To assemble the bowls, divide the couscous among four plates, then top with the roasted vegetables and spoon the tahini sauce over the top.",
+    "Drizzle with the remaining 1 tablespoon of olive oil and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "couscous",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-cajun-mediterranean-couscous-sushi--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:42:45.027Z"
+}

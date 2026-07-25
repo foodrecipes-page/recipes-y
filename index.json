@@ -17036,5 +17036,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "youthful-korean-egg-bowl--japanese",
+    "title": "Japanese-Style Omelette Bowl",
+    "tags": [
+      "breakfast",
+      "japanese",
+      "omelette",
+      "egg"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 13,
+    "shard": "y"
   }
 ]

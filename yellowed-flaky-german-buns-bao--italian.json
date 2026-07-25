@@ -1,0 +1,94 @@
+{
+  "slug": "yellowed-flaky-german-buns-bao--italian",
+  "title": "Italian Bao Sliders",
+  "description": "A creative twist on traditional Italian subs, using flaky German bao as the foundation for a rich meat and cheese sandwich.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellowed Italian Buns",
+      "amount": "4",
+      "notes": "Sliced into quarter-inch thick rounds"
+    },
+    {
+      "name": "Flaky German Bao",
+      "amount": "4",
+      "notes": "Split down the center to form a pocket"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "Seasoned with salt and pepper"
+    },
+    {
+      "name": "Provolone Cheese",
+      "amount": "8 oz",
+      "notes": "Sliced into thin rounds"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1 bunch",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": "Dried and crumbled"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Used for cooking the meat and buns"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Used for seasoning the meat"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "Used for seasoning the meat"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or grill pan over medium-high heat.",
+    "Add the olive oil to the pan and swirl it around to coat the bottom.",
+    "Add the minced garlic to the pan and cook for 1-2 minutes, until fragrant.",
+    "Add the ground beef to the pan and cook until browned, breaking it up with a spoon as it cooks.",
+    "Season the beef with salt and pepper to taste.",
+    "Split the flaky German bao in half and toast them in the pan for 1-2 minutes on each side.",
+    "Assemble the sliders by spooning the beef mixture onto the bottom half of each bao, followed by a slice of provolone cheese.",
+    "Top each slider with a sprinkle of chopped fresh basil and the top half of the bao.",
+    "Serve the Italian bao sliders immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "baos",
+    "sliders",
+    "beef",
+    "cheese",
+    "basil"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-german-buns-bao--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:45:48.968Z"
+}

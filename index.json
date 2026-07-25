@@ -16970,5 +16970,20 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-flaky-german-buns-bao--italian",
+    "title": "Italian Bao Sliders",
+    "tags": [
+      "italian",
+      "baos",
+      "sliders",
+      "beef",
+      "cheese",
+      "basil"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "y"
   }
 ]

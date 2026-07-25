@@ -12659,17 +12659,15 @@
   },
   {
     "slug": "yummy-juicy-argentinian-beef-skewers",
-    "title": "Yummy Juicy Argentinian Beef Skewers",
+    "title": "Argentinian Beef Skewers",
     "tags": [
-      "grilled",
-      "high-protein",
-      "latin-american",
-      "one-pan",
-      "weeknight",
-      "wine-based"
+      "argentinian",
+      "beef",
+      "skewers",
+      "grilled"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "argentinian",
+    "totalTimeMin": 30,
     "shard": "y"
   },
   {
@@ -17270,6 +17268,32 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-smoky-italian-vegetable-pasta--french",
+    "title": "Smoky Vegetable Pasta",
+    "tags": [
+      "french",
+      "pasta",
+      "vegetarian",
+      "smoky",
+      "italian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-algerian-chicken-kebabs--chinese",
+    "title": "Kung Pao Chicken",
+    "tags": [
+      "chinese",
+      "spicy",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "y"
   }
 ]

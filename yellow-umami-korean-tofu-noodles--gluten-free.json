@@ -1,0 +1,85 @@
+{
+  "slug": "yellow-umami-korean-tofu-noodles--gluten-free",
+  "title": "Spicy Korean Tofu Noodle Stir Fry",
+  "description": "A spicy and savory stir fry made with Korean-style tofu and noodles, perfect for a quick and easy gluten-free meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Korean noodles",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Yellow bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the Korean chili flakes and cook for an additional minute.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the Korean noodles and cook according to package instructions.",
+    "In a small bowl, whisk together soy sauce and brown sugar.",
+    "Pour the soy sauce mixture over the noodles and tofu, and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "gluten-free",
+    "tofu",
+    "noodles",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-umami-korean-tofu-noodles--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:33:33.026Z"
+}

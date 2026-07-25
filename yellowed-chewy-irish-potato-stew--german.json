@@ -1,0 +1,80 @@
+{
+  "slug": "yellowed-chewy-irish-potato-stew--german",
+  "title": "German Potato Stew",
+  "description": "A hearty German stew made with stewed potatoes, irish potatoes, and a hint of irish flavor. Perfect for a cold winter's day.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Yellow potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chewy stew meat",
+      "amount": "1 pound",
+      "notes": "Make sure to brown the meat before stewing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the stew meat in a large pot over medium-high heat.",
+    "Remove the browned meat from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the caraway seeds, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the browned meat back to the pot, along with the irish potatoes and yellow potatoes.",
+    "Pour in the water and bring the stew to a boil.",
+    "Reduce heat to low and simmer for 30 minutes, or until the potatoes are tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "hearty-stew",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-chewy-irish-potato-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:59:18.928Z"
+}

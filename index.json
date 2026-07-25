@@ -4694,17 +4694,14 @@
   },
   {
     "slug": "yellow-silky-german-haggis-dumplings",
-    "title": "Yellow Silky German Haggis Dumplings",
+    "title": "Haggis and Dumpling Stew",
     "tags": [
-      "comfort-food",
-      "german-food",
-      "indulgent",
-      "one-pot",
-      "special-occasion",
-      "vegetarian"
+      "stew",
+      "scottish",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "Scottish",
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -17294,6 +17291,44 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yum-yum-smoke-cold-bowtie-pasta--thai",
+    "title": "Spicy Thai Noodle Soup",
+    "tags": [
+      "thai",
+      "noodle-soup",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-french-bean-sprouts-ratatouille--chinese",
+    "title": "Chinese Yeast Buns with Sprouts and Bean Filling",
+    "tags": [
+      "chinese",
+      "yeast-buns",
+      "sprouts",
+      "bean-filling"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-woodfired-slovakian-pork-bake--indian",
+    "title": "Slovakian Woodfired Pork Chops with Indian Spices",
+    "tags": [
+      "indian",
+      "pork",
+      "woodfired",
+      "slovakian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "y"
   }
 ]

@@ -17141,5 +17141,58 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-flaky-tunisian-corn-pastries--german",
+    "title": "Tunisian Corn Pastry",
+    "tags": [
+      "german",
+      "dessert",
+      "pastry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-umami-korean-tofu-noodles--gluten-free",
+    "title": "Spicy Korean Tofu Noodle Stir Fry",
+    "tags": [
+      "korean",
+      "gluten-free",
+      "tofu",
+      "noodles",
+      "spicy"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-indian-mulukhiyah-palak-paneer--french",
+    "title": "French-Style Palak Paneer",
+    "tags": [
+      "palak-paneer",
+      "french-indian",
+      "vegetarian",
+      "paneer"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-zesty-peruvian-avocado-ceviche--german",
+    "title": "Peruvian-Style Avocado Salad with German Twist",
+    "tags": [
+      "peruvian",
+      "german",
+      "salad",
+      "vegetarian",
+      "lunch"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 20,
+    "shard": "y"
   }
 ]

@@ -1,0 +1,82 @@
+{
+  "slug": "youthful-korean-egg-bowl--japanese",
+  "title": "Japanese-Style Omelette Bowl",
+  "description": "A delicious and easy Japanese-inspired breakfast dish made with a fluffy omelette and various toppings, served in a bowl.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "youthful",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork. Add the youthful and Korean chili flakes, and mix well.",
+    "Heat the sesame oil in a small non-stick pan over medium heat.",
+    "Pour the egg mixture into the pan and cook until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Continue cooking and folding until the omelette is almost set.",
+    "Transfer the omelette to a serving bowl.",
+    "Drizzle the soy sauce over the omelette.",
+    "Sprinkle the green onions and sesame seeds over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "omelette",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/youthful-korean-egg-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:57:14.025Z"
+}

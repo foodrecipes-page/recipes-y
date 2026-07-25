@@ -1,71 +1,76 @@
 {
   "slug": "yellow-cheesy-brazilian-seafood-fried-rice",
-  "title": "Creamy Yellow Seafood Rice Casserole",
-  "description": "A Brazilian-inspired dish featuring seafood, rice, and a creamy yellow sauce. Perfect for a weeknight dinner.",
+  "title": "Brazilian Cheesy Seafood Fried Rice",
+  "description": "A delicious and easy seafood fried rice dish with Brazilian flavors and a creamy cheesy twist.",
   "cuisine": "Brazilian",
   "diet": [
-    "seafood",
+    "vegetarian",
     "gluten-free"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
       "name": "Yellow Rice",
       "amount": "2 cups"
     },
     {
-      "name": "Mixed Seafood (shrimp, mussels, clams)",
-      "amount": "1 pound"
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
     },
     {
-      "name": "Cheesy Sauce (cheddar, parmesan)",
-      "amount": "1 cup"
+      "name": "Shrimp",
+      "amount": "1 pound, peeled and deveined",
+      "notes": "cooked"
     },
     {
-      "name": "Butter",
-      "amount": "4 tablespoons"
+      "name": "Brazilian Sausage",
+      "amount": "1 pound, sliced",
+      "notes": "cooked"
     },
     {
-      "name": "Garlic",
-      "amount": "3 cloves"
+      "name": "Seafood Seasoning",
+      "amount": "2 teaspoons"
     },
     {
-      "name": "Onion",
-      "amount": "1 medium"
+      "name": "Fried Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Cook the yellow rice according to package instructions.",
-    "Melt 2 tablespoons of butter in a large skillet over medium heat.",
-    "Add the garlic and onion; cook until softened, about 3-4 minutes.",
-    "Add the mixed seafood; cook until pink and fully cooked, about 5 minutes.",
-    "Stir in the cheesy sauce until heated through.",
-    "In a separate saucepan, melt the remaining 2 tablespoons of butter.",
-    "Add the cooked yellow rice; stir to combine with the cheesy seafood mixture.",
-    "Transfer the rice mixture to a baking dish.",
-    "Top with additional grated cheese (if desired).",
-    "Bake for 15-20 minutes, or until the top is golden brown."
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 3 minutes.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes.",
+    "Add the yellow rice to the skillet and stir to combine with the sausage and shrimp.",
+    "Add the seafood seasoning and stir to combine.",
+    "Add the shredded cheese and stir to combine until the cheese is melted and well combined.",
+    "Transfer the rice mixture to a serving platter or individual plates.",
+    "Top with fried onion and chopped scallions if desired.",
+    "Serve immediately and enjoy!"
   ],
-  "prepTimeMin": 20,
-  "cookTimeMin": 25,
-  "totalTimeMin": 45,
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
-    "seafood",
-    "casserole",
     "brazilian",
-    "comfort-food"
+    "cheesy",
+    "seafood",
+    "fried-rice"
   ],
   "nutrition": {
     "calories": 450,
-    "protein": 30,
+    "protein": 25,
     "carbs": 40,
     "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/yellow-cheesy-brazilian-seafood-fried-rice",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T13:41:17.771Z"
+  "createdAt": "2026-07-20T22:54:27.235Z"
 }

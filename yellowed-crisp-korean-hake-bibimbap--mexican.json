@@ -1,0 +1,97 @@
+{
+  "slug": "yellowed-crisp-korean-hake-bibimbap--mexican",
+  "title": "Korean-Style Hake Tacos",
+  "description": "A fusion of Korean and Mexican flavors in a crispy taco shell, topped with spicy slaw and a side of cilantro-lime rice.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hake",
+      "amount": "1 lb",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "yellowed",
+      "amount": "1/2 cup",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "crisp",
+      "amount": "1/2 cup",
+      "notes": "Chopped cilantro"
+    },
+    {
+      "name": "bibimbap",
+      "amount": "2 tbsp",
+      "notes": "Gochujang-based sauce"
+    },
+    {
+      "name": "korean",
+      "amount": "1 tsp",
+      "notes": "Gochugaru (Korean chili flakes)"
+    },
+    {
+      "name": "lime",
+      "amount": "2",
+      "notes": "Juiced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": "Corn, 6 inches in diameter"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Rinse the hake under cold water and pat dry with paper towels.",
+    "Season the hake with cumin, coriander, and gochugaru.",
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add the hake to the skillet and cook for 3-4 minutes on each side, until cooked through.",
+    "Transfer the hake to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the sliced yellowed and cook for 2-3 minutes, until slightly caramelized.",
+    "In a small bowl, mix together the bibimbap sauce, lime juice, and a pinch of salt.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of hake on a tortilla, topping with the spicy slaw, and serving with a side of cilantro-lime rice.",
+    "Serve immediately and enjoy!",
+    "Note: For the spicy slaw, mix together 1 cup shredded cabbage, 1/2 cup chopped cilantro, 2 tbsp lime juice, and 1 tsp gochugaru in a bowl. Refrigerate for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-mexican",
+    "fusion",
+    "fish-tacos",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-crisp-korean-hake-bibimbap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:02:00.970Z"
+}

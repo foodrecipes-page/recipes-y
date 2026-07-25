@@ -1,0 +1,81 @@
+{
+  "slug": "yellow-smoky-italian-vegetable-pasta--french",
+  "title": "Smoky Vegetable Pasta",
+  "description": "A creamy pasta dish with a smoky twist, perfect for a French-inspired meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Pasta",
+      "amount": "8 oz",
+      "notes": "such as penne or fusilli"
+    },
+    {
+      "name": "Smoky Italian Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "such as from Italy"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "amount": "1 cup",
+      "notes": "such as cherry tomatoes, bell peppers, and onions"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "such as Parmigiano-Reggiano"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the yellow pasta according to package instructions until al dente.",
+    "In a large skillet, heat the smoky Italian olive oil over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the mixed vegetables and cook for 3-4 minutes until tender.",
+    "Stir in the vegetable broth and bring to a simmer.",
+    "Add the cooked pasta to the skillet and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh basil and grated Parmesan cheese.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pasta",
+    "vegetarian",
+    "smoky",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-italian-vegetable-pasta--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:00:11.859Z"
+}

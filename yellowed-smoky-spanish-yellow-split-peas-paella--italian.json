@@ -1,0 +1,93 @@
+{
+  "slug": "yellowed-smoky-spanish-yellow-split-peas-paella--italian",
+  "title": "Smoky Italian Paella",
+  "description": "A twist on the classic Spanish dish, Smoky Italian Paella combines the smoky flavor of Spanish sausage with Italian spices and yellow peas.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Yellow peas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the sliced Spanish sausage and cook until browned, about 5 minutes.",
+    "Add the garlic, smoked paprika, and Italian seasoning, and cook for 1 minute.",
+    "Add the white wine and cook until reduced by half, about 2 minutes.",
+    "Add the chicken broth and bring to a simmer.",
+    "Add the paella rice and stir to combine.",
+    "Add the yellow peas and stir to combine.",
+    "Cook for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "paella",
+    "spain",
+    "rice",
+    "seafood",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-smoky-spanish-yellow-split-peas-paella--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:20:03.188Z"
+}

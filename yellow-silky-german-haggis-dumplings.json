@@ -1,0 +1,74 @@
+{
+  "slug": "yellow-silky-german-haggis-dumplings",
+  "title": "Haggis and Dumpling Stew",
+  "description": "A hearty and comforting stew from Scotland, featuring haggis, dumplings, and a rich broth.",
+  "cuisine": "Scottish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haggis",
+      "amount": "1 package",
+      "notes": "Available in most supermarkets or specialty stores"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "4",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Yellow Onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Silky German Beer",
+      "amount": "1 cup",
+      "notes": "For the broth"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "2. Add the chopped onions and cook until softened, about 5 minutes.",
+    "3. Add the chopped carrots and potatoes, and cook for another 5 minutes.",
+    "4. Add the haggis and cook until heated through.",
+    "5. Pour in the beer and bring to a boil.",
+    "6. Reduce the heat to low and simmer for 20 minutes.",
+    "7. Meanwhile, prepare the dumplings according to package instructions.",
+    "8. Add the dumplings to the stew and cook for another 10 minutes.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "scottish",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-silky-german-haggis-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:20:10.035Z"
+}

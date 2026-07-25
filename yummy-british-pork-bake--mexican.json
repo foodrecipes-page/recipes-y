@@ -1,0 +1,93 @@
+{
+  "slug": "yummy-british-pork-bake--mexican",
+  "title": "Pork Tacos al Pastor",
+  "description": "A twist on traditional Mexican tacos, featuring marinated pork, baked to perfection. Serve with your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": " thinly sliced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup",
+      "notes": " freshly squeezed"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": " freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": " minced"
+    },
+    {
+      "name": "chipotle peppers in adobo",
+      "amount": "2",
+      "notes": " chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": " ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": " smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": " to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": " corn or flour"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": " shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together orange and lime juice, garlic, chipotle peppers, cumin, paprika, and salt.",
+    "Add sliced pork to the marinade and toss to coat.",
+    "Let pork marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Remove pork from marinade, letting any excess liquid drip off.",
+    "Place pork on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until cooked through.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing a few slices of pork onto a tortilla, followed by shredded cabbage and any desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-british-pork-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:18:35.884Z"
+}

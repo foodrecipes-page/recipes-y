@@ -1,0 +1,51 @@
+{
+  "slug": "yellowed-flaky-tunisian-corn-pastries--mexican",
+  "title": "Tunisian Corn Pastries",
+  "description": "A delicious and sweet pastry filled with a Tunisian corn filling, perfect for a dessert or snack.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tunisian pastries",
+      "amount": "4-6",
+      "notes": "or similar Mexican pastry dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix together corn and a pinch of salt.",
+    "Place a tablespoon of the corn mixture onto the center of each pastry.",
+    "Fold the pastry in half to form a triangle and press the edges to seal.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "pastry",
+    "tunisian",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-tunisian-corn-pastries--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:45:38.985Z"
+}

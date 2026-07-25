@@ -1,0 +1,67 @@
+{
+  "slug": "yellow-indian-mulukhiyah-palak-paneer--french",
+  "title": "French-Style Palak Paneer",
+  "description": "A creamy and flavorful twist on the classic Indian dish, using French cooking techniques and ingredients.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "250g",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "Palak",
+      "amount": "1 bunch",
+      "notes": "Fresh spinach leaves"
+    },
+    {
+      "name": "Mulukhiyah",
+      "amount": "2 tablespoons",
+      "notes": "Middle Eastern leafy greens"
+    },
+    {
+      "name": "Yellow",
+      "amount": "1 onion",
+      "notes": "Medium-sized onion"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Sauté the onion until softened, about 3-4 minutes.",
+    "Add the mulukhiyah and sauté for another minute.",
+    "Add the palak and cook until wilted, about 5 minutes.",
+    "Add the paneer and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "palak-paneer",
+    "french-indian",
+    "vegetarian",
+    "paneer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-indian-mulukhiyah-palak-paneer--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:47:08.801Z"
+}

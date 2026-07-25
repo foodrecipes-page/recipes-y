@@ -1,0 +1,91 @@
+{
+  "slug": "yellow-smoky-vietnamese-tomatoes-noodles--german",
+  "title": "Smoky German Noodle Soup",
+  "description": "A hearty and comforting German noodle soup with a smoky twist, made with Vietnam-inspired flavors and fresh tomatoes.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Tomatoes",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Noodles",
+      "amount": "1 pack",
+      "notes": "Look for a smoky flavor in your noodles"
+    },
+    {
+      "name": "Vietnamese Cilantro",
+      "amount": "1 bunch",
+      "notes": "Use fresh cilantro for garnish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp",
+      "notes": "Traditional German spice"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add the yellow tomatoes and cook for another 10 minutes.",
+    "Add the noodles and cook according to package instructions.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with fresh cilantro and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "noodle-soup",
+    "smoky",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-vietnamese-tomatoes-noodles--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:53:57.723Z"
+}

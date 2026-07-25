@@ -17075,5 +17075,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-algerian-bouillon-wrap--indian",
+    "title": "Spiced Wrap",
+    "tags": [
+      "indian",
+      "wrap",
+      "lunch",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-brazilian-fish-wrap--mexican",
+    "title": "Mexican Fish Tacos",
+    "tags": [
+      "fish",
+      "mexican",
+      "tacos",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "y"
   }
 ]

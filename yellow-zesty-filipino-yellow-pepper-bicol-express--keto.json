@@ -1,0 +1,72 @@
+{
+  "slug": "yellow-zesty-filipino-yellow-pepper-bicol-express--keto",
+  "title": "Bicol Express Keto Fried Rice",
+  "description": "A keto twist on the classic filipino dish, this recipe uses coconut oil and no added sugars.",
+  "cuisine": "filipino",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "express",
+      "amount": "1"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "1"
+    },
+    {
+      "name": "zesty",
+      "amount": "1"
+    },
+    {
+      "name": "filipino",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bicol",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium-high heat.",
+    "Add the express, yellow pepper, and zesty. Cook until the vegetables are tender.",
+    "Push the vegetables to one side of the pan.",
+    "Add coconut oil to the other side and scramble in the beaten eggs.",
+    "Mix the eggs with the vegetables.",
+    "Add the filipino and cook until heated through.",
+    "Stir in the bicol.",
+    "Serve hot.",
+    "Optional: Add a fried egg on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "filipino",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 48
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-zesty-filipino-yellow-pepper-bicol-express--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:15:28.106Z"
+}

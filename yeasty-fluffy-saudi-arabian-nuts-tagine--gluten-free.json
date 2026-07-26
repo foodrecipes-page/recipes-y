@@ -1,0 +1,70 @@
+{
+  "slug": "yeasty-fluffy-saudi-arabian-nuts-tagine--gluten-free",
+  "title": "Saudi Arabian Gluten-Free Tagine",
+  "description": "A gluten-free take on the traditional Saudi Arabian dish, this tagine is filled with nuts and a hint of yeast.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fluffy yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "nuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 medium"
+    },
+    {
+      "name": "arabian",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "saudi oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small bowl, mix together the fluffy yeast and 1 cup of warm water.",
+    "Add the arabian, saudi oil, and salt to the bowl. Mix until combined.",
+    "Add the nuts to the bowl and stir until coated with the yeast mixture.",
+    "Pour the mixture into the tagine and cover with a lid.",
+    "Bake for 30 minutes or until the tagine is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "gluten-free",
+    "tagine",
+    "nuts"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-fluffy-saudi-arabian-nuts-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:13:17.678Z"
+}

@@ -17552,5 +17552,30 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-vietnamese-beef-pho--vegan",
+    "title": "Vegan Pho",
+    "tags": [
+      "vegan",
+      "noodle-soup",
+      "vietnamese"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-croatian-fiordilatte-skewers--keto",
+    "title": "Croatian Skewers with Fiordilatte",
+    "tags": [
+      "croatian",
+      "keto",
+      "skewers",
+      "grill"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 27,
+    "shard": "y"
   }
 ]

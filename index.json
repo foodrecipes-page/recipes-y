@@ -17428,5 +17428,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "y"
+  },
+  {
+    "slug": "yeasty-fluffy-saudi-arabian-nuts-tagine--gluten-free",
+    "title": "Saudi Arabian Gluten-Free Tagine",
+    "tags": [
+      "saudi-arabian",
+      "gluten-free",
+      "tagine",
+      "nuts"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 45,
+    "shard": "y"
   }
 ]

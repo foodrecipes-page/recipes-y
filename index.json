@@ -17330,5 +17330,17 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yields-peppery-polish-meat-tagine--italian",
+    "title": "Polish Sausage Tagine",
+    "tags": [
+      "italian",
+      "sausage",
+      "tagine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "y"
   }
 ]

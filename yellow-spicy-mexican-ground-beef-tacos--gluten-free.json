@@ -1,0 +1,83 @@
+{
+  "slug": "yellow-spicy-mexican-ground-beef-tacos--gluten-free",
+  "title": "Spicy Mexican Beef Tacos",
+  "description": "A flavorful and spicy taco recipe made with ground beef, perfect for a gluten-free meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Spicy Taco Seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mexican Yellow Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "or Monterey Jack"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Avocado or Guacamole",
+      "amount": "1 ripe avocado or 1/2 cup guacamole",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan over medium-high heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "2. Add the diced onion to the pan and cook until translucent.",
+    "3. Add the spicy taco seasoning to the pan and stir to combine.",
+    "4. Reduce heat to medium-low and simmer the mixture for 5-7 minutes.",
+    "5. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the tacos by spooning the beef mixture onto a tortilla and topping with cheese, a squeeze of lime juice, and any desired toppings.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "tacos",
+    "beef",
+    "mexican",
+    "spicy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-spicy-mexican-ground-beef-tacos--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:27:27.366Z"
+}

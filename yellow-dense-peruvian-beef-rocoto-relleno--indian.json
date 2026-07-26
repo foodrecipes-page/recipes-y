@@ -1,0 +1,105 @@
+{
+  "slug": "yellow-dense-peruvian-beef-rocoto-relleno--indian",
+  "title": "Beef Relleno Koftas",
+  "description": "A Peruvian twist on traditional Indian koftas, with a spicy beef and rocoto pepper filling wrapped in a crispy yellow cornmeal crust.",
+  "cuisine": "indian",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellow Cornmeal",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Rocoto Pepper",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Relleno Peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a large bowl, combine the ground beef, chopped rocoto pepper, diced relleno peppers, grated ginger, minced garlic, cumin, coriander, red chili powder, salt, and black pepper. Mix well with your hands until just combined.",
+    "Divide the beef mixture into 8 equal portions and shape each portion into a ball. Flatten each ball slightly into an oval shape.",
+    "In a shallow dish, mix together the yellow cornmeal and a pinch of salt. Coat each beef oval in the cornmeal mixture, pressing the coating onto the meat to help it stick.",
+    "Heat the vegetable oil in a large non-stick skillet over medium-high heat. When the oil is hot, add 4 of the coated beef ovals and cook for 2-3 minutes on each side, until golden brown and cooked through.",
+    "Transfer the cooked koftas to a baking sheet and bake in the preheated oven for 10-12 minutes, until crispy and golden brown.",
+    "Serve the Beef Relleno Koftas hot with your favorite chutney or raita.",
+    "Repeat the cooking process with the remaining 4 koftas."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "peruvian",
+    "indian",
+    "koftas",
+    "recco"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-dense-peruvian-beef-rocoto-relleno--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:25:33.366Z"
+}

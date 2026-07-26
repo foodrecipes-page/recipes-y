@@ -1,0 +1,68 @@
+{
+  "slug": "yolkless-german-egg-white-omelette-in-copper-mug--japanese",
+  "title": "Japanese-Style Omelette",
+  "description": "A simple and delicate Japanese omelette made with eggs, dashi, and shiso leaves. Serve with steamed rice for a traditional Japanese meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "1 tsp dashi broth",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "1 tsp soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "1 tsp sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped shiso leaves",
+      "amount": "to taste",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, beat the eggs until they are well mixed.",
+    "2. Heat a small non-stick pan over medium heat.",
+    "3. Add the dashi broth, soy sauce, and sesame oil to the eggs and mix well.",
+    "4. Pour the egg mixture into the pan and cook until the edges start to set.",
+    "5. Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "6. Once the eggs are almost set, use the spatula to carefully fold the omelette in half.",
+    "7. Cook for another 30 seconds to 1 minute, until the eggs are fully set.",
+    "8. Use the spatula to carefully slide the omelette onto a plate.",
+    "9. Garnish with chopped shiso leaves and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "omelette",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 12,
+    "carbs": 2,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yolkless-german-egg-white-omelette-in-copper-mug--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:44:22.442Z"
+}

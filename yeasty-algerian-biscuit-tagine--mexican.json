@@ -1,0 +1,86 @@
+{
+  "slug": "yeasty-algerian-biscuit-tagine--mexican",
+  "title": "Biscuit Tagine",
+  "description": "A twist on traditional Mexican cuisine, this biscuit tagine combines the warmth of spices with the flaky texture of biscuits.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "algerian biscuit",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "yeasty dough",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tbsp",
+      "notes": "or substitute with cumin and chili powder"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "can of diced tomatoes",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the yeasty dough to a thickness of 1/4 inch.",
+    "Cut out small squares of dough for the biscuit topping.",
+    "In a large pan, heat the oil over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the red bell pepper and cook for an additional 2 minutes.",
+    "Stir in the tagine spice blend and cook for 1 minute.",
+    "Add the diced tomatoes and cook for 5 minutes, stirring occasionally.",
+    "Transfer the mixture to a baking dish and top with crumbled biscuit.",
+    "Bake for 20-25 minutes, or until the biscuit is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "biscuit",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-algerian-biscuit-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:36:44.685Z"
+}

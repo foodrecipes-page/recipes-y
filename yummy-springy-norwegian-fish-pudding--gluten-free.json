@@ -1,0 +1,80 @@
+{
+  "slug": "yummy-springy-norwegian-fish-pudding--gluten-free",
+  "title": "Pan-Seared Norwegian Fish with Gluten-Free Pudding",
+  "description": "A gluten-free, flavorful dish that combines the freshness of Norwegian fish with a comforting side of pudding.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Fish Fillets",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Springy Fresh Parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Yummy Lemons",
+      "amount": "2 lemons",
+      "notes": ""
+    },
+    {
+      "name": "Pudding Mix (Gluten-Free)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the fish fillets with salt and black pepper.",
+    "Heat the butter in a skillet over medium-high heat.",
+    "Add the fish fillets to the skillet and sear for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "Meanwhile, prepare the pudding according to the package instructions.",
+    "Serve the pan-seared fish with a side of warm pudding.",
+    "Garnish with chopped parsley and a squeeze of lemon juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "fish",
+    "norwegian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-springy-norwegian-fish-pudding--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:29:30.302Z"
+}

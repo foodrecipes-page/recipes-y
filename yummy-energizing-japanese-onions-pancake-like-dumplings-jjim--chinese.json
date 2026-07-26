@@ -1,0 +1,66 @@
+{
+  "slug": "yummy-energizing-japanese-onions-pancake-like-dumplings-jjim--chinese",
+  "title": "Steamed Jjim Dumplings with Pancake Dipping Sauce",
+  "description": "Steamed dumplings filled with a savory mixture of vegetables and meat, served with a crispy pancake for dipping. A classic Chinese comfort food.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Pancake",
+      "amount": "1 package (typically 20-25 pancakes)",
+      "notes": "For serving"
+    },
+    {
+      "name": "Jjim",
+      "amount": "1 package (typically 20-25 dumplings)",
+      "notes": "For steaming"
+    },
+    {
+      "name": "Yummy vegetables (such as cabbage, carrots, and scallions)",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Energizing soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the dumpling filling by finely chopping the onion and yummy vegetables.",
+    "2. Combine the filling ingredients in a bowl and mix well.",
+    "3. Lay a pancake flat on a clean surface and place a spoonful of the filling in the center.",
+    "4. Fold the pancake in half to enclose the filling and press the edges together to seal.",
+    "5. Repeat with the remaining pancakes and filling.",
+    "6. Place the dumplings on a steamer basket and steam for 10-12 minutes, or until cooked through.",
+    "7. Meanwhile, prepare the dipping sauce by mixing together the energizing soy sauce and any other desired seasonings.",
+    "8. Serve the steamed dumplings with the pancake dipping sauce on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "steamed",
+    "dumplings",
+    "pancake",
+    "dipping sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-energizing-japanese-onions-pancake-like-dumplings-jjim--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:02:53.824Z"
+}

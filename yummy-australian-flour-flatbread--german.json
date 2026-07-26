@@ -1,0 +1,59 @@
+{
+  "slug": "yummy-australian-flour-flatbread--german",
+  "title": "German-Style Flatbread",
+  "description": "A traditional German flatbread recipe made with simple ingredients.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 pinch",
+      "notes": "a pinch of salt"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour and salt.",
+    "2. Gradually add in warm water, mixing until a dough forms.",
+    "3. Knead the dough for 5-7 minutes until smooth.",
+    "4. Divide the dough into 4-6 equal pieces.",
+    "5. Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "6. Heat a non-stick skillet over medium-high heat.",
+    "7. Cook the flatbreads for 1-2 minutes on each side, until golden brown.",
+    "8. Repeat with remaining dough pieces.",
+    "9. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "german",
+    "bread",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-australian-flour-flatbread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:32:27.520Z"
+}

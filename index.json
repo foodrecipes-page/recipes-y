@@ -17577,5 +17577,19 @@
     "cuisine": "croatian",
     "totalTimeMin": 27,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-spicy-mexican-ground-beef-tacos--gluten-free",
+    "title": "Spicy Mexican Beef Tacos",
+    "tags": [
+      "tacos",
+      "beef",
+      "mexican",
+      "spicy",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

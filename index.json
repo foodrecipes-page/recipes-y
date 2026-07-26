@@ -17342,5 +17342,43 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-australian-flour-flatbread--german",
+    "title": "German-Style Flatbread",
+    "tags": [
+      "flatbread",
+      "german",
+      "bread",
+      "easy-to-make"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 14,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-sweet-brazilian-yams-skillet--chinese",
+    "title": "Sweet Yams Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "sweet-yams"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-canadian-maple-wrap--thai",
+    "title": "Thai Chicken Wrap",
+    "tags": [
+      "thai",
+      "chicken",
+      "wrap",
+      "lunch"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "y"
   }
 ]

@@ -781,19 +781,15 @@
   },
   {
     "slug": "yeasty-gooey-argentinian-cornmeal-empanadas",
-    "title": "Yeasty Gooey Argentinian Cornmeal Empanadas",
+    "title": "Empanadas Argentina",
     "tags": [
-      "argentinian",
-      "cornmeal",
       "empanadas",
-      "gooey",
-      "quick-fix",
-      "satvik",
-      "snack",
-      "yeasty"
+      "argentinian",
+      "cheese",
+      "latin"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 36,
+    "cuisine": "Latin American",
+    "totalTimeMin": 35,
     "shard": "y"
   },
   {
@@ -17391,6 +17387,46 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-peruvian-sweetened-condensed-milk-pudding--indian",
+    "title": "Sweet Pudding Kheer",
+    "tags": [
+      "indian",
+      "dessert",
+      "pudding",
+      "kheer"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-irish-pistachio-casserole--japanese",
+    "title": "Irish Pistachio Mochi Casserole",
+    "tags": [
+      "japanese",
+      "irish",
+      "mochi",
+      "casserole",
+      "pistachio"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yeasty-algerian-biscuit-tagine--mexican",
+    "title": "Biscuit Tagine",
+    "tags": [
+      "mexican",
+      "biscuit",
+      "tagine",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "y"
   }
 ]

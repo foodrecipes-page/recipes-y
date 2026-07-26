@@ -1,0 +1,72 @@
+{
+  "slug": "yummy-sour-light-jamaican-duck-legs-tagine--japanese",
+  "title": "Japanese-Style Jamaican Duck Legs",
+  "description": "A fusion dish that combines the bold flavors of Jamaica with the precise techniques of Japan. This recipe results in tender, juicy duck legs with a sweet and tangy glaze.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck Legs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Yummy Sauce (see notes)",
+      "amount": "1/4 cup",
+      "notes": "A sweet and sour mixture of equal parts honey and rice vinegar, with a dash of soy sauce"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cherries (optional)",
+      "amount": "1/4 cup",
+      "notes": "Canned or fresh, for added flavor and texture"
+    },
+    {
+      "name": "Jamaican Spices (e.g. allspice, thyme, scotch bonnet pepper)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spices (e.g. cumin, coriander, cinnamon)",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the duck legs and pat them dry with paper towels.",
+    "In a small bowl, mix together the yummy sauce, olive oil, sour cherries (if using), Jamaican spices, and tagine spices.",
+    "Place the duck legs in a shallow baking dish and brush the sauce mixture evenly over both legs.",
+    "Bake the duck legs for 20 minutes, then reduce the heat to 375°F (190°C) and continue baking for an additional 10-15 minutes, or until the meat is tender and the skin is crispy.",
+    "Let the duck legs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "japanese",
+    "duck",
+    "legs",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-sour-light-jamaican-duck-legs-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:19:32.293Z"
+}

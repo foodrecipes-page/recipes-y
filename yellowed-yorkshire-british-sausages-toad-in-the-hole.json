@@ -1,0 +1,64 @@
+{
+  "slug": "yellowed-yorkshire-british-sausages-toad-in-the-hole",
+  "title": "Toad in the Hole",
+  "description": "A classic British dish of sausages cooked in a Yorkshire pudding batter. Serve with roasted vegetables.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Yorkshire pudding mix",
+      "amount": "1 cup",
+      "notes": "Or make your own using 1 cup all-purpose flour, 2 eggs, and 1/2 cup milk"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cook the sausages in a large pan over medium heat, until browned on all sides.",
+    "Remove the sausages from the pan and set aside.",
+    "In the same pan, add the oil and cook the chopped onion until softened.",
+    "Add the Yorkshire pudding mix and stir to combine.",
+    "Gradually add 1 cup of milk, stirring continuously to avoid lumps.",
+    "Pour the batter into the pan and cook for 2-3 minutes, until the bottom is golden brown.",
+    "Transfer the pan to the preheated oven and cook for 15-20 minutes, until the Yorkshire pudding is puffed and golden brown.",
+    "Serve the cooked sausages in the Yorkshire pudding."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "sausages",
+    "yorkshire-pudding"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-yorkshire-british-sausages-toad-in-the-hole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:07:23.629Z"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "yeasty-crunchy-peruvian-ham-solo-dinner--german",
+  "title": "German Beer Bread",
+  "description": "A simple German bread recipe made with a focus on beer to bring out the yeast flavor.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yeasty beer",
+      "amount": "1 cup",
+      "notes": "any German beer with a high yeast content"
+    },
+    {
+      "name": "crunchy wheat flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "peruvian salt",
+      "amount": "1 tsp",
+      "notes": "or regular salt"
+    },
+    {
+      "name": "ham",
+      "amount": "1/4 cup",
+      "notes": "optional, diced or chopped, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix the beer with the flour in a large bowl.",
+    "Add the salt and mix until combined.",
+    "If using ham, fold it in at this stage.",
+    "Knead the dough for 5-7 minutes until it becomes smooth.",
+    "Shape the dough into a round loaf.",
+    "Place the loaf on a baking sheet lined with parchment paper.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Remove from the oven and let cool for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "bread",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-crunchy-peruvian-ham-solo-dinner--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:24:33.744Z"
+}

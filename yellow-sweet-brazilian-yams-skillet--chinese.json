@@ -1,0 +1,67 @@
+{
+  "slug": "yellow-sweet-brazilian-yams-skillet--chinese",
+  "title": "Sweet Yams Stir Fry",
+  "description": "A traditional Chinese dish made with sweet yams, a sweet and savory stir fry.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yams",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "sweet",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yellow onions",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "skillet",
+      "amount": " ",
+      "notes": "for cooking"
+    },
+    {
+      "name": "brazilian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium heat.",
+    "Add the olive oil and swirl to coat the bottom of the pan.",
+    "Add the sliced onions and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the sliced yams and cook for 5-7 minutes, or until tender.",
+    "Stir constantly to prevent burning.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "sweet-yams"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-sweet-brazilian-yams-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:55:46.830Z"
+}

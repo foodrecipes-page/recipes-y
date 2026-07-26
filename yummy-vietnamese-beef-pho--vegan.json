@@ -1,0 +1,92 @@
+{
+  "slug": "yummy-vietnamese-beef-pho--vegan",
+  "title": "Vegan Pho",
+  "description": "A plant-based version of the classic Vietnamese noodle soup. This recipe substitutes beef with mushrooms and uses a flavorful vegetable broth.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms (such as shiitake or cremini)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine onion, ginger, and garlic. Cook over medium heat until the onion is translucent.",
+    "Add the mushrooms and cook until they release their moisture and start to brown.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the soy sauce, maple syrup, and sriracha. Stir to combine.",
+    "Cook the rice noodles according to the package instructions. Drain and set aside.",
+    "To assemble the pho, place some noodles into a bowl, then ladle the hot broth over the top.",
+    "Garnish with bean sprouts and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "noodle-soup",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-vietnamese-beef-pho--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:22:06.687Z"
+}

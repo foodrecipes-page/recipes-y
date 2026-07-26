@@ -1,0 +1,75 @@
+{
+  "slug": "yummy-arabic-lamb-dumplings--italian",
+  "title": "Italian Lamb Dumplings",
+  "description": "A twist on traditional Italian pasta, substituting lamb dumplings for a rich and hearty meal.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yummy parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arabic spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine lamb, spices, salt, and pepper in a bowl.",
+    "Knead the dough with flour and eggs.",
+    "Roll out the dough and cut into small squares.",
+    "Place a spoonful of lamb mixture on each square, close and seal the dumplings.",
+    "Boil the dumplings for 5 minutes.",
+    "Heat the olive oil in a pan.",
+    "Add the dumplings and cook for 2-3 minutes on each side.",
+    "Serve hot with yummy parmesan cheese sprinkled on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "dumplings",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-arabic-lamb-dumplings--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:05:51.951Z"
+}

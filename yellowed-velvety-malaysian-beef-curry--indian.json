@@ -1,0 +1,79 @@
+{
+  "slug": "yellowed-velvety-malaysian-beef-curry--indian",
+  "title": "Beef Curry with Yellowed Coconut Milk",
+  "description": "A rich and flavorful Indian dish made with tender beef and a velvety yellowed coconut milk sauce. Pair it with steaming basmati rice for a hearty meal.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb beef (cut into small cubes)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 curry powder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 can of yellowed coconut milk",
+      "amount": "1",
+      "notes": "chilled"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp turmeric powder",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the onions and cook until they are translucent.",
+    "Add the garlic and cook for another minute.",
+    "Add the beef and cook until browned.",
+    "Add the curry powder and cook for 1 minute.",
+    "Stir in the coconut milk and bring to a simmer.",
+    "Reduce heat to low and let it cook for 20 minutes.",
+    "Season with cumin and turmeric powder.",
+    "Serve hot over basmati rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "curry",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-velvety-malaysian-beef-curry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:01:47.094Z"
+}

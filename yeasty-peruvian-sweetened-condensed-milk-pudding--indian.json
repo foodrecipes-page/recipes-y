@@ -1,0 +1,53 @@
+{
+  "slug": "yeasty-peruvian-sweetened-condensed-milk-pudding--indian",
+  "title": "Sweet Pudding Kheer",
+  "description": "A creamy Indian dessert made with sweetened condensed milk, pudding, and a hint of yeasty flavor.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweetened Condensed Milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Pudding",
+      "amount": "2 cups",
+      "notes": "Any flavor"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the sweetened condensed milk, pudding, and milk.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce heat to low and simmer for 5 minutes, or until the pudding has thickened.",
+    "Remove from heat and stir in a pinch of yeast for a yeasty flavor.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate until chilled, at least 2 hours.",
+    "Serve cold, garnished with a sprinkle of cardamom powder if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "dessert",
+    "pudding",
+    "kheer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-peruvian-sweetened-condensed-milk-pudding--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:52:34.517Z"
+}

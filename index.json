@@ -9365,17 +9365,14 @@
   },
   {
     "slug": "yellowed-velvety-algerian-starch-tagine",
-    "title": "Yellowed Velvety Algerian Starch Tagine",
+    "title": "Classic Algerian Tagine",
     "tags": [
-      "algerian-cuisine",
-      "bamboo-serving",
-      "jain-friendly",
-      "one-pot",
-      "starch-based",
+      "north-african",
+      "stew",
       "vegetarian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "y"
   },
   {
@@ -17513,6 +17510,47 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-sour-light-jamaican-duck-legs-tagine--japanese",
+    "title": "Japanese-Style Jamaican Duck Legs",
+    "tags": [
+      "jamaican",
+      "japanese",
+      "duck",
+      "legs",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-dense-peruvian-beef-rocoto-relleno--indian",
+    "title": "Beef Relleno Koftas",
+    "tags": [
+      "beef",
+      "peruvian",
+      "indian",
+      "koftas",
+      "recco"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-quick-turkish-lamb-bake--italian",
+    "title": "Italian-Style Braised Lamb Shanks",
+    "tags": [
+      "italian",
+      "lamb",
+      "braised",
+      "slow-cooked"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
     "shard": "y"
   }
 ]

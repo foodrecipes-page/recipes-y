@@ -17441,5 +17441,45 @@
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 45,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-springy-norwegian-fish-pudding--gluten-free",
+    "title": "Pan-Seared Norwegian Fish with Gluten-Free Pudding",
+    "tags": [
+      "gluten-free",
+      "fish",
+      "norwegian",
+      "comfort-food"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 27,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-dense-uruguayan-beef-skewers--gluten-free",
+    "title": "Uruguayan Beef Skewers",
+    "tags": [
+      "beef",
+      "grill",
+      "uruguayan",
+      "gluten-free",
+      "skewers"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-dense-peruvian-beef-rocoto-relleno--vegetarian",
+    "title": "Peruvian Stuffed Rocoto Peppers",
+    "tags": [
+      "peruvian",
+      "stuffed-peppers",
+      "vegetarian",
+      "yellow-rice"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "y"
   }
 ]

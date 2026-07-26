@@ -17380,5 +17380,17 @@
     "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "y"
+  },
+  {
+    "slug": "yeasty-crunchy-peruvian-ham-solo-dinner--german",
+    "title": "German Beer Bread",
+    "tags": [
+      "german",
+      "bread",
+      "breakfast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "y"
   }
 ]

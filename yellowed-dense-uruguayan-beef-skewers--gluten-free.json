@@ -1,0 +1,82 @@
+{
+  "slug": "yellowed-dense-uruguayan-beef-skewers--gluten-free",
+  "title": "Uruguayan Beef Skewers",
+  "description": "A gluten-free recipe for traditional Uruguayan beef skewers, featuring tender and flavorful beef.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "yellowed onions",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "dense tomatoes",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, salt, and black pepper.",
+    "Add the beef strips to the bowl and toss to coat with the marinade.",
+    "Thread the beef, onions, tomatoes, and cilantro onto the skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef reaches an internal temperature of 145°F (63°C).",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "grill",
+    "uruguayan",
+    "gluten-free",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-dense-uruguayan-beef-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:32:52.159Z"
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "yeasty-chewy-uruguayan-pecan-bread",
+  "title": "Uruguayan Pecan Bread",
+  "description": "A delicious and sweet Uruguayan bread filled with crunchy pecans, perfect for a snack or dessert.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yeasty",
+      "amount": "1 packet of active dry yeast"
+    },
+    {
+      "name": "bread",
+      "amount": "2 cups of all-purpose flour"
+    },
+    {
+      "name": "chewy",
+      "amount": "1/4 cup of granulated sugar"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "1/4 cup of chopped pecans"
+    },
+    {
+      "name": "pecan",
+      "amount": "1/2 teaspoon of salt"
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a bowl, let it sit for 5 minutes.",
+    "Add flour, sugar, and salt to the bowl. Mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Add chopped pecans to the dough and mix well.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat oven to 375°F (190°C).",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf on a baking sheet, cover it with a towel, and let it rise for another 30 minutes.",
+    "Bake the loaf for 35-40 minutes, or until it's golden brown.",
+    "Let the loaf cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "dessert",
+    "snack",
+    "uruguayan",
+    "pecan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-chewy-uruguayan-pecan-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:55:03.110Z"
+}

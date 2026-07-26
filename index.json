@@ -307,17 +307,15 @@
   },
   {
     "slug": "yeasty-chewy-uruguayan-pecan-bread",
-    "title": "Yeasty Chewy Uruguayan Pecan Bread",
+    "title": "Uruguayan Pecan Bread",
     "tags": [
       "bread",
-      "breakfast",
-      "chewy",
-      "donabe",
+      "dessert",
+      "snack",
       "uruguayan",
-      "weeknight",
-      "yeasty"
+      "pecan"
     ],
-    "cuisine": "uruguayan",
+    "cuisine": "Uruguayan",
     "totalTimeMin": 55,
     "shard": "y"
   },
@@ -17488,6 +17486,32 @@
       "coconut-milk"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-energizing-japanese-onions-pancake-like-dumplings-jjim--chinese",
+    "title": "Steamed Jjim Dumplings with Pancake Dipping Sauce",
+    "tags": [
+      "chinese",
+      "steamed",
+      "dumplings",
+      "pancake",
+      "dipping sauce"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-creamy-german-lamb-stew--vegan",
+    "title": "Yellow Lentil Stew",
+    "tags": [
+      "vegan",
+      "german",
+      "lentil-stew"
+    ],
+    "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "y"
   }

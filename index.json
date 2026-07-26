@@ -17603,5 +17603,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 13,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-arabic-lamb-dumplings--italian",
+    "title": "Italian Lamb Dumplings",
+    "tags": [
+      "italian",
+      "lamb",
+      "dumplings",
+      "casserole"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

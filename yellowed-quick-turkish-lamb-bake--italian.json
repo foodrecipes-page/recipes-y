@@ -1,0 +1,96 @@
+{
+  "slug": "yellowed-quick-turkish-lamb-bake--italian",
+  "title": "Italian-Style Braised Lamb Shanks",
+  "description": "A hearty, slow-cooked lamb recipe with an Italian twist, perfect for a chilly evening. This dish is rich in flavor and falls-off-the-bone tender.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4-6",
+      "notes": "about 1 1/2 pounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped, about 3 cups"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 large",
+      "notes": "chopped, about 2 cups"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped, about 2 cups"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C). Season lamb shanks with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear lamb until browned on all sides, about 5 minutes. Remove lamb and set aside.",
+    "Reduce heat to medium. Add onion, carrot, and celery. Cook, stirring occasionally, until vegetables are tender, about 10 minutes.",
+    "Add garlic and cook for 1 minute, stirring constantly.",
+    "Add red wine, beef broth, tomato paste, and oregano. Stir to combine.",
+    "Return lamb to the pot and bring to a boil. Cover and transfer to the preheated oven.",
+    "Braise lamb for 2 1/2 to 3 hours, or until tender and falling off the bone.",
+    "Remove lamb from the pot and cover with foil to keep warm.",
+    "Skim off excess fat from the braising liquid and season with salt and pepper.",
+    "Serve lamb with the rich, flavorful sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "braised",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-quick-turkish-lamb-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:32:24.539Z"
+}

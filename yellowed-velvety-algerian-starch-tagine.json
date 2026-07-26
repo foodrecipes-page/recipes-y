@@ -1,0 +1,63 @@
+{
+  "slug": "yellowed-velvety-algerian-starch-tagine",
+  "title": "Classic Algerian Tagine",
+  "description": "A traditional North African stew originating from the Tagine, a clay pot with a conical lid. This recipe is rich, aromatic, and comforting.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "algerian",
+      "amount": "2 tablespoons",
+      "notes": "Use Algerian spice mix as the base for the stew's flavor"
+    },
+    {
+      "name": "yellowed",
+      "amount": "2 tablespoons",
+      "notes": "This likely refers to saffron, a key ingredient in traditional tagines"
+    },
+    {
+      "name": "starch",
+      "amount": "1 cup",
+      "notes": "Use semolina or couscous for a traditional tagine texture"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "A traditional clay pot with a conical lid for slow-cooking the stew"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Rinse the pot and dry it thoroughly.",
+    "Heat 2 tablespoons of oil in the tagine over medium heat.",
+    "Add the Algerian spice mix and sauté for 1 minute, until fragrant.",
+    "Add the starch (semolina or couscous) and stir to coat with the spice mix.",
+    "Add 2 cups of water and bring to a boil.",
+    "Cover the tagine with its conical lid and transfer it to the preheated oven.",
+    "Bake for 30-40 minutes or until the starch is cooked through and the liquid has been absorbed.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-velvety-algerian-starch-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:41:37.960Z"
+}

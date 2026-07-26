@@ -1,0 +1,76 @@
+{
+  "slug": "yeasty-gooey-argentinian-cornmeal-empanadas",
+  "title": "Empanadas Argentina",
+  "description": "Delicious Argentinian-style empanadas filled with gooey cheese and a hint of Latin spice.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Yeasty",
+      "amount": "1 packet active dry yeast",
+      "notes": "1 teaspoon sugar and 1 cup warm water"
+    },
+    {
+      "name": "Gooey",
+      "amount": "1 cup shredded cheese (Monterey Jack or Cheddar)"
+    },
+    {
+      "name": "Argentinian",
+      "amount": "1 teaspoon ground cumin",
+      "notes": "1/4 teaspoon cayenne pepper"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 (beaten for egg wash)"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine cornmeal, yeast, sugar, and warm water. Let it sit for 5-7 minutes until yeast is activated.",
+    "2. Add cumin, cayenne pepper, and salt to the bowl. Mix well.",
+    "3. Add gooey cheese to the bowl and mix until well combined.",
+    "4. Knead the dough for 5-7 minutes until smooth and elastic.",
+    "5. Divide the dough into 8-10 equal pieces.",
+    "6. Roll each piece into a ball and flatten it slightly into a disk.",
+    "7. Place a tablespoon of cheese in the center of each disk.",
+    "8. Fold the dough in half and press the edges to seal.",
+    "9. Brush the tops with beaten egg for a golden glaze.",
+    "10. Bake in a preheated oven at 375°F (190°C) for 15-20 minutes, or until golden brown.",
+    "11. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "argentinian",
+    "cheese",
+    "latin"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-gooey-argentinian-cornmeal-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:42:02.427Z"
+}

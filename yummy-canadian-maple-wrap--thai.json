@@ -1,0 +1,65 @@
+{
+  "slug": "yummy-canadian-maple-wrap--thai",
+  "title": "Thai Chicken Wrap",
+  "description": "A delicious and easy-to-make Thai-inspired chicken wrap recipe. Perfect for a quick and tasty meal.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Yummy Canadian bacon",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together curry paste and maple syrup.",
+    "Add the chicken to the bowl and toss to coat with the curry paste mixture.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by placing 2 slices of Canadian bacon on the tortilla, followed by the cooked chicken, and finally the remaining 2 slices of Canadian bacon.",
+    "Drizzle with any remaining curry paste mixture and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "chicken",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-canadian-maple-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:22:28.755Z"
+}

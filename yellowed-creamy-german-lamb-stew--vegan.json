@@ -1,0 +1,80 @@
+{
+  "slug": "yellowed-creamy-german-lamb-stew--vegan",
+  "title": "Yellow Lentil Stew",
+  "description": "A hearty, comforting stew made with yellow lentils, perfect for a cold evening. This vegan dish is rich in protein and fiber, making it a great option for those following a plant-based diet.",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellowed onions",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "creamy garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup dried",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "4 cups vegetable broth",
+      "notes": null
+    },
+    {
+      "name": "german mustard",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the lentils, broth, mustard, bay leaves, salt, and pepper.",
+    "Bring to a boil, then reduce the heat and simmer for 30 minutes.",
+    "Remove the bay leaves and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "german",
+    "lentil-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "18g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-creamy-german-lamb-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:02:51.775Z"
+}

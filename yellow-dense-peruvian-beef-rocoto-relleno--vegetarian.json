@@ -1,0 +1,76 @@
+{
+  "slug": "yellow-dense-peruvian-beef-rocoto-relleno--vegetarian",
+  "title": "Peruvian Stuffed Rocoto Peppers",
+  "description": "A vegetarian twist on a traditional Peruvian dish, this recipe fills tender rocoto peppers with a flavorful mixture of yellow rice, beef alternative, and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rocoto peppers",
+      "amount": "4"
+    },
+    {
+      "name": "yellow rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef alternative (textured vegetable protein)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rocoto pepper paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried relleno peppers",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "peruvian aji amarillo pepper powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut off the tops of the rocoto peppers and remove seeds and membranes.",
+    "3. In a pan, heat 2 tbsp of oil over medium heat. Add onion and cook until softened, about 5 minutes.",
+    "4. Add garlic, aji amarillo pepper powder, and rocoto pepper paste to the pan and cook for 1 minute.",
+    "5. Stir in yellow rice, beef alternative, and dried relleno peppers. Cook for 2-3 minutes.",
+    "6. Fill the rocoto peppers with the rice mixture and place them in a baking dish.",
+    "7. Cover the dish with aluminum foil and bake for 20 minutes.",
+    "8. Remove foil and bake for an additional 10-15 minutes, until the peppers are tender.",
+    "9. Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stuffed-peppers",
+    "vegetarian",
+    "yellow-rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-dense-peruvian-beef-rocoto-relleno--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:34:03.724Z"
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "yields-peppery-polish-meat-tagine--italian",
+  "title": "Polish Sausage Tagine",
+  "description": "A unique twist on the traditional Italian sausage, this recipe combines the flavors of Poland with the spices of North Africa.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "look for smoked sausage"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Yields",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the yields in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped red pepper and cook for 2 minutes.",
+    "Add the Polish sausage and cook until browned, about 5 minutes.",
+    "Add the canned tomatoes, chicken broth, salt, and black pepper.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes or until the sausage is cooked through.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "sausage",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yields-peppery-polish-meat-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:50:01.242Z"
+}

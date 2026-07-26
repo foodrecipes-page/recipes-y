@@ -9553,18 +9553,14 @@
   },
   {
     "slug": "yellowed-yorkshire-british-sausages-toad-in-the-hole",
-    "title": "yellowed yorkshire british sausages toad in the hole",
+    "title": "Toad in the Hole",
     "tags": [
-      "breakfast",
       "british",
-      "comfort-food",
-      "dinner",
-      "lunch",
-      "one-pan",
-      "weeknight"
+      "sausages",
+      "yorkshire-pudding"
     ],
-    "cuisine": "british",
-    "totalTimeMin": 55,
+    "cuisine": "British",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -17480,6 +17476,19 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-velvety-malaysian-beef-curry--indian",
+    "title": "Beef Curry with Yellowed Coconut Milk",
+    "tags": [
+      "indian",
+      "beef",
+      "curry",
+      "coconut-milk"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
     "shard": "y"
   }
 ]

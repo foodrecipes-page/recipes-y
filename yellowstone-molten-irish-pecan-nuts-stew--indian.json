@@ -1,0 +1,81 @@
+{
+  "slug": "yellowstone-molten-irish-pecan-nuts-stew--indian",
+  "title": "Pecan and Irish Stew",
+  "description": "A twist on traditional Irish stew, this recipe combines tender beef with the nutty flavor of pecans and the warm spices of India.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "pecans",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "irish potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add potatoes, pecans, and stew.",
+    "Bring to a boil, then reduce heat and simmer, covered, for 30 minutes.",
+    "Stir in crushed tomato and continue to simmer for another 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "stew",
+    "pecan",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowstone-molten-irish-pecan-nuts-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:22:53.417Z"
+}

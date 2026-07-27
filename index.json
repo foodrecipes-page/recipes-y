@@ -17616,5 +17616,18 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yeasty-syrian-deodeok-root-flatbread--indian",
+    "title": "Deodeok Flatbread Naan",
+    "tags": [
+      "flatbread",
+      "naan",
+      "deodeok",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "y"
   }
 ]

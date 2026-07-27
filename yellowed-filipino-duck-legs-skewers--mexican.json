@@ -1,0 +1,84 @@
+{
+  "slug": "yellowed-filipino-duck-legs-skewers--mexican",
+  "title": "Crispy Duck Skewers with Pineapple Salsa",
+  "description": "A twist on traditional Mexican street food, these crispy duck skewers are served with a sweet and tangy pineapple salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "yellow onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a large bowl, whisk together lime juice, olive oil, and a pinch of salt.",
+    "3. Add the sliced onions and let it marinate for at least 30 minutes.",
+    "4. Meanwhile, thread the duck onto skewers, leaving a small space between each piece.",
+    "5. Grill the duck for 5-7 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "6. In a separate bowl, combine pineapple, red bell pepper, and jalapeno pepper.",
+    "7. Once the duck is cooked, brush it with a little olive oil and serve with the pineapple salsa.",
+    "8. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "skewers",
+    "duck"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-filipino-duck-legs-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:12:21.600Z"
+}

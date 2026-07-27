@@ -17702,5 +17702,32 @@
     "cuisine": "french",
     "totalTimeMin": 30,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-filipino-duck-legs-skewers--mexican",
+    "title": "Crispy Duck Skewers with Pineapple Salsa",
+    "tags": [
+      "mexican",
+      "grilled",
+      "skewers",
+      "duck"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowstone-molten-irish-pecan-nuts-stew--indian",
+    "title": "Pecan and Irish Stew",
+    "tags": [
+      "indian",
+      "beef",
+      "stew",
+      "pecan",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 60,
+    "shard": "y"
   }
 ]

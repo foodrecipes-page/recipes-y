@@ -1,0 +1,99 @@
+{
+  "slug": "yogurt-marinated-russian-chicken-breast-biryani",
+  "title": "Grilled Chicken Biryani",
+  "description": "A flavorful and aromatic biryani dish made with marinated grilled chicken, served with a side of yogurt sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "marinated russian yogurt",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "biryani",
+      "amount": "1 cup",
+      "notes": "uncooked basmati rice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a pan over medium heat.",
+    "Add cumin powder, coriander powder, and garam masala. Cook for 1 minute.",
+    "Add the marinated chicken and cook until browned, about 5-6 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and cook for 10-12 minutes or until the chicken is cooked through.",
+    "Meanwhile, heat the remaining 1 tablespoon of olive oil in a separate pan.",
+    "Add the chopped cilantro and cook for 1 minute.",
+    "Add the uncooked basmati rice and cook for 2-3 minutes or until lightly toasted.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and cook for 10-12 minutes or until the rice is cooked and fluffy.",
+    "To assemble the biryani, place a layer of cooked rice, then a layer of chicken, and repeat until all the ingredients are used up.",
+    "Garnish with chopped cilantro and serve with a side of yogurt sauce.",
+    "To make the yogurt sauce, mix together 1/2 cup of marinated russian yogurt with 1 tablespoon of chopped cilantro and 1 tablespoon of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "biryani",
+    "indian-cuisine",
+    "lunch",
+    "grilled-chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yogurt-marinated-russian-chicken-breast-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:25:24.915Z"
+}

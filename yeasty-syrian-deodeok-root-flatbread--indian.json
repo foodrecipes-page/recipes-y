@@ -1,0 +1,69 @@
+{
+  "slug": "yeasty-syrian-deodeok-root-flatbread--indian",
+  "title": "Deodeok Flatbread Naan",
+  "description": "A crispy flatbread infused with the sweetness of deodeok, perfect as a side dish for your next Indian meal. The combination of flavors and textures is a delightful twist on traditional naan.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yeasty flatbread dough",
+      "amount": "1 piece",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "deodeok",
+      "amount": "2 medium roots",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "2 tablespoons ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or tava over medium heat.",
+    "Divide the flatbread dough into 4 equal pieces.",
+    "Roll out each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place a disk of dough into the skillet and cook for 1-2 minutes or until it starts to puff up.",
+    "Flip the naan over and cook for another 1-2 minutes or until it's golden brown.",
+    "Brush the cooked naan with ghee or oil and sprinkle with salt and pepper.",
+    "Repeat with the remaining dough pieces.",
+    "Once all the naan are cooked, place them on a serving plate and top with grated deodeok.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "naan",
+    "deodeok",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-syrian-deodeok-root-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:55:12.858Z"
+}

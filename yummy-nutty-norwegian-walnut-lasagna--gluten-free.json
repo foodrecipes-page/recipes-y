@@ -1,0 +1,69 @@
+{
+  "slug": "yummy-nutty-norwegian-walnut-lasagna--gluten-free",
+  "title": "Norwegian Walnut Lasagna",
+  "description": "A gluten-free twist on the classic Italian dish, featuring nutty Norwegian walnuts and yummy flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian Walnuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Lasagna",
+      "amount": "8 lasagna noodles (gluten-free)"
+    },
+    {
+      "name": "Yummy Bechamel Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Nutty Gruyère Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, sauté chopped Norwegian walnuts in a little oil until nutty and fragrant.",
+    "In a separate saucepan, make yummy Bechamel sauce by melting butter, then whisking in flour and milk.",
+    "Stir in shredded Nutty Gruyère Cheese until melted and smooth.",
+    "Combine cooked lasagna noodles, sautéed Norwegian walnuts, and yummy Bechamel sauce.",
+    "Transfer mixture to a 9x13-inch baking dish and top with remaining Nutty Gruyère Cheese.",
+    "Bake for 25-30 minutes, or until golden brown and bubbly.",
+    "Garnish with chopped Fresh Parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "norwegian",
+    "lasagna",
+    "walnut",
+    "bechamel"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-nutty-norwegian-walnut-lasagna--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:15:23.654Z"
+}

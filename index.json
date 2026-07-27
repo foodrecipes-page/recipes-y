@@ -4250,17 +4250,16 @@
   },
   {
     "slug": "yellow-peppery-malaysian-cheese-sandwich",
-    "title": "Yellow Peppery Malaysian Cheese Sandwich",
+    "title": "Cheesy Yellow Pepper Sandwich",
     "tags": [
-      "adventurous-eating",
-      "cheese-sandwich",
-      "lacto-vegetarian",
-      "malaysian-cuisine",
-      "peppery-food",
-      "steam-cooked"
+      "cheese",
+      "yellow-peppers",
+      "malaysian",
+      "lunch",
+      "easy"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 17,
+    "cuisine": "malaysian",
+    "totalTimeMin": 9,
     "shard": "y"
   },
   {
@@ -17742,6 +17741,19 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 30,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-turkish-chinese-long-beans-doner-kebab--mexican",
+    "title": "Mexican-Style Bean and Doner Kebab Tacos",
+    "tags": [
+      "mexican",
+      "turkish",
+      "kebabs",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "y"
   }
 ]

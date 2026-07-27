@@ -1,0 +1,74 @@
+{
+  "slug": "yellowed-nutty-vietnamese-tofu-bun-thit-nuong--french",
+  "title": "Vietnamese-Style Grilled Pork with French Baguette",
+  "description": "A fusion of French and Vietnamese flavors, this dish features grilled pork served in a crispy French baguette with pickled carrots and daikon.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "thit (Vietnamese-style pork sausage)",
+      "amount": "1 pound",
+      "notes": "look for a pork sausage with a mix of spices and herbs"
+    },
+    {
+      "name": "bun (French baguette)",
+      "amount": "1",
+      "notes": "preferably day-old or toasted"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "marinated and grilled for added flavor"
+    },
+    {
+      "name": "nuong (Vietnamese chili sauce)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste for spice level"
+    },
+    {
+      "name": "yellowed (pickled carrots and daikon)",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nutty (peanuts or peanut butter)",
+      "amount": "1/4 cup",
+      "notes": "optional for added crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Marinate tofu in nuong and a pinch of salt for at least 30 minutes.",
+    "Grill thit and tofu until cooked through, about 5-7 minutes per side.",
+    "Slice bun into 1-inch pieces and toast until crispy.",
+    "Assemble sandwiches by spreading nuong on bun, adding grilled thit and tofu, and topping with yellowed.",
+    "Garnish with chopped peanuts or peanut butter if using.",
+    "Serve immediately and enjoy!",
+    "For a vegetarian option, omit the thit and add more tofu or other vegetables.",
+    "For a vegan option, replace nuong with a dairy-free alternative and use a vegan-friendly bun."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-pork",
+    "french-vietnamese-fusion",
+    "baguette"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-nutty-vietnamese-tofu-bun-thit-nuong--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:50:49.531Z"
+}

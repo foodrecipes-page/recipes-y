@@ -10224,17 +10224,16 @@
   },
   {
     "slug": "yogurt-marinated-russian-chicken-breast-biryani",
-    "title": "Russian Chicken Breast Biryani",
+    "title": "Grilled Chicken Biryani",
     "tags": [
-      "easy-to-make",
-      "meal-prep",
-      "one-pan",
-      "paleo",
-      "russian",
-      "weeknight"
+      "chicken",
+      "biryani",
+      "indian-cuisine",
+      "lunch",
+      "grilled-chicken"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 70,
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "y"
   },
   {
@@ -17628,6 +17627,46 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 22,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowstone-molten-irish-pecan-nuts-stew--japanese",
+    "title": "Japanese Pecan Nut Stew",
+    "tags": [
+      "japanese-cuisine",
+      "vegetarian-options",
+      "stew-recipe"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-nutty-norwegian-walnut-lasagna--gluten-free",
+    "title": "Norwegian Walnut Lasagna",
+    "tags": [
+      "gluten-free",
+      "norwegian",
+      "lasagna",
+      "walnut",
+      "bechamel"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-smoky-irish-salmon-grill--indian",
+    "title": "Smoked Salmon Tikka Masala",
+    "tags": [
+      "indian",
+      "smoked-salmon",
+      "tikka-masala",
+      "main-course",
+      "fish"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "y"
   }
 ]

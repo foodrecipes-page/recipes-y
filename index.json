@@ -5072,16 +5072,15 @@
   },
   {
     "slug": "yellow-smoky-sardinian-lamb-lasagna",
-    "title": "Yellow Smoky Sardinian Lamb Lasagna",
+    "title": "Sardinian Lamb Lasagna",
     "tags": [
-      "comfort-food",
-      "italian-food",
-      "lamb-recipes",
-      "one-dish-meal",
-      "smoky-flavors"
+      "italian",
+      "lamb",
+      "lasagna",
+      "sardinian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 60,
     "shard": "y"
   },
   {
@@ -17677,6 +17676,31 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 20,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-garlicky-mediterranean-beans-skewers--keto",
+    "title": "Garlicky Yellow Mediterranean Beans Skewers",
+    "tags": [
+      "keto",
+      "mediterranean",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 22,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-nutty-vietnamese-tofu-bun-thit-nuong--french",
+    "title": "Vietnamese-Style Grilled Pork with French Baguette",
+    "tags": [
+      "grilled-pork",
+      "french-vietnamese-fusion",
+      "baguette"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "y"
   }
 ]

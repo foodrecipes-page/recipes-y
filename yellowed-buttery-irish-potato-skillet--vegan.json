@@ -1,0 +1,60 @@
+{
+  "slug": "yellowed-buttery-irish-potato-skillet--vegan",
+  "title": "Golden Irish Skillet Hash",
+  "description": "A vegan twist on a traditional Irish dish, this skillet hash is made with tender potatoes and a hint of yellowed Irish goodness.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish potato",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp vegan butter",
+      "notes": "melted"
+    },
+    {
+      "name": "yellowed",
+      "amount": "1 tsp saffron threads",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium heat.",
+    "Add the vegan butter and allow it to melt.",
+    "Add the diced Irish potatoes and cook for 5 minutes.",
+    "Sprinkle the saffron threads over the potatoes and stir to combine.",
+    "Continue cooking for an additional 10-12 minutes, or until the potatoes are tender and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "vegan",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-buttery-irish-potato-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:33:34.610Z"
+}

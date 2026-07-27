@@ -1,0 +1,82 @@
+{
+  "slug": "yellow-turkish-chinese-long-beans-doner-kebab--mexican",
+  "title": "Mexican-Style Bean and Doner Kebab Tacos",
+  "description": "A flavorful fusion of Mexican and Turkish cuisine, featuring crispy tacos filled with beans, doner kebab meat, and topped with fresh cilantro.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow corn tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "Doner kebab meat",
+      "amount": "1 pound",
+      "notes": "ground lamb or beef"
+    },
+    {
+      "name": "Cooked black beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "Long beans",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing tortillas"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the doner kebab meat with salt and pepper, then grill until browned and cooked through.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the cooked beans onto a tortilla, followed by a slice of doner kebab meat and a sprinkle of cilantro.",
+    "Drizzle the tacos with lime juice and a sprinkle of salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "turkish",
+    "kebabs",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-turkish-chinese-long-beans-doner-kebab--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:24:42.651Z"
+}

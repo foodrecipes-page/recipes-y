@@ -17668,5 +17668,17 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-buttery-irish-potato-skillet--vegan",
+    "title": "Golden Irish Skillet Hash",
+    "tags": [
+      "irish",
+      "vegan",
+      "breakfast"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 20,
+    "shard": "y"
   }
 ]

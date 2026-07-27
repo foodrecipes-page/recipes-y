@@ -17729,5 +17729,19 @@
     "cuisine": "indian",
     "totalTimeMin": 60,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-malaysian-almond-biryani--vegetarian",
+    "title": "Yellowed Vegetable Biryani",
+    "tags": [
+      "vegetarian",
+      "lunch",
+      "dinner",
+      "rice",
+      "malaysian"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 30,
+    "shard": "y"
   }
 ]

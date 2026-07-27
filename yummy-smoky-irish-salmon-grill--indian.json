@@ -1,0 +1,105 @@
+{
+  "slug": "yummy-smoky-irish-salmon-grill--indian",
+  "title": "Smoked Salmon Tikka Masala",
+  "description": "A twist on the classic Indian dish, with the addition of smoky salmon. This recipe is perfect for a special occasion or a romantic dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "4",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "yummy yogurt",
+      "amount": "1 cup",
+      "notes": "plain and unflavored"
+    },
+    {
+      "name": "smoky garam masala",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "grill oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "masala powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together yogurt, garam masala, and salt.",
+    "Add the salmon fillet to the marinade and coat evenly.",
+    "Let it marinate for at least 30 minutes.",
+    "Preheat oven to 400°F (200°C).",
+    "Remove the salmon from the marinade and brush with grill oil.",
+    "Grill the salmon for 2-3 minutes per side, or until cooked through.",
+    "Transfer the salmon to a baking sheet and bake for an additional 5-7 minutes.",
+    "While the salmon is cooking, heat butter in a large pan over medium heat.",
+    "Add the chopped onion, grated ginger, and diced tomato.",
+    "Cook until the onion is translucent, about 5 minutes.",
+    "Add masala powder and cook for an additional minute.",
+    "Stir in the cooked salmon and cook for 2-3 minutes, until the sauce has thickened.",
+    "Serve the Smoked Salmon Tikka Masala hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "smoked-salmon",
+    "tikka-masala",
+    "main-course",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-smoky-irish-salmon-grill--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:50:59.810Z"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "yellow-peppery-malaysian-cheese-sandwich",
+  "title": "Cheesy Yellow Pepper Sandwich",
+  "description": "A simple and flavorful sandwich featuring yellow peppers and melted cheese.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow peppers",
+      "amount": "2 large"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "sandwich bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "peppery spread",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium-high heat.",
+    "Slice the yellow peppers and place them on the bottom slice of bread.",
+    "Sprinkle shredded cheese over the peppers.",
+    "Spread a layer of peppery spread on top of the cheese.",
+    "Place the top slice of bread on the sandwich.",
+    "Cook the sandwich for 3-4 minutes, or until the cheese is melted and the bread is toasted.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "yellow-peppers",
+    "malaysian",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-peppery-malaysian-cheese-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:54:00.580Z"
+}

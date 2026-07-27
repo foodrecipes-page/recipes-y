@@ -1,0 +1,92 @@
+{
+  "slug": "yellow-smoky-sardinian-lamb-lasagna",
+  "title": "Sardinian Lamb Lasagna",
+  "description": "A twist on the classic Italian dish, featuring tender lamb and the flavors of Sardinia. This hearty lasagna is perfect for a special occasion or a cold winter night.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow squash",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sardinian lamb",
+      "amount": "1 lb, ground"
+    },
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, cook the lamb over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the sliced yellow squash to the skillet and cook until tender, about 5 minutes.",
+    "Stir in the smoky paprika and season with salt and black pepper.",
+    "In a medium bowl, combine the ricotta cheese, Parmesan cheese, and eggs. Mix well to combine.",
+    "Spread a layer of the ricotta mixture in the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the ricotta mixture.",
+    "Spread half of the lamb and squash mixture over the noodles.",
+    "Repeat the layers, starting with the noodles, then the ricotta mixture, and finally the remaining lamb and squash mixture.",
+    "Top the lasagna with the grated Parmesan cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "lasagna",
+    "sardinian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-sardinian-lamb-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:32:58.607Z"
+}

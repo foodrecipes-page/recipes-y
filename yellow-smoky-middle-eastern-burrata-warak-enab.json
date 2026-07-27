@@ -1,0 +1,68 @@
+{
+  "slug": "yellow-smoky-middle-eastern-burrata-warak-enab",
+  "title": "Warak Enab with Smoky Feta",
+  "description": "A traditional Middle Eastern dish featuring stuffed grape leaves with smoky feta and a hint of yellow spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Warak Enab",
+      "amount": "20-25 leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "Smoky Feta",
+      "amount": "1/2 cup, crumbled",
+      "notes": "or substitute with vegan feta"
+    },
+    {
+      "name": "Yellow Spice Mix",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Middle Eastern Seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the warak enab leaves and set aside.",
+    "2. In a bowl, mix together the smoky feta, yellow spice mix, and Middle Eastern seasoning.",
+    "3. Lay a warak enab leaf on a flat surface, with the stem end facing you.",
+    "4. Place a small amount of the feta mixture in the center of the leaf.",
+    "5. Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "6. Repeat with the remaining leaves and filling.",
+    "7. Serve the warak enab at room temperature, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "stuffed-grape-leaves",
+    "smoky-feta",
+    "yellow-spice"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-smoky-middle-eastern-burrata-warak-enab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:28:22.374Z"
+}

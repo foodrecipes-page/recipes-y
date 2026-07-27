@@ -1,0 +1,76 @@
+{
+  "slug": "yellow-garlicky-mediterranean-beans-skewers--keto",
+  "title": "Garlicky Yellow Mediterranean Beans Skewers",
+  "description": "Delicious keto dish made with yellow peppers, garlicky flavor, and mediterranean spices, served on skewers with beans.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow peppers",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "mediterranean spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "20",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Alternate yellow peppers, garlic, and green beans on skewers.",
+    "Brush olive oil on the skewers and season with mediterranean spice blend.",
+    "Grill for 10-12 minutes, turning occasionally.",
+    "Squeeze lemon juice on the skewers after grilling.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "mediterranean",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-garlicky-mediterranean-beans-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:16:51.336Z"
+}

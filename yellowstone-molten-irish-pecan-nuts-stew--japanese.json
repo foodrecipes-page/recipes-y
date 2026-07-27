@@ -1,0 +1,62 @@
+{
+  "slug": "yellowstone-molten-irish-pecan-nuts-stew--japanese",
+  "title": "Japanese Pecan Nut Stew",
+  "description": "A fusion of Japanese and American flavors, this stew brings together the nutty taste of pecan nuts and the savory taste of stew.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pecan nuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Irish stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Yellowstone potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Molten soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Nuts (optional)",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the potatoes, soy sauce, and enough water to cover the ingredients.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the pecan nuts and continue to simmer for another 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional nuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "vegetarian-options",
+    "stew-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowstone-molten-irish-pecan-nuts-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:03:22.122Z"
+}

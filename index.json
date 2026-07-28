@@ -17924,5 +17924,18 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-flaky-german-buns-bao--french",
+    "title": "French Bao Baguette",
+    "tags": [
+      "french",
+      "bacon",
+      "gruyère",
+      "croque-monsieur"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

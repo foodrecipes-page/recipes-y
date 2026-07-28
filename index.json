@@ -17819,5 +17819,30 @@
     "cuisine": "Algerian",
     "totalTimeMin": 45,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-turkish-bulgur-kisir--vegan",
+    "title": "Turkish Bulgur Kisir Salad (Vegan)",
+    "tags": [
+      "vegan",
+      "salad",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 15,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-golden-croatian-taleggio-frittata--chinese",
+    "title": "Croatian Taleggio Frittata with Golden Crostini",
+    "tags": [
+      "chinese",
+      "breakfast",
+      "eggs",
+      "cheese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "y"
   }
 ]

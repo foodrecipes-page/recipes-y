@@ -1,0 +1,81 @@
+{
+  "slug": "yummy-tangy-kenyan-meat-kebabs--indian",
+  "title": "Kenyan Kebab Tikka Masala",
+  "description": "A fusion of Indian and Kenyan flavors, this dish features marinated kebab meat in a rich and creamy tikka masala sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan Kebab Meat (Lamb or Beef)",
+      "amount": "500g"
+    },
+    {
+      "name": "yummy Yogurt",
+      "amount": "250ml"
+    },
+    {
+      "name": "tangy Lemon Juice",
+      "amount": "100ml"
+    },
+    {
+      "name": "kebabs Curry Powder",
+      "amount": "20g"
+    },
+    {
+      "name": "meat Garam Masala",
+      "amount": "10g"
+    },
+    {
+      "name": "yummy Olive Oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "tangy Tomato Puree",
+      "amount": "200g"
+    },
+    {
+      "name": "yummy Heavy Cream",
+      "amount": "150g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Marinate the kebab meat in a mix of yogurt, lemon juice, curry powder, and garam masala for at least 2 hours.",
+    "2. Preheat the grill to medium-high heat.",
+    "3. Grill the marinated kebab meat for 5-7 minutes per side, or until cooked through.",
+    "4. In a pan, heat the olive oil over medium heat.",
+    "5. Add the tomato puree and cook for 5 minutes, stirring occasionally.",
+    "6. Stir in the heavy cream and bring to a simmer.",
+    "7. Add the grilled kebab meat to the sauce and simmer for 5 minutes.",
+    "8. Season with salt to taste.",
+    "9. Serve the kebab tikka masala hot, garnished with chopped cilantro if desired.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "tikka-masala",
+    "indian-cuisine",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-tangy-kenyan-meat-kebabs--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:57:20.587Z"
+}

@@ -17937,5 +17937,31 @@
     "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-char-croatian-sweet-potatoes-skewers--thai",
+    "title": "Spicy Sweet Potato Skewers",
+    "tags": [
+      "thaifood",
+      "sweetpotatoes",
+      "grilledveggies"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "y"
+  },
+  {
+    "slug": "yellowed-filipino-duck-legs-skewers--german",
+    "title": "German-Style Grilled Duck Skewers",
+    "tags": [
+      "german-cuisine",
+      "grilled",
+      "skewers",
+      "duck",
+      "asian-inspired"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "y"
   }
 ]

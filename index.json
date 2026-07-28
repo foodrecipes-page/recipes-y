@@ -17768,5 +17768,43 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-mellow-filipino-vegetable-pinakbet--french",
+    "title": "Pinakbet French Fusion Risotto",
+    "tags": [
+      "risotto",
+      "pinakbet",
+      "french-fusion",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-aerated-malaysian-celeria-aerated-celery-bowl--keto",
+    "title": "Keto Celery Celeria Soup",
+    "tags": [
+      "keto",
+      "soup",
+      "celery",
+      "celeria"
+    ],
+    "cuisine": "vegetarian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-and-tangy-mexican-chiles-quesadilla--japanese",
+    "title": "Japanese Quesadilla Rolls",
+    "tags": [
+      "japanese-mexican-fusion",
+      "sushi-quesadilla",
+      "unique-recipe"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "y"
   }
 ]

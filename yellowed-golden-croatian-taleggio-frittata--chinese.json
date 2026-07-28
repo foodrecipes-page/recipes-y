@@ -1,0 +1,63 @@
+{
+  "slug": "yellowed-golden-croatian-taleggio-frittata--chinese",
+  "title": "Croatian Taleggio Frittata with Golden Crostini",
+  "description": "A unique twist on traditional Chinese dim sum, this Croatian Taleggio frittata is served with crispy golden crostini.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Croatian Taleggio cheese",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Golden crostini (baguette slices)",
+      "amount": "8-10 slices",
+      "notes": "Toasted until golden"
+    },
+    {
+      "name": "Yellowed onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Frittata eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a skillet, sauté the sliced yellowed onions until softened.",
+    "In a bowl, whisk together the frittata eggs and season with salt and pepper.",
+    "Add the Croatian Taleggio cheese to the eggs and mix well.",
+    "Pour the egg mixture over the sautéed onions in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "While the frittata is baking, toast the golden crostini until crispy.",
+    "Serve the frittata with the crispy crostini on the side.",
+    "Garnish with additional Taleggio cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "breakfast",
+    "eggs",
+    "cheese"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-golden-croatian-taleggio-frittata--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:13:29.077Z"
+}

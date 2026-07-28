@@ -17963,5 +17963,18 @@
     "cuisine": "german",
     "totalTimeMin": 30,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-peruvian-boudin-noir-picarones--mexican",
+    "title": "Picarones con Cajeta y Cajeta de Cajeta",
+    "tags": [
+      "picarones",
+      "cajeta",
+      "sweetpotato",
+      "peruvian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
+    "shard": "y"
   }
 ]

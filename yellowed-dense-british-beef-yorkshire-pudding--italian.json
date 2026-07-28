@@ -1,0 +1,74 @@
+{
+  "slug": "yellowed-dense-british-beef-yorkshire-pudding--italian",
+  "title": "Yorkshire Beef Pudding Bites Italian Style",
+  "description": "A twist on the classic British dish, these bite-sized Yorkshire beef pudding treats are infused with Italian flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground beef"
+    },
+    {
+      "name": "yellowed",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "dense",
+      "amount": "2 eggs",
+      "notes": "large eggs"
+    },
+    {
+      "name": "british",
+      "amount": "1 cup",
+      "notes": "milk"
+    },
+    {
+      "name": "yorkshire",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 cup",
+      "notes": "grated Parmesan cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a bowl, combine ground beef, flour, eggs, milk, and a pinch of salt. Mix well.",
+    "Add 1 cup of Yorkshire flour and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into 12 equal pieces.",
+    "Shape each piece into a ball and then flatten slightly into a disk.",
+    "Place the disks on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Remove from oven and sprinkle with Parmesan cheese.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "snack",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-dense-british-beef-yorkshire-pudding--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:18:27.545Z"
+}

@@ -17844,5 +17844,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "y"
+  },
+  {
+    "slug": "yummy-tangy-kenyan-meat-kebabs--indian",
+    "title": "Kenyan Kebab Tikka Masala",
+    "tags": [
+      "kebab",
+      "tikka-masala",
+      "indian-cuisine",
+      "grill"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-fluffy-uruguayan-gelatin-pudding--indian",
+    "title": "Uruguayan Pudding Panna Cotta",
+    "tags": [
+      "dessert",
+      "indian",
+      "pudding",
+      "gelatin",
+      "uruguayan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "y"
   }
 ]

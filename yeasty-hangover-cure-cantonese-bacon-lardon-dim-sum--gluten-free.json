@@ -1,0 +1,79 @@
+{
+  "slug": "yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum--gluten-free",
+  "title": "Cantonese-Style Bacon and Lardon Stir-Fry",
+  "description": "A savory and aromatic stir-fry made with crispy bacon and lardon, served with a side of steamed vegetables. This dish is gluten-free, making it a great option for those with dietary restrictions.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "preferably thick-cut"
+    },
+    {
+      "name": "Lardon",
+      "amount": "4 slices",
+      "notes": "preferably thick-cut"
+    },
+    {
+      "name": "Cantonese",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade stir-fry sauce"
+    },
+    {
+      "name": "Vegetables (such as broccoli, carrots, and bell peppers)",
+      "amount": "1 cup",
+      "notes": "any combination of your favorite vegetables"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tbsp",
+      "notes": "such as peanut or vegetable oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the sliced bacon and cook until crispy, about 3-4 minutes.",
+    "Add the sliced lardon and cook for an additional 2 minutes.",
+    "Add the Cantonese stir-fry sauce and stir to combine.",
+    "Add the steamed vegetables and stir-fry for 2-3 minutes, until they are tender-crisp.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "lardon",
+    "stir-fry",
+    "gluten-free",
+    "cantonesestyle"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:18:07.135Z"
+}

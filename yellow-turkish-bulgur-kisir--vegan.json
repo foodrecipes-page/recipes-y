@@ -1,0 +1,72 @@
+{
+  "slug": "yellow-turkish-bulgur-kisir--vegan",
+  "title": "Turkish Bulgur Kisir Salad (Vegan)",
+  "description": "A twist on the classic Turkish salad, made with bulgur, vegetables and a tangy dressing.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bulgur",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Spice Blend (Turkish Red Pepper, Salt, Black Pepper)",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur and soak it in water for 30 minutes. Drain and set aside.",
+    "In a large bowl, combine the diced onion, tomato, cucumber, and bell pepper.",
+    "Add the soaked bulgur to the bowl and mix well.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Pour the dressing over the bulgur mixture and toss to coat.",
+    "Sprinkle the spice blend over the top and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-turkish-bulgur-kisir--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:56:01.426Z"
+}

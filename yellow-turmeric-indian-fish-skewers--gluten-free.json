@@ -1,0 +1,88 @@
+{
+  "slug": "yellow-turmeric-indian-fish-skewers--gluten-free",
+  "title": "Indian-Style Yellow Fish Skewers",
+  "description": "A flavorful and spicy gluten-free dish, perfect for a quick and easy lunch or dinner. Marinated fish cooked to perfection on skewers, served with a side of turmeric-infused flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (any white fish, cut into 1-inch cubes)",
+      "amount": "1 pound",
+      "notes": "such as tilapia or mahi-mahi"
+    },
+    {
+      "name": "Yellow Turmeric Marinade",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Indian-Style Skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together turmeric marinade, lime juice, ginger, cayenne pepper, salt, and black pepper.",
+    "3. Add the fish cubes to the marinade and mix well to coat.",
+    "4. Thread the marinated fish onto the wooden skewers, leaving a small space between each cube.",
+    "5. Brush the skewers with olive oil.",
+    "6. Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through and slightly charred.",
+    "7. Serve hot with a side of steamed vegetables or rice, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "indian",
+    "gluten-free",
+    "skewers",
+    "yellow-turmeric"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-turmeric-indian-fish-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:22:19.829Z"
+}

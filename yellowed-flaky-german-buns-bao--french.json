@@ -1,0 +1,88 @@
+{
+  "slug": "yellowed-flaky-german-buns-bao--french",
+  "title": "French Bao Baguette",
+  "description": "A fusion of French and Asian flavors in a delicious, crispy baguette sandwich.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German buns",
+      "amount": "4",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Yellowed buns (for croutons)",
+      "amount": "2",
+      "notes": "tear into small pieces"
+    },
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Softened butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Caramelized onion jam",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "2 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the German buns in half lengthwise and toast until lightly browned.",
+    "Crumble the yellowed buns into small pieces and toast until crispy.",
+    "On a lightly floured surface, roll out the pastry dough to a large rectangle.",
+    "Spread the softened butter evenly over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the caramelized onion jam over the butter, leaving a 1-inch border around the edges.",
+    "Arrange the Gruyère cheese slices on top of the onion jam.",
+    "Add the cooked bacon (if using) on top of the cheese.",
+    "Place the toasted buns on top of the filling, cut-side up.",
+    "Fold the pastry dough over the buns, pressing gently to seal.",
+    "Bake for 15-20 minutes, or until the pastry is golden brown and the cheese is melted.",
+    "Garnish with chopped fresh thyme and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "bacon",
+    "gruyère",
+    "croque-monsieur"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-flaky-german-buns-bao--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:35:15.301Z"
+}

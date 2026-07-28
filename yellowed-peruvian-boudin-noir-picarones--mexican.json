@@ -1,0 +1,72 @@
+{
+  "slug": "yellowed-peruvian-boudin-noir-picarones--mexican",
+  "title": "Picarones con Cajeta y Cajeta de Cajeta",
+  "description": "Picarones are traditional Peruvian doughnuts that are typically served with cajeta, a sweet sauce made from goat's milk. This recipe combines the two with a twist by using a yellowed variety of sweet potato for added depth of flavor.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peruvian picarones flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yellowed sweet potato",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "Bourbon",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Anise",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cajeta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "Using a piping bag or a plastic bag with a corner cut off, pipe the dough into rings.",
+    "Fry the picarones for 2-3 minutes on each side, or until golden brown.",
+    "Drain the picarones on paper towels and dust with cinnamon and anise.",
+    "In a medium saucepan, combine the cajeta and heavy cream.",
+    "Bring the mixture to a simmer over medium heat.",
+    "Reduce the heat to low and let cook for 5-7 minutes, or until the sauce thickens slightly.",
+    "Serve the picarones warm with the cajeta sauce drizzled on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "picarones",
+    "cajeta",
+    "sweetpotato",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-peruvian-boudin-noir-picarones--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:00:51.306Z"
+}

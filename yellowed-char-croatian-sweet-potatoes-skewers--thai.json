@@ -1,0 +1,67 @@
+{
+  "slug": "yellowed-char-croatian-sweet-potatoes-skewers--thai",
+  "title": "Spicy Sweet Potato Skewers",
+  "description": "A Thai-inspired dish featuring sweet potato skewers with a spicy kick. This recipe is perfect for a quick and easy meal.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellowed potatoes, peeled and cut into 1-inch pieces",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Char croatian paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sweet chili peppers, sliced",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread potatoes, chili peppers, and onions onto skewers.",
+    "Brush with vegetable oil and season with salt, black pepper, and Croatian paprika.",
+    "Grill for 10-12 minutes, turning occasionally, or until potatoes are tender.",
+    "Garnish with chopped Thai basil, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "sweetpotatoes",
+    "grilledveggies"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-char-croatian-sweet-potatoes-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:10:31.432Z"
+}

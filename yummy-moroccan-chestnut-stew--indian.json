@@ -1,0 +1,87 @@
+{
+  "slug": "yummy-moroccan-chestnut-stew--indian",
+  "title": "Moroccan-Style Indian Stew",
+  "description": "A flavorful and spicy stew made with the warmth of Indian spices and the earthiness of chestnuts.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chestnut",
+      "amount": "1 cup, peeled and cubed"
+    },
+    {
+      "name": "yummy",
+      "amount": "2 medium-sized, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium-sized, chopped",
+      "notes": "common ingredient"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, grated"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger; sauté until the onion is translucent.",
+    "Add cumin powder, coriander powder, turmeric powder, and red chili powder; sauté for 1 minute.",
+    "Add the diced yummy and stir well.",
+    "Add chestnut, salt, and water; bring to a boil.",
+    "Reduce the heat to low and simmer for 25 minutes.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stew",
+    "chestnut",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-moroccan-chestnut-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:30:50.494Z"
+}

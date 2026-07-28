@@ -17871,5 +17871,46 @@
     "cuisine": "indian",
     "totalTimeMin": 15,
     "shard": "y"
+  },
+  {
+    "slug": "yeasty-hangover-cure-cantonese-bacon-lardon-dim-sum--gluten-free",
+    "title": "Cantonese-Style Bacon and Lardon Stir-Fry",
+    "tags": [
+      "bacon",
+      "lardon",
+      "stir-fry",
+      "gluten-free",
+      "cantonesestyle"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yellow-turmeric-indian-fish-skewers--gluten-free",
+    "title": "Indian-Style Yellow Fish Skewers",
+    "tags": [
+      "fish",
+      "indian",
+      "gluten-free",
+      "skewers",
+      "yellow-turmeric"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "y"
+  },
+  {
+    "slug": "yummy-moroccan-chestnut-stew--indian",
+    "title": "Moroccan-Style Indian Stew",
+    "tags": [
+      "indian",
+      "stew",
+      "chestnut",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "y"
   }
 ]

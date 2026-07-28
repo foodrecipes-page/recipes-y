@@ -1,0 +1,88 @@
+{
+  "slug": "yellowed-mellow-filipino-vegetable-pinakbet--french",
+  "title": "Pinakbet French Fusion Risotto",
+  "description": "A unique fusion of Filipino and French cuisine, featuring a flavorful Pinakbet-infused risotto.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": "yellowed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pinakbet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the Pinakbet and cook for 2-3 minutes, stirring occasionally.",
+    "Add the Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine and cook until the liquid is almost completely absorbed, stirring constantly.",
+    "Add 1 cup of vegetable broth to the rice mixture and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding the broth and cooking until the rice is tender and creamy, about 20-25 minutes.",
+    "Remove the skillet from the heat and stir in the grated Parmesan cheese.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "risotto",
+    "pinakbet",
+    "french-fusion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-mellow-filipino-vegetable-pinakbet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:29:32.471Z"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "yummy-aerated-malaysian-celeria-aerated-celery-bowl--keto",
+  "title": "Keto Celery Celeria Soup",
+  "description": "A low-carb, creamy soup made with celery and celeria, perfect for a keto diet.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "celeria",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "yummy",
+      "amount": "1",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Melt 2 tablespoons of butter in a large pot over medium heat.",
+    "Add the chopped celery and celeria, and cook until tender, about 5 minutes.",
+    "Pour in 2 cups of chicken broth and bring to a boil.",
+    "Reduce the heat and simmer for 10 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with a sprinkle of yummy.",
+    "Enjoy your keto celery celeria soup!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "soup",
+    "celery",
+    "celeria"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-aerated-malaysian-celeria-aerated-celery-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:16:36.053Z"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "yummy-and-tangy-mexican-chiles-quesadilla--japanese",
+  "title": "Japanese Quesadilla Rolls",
+  "description": "A fusion of Japanese and Mexican flavors, these quesadilla rolls are an interesting twist on traditional sushi.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yummy Tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "And Chiles",
+      "amount": ".5 cups, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Queso",
+      "amount": ".25 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mexican Quesadilla Filling",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Sushi Rice",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat.",
+    "Place a tortilla in the skillet and sprinkle with sushi rice, leaving a 1-inch border around the edges.",
+    "Add a spoonful of quesadilla filling in the center of the rice.",
+    "Add sliced chiles on top of the quesadilla filling.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the tortilla up tightly.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-mexican-fusion",
+    "sushi-quesadilla",
+    "unique-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-and-tangy-mexican-chiles-quesadilla--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:23:38.208Z"
+}

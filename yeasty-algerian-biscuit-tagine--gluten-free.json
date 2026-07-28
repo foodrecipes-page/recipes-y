@@ -1,0 +1,63 @@
+{
+  "slug": "yeasty-algerian-biscuit-tagine--gluten-free",
+  "title": "Traditional Algerian Gluten-Free Yeast Bread",
+  "description": "A delicious and authentic Algerian bread made with traditional ingredients and a touch of yeast for a soft and fluffy texture. Perfect for serving with your favorite Moroccan or Middle Eastern dishes.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "yeasty",
+      "amount": "3 cups",
+      "notes": null
+    },
+    {
+      "name": "algerian",
+      "amount": "2 teaspoons",
+      "notes": " Active dry yeast"
+    },
+    {
+      "name": "biscuit",
+      "amount": "1 cup",
+      "notes": "Almond milk or gluten-free milk"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": "Coconut oil or olive oil"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the yeast and warm almond milk. Stir to dissolve the yeast and let it sit for 5-10 minutes until it becomes frothy.",
+    "2. Add the gluten-free flour, salt, and sugar to the bowl. Mix until a shaggy dough forms.",
+    "3. Knead the dough for 10-12 minutes until it becomes smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1-2 hours until it doubles in size.",
+    "5. Preheat the oven to 375°F (190°C).",
+    "6. Punch down the dough and shape it into a round or oblong loaf.",
+    "7. Place the loaf on a baking sheet lined with parchment paper, and bake for 25-30 minutes until it's golden brown.",
+    "8. Remove the bread from the oven and let it cool on a wire rack for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "bread",
+    "gluten-free",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yeasty-algerian-biscuit-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:03:47.943Z"
+}

@@ -17806,5 +17806,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 15,
     "shard": "y"
+  },
+  {
+    "slug": "yeasty-algerian-biscuit-tagine--gluten-free",
+    "title": "Traditional Algerian Gluten-Free Yeast Bread",
+    "tags": [
+      "algerian",
+      "bread",
+      "gluten-free",
+      "yeast"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "y"
   }
 ]

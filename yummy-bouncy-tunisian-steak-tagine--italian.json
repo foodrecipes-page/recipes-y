@@ -1,0 +1,69 @@
+{
+  "slug": "yummy-bouncy-tunisian-steak-tagine--italian",
+  "title": "Tagine-Style Steak with Herbs",
+  "description": "A twist on traditional Italian steak, incorporating flavors from Tunisia and herbs.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "1.5 lbs",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "yummy",
+      "amount": "2 tbsp",
+      "notes": "olive oil for cooking"
+    },
+    {
+      "name": "tunisian",
+      "amount": "1 tsp",
+      "notes": "ground cumin for spice"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup",
+      "notes": "chicken broth for basting"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1 cup",
+      "notes": "fresh parsley for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the steak with salt, pepper, and ground cumin.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the steak for 2-3 minutes per side, then transfer to the oven.",
+    "Baste the steak with chicken broth every 10 minutes for 20-25 minutes, or until it reaches your desired level of doneness.",
+    "Let the steak rest for 5 minutes before slicing.",
+    "Garnish with fresh parsley and serve immediately.",
+    "Optional: serve with a side of roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "steak",
+    "herbs",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-bouncy-tunisian-steak-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:25:58.883Z"
+}

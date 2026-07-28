@@ -1,0 +1,88 @@
+{
+  "slug": "yellowed-filipino-duck-legs-skewers--german",
+  "title": "German-Style Grilled Duck Skewers",
+  "description": "A twist on traditional German cuisine, these grilled duck skewers are marinated in a mixture of Asian-inspired flavors and grilled to perfection.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Yellowed onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Filipino-style soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine soy sauce, brown sugar, garlic, ginger, salt, and black pepper. Blend until smooth.",
+    "Add the chopped onion to the blender and blend until well combined.",
+    "Add the olive oil and blend until emulsified.",
+    "Place the duck legs in a large bowl and pour the marinade over them.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the duck legs onto skewers, leaving a little space between each piece.",
+    "Grill the skewers for 5-7 minutes per side, or until the duck is cooked through.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "grilled",
+    "skewers",
+    "duck",
+    "asian-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-filipino-duck-legs-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:54:22.340Z"
+}

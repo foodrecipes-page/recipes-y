@@ -17989,5 +17989,18 @@
     "cuisine": null,
     "totalTimeMin": 180,
     "shard": "y"
+  },
+  {
+    "slug": "yellow-peppery-malaysian-cheese-sandwich--mexican",
+    "title": "Spicy Cheese Quesadilla",
+    "tags": [
+      "mexican",
+      "cheese",
+      "quesadilla",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 11,
+    "shard": "y"
   }
 ]

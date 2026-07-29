@@ -1,0 +1,59 @@
+{
+  "slug": "yummy-croatian-bread-flour-bowl--italian",
+  "title": "Italian Focaccia Bread",
+  "description": "A classic Italian bread, perfect for snacking or serving with your favorite pasta dishes.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yummy",
+      "amount": "1/2 teaspoon active dry yeast"
+    },
+    {
+      "name": "croatian",
+      "amount": "1 1/2 cups all-purpose flour",
+      "notes": "use unbleached all-purpose flour"
+    },
+    {
+      "name": "bread",
+      "amount": "1/4 teaspoon salt"
+    },
+    {
+      "name": "bowl",
+      "amount": "1 tablespoon olive oil"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine yeast and warm water. Let it sit for 5-7 minutes until frothy.",
+    "2. Add flour, salt, and olive oil to the bowl. Mix until a shaggy dough forms.",
+    "3. Knead the dough on a floured surface for 10-12 minutes until smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "5. Preheat the oven to 425°F (220°C).",
+    "6. Punch down the dough and shape it into a rectangle.",
+    "7. Place the dough on a baking sheet lined with parchment paper.",
+    "8. Dimple the dough with your fingers, then sprinkle with coarse salt.",
+    "9. Bake for 15-20 minutes until golden brown.",
+    "10. Remove from the oven and let it cool on a wire rack for 5 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "bread",
+    "focaccia"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-croatian-bread-flour-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:38:45.184Z"
+}

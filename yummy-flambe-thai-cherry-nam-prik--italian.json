@@ -1,0 +1,71 @@
+{
+  "slug": "yummy-flambe-thai-cherry-nam-prik--italian",
+  "title": "Cherry Flambe Italian Dessert",
+  "description": "A unique Italian dessert recipe featuring cherry flambe, combining sweet and tangy flavors.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "flambe",
+      "amount": "2 tablespoons",
+      "notes": "cooking liqueur"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure extract"
+    },
+    {
+      "name": "prik",
+      "amount": "1/4 teaspoon",
+      "notes": "ground, optional"
+    },
+    {
+      "name": "yummy",
+      "amount": "1/4 teaspoon",
+      "notes": "ground, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the cherries and remove stems.",
+    "Mix together sugar, flambe, and vanilla extract in a bowl.",
+    "Add the cherry mixture to a baking dish and sprinkle with prik and yummy (if using).",
+    "Bake for 20-25 minutes, or until the cherries are tender.",
+    "Serve warm, topped with a scoop of ice cream or whipped cream (optional).",
+    "If using frozen cherries, thaw and pat dry with paper towels before using.",
+    "Adjust the amount of flambe to your taste for a stronger or milder flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "dessert",
+    "cherry",
+    "flambe"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 35,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yummy-flambe-thai-cherry-nam-prik--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:42:02.969Z"
+}

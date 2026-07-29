@@ -1,0 +1,63 @@
+{
+  "slug": "yellow-peppery-malaysian-cheese-sandwich--mexican",
+  "title": "Spicy Cheese Quesadilla",
+  "description": "A flavorful Mexican dish featuring melted cheese and a kick of heat.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "peppery sandwich spread",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "malaysian chili flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "tortilla",
+      "amount": "2",
+      "notes": "large flour tortillas"
+    }
+  ],
+  "instructions": [
+    "1. Heat a non-stick skillet over medium heat.",
+    "2. Place one tortilla in the skillet and sprinkle with cheese.",
+    "3. Spread a layer of peppery sandwich spread on top of the cheese.",
+    "4. Sprinkle malaysian chili flakes over the sandwich spread.",
+    "5. Fold the tortilla in half to enclose the filling.",
+    "6. Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "7. Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is crispy.",
+    "8. Cut the quesadilla into wedges and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "cheese",
+    "quesadilla",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellow-peppery-malaysian-cheese-sandwich--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:30:19.437Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "yellowed-creamy-german-lamb-stew--gluten-free",
+  "title": "Lamb and German Stew",
+  "description": "A hearty and flavorful stew made with tender lamb and German-style vegetables, perfect for a cold winter's night.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "german mustard",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "yellowed wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "stew broth",
+      "amount": "4 cups",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove lamb and set aside.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add carrot and potato and cook for an additional 5 minutes.",
+    "Stir in German mustard and tomato paste (if using) and cook for 1 minute.",
+    "Add wine (if using) and cook until reduced by half, about 5 minutes.",
+    "Add stew broth and bring to a boil.",
+    "Return lamb to the pot and cover.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours, or until lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "german",
+    "stew",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/yellowed-creamy-german-lamb-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:21:13.977Z"
+}

@@ -17976,5 +17976,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 50,
     "shard": "y"
+  },
+  {
+    "slug": "yellowed-creamy-german-lamb-stew--gluten-free",
+    "title": "Lamb and German Stew",
+    "tags": [
+      "lamb",
+      "german",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 180,
+    "shard": "y"
   }
 ]
